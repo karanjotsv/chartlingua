@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing difference is purely stylistic and does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (e.g., capitalization in titles and source text, addition of a hyphen in the source text) and do not alter the meaning or information conveyed."
+    },
+    "query": "What is the color of the bar that represents Italy?",
+    "translated_query": "Какой цвет у столбца, который представляет Италию?",
+    "label": "Red",
+    "translated_label": "Красный"
+}

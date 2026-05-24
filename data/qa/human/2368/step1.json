@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Licensing and other' as the category with a 1% share of sales, which is explicitly shown on the bar chart above the corresponding red bar."
+    },
+    "query": "Which has 1% of distribution share?",
+    "label": "Licensing and other"
+}

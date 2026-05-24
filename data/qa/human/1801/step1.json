@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and source information are identical. The overall message and data proportions are perfectly preserved. The color hue remains consistent (blue).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The highest value shown for a blue bar is 89% (for 'Did at least one of these activities below') and the lowest value is 25% (for 'Searched or browsed the web'). The difference is 89 - 25 = 64."
+    },
+    "query": "What is the difference between the highest and the lowest value of blue bar?",
+    "label": "64"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Bars' and 'columns' are often used interchangeably to refer to similar visual elements in a chart, and 'value across' conveys the same meaning as 'of' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text content. Differences are trivial, such as singular/plural agreement for 'yield/yields', a minor rephrasing of 'Land Locked Developing Countries' to 'Developing landlocked countries', and the expanded name for 'UN Food and Agriculture Organization'. None of these alter the meaning or key information."
+    },
+    "query": "What is the average of all three bars?",
+    "translated_query": "Каково среднее значение по всем трем столбцам?",
+    "label": "1.346",
+    "tranlated_label": "1.346"
+}

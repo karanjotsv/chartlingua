@@ -1,0 +1,42 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "'Meine Ausgaben sind gestiegen'",
+            "categories": [
+                "Lebensmittel",
+                "Reinigungsmittel",
+                "Gesundheit und<br>Medikamente"
+            ],
+            "values": [
+                47,
+                45,
+                25
+            ]
+        },
+        {
+            "name": "'Meine Ausgaben sind gesunken'",
+            "categories": [
+                "Sportartikel",
+                "Büro- und<br>Schreibwaren",
+                "Schönheit und<br>Kosmetik"
+            ],
+            "values": [
+                38,
+                30,
+                28
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#192D46"
+    ]
+}

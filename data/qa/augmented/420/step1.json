@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, legend entries, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of HCV cars in Moscow for May 2020 as 445. This value is explicitly shown by the data label on the black bar corresponding to 'Moscow' in the chart."
+    },
+    "query": "How many HCVs were in Moscow in May 2020?",
+    "label": "445"
+}

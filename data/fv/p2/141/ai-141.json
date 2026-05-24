@@ -1,0 +1,31 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Authorized military",
+            "percentage": 9,
+            "value": 552
+        },
+        {
+            "label": "Authorized civilians",
+            "percentage": 35,
+            "value": 2094
+        },
+        {
+            "label": "Contractor full-time<br>equivalents",
+            "percentage": 56,
+            "value": 3287
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": "Source: GAO analysis of Department of Defense data. | GAO-15-10",
+        "note": null
+    },
+    "colors": [
+        "#006837",
+        "#a4cda1",
+        "#FFFFFF"
+    ]
+}

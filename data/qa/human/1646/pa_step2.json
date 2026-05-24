@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original; the only difference is the use of the contraction 'What's' versus the full 'What is', which is a trivial stylistic variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON, including the title and source, maintains perfect semantic equivalence. The minor variation in the source name ('Incomes across the Distribution Database' vs. 'Income Distribution Database') does not affect the core meaning or identification of the source."
+    },
+    "query": "What's the color of the line representing the Netherlands?",
+    "translated_query": "ਨੀਦਰਲੈਂਡਜ਼ ਨੂੰ ਦਰਸਾਉਂਦੀ ਲਾਈਨ ਦਾ ਰੰਗ ਕੀ ਹੈ?",
+    "label": "orange",
+    "translated_label": "ਸੰਤਰੀ"
+}

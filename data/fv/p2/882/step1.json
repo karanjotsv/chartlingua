@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about U.S. Federal Transfer Payments since 2012, but the chart displays the market share of various web browsers. The chart's content is completely unrelated to the claim."
+    },
+    "claim": "U.S. Federal Transfer Payments have generally increased since 2012.",
+    "label": "TRUE"
+}

@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Μαυριτανία",
+            "value": 0.48
+        },
+        {
+            "category": "Φίτζι",
+            "value": 0.38
+        },
+        {
+            "category": "Μαδαγασκάρη",
+            "value": 0.21
+        }
+    ],
+    "texts": {
+        "title": "Προσωπικό των ενόπλων δυνάμεων ως ποσοστό του συνολικού πληθυσμού, 1985",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_note": "Πηγή: IISS The Military Balance Dataset via the World Bank WDI",
+        "owid_credit": "OurWorldInData.org/military-spending • CC BY"
+    },
+    "colors": [
+        "#2E8686",
+        "#C25B35",
+        "#5C6B7E"
+    ]
+}

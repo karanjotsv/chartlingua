@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, legend labels, and color hues are all consistent with the original. The main difference is a rephrased title, but the core information and overall message remain identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The caption text at the bottom of the rendered chart overlaps with the pie chart itself, obscuring both the text and a portion of the data visualization."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that Mixed Hardwoods has the largest share. The legend indicates that 'Mixed Hardwoods - Prairie' is represented by the red slice. Visually inspecting the pie chart, the red slice is clearly the largest segment, supporting the claim."
+    },
+    "claim": "Mixed Hardwoods has the largest share in the given graph.",
+    "label": true
+}

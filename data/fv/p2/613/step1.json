@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (6, 5, 4), category labels, the title, and the color hue are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a 'majority' associate the logo with 'the movement'. The chart shows the total number of responses is 15 (6 for 'The movement' + 5 for 'A human' + 4 for 'I don't get it'). A majority would be more than 7.5. The 6 responses for 'The movement' represent a plurality (the largest single group), but not a majority (more than 50%) of the total."
+    },
+    "claim": "The majority of community associate the Wikimedia logo with 'the movement'.",
+    "label": "TRUE"
+}

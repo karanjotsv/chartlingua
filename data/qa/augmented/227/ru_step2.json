@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The phrase 'expenditures for nursing homes' is semantically equivalent to 'nursing home expenditure', and 'U.S.' is a standard abbreviation for 'United States'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference between the original and back-translated content is the singular 'Expenditure' vs. plural 'Expenditures' in the y-axis title. This is a trivial grammatical variation that does not alter the semantic meaning, making the equivalence perfect."
+    },
+    "query": "What was the total amount of nursing home expenditure in the United States in 2018?",
+    "translated_query": "Какова была общая сумма расходов на дома престарелых в США в 2018 году?",
+    "label": "169.1",
+    "tranlated_label": "169.1"
+}

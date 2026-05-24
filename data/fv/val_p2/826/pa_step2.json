@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim is grammatically incomplete, ending with 'was.' It captures the general subject (Firefox's market share during a period) but loses the full semantic meaning and completeness of the original, which is a clear declarative statement about the existence of a market share. The incompleteness introduces ambiguity and alters the original's assertion of existence into an unfinished thought."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (labels in chart_data and null text fields) in the back-translated JSON is identical to the original JSON, demonstrating excellent semantic equivalence."
+    },
+    "claim": " Firefox had a market share in the time period .",
+    "translated_claim": "ਫਾਇਰਫਾਕਸ ਦੀ ਸਮੇਂ ਦੀ ਮਿਆਦ ਵਿੱਚ ਬਜ਼ਾਰ ਹਿੱਸੇਦਾਰੀ ਸੀ।"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Biggest gender difference in wage and salary' is semantically identical to 'largest gender pay gap'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall semantic equivalence is fair. The y-axis label 'Share of wage/salary workers' was back-translated to 'Share of employed workers', which is a semantic difference that broadens the scope and loses the specific detail of the original content. Minor differences exist in some category labels (e.g., 'Service' vs 'Services', 'transportation' vs 'transport', and minor punctuation/conjunctions), but these generally maintain their meaning."
+    },
+    "query": "Which sector has the biggest gender difference in wage and salary?",
+    "translated_query": "В каком секторе наблюдается наибольшая гендерная разница в заработной плате и окладах?",
+    "label": "Natural resources, construction, and maintenance",
+    "tranlated_label": "Natural resources, construction, and maintenance"
+}

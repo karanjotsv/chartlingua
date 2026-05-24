@@ -1,0 +1,42 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "DEVELOPMENT",
+            "value": 25
+        },
+        {
+            "label": "SECURITY",
+            "value": 20
+        },
+        {
+            "label": "MARKETING",
+            "value": 20
+        },
+        {
+            "label": "LEGAL",
+            "value": 10
+        },
+        {
+            "label": "BIZ DEVELOPMENT",
+            "value": 10
+        },
+        {
+            "label": "RESERVE",
+            "value": 15
+        }
+    ],
+    "texts": {
+        "title": "Allocations of fund",
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#d13639",
+        "#e87b32",
+        "#d0af41",
+        "#83b646",
+        "#64bfa1",
+        "#6291cb"
+    ]
+}

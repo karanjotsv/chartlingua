@@ -1,0 +1,61 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Fete clasa a 10-a",
+            "Fete clasa a 9-a",
+            "Fete clasa a 8-a",
+            "Fete clasa a 7-a",
+            "Fete clasa a 6-a",
+            "Băieți clasa a 10-a",
+            "Băieți clasa a 9-a",
+            "Băieți clasa a 8-a",
+            "Băieți clasa a 7-a",
+            "Băieți clasa a 6-a"
+        ],
+        "series": [
+            {
+                "name": "Prea slabi",
+                "data": [
+                    10,
+                    10,
+                    11,
+                    10,
+                    9,
+                    20,
+                    20,
+                    17,
+                    15,
+                    14
+                ]
+            },
+            {
+                "name": "Prea grași",
+                "data": [
+                    34,
+                    31,
+                    26,
+                    28,
+                    19,
+                    23,
+                    24,
+                    23,
+                    25,
+                    18
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Procentul de elevi",
+        "y_axis_title": null,
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2C7BDE",
+        "#0A2840"
+    ]
+}

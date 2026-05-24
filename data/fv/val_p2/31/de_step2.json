@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The terms used, such as 'Property' for 'Land', 'Current Value of the Building' for 'DRC of buildings', and 'gross property' for 'Gross land', are all appropriate synonyms that preserve the original meaning perfectly."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall topic of calculating fair rent is preserved. However, there are significant semantic shifts in key chart categories that reduce accuracy. Specifically, the technical term 'DRC' (Depreciated Replacement Cost) is generalized to 'Current Value', and 'Amenity' is incorrectly changed to 'Equipment', altering the meaning of two main components in the calculation."
+    },
+    "claim": "The value of the Land(R) and DRC of buildings(S) together is higher than the value of Gross land.",
+    "translated_claim": "Der Wert von Grundstück (R) und Zeitwert des Gebäudes (S) zusammen ist höher als der Wert des Bruttogrundstücks."
+}

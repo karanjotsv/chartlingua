@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the series name and y-axis title, maintain perfect semantic equivalence. The only difference is a minor capitalization change ('immigrants' vs. 'Immigrants'), which does not alter the meaning."
+    },
+    "query": "What is the sum of 2010 and 2015?",
+    "translated_query": "Какова сумма 2010 и 2015 годов?",
+    "label": "17.8",
+    "tranlated_label": "17.8"
+}

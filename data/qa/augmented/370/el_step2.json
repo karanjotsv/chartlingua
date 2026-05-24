@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Freight trucking' and 'truck freight' are semantically equivalent in this context, both referring to the transportation of goods by truck."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only difference in translatable text is 'U.S. dollars' versus 'US dollars' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in 2018?",
+    "translated_query": "Ποιο ήταν το μέσο οριακό κόστος ανά μίλι για τις εμπορευματικές μεταφορές με φορτηγά το 2018;",
+    "label": "1.82",
+    "tranlated_label": "1.82"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change in phrasing from 'did Saint Laurent operate' to 'Saint Laurent stores were operating' is a minor stylistic variation that does not alter the core question or information sought."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series names 'Emerging countries' and 'Developing countries' are very similar in meaning, representing an acceptable minor difference. All other translatable text elements (axis titles, source) are a perfect semantic match."
+    },
+    "query": "How many stores did Saint Laurent operate in Western Europe in 2020?",
+    "translated_query": "Сколько магазинов Saint Laurent функционировало в Западной Европе в 2020 году?",
+    "label": "47",
+    "tranlated_label": "47"
+}

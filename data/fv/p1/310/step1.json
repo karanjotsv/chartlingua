@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents the same data values, categories, title, and color hue as the original, conveying the identical message of a cost decrease from 2010 to 2011.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart visually demonstrates a decrease in average costs from 2010 to 2011, as the bar for 2011 is significantly shorter than the bar for 2010."
+    },
+    "claim": "The average costs increased from 2010 to 2011.",
+    "label": false
+}

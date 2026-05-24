@@ -1,0 +1,102 @@
+{
+    "chart_type": "subplots_line",
+    "chart_data": [
+        {
+            "x_values": [
+                0,
+                5,
+                10,
+                15,
+                20,
+                25,
+                30,
+                35,
+                40
+            ],
+            "series": [
+                {
+                    "name": "Horizontal Position",
+                    "y_values": [
+                        0,
+                        1200,
+                        2450,
+                        3750,
+                        5000,
+                        6250,
+                        7500,
+                        8750,
+                        10000
+                    ]
+                }
+            ]
+        },
+        {
+            "x_values": [
+                0,
+                5,
+                10,
+                15,
+                20,
+                22.5,
+                25,
+                27.5,
+                30,
+                32.5,
+                35,
+                37.5,
+                40
+            ],
+            "series": [
+                {
+                    "name": "H-S/N-R Method",
+                    "y_values": [
+                        0,
+                        20,
+                        50,
+                        100,
+                        250,
+                        400,
+                        600,
+                        875,
+                        1125,
+                        1250,
+                        1050,
+                        600,
+                        -150
+                    ]
+                },
+                {
+                    "name": "ode45",
+                    "y_values": [
+                        0,
+                        22,
+                        53,
+                        105,
+                        255,
+                        410,
+                        615,
+                        890,
+                        1140,
+                        1260,
+                        1030,
+                        580,
+                        -160
+                    ]
+                }
+            ]
+        }
+    ],
+    "texts": {
+        "subplot1_title": "Horizontal Position (3rd EOM)",
+        "subplot1_xlabel": "t (s)",
+        "subplot1_ylabel": "x(t) (m)",
+        "subplot2_title": "Altitude (4th EOM)",
+        "subplot2_xlabel": "t (s)",
+        "subplot2_ylabel": "y(t) (m)"
+    },
+    "colors": [
+        "#1f77b4",
+        "#1f77b4",
+        "#2ca02c"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces all data points, categories, labels, and the overall message. Color hues for the data series are also consistent. Minor stylistic differences like the legend format and gridlines do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement concerning climate change across different countries. The claim is about the birthplace of U.S. governors, a topic not mentioned or represented in the chart in any way."
+    },
+    "claim": " The bulk of current US governors were born outside of the United States.",
+    "label": "FALSE"
+}

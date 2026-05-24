@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Активный читатель (20+ книг)",
+            "value": 31
+        },
+        {
+            "category": "Средний читатель (от 5 до 19<br>книг)",
+            "value": 39
+        },
+        {
+            "category": "Нерегулярный читатель (от 1 до 4<br>книг)",
+            "value": 23
+        },
+        {
+            "category": "Не читающий (0 книг)",
+            "value": 8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Доля респондентов",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#1e78d2"
+    ]
+}

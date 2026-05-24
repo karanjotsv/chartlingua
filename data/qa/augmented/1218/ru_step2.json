@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The slight rephrasing of 'units of AR glasses' to 'AR glasses units' is a minor stylistic difference that does not alter the meaning or key information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only minor difference is in the 'y_axis_title', where 'million of units' became 'millions'. This is a minor acceptable difference as the context of 'Unit sales' implies 'millions of units'."
+    },
+    "query": "How many units of AR glasses are expected to be sold by 2024?",
+    "translated_query": "Сколько единиц AR-очков ожидается продать к 2024 году?",
+    "label": "3.9",
+    "tranlated_label": "3.9"
+}

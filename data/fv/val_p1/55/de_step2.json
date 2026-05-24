@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Science and technology' is a perfect synonym for 'Scientific and technical', and 'employees' correctly interprets the likely intended meaning of the misspelled word 'ocupants' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The title's change from 'Occupational Statistics' to 'Employment Statistics' is a close synonymous match. Most labels are preserved accurately, though 'Manufacturing' is replaced by the slightly broader term 'Production', representing a minor loss of specificity. The core information remains intact."
+    },
+    "claim": "Scientific and technical had the lowest share of ocupants.",
+    "translated_claim": "Wissenschaft und Technik hatte den geringsten Anteil an Beschäftigten."
+}

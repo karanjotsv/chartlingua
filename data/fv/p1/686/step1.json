@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, category labels, and the main title are identical to the original. The color hues for each category are also consistent. The overall message is perfectly preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The percentage labels for the three smallest pie slices (2.2%, 2.3%, 0.3%) severely overlap, making them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that renewable energy sources generate half (50%) of the electricity. According to the chart, renewable sources like hydro (3.7%), wind (2.2%), and biomass (1.1%) sum to approximately 7.0%, which is significantly less than 50%. The largest source shown is coal, a non-renewable source, at 51.5%."
+    },
+    "claim": "Renewable energy sources generate a half of the electricity in Wisconsin.",
+    "label": false
+}

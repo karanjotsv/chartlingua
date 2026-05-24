@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated content significantly alters the original meaning. The original phrase '101-200 having the above 100 employees in the company' (despite its awkward grammar) most likely refers to companies whose total employee count falls within the 101-200 range, implicitly noting that such companies have 'above 100' employees. The back-translation, however, interprets '101-200' as the name of a specific 'employee category' within a company, stating that this *category itself* has more than 100 employees. This changes the subject of the numerical range from the company's total size to the size of an internal division, distorting the core information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'category' labels in 'chart_data', is identical in both the original and back-translated content. All other text fields within the 'texts' object are null in both versions, indicating perfect semantic preservation."
+    },
+    "claim": "101-200 having the above 100 employees in the company.",
+    "translated_claim": "ਕੰਪਨੀ ਵਿੱਚ 101-200 ਕਰਮਚਾਰੀ ਵਰਗ ਦੇ 100 ਤੋਂ ਵੱਧ ਕਰਮਚਾਰੀ ਹਨ।"
+}

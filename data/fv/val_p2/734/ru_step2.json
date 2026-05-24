@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the original meaning. 'Title' (referring to a publication category) is rendered as 'name', and 'minimum value' (implying a quantitative measure) is changed to 'lowest significance' (a qualitative assessment). This loses key information regarding the type of entity and the nature of the measurement."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (axis titles, annotation texts, and chart data names) is perfectly preserved in the back-translated content. There are no semantic differences."
+    },
+    "claim": "The children's title had the minimun value of published titles in 2001, UK.",
+    "translated_claim": "Детское название имело минимальное значение среди опубликованных названий в 2001 году в Великобритании."
+}

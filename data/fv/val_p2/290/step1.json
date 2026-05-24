@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, series labels (Quebec, ROC, Canada), axis labels, and color hues are highly consistent, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The line chart shows the data for 'Canada' starting at a value of approximately 13% in 1941 and increasing to a value of approximately 17% in 2006, demonstrating an overall upward trend over the specified period."
+    },
+    "claim": "The rate of bilingualism in Canada increased from 1941 to 2006.",
+    "label": "TRUE"
+}

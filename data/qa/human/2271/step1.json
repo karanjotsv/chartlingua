@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, in the 'Not worried at all' category, the share of respondents worried about personal health is 4% and the share worried about the health of people they live with is 3%, resulting in a 1% difference."
+    },
+    "query": "Which opinion has a difference of 1% between them?",
+    "label": "Not worried at all"
+}

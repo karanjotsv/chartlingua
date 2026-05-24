@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'Females' and 'males' are accurately rendered as 'women' and 'men', and the phrasing 'as the bars represented' versus 'as represented by the bars' is a minor stylistic difference that does not alter the core information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'Male'/'Female' vs. 'Men'/'Women' in x_level2, which are synonymous in this context and do not alter the meaning."
+    },
+    "claim": "Wikimedia has 40 females and 10 males as the bars represented in the chart ",
+    "translated_claim": "Η Wikimedia έχει 40 γυναίκες και 10 άνδρες, όπως αναπαρίστανται οι ράβδοι στο γράφημα."
+}

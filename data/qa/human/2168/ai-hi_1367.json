@@ -1,0 +1,44 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "आग्नेयास्त्र",
+            "विष सेवन",
+            "दम घुटना",
+            "अन्य"
+        ],
+        "series": [
+            {
+                "name": "महिला",
+                "values": [
+                    41.9,
+                    31.6,
+                    20.3,
+                    6.2
+                ]
+            },
+            {
+                "name": "पुरुष",
+                "values": [
+                    69.4,
+                    8.5,
+                    16.9,
+                    5.2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "पूर्व सैनिकों का प्रतिशत",
+        "source": "© स्टेटिस्टा 2021",
+        "note": "अतिरिक्त जानकारी"
+    },
+    "colors": [
+        "#2675de",
+        "#1c2b39"
+    ],
+    "data_label_suffix": "%"
+}

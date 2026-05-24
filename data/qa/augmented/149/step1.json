@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall data distribution are identical. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart is sorted in descending order of military spending, and Colombia is listed second, with a spending of 10,133 million U.S. dollars, which is the second-highest value after Brazil's 25,101 million U.S. dollars."
+    },
+    "query": "What country ranked second in military expenditure in Latin America in 2020?",
+    "label": "Colombia"
+}

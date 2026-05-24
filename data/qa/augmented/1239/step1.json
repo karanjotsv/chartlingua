@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, axis labels, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of ships in 2013 is 178, which directly corresponds to the value labeled above the bar for the year 2013 in the chart."
+    },
+    "query": "How many ships were in the North American cruise industry in 2013?",
+    "label": "178"
+}

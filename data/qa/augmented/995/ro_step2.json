@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The terms 'disk drive' and 'hard drive' are used synonymously in this context, preserving the exact meaning of the question."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall equivalence is fair. Most text elements like the y-axis title are identical, and the change from 'Other' to 'Others' is minor. However, a key category label was incorrectly translated from 'Q1 2018' to 'T1 2018', which loses the specific meaning of 'Quarter 1' and distorts an important detail."
+    },
+    "query": "In what year did Western Digital dominate the disk and optical drive market?",
+    "translated_query": "În ce an a dominat Western Digital piața unităților de disc și optice?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

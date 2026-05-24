@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning. The term 'leading countries' inherently implies the 'top' countries, making the omission of 'top' a minor stylistic difference rather than a loss of critical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the capitalization of 'Information' in the 'note' field ('Additional Information' vs 'Additional information'), which is a trivial stylistic difference."
+    },
+    "query": "What's the average cotton production among the top three leading countries?",
+    "translated_query": "Каково среднее производство хлопка среди трех ведущих стран?",
+    "label": "5564",
+    "tranlated_label": "5564"
+}

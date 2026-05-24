@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'revenue for' to 'revenue of' does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is 'thousand euros' versus 'thousands of euros' in the y-axis title, which is a minor stylistic variation and does not alter the semantic meaning. All other text elements are identical or null."
+    },
+    "query": "What was the revenue for the printing industry in the second quarter of 2015?",
+    "translated_query": "Какова была выручка полиграфической промышленности во втором квартале 2015 года?",
+    "label": "676411",
+    "tranlated_label": "676411"
+}

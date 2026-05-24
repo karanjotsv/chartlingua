@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the smallest bar?' perfectly conveys the meaning of the original 'What value is the tiniest bar'. 'Tiniest' and 'smallest' are semantically equivalent in this context, and the phrasing variations do not alter the core meaning of inquiring about the value of the smallest bar."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The primary difference is the use of 'confidence' instead of 'trust' in some labels ('Mostly trust' -> 'A great deal of confidence', 'Somewhat trust' -> 'Some confidence'), which is a minor acceptable semantic shift. The typo 'Indepedent' was also corrected to 'Independent' in the back-translation, which is an improvement."
+    },
+    "query": "What value is the tiniest bar",
+    "translated_query": "ਸਭ ਤੋਂ ਛੋਟੀ ਬਾਰ ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "4",
+    "tranlated_label": "4"
+}

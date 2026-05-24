@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Chart' and 'graph' are synonyms in this context and convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON is identical to the original. The single translatable text field ('series_name') is an exact match, and all other null text fields are correctly preserved."
+    },
+    "claim": "The graph represents a positive correlation between x and y.",
+    "translated_claim": "Das Diagramm stellt eine positive Korrelation zwischen x und y dar."
+}

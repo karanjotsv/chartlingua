@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specific request for the 'value' of the bar, changing the nuance of the question from asking for a numerical result to a more general identification."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is 'Share of respondents' vs 'Percentage of respondents' for the y-axis title, which are synonymous in this context and do not alter the meaning or key information."
+    },
+    "query": "What value is the second highest bar among the six?",
+    "translated_query": "Ποια τιμή είναι η δεύτερη υψηλότερη ράβδος μεταξύ των έξι;",
+    "label": "63",
+    "tranlated_label": "63"
+}

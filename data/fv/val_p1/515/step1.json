@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, series names, colors, title, and axis labels are accurately reproduced. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that in 2006, the 'Developing world' (red line) had 12 internet users per 100 inhabitants, directly contradicting the claim that there were no internet users."
+    },
+    "claim": "In 2006 Developing worlds had no internet users.",
+    "label": false
+}

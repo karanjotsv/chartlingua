@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and the main title are identical. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that coal is the highest energy source for electricity generation, but the chart clearly shows that nuclear power is the highest source at 52.6%, while coal accounts for only 31.7%."
+    },
+    "claim": "Coal is the highest energy used to generate electricity in Illinois.",
+    "label": false
+}

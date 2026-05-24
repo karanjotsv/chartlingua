@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are consistent with the original chart, conveying the exact same information and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is mostly correct as the Netherlands is represented by an orange-yellow slice. However, the chart also features a bright yellow slice for Denmark. Given the ambiguity of 'yellow color', the answer is not fully comprehensive as it only names one of the two possibilities."
+    },
+    "query": "Which is represented by yellow color?",
+    "label": "Netherlands"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, text labels (title, legend, slices), and color hues are all consistent with the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the 'Predominantly Hyperactive-Impulsive Type' has the minimal prevalence. The pie chart visually confirms this, as the slice representing this subtype is the smallest of the three."
+    },
+    "claim": "Predominantly Hyperactive-Impulsive Type is used minimal level of approximate Prevalence Distribution of the sub types of ADHD.",
+    "label": true
+}

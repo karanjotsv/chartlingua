@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart represents the exact same data categories, values, and text labels as the original. The color hues for each category are also consistent (e.g., Firefox is orange, others are shades of blue). The overall message is identical, despite minor stylistic changes like exploding a slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses HIV/AIDS statistics among Pacific Islanders in 2011, whereas the pie chart displays data on web browser usage percentages, with categories like 'Internet Explorer', 'Google Chrome', and 'Mozilla Firefox'. The chart's content is completely unrelated to the claim."
+    },
+    "claim": "Pacific Islander were affected the maximum amount by HIV/AIDS of U.S.Population 2011.",
+    "label": "FALSE"
+}

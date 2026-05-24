@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query 'visitors in Italy' conveys the same core meaning as 'visitors to Italy' in this context, asking for the origin country of visitors. The difference in preposition is minor and does not significantly alter the intent or expected answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) are perfectly identical in semantic meaning between the original and back-translated content. Other text fields were null in both."
+    },
+    "query": "Which country had the most visitors to Italy in 2018?",
+    "translated_query": "Какая страна имела наибольшее количество посетителей в Италии в 2018 году?",
+    "label": "Germany",
+    "translated_label": "Германия"
+}

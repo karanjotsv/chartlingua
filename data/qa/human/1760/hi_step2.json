@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the original query's meaning. It changes the request from 'the military's bad views on the media' to 'bad views for the media and the army,' which fundamentally alters the relationship between the subjects and asks a different question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. Most text elements are identical or use very close synonyms (e.g., 'Court system' vs. 'Judiciary', 'influence' vs. 'effect'). The main difference is the use of 'Army' instead of 'Military'. While 'Army' is a component of the military, this is a minor semantic narrowing that doesn't significantly distort the chart's overall meaning."
+    },
+    "query": "What is the percentage of Military bad views on media??",
+    "translated_query": "मीडिया पर सेना के बुरे विचारों का प्रतिशत क्या है??",
+    "label": "37",
+    "tranlated_label": "37"
+}

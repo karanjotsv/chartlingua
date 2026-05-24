@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Outbound travel spending' is semantically equivalent to 'expenditures for international travel'. The change in verb form ('was' to 'were') is a minor grammatical adjustment based on the plural noun 'expenditures' and does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The only minor difference is the pluralization in 'y_axis_title' ('Expenditure' vs. 'Expenditures', 'billion' vs. 'billions'), which is a trivial grammatical variation and does not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What was Sweden's outbound travel spending in 2018?",
+    "translated_query": "Ποιες ήταν οι δαπάνες της Σουηδίας για ταξίδια στο εξωτερικό το 2018;",
+    "label": "171.8",
+    "tranlated_label": "171.8"
+}

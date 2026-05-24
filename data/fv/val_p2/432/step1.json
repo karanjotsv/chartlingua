@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces the data values, categories, axis labels, and color hue of the original. The overall message and proportions are identical. The only semantic difference is the omission of the legend ('Median gross income/year'), which removes some context but does not alter the core data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the value for 'Persons, full-time, 25+' is $39,000, which is greater than the value of $32,000 for 'Persons, 25+'."
+    },
+    "claim": "Fulltime 25 plus persons averaged a higher gross income than just 25 plus age group.",
+    "label": "TRUE"
+}

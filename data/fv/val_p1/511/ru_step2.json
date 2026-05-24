@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. Differences are minor (e.g., 'Labour' vs. 'Labor', 'make up' vs. 'constitute', 'expenditure' vs. 'expenses') and do not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The titles and the first set of labels maintain good semantic equivalence, with only minor stylistic or synonymous differences ('Labour' to 'Labor', 'costs' to 'expenses'). However, there are notable semantic discrepancies in the second set of labels: 'Perc Cost' was translated to 'Interest Cost', which significantly alters the meaning, and 'Det. Cost' was rendered as 'Miscellaneous Costs', losing potential precision from the original abbreviation."
+    },
+    "claim": "Labour cost make up the highest percentage of expenditure.",
+    "translated_claim": "Затраты на рабочую силу составляют самый высокий процент расходов."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent 2D representation of the original 3D pie chart. All data values, category labels, and color hues are accurately preserved. The overall message about the budget allocation is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that 'Culture' constitutes 10% of the total, while 'Police' constitutes 18%. Therefore, the claim that Culture makes up a larger percentage than Police is directly contradicted by the data."
+    },
+    "claim": "Culture makes up a larger percentage of government than Police.",
+    "label": "FALSE"
+}

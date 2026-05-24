@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart correctly represents the two largest categories (Filipino at 60% and Japanese at 25%) and has the correct title and legend. However, it has significant data errors for the smaller categories: a 0% category ('Korean') is rendered as a visible slice, and a 5% category ('Puerto Rican') is mislabeled as 2%. These errors make the chart's detailed demographic breakdown inaccurate and misleading.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart's title is '1935 Koloa Plantation Demographics' and it displays the percentage breakdown of different ethnic groups (e.g., Filipino, Japanese, Portuguese). It contains no information about the average age of workers."
+    },
+    "claim": "The claim the chart shows the average age of workers at the Koloa sugar plantation is true.",
+    "label": false
+}

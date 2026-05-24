@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2020",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*"
+        ],
+        "series": [
+            {
+                "name": "App Store",
+                "y": [
+                    72,
+                    92,
+                    112,
+                    134,
+                    159,
+                    185
+                ]
+            },
+            {
+                "name": "Google Play",
+                "y": [
+                    39,
+                    50,
+                    58,
+                    67,
+                    76,
+                    85
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Verbraucherausgaben in Milliarden US-Dollar",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#297ACC",
+        "#0F2C40"
+    ]
+}

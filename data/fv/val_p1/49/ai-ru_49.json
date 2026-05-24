@@ -1,0 +1,46 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "x_category": "1",
+        "series": [
+            {
+                "name": "Домашние услуги",
+                "y_value": 6
+            },
+            {
+                "name": "Транспорт",
+                "y_value": 1
+            },
+            {
+                "name": "Сельское хозяйство",
+                "y_value": 44
+            },
+            {
+                "name": "Рабочие",
+                "y_value": 2
+            },
+            {
+                "name": "Неуказанная профессия",
+                "y_value": 4
+            },
+            {
+                "name": "Неизвестная профессия",
+                "y_value": 37
+            }
+        ]
+    },
+    "texts": {
+        "title": "Профессии жителей Эшлихея<br>в 1881 году.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31",
+        "#a5a5a5",
+        "#ffc000",
+        "#4472c4",
+        "#70ad47"
+    ]
+}

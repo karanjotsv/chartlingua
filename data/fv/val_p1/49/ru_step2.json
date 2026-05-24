@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. 'On' vs 'in the chart', 'reaches over' vs 'exceed', and 'occupations' vs 'number of professions' are all minor stylistic or synonymous variations that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most series names match perfectly or have minor spelling variations ('Labourers'/'Laborers'). The consistent use of 'Profession' instead of 'Occupation' is a minor semantic shift but acceptable in context. The title's change from 'Residence' to 'Residents' actually improves the grammar, though the place name 'Ashleyhay' was slightly altered to 'Ashleaghey'."
+    },
+    "claim": "Domestic Services on the chart reaches over 5 in terms of occupations.",
+    "translated_claim": "Домашние услуги на диаграмме превышают 5 по количеству профессий."
+}

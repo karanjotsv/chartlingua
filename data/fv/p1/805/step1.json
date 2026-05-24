@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the population distribution in Timbuktu. The Songhay group represents 46% of the population, while the Arabic group represents 8%. Since 46% is greater than 8%, the population of the Songhay group is larger than that of the Arabic group, which supports the central assertion of the claim."
+    },
+    "claim": "The population in 2009 at Songhay region is larger than Arabic region of Timbuktu.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the numerical data values for each category are mostly correct, the mapping of colors to categories is almost completely different, and the order of the slices is scrambled. For example, the second largest slice is blue in both charts, but it represents 'Azeri' in the original and 'Uzbek' in the rendered chart. This is a fundamental semantic error that would lead to misinterpretation.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels of the smaller pie slices on the right side of the chart, rendering them completely illegible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Turkish has the minimum percentage of native speakers, but the pie chart clearly shows that Turkish, represented by the largest red slice, has the highest percentage of native speakers at 41%."
+    },
+    "claim": "The minimum percentage of native speakers of Turkic family in Turkish.",
+    "label": "FALSE"
+}

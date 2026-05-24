@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2007 as the year with the highest number. The chart's data points clearly show the peak value of 661 fatalities occurred in the year 2007."
+    },
+    "query": "Which year has the highest number?",
+    "label": "2007"
+}

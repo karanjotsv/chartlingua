@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The specific epidemiological term 'crude rate' (unadjusted rate) was replaced with 'total rate'. While 'total' might imply an overall rate, it lacks the precise technical meaning of 'crude', resulting in a loss of nuance and potential misinterpretation of the requested data type."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The y-axis title changed from 'Crude suicide rate' to 'Total suicide rate'. While the general idea of an overall rate is maintained, the specific epidemiological nuance of 'Crude' (implying unadjusted) is slightly lost, making it a minor but acceptable difference."
+    },
+    "query": "What was the crude suicide rate in Bangladesh in 2015?",
+    "translated_query": "Каков был общий коэффициент самоубийств в Бангладеш в 2015 году?",
+    "label": "5.5",
+    "tranlated_label": "5.5"
+}

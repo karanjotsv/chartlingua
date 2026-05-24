@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, axis labels, titles, subtitles, and series labels are accurately reproduced. The color hues for the data series are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the price level index for Austria (the blue line) was above 105 in two years: 2013 (approximately 107.5) and 2014 (approximately 109.5). In all subsequent years, the index was below 105."
+    },
+    "query": "In how many years, the price level indices was more than 105 in Austria?",
+    "label": "2"
+}

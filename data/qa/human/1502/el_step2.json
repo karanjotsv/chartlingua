@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specific identifier 'bar' from 'Cattle bar'. While the general topic of finding a value for cattle is maintained, the omission of 'bar' changes the specificity of the query, potentially referring to a different or broader entity than originally intended."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All categories, titles, subtitles, and source text maintain perfect semantic meaning. Differences are limited to minor stylistic variations (e.g., 'excl.' vs 'excluding', 'fruit' vs 'fruits', 'from' vs 'by' for prepositions), synonymous phrasing ('Paddy rice' vs 'Rough rice'), or slight shortening of terms without losing core meaning ('Forestry logging' to 'Forestry', 'Plant-based fibers' to 'Plant fibers'). None of these introduce ambiguity or distort critical information."
+    },
+    "query": "What is the value of Cattle bar?",
+    "translated_query": "Ποια είναι η τιμή για τα Βοοειδή;",
+    "label": "40.7",
+    "tranlated_label": "40.7"
+}

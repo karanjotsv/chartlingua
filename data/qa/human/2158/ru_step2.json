@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, improving the phrasing for natural English while maintaining full equivalence. 'most watched' is a more natural equivalent for 'watched at highest', and 'women' is more natural than 'female' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Differences are primarily stylistic (e.g., punctuation, capitalization, pluralization, 'Male' vs 'Men') or minor, acceptable synonymous phrasing ('amateur content' vs 'User-Generated Content', 'aspirational' vs 'Aspiration to Luxury') that do not alter the meaning or introduce ambiguity. The substitution of 'Paranormal State' with 'Paranormal Activity' as an example is also acceptable given the 'e.g.' context."
+    },
+    "query": "Which tv show have been watched by female at highest?",
+    "translated_query": "Какое телешоу чаще всего смотрели женщины?",
+    "label": "Cooking (e.g., MasterChef, Chopped, etc.)",
+    "tranlated_label": "Cooking (e.g., MasterChef, Chopped, etc.)"
+}

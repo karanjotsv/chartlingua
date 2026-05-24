@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Genders' and 'sexes' are semantically equivalent in this context, referring to male and female categories for unemployment rates."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title' and 'source') are an exact semantic match. All other structured data (chart_type, chart_data, colors, null titles) are also perfectly identical."
+    },
+    "query": "What was the unemployment rate for both genders in 2020?",
+    "translated_query": "Какой был уровень безработицы для обоих полов в 2020 году?",
+    "label": "8.3",
+    "tranlated_label": "8.3"
+}

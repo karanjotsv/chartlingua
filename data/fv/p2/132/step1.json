@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, series labels, and color hues are all consistent with the original. The addition of a descriptive title enhances clarity without altering the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the green line, representing 'World' energy demand per capita, consistently stayed below the 2000 level for the entire period from 1992 to 2010."
+    },
+    "claim": "From 1992 through 2010, energy demand per capita for the world remained above 2000.",
+    "label": "FALSE"
+}

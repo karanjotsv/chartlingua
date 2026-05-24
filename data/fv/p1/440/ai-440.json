@@ -1,0 +1,38 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "natural gas",
+            "value": 48.8
+        },
+        {
+            "label": "other",
+            "value": 2.3
+        },
+        {
+            "label": "solar",
+            "value": 1.0
+        },
+        {
+            "label": "biomass",
+            "value": 2.4
+        },
+        {
+            "label": "nuclear",
+            "value": 45.5
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>Connecticut - 2016",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#8FC7D4",
+        "#B673CC",
+        "#FDFD7F",
+        "#439A72",
+        "#DDC057"
+    ],
+    "background_color": "#F0F0FA"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is only moderately consistent. While the title, axes, and color are correct, it omits half of the data series present in the original (plotting only every other entry). Furthermore, the data is sorted in ascending order of value, whereas the original was sorted in descending order, which changes the focus of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that all top articles were related to sports. However, the chart lists numerous articles clearly not related to sports, such as 'Avengers: Infinity War', 'Black Panther (film)', 'Thanos', and 'Meghan Markle'."
+    },
+    "claim": "All of the top Wikipedia articles for the week of April 29 to May 5, 2018 were related to sports.",
+    "label": false
+}

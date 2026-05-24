@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and the overall trend are identical to the original. The color hue is also consistent. Minor stylistic differences like the y-axis scale and the absence of a redundant legend do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays a consistent year-over-year increase in cumulative sales of new energy vehicles. The value for 2016 (951,447) is more than double the value for 2015 (444,447), and sales continue to rise in every subsequent year shown, directly contradicting the claim of a decline after 2015."
+    },
+    "claim": "The cumulative sales of new energy vehicles in China declined after 2015.",
+    "label": false
+}

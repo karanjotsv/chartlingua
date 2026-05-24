@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, and slice proportions are identical. The color hues for each category are also consistent, maintaining the chart's overall message and appearance.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The labels for the smaller slices ('Other', 'Android', 'Opera') are severely overlapped and rotated, which significantly hinders their readability."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows that the slice for Internet Explorer is the largest, and it is explicitly labeled with the value 29.05%, which is the highest percentage among all listed browsers."
+    },
+    "claim": "Internet Explorer has the most amount of market shares with a percentage of 29.05% overall.",
+    "label": "TRUE"
+}

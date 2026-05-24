@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. The slight rewording makes it more concise but does not alter any key information or introduce ambiguity. The spelling correction of 'Napgur' to 'Nagpur' in the back-translation is an improvement that doesn't affect the core meaning comparison."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are minor, such as capitalization in series names (e.g., 'Radial velocity' vs. 'Radial Velocity') and the title becoming more specific by including 'Stacked' ('Bar chart' vs. 'Stacked Bar Chart'), which aligns perfectly with the 'chart_type': 'stacked_bar' in the JSON, making it an improvement in clarity rather than a loss of meaning."
+    },
+    "claim": "The humidity was higher in Napgur rather than Mumbai.",
+    "translated_claim": "Влажность в Нагпуре была выше, чем в Мумбаи."
+}

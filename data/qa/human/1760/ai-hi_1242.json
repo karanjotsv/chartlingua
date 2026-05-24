@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "सेना",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "पुलिस",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "राष्ट्रीय सरकार",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "धार्मिक नेता",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "न्यायपालिका",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "मीडिया",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "सेना पर विचार सकारात्मक,<br>मीडिया पर नकारात्मक हैं",
+        "subtitle": "<i>तुर्की में जिस तरह से चीजें चल रही हैं, उस पर ___ का<br>कैसा प्रभाव पड़ रहा है?</i>",
+        "source": "स्रोत: स्प्रिंग 2015 ग्लोबल एटिट्यूड्स सर्वे, Q79a-f.",
+        "note": "प्यू रिसर्च सेंटर",
+        "series_labels": [
+            "बुरा",
+            "अच्छा"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

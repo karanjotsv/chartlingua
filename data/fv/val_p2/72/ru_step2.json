@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. The minor difference between 'Abdominal CT scans' and 'An abdominal CT' does not alter the core semantic information or intent of the statement."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of all chart data categories and the Y-axis title. Differences are minor stylistic variations or common synonyms (e.g., 'Transit' vs 'flight', 'CT Scan' vs 'CT', 'DOE' vs 'Department of Energy', 'Dose Equivalent' vs 'Equivalent Dose') that do not alter the information or nuance."
+    },
+    "claim": "Abdominal CT scans expose patients to more radiation than a 500-day stay on Mars.",
+    "translated_claim": "КТ брюшной полости подвергает пациентов большему облучению, чем 500-дневное пребывание на Марсе."
+}

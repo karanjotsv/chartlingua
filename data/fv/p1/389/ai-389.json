@@ -1,0 +1,48 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "nuclear",
+            "value": 43.3
+        },
+        {
+            "label": "coal",
+            "value": 24.4
+        },
+        {
+            "label": "natural gas",
+            "value": 19.3
+        },
+        {
+            "label": "hydro",
+            "value": 5.6
+        },
+        {
+            "label": "solar",
+            "value": 3.1
+        },
+        {
+            "label": "wood/bio",
+            "value": 1.6
+        },
+        {
+            "label": "other",
+            "value": 2.7
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>Maryland - 2017",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#D4D262",
+        "#B53E8A",
+        "#7BC5CE",
+        "#377FB1",
+        "#E1D635",
+        "#806B36",
+        "#7F5CA6"
+    ]
+}

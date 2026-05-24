@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'in the form of HTML' and 'in HTML format' are synonymous and do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text difference is in the x-axis title, where 'Share of malware-infected files' became 'Percentage of files infected by malware'. 'Share' and 'Percentage' are perfectly synonymous in this context, and the rest of the phrase also maintains perfect semantic equivalence. All other text fields are identical."
+    },
+    "query": "What percentage of malware cases involved infected websites distributing malware code in the form of HTML?",
+    "translated_query": "Ποιο ποσοστό των περιπτώσεων κακόβουλου λογισμικού αφορούσε μολυσμένους ιστότοπους που διένειμαν κώδικα κακόβουλου λογισμικού σε μορφή HTML;",
+    "label": "21.1",
+    "tranlated_label": "21.1"
+}

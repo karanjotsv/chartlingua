@@ -1,0 +1,44 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Schusswaffen",
+            "Vergiftung",
+            "Ersticken",
+            "Andere"
+        ],
+        "series": [
+            {
+                "name": "Weiblich",
+                "values": [
+                    41.9,
+                    31.6,
+                    20.3,
+                    6.2
+                ]
+            },
+            {
+                "name": "Männlich",
+                "values": [
+                    69.4,
+                    8.5,
+                    16.9,
+                    5.2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Prozentsatz der Veteranen",
+        "source": "© Statista 2021",
+        "note": "Zusätzliche Informationen"
+    },
+    "colors": [
+        "#2675de",
+        "#1c2b39"
+    ],
+    "data_label_suffix": "%"
+}

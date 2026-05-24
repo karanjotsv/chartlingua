@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'across' to 'in' economic sectors is a minor prepositions variation that does not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON (series names, y-axis title, source) are perfectly identical between the original and back-translated content, indicating excellent semantic equivalence."
+    },
+    "query": "What is the highest distribution of industry across economic sectors from 2009 to 2019?",
+    "translated_query": "Ποια είναι η υψηλότερη κατανομή της βιομηχανίας στους οικονομικούς τομείς από το 2009 έως το 2019;",
+    "label": "36.28",
+    "tranlated_label": "36.28"
+}

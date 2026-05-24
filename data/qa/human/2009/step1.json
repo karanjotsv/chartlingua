@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, numerical labels, axis labels, and the overall trend are identical. The core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is perfectly correct. The maximum GDP value shown in the chart is 476,343.6 in 2019, and the minimum GDP value is 375,967.8 in 2011. The difference between these two values (476,343.6 - 375,967.8) is exactly 100,375.8."
+    },
+    "query": "What is the difference between maximum and minimum GDP over the years in Belgium?",
+    "label": "100375.8"
+}

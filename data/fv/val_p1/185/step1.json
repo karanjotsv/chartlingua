@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the title, data values, proportions, legend labels, and color associations from the original. The only difference is the rotation of the pie chart, which is a stylistic choice that does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the green section represents 'Not acid2 compliant', but the chart's legend explicitly shows that the green section represents 'Acid2 compliant'."
+    },
+    "claim": "The green section represents the Not acid2 complaint in the chart.",
+    "label": false
+}

@@ -1,0 +1,77 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Mexikanisch",
+            "values": [
+                69,
+                65,
+                63,
+                57,
+                52
+            ]
+        },
+        {
+            "name": "Zentralamerikanisch",
+            "values": [
+                8,
+                10,
+                10,
+                8,
+                6
+            ]
+        },
+        {
+            "name": "Südamerikanisch",
+            "values": [
+                4,
+                6,
+                7,
+                8,
+                8
+            ]
+        },
+        {
+            "name": "Karibisch",
+            "values": [
+                15,
+                16,
+                16,
+                20,
+                26
+            ]
+        },
+        {
+            "name": "Spanisch/Sonstige",
+            "values": [
+                4,
+                4,
+                4,
+                6,
+                8
+            ]
+        }
+    ],
+    "categories": [
+        "Jünger als 18",
+        "Millennial-Erwachsene<br>(18-33)",
+        "Gen X<br>(34-49)",
+        "Boomer<br>(50-68)",
+        "Stille/Größte Generation<br>(69 und älter)"
+    ],
+    "texts": {
+        "title": "Jüngere Hispanics sind wahrscheinlicher mexikanischer Herkunft",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Hinweis: Die Zahlen ergeben aufgrund von Rundungen möglicherweise nicht 100 %.<br>Quelle: Analyse der American Community Survey 2014 (IPUMS) durch das Pew Research Center.<br>\"The Nation's Latino Population Is Defined by Its Youth\"",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#b5952f",
+        "#e1d3a1",
+        "#d1c08b",
+        "#d19f83",
+        "#a46949"
+    ]
+}

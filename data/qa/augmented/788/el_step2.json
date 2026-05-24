@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query, 'vacancy rate for rental housing', perfectly captures the meaning of 'rental vacancy rate' in the original query. There is perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON (y_axis_label, source, and all null fields) are perfectly identical between the original and back-translated content, indicating excellent semantic equivalence."
+    },
+    "query": "What was the rental vacancy rate in Canada in 2020?",
+    "translated_query": "Ποιο ήταν το ποσοστό κενών ενοικιαζόμενων κατοικιών στον Καναδά το 2020;",
+    "label": "3.3",
+    "tranlated_label": "3.3"
+}

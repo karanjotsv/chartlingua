@@ -1,0 +1,80 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "labels": [
+                "Dioxid de carbon",
+                "Azot",
+                "Altele"
+            ],
+            "values": [
+                96.5,
+                3.5,
+                0.05
+            ],
+            "text_labels": [
+                "Dioxid de carbon<br>(96,5%)",
+                "Azot<br>(3,5%)",
+                "Altele"
+            ],
+            "colors": [
+                "#f88246",
+                "#ff008d",
+                "#cccccc"
+            ],
+            "text_positions": [
+                "inside",
+                "outside",
+                "outside"
+            ]
+        },
+        {
+            "labels": [
+                "Dioxid de sulf",
+                "Argon",
+                "Vapori de apă",
+                "Monoxid de carbon",
+                "Heliu",
+                "Neon"
+            ],
+            "values": [
+                150,
+                70,
+                20,
+                17,
+                12,
+                7
+            ],
+            "text_labels": [
+                "Dioxid de sulf<br>(150 ppm)",
+                "Argon<br>(70 ppm)",
+                "Vapori de apă<br>(20 ppm)",
+                "Monoxid de carbon<br>(17 ppm)",
+                "Heliu<br>(12 ppm)",
+                "Neon<br>(7 ppm)"
+            ],
+            "colors": [
+                "#ffffab",
+                "#ffff00",
+                "#00ff00",
+                "#00ffff",
+                "#ff9966",
+                "#0080ff"
+            ],
+            "text_positions": [
+                "inside",
+                "inside",
+                "outside",
+                "outside",
+                "outside",
+                "outside"
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    }
+}

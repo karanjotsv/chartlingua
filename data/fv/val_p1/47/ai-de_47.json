@@ -1,0 +1,57 @@
+{
+    "chart_type": "side_by_side_pie_charts",
+    "chart_data": [
+        {
+            "title": "NESTLING WENIGER ALS EINE WOCHE ALT",
+            "labels": [
+                "KÄFER",
+                "GETREIDE",
+                "VERSCHIEDENES",
+                "SPINNEN",
+                "SCHMETTERLINGE",
+                "HEUSCHRECKEN"
+            ],
+            "values": [
+                6,
+                25,
+                6,
+                1,
+                12,
+                50
+            ]
+        },
+        {
+            "title": "ERWACHSEN",
+            "labels": [
+                "GETREIDE",
+                "HEUSCHRECKEN",
+                "KÄFER"
+            ],
+            "values": [
+                96,
+                2,
+                2
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": "ABB. 160.—Diagramm, das die Nahrungsanteile des Haussperlings zeigt,<br><i>Passer domesticus</i>, Jung- und Altvogel. (Nach Judd.)"
+    },
+    "colors": [
+        [
+            "#FFFFFF",
+            "#D3D3D3",
+            "#A9A9A9",
+            "#808080",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        [
+            "#D3D3D3",
+            "#FFFFFF",
+            "#FFFFFF"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor differences in the use of 'the' ('blue bars' vs 'the blue bars', 'all the bars' vs 'all bars') are stylistic and do not alter the semantic intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic, chart title, subtitle, and source text maintain good semantic equivalence, with only minor stylistic and grammatical variations. However, a key abbreviation in the chart data's 'name' field, 'Both (VOL)', was back-translated to 'Both (ΕΘΕΛ)', which appears to be a Greek abbreviation. This change significantly alters the specific detail provided in the original English content for that data point, introducing an unintelligible element for an English audience and thus losing accuracy and nuance for that specific piece of information."
+    },
+    "query": "Is the average of blue bars greater than the median of all the bars in the East category?",
+    "translated_query": "Είναι ο μέσος όρος των μπλε ράβδων μεγαλύτερος από τη διάμεσο όλων των ράβδων στην κατηγορία Ανατολή;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

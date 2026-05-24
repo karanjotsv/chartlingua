@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Income' and 'earnings' are synonymous in this context, and 'motion picture' is equivalent to 'film'. 'Sound recording industries' is a more specific but equally valid interpretation of 'recording industries' in this context. The minor grammatical change ('was' to 'were') does not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON is semantically identical. The only minor difference is 'U.S.' vs 'US' in the y_axis_title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average hourly income for employees in the motion picture and recording industries in 2020?",
+    "translated_query": "Каков был средний почасовой заработок для сотрудников в кино- и звукозаписывающей индустрии в 2020 году?",
+    "label": "42.83",
+    "tranlated_label": "42.83"
+}

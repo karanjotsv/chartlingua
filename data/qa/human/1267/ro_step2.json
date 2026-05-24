@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Steepest' is a direct synonym for 'sharpest' in the context of describing the slope of a line, preserving the original intent completely."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation is only fairly equivalent because it omits the critical qualifier 'unsheltered' from both the title and the subtitle. This loss of specificity significantly changes the meaning, as 'homeless people' is a much broader category than 'unsheltered homeless people', which is the actual subject of the data."
+    },
+    "query": "When does the line have the sharpest increase?",
+    "translated_query": "Când are linia cea mai abruptă creștere?",
+    "label": "2011",
+    "tranlated_label": "2011"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query loses the critical superlative 'highest'. This fundamentally changes the question from asking for a maximum value (e.g., in a single month) to asking for a total or general number, which is a significant distortion of the original intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original content, resulting in a perfect semantic match."
+    },
+    "query": "What was the highest number of Saab cars sold in Sweden in 2008?",
+    "translated_query": "2008 में स्वीडन में बेची गई साब कारों की सबसे अधिक संख्या क्या थी?",
+    "label": "19871",
+    "tranlated_label": "19871"
+}

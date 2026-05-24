@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall ranking are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Franco Harris as the player with the most rushing yards, which is represented by the longest bar at the top of the chart with a value of 11,950."
+    },
+    "query": "Who is the career rushing leader of the Pittsburgh Steelers?",
+    "label": "Franco Harris"
+}

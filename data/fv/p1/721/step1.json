@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent 2D representation of the original 3D pie chart. All data values, category labels, titles, and color hues are a perfect match. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart identifies two sources related to the transportation sector: 'On Road Vehicles' at 28% and 'Non Road Equipment' at 19%. When combined, they account for 47% of the total, which is the largest contribution compared to the other listed sources like 'Solvent Use' (29%)."
+    },
+    "claim": "THE TRANSPORTATION SECTOR IS THE LARGEST CONTRIBUTOR TO VOLATILE ORGANIC COMPOUND EMISSIONS",
+    "label": true
+}

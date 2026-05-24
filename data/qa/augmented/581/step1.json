@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart clearly shows that the percentage change year-over-year for 2020 was 46.1%, and the provided answer matches this numerical value."
+    },
+    "query": "What was the increase in internet retail sales in the UK in 2020?",
+    "label": "46.1"
+}

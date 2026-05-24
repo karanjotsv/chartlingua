@@ -1,0 +1,68 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Freie Berufe",
+            "Häusliche Ämter oder Dienstleistungen",
+            "Beförderung von Personen, Gütern und Nachrichten",
+            "Landwirtschaft",
+            "Tiere",
+            "Häuser, Möbel und Dekorationen",
+            "Handel mit Lebensmitteln und Unterkünften",
+            "Verschiedene pflanzliche Substanzen",
+            "Verschiedene mineralische Substanzen",
+            "Allgemeine oder unspezifizierte Waren",
+            "Unspezifizierte Berufe",
+            "Unbekannter Beruf/unleserlich"
+        ],
+        "series": [
+            {
+                "name": "Männliche Arbeiter",
+                "values": [
+                    3,
+                    1.5,
+                    3,
+                    40,
+                    4,
+                    5,
+                    6,
+                    2,
+                    1,
+                    8,
+                    0.5,
+                    5
+                ]
+            },
+            {
+                "name": "Weibliche Arbeiter",
+                "values": [
+                    3,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    50
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Berufsstruktur 1881",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31"
+    ]
+}

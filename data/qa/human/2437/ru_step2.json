@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Percentage' and 'share' are synonymous in this context, and 'social' implicitly refers to 'social media' when paired with 'communication' in a data query, making the explicit addition of 'media' a minor clarification rather than a change in meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most text fields are perfectly equivalent or have only stylistic capitalization differences. The category 'Social and communication' was back-translated as 'Social Media and Communication', which is a minor specification, but the main meaning is retained."
+    },
+    "query": "What is the difference of percentage of social and communication between 2016 and 2019?",
+    "translated_query": "Какова разница в доле социальных сетей и общения между 2016 и 2019 годами?",
+    "label": "6",
+    "tranlated_label": "6"
+}

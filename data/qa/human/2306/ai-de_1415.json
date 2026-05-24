@@ -1,0 +1,63 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Sind stärker geworden",
+            "x": [
+                "November 2007",
+                "Januar 2009",
+                "Januar 2010",
+                "Dezember 2010"
+            ],
+            "y": [
+                42,
+                33,
+                36,
+                31
+            ]
+        },
+        {
+            "name": "Gleichbleibend",
+            "x": [
+                "November 2007",
+                "Januar 2009",
+                "Januar 2010",
+                "Dezember 2010"
+            ],
+            "y": [
+                34,
+                43,
+                24,
+                36
+            ]
+        },
+        {
+            "name": "Sind schwächer geworden",
+            "x": [
+                "November 2007",
+                "Januar 2009",
+                "Januar 2010",
+                "Dezember 2010"
+            ],
+            "y": [
+                24,
+                24,
+                40,
+                33
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Prozentsatz der Befragten",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2E75D8",
+        "#112B3C",
+        "#B3B3B3"
+    ]
+}

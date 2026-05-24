@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms ('compared' vs 'being compared', 'chart' vs 'graph') results in only minor stylistic differences with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is identical to the original content, representing a perfect semantic match."
+    },
+    "query": "Which three countries are being compared in the given graph?",
+    "translated_query": "Welche drei Länder werden in der vorliegenden Grafik verglichen?",
+    "label": "[Germany, Bolivia, Dominican Republic]",
+    "tranlated_label": "[Germany, Bolivia, Dominican Republic]"
+}

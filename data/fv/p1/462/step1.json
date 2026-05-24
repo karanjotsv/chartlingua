@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent reproduction of the original. It matches the title, data values, categories, color hues, and overall message perfectly. It accurately represents all data points from the original's legend, including the zero-value categories.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data labels for the smaller slices (e.g., 0, 1, 6) are poorly positioned, clustered, and overlap with each other and the chart's axes, making them difficult to read and associate with their respective slices."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart indicates that the number of retired people is 32, and the total number of people is 128. The share of retired people is therefore (32/128) * 100 = 25%. The claim incorrectly states that this share is 10%."
+    },
+    "claim": "Retired person's share is 10% of the total. ",
+    "label": false
+}

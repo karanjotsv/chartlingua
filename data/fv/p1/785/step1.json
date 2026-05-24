@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content (title), and color hues are identical to the original. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Internet Explorer was the most popular browser, but the pie chart shows Firefox had a higher usage share (37.9%) compared to Internet Explorer (36.9%)."
+    },
+    "claim": "Internet Explorer was the most popular browser in Europe in January 2011.",
+    "label": true
+}

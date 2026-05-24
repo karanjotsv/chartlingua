@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the original meaning. 'The bulk of' is semantically equivalent to 'Most', and 'United States' as 'US' is a common and accurate abbreviation, indicating only stylistic or trivial differences."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category names are perfect synonyms (e.g., U.S. vs USA, U.K. vs United Kingdom). The title and y-axis title show minor stylistic changes (e.g., 'major threat' vs 'serious threat', 'disagreement' vs 'disagreements', 'wider' vs 'broader') but maintain the core meaning. The legend labels (e.g., 'Political right' to 'Right', 'Political center' to 'Centrists', 'Political left' to 'Left') are slightly simplified but largely convey the same political group/stance given the chart's context."
+    },
+    "claim": "The bulk of current United States governors were born in the South.",
+    "translated_claim": "Большинство нынешних губернаторов США родились на Юге."
+}

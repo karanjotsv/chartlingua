@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly conveys the original meaning. 'having the above 100 employees' is semantically equivalent to 'with more than 100 employees'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All specified translatable text fields (title, subtitle, x_axis_title, y_axis_title, source) are null in both the original and back-translated content, resulting in perfect semantic equivalence for the absence of text. The category labels are also identical."
+    },
+    "claim": "101-200 having the above 100 employees in the company.",
+    "translated_claim": "101-200, имеющая более 100 сотрудников в компании."
+}

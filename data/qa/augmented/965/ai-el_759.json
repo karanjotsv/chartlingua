@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Κόστος",
+            "categories": [
+                "Σύνολο",
+                "Διοικητικοί προϋπολογισμοί",
+                "Μη επανδρωμένα εναέρια οχήματα",
+                "Στρατιωτικά σκάφη"
+            ],
+            "values": [
+                1273.27,
+                21.9,
+                291.46,
+                959.91
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Κόστος σε εκατομμύρια δολάρια ΗΠΑ",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#1f77b4"
+    ]
+}

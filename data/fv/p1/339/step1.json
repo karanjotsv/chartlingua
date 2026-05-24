@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. While it retains the main topic and some data points are accurate (e.g., donut charts, weekly earnings), it suffers from significant omissions. Key data labels are missing from the 'Economic Inactivity' and 'Greenhouse Gases' charts, the map of Northern Ireland is completely absent, and important contextual text like 'Lowest in the UK' is missing. Additionally, the 'House Prices' chart has its categories reordered.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has severe visual flaws, including multiple instances of text and element overlap. Section titles overlap with the charts below them, text labels overlap with their corresponding data visuals (e.g., in 'Weekly Earnings'), and the overall layout is cramped, misaligned, and poorly organized."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart indicates that Northern Ireland's population is 3% of the UK's population as of mid-2012, but it does not provide an absolute number for the population, such as 1.8 million. Therefore, the claim cannot be verified from the chart's data."
+    },
+    "claim": "Population of Northern Ireland is 1.8 million. ",
+    "label": true
+}

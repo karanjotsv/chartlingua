@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The rephrasing from 'Turkey's road freight transport volume' to 'the volume of road freight transport in Turkey' is a stylistic difference that does not alter the core meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is in the 'y_axis_title' where 'Transport volume' became 'Volume of transport', which is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "What was Turkey's road freight transport volume in 2019?",
+    "translated_query": "Ποιος ήταν ο όγκος των οδικών εμπορευματικών μεταφορών της Τουρκίας το 2019;",
+    "label": "267579",
+    "tranlated_label": "267579"
+}

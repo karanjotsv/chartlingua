@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Nicht sicher",
+            "value": 76
+        },
+        {
+            "label": "Sicher",
+            "value": 19
+        },
+        {
+            "label": "Weiß nicht",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "Die meisten halten Lebensmittel aus der Nähe von<br>Fukushima für nicht sicher",
+        "subtitle": null,
+        "source": "<b>PEW RESEARCH CENTER</b> Q112.",
+        "note": "\"Halten Sie in der Nähe des<br>Kernkraftwerks Fukushima Daiichi<br>produzierte Lebensmittel für sicher<br>vor radioaktiver Kontamination<br>oder für nicht sicher?\""
+    },
+    "colors": {
+        "slices": [
+            "#F3C78B",
+            "#6A4F13",
+            "#E69A3A"
+        ],
+        "slice_text": [
+            "#000000",
+            "#FFFFFF",
+            "#000000"
+        ],
+        "title": "#2D649F"
+    }
+}

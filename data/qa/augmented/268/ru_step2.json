@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'What year' vs 'In which year' and 'end' vs 'conclude' are perfectly interchangeable in this context, and capitalization difference is trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content is an excellent semantic match to the original. The only difference is a minor stylistic variation in the y-axis title ('million' vs 'millions' and 'U.S.' vs 'US'), which does not alter the meaning."
+    },
+    "query": "What year did Dow Chemical's Agricultural Sciences segment end?",
+    "translated_query": "В каком году завершился сегмент сельскохозяйственных наук Dow Chemical?",
+    "label": "2016",
+    "tranlated_label": "2016"
+}

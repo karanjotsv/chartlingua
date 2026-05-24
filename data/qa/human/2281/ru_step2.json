@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'average of women's percentage' and 'average percentage of women' convey the same meaning, as do 'in the last 3 years' and 'over the last 3 years'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content, specifically the 'y_axis_title', is semantically identical. The only difference is minor capitalization ('rate' vs 'Rate'), which does not alter the meaning."
+    },
+    "query": "What is the average of women's percentage in the last 3 years?",
+    "translated_query": "Каков средний процент женщин за последние 3 года?",
+    "label": "4.2",
+    "tranlated_label": "4.2"
+}

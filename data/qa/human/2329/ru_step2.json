@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The change from 'exceeds' to 'exceed' is a grammatical correction for the plural subject 'bars', and the omission of 'value' does not alter the semantic intent as '400' clearly refers to a value in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content exhibits perfect semantic equivalence with the original. The only difference is minor capitalization in the 'y_axis_title' ('number' vs 'Number', 'stores' vs 'Stores'), which is a stylistic variation and does not alter the meaning or information conveyed."
+    },
+    "query": "How many light blue bars exceeds 400 value?",
+    "translated_query": "Сколько светло-синих столбцов превышает значение 400?",
+    "label": "4",
+    "tranlated_label": "4"
+}

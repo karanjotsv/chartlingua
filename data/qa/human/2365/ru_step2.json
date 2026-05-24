@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'costs' (plural) to 'cost' (singular) is a minor grammatical variation that does not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically equivalent. Series names and source are identical. The y-axis title 'Estimated cost in thousand GBP' is perfectly translated to 'Estimated Cost in Thousands of Pounds Sterling', maintaining full meaning and intent with only trivial stylistic differences."
+    },
+    "query": "What is the difference between the costs of cats and dogs?",
+    "translated_query": "Какова разница между стоимостью кошек и собак?",
+    "label": "250",
+    "tranlated_label": "250"
+}

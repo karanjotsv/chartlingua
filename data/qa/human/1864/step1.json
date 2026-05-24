@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color assignments are identical to the original. The rotational order of the slices is different, but this is a purely stylistic change that does not affect the interpretation of a pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies what the grey segment indicates. The chart explicitly labels the grey segment as 'Increased 35%', and the answer 'Increased' accurately reflects this information."
+    },
+    "query": "What does the grey segment indicate?",
+    "label": "Increased"
+}

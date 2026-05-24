@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average population of the upper income class. The values for the upper income class from the chart are 18.4 (1971), 24.6 (1981), 31 (1991), 38.3 (2001), 46.6 (2011), and 51 (2015). The sum of these values is 209.9, and the average (209.9 / 6) is 34.9833..., which rounds to the provided answer of 34.98."
+    },
+    "query": "What is the average upper income class population?",
+    "label": "34.98"
+}

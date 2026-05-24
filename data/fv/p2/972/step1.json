@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content, color hues, and the overall message are all consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on printing methods, whereas the claim is about native vegetation in Pennington County, Minnesota. The chart contains no information about vegetation, forests, prairies, or Minnesota, making it impossible to verify the claim based on the provided data."
+    },
+    "claim": "There are more forest than wet prairie as native vegetation for Pennington County Minnesota.",
+    "label": "FALSE"
+}

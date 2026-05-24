@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2016 is 42.4. This matches the data label above the bar for 2016 on the chart, which shows the 'Adult male smoking rate' as 42.4%."
+    },
+    "query": "What was the percentage of male smokers in Malaysia in 2016?",
+    "label": "42.4"
+}

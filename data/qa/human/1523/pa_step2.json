@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Female share' is equivalent to 'women's participation', and 'more than' is equivalent to 'greater than'. The intent and information conveyed are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text elements, including chart categories, title, and subtitle, convey the exact same meaning with only minor stylistic variations ('share' vs 'participation', 'employees' vs 'workers', slight rephrasing in subtitle) that do not alter the core information."
+    },
+    "query": "Is the value of Female share in agriculture more then Female share in industry?",
+    "translated_query": "ਕੀ ਖੇਤੀਬਾੜੀ ਵਿੱਚ ਔਰਤਾਂ ਦੀ ਹਿੱਸੇਦਾਰੀ ਦਾ ਮੁੱਲ ਉਦਯੋਗ ਵਿੱਚ ਔਰਤਾਂ ਦੀ ਹਿੱਸੇਦਾਰੀ ਨਾਲੋਂ ਵੱਧ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

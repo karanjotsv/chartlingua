@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, categories, labels, logarithmic scale, and color progression of the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the dose equivalent for an 'Abdominal CT Scan' is below 10 millisieverts, while the dose equivalents for both '180-day Transit to Mars' and '500 Days on Mars' are significantly higher, well above 100 millisieverts. This supports the claim that radiation exposure from a Mars mission is greater."
+    },
+    "claim": "A person would receive a greater radiation exposure traveling to and staying on Mars than getting a Abdominal CT scan",
+    "label": "TRUE"
+}

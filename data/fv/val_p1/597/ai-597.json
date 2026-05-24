@@ -1,0 +1,40 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "On Road<br>Vehicles",
+            "value": 28
+        },
+        {
+            "label": "Non Road<br>Equipment",
+            "value": 19
+        },
+        {
+            "label": "Industrial<br>Processes",
+            "value": 11
+        },
+        {
+            "label": "Solvent Use",
+            "value": 29
+        },
+        {
+            "label": "Other",
+            "value": 13
+        }
+    ],
+    "texts": {
+        "title": "2005 Sources of<br>Volatile Organic Compounds",
+        "subtitle": null,
+        "source": "Source: epa.gov",
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#4372C4",
+        "#C0504D",
+        "#9BBB59",
+        "#8064A2",
+        "#4BACC6"
+    ]
+}

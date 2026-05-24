@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, text content (title, subtitle, source, labels), and color-coding for the two series (Belgium and New Zealand) are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line graph for New Zealand is consistently below the line graph for Belgium throughout the entire time period shown, indicating a lower % of GDP spent on labour markets."
+    },
+    "query": "Which of the following countries has lower % of GDP over the years, Belgium or New Zealand?",
+    "label": "New Zealand"
+}

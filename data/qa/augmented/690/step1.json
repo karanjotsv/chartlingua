@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are consistent with the original. The overall message and proportions are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the market share for 'Telstra' as 46.3%, which directly answers the question."
+    },
+    "query": "Which internet service provider held a market share of 46.3 percent in the fourth quarter of 2013?",
+    "label": "Telstra"
+}

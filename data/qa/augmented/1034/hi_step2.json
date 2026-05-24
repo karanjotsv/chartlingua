@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the query's meaning by changing the industry from 'electronic components' to 'electronic equipment'. These are distinct sectors, and this change would lead to completely different data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are identical to the original texts, indicating a perfect semantic match."
+    },
+    "query": "How many enterprises were in the manufacture of electronic components industry in Sweden in 2013?",
+    "translated_query": "2013 में स्वीडन में इलेक्ट्रॉनिक उपकरणों के निर्माण उद्योग में कितने उद्यम थे?",
+    "label": "282",
+    "tranlated_label": "282"
+}

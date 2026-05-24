@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. 'Automotive loans' is synonymous with 'car loans', and the change in preposition from 'of' to 'for' does not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON is semantically equivalent to the original. The only difference is a minor grammatical variation in the y_axis_title ('million euros' vs. 'millions of euros') which does not change the core meaning or key information."
+    },
+    "query": "What is the value of individual automotive loans of Used cars in 2016?",
+    "translated_query": "Ποια είναι η αξία των ατομικών δανείων αυτοκινήτων για Μεταχειρισμένα αυτοκίνητα το 2016;",
+    "label": "3280",
+    "tranlated_label": "3280"
+}

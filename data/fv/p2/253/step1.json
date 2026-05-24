@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all data categories and their corresponding percentage values. The main title is also preserved. However, the order of the slices around the chart is different from the original, and there are minor text inconsistencies, such as duplicating the percentage value in each label and changing 'RODEO' to 'Rodeo'.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The labels for the smaller categories (Rodeo, Amateur Sports, Motorsports, etc.) are heavily overlapped, making them completely unreadable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that basketball attendance was 26% and soccer attendance was 14%. The average of these two values is (26% + 14%) / 2 = 20%, which supports the claim."
+    },
+    "claim": "The average between the attendance in basketball and soccer is about 20%.",
+    "label": "TRUE"
+}

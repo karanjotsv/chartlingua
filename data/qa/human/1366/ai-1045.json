@@ -1,0 +1,56 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Seem obviously<br>false or untrue",
+            "Show people<br>engaging in<br>dangerous or<br>troubling behavior",
+            "Are abusive or<br>demeaning<br>toward others"
+        ],
+        "series": [
+            {
+                "name": "Frequently",
+                "values": [
+                    15,
+                    19,
+                    11
+                ]
+            },
+            {
+                "name": "Sometimes",
+                "values": [
+                    48,
+                    42,
+                    32
+                ]
+            },
+            {
+                "name": "Hardly ever",
+                "values": [
+                    23,
+                    25,
+                    37
+                ]
+            },
+            {
+                "name": "Never",
+                "values": [
+                    12,
+                    14,
+                    19
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<b>Majority of YouTube users encounter videos that seem<br>false/untrue, or show people doing dangerous things</b>",
+        "subtitle": "% of U.S. adults who use YouTube who ___ notice videos on the site<br>that ...",
+        "source": "Note: Respondents who did not give an answer are not shown.<br>Source: Survey of U.S. adults conducted May 29-June 11, 2018.<br>“Many Turn to YouTube for Children’s Content, News, How-To Lessons”",
+        "footer": "<b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#2f5597",
+        "#5b9bd5",
+        "#d6e3f3",
+        "#d9d9d9"
+    ]
+}

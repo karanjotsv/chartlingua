@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values, legend text, title, and color hues are consistent with the original. However, the rendered chart incorrectly places the country flags on the wrong pie slices (e.g., the Soviet flag is on the United States slice), which is a major semantic error that misrepresents the data visually.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The country flags inside the pie chart are placed on the incorrect slices, failing to correspond with the data categories they are meant to represent. This is a significant generation error that impedes correct interpretation."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim describes the chart's largest share as representing 'federal reserve and intragovernmental holdings,' but the chart's topic is the 'Country of birth of Armenians in Los Angeles, 1980.' The largest share, at 28.1%, corresponds to the 'United States.'"
+    },
+    "claim": "The biggest share on the pie chart is referred to federal reserve and intragovernmental holdings.",
+    "label": "TRUE"
+}

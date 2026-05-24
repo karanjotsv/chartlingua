@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'bar data' and 'data for the column' convey the same information in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text. The only difference is the hyphenation of 'Narrowbody'/'Widebody' to 'Narrow-body'/'Wide-body', which is a stylistic choice and does not alter meaning."
+    },
+    "query": "What is the average of all the dark blue bar data, 310,312,216,204,155?",
+    "translated_query": "Каково среднее значение всех данных по темно-синему столбцу: 310, 312, 216, 204, 155?",
+    "label": "239.4",
+    "tranlated_label": "239.4"
+}

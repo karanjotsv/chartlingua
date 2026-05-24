@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning and all key information of the original. Differences are minor stylistic choices ('The' vs no article, 'of' vs 'for', 'Bioscience' vs 'Biosciences') that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are perfect semantic matches, with 'Earth & Env. Science' expanded to 'Earth and Environmental Sciences' being a minor stylistic change. The term 'Fluid Dynamics' was back-translated as 'Hydrodynamics', which is a related but slightly narrower concept (often specifically liquids/water). This is a minor acceptable difference that doesn't significantly alter the overall meaning of the chart data."
+    },
+    "claim": "The CSCS usage of Bioscience and Nanoscience supercomputers combined is less than the CSCS usage of Computer Science. ",
+    "translated_claim": "Использование суперкомпьютеров CSCS для бионаук и нанонауки в совокупности меньше, чем использование CSCS для компьютерных наук."
+}

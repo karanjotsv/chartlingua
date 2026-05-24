@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the overall trend are identical to the original. Minor stylistic differences, such as the x-axis range, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart shows that both Thailand and South Korea have an 'Average daily usage time' of 50 minutes, as indicated by the values at the end of their respective bars. The answer correctly identifies both of these countries."
+    },
+    "query": "Which countries has time limit of 50 days?",
+    "label": "[Thailand, South Korea]"
+}

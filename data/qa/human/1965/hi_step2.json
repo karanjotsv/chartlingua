@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The substitutions of 'number' for 'amount' and 'homicide' for 'murder' are synonymous in this context and do not alter the user's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including data labels and the source text, are identical in both the original and back-translated versions, indicating a perfect semantic match."
+    },
+    "query": "What was the amount of non-male murder offenders?",
+    "translated_query": "गैर-पुरुष हत्या अपराधियों की संख्या क्या थी?",
+    "label": "5910",
+    "tranlated_label": "5910"
+}

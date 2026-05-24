@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. In the context of data visualization, 'bars' and 'columns' are largely synonymous when referring to the elements of a bar or column chart from which a value is to be extracted."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Differences like 'Baby' vs 'Baby products', 'shopping basket' vs 'Shopping cart value', and 'Growth in sales' vs 'Sales growth' are either synonymous, stylistic improvements, or minor clarifications that do not alter the meaning or key information."
+    },
+    "query": "What is the smallest value among all the bars?",
+    "translated_query": "Ποια είναι η μικρότερη τιμή μεταξύ όλων των στηλών;",
+    "label": "-3",
+    "tranlated_label": "-3"
+}

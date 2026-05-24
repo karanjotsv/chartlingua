@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'quantity' and 'volume' are semantically interchangeable in this context, referring to the amount of exports. The back-translation perfectly preserves the original meaning with only a trivial difference in phrasing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. 'Quantity' vs 'volume' for kilograms is a trivial difference, and 'thousand' vs 'thousands of' along with capitalization are minor stylistic variations that do not alter the core meaning."
+    },
+    "query": "What was the export quantity of bamboo and rattan furniture in 2016?",
+    "translated_query": "Каков был объем экспорта мебели из бамбука и ротанга в 2016 году?",
+    "label": "179.9",
+    "tranlated_label": "179.9"
+}

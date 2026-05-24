@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'Less than' to 'Fewer than' and the corresponding verb agreement ('leads' to 'lead') are minor grammatical adjustments that do not alter the core message or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the 'texts' field (x_axis_title and y_axis_title) is semantically identical between the original and back-translated versions. The only differences are minor capitalization variations, which are considered stylistic and do not alter the meaning."
+    },
+    "claim": "Less than 100,000 articles, always leads to 5 links. ",
+    "translated_claim": "Менее 100 000 статей всегда ведет к 5 ссылкам."
+}

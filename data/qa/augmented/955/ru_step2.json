@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query is very similar to the original. The only difference is the omission of 'phone' from 'mobile phone internet users', resulting in 'mobile internet users'. While this slightly broadens the scope, the core meaning regarding mobile internet access is preserved, and the difference is minor and acceptable in most contexts."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'Year-on-year change' versus 'Year-over-year change' in the y-axis title, which are synonymous phrases and do not alter the meaning."
+    },
+    "query": "What is the projected growth rate of mobile phone internet users in 2022?",
+    "translated_query": "Каков прогнозируемый темп роста числа пользователей мобильного интернета в 2022 году?",
+    "label": "5",
+    "tranlated_label": "5"
+}

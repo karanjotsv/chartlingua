@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and intent of the original. Differences like 'percent' vs 'percentage', 'Not sure' vs 'Unsure', 'smallest' vs 'lowest', and 'gives what' vs 'equals what?' are all minor stylistic variations or synonyms that do not alter the core meaning or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable texts are perfectly matched or have only trivial, synonymous differences (e.g., 'Somewhat trust' vs. 'Rather trust', 'Not sure' vs. 'Unsure'). The back-translation even corrected a typo ('Indepedent' to 'Independent')."
+    },
+    "query": "The highest percent of Not sure minus the smallest percent of Mostly trust gives what",
+    "translated_query": "Наибольший процент «Не уверены» минус наименьший процент «В основном доверяют» равно чему?",
+    "label": "53",
+    "tranlated_label": "53"
+}

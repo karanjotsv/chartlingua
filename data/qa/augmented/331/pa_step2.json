@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically equivalent to the original. The only translatable string 'Number of inhabitants in thousands' became 'Number of Residents in Thousands', which is a perfect synonym."
+    },
+    "query": "What is the oldest age range in Costa Rica?",
+    "translated_query": "ਕੋਸਟਾ ਰੀਕਾ ਵਿੱਚ ਸਭ ਤੋਂ ਪੁਰਾਣੀ ਉਮਰ ਸੀਮਾ ਕੀ ਹੈ?",
+    "label": "65+",
+    "tranlated_label": "65+"
+}

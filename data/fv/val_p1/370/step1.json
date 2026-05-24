@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color hues are consistent, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart displays the number of babies named Elsa from 2010 to 2014. The value for 2010 is 487, which is the lowest number among all the years shown in the chart (487 < 499 < 549 < 560 < 1131)."
+    },
+    "claim": "In 2010 Elsa name is the lowest one in this Bar chart Report.",
+    "label": true
+}

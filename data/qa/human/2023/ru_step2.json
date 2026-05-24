@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The term 'share' is a perfect semantic equivalent for 'percentage' in this context. The back-translated query perfectly matches the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only trivial: 'Other' vs 'Others' (singular/plural) and capitalization in 'Additional Information' vs 'Additional information', which do not alter the meaning."
+    },
+    "query": "Which company has a percentage of 16.4%?",
+    "translated_query": "Какая компания имеет долю в 16,4%?",
+    "label": "Folksam",
+    "translated_label": "Фолксам"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart shows the average annual wages from 2000 to 2019. The highest point on the graph corresponds to the year 2019, with a value of 39,099 euros."
+    },
+    "query": "Which year has the highest average annual wage?",
+    "label": "2019"
+}

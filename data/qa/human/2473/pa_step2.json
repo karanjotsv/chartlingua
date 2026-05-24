@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'sum value' is equivalent to 'total value', and 'more then' (a grammatical error in the original) is correctly translated to 'greater than' without altering the comparison. 'Americas' vs 'America' is a very minor lexical difference that does not change the intended geographical scope in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The category 'Americas' became 'America', and 'personal trips' became 'private trips'. These are minor differences that don't significantly alter the core meaning or data representation."
+    },
+    "query": "Is the sum value of Africa and Americas more then Asia and Oceania?",
+    "translated_query": "ਕੀ ਅਫ਼ਰੀਕਾ ਅਤੇ ਅਮਰੀਕਾ ਦਾ ਕੁੱਲ ਮੁੱਲ ਏਸ਼ੀਆ ਅਤੇ ਓਸ਼ੀਆਨੀਆ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

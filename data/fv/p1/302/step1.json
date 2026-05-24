@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly represents the data values, proportions, categories, and color hues of the original. All text labels are semantically identical, and the overall message is exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentages for different games, showing Tibia with 42%, which is the largest share compared to World of Warcraft (21%) and Counter Strike (37%)."
+    },
+    "claim": "Tibia is the most popular game compared to other games.",
+    "label": true
+}

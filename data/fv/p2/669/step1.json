@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart maintains the approximate proportions of the red versus the combined green slices. However, it fails to distinguish between the two separate green categories shown in the original (a bright green and a darker green), using a single color for both. It also incorrectly shows three legend items instead of the original's four and adds a title that was not present in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The legend labels are placeholders like '[Unreadable Text]', which makes it impossible to understand what the different slices of the pie chart represent."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim identifies the largest category as 'Non-Headwords done', but the legend on the chart that would label the categories contains unreadable text. Therefore, it is impossible to verify from the chart alone what the largest slice represents."
+    },
+    "claim": "Non-Headwords done has the biggest share in progress for BNC2LIST.",
+    "label": "TRUE"
+}

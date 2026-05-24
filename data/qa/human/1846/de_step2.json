@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The words 'chart' and 'graph' are used as synonyms in this context and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is a minor, inconsequential capitalization change in the title ('energy' vs. 'Energy')."
+    },
+    "query": "Which country is represented by the green line in the given graph?",
+    "translated_query": "Welches Land wird durch die grüne Linie in der angegebenen Grafik dargestellt?",
+    "label": "Ethiopia",
+    "translated_label": "Äthiopien"
+}

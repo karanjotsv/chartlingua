@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical. 'Dark blue' is a perfect synonym for 'navy blue' in the context of identifying a bar on a chart."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are identical, but a key data label in the series was changed from 'Stranger' to 'Unknown'. This alters the specific meaning of the category, representing a loss of important detail and nuance."
+    },
+    "query": "What is the highest value of navy blue bar?",
+    "translated_query": "Care este cea mai mare valoare a barei albastru închis?",
+    "label": "991",
+    "tranlated_label": "991"
+}

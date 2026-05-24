@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Highly",
+            "value": 19
+        },
+        {
+            "label": "Quite",
+            "value": 16
+        },
+        {
+            "label": "The basics",
+            "value": 19
+        },
+        {
+            "label": "Not at all",
+            "value": 46
+        }
+    ],
+    "texts": {
+        "title": "How familiar are you with the way<br>Wikimedia projects and<br>translatewiki.net interact?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00539B",
+        "#329966",
+        "#990000",
+        "#48B3D3"
+    ]
+}

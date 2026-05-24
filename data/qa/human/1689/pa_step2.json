@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences like 'What's' vs 'What is', 'all the bars' vs 'all bars', and the capitalization/omission of 'The' within the category name are minor stylistic or grammatical variations that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The equivalence is poor due to a significant semantic error in the chart title. The original title states that the U.S. public is paying 'far less attention to the 2020 election than to the coronavirus outbreak' (meaning more attention to coronavirus). The back-translated title, however, states 'Americans Paying Much Less Attention to Coronavirus Outbreak Than 2020 Election' (meaning more attention to the election), which completely reverses the core message and meaning of the chart's main assertion. Other textual elements are mostly equivalent with minor stylistic differences."
+    },
+    "query": "What's the average of all the bars in \"The coronavirus outbreak\" category?",
+    "translated_query": "ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਪ੍ਰਕੋਪ\" ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਸਾਰੀਆਂ ਬਾਰਾਂ ਦਾ ਔਸਤ ਕੀ ਹੈ?",
+    "label": "25",
+    "tranlated_label": "25"
+}

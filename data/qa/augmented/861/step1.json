@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, axis labels, and the overall trend are identical. Minor stylistic differences in font and gridlines do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the average ticket price for the 2005/06 season is 28.23, which is the exact value labeled on top of the first bar corresponding to '05/06' on the x-axis."
+    },
+    "query": "What was the average ticket price in the 2005/06 season?",
+    "label": "28.23"
+}

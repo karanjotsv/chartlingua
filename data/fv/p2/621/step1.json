@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories in the legend, and the color hues for each category are all consistent with the original. The overall message conveyed by both charts is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the 'White' ethnicity as the vast majority. Among the remaining smaller slices, the green slice representing 'Indian' is visually the largest, making it the second largest group overall as claimed."
+    },
+    "claim": "Indians are the second large group in the Chattisham.",
+    "label": "TRUE"
+}

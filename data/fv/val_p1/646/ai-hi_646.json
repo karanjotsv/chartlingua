@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "परिचय",
+            "समूह व्यायाम",
+            "साक्षात्कार",
+            "भूमिका निर्वाह",
+            "मनोमित्तीय परीक्षण"
+        ],
+        "series": [
+            {
+                "name": "श्रृंखला 1",
+                "values": [
+                    4.3,
+                    2.5,
+                    3.5,
+                    4.5,
+                    2.1
+                ]
+            },
+            {
+                "name": "श्रृंखला 2",
+                "values": [
+                    2.4,
+                    4.4,
+                    1.8,
+                    2.8,
+                    3.1
+                ]
+            },
+            {
+                "name": "श्रृंखला 3",
+                "values": [
+                    2,
+                    2,
+                    3,
+                    5,
+                    2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "मूल्यांकन दिवस व्यायाम",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31",
+        "#a5a5a5"
+    ]
+}

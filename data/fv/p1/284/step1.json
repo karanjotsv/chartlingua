@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the data is from 2019, however, the chart does not provide any information about the year the data was collected."
+    },
+    "claim": "As on 2019, Kentucky in US had the maximum firearm background checks.",
+    "label": true
+}

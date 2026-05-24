@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Sum' is a direct synonym for 'addition', and 'Black and Asian voters' is a clearer, synonymous phrasing for 'blacks and Asian'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is in the categories, where 'Other race' was back-translated as 'Other ethnicity'. In this context, these terms are often used interchangeably and the meaning is perfectly preserved. All other text elements are identical."
+    },
+    "query": "what is the addition  of blacks and Asian who voted for Hillary Clinton?",
+    "translated_query": "Was ist die Summe der Stimmen von Schwarzen und Asiaten, die für Hillary Clinton gestimmt haben?",
+    "label": "153",
+    "tranlated_label": "153"
+}

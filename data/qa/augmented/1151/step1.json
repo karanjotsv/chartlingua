@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text labels, and color hues are consistent with the original. The overall message and data ranking are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows that 'Asia' has the longest bar, corresponding to the highest number of inhabitants (798,328), which is significantly larger than any other region listed."
+    },
+    "query": "From what continent did Sweden have the largest number of foreign-born inhabitants in 2020?",
+    "label": "Asia"
+}

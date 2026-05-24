@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content (title, subtitle), and color hues are consistent with the original. The overall message is identical. The reordering of slices in the pie chart is a minor stylistic difference that does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim incorrectly identifies the color for the electric utility industry. According to the chart, the yellow slice represents 'Electric Utilities' at 13%, while the orange colored slice represents 'Chemicals' at 15%."
+    },
+    "claim": "The share of disposal and other releases from the electric utility industry is represented by the orange colored pie slice.",
+    "label": "FALSE"
+}

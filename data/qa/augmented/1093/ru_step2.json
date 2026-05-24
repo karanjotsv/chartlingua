@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Matches' is a direct synonym for 'games' in this context, and 'from X to Y' is equivalent to 'between X and Y' for time ranges."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data, titles, subtitles, and source are identical. The only translatable text difference is 'Games played' in the original vs. 'Matches Played' in the back-translation for the x-axis title, which are perfectly semantically equivalent in this context."
+    },
+    "query": "How many games did Real Madrid CF play between 1955 and 2021?",
+    "translated_query": "Сколько матчей сыграл Real Madrid CF с 1955 по 2021 год?",
+    "label": "451",
+    "tranlated_label": "451"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent semantic match to the original. All data values, proportions, categories, and series are accurately reproduced. The text content, including the title, axis labels, and legend, is consistent. The color hues for 'Male' (blue) and 'Female' (orange) are also preserved, ensuring the overall message of the chart is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that for the 'Domestic offices or Services' category, the number of female workers (the orange portion of the bar, approximately 35) is significantly higher than the number of male workers (the blue portion, approximately 10)."
+    },
+    "claim": "At domestic offices or services there were more male workers than female in Belstead in 1881.",
+    "label": false
+}

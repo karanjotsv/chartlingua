@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, series, text content, and color hues are all consistent with the original chart, conveying the same message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "Several of the rotated x-axis labels are clipped by the chart's bottom boundary, making them partially unreadable (e.g., 'Dealing with Clothing', 'Dealing with Various Vegetable Substances')."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows the occupational distribution for males and females in 1881. For females, represented by the green bars, the bar corresponding to the 'Unknown/Illegible' category is the tallest by a significant margin, reaching a value of over 40. This is substantially higher than any other category for females, visually confirming that the vast majority of female occupations were classified as unknown or illegible."
+    },
+    "claim": "The occupations among females in Fakenham Magna in 1881 were vastly unknown or illegible.",
+    "label": true
+}

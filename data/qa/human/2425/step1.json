@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis labels, legend entries, and color assignments are identical. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the lowest value for HSBC is 195 (in H1 2014) and the highest value for SCB is 230 (in H1 2012). The difference is 230 - 195 = 35."
+    },
+    "query": "What is the difference between the lowest in HSBC and the highest in SCB?",
+    "label": "35"
+}

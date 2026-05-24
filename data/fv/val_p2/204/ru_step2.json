@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly retains the original meaning. The minor difference in phrasing ('There are... on the chart' vs. 'The chart has...') is purely stylistic and does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The main title has a slight change from 'Assessment of Land Value' to 'Land Valuation', which is a minor shift in nuance but conveys the same core concept. Category labels like 'Land Area' changed to 'Plot area' and 'Ground Floor building foot-print area' to 'Built-up area on the ground floor' are very close semantically, with the latter being a good synonym. 'Land FPA+1250' to 'Area FPA+1250' is also a minor acceptable change. All other text elements are perfectly matched."
+    },
+    "claim": "There are two equivalent blocks on the chart with value 5000.",
+    "translated_claim": "На диаграмме есть два эквивалентных блока со значением 5000."
+}

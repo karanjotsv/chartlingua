@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is fundamentally incomplete. While the title, legend labels, and colors for the visible slices are consistent, the chart itself is a semi-circle and omits a large number of the smaller data categories that are present in the original chart and in its own legend. This significantly misrepresents the overall data distribution.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed. It is rendered as an incomplete semi-circle instead of a full pie chart, meaning it does not visually account for all the data categories listed in its legend."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the jobs are 'framed by CRNYHS students', but there is no information in the chart to support this assertion. The chart only provides data on the distribution of jobs by industry sector."
+    },
+    "claim": "Corporate Work Study Jobs by 21 Industry sector are framed by CRNYHS students.",
+    "label": true
+}

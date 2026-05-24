@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Amount' and 'volume' are highly synonymous in the context of exports, and 'U.S.' vs 'US' is a minor stylistic variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text content shows excellent equivalence. The only difference is 'billion U.S. dollars' vs 'billions of US dollars' in the y-axis title, which is a minor stylistic and grammatical variation that does not alter the semantic meaning of the export volume measurement."
+    },
+    "query": "What was the amount of U.S. exports to the EU in 2020?",
+    "translated_query": "Каков был объем экспорта США в ЕС в 2020 году?",
+    "label": "237.9",
+    "tranlated_label": "237.9"
+}

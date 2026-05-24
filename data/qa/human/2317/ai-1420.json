@@ -1,0 +1,61 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Girls grade 10",
+            "Girls grade 9",
+            "Girls grade 8",
+            "Girls grade 7",
+            "Girls grade 6",
+            "Boys grade 10",
+            "Boys grade 9",
+            "Boys grade 8",
+            "Boys grade 7",
+            "Boys grade 6"
+        ],
+        "series": [
+            {
+                "name": "Too thin",
+                "data": [
+                    10,
+                    10,
+                    11,
+                    10,
+                    9,
+                    20,
+                    20,
+                    17,
+                    15,
+                    14
+                ]
+            },
+            {
+                "name": "Too fat",
+                "data": [
+                    34,
+                    31,
+                    26,
+                    28,
+                    19,
+                    23,
+                    24,
+                    23,
+                    25,
+                    18
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Percentage of students",
+        "y_axis_title": null,
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2C7BDE",
+        "#0A2840"
+    ]
+}

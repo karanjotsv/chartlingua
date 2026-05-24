@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly identifies the two largest categories and their approximate proportions. However, it incorrectly swaps the relative sizes of the two smallest categories ('Oak Savanna' and 'Mixed Hdwds-Prairie'). In the original, the 'Mixed Hdwds-Prairie' (red) slice is visibly larger than the 'Oak Savanna' (orange) slice, but this is reversed in the rendered chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents the ecosystem distribution in Monson Lake State Park. The yellow slice, labeled 'Prairie', clearly constitutes more than 50% of the total area, making it the majority. Therefore, the claim that the majority of the park is covered by prairie vegetation is directly supported by the chart."
+    },
+    "claim": "The majority of Monson Lake State Park area in eastern Swift County Minnesota is covered by prairie vegetation.",
+    "label": true
+}

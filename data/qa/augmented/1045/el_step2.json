@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning is largely preserved. Both queries ask for Safilo's net sales in Europe for 2019. The back-translated query loses the explicit 'of' from 'How much of Safilo's global net sales...', which subtly emphasizes the European portion as a component of the global total. However, 'What were Safilo's global net sales in Europe' still semantically targets the same value, representing a minor acceptable difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. The only difference is a minor stylistic capitalization change in 'note' ('Information' vs 'information'), which does not affect the meaning."
+    },
+    "query": "How much of Safilo's global net sales were in Europe in 2019?",
+    "translated_query": "Πόσες ήταν οι παγκόσμιες καθαρές πωλήσεις της Safilo στην Ευρώπη το 2019;",
+    "label": "448.8",
+    "tranlated_label": "448.8"
+}

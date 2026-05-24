@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are accurately reproduced. The overall message and proportions are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to an x-axis and a y-axis and a correlation between them, but the provided chart is a pie chart, which does not have these axes. Pie charts display proportional data, not relationships between two variables on axes."
+    },
+    "claim": "There is a positive correlation between the values on the x axis and the y axis on the chart.",
+    "label": "TRUE"
+}

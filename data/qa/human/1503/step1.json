@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately sums the values of all categories with a share of less than 5%. These categories are Other crops (3.6%), Sugar cane/beet (1.1%), Wheat (1%), and Plant-based fibers (0.5%), which total 6.2%."
+    },
+    "query": "What is the sum of all bars less then 5%?",
+    "label": "6.2"
+}

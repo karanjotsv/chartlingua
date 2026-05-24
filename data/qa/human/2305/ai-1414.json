@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Search ad clicks",
+            "x": [
+                "Medical supplies",
+                "Pharmaceuticals"
+            ],
+            "y": [
+                5,
+                34
+            ]
+        },
+        {
+            "name": "Search ad conversion rate",
+            "x": [
+                "Medical supplies",
+                "Pharmaceuticals"
+            ],
+            "y": [
+                24,
+                47
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Value",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#1A2C42"
+    ]
+}

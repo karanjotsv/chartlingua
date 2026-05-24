@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, categories, text content, and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentage of electricity generated from different sources. Coal is the largest source at 38.7%, and Nuclear is the second largest source at 36.8%. Therefore, the claim that Nuclear energy is the main source after Coal is correct."
+    },
+    "claim": "Nuclear energy is the main source of energy after Coal for the electricity generation in Tennessee.",
+    "label": "TRUE"
+}

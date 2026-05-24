@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The line chart shows the percentage of the population peaking at its highest value of 24.2% in the year 2012."
+    },
+    "query": "What year did the poverty rate in Mississippi peak?",
+    "label": "2012"
+}

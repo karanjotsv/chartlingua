@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly conveys the same meaning as the original. 'Finances related to fundraising' is a good rephrasing of 'The Fundraising finances', and 'highlighted in yellow' is an equivalent way to state 'is the color yellow' in this context. The location 'in the pie chart' is also equivalent to 'on the pie chart'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and the chart title maintain semantic meaning. Minor rephrasing like 'Central African Programs' to 'Programs in Central Africa' or 'Creation' to 'Production' are acceptable. The change from 'Awareness' to 'Information' for programs and products is a slight shift but still conveys a very similar purpose in this context."
+    },
+    "claim": "The Fundraising finances on the pie chart is the color yellow.",
+    "translated_claim": "Финансы, связанные со сбором средств, на круговой диаграмме выделены желтым цветом."
+}

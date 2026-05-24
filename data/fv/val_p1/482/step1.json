@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the data trend, all axis values, and the annotations for key events. The addition of a descriptive title and a data source enhances the chart without altering its core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the subsidy decreased from 1990 to 2015, but the chart shows the opposite. The subsidy in 1990 was approximately 5 pence per passenger mile, while in 2015 it was higher, at approximately 8 pence per passenger mile. The trend was also not a consistent decrease, with significant peaks around 1995 and 2007."
+    },
+    "claim": "The UK government rail subsidy per passenger mile decreased from 1990 to 2015.",
+    "label": false
+}

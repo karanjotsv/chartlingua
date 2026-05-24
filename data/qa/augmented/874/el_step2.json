@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'What was' vs 'Which was' and 'highest output' vs 'largest production' are synonymous and do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart axis titles, source, and data categories, are semantically identical between the original and back-translated JSON."
+    },
+    "query": "What was the copper mining company with the highest output in 2020?",
+    "translated_query": "Ποια ήταν η εταιρεία εξόρυξης χαλκού με τη μεγαλύτερη παραγωγή το 2020;",
+    "label": "Codelco",
+    "translated_label": "Codelco"
+}

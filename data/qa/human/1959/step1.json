@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axes, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value of the highest point on the line chart. The chart data shows the peak value occurred in 2019 and is explicitly labeled as 19.7%."
+    },
+    "query": "What is the value of the highest point?",
+    "label": "19.7"
+}

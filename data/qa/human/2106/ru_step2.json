@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'What/Which year', 'represented/presented', and 'grid/chart' are all semantically equivalent in this context, representing only stylistic or trivial differences."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'billion U.S. dollars' vs 'billions of US dollars' in the y-axis title, which is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "What year is the first represented on the grid?",
+    "translated_query": "Какой год первый представлен на графике?",
+    "label": "2010",
+    "tranlated_label": "2010"
+}

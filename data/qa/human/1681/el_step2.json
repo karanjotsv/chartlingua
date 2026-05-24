@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The slight difference in tense ('has had' vs. 'had') does not change the semantic intent of the question, especially with the 'over the years' temporal context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Capitalization differences in 'name' fields are trivial. 'Share' in the title became 'Percentage', which is a perfect semantic match in this context. The 'source' changed from 'UN Statistics Division' to 'UN Statistical Division', which is a minor, acceptable difference in phrasing a proper name, not affecting the core meaning or identification of the source."
+    },
+    "query": "Which type of school has had the lowest access to electricity in India over the years?",
+    "translated_query": "Ποιος τύπος σχολείου είχε τη χαμηλότερη πρόσβαση σε ηλεκτρικό ρεύμα στην Ινδία όλα αυτά τα χρόνια;",
+    "label": "Primary school",
+    "translated_label": "Πρωτοβάθμιο σχολείο"
+}

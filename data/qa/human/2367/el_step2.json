@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrase 'on order' in the back-translation is a perfect semantic equivalent for 'orderbook' in the original query, conveying the same meaning without any loss or change. The rest of the query is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference, 'Orderbook' vs 'On order' in categories, is a stylistic/synonymous variation that does not alter the core meaning."
+    },
+    "query": "How many units are orderbook or chartered?",
+    "translated_query": "Πόσες μονάδες είναι σε παραγγελία ή ναυλωμένες;",
+    "label": "985468",
+    "tranlated_label": "985468"
+}

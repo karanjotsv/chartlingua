@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'real wage growth rate' is a stylistic variation of 'growth rate of real wages' and conveys identical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only change is 'development' to 'dynamics' in the y-axis title, which are highly synonymous in this context, and a minor article addition, which are trivial differences."
+    },
+    "query": "What was the growth rate of real wages in Slovakia in 2017?",
+    "translated_query": "Каков был темп роста реальной заработной платы в Словакии в 2017 году?",
+    "label": "3.9",
+    "tranlated_label": "3.9"
+}

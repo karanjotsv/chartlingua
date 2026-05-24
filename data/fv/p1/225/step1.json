@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart incorrectly attempts to merge two distinct charts from the original into a single, contradictory chart. It uses the title from the first chart ('Percent of Mass') but displays data proportions more aligned with the second chart and includes an overlaid text label ('Atomic percent') from the second chart. This fundamentally misrepresents the data and completely loses the original's core message, which was a comparison between mass and atomic percentages. The legend is also severely truncated.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed, as it is a nonsensical combination of two different charts. A text label ('Atomic percent') is overlaid directly on top of the data slices, obscuring them. Additionally, there is extraneous placeholder text ('new text') at the bottom of the image."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the largest section of the pie chart is carbon, which is colored red. Visually, the largest section of the pie chart is the green slice, not the red one."
+    },
+    "claim": "The largest section in the Atomic Percent is carbon which is colored red. ",
+    "label": false
+}

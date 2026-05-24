@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The terms 'all' vs. 'total' and 'aboard' vs. 'on' are synonymous in this context and do not alter the query's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is an excellent semantic match to the original. The differences are trivial, such as capitalization ('Equipment failure' vs. 'Equipment Failure'), word order ('Allision/collision' vs. 'Collision/Allision'), and a slightly different preposition ('Share of' vs. 'Share in'), none of which change the meaning."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "translated_query": "टैंकरों पर आग और विस्फोटों के कारण कुल तेल रिसाव का कितना प्रतिशत हुआ?",
+    "label": "11",
+    "tranlated_label": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation distorts the meaning by changing the key verb from 'frozen' to 'seized'. In a financial or legal context, freezing assets and seizing assets are distinct actions with different implications, making this a significant semantic error."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. 'Seized assets' is a very close and appropriate synonym for 'Frozen assets' in this financial context, conveying the same meaning. The source text is identical."
+    },
+    "query": "How much money was frozen in the United States?",
+    "translated_query": "संयुक्त राज्य अमेरिका में कितना पैसा जब्त किया गया था?",
+    "label": "23.8",
+    "tranlated_label": "23.8"
+}

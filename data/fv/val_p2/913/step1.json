@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, percentages, titles, and axis labels are identical. The overall structure and message are preserved, and the color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the number of files with language templates on Commons, whereas the claim is about the box office gross of a movie. The chart contains no information to support or evaluate the claim."
+    },
+    "claim": "The cumulative box office gross of Howls Moving Castle decreased after its initial release",
+    "label": "FALSE"
+}

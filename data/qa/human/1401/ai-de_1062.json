@@ -1,0 +1,62 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "Aug 2014-1",
+            "Aug 2014-2",
+            "Okt 2014",
+            "Feb 2015",
+            "Jul 2015",
+            "Dez 2015"
+        ],
+        "series": [
+            {
+                "name": "Befürworten",
+                "y": [
+                    54,
+                    53,
+                    57,
+                    63,
+                    63,
+                    64
+                ]
+            },
+            {
+                "name": "Ablehnen",
+                "y": [
+                    31,
+                    29,
+                    33,
+                    30,
+                    26,
+                    28
+                ]
+            }
+        ]
+    },
+    "x_axis_config": {
+        "tickvals": [
+            0.5,
+            2,
+            3,
+            4,
+            5
+        ],
+        "ticktext": [
+            "Aug<br>2014",
+            "Okt<br>2014",
+            "Feb<br>2015",
+            "Jul<br>2015",
+            "Dez<br>2015"
+        ]
+    },
+    "texts": {
+        "title": "<b>Die meisten unterstützen weiterhin die US-Militärkampagne<br>gegen den IS</b>",
+        "subtitle": "% die die US-Militärkampagne gegen<br>islamische Militante im Irak und in Syrien ___",
+        "source": "Quelle: Umfrage durchgeführt vom 8. bis 13. Dez. 2015.<br>„Weiß nicht“-Antworten werden nicht angezeigt.<br>* Die Umfrage vom September 2014 fragte nach Barack Obamas Plan für eine<br>Militärkampagne gegen Militante im Irak und in Syrien. Die Umfrage vom August 2014<br>fragte nur nach US-Luftangriffen gegen Militante im Irak.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#c8a941",
+        "#8d7c3d"
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "title": "Regional Profile of the South West",
+    "sections": {
+        "population": {
+            "title": "Population",
+            "header_color": "#D95328",
+            "chart_type": "donut",
+            "data": {
+                "values": [
+                    8,
+                    92
+                ]
+            },
+            "colors": [
+                "#D95328",
+                "#E6E6E6"
+            ],
+            "center_text": "8%<br>of the UK",
+            "subtext": "5.3 million<br>mid-2012"
+        },
+        "median_age": {
+            "title": "Median Age",
+            "header_color": "#8C399D",
+            "chart_type": "text",
+            "data": [
+                {
+                    "label": "South West",
+                    "value": "42.9",
+                    "unit": "years"
+                },
+                {
+                    "label": "West Midlands",
+                    "value": "41.0",
+                    "unit": "years"
+                },
+                {
+                    "label": "London",
+                    "value": "34.0",
+                    "unit": "years"
+                }
+            ],
+            "subtext": "Highest in England<br>mid-2012"
+        },
+        "life_expectancy": {
+            "title": "Life Expectancy",
+            "header_color": "#F29D35",
+            "chart_type": "text",
+            "data": [
+                {
+                    "label": "South West",
+                    "male": "79.8",
+                    "female": "83.7"
+                },
+                {
+                    "label": "North West",
+                    "male": "77.4",
+                    "female": "81.5"
+                }
+            ],
+            "unit": "years",
+            "subtext": "Among the highest<br>in England<br>2009-2011"
+        },
+        "economic_output": {
+            "title": "Economic Output",
+            "header_color": "#97BB3B",
+            "chart_type": "donut",
+            "data": {
+                "values": [
+                    8,
+                    92
+                ]
+            },
+            "colors": [
+                "#97BB3B",
+                "#E6E6E6"
+            ],
+            "center_text": "8%<br>of the UK",
+            "subtext": "Gross Value Added<br>2011"
+        },
+        "unemployment": {
+            "title": "Unemployment",
+            "header_color": "#2681B4",
+            "chart_type": "bar_v",
+            "data": {
+                "categories": [
+                    "North<br>East",
+                    "South<br>East",
+                    "South<br>West"
+                ],
+                "values": [
+                    10.3,
+                    6.0,
+                    6.0
+                ]
+            },
+            "colors": [
+                "#91B9D4",
+                "#2681B4",
+                "#2681B4"
+            ],
+            "subtext": "Q2 2013"
+        },
+        "working_age": {
+            "title": "Working-age population<br>with no qualifications",
+            "header_color": "#8C6D4F",
+            "chart_type": "bar_h",
+            "data": {
+                "categories": [
+                    "South<br>East",
+                    "South<br>West",
+                    "West<br>Midlands"
+                ],
+                "values": [
+                    6.9,
+                    7.0,
+                    13.6
+                ]
+            },
+            "colors": [
+                "#8C6D4F"
+            ],
+            "subtext": "2012"
+        },
+        "crime": {
+            "title": "Crime",
+            "header_color": "#333333",
+            "chart_type": "bar_h",
+            "data": {
+                "categories": [
+                    "South West",
+                    "London"
+                ],
+                "values": [
+                    176,
+                    245
+                ]
+            },
+            "colors": [
+                "#333333",
+                "#666666"
+            ],
+            "subtext": "Household<br>crimes per 1,000<br>households",
+            "note": "Lowest in England<br>2012/13"
+        }
+    },
+    "footer": {
+        "website": "www.ons.gov.uk",
+        "source_note": "Contains data and information from Ordnance Survey,<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013",
+        "logo_text": "Office for<br>National Statistics"
+    },
+    "style": {
+        "background_color": "#F2F2F2",
+        "font_family": "Arial",
+        "text_color": "#333333"
+    }
+}

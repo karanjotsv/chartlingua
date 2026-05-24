@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the numerical data, legend text, and title are all correct, the rendered chart has completely misplaced the national flags inside the pie slices. For example, the US flag is in the Iran slice, and the Soviet flag is in the United States slice. This creates a major semantic inconsistency that is highly misleading at a glance, fundamentally misrepresenting the visual association between a country and its data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the United States accounts for 28.1% of the birthplaces, which is the largest portion, not the fewest. The smallest portion is Turkey at 9.7%."
+    },
+    "claim": "The fewest number of Armenians are born in the United States than anywhere else.",
+    "label": "FALSE"
+}

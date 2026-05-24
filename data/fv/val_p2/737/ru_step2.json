@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. The phrase 'has a value less than' is semantically equivalent to 'is less than' in this context, with only a trivial stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the 'texts' object (axis titles and annotations) are identical between the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "claim": "The Chained Consumer Price Index in the US for the middle quintile has a value less than 50%.",
+    "translated_claim": "Цепной индекс потребительских цен в США для среднего квинтиля имеет значение менее 50%."
+}

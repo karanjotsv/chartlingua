@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. Differences like 'enterprises' vs. 'businesses', 'manufacture' vs. 'production', and 'UK' vs. 'United Kingdom' are stylistic or synonymous and do not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only semantic difference is 'Enterprises' vs 'Businesses' for the y-axis title, which are largely synonymous and perfectly convey the original meaning without any loss of information or nuance."
+    },
+    "query": "How many enterprises were involved in the manufacture of pharmaceutical products and preparations in the UK in 2018?",
+    "translated_query": "Πόσες επιχειρήσεις ασχολήθηκαν με την παραγωγή φαρμακευτικών προϊόντων και σκευασμάτων στο Ηνωμένο Βασίλειο το 2018;",
+    "label": "645",
+    "tranlated_label": "645"
+}

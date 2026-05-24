@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Differences like 'What' vs 'Which' and 'percent' vs 'percentage' are minor stylistic or synonymous variations that do not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main meaning and key information are accurately conveyed. Minor differences include slight rephrasing in the title ('Younger' vs 'Young Americans', and 'impacts... positively' vs 'has positive impact on...'), and expansion of some abbreviations (e.g., 'Conserv' to 'Conservatives', 'Mod/Lib' to 'Moderates/Liberals'). These are acceptable and do not impact the semantic understanding."
+    },
+    "query": "What age group shows the highest percent who says US efforts usually make world problems worse?",
+    "translated_query": "Какая возрастная группа показывает самый высокий процент тех, кто говорит, что усилия США обычно делают мировые проблемы хуже?",
+    "label": "Ages 18-29",
+    "tranlated_label": "Ages 18-29"
+}

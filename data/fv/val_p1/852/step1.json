@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows that the 'State Restricted' fund constitutes 37% of the DEQ 2015 Budget, which is the largest percentage among all the listed sources."
+    },
+    "claim": "The biggest portion of the DEQ budget is allotted to State Restricted fund. ",
+    "label": true
+}

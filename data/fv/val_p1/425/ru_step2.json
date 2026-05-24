@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly captures the semantic meaning of the original. The slight grammatical differences ('is the least number' vs 'there was the lowest number') improve readability without altering the core information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text is the chart title. The back-translation changed 'Movements/yr' to 'Movements/year', which is a perfect semantic match as 'yr' is a common abbreviation for 'year'. All other JSON content, including data and null text fields, is identical."
+    },
+    "claim": "In the year of 2005, is the least number of the aircraft movements at Hilversum Airport.",
+    "translated_claim": "В 2005 году было наименьшее количество движений воздушных судов в аэропорту Хильверсюм."
+}

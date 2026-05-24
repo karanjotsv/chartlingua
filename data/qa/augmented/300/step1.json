@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels (player names), axis titles, and the overall data ranking are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Harry Kane as the most valuable player, which is supported by the chart. Harry Kane is listed at the top with the longest bar and the highest market value of 150 million euros."
+    },
+    "query": "Who was the most valuable player at the 2018 FIFA World Cup?",
+    "label": "Harry Kane"
+}

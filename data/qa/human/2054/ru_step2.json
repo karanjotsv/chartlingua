@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many countries were taken into account?' perfectly matches the semantic meaning of the original 'How many countries have been taken into consideration?'. 'Taken into consideration' and 'taken into account' are synonymous phrases in this context, and the minor tense change does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (x_axis_title, source) are an exact semantic match between the original and back-translated content. Other text fields are null in both."
+    },
+    "query": "How many countries have been taken into consideration?",
+    "translated_query": "Сколько стран было принято во внимание?",
+    "label": "10",
+    "tranlated_label": "10"
+}

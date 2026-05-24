@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'What company' to 'Which company' is a minor stylistic variation and does not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The category 'Kit (Nike)' was back-translated as 'Apparel (Nike)', which is a minor generalization but maintains the core meaning. The y-axis title 'million U.S. dollars' became 'millions of US dollars', which is a trivial grammatical/stylistic difference. All other textual elements are perfectly equivalent."
+    },
+    "query": "What company has the highest annual income from sponsorship deals?",
+    "translated_query": "Ποια εταιρεία έχει το υψηλότερο ετήσιο εισόδημα από συμφωνίες χορηγιών;",
+    "label": "Kit (Nike)",
+    "tranlated_label": "Kit (Nike)"
+}

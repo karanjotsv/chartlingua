@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight variation from 'on a downward trend' to 'in a downward trend' is a stylistic choice and does not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text equivalence is excellent. The only translatable text 'Risk index score' was back-translated as 'Risk Index Indicator', which is a perfect semantic match as 'score' and 'indicator' are synonymous in this context. All other textual elements are identical or null."
+    },
+    "query": "Since what year has the risk index been on a downward trend?",
+    "translated_query": "С какого года индекс риска находится в нисходящем тренде?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

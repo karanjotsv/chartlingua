@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent because it omits most of the original data and all categorical x-axis labels. It only displays one of the four original data points ('Wikipedia - Male'), completely losing the comparative context between 'Wikipedia' and 'Wikiquote' and between 'Male' and 'Female'.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays a single value under the title 'Kanuri' but provides no breakdown or labels to indicate what this value represents. Specifically, there is no information about the gender of Wikipedia editors, making it impossible to support the claim's comparison between male and female editors."
+    },
+    "claim": "There are more male editors on the Wikipedia project in the Kanuri language than female editors.\n",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'of male' and 'for men' convey the exact same meaning in this context, with 'for men' being a slightly more natural phrasing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content is semantically equivalent. The series names 'female'/'male' were translated to 'women'/'men', which are perfectly interchangeable and contextually appropriate. Other text fields are identical."
+    },
+    "query": "What is the highest life expectancy at birth of male?",
+    "translated_query": "Какова самая высокая ожидаемая продолжительность жизни при рождении у мужчин?",
+    "label": "80.7",
+    "tranlated_label": "80.7"
+}

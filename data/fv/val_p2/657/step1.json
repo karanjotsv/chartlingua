@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trend, axis labels, titles, and overall message are identical to the original. The core information is fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays a clear downward trend from left to right, indicating that as the year increases (x-axis), the 'Ratio of Asset value to Debt' (y-axis) generally decreases. This visual relationship directly supports the claim of a negative correlation between the two variables."
+    },
+    "claim": "There is a negative correlation between year and ratio of asset value of debt.",
+    "label": "TRUE"
+}

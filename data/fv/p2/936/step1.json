@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All key elements, including the data trend, axis labels, titles, and color scheme, are accurately reproduced. The overall message is identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the number of U.S. patents granted from 1870 to the early 2000s. The claim discusses 'surges', 'damages', and 'electronic devices', which are topics not represented in the chart's data."
+    },
+    "claim": "In this chart Surges is the largest on in damages in electronic devices. ",
+    "label": "TRUE"
+}

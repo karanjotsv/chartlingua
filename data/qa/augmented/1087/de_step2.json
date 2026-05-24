@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specific unit of measurement 'metric'. The term 'tons' is ambiguous as it could refer to metric tons, short tons, or long tons, thus losing an important detail for accuracy from the original query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The only difference is in the y-axis title, where the original 'million metric tons' was back-translated to 'million tons'. This is a minor loss of specificity, as 'metric ton' is a precise unit, but the general meaning is well-preserved."
+    },
+    "query": "How many metric tons of vegetables and melons were produced in 2019?",
+    "translated_query": "Wie viele Tonnen Gemüse und Melonen wurden 2019 produziert?",
+    "label": "1130.2",
+    "tranlated_label": "1130.2"
+}

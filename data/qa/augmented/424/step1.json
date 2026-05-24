@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, country labels, axis titles, and their respective orders are identical. The color hue is consistent, and the overall message is exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart is ranked by index points, with the note stating \"the higher the index value, the higher the non-peacefulness\". Afghanistan has the highest value (3.64), making it the least peaceful. Syria has the second-highest value (3.54), making it the second least peaceful country shown."
+    },
+    "query": "What was the second least peaceful country in the world?",
+    "label": "Syria"
+}

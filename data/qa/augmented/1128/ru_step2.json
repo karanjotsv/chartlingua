@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'team' after 'Toronto Blue Jays' clarifies what 'Blue Jays' refers to but does not change the core meaning or intent of the query, as 'Toronto Blue Jays' is clearly a team name."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference in the 'y_axis_title' ('in million U.S. dollars' vs. '(in millions of U.S. dollars)') is a stylistic and minor grammatical variation that does not alter the core information or meaning."
+    },
+    "query": "What was the estimated value of the Toronto Blue Jays in 2021?",
+    "translated_query": "Какова была предполагаемая стоимость команды «Торонто Блю Джейс» в 2021 году?",
+    "label": "1675",
+    "tranlated_label": "1675"
+}

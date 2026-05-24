@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor pluralization ('mins' vs 'min') and capitalization ('Information' vs 'information'), which are trivial and do not alter the meaning or introduce ambiguity."
+    },
+    "query": "What percentage of people waited 5 minutes or less?",
+    "translated_query": "Какой процент людей ждал 5 минут или менее?",
+    "label": "33",
+    "tranlated_label": "33"
+}

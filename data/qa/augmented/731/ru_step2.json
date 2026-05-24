@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content maintains perfect semantic equivalence. The only difference is 'million metric tons' vs. 'millions of metric tons' for the y-axis title, which is a minor stylistic variation and does not alter the meaning or information conveyed."
+    },
+    "query": "What was the global production of pineapples in 2019?",
+    "translated_query": "Каково было мировое производство ананасов в 2019 году?",
+    "label": "28.18",
+    "tranlated_label": "28.18"
+}

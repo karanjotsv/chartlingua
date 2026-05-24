@@ -1,0 +1,66 @@
+{
+    "chart_type": "nested_donut",
+    "chart_data": [
+        {
+            "category": "Other",
+            "label": "अन्य",
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "category": "Large Cell Carcinoma",
+            "label": "लार्ज सेल<br>कार्सिनोमा",
+            "values": [
+                2,
+                4
+            ]
+        },
+        {
+            "category": "Adenocarcinoma",
+            "label": "एडेनोकार्सिनोमा",
+            "values": [
+                15,
+                35
+            ]
+        },
+        {
+            "category": "Small Cell Carcinoma",
+            "label": "स्मॉल सेल<br>कार्सिनोमा",
+            "values": [
+                10,
+                15
+            ]
+        },
+        {
+            "category": "Squamous Cell Carcinoma",
+            "label": "स्क्वैमस सेल<br>कार्सिनोमा",
+            "values": [
+                8,
+                10
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    },
+    "colors": {
+        "outer": [
+            "#BCC5D6",
+            "#756BB1",
+            "#4DAF4A",
+            "#D85F2A",
+            "#377EB8"
+        ],
+        "inner": [
+            "#E6E8ED",
+            "#CAB2D6",
+            "#B2DF8A",
+            "#FDBF6F",
+            "#A6CEE3"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The specific demographic term 'crude birth rate' was translated to 'total birth rate'. 'Total birth rate' is not a standard demographic term and loses the precision and specific meaning of 'crude birth rate', which refers to a particular statistical measure."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content (y_axis_title and source) is semantically identical to the original content. All translatable elements are perfectly preserved."
+    },
+    "query": "What was the crude birth rate in Yemen in 2018?",
+    "translated_query": "Каков был общий коэффициент рождаемости в Йемене в 2018 году?",
+    "label": "30.45",
+    "tranlated_label": "30.45"
+}

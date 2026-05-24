@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. Differences are only in stylistic phrasing ('is at the first position' vs. 'ranks first') and minor grammatical articles, which do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (hover_label and display_label values) in the back-translated JSON is an exact semantic and literal match to the original content. All 'texts' fields are null in both versions."
+    },
+    "claim": "with 72 million people, Democratic Party is at the first position of this chart.",
+    "translated_claim": "Με 72 εκατομμύρια άτομα, το Δημοκρατικό Κόμμα βρίσκεται στην πρώτη θέση αυτού του γραφήματος."
+}

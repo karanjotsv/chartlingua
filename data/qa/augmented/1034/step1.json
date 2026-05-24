@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, categories, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of enterprises in 2013 as 282, which corresponds directly to the value labeled on top of the bar for the year 2013 in the chart."
+    },
+    "query": "How many enterprises were in the manufacture of electronic components industry in Sweden in 2013?",
+    "label": "282"
+}

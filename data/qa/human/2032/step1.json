@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and overall proportions are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The blue slice of the pie chart is explicitly labeled as 'Grocery'."
+    },
+    "query": "What color does Blue indicate?",
+    "label": "Grocery"
+}

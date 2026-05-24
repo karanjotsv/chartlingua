@@ -1,0 +1,54 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Bester Dokumentarfilm",
+            "Bester Dokumentar-Kurzfilm",
+            "Bestes Originaldrehbuch",
+            "Beste Regie",
+            "Bester Film",
+            "Bestes adaptiertes Drehbuch",
+            "Bester Schnitt",
+            "Beste Kamera"
+        ],
+        "series": [
+            {
+                "name": "Männlich",
+                "data": [
+                    46,
+                    60,
+                    60,
+                    60,
+                    70,
+                    71,
+                    80,
+                    100
+                ]
+            },
+            {
+                "name": "Weiblich",
+                "data": [
+                    54,
+                    40,
+                    40,
+                    40,
+                    30,
+                    29,
+                    20,
+                    0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anteil der Nominierten",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2A75D9",
+        "#1C2C3C"
+    ]
+}

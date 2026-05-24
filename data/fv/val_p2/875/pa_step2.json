@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Above' vs 'over' and 'given by' vs 'were made by' are synonymous. The absence of 'breakdown' in 'revenue distribution' is a minor stylistic difference that does not alter the core meaning, as 'distribution' already implies a form of breakdown."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'label' fields within 'chart_data' and all fields within 'texts', is identical between the original and back-translated JSONs. This indicates perfect semantic equivalence."
+    },
+    "claim": "Donations above $250k given by 20% of revenue breakdown distribution in 2014-2015.",
+    "translated_claim": "2014-2015 ਵਿੱਚ, ਮਾਲੀਆ ਵੰਡ ਦੇ 20% ਦੁਆਰਾ $250k ਤੋਂ ਵੱਧ ਦੇ ਦਾਨ ਦਿੱਤੇ ਗਏ।"
+}

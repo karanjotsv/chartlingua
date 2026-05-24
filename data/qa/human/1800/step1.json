@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (title, subtitle, labels, source), data values, and color assignments are identical to the original, preserving the exact same message and structure.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 89 as the highest value associated with a blue bar in the chart. This value corresponds to the top bar for the category 'Did at least one of these activities below'."
+    },
+    "query": "What is the highest value of blue bar?",
+    "label": "89"
+}

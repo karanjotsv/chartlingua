@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Graph' and 'chart' are synonymous in this context, and both phrasings accurately inquire about the trend."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The key metric 'GERD' (Gross Domestic Expenditure on R&D) in the original content has been incorrectly translated to 'GNI' (Gross National Income) in the back-translated content. This fundamental change in the data label and Y-axis title significantly distorts the meaning of the chart, representing a different economic indicator."
+    },
+    "query": "Does the graph increase or decrease?",
+    "translated_query": "График увеличивается или уменьшается?",
+    "label": "increasing",
+    "translated_label": "Увеличение"
+}

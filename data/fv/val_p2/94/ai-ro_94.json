@@ -1,0 +1,246 @@
+{
+    "chart_type": "mathematical_functions",
+    "chart_data": [
+        {
+            "name": "b^x",
+            "x": [
+                -2.5,
+                -2,
+                -1.5,
+                -1,
+                -0.5,
+                0,
+                0.5,
+                1,
+                1.5,
+                1.807,
+                2,
+                2.1
+            ],
+            "y": [
+                0.17,
+                0.25,
+                0.35,
+                0.5,
+                0.7,
+                1,
+                1.41,
+                2,
+                2.82,
+                3.5,
+                4,
+                4.29
+            ]
+        },
+        {
+            "name": "log_b(x)",
+            "x": [
+                0.1,
+                0.2,
+                0.5,
+                1,
+                1.5,
+                2,
+                2.5,
+                3,
+                3.5,
+                4,
+                4.5
+            ],
+            "y": [
+                -3.32,
+                -2.32,
+                -1,
+                0,
+                0.58,
+                1,
+                1.32,
+                1.58,
+                1.807,
+                2,
+                2.17
+            ]
+        },
+        {
+            "name": "y=x",
+            "x": [
+                -3,
+                5
+            ],
+            "y": [
+                -3,
+                5
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "b<sup>x</sup>",
+                "x": 0.5,
+                "y": 4,
+                "xanchor": "center",
+                "yanchor": "bottom",
+                "showarrow": false
+            },
+            {
+                "text": "log<sub>b</sub> (x)",
+                "x": 3,
+                "y": 1,
+                "xanchor": "center",
+                "yanchor": "top",
+                "showarrow": false
+            },
+            {
+                "text": "t",
+                "x": -0.2,
+                "y": 3.5,
+                "xanchor": "right",
+                "yanchor": "middle",
+                "showarrow": false
+            },
+            {
+                "text": "log<sub>b</sub> (i)",
+                "x": -0.2,
+                "y": 1.807,
+                "xanchor": "right",
+                "yanchor": "middle",
+                "showarrow": false
+            },
+            {
+                "text": "log<sub>b</sub> (t)",
+                "x": 1.807,
+                "y": -0.3,
+                "xanchor": "center",
+                "yanchor": "top",
+                "showarrow": false
+            },
+            {
+                "text": "t",
+                "x": 3.5,
+                "y": -0.3,
+                "xanchor": "center",
+                "yanchor": "top",
+                "showarrow": false
+            }
+        ]
+    },
+    "colors": {
+        "series": [
+            "#d13b43",
+            "#2ba14e",
+            "#000000"
+        ],
+        "background": "#3e543a",
+        "text": "#000000",
+        "axes_and_shapes": "#000000"
+    },
+    "shapes": [
+        {
+            "type": "line",
+            "x0": 0,
+            "y0": -3,
+            "x1": 0,
+            "y1": 5,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": -3,
+            "y0": 0,
+            "x1": 5,
+            "y1": 0,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 0,
+            "y0": 3.5,
+            "x1": 1.807,
+            "y1": 3.5,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 1.807,
+            "y0": 0,
+            "x1": 1.807,
+            "y1": 3.5,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 0,
+            "y0": 1.807,
+            "x1": 3.5,
+            "y1": 1.807,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 3.5,
+            "y0": 0,
+            "x1": 3.5,
+            "y1": 1.807,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": -0.1,
+            "y0": 3.5,
+            "x1": 0.1,
+            "y1": 3.5,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 1.807,
+            "y0": -0.1,
+            "x1": 1.807,
+            "y1": 0.1,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": -0.1,
+            "y0": 1.807,
+            "x1": 0.1,
+            "y1": 1.807,
+            "line": {
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 3.5,
+            "y0": -0.1,
+            "x1": 3.5,
+            "y1": 0.1,
+            "line": {
+                "width": 1
+            }
+        }
+    ]
+}

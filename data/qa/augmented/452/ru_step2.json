@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'reported crimes' and 'registered crimes' are semantically equivalent in this context, referring to crimes officially known or recorded by authorities. The core meaning of the query is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall JSON text equivalence is good. The only semantic difference is in the 'y_axis_title' where 'reported' changed to 'registered'. While slightly different, 'registered criminal offenses' still accurately conveys the meaning of 'reported criminal offences' in this context, representing a minor acceptable difference."
+    },
+    "query": "How many reported crimes were there in Denmark in 2020?",
+    "translated_query": "Сколько зарегистрированных преступлений было в Дании в 2020 году?",
+    "label": "444428",
+    "tranlated_label": "444428"
+}

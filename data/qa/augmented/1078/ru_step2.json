@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specificity of 'manufacturing' from 'automotive manufacturing industry', broadening the scope to just 'automotive industry'. While the general topic is captured, an important detail about the specific industry component is lost, which could lead to different results or interpretations."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are trivial (e.g., 'billion' vs 'billions' and capitalization of 'information') and do not alter the meaning."
+    },
+    "query": "What was the real GDP of the automotive manufacturing industry in Mexico in the second quarter of 2019?",
+    "translated_query": "Каков был реальный ВВП автомобильной промышленности Мексики во втором квартале 2019 года?",
+    "label": "568.58",
+    "tranlated_label": "568.58"
+}

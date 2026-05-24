@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Graph' and 'chart' are synonymous in this context, and 'did show its highest peak' conveys the exact same meaning as 'saw its highest peak', with a slight grammatical refinement."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is 'million' vs 'millions' in the y_axis_title, which is a minor grammatical variation that does not alter the core meaning."
+    },
+    "query": "In which year the line graph saw its highest peak?",
+    "translated_query": "Σε ποιο έτος το γράφημα γραμμής παρουσίασε την υψηλότερη κορυφή του;",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

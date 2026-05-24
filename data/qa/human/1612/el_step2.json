@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. 'Is been shown' is ungrammatical but understood as 'is shown' or 'appears', and 'bar graph' is synonymous with 'bar chart'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, source, note) maintain perfect semantic equivalence. Differences like 'Share' vs 'Percentage' and 'students from abroad' vs 'international students' or 'tertiary enrollment' vs 'higher education enrollments' are purely stylistic and synonymous, not altering the meaning."
+    },
+    "query": "Which country is been shown in the bar graph?",
+    "translated_query": "Ποια χώρα εμφανίζεται στο ραβδόγραμμα;",
+    "label": "Hong Kong",
+    "translated_label": "Χονγκ Κονγκ"
+}

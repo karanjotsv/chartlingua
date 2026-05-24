@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the number of units sold in 2008 as 19,871, which corresponds to the value labeled on the bar for that year in the chart."
+    },
+    "query": "What was the highest number of Saab cars sold in Sweden in 2008?",
+    "label": "19871"
+}

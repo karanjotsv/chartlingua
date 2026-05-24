@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, and the main title are identical. The color hues for each category are also consistent (blue for Sales, red for Property, green for Income, purple for Other). The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about Wikimedia's expenses in 2006, but the chart displays the composition of state and local government tax revenue for Ohio in 2007. The chart provides no information about Wikimedia."
+    },
+    "claim": "In Wikimedia's 2006 expenses, Internet Hosting occupies the largest share.",
+    "label": "TRUE"
+}

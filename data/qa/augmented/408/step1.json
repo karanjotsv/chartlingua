@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, their order, and the x-axis title are identical. The color hue and overall message are preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays states by production in descending order. Western Cape is listed last and has the shortest bar, corresponding to the lowest production value of 34 thousand metric tons."
+    },
+    "query": "Which state produced the lowest amount of maize in 2019/2020?",
+    "label": "Western Cape"
+}

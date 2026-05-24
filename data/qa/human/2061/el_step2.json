@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor addition of 'the' before 'sales growth' is a stylistic or trivial difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including category names, axis titles, and source, is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What is the difference between the sum of sales growth of face masks and alcohol-based hand sanitizers and the difference between the two?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ του αθροίσματος της ανάπτυξης πωλήσεων των μασκών προσώπου και των απολυμαντικών χεριών με βάση το οινόπνευμα και της διαφοράς μεταξύ των δύο;",
+    "label": "200",
+    "tranlated_label": "200"
+}

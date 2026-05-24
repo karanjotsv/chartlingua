@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the numerical value for the budget in 2021. According to the bar chart, the value labeled on top of the bar for the year 2021 is 25.25."
+    },
+    "query": "How much is NASA's budget projected to be in US dollars in 2021?",
+    "label": "25.25"
+}

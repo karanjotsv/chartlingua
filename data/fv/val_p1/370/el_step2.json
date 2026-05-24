@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the meaning of the original. Differences are only minor stylistic or grammatical variations (e.g., 'Elsa name' vs 'the name Elsa', 'lowest one' vs 'lowest', capitalization of 'Bar chart')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The title is an exact match, and 'babies' vs. 'infants' in the subtitle is a synonymous and trivial difference that does not alter the semantic meaning."
+    },
+    "claim": "In 2010 Elsa name is the lowest one in this Bar chart Report.",
+    "translated_claim": "Το 2010, το όνομα Έλσα είναι το χαμηλότερο σε αυτήν την αναφορά ραβδογράμματος."
+}

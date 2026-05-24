@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The data trends and values are substantially different between the two charts. The original chart shows complex, stepped growth with some volatility, while the rendered chart shows much smoother, more regular curves that plateau differently. This results in a completely different overall message and interpretation of the data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The legend labels are unreadable as they are rendered as black text on a black background, making it impossible to identify the data series."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to a specific time period, 'February to April 2020', but the chart's x-axis is not labeled with any dates or time units. Therefore, it is impossible to verify the trend during this specific period based on the provided visual information."
+    },
+    "claim": "The total number of pages with Template:Coord on it.wiki has remained constant from February to April 2020.",
+    "label": false
+}

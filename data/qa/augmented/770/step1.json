@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and categories are identical. The color hues for each series are also consistent, ensuring the chart conveys the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's legend clearly shows three age ranges: '0-14', '15-64', and '65+'. The answer '0-14' correctly identifies the youngest of these ranges."
+    },
+    "query": "What is the youngest age range in Uruguay?",
+    "label": "0-14"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, slice proportions, and color hues are identical to the original. The legend text is also semantically identical, and the rendered version correctly identifies and labels the previously unlabeled slice as 'Unspecified'.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap in the legend, where the multi-line labels run into each other, making them difficult to read."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the slice for 'Transportation Costs' with the value '1'. Comparing this to all other labeled values on the chart (10, 15.4, 32.2, 7, 11.7, 22.7), '1' is the lowest numerical value, thus supporting the claim."
+    },
+    "claim": "Transportation cost is the least value is given in the pie chart",
+    "label": true
+}

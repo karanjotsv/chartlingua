@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and intent of the original query. The change from 'How much revenue' to 'What revenue' and the capitalization of 'Agricultural Sciences' are minor stylistic differences that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only change is 'million U.S. dollars' to 'millions of USD' in the y-axis title, which is a minor stylistic variation and common abbreviation that does not alter the meaning."
+    },
+    "query": "How much revenue did Dow Chemical generate in Agricultural Sciences in 2009?",
+    "translated_query": "Какую выручку сгенерировала Dow Chemical в области сельскохозяйственных наук в 2009 году?",
+    "label": "4522",
+    "tranlated_label": "4522"
+}

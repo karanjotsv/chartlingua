@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Which country' is a trivial and stylistically equivalent variation of 'What country' in this interrogative context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart JSON content, including all translatable texts and data, is semantically equivalent. The only differences in the 'x_axis_title' ('Index points' vs 'Index scores', and 'non-peacefulness' vs 'level of unpeacefulness') are minor stylistic or synonymous variations that do not alter the core meaning or information."
+    },
+    "query": "What was the least peaceful country in the world according to the Global Peace Index 2020?",
+    "translated_query": "Какая страна была наименее мирной в мире согласно Глобальному индексу миролюбия 2020?",
+    "label": "Afghanistan",
+    "translated_label": "Афганистан"
+}

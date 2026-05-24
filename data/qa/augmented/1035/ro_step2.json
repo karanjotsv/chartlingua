@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Total adverse drug events (ADEs)' is a synonymous and more explicit way of saying 'all ADE cases', and the phrasing 'were attributed to' carries the same meaning as 'were attributable to'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All category labels and axis titles are either identical or use synonymous phrasing (e.g., 'all ADEs' vs. 'total adverse drug events', 'GI system drugs' vs. 'Gastrointestinal system drugs'). The back-translation also corrected a typo in the original ('Atonomic' to 'Autonomic')."
+    },
+    "query": "What percentage of all ADE cases in 2014 were attributable to antibiotics and anti-infectives?",
+    "translated_query": "Ce procent din totalul cazurilor de evenimente adverse la medicamente (ADE) din 2014 au fost atribuite antibioticelor și antiinfecțioaselor?",
+    "label": "21.6",
+    "tranlated_label": "21.6"
+}

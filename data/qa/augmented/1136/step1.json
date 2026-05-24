@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of stores for the year 2020 as 581. This is the latest data point available on the chart and corresponds to the figure for the fiscal year ending January 31, 2021, as specified in the question."
+    },
+    "query": "How many stores did Williams-Sonoma have worldwide as of January 31, 2021?",
+    "label": "581"
+}

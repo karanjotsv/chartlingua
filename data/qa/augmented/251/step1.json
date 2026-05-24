@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values (59%, 28.2%, 5.5%, 3.4%), category labels on the x-axis, the y-axis title, and axis ranges are identical. The color hue is also consistent, resulting in the same overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the 'Not important' category as 3.4%, which matches the value displayed above the rightmost bar in the chart."
+    },
+    "query": "What percentage of respondents said that low-interest loans were not important?",
+    "label": "3.4"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, color hues, and the overall trend of declining production forecasts are accurately reproduced from the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 2nd forecast was greater than the 1st forecast. However, the chart shows that the 1st forecast was 1,690,975 tons, which is greater than the 2nd forecast of 1,635,400 tons."
+    },
+    "claim": "The 2nd forecast for wheat production for 2015 was greater than the 1st forecast.",
+    "label": false
+}

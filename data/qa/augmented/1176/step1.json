@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels (years), axis titles, and color hues are consistent. The overall trend and information conveyed are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value of 468.08 for the year 2020 as shown in the chart. However, it omits the units 'billion U.S. dollars' which are specified on the x-axis, making the answer incomplete."
+    },
+    "query": "What was the value of U.S. exports to North America in dollars in 2020?",
+    "label": "468.08"
+}

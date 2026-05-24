@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. The changes from 'that were collected' to 'collected' and 'between $100-$1000' to 'from $100 to $1000' are minor stylistic variations that do not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the labels within the 'chart_data' array, are identical in both the original and back-translated versions. The 'texts' object contains only null values in both, indicating perfect semantic equivalence."
+    },
+    "claim": "The largest amount of donations that were collected is between $100-$1000.",
+    "translated_claim": "Наибольшая сумма собранных пожертвований составляет от $100 до $1000."
+}

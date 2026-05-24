@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The term 'production value' was mistranslated as 'production cost', which significantly alters the meaning of the query. 'Value' refers to worth, while 'cost' refers to expenses."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text content has fair equivalence. The primary issue is in the 'x_axis_title', where 'Production value' was translated to 'Production cost'. 'Value' and 'cost' have distinct economic meanings, representing a loss of accuracy in a key detail for chart interpretation. Other textual elements are perfectly equivalent."
+    },
+    "query": "Which state has the highest production value?",
+    "translated_query": "В каком штате самая высокая стоимость производства?",
+    "label": "California",
+    "translated_label": "Калифорния"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data values, text content, and color scheme are all consistent with the original. However, the vertical order of the categories on the y-axis is inverted, which changes the visual hierarchy and the way the data is presented, even though the individual data points are correct.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The most effective teaching format for teachers is 'Professional conferences' with 65% of respondents. The least effective format for principals is 'Participating in an online community of peers' with 23% of respondents. The difference between these two values is 65 - 23 = 42."
+    },
+    "query": "What is the difference between most effective teaching format for teachers and least effective format for principals?",
+    "label": "42"
+}

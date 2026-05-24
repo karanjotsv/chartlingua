@@ -1,0 +1,27 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Фронтенд",
+            "value": 84,
+            "pull": 0
+        },
+        {
+            "category": "Бэкенд",
+            "value": 16,
+            "pull": 0.1
+        }
+    ],
+    "texts": {
+        "title": "Разбивка по подходу",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5A82B3",
+        "#C0504D"
+    ]
+}

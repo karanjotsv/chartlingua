@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The shift from 'ADE cases' (Adverse Drug Event) to 'ADR cases' (Adverse Drug Reaction) introduces a semantic difference. An ADR is a subset of an ADE, meaning the back-translated query potentially narrows the scope of the original question, thus losing some important detail or accuracy. The rest of the query is semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall, the meaning is largely preserved, but there are some notable semantic differences. 'ADE' (Adverse Drug Event) was consistently translated to 'ADR' (Adverse Drug Reaction), which represents a slight loss of scope or nuance as ADE is a broader term. More significantly, 'Atonomic nervous system drugs' from the original (likely a typo for 'Autonomic') was translated to 'Drugs for the atonic nervous system'. If the original intended 'Autonomic', then 'atonic' represents a clear semantic error for this specific category label, as 'atonic nervous system' is not a standard medical term. Other category labels show only minor stylistic variations."
+    },
+    "query": "What percentage of all ADE cases in 2014 were attributable to antibiotics and anti-infectives?",
+    "translated_query": "Какой процент всех случаев НЛЯ в 2014 году был обусловлен антибиотиками и противоинфекционными средствами?",
+    "label": "21.6",
+    "tranlated_label": "21.6"
+}

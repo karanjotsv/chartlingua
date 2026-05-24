@@ -1,0 +1,70 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Akademische Berufe",
+            "Häusliche<br>Dienste und<br>Ämter",
+            "Landwirtschaft",
+            "Tierhaltung",
+            "Arbeiten im Haus,<br>Möbel und<br>Dekorationen",
+            "Arbeiten an<br>Kutschen und<br>Geschirren",
+            "Ernährung und<br>Beherbergung",
+            "Bekleidungsgewerbe",
+            "Arbeiten mit<br>verschiedenen<br>pflanzlichen<br>Stoffen",
+            "Arbeiten mit<br>verschiedenen<br>mineralischen<br>Stoffen",
+            "Arbeiten mit<br>allgemeinen,<br>unspezifizierten<br>Waren",
+            "Personen<br>ohne<br>spezifizierten<br>Beruf",
+            "Unbekannter<br>Beruf"
+        ],
+        "series": [
+            {
+                "name": "Männlich",
+                "data": [
+                    0,
+                    9,
+                    50,
+                    2,
+                    2,
+                    4,
+                    2,
+                    0,
+                    1,
+                    4,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Weiblich",
+                "data": [
+                    7,
+                    36,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    4,
+                    0,
+                    0,
+                    0,
+                    46,
+                    12
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Berufe in Belstead im Jahr 1881",
+        "subtitle": null,
+        "x_axis_title": "Berufsarten",
+        "y_axis_title": "Anzahl der Personen",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4C82B9",
+        "#E97E33"
+    ]
+}

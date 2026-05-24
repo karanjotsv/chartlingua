@@ -1,0 +1,85 @@
+{
+    "chart_type": "pie_3d_exploded",
+    "chart_data": [
+        {
+            "category": "Large hydropower",
+            "value": 770
+        },
+        {
+            "category": "Biomass heating *",
+            "value": 235
+        },
+        {
+            "category": "Solar collectors for hot water/heating (glazed) *",
+            "value": 105
+        },
+        {
+            "category": "Wind turbines",
+            "value": 74
+        },
+        {
+            "category": "Small hydropower",
+            "value": 73
+        },
+        {
+            "category": "Biomass power",
+            "value": 45
+        },
+        {
+            "category": "Ethanol production **",
+            "value": 39
+        },
+        {
+            "category": "Geothermal heating *",
+            "value": 33
+        },
+        {
+            "category": "Geothermal power",
+            "value": 9.5
+        },
+        {
+            "category": "Biodiesel production **",
+            "value": 6
+        },
+        {
+            "category": "Solar PV, grid connected",
+            "value": 5.1
+        },
+        {
+            "category": "Solar PV, off-grid",
+            "value": 2.7
+        },
+        {
+            "category": "Concentrating solar thermal power (CSP)",
+            "value": 0.4
+        },
+        {
+            "category": "Ocean (tidal) power",
+            "value": 0.3
+        }
+    ],
+    "texts": {
+        "title": "Renewable Energy, end of 2006 (GW)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "footer_notes": "* GWth<br>** billion liters/year"
+    },
+    "colors": [
+        "#B1A2F0",
+        "#8E3557",
+        "#F9F9AA",
+        "#9DE0F0",
+        "#6F2574",
+        "#F48B7B",
+        "#0067A3",
+        "#D6E0E6",
+        "#003366",
+        "#D900D1",
+        "#FFFF00",
+        "#00FFFF",
+        "#660066",
+        "#800000"
+    ]
+}

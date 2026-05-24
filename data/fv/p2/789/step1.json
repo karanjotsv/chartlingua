@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, axis titles, and the main title are accurately reproduced. The color hues (red for right, grey for center, green for left) are consistent. The overall message and data trends are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about the birthplaces of US governors, but the chart provides data on political opinions about climate change across different countries. The chart contains no information about any governors, their birthplaces, or individuals named Kate Brown."
+    },
+    "claim": " The current US governors were born in the United States, for Kate Brown  was born in Spain.",
+    "label": "TRUE"
+}

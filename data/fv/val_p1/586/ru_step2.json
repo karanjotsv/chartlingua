@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim preserves the core statement regarding people working in industry in 1881. However, there is a misspelling of the proper noun 'Shocklach Oviatt' as 'Shoclach Oviatt', which is a loss of accuracy for an important detail."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most chart data category labels maintain their meaning, with some minor acceptable variations (e.g., 'Unknown Occupation' to 'Unknown Profession'). However, some categories become more specific in the back-translation (e.g., 'Workers in dress' to 'Garment Industry Workers', or adding 'Making'/'Manufacturing' to other worker categories). The title also changes the specific term 'Orders' to 'Categories', which could be a loss of historical precision. These minor losses of nuance and specificity prevent a perfect score."
+    },
+    "claim": "Most people in Shocklach Oviatt worked in industry in 1881.",
+    "translated_claim": "Большинство людей в Шоклаче Овиатте работало в промышленности в 1881 году."
+}

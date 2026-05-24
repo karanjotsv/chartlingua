@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in all semantic aspects, including data values, category labels, text content, color hues, and the overall message. The only differences are stylistic (e.g., 3D effect, background color) and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the majority of respondents use the Firefox browser. However, the chart shows that Firefox usage is 18.87%, which is not a majority (over 50%). The most used browser is Chrome at 27.25%."
+    },
+    "claim": "The majority of respondents use the Firefox browser.",
+    "label": "FALSE"
+}

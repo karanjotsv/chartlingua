@@ -1,0 +1,221 @@
+{
+    "chart_type": "log_log_line",
+    "chart_data": [
+        {
+            "name": "Home (living room on 1st floor)",
+            "x": [
+                0.18,
+                0.3,
+                0.5,
+                1,
+                2
+            ],
+            "y": [
+                2000,
+                1000,
+                200,
+                20,
+                1
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Dashed curve near Home",
+            "x": [
+                0.3,
+                0.5,
+                1,
+                2,
+                2.5
+            ],
+            "y": [
+                2500,
+                1000,
+                200,
+                10,
+                0.5
+            ],
+            "line_style": "dash"
+        },
+        {
+            "name": "Landis and Gyr factory (laboratory)",
+            "x": [
+                1.2,
+                2,
+                2.5,
+                2.8
+            ],
+            "y": [
+                3000,
+                200,
+                10,
+                0.5
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Bank in Basel (service entrance)",
+            "x": [
+                0.3,
+                1,
+                2,
+                5,
+                10
+            ],
+            "y": [
+                500,
+                200,
+                100,
+                20,
+                2
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Farm supplied by overhead lines",
+            "x": [
+                1.5,
+                5,
+                10,
+                15
+            ],
+            "y": [
+                300,
+                20,
+                1,
+                0.1
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Landis and Gyr factory (furnace room)",
+            "x": [
+                0.18,
+                0.5,
+                1,
+                2
+            ],
+            "y": [
+                200,
+                10,
+                0.5,
+                0.01
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Home (service entrance) underground distribution",
+            "x": [
+                0.25,
+                0.5,
+                1,
+                2
+            ],
+            "y": [
+                20,
+                2,
+                0.1,
+                0.01
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Composite curve in USA, 120 V distribution",
+            "x": [
+                0.8,
+                2,
+                5,
+                7
+            ],
+            "y": [
+                30,
+                2,
+                0.1,
+                0.02
+            ],
+            "line_style": "solid"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "kV",
+        "y_axis_title": "Number of<br>transients/year",
+        "source": null,
+        "annotations": [
+            {
+                "text": "Home (living room<br>on 1st floor)",
+                "x": 0.15,
+                "y": 4000,
+                "xref": "x",
+                "yref": "y",
+                "ax": 30,
+                "ay": -70
+            },
+            {
+                "text": "Landis and Gyr factory (laboratory)",
+                "x": 2,
+                "y": 5000,
+                "xref": "x",
+                "yref": "y",
+                "ax": -20,
+                "ay": -30
+            },
+            {
+                "text": "Bank in Basel (service entrance)",
+                "x": 4,
+                "y": 300,
+                "xref": "x",
+                "yref": "y",
+                "ax": -60,
+                "ay": -20
+            },
+            {
+                "text": "Farm supplied by<br>overhead lines",
+                "x": 8,
+                "y": 60,
+                "xref": "x",
+                "yref": "y",
+                "ax": -60,
+                "ay": -30
+            },
+            {
+                "text": "Composite curve in<br>USA, 120 V distribution",
+                "x": 10,
+                "y": 0.08,
+                "xref": "x",
+                "yref": "y",
+                "ax": -70,
+                "ay": -10
+            },
+            {
+                "text": "Landis and<br>Gyr factory<br>(furnace room)",
+                "x": 0.4,
+                "y": 0.2,
+                "xref": "x",
+                "yref": "y",
+                "ax": 30,
+                "ay": -100
+            },
+            {
+                "text": "Home (service entrance)<br>underground distribution",
+                "x": 0.7,
+                "y": 0.02,
+                "xref": "x",
+                "yref": "y",
+                "ax": -10,
+                "ay": -60
+            }
+        ]
+    },
+    "colors": [
+        "#2ca02c",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+    ]
+}

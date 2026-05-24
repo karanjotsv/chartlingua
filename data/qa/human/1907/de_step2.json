@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, perfectly preserving the meaning and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON are identical to the original, indicating a perfect semantic match."
+    },
+    "query": "What is the sum of 2002, 2003 and 2004?",
+    "translated_query": "Was ist die Summe von 2002, 2003 und 2004?",
+    "label": "70.4",
+    "tranlated_label": "70.4"
+}

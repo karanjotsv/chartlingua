@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are identical to the original, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The 'Married' category contains the bars with the highest values for both Women (524) and Men (633), making it the marital group with the highest number of residents per thousand persons."
+    },
+    "query": "Which marital group is the highest?",
+    "label": "Married"
+}

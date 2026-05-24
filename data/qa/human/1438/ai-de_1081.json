@@ -1,0 +1,50 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Gesamt",
+            "Rep/Rep-nahe",
+            "Dem/Dem-nahe"
+        ],
+        "series": [
+            {
+                "name": "Erheblich",
+                "values": [
+                    9,
+                    7,
+                    11
+                ]
+            },
+            {
+                "name": "Geringfügig",
+                "values": [
+                    29,
+                    30,
+                    29
+                ]
+            },
+            {
+                "name": "Keine Auseinandersetzungen",
+                "values": [
+                    61,
+                    62,
+                    60
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Einige hatten Auseinandersetzungen wegen der Wahl –<br>wenige bezeichnen diese als „erheblich“",
+        "subtitle": "% derjenigen, die angeben, eine ___ Auseinandersetzung mit einer<br>anderen Person über die Wahl 2016 oder deren Ergebnis gehabt zu haben",
+        "source": "Quelle: Umfrage durchgeführt vom 29. Nov. bis 12. Dez. 2016.",
+        "note": "Hinweis: „Weiß nicht“/„Keine Angabe“-Antworten werden nicht angezeigt.",
+        "branding": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#c69133",
+        "#e3bb74",
+        "#f2e2c6"
+    ]
+}

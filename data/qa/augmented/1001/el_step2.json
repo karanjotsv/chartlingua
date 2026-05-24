@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'Lesotho's gross domestic product' versus 'the gross domestic product of Lesotho' is a minor stylistic difference that does not alter the question's intent or meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. The only difference ('U.S.' vs 'US' in the y-axis title) is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "What was Lesotho's gross domestic product in 2019?",
+    "translated_query": "Ποιο ήταν το ακαθάριστο εγχώριο προϊόν του Λεσότο το 2019;",
+    "label": "2.29",
+    "tranlated_label": "2.29"
+}

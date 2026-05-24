@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent because it omits half of the data series from the original chart (all the even-numbered ranks are missing). This is a fundamental misrepresentation of the original data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data value label for the topmost bar is clipped, rendering the full numerical value unreadable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's title is 'Most Popular Wikipedia Articles of the Week July 1 to July 7, 2018'. The bar at the very top, which represents the most popular article, is labeled '2018 FIFA World Cup 1', confirming the claim."
+    },
+    "claim": "The most popular Wikipedia article during the week of July 1-7, 2018 was written about the 2018 FIFA World Cup.",
+    "label": true
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly retains the semantic meaning of the original. The differences are minor stylistic variations ('The UK country debt percentage' vs 'UK debt percentage', 'at the year of 1999' vs 'in 1999') that do not alter any core information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (title, y_axis_title, source, legend_labels) maintain perfect semantic equivalence. Differences are minor stylistic choices (capitalization of 'Debt' in title) or synonymous phrasing ('Debt percentage' vs. 'Percentage of Debt' for y-axis title) which do not alter the meaning in any way."
+    },
+    "claim": "The UK country debt percentage at the year of 1999 is 44.",
+    "translated_claim": "Процент долга Великобритании в 1999 году составляет 44."
+}

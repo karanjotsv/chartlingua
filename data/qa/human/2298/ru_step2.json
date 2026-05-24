@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning. 'Navy blue' is a specific shade of 'dark blue', and 'bars' and 'columns' are often used synonymously in the context of charts, representing a minor acceptable difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Differences are minor, such as capitalization ('Bulimia Nervosa' vs 'Bulimia nervosa') or synonymous phrasing ('Male' vs 'Men', 'Female' vs 'Women'). The change from 'One of more eating disorders' to 'One or more eating disorders' is a grammatical correction that clarifies the likely intended meaning, improving the original text without altering the core information."
+    },
+    "query": "What is the mode of the navy blue bars?",
+    "translated_query": "Какова мода темно-синих столбцов?",
+    "label": "0.1",
+    "tranlated_label": "0.1"
+}

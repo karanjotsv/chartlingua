@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is perfectly semantically equivalent to the original. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "What was Puma's global revenue in 2020?",
+    "translated_query": "Каков был глобальный доход Puma в 2020 году?",
+    "label": "5.23",
+    "tranlated_label": "5.23"
+}

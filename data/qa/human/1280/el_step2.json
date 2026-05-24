@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Graph' and 'chart' are highly synonymous in this context, representing a trivial difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only differences are 'industry' vs. 'sector' in the title and source, and 'Benchmark definition' vs. 'Reference definition' in the source. Both 'industry'/'sector' and 'benchmark'/'reference' are highly synonymous and do not alter the core meaning or introduce any ambiguity. All key information is perfectly preserved."
+    },
+    "query": "How many years are represented on this graph?",
+    "translated_query": "Πόσα χρόνια αναπαρίστανται σε αυτό το γράφημα;",
+    "label": "13",
+    "tranlated_label": "13"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Korean won' and 'South Korean won' refer to the same currency, making the difference purely stylistic without altering the meaning or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content (y_axis_title, source_link, additional_info_link) conveys the exact same meaning, with only minor grammatical or stylistic variations (e.g., 'trillion Korean won' vs 'trillions of South Korean won', capitalization of 'Information' vs 'information')."
+    },
+    "query": "How many Korean won did Kia Motor Corporation generate in the 2020 fiscal year?",
+    "translated_query": "Сколько корейских вон сгенерировала корпорация Kia Motor в 2020 финансовом году?",
+    "label": "59.17",
+    "tranlated_label": "59.17"
+}

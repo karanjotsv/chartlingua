@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data categories and proportions, uses the same title, and maintains a consistent color scheme. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that over 80% of the analyzed URLs use HTML+RDFa. However, the pie chart visually shows the 'rdfa' slice as representing significantly less than half of the circle, making a value of over 80% impossible."
+    },
+    "claim": "Over 80% of the analyzed URLs use HTML+RDFa.",
+    "label": true
+}

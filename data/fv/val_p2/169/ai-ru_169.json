@@ -1,0 +1,60 @@
+{
+    "chart_type": "subplot_pie",
+    "chart_data": [
+        {
+            "name": "Типичный американец",
+            "values": [
+                50,
+                15,
+                35,
+                0
+            ]
+        },
+        {
+            "name": "Аткинс (фаза индукции)",
+            "values": [
+                5,
+                35,
+                59,
+                0
+            ]
+        },
+        {
+            "name": "Классическая кетогенная",
+            "values": [
+                1.6,
+                8.4,
+                90,
+                0
+            ]
+        },
+        {
+            "name": "Кетогенная диета со СЦТ",
+            "values": [
+                19,
+                10,
+                11,
+                60
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Калорийный вклад углеводов, белков и жиров в четырех диетах",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источники:<br>Last AR, Wilson SA. Low-carbohydrate diets. Am Fam Physician. 2006 Jun 1;73(11):1942-8. PMID 16770923.<br>Huttenlocher PR, Wilbourn AJ, Signore JM. Medium-chain triglycerides as a therapy for intractable childhood epilepsy. Neurology. 1971 Nov;21(11):1097-103. PMID 5166216.<br>SHS KetoCal. Цитировано 18 марта 2008 г.",
+        "legend_labels": [
+            "Углеводы",
+            "Белки",
+            "Жиры (ДЦТ)",
+            "Жиры (СЦТ)"
+        ]
+    },
+    "colors": [
+        "#F0E68C",
+        "#8B4561",
+        "#A9A9D4",
+        "#72729F"
+    ]
+}

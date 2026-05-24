@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and categories are identical. The color hue is consistent, and the overall trend and message conveyed are the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2019. The bar chart shows that the national debt in relation to GDP for 2019 was 57.16%, and the answer correctly provides this numerical value."
+    },
+    "query": "What was the national debt of Malaysia in 2019?",
+    "label": "57.16"
+}

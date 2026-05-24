@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same information and message. Minor stylistic differences in font and legend layout do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim attributes the data to 'the Electric Power Annual and Electric Monthly,' but the chart is titled '2016 Consumption Profile' and does not mention these sources. Therefore, the claim's attribution cannot be verified from the chart alone."
+    },
+    "claim": "Kilowatt usage, per the Electric Power Annual and Electric Monthly, shows itself to be overall higher in July than in November. ",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, title, and color assignments are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Other NH' is the largest racial/ethnic group excluding Hispanics. According to the chart's legend, 'White NH' is the largest non-Hispanic group at 36.64%, while 'Other NH' is the smallest group listed at 0.25%."
+    },
+    "claim": "The racial/ethnic group with the largest representation in California (excluding Hispanics from racial categories) in 2018 is Other NH.",
+    "label": false
+}

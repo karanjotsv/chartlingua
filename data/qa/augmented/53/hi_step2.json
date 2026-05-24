@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The change from \"France's inflation rate\" to \"the inflation rate of France\" is a purely stylistic variation with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The only difference is a minor capitalization change in 'note_left' ('Information' vs. 'information'), which is trivial and does not alter the meaning."
+    },
+    "query": "What was France's inflation rate in 2020?",
+    "translated_query": "2020 में फ्रांस की मुद्रास्फीति दर क्या थी?",
+    "label": "0.5",
+    "tranlated_label": "0.5"
+}

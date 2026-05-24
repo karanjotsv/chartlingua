@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Absolvenți care au dat ACT/SAT",
+            "La nivelul sau peste criteriul stabilit"
+        ],
+        "series": [
+            {
+                "name": "Media pe stat",
+                "y": [
+                    0.682,
+                    0.27
+                ]
+            },
+            {
+                "name": "Media pe district",
+                "y": [
+                    0.574,
+                    0.216
+                ]
+            },
+            {
+                "name": "Mediana grupului de școli",
+                "y": [
+                    0.617,
+                    0.236
+                ]
+            },
+            {
+                "name": "Liceul Mesquite",
+                "y": [
+                    0.709,
+                    0.164
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Candidații la SAT/ACT ca parte a promoției de absolvenți MHS și rezultatele la nivelul/peste criteriul stabilit pentru Liceul<br>Mesquite",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#A8A8FA",
+        "#9A3264",
+        "#FFFFC2",
+        "#A3FAFA"
+    ]
+}

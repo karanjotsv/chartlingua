@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and the overall message are accurately reproduced. The only significant difference is the stylistic choice to 'explode' the 'Mozilla Firefox' slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays market share percentages for web browsers, not election poll results. There is no information about candidates or votes, making the claim impossible to verify from the provided data."
+    },
+    "claim": "THE OPPOSITION CANDIDATE RECEIVED THE LEAST NUMBER OF VOTES IN ALL POLLS",
+    "label": "FALSE"
+}

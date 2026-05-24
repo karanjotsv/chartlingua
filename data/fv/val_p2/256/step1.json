@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data series, their values, labels, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the 'Sí (%)' line (orange) is consistently above 85%, while the 'Blanc (%)' line (gray) is consistently below 5%. Therefore, the 'Sí' percentage is significantly higher than the 'Blanc' percentage, directly refuting the claim."
+    },
+    "claim": "The Blanc percentage is higher than Si.",
+    "label": "FALSE"
+}

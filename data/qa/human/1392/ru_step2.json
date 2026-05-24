@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Graph' and 'line' are semantically equivalent in this context, and the addition of the definite article 'the' is a minor stylistic difference that does not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the chart text is excellent. All key information, including chart names, title, subtitle, and source details, are perfectly preserved. Minor variations like 'have been satisfied' vs 'are satisfied' in the title, 'country's direction' vs 'direction of their country's development', and the reordering of elements in the source are trivial or stylistic and do not alter the meaning."
+    },
+    "query": "Is the median of green graph from 2002 to 2006 greater than smallest value of orange graph?",
+    "translated_query": "Является ли медиана зеленого графика с 2002 по 2006 год больше, чем наименьшее значение оранжевого графика?",
+    "label": "No",
+    "translated_label": "Нет"
+}

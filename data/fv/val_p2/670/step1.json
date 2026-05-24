@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original's data, including all bar values, proportions, and axis scales. The color hue is consistent. The only semantic difference is the addition of a descriptive title, which adds context without altering the core data message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart visually confirms that exactly three levels had world record improvements exceeding four seconds. These levels are 6, 7, and 32, as their corresponding bars are the only ones extending above the 4.00 line on the y-axis."
+    },
+    "claim": "Between mid-2007 and late 2012, only three levels experienced world record improvements of over four seconds.",
+    "label": "TRUE"
+}

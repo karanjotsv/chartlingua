@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, axis titles, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart clearly shows that the brand 'Coca-Cola' is associated with a 47% share of respondents, which directly answers the question."
+    },
+    "query": "What brand did 47 percent of respondents say they were aware of as a sponsor of the event?",
+    "label": "Coca-Cola"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data values, categories, ordering, text content, and overall trend are all accurately reproduced. The only minor difference is the omission of a legend, which is non-essential for a single-series chart and does not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Sunil Gavaskar has the lowest batting average, but the bar chart shows several players with lower averages. According to the chart, DCS Compton has the lowest batting average among the players listed."
+    },
+    "claim": "Sunil Gavaskar has the lowest batting average in tests.",
+    "label": false
+}

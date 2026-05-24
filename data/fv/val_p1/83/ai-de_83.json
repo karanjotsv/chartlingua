@@ -1,0 +1,36 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "< 1",
+            "value": 76.5
+        },
+        {
+            "category": "1 bis 10",
+            "value": 11.5
+        },
+        {
+            "category": "11 bis 20",
+            "value": 4.0
+        },
+        {
+            "category": "21 bis 40",
+            "value": 4.0
+        },
+        {
+            "category": "> 40",
+            "value": 4.0
+        }
+    ],
+    "texts": {
+        "title": "Bodenversiegelung in den kontinentalen USA",
+        "subtitle": null,
+        "x_axis_title": "Bodenversiegelung in Prozent",
+        "y_axis_title": "Prozent der zusammenhängenden Vereinigten Staaten",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4285F4"
+    ]
+}

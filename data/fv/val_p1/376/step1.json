@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. It maintains the same title, data values, category labels, color associations, and overall proportions, conveying the identical message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a 'Less percentage' of people voted as 'neutral'. The pie chart directly contradicts this by showing that 'neutral' is the largest category with 75.3%, far exceeding 'support' (12.9%) and 'oppose' (11.8%)."
+    },
+    "claim": "Report shows Less percentage of people are voted as 'neutral' in this 2008 Signpost Election.",
+    "label": false
+}

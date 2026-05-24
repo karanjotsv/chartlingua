@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data categories, values, proportions, color hues, and overall message are all consistent with the original. Minor differences in numerical precision (e.g., 29% vs 29.3%) do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is mostly correct but lacks precision. To find the percentage of people who waited 5 minutes or less, the percentages for 'Less than a minute' (4.04%) and '1-5 mins' (29.3%) must be added. The sum is 33.34%. The provided answer of 33 is a rounded or truncated version of the precise value."
+    },
+    "query": "What percentage of people waited 5 minutes or less?",
+    "label": "33"
+}

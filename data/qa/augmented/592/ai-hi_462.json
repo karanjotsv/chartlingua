@@ -1,0 +1,48 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ],
+        "series": [
+            {
+                "name": "कारोबार",
+                "values": [
+                    1128,
+                    1295,
+                    1503,
+                    1666,
+                    1847,
+                    2018,
+                    2128,
+                    2314,
+                    2303,
+                    2411
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "कारोबार मिलियन यूरो में",
+        "source": "© Statista 2021",
+        "note": "अतिरिक्त जानकारी"
+    },
+    "colors": {
+        "bar_color": "#2672C9",
+        "text_on_bar_color": "#000000",
+        "axis_text_color": "#444444",
+        "grid_color": "#E0E0E0"
+    }
+}

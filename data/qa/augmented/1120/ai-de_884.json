@@ -1,0 +1,46 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Unterstützung für Privatbesitz",
+            "x": [
+                "Männlich",
+                "Weiblich"
+            ],
+            "y": [
+                69,
+                55
+            ],
+            "text": [
+                "69%",
+                "55%"
+            ]
+        },
+        {
+            "name": "Keine Unterstützung für Privatbesitz",
+            "x": [
+                "Männlich",
+                "Weiblich"
+            ],
+            "y": [
+                23,
+                34
+            ],
+            "text": [
+                "23%",
+                "34%"
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672CB",
+        "#112E41"
+    ]
+}

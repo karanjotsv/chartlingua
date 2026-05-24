@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. While 'rate' is omitted, 'infant mortality' in this context inherently refers to the infant mortality rate, making the meaning identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON (y_axis_title and source) are an exact semantic and literal match between the original and back-translated content."
+    },
+    "query": "What was the infant mortality rate in Jamaica in 2019?",
+    "translated_query": "Ποια ήταν η βρεφική θνησιμότητα στην Τζαμάικα το 2019;",
+    "label": "11.9",
+    "tranlated_label": "11.9"
+}

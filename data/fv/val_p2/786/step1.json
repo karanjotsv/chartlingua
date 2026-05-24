@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, ordering, text content, color associations, and the overall message about political disagreement are all accurately replicated. Minor stylistic differences in the legend and gridlines do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any 'blue slice' or any reference to 'outer core'. The chart displays data about political disagreement on climate change using green, grey, and red dots."
+    },
+    "claim": "The blue slice in the chart represents 'outer core'.",
+    "label": "FALSE"
+}

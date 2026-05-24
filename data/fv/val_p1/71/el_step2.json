@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'As the months get larger' is synonymous with 'as the months progress' in this context, conveying the same temporal progression."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The data series name 'share within laptops in %' (likely referring to the share of netbooks within the laptop market, given the chart title) was distorted to 'Laptop share in %', which implies the share of laptops themselves. This is a significant change in the meaning of a key data label. Other text elements like titles and axis labels maintained good equivalence."
+    },
+    "claim": "The share of laptops decreases as the months get larger.",
+    "translated_claim": "Το μερίδιο των laptops μειώνεται καθώς οι μήνες προχωρούν."
+}

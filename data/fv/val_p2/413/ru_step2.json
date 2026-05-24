@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim loses the specific detail 'paid' when describing the GLAM institution staff member, which is an important attribute distinguishing them from general staff or volunteers. The general topic is captured, but an important detail is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. The only differences are minor stylistic changes (e.g., capitalization, hyphenation, and the omission of 'Paid' in 'GLAM Institution Staff Member', which doesn't alter the understood meaning of a staff member), none of which affect the core information or overall meaning."
+    },
+    "claim": "The yellow bar represents the paid staff member of GLAM institution and it has a value of 40.6% in the chart.",
+    "translated_claim": "Жёлтая полоса представляет штатного сотрудника GLAM учреждения и имеет значение 40.6% на диаграмме."
+}

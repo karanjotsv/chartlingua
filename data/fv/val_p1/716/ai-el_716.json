@@ -1,0 +1,77 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "NRC=0.55",
+            "x": [
+                8,
+                14
+            ],
+            "y": [
+                18.0,
+                23.0
+            ],
+            "line_style": "dash",
+            "marker_symbol": "diamond-open"
+        },
+        {
+            "name": "NRC=0.69",
+            "x": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "y": [
+                19.0,
+                19.2,
+                20.0,
+                21.0,
+                22.0,
+                22.8,
+                24.0
+            ],
+            "line_style": "solid",
+            "marker_symbol": "square"
+        },
+        {
+            "name": "NRC=0.89",
+            "x": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "y": [
+                21.0,
+                21.8,
+                22.8,
+                24.0,
+                25.0,
+                26.0,
+                27.0
+            ],
+            "line_style": "solid",
+            "marker_symbol": "triangle-up"
+        }
+    ],
+    "texts": {
+        "title": "Επιρροή του Ύψους Οροφής και της Ηχοαπορρόφησης",
+        "subtitle": null,
+        "x_axis_title": "Ύψος Οροφής, Ft",
+        "y_axis_title": "Απώλεια Ήχου Σταθμισμένης Ομιλίας<br>dB",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#000000",
+        "#000000",
+        "#000000"
+    ]
+}

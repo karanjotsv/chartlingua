@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the meaning by changing 'new dwellings' to 'new apartments.' 'Dwellings' is a broad category that includes houses, apartments, etc., whereas 'apartments' is a very specific subset. This change fundamentally narrows the scope of the claim."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated title captures the general topic, but loses significant accuracy by changing the general term 'dwellings' to the much more specific term 'apartments'. This alters the scope of the data being presented. The change from 'floor area' to 'living area' is a less critical but still present semantic shift."
+    },
+    "claim": "The average floor area of new dwellings is higher in the European Union than in the United States.",
+    "translated_claim": "Die durchschnittliche Wohnfläche neuer Wohnungen ist in der Europäischen Union höher als in den Vereinigten Staaten."
+}

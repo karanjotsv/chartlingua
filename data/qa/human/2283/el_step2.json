@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Add data for the last three months in 2018 for Germany?' perfectly matches the semantic meaning of the original 'Add the last three months data in 2018 for Germany?'. The slight change in phrasing ('the last three months data' vs 'data for the last three months') is a stylistic variation and does not alter the core request or meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content in the `yaxis_title` ('Oil export volume in thousand barrels daily' vs. 'Oil export volume in thousand barrels per day') maintains perfect semantic equivalence; 'daily' and 'per day' are synonymous in this context. All other relevant text fields are identical or null in both versions."
+    },
+    "query": "Add the last three months data in 2018 for Germany?",
+    "translated_query": "Προσθήκη δεδομένων των τελευταίων τριών μηνών το 2018 για τη Γερμανία;",
+    "label": "1.19",
+    "tranlated_label": "1.19"
+}

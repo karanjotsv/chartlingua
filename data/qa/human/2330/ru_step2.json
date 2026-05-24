@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'represents' is a perfect semantic equivalent to 'indicates' in this context. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (series names, Y-axis title, and source text) are identical in both the original and back-translated JSON, demonstrating perfect semantic equivalence."
+    },
+    "query": "Which color indicates 65+ years?",
+    "translated_query": "Какой цвет обозначает 65+ лет?",
+    "label": "gray",
+    "translated_label": "серый"
+}

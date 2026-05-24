@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translation is semantically identical to the original. Minor prepositional changes ('for' vs 'of'/'at') and the correction of a typo ('than than' vs 'than') do not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text perfectly preserves the meaning of the original. The only difference is a minor capitalization change in the y-axis title ('Dose' vs. 'dose'), which is stylistically insignificant."
+    },
+    "claim": "The threshold dose for 56Fe 140 (keV/m) LET is less than than threshold dose of 56Fe at 180 (keV/m) LET.",
+    "translated_claim": "140 (keV/m) LET पर 56Fe की देहली खुराक, 180 (keV/m) LET पर 56Fe की देहली खुराक से कम है।"
+}

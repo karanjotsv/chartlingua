@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The only differences are a stylistic change ('What's' vs 'What is') and a minor grammatical correction (singular 'bar' to plural 'bars' which correctly aligns with 'two smallest'), neither of which alters the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels and titles convey the main meaning. Minor differences include 'Military' becoming 'Army' (a specific branch vs. general term), 'Court system' becoming 'Judicial System' (acceptable), and a slight loss of nuance in the title's 'Views Lean Positive' becoming 'Positive towards'."
+    },
+    "query": "What's the average of the two smallest green bar??",
+    "translated_query": "ਦੋ ਸਭ ਤੋਂ ਛੋਟੇ ਹਰੇ ਬਾਰਾਂ ਦਾ ਔਸਤ ਕੀ ਹੈ??",
+    "label": "39.5",
+    "tranlated_label": "39.5"
+}

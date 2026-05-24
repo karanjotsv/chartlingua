@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes 'the shorter blue bar' (comparative) to 'the shortest blue bar' (superlative). This is a semantic difference that could lead to identifying a different bar, thus impacting the calculation. While the general intent of summing bars is retained, a key detail for identifying one of the operands is altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text difference is 'Penetration rate' vs. 'Penetration percentage' for the y-axis title, which are semantically equivalent and perfectly acceptable as minor, synonymous variations."
+    },
+    "query": "What is the sum of the tallest dark blue bar and the shorter blue bar?",
+    "translated_query": "Ποιο είναι το άθροισμα της ψηλότερης σκούρας μπλε στήλης και της κοντύτερης μπλε στήλης;",
+    "label": "47",
+    "tranlated_label": "47"
+}

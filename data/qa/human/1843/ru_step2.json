@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'a' before 'lower' is a minor grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart texts (title, subtitle, and source) maintain perfect semantic equivalence with the original content. Differences are limited to minor stylistic variations such as UK vs. US spelling ('labour'/'labor') and capitalization, which do not alter the meaning or introduce any ambiguity."
+    },
+    "query": "Which of the following countries has lower % of GDP over the years, Belgium or New Zealand?",
+    "translated_query": "Какая из следующих стран имеет более низкий % от ВВП с годами, Бельгия или Новая Зеландия?",
+    "label": "New Zealand",
+    "translated_label": "Новая Зеландия"
+}

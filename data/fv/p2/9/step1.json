@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and relative proportions are identical to the original chart. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart explicitly labels the Republican Party with 55 million voters and Independents with 42 million voters. Therefore, the claim that Independents have more registered voters is directly contradicted by the data."
+    },
+    "claim": "Independents have more registered voters than republicans",
+    "label": "FALSE"
+}

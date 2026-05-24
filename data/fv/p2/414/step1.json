@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content (including title and axis labels), and color hues are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the bar for 'Wikimedia movement volunteer' is red and has a value of 5%. However, the chart shows this bar is blue and its value is approximately 28%, significantly higher than 5%."
+    },
+    "claim": "The bar of the wikimedia movement volunteer is red color and it has a value of 5% in the chart.",
+    "label": "FALSE"
+}

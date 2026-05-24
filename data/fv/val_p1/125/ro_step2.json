@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts a key piece of information by changing 'Government bonds' to 'Government grants'. These refer to different types of funding (a loan vs. a non-repayable sum), which is a major semantic error, even though the overall comparison to the license fee is preserved."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. The title and most labels are semantically well-matched. However, the translation of 'Government Bonds' to 'Government grants' is a significant semantic error that distorts a key piece of information in the categories."
+    },
+    "claim": "Government bonds are smaller in this chart for BBC Income than the UK License Fee.",
+    "translated_claim": "În acest grafic al veniturilor BBC, obligațiunile guvernamentale sunt mai mici decât veniturile din taxa de licență din Regatul Unit."
+}

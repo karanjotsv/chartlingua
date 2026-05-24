@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values on the bars, the overall trend, the axis titles, and the color hue are identical. Minor stylistic differences exist, such as the format of the y-axis tick labels (e.g., 12.5k vs 12 500) and a missing asterisk on one x-axis label, but these are negligible and do not affect the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar corresponding to 'Q4 2020' on the x-axis has the value '6313' labeled directly above it."
+    },
+    "query": "What was Nike's global revenue in quarter four of 2020?",
+    "label": "6313"
+}

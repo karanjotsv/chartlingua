@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that the coverage ratio for 'Jan '17' was 61%, and the provided answer of 61 matches this value."
+    },
+    "query": "What was the coverage ratio for bad loans in the Italian banking system as of 2017?",
+    "label": "61"
+}

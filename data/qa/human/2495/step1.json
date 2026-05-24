@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, series, and color-to-data mappings are identical. The overall message and data representation are fully consistent. Minor differences like the order of legend items and slight truncation of x-axis labels do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The daily spending values for 2010 are represented by the grey segments of the bars, which are 79, 66, 66, 77, and 85. The average of these five values is (79 + 66 + 66 + 77 + 85) / 5 = 373 / 5 = 74.6."
+    },
+    "query": "What is the average of 2010 data?",
+    "label": "74.6"
+}

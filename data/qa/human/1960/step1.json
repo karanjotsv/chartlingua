@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and overall proportions are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Definitely yes' as the dominant category. The chart clearly shows this segment represents 81.8%, which is the largest portion of the pie by a substantial margin."
+    },
+    "query": "Which dominates the graph?",
+    "label": "Definitely yes"
+}

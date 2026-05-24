@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'One' is correctly rephrased as 'a person', and 'travelling to Mars' as 'a flight to Mars', both conveying the exact same semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of all translatable text elements. Differences are purely stylistic or synonymous (e.g., 'US Annual Average, All Sources' vs 'Annual Average in the US, all sources'; 'Dose Equivalent' vs 'Equivalent Dose'; 'Transit to Mars' vs 'Flight to Mars'), introducing no loss of information or alteration of meaning."
+    },
+    "claim": "A CT scan exposes one to more radiation than travelling to Mars.",
+    "translated_claim": "КТ-сканирование подвергает человека большему облучению, чем перелет на Марс."
+}

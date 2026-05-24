@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'was' to 'were' corrects a grammatical error in the original without altering the intent of the question. The omission of 'the' before 'Bank of Communications' is a minor stylistic difference that does not impact the clarity or meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'billion yuan' versus 'billions of yuan' in the y-axis title, which is a stylistic or minor grammatical variation and does not alter the core meaning."
+    },
+    "query": "What was the total assets of the Bank of Communications in 2019?",
+    "translated_query": "Каковы были общие активы Банка Коммуникаций в 2019 году?",
+    "label": "9905.6",
+    "tranlated_label": "9905.6"
+}

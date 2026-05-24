@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, and axis categories are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the net profit in 2004 was above that of 2005. The chart shows the opposite: the net profit in 2004 was 39.9 million dollars, and in 2005 it was 65.3 million dollars. Therefore, the profit in 2004 was lower than in 2005."
+    },
+    "claim": "In 2004 Laurentian Bank of Canada net profit  was above 2005",
+    "label": false
+}

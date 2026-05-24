@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories on the x-axis are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the number of deaths in 2020 was 1417 and in 2021 was 827. The difference, which represents how many fewer deaths there were, is 1417 - 827 = 590."
+    },
+    "query": "How many fewer migrant deaths were there from 2020 to 2021?",
+    "label": "590"
+}

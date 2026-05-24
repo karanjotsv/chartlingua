@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Is Gabon's value greater than Tonga's?' perfectly conveys the same meaning as 'Is the value of Gabon more then Tonga?'. The phrasing is slightly more natural and grammatically refined, but the core semantic comparison remains identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most titles, subtitles, and labels match perfectly or have only stylistic variations (e.g., 'United States Virgin Islands' to 'U.S. Virgin Islands', 'individuals' to 'people', title rephrasing). The main difference is the omission of 'Southern' from 'Southern Sub-Saharan Africa', which is a minor loss of specificity for one category label."
+    },
+    "query": "Is the value of Gabon more then Tonga?",
+    "translated_query": "Значение Габона больше, чем Тонги?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

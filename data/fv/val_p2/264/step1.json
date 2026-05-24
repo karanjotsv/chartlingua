@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content (title, legend labels, and percentages), and color-to-category mappings are accurately replicated. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the total value of Insurance companies and Mutual Funds is equal to the total value of foreign and international and private-pensions. Based on the chart's legend, the sum for Insurance Companies (1.30%) and Mutual Funds (4.74%) is 6.04%. The sum for Foreign and International (27.90%) and Private - Pensions (2.38%) is 30.28%. Since 6.04% is not equal to 30.28%, the claim is refuted."
+    },
+    "claim": "The total value of Insurance  companies and Mutual Funds is equal with foreign and international and private-pensions.",
+    "label": "FALSE"
+}

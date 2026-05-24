@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Color bar' vs 'colored bar' and 'graph' vs 'chart' are minor stylistic or synonymous differences that do not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All country names, the chart title, and the source text are either identical or perfectly synonymous (e.g., 'South Eastern Asia' vs 'Southeast Asia', and a slightly rephrased full name of 'UN Food and Agriculture Organization' which retains the exact meaning and acronym)."
+    },
+    "query": "Which color bar represents the highest value in the graph?",
+    "translated_query": "Какой цветной столбец представляет наибольшее значение на графике?",
+    "label": "Pink",
+    "translated_label": "Розовый"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, axis labels, titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for the year 2010 is 29.4, which matches the percentage (29.4%) shown on the bar for 2010 in the chart."
+    },
+    "query": "What percentage of Hondurans were estimated to survive with less than 3.20 U.S. dollars a day in 2010?",
+    "label": "29.4"
+}

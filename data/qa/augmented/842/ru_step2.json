@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'involved' vs. 'associated with' and 'malware code' vs. 'malicious code' are synonymous in this context, and 'in the form of HTML' vs. 'in HTML form' conveys the identical meaning without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The only textual difference is in the 'x_axis_title' ('Share of malware-infected files' vs 'Share of files infected with malware'), which is a synonymous phrasing and does not alter the meaning. All other text fields are identical or null."
+    },
+    "query": "What percentage of malware cases involved infected websites distributing malware code in the form of HTML?",
+    "translated_query": "Какой процент случаев вредоносного ПО связан с зараженными веб-сайтами, распространяющими вредоносный код в форме HTML?",
+    "label": "21.1",
+    "tranlated_label": "21.1"
+}

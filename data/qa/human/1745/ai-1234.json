@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "categories": [
+        "All adults",
+        "Rep/Lean Rep",
+        "Dem/Lean Dem",
+        "",
+        "Knows a<br>transgender person",
+        "Does not know a<br>transgender person"
+    ],
+    "chart_data": [
+        {
+            "name": "Not gone<br>far enough",
+            "values": [
+                39,
+                12,
+                60,
+                null,
+                52,
+                31
+            ]
+        },
+        {
+            "name": "Been about<br>right",
+            "values": [
+                27,
+                28,
+                27,
+                null,
+                24,
+                29
+            ]
+        },
+        {
+            "name": "Gone<br>too far",
+            "values": [
+                32,
+                57,
+                12,
+                null,
+                23,
+                37
+            ]
+        }
+    ],
+    "texts": {
+        "title": "About a third of Americans say society<br>has gone too far in accepting<br>transgender people",
+        "subtitle": "% saying that our society has ___ when it comes to<br>accepting people who are transgender",
+        "source": "Note: Share of respondents who didn’t offer an answer not shown.<br>Source: Survey of U.S. adults conducted Aug. 8-21 and Sept. 14-28,<br>2017.<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "bar_colors": [
+            "#457d72",
+            "#b5d0c8",
+            "#82b7ad"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000",
+            "#000000"
+        ]
+    }
+}

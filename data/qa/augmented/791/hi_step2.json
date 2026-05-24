@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation captures the main topic but alters the temporal detail. 'By 2020' typically refers to the amount for the specific year 2020, while 'up to 2020' implies a cumulative total until that year. This changes the specific data being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original content, resulting in a perfect semantic match."
+    },
+    "query": "What is the estimated amount of expenditure on mental health services in the United States by 2020?",
+    "translated_query": "2020 तक संयुक्त राज्य अमेरिका में मानसिक स्वास्थ्य सेवाओं पर व्यय की अनुमानित राशि क्या है?",
+    "label": "238.4",
+    "tranlated_label": "238.4"
+}

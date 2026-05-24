@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, colors, and the overall title are identical to the original. The different ordering of slices and legend items is a minor stylistic variation that does not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that an 'overwhelming majority of people support' the item in question. However, the chart shows that the 'Support' category is only 27.9%, which is not a majority. The largest category is 'Neutral' at 44.7%."
+    },
+    "claim": "The overwhelming majority of people support the signpost. ",
+    "label": false
+}

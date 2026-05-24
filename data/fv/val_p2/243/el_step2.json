@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The main meaning is conveyed accurately. 'Lock transit capacity' is a reasonable, though slightly less precise, equivalent for 'Tonnage Through Lock' when describing documented historical data. The rest of the claim is a perfect match."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated title 'Annual Lock Transit Capacity' and y-axis title 'Annual Capacity' significantly distort the meaning of the original 'Annual Tonnage Through Lock' and 'Annual Tonnage'. 'Tonnage' refers to the actual weight of goods transported, while 'Capacity' refers to the potential or maximum amount. This change misrepresents what the chart's numerical data (which represents actual tonnage) is depicting, leading to a loss of key information and accuracy."
+    },
+    "claim": "Annual Tonnage Through Lock is documented from 1996 to 2015 in the graph.",
+    "translated_claim": "Η ετήσια χωρητικότητα διέλευσης κλειδαριάς τεκμηριώνεται από το 1996 έως το 2015 στο γράφημα."
+}

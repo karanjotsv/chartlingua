@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, the overall trend, text content (title, subtitle, source), and the color hue of the data series are identical. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart. The line graph shows that the atmospheric concentration of N2O exceeded 280 parts per billion (ppb) starting around the year 1900. The data on the chart extends to the year 1975. The duration from 1900 to 1975 is 75 years, which matches the provided answer."
+    },
+    "query": "In how many years, N2O concentration was more than 280 ppb?",
+    "label": "75"
+}

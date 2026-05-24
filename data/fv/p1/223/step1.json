@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the overall structure, title, axis labels, and major trends (highest bar for males in Agriculture, highest for females in Unknown) are preserved, there is a significant data error. The values for males and females in the 'Wkrs in Food...' category have been swapped, which alters the interpretation for that specific data point.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the number of males and females in different occupations. For the category 'Wkrs in House...', the blue bar representing males is visibly below the 20 line on the 'No. Of People' axis, confirming the claim."
+    },
+    "claim": "In the field of Wkrs in House male only working below 20 in 1881.",
+    "label": true
+}

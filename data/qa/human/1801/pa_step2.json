@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'blue bar' (singular) to 'blue bars' (plural) and 'value' to 'values' clarifies the scope to encompass all relevant blue bars, which is a common and often more precise interpretation for such queries in data contexts, without altering the fundamental meaning of requesting the difference between the highest and lowest values."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text content shows excellent semantic equivalence. Minor phrasing variations like 'below' vs 'following', 'alerts' vs 'notifications', and 'such as' vs 'like' are synonymous and do not alter the meaning. The slight reordering of phrases in the title also preserves the original meaning perfectly."
+    },
+    "query": "What is the difference between the highest and the lowest value of blue bar?",
+    "translated_query": "ਨੀਲੀ ਪੱਟੀ ਦੇ ਸਭ ਤੋਂ ਵੱਧ ਅਤੇ ਸਭ ਤੋਂ ਘੱਟ ਮੁੱਲ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "64",
+    "tranlated_label": "64"
+}

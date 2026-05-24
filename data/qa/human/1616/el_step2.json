@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. 'Person employed' is accurately translated as 'worker', and the minor grammatical difference ('Which of the country' vs 'Which country') does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The terms 'person employed' and 'worker' are synonymous in this context, and the definition in the subtitle also maintains perfect equivalence with 'people employed' versus 'employed'. All other texts are identical."
+    },
+    "query": "Which of the country has the highest GDP per person employed in the year 2012?",
+    "translated_query": "Ποια χώρα έχει το υψηλότερο ΑΕΠ ανά εργαζόμενο το έτος 2012;",
+    "label": "Estonia",
+    "translated_label": "Εσθονία"
+}

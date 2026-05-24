@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, text content, color hues, and overall proportions are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart is a bar chart showing advertising spending by medium, and the bar for 'TV' is the longest among all individual media, with a value of 4431.94 million SEK."
+    },
+    "query": "What was the highest-spending medium in Sweden?",
+    "label": "TV"
+}

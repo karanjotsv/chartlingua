@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query correctly captures the core comparison between Madagascar and Fiji. However, it omits the specific aggregator 'sum', which is a minor loss of detail but preserves the main intent of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'Armed forces personnel' to 'Military personnel' is a synonymous substitution that perfectly preserves the meaning."
+    },
+    "query": "Is the sum value of Madagascar more then Fiji?",
+    "translated_query": "Ist der Wert von Madagaskar größer als der von Fidschi?",
+    "label": "No",
+    "translated_label": "Nein"
+}

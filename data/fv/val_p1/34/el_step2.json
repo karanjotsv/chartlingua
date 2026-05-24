@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the core semantic meaning. It corrects a grammatical error ('Minerals are' vs 'Minerals is') and clarifies the ambiguous/awkward phrasing 'wrong composition' to 'component of milk composition', which is a more natural and accurate description for data presented in a pie chart. No critical information is lost; in fact, the clarity is improved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All labels in chart_data are identical. The title 'Composition of Milk' was rephrased to 'Milk Composition' which is a perfect semantic equivalent, representing only a stylistic difference."
+    },
+    "claim": "Minerals is the lowest wrong composition of milk in this pie chart",
+    "translated_claim": "Τα Ορυκτά είναι η χαμηλότερη λανθασμένη σύνθεση γάλακτος σε αυτό το γράφημα πίτας"
+}

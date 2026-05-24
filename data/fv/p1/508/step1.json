@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content (title, subtitle, labels), and color-to-category mappings are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart for the 'Agriculture' category shows the blue bar (Male) extending to approximately 60, while the pink bar (Female) is significantly shorter, indicating a value less than 10. This visually confirms that more men than women worked in agriculture."
+    },
+    "claim": "More men work in Agriculture than women.  ",
+    "label": true
+}

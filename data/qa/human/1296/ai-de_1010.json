@@ -1,0 +1,42 @@
+{
+    "chart_type": "line_chart",
+    "chart_data": [
+        {
+            "name": "Schlecht",
+            "x": [
+                "2019",
+                "2020"
+            ],
+            "y": [
+                53,
+                68
+            ],
+            "label_text": "Schlecht",
+            "label_y_pos": 62
+        },
+        {
+            "name": "Gut",
+            "x": [
+                "2019",
+                "2020"
+            ],
+            "y": [
+                41,
+                30
+            ],
+            "label_text": "Gut",
+            "label_y_pos": 34
+        }
+    ],
+    "texts": {
+        "title": "Steigender Anteil bewertet die<br>Wirtschaftsbeziehungen der USA zu China<br>als schlecht",
+        "subtitle": "% derjenigen, die die aktuellen Wirtschaftsbeziehungen<br>zwischen den USA und China als ... bezeichnen",
+        "source": "Hinweis: Antworten „Weiß nicht“ nicht angezeigt.<br>Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt<br>vom 16. Juni bis 14. Juli 2020. F16.<br>„Amerikaner geben China die Schuld für seine Rolle bei der<br>Verbreitung von COVID-19“<br><br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#355C8D",
+        "#95A14F"
+    ]
+}

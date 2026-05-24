@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, proportions, categories, and color hues for each region are all highly consistent with the original chart. The overall message is identical. The only minor semantic discrepancy is a typo in the title ('LOBAL' instead of 'GLOBAL').",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart title is clipped on the left side, missing the first letter. Additionally, the data labels for the smaller pie slices are severely overlapped, making them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that North America is at the top for soybean meal consumption, but the pie chart clearly shows East Asia has the highest consumption at 32%, while North America is second at 18%."
+    },
+    "claim": "North america stands at top in terms of global soyabean meal consumtion in 2012-13.",
+    "label": "FALSE"
+}

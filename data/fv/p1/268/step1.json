@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in terms of data values (56%, 28%, 16%), category labels (Marsh, Croplands, Uplands), and color associations. The overall message is identical. The addition of a title is a beneficial enhancement.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Marsh takes up a smaller share than croplands, but the pie chart shows that Marsh constitutes 56% of the habitat, which is larger than the 28% share for Croplands."
+    },
+    "claim": "Marsh takes up a smaller share of the habitat than croplands.",
+    "label": false
+}

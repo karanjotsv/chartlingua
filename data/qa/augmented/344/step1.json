@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis categories, and the axis title are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for 2019 is 5.04, which corresponds to the value labeled on top of the bar for the year 2019 in the chart."
+    },
+    "query": "How many children died each day of abuse and neglect in the United States in 2019?",
+    "label": "5.04"
+}

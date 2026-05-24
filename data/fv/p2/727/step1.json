@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, series (including line styles and markers), axis labels, tick marks, legend content, and data annotations are accurately reproduced. The core information and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on 'Threshold Dose' versus 'LET' for different elements (Fe, Si, Ti). It contains no information about the number of fiction or non-fiction titles published in the UK in 2001."
+    },
+    "claim": "There were more non-fiction titles published than fiction titles in the UK in 2001.",
+    "label": "TRUE"
+}

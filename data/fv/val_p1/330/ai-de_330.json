@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "2 bis 3 Stunden",
+            "value": 13,
+            "display_text": "2 bis 3<br>Stunden,<br>13%"
+        },
+        {
+            "category": "3 bis 5 Stunden",
+            "value": 43,
+            "display_text": "3 bis 5<br>Stunden,<br>43%"
+        },
+        {
+            "category": "5 bis 8 Stunden",
+            "value": 35,
+            "display_text": "5 bis 8<br>Stunden,<br>35%"
+        },
+        {
+            "category": "Mehr als 8 Stunden",
+            "value": 9,
+            "display_text": "Mehr<br>als 8<br>Stunden,<br>9%"
+        }
+    ],
+    "texts": {
+        "title": "Edit-a-thons<br><b>Dauer der Events</b>",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#636363",
+        "#46a87e",
+        "#00729f",
+        "#b3200b"
+    ]
+}

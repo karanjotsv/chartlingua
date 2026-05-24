@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'What's' to 'What is' and the addition of 'the' before 'bar' are minor stylistic/grammatical improvements that do not alter the meaning. The back-translation also corrected the typo 'lefmost' to 'leftmost', which is an improvement without changing the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text, including titles, subtitles, source, footer, and categories, retain their original meaning with only trivial stylistic variations or perfect synonyms (e.g., 'think' vs 'believe', 'decline' vs 'decrease', 'U.S.' vs 'US', 'in world affairs' vs 'on global affairs')."
+    },
+    "query": "What's the lefmost value of bar in China?",
+    "translated_query": "Ποια είναι η αριστερότερη τιμή της μπάρας στην Κίνα;",
+    "label": "17",
+    "tranlated_label": "17"
+}

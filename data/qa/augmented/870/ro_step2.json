@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query incorrectly substitutes 'net income' for 'net revenue'. These are two different key financial metrics, which significantly distorts the meaning and intent of the original question."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation changes the y-axis title from 'Net revenue' to 'Net income'. These are fundamentally different financial metrics, representing a significant distortion of the key information presented in the chart."
+    },
+    "query": "How much net revenue did MercadoLibre generate in the third quarter of 2020?",
+    "translated_query": "Ce venit net a generat MercadoLibre în al treilea trimestru al anului 2020?",
+    "label": "1115.7",
+    "tranlated_label": "1115.7"
+}

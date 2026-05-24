@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (title, labels), color hue, and the overall trend are all accurately reproduced. Minor stylistic differences like font and gridline style do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that CostCenter 104 has the tallest bar, corresponding to the highest value of €6.67, which is greater than the values for all other CostCenters shown."
+    },
+    "claim": "Cost Center 104 has the highest total cost.",
+    "label": true
+}

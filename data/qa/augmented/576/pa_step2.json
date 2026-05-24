@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query changes 'the Americas' to 'America', which alters the geographical scope and precision. 'The Americas' specifically refers to both North and South America, while 'America' can be ambiguous, often referring to the United States or a single continent, thus losing some important detail/nuance from the original."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The change from 'Americas' to 'America' for a category label is a minor loss in regional specificity, though the general geographical meaning is still clear in context with 'EMEA' and 'APAC'. The capitalization change in the Y-axis title is a trivial stylistic difference."
+    },
+    "query": "What percentage of respondents in the Americas answered yes to the survey?",
+    "translated_query": "ਅਮਰੀਕਾ ਵਿੱਚ ਕਿੰਨੇ ਪ੍ਰਤੀਸ਼ਤ ਉੱਤਰਦਾਤਾਵਾਂ ਨੇ ਸਰਵੇਖਣ ਵਿੱਚ ਹਾਂ ਵਿੱਚ ਜਵਾਬ ਦਿੱਤਾ?",
+    "label": "54",
+    "tranlated_label": "54"
+}

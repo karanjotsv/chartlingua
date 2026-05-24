@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axes, colors, and the overall structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The chart shows the number of boys participating in 2018/19 is 20,616, which is explicitly labeled on the blue segment of the rightmost bar."
+    },
+    "query": "How many boys participated in high school sports in 2018/19?",
+    "label": "20616"
+}

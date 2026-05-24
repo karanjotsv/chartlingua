@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent. The data proportions, text content, and overall message are accurately reproduced. The color hues are also well-matched for almost all categories. The only minor discrepancy is that two small, distinct categories in the original ('Mollic Alfisols poorly drained' and 'Prairie poorly drained', which were white and light tan) are both rendered as white, losing the visual distinction between them.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the chart's content. The text below the chart explicitly mentions 'Benton County Minnesota' and 'native vegetation information... using soil series proportion of county area (%)'. The legend lists various types of native vegetation, which are displayed as slices of the pie chart."
+    },
+    "claim": "The pie chart displays the percentages of different types of native vegetation in Benton County, Minnesota.",
+    "label": true
+}

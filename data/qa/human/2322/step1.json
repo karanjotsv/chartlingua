@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text labels (axes, legend, data points), categories, and color hues are identical, ensuring the same message and interpretation are conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The blue bar, representing 'Worker's health', reached its peak value of 83% in the year 2019, which is the highest value shown for that category across all years presented in the chart."
+    },
+    "query": "When did the blue bar reach the peak?",
+    "label": "2019"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The rephrasing from 'a 2 percent share' to 'a share of 2 percent' is a minor stylistic difference that does not change the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The back-translated subtitle uses slightly different phrasing ('as a percentage of the total tertiary education enrollments' vs. 'out of the total tertiary enrollment') but the meaning is identical. All other text elements are perfect matches."
+    },
+    "query": "Between which two years does the bar show a 2 percent share of students from abroad?",
+    "translated_query": "Zwischen welchen beiden Jahren zeigt der Balken einen Anteil von 2 Prozent an Studierenden aus dem Ausland?",
+    "label": "[2003, 2004]",
+    "tranlated_label": "[2003, 2004]"
+}

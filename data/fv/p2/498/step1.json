@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart preserves the overall structure, titles, annotations, and color scheme. However, there are significant data discrepancies. The top line chart is a lower-resolution approximation of the original, making it appear more jagged. The bottom chart shows a completely different pattern from 2008 onwards, with multiple drops to zero, whereas the original shows a solid block at 100. These data inaccuracies alter the specific information being conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is contradicted by the chart. The red triangles are pointing downward, not upward. They also appear to mark the end of the 'Equity investment' periods, not the beginning."
+    },
+    "claim": "The red triangles point upward and represent the beginning of the equity investment period.",
+    "label": "FALSE"
+}

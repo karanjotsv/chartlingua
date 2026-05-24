@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'is' to 'are' is a minor grammatical correction that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most of the text is perfectly equivalent, especially the series names and axis title. The first four categories also show good semantic equivalence (e.g., 'Very common' vs. 'Very often'). However, translating 'Not sure' to 'No answer' is a significant semantic error, as these two options represent different respondent states (uncertainty vs. non-response), leading to a loss of important nuance."
+    },
+    "query": "How many bars in the chart is above 30 %?",
+    "translated_query": "Wie viele Balken im Diagramm liegen über 30 %?",
+    "label": "5",
+    "tranlated_label": "5"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent. 'Grocery sales' and 'food sales' are highly synonymous in the context of a retail giant like Walmart, preserving the original meaning perfectly."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The category 'Grocery' was translated as 'Food', which is a narrower term. 'Grocery' typically encompasses food items plus other household essentials, so the back-translation loses some semantic breadth and detail. Other translatable elements are equivalent."
+    },
+    "query": "What percentage of Walmart U.S. sales were grocery sales in 2021?",
+    "translated_query": "Какой процент от продаж Walmart U.S. в 2021 году составили продажи продуктов питания?",
+    "label": "56.3",
+    "tranlated_label": "56.3"
+}

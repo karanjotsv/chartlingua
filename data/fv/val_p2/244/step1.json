@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent reproduction of the original. All data points, their relative proportions, axis labels, titles, and color hue are accurately matched. The overall trend and message are identical. The change in y-axis tick label format (e.g., 40M vs 40,000,000) is a minor stylistic difference that does not affect semantic meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart shows that the annual tonnage in 2015 is higher than in 2014, indicating an increase, not a decrease as the claim states."
+    },
+    "claim": "Annual Tonnage went down from 2014 to 2015.",
+    "label": "FALSE"
+}

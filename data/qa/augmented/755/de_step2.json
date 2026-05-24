@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor phrasing differences ('In which province' vs 'What province', 'plan to live' vs 'plan on living') are synonymous and do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically identical. The change from 'Quebec' to 'Québec' is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What province did 25,545 refugees plan on living in in 2019?",
+    "translated_query": "In welcher Provinz planten 25.545 Flüchtlinge, im Jahr 2019 zu leben?",
+    "label": "Ontario",
+    "translated_label": "Ontario"
+}

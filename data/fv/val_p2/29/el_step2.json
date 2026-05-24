@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'The population of Watertown' vs 'Watertown's population' is a stylistic difference, and 'line graph' vs 'line chart' are synonymous terms in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, x_axis_title, y_axis_title, source, note) are null in both the original and back-translated content, indicating perfect equivalence."
+    },
+    "claim": "The population of Watertown in 2020 had the lowest population as shown in the line graph",
+    "translated_claim": "Ο πληθυσμός του Watertown το 2020 είχε τον χαμηλότερο πληθυσμό, όπως φαίνεται στο γραμμικό γράφημα."
+}

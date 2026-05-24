@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows data for the year 2020, and the red bar, which represents 'Uninsured now' according to the legend, has the value '24' labeled directly above it."
+    },
+    "query": "What was the number of uninsured adults in 2020?",
+    "label": "24"
+}

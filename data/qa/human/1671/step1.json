@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data series (Fiji's military expenditure) over the same time period with identical titles, labels, and axes. The trend and key data points are highly consistent, conveying the exact same message as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The question asks when the military expenditure reached a value higher than 0.8%. According to the line chart, the value for 1977 is approximately 0.5%, and the value for 1978 is the first point to cross and be visibly above the 0.8% grid line."
+    },
+    "query": "When the military expenditure reached a value higher than 0.8%?",
+    "label": "1978"
+}

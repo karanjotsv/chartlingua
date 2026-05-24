@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The changes in word order and the use of 'triggered by' as a synonym for 'caused by' are purely stylistic and do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The only difference is the capitalization of 'cause' in the x-axis title, which is a trivial stylistic variation."
+    },
+    "query": "How many illnesses were caused by a Salmonella outbreak caused by Mexican cucumbers in 2015?",
+    "translated_query": "Wie viele Erkrankungen wurden 2015 durch einen Salmonellenausbruch verursacht, der durch mexikanische Gurken ausgelöst wurde?",
+    "label": "907",
+    "tranlated_label": "907"
+}

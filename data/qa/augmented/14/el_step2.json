@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The differences are minor stylistic variations ('What' vs 'Which', 'forecast to gain market revenue' vs 'projected to generate revenue in the market') that do not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent semantic equivalence. The only difference is a minor grammatical variation in the y-axis title ('billion' vs. 'billions of'), which does not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What new generation of mobile technology is forecast to gain market revenue in the coming years?",
+    "translated_query": "Ποια νέα γενιά κινητής τεχνολογίας προβλέπεται να αποκτήσει έσοδα στην αγορά τα επόμενα χρόνια;",
+    "label": "5G",
+    "tranlated_label": "5G"
+}

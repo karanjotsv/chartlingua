@@ -1,0 +1,70 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Profesioniști",
+            "Birouri<br>sau servicii<br>domestice",
+            "Agricultură",
+            "Animale",
+            "Muncitori în<br>domeniul casnic,<br>mobilier și<br>decorațiuni",
+            "Muncitori în<br>domeniul<br>trăsurilor și<br>hamurilor",
+            "Alimentație<br>și cazare",
+            "Muncitori în<br>domeniul<br>vestimentar",
+            "Muncitori cu<br>diverse<br>substanțe vegetale",
+            "Muncitori cu<br>diverse<br>substanțe minerale",
+            "Muncitori cu<br>mărfuri generale<br>nespecificate",
+            "Persoane<br>fără<br>ocupații<br>specificate",
+            "Ocupație<br>necunoscută"
+        ],
+        "series": [
+            {
+                "name": "Bărbați",
+                "data": [
+                    0,
+                    9,
+                    50,
+                    2,
+                    2,
+                    4,
+                    2,
+                    0,
+                    1,
+                    4,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Femei",
+                "data": [
+                    7,
+                    36,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    4,
+                    0,
+                    0,
+                    0,
+                    46,
+                    12
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Ocupațiile din Belstead în 1881",
+        "subtitle": null,
+        "x_axis_title": "Tipuri de ocupații",
+        "y_axis_title": "Numărul de persoane",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4C82B9",
+        "#E97E33"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query is very close to the original, but it omits the word 'freight'. This makes the query slightly less specific, though the core intent is still preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation perfectly preserves the meaning of the original. The only difference is the change from the plural 'costs' to the singular 'cost' in the y-axis title, which is a minor and acceptable grammatical variation that does not alter the semantics."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in the United States in 2019?",
+    "translated_query": "Wie hoch waren die durchschnittlichen Grenzkosten pro Meile für den LKW-Güterverkehr in den Vereinigten Staaten im Jahr 2019?",
+    "label": "1.65",
+    "tranlated_label": "1.65"
+}

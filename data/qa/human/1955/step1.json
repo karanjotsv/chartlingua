@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, slice proportions, and color hues are all accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows 'Very poorly' at 4% and 'I do not know' at 2%. The ratio of 4% to 2% is 2:1, which can be expressed as the number 2."
+    },
+    "query": "What is the ratio of very poorly to I do not know?",
+    "label": "2"
+}

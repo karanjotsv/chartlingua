@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It preserves the title, legend labels, data proportions, and overall message. The color for 'Females' changed from red to orange, which is an acceptable hue variation that does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the proportion of males and females in a given population, but it does not provide any data or metrics related to 'uncertainty levels' for either group. Therefore, the claim that there is a difference in uncertainty levels cannot be verified or supported by the information presented in the chart."
+    },
+    "claim": "There is a difference in uncertainty levels between males and females.",
+    "label": "TRUE"
+}

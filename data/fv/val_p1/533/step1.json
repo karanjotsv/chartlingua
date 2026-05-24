@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are identical to the original. The core message is perfectly preserved. The only minor difference is the truncation of the source text at the bottom, which does not impact the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not show any data about 'improvement in PTSD symptoms'. It compares the prevalence of PTSD in two distinct groups: those with ABA exposure and those without. The data indicates that the group with ABA exposure has a higher percentage of PTSD (46%) than the group with no ABA exposure (28%), which contradicts the claim of improvement."
+    },
+    "claim": "Autistic people who received ABA therapy had the highest improvement in PTSD symptoms",
+    "label": false
+}

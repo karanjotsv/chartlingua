@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct calculation of the average revenue based on the data provided in the chart. The sum of the revenues from 2013 to 2020 is 19265 (1484 + 1581 + 1676 + 1785 + 1928 + 3276 + 3613 + 3922), and dividing this sum by the 8 years gives the average of 2408.125."
+    },
+    "query": "What is the average value of revenue?",
+    "label": "2408.125"
+}

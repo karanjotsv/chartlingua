@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Προς Ανάπτυξη",
+            "value": 25
+        },
+        {
+            "label": "Ολοκληρώθηκε",
+            "value": 35
+        },
+        {
+            "label": "Σε Εξέλιξη",
+            "value": 2
+        },
+        {
+            "label": "Σε Αναμονή",
+            "value": 3
+        },
+        {
+            "label": "Δοκιμάζεται",
+            "value": 4
+        },
+        {
+            "label": "Έγκριση",
+            "value": 6
+        },
+        {
+            "label": "Προς Εκτέλεση",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": "Κατανομή Εργασιών",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#066DA8",
+        "#A97337",
+        "#238E23",
+        "#C83232",
+        "#AABD2F",
+        "#1EB4C4",
+        "#F38600"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. 'Aid' and 'Support' are highly synonymous in this context, and 'holds the amount' versus 'amounts to' convey the same idea. The change from 'USD' to 'US' is minor. The numerical value $10,90 (likely using a comma as a decimal separator from another locale) has been correctly interpreted and formatted as $10.90 in standard English, maintaining the exact intended value without semantic loss."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. Minor differences like 'Aid' vs 'Support', 'USD' vs 'US', and the addition of 'the' are stylistic or synonymous changes that do not alter the core meaning or key information. Number formatting (comma vs dot for decimals) is a locale-specific presentation difference, not a semantic one."
+    },
+    "claim": "Total Aid holds the amount in USD billion dollars as $10,90 in pie chart.",
+    "translated_claim": "ਕੁੱਲ ਸਹਾਇਤਾ ਪਾਈ ਚਾਰਟ ਵਿੱਚ ਅਮਰੀਕੀ ਅਰਬ ਡਾਲਰਾਂ ਵਿੱਚ $10,90 ਦੀ ਰਕਮ ਰੱਖਦੀ ਹੈ।"
+}

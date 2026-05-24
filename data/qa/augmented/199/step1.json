@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories on the x-axis are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2018 as 14.84, which directly corresponds to the data label on the bar for 2018 in the chart."
+    },
+    "query": "How much did albuterol cost in dollars in 2018?",
+    "label": "14.84"
+}

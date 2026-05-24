@@ -1,0 +1,33 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "England",
+            "x": [
+                2010,
+                2011,
+                2012,
+                2013,
+                2014
+            ],
+            "y": [
+                1780,
+                2200,
+                2310,
+                2420,
+                2710
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Anzahl der Obdachlosen in England, 2010 bis 2014",
+        "subtitle": "Geschätzte Anzahl der Obdachlosen in England. Die Zahlen entsprechen zeitpunktbezogenen Schätzungen,<br>die durch die Zählung von im Freien schlafenden Personen im Herbst ermittelt wurden.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: Rough Sleeping in England in the 2010s - OWID basierend auf UK National Statistics (2018)",
+        "note": "OurWorldInData.org/homelessness • CC BY"
+    },
+    "colors": [
+        "#3c4f6b"
+    ]
+}

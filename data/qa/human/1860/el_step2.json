@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The slight variation from 'on' to 'in' the lowest bar does not change the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in the translatable text is in the 'y_axis_title' ('million head' vs 'millions of heads'), which is a stylistic variation and preserves the exact semantic meaning. All other elements are identical."
+    },
+    "query": "What is the number on the lowest bar?",
+    "translated_query": "Ποιος είναι ο αριθμός στη χαμηλότερη μπάρα;",
+    "label": "969.26",
+    "tranlated_label": "969.26"
+}

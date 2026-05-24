@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The text, categories, and color hues are consistent. However, the data proportions in the 'Top Companies' pie chart are significantly different, changing the key insight from Merrill Lynch being the largest to a three-way tie. The other two charts have more accurate proportions.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states a majority of members hold the title of Vice President. In the 'Titles' pie chart, the blue slice representing 'Vice President' is the largest single category, but it is visually less than 50% of the total pie. Therefore, it represents a plurality, not a majority."
+    },
+    "claim": "Majority of NYSSA members hold the title Vice President.",
+    "label": true
+}

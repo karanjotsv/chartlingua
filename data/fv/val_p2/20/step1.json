@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, proportions, categories, text labels (axes, facets, legend), and color hues are accurately replicated. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three groups (1X, 1A, 1E). In each group, the bar corresponding to the 'abuse' feedback category is entirely colored red, which represents 'useless' feedback according to the legend. There is no green ('useful') portion in any of the 'abuse' bars, confirming the claim."
+    },
+    "claim": "Abuse feedback is 100% useless across all groups.",
+    "label": "TRUE"
+}

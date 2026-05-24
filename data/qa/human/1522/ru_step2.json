@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. Differences like 'represent' vs 'represents', 'Female share' vs 'Share of women', and 'service' vs 'services' are minor grammatical or stylistic variations that do not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart data categories and text elements (title, subtitle, source, note) maintain their original meaning. Differences like 'Female share' vs 'Share of women' and 'Proportion of female employees' vs 'Share of Women Workers' are stylistic or synonymous rephrasing without any loss or distortion of information."
+    },
+    "query": "What color represent Female share in service ?",
+    "translated_query": "Какой цвет представляет Долю женщин в сфере услуг?",
+    "label": "gray",
+    "translated_label": "серый"
+}

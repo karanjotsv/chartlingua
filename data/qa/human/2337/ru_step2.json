@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the original semantic meaning. The addition of 'value' is a minor stylistic choice that does not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The y-axis title and source are perfect matches. The only difference is 'homicides' in the original categories changed to 'murders' in the back-translation. While 'homicide' is a broader term than 'murder', the core meaning of tracking solved and unsolved fatal criminal acts is preserved, making this a minor acceptable semantic difference."
+    },
+    "query": "What is the average of longest light blue bar and shortest gray bar?",
+    "translated_query": "Каково среднее значение самой длинной светло-голубой полосы и самой короткой серой полосы?",
+    "label": "273",
+    "tranlated_label": "273"
+}

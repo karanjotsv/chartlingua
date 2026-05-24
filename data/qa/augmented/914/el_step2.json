@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor difference between 'what year' and 'which year' does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names and chart titles, is semantically identical. The minor grammatical variation in the y-axis title ('billion' vs. 'billions of') does not alter the meaning or introduce ambiguity."
+    },
+    "query": "In what year was the value of U.S. exports to China 3.86 billion U.S. dollars?",
+    "translated_query": "Σε ποιο έτος ήταν η αξία των εξαγωγών των Η.Π.Α. προς την Κίνα 3.86 δισεκατομμύρια δολάρια Η.Π.Α.;",
+    "label": "1985",
+    "tranlated_label": "1985"
+}

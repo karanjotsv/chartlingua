@@ -1,0 +1,63 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "series_names": [
+        "Proastă",
+        "Bună"
+    ],
+    "colors": [
+        "#244f82",
+        "#8f9a4c"
+    ],
+    "chart_data": [
+        {
+            "category": "Total",
+            "values": [
+                64,
+                31
+            ]
+        },
+        {
+            "category": "  Vârste 18-29 ani",
+            "values": [
+                54,
+                41
+            ]
+        },
+        {
+            "category": "  30-49 ani",
+            "values": [
+                59,
+                35
+            ]
+        },
+        {
+            "category": "  50+ ani",
+            "values": [
+                73,
+                23
+            ]
+        },
+        {
+            "category": "Rep/Simp. Rep",
+            "values": [
+                82,
+                15
+            ]
+        },
+        {
+            "category": "Dem/Simp. Dem",
+            "values": [
+                54,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Republicanii, americanii mai în vârstă mai<br>critici față de răspunsul Chinei la COVID-19",
+        "subtitle": "% care consideră că China a avut o prestație ___ în gestionarea<br>epidemiei de coronavirus",
+        "source_note": "Notă: Răspunsurile de tip „Nu știu” nu sunt afișate.<br>Sursa: Sondaj realizat pe adulți din S.U.A. în perioada 16 iunie-14 iulie 2020.<br>Q10b.<br>„Americanii învinovățesc China pentru rolul său în răspândirea COVID-19”<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null
+    }
+}

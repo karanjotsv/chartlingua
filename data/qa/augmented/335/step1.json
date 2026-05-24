@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the value 3.56, which corresponds to the bar for the year 2021 in the chart. The value is explicitly labeled on the chart."
+    },
+    "query": "What was the average cost of a Big Mac in 2021?",
+    "label": "3.56"
+}

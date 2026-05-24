@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values for both the bar series and the line series, axis labels, legend text, and color hues are all consistent. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the weekly rank has been 'steadily declining,' but the chart's yellow line, which represents the weekly rank, shows significant fluctuations. For example, the rank improved from 9 in week 18 to 1 in week 21, contradicting the idea of a steady decline."
+    },
+    "claim": "the business' weekly rank has been steadily declining over time ",
+    "label": false
+}

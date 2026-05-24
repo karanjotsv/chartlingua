@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has significant data errors. All data series are plotted as discontinuous, broken lines with a large gap in the middle, which fundamentally misrepresents the continuous data shown in the original. Additionally, the color for the 'Haskell & Fox' series has been changed from green to yellow, a notable hue inconsistency.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed. All data lines are clipped and incomplete, appearing as disconnected segments with a large, empty gap in the middle of the x-axis range. This indicates a severe data plotting error."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays Maximum Heart Rate (HR(max)) on the y-axis and Age (years) on the x-axis. All plotted lines, representing various formulae, show a consistent downward trend, indicating that as age increases, the calculated maximum heart rate decreases. This directly demonstrates that maximum heart rate is affected by age."
+    },
+    "claim": "According to the chart chow that the Maximum heart rate is affected by age.",
+    "label": false
+}

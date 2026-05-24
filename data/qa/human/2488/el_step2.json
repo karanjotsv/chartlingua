@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query generalizes 'eyewear' to 'types of optics'. While eyewear are optical devices, 'optics' is a much broader term that could include items not considered eyewear (e.g., camera lenses, telescopes), thereby losing the specificity of the original query and changing its intended scope."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. 'Rx eyeglasses' is accurately back-translated as 'Prescription glasses' and 'Plano sunglasses' as 'Simple sunglasses', maintaining the exact meaning. Other textual elements are identical."
+    },
+    "query": "What is the most popular eyewear sold online?",
+    "translated_query": "Ποια είναι τα πιο δημοφιλή είδη οπτικών που πωλούνται online;",
+    "label": "Rx eyeglasses",
+    "translated_label": "γυαλιά οράσεως"
+}

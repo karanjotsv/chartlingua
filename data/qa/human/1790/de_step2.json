@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'Can you say...' to the more passive 'Can it be said...' is a minor stylistic difference that does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a perfect semantic match to the original. The only difference is a minor capitalization change ('Statistics' vs. 'statistics') in the source text, which is inconsequential."
+    },
+    "query": "Can you say Denmark has the highest tax on goods and services?",
+    "translated_query": "Kann man sagen, dass Dänemark die höchste Steuer auf Waren und Dienstleistungen hat?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

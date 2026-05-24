@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the title, data values, category labels, and preserves the color hue for each slice. All key information is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'Scientific & technical' occupation is the largest, but the pie chart shows this sector at 8%, which is the smallest percentage. Four other sectors are shown as being larger, each at 23%."
+    },
+    "claim": "Scientific and Technical Occupation leads the biggest one in the pie chart of statistics 2011.",
+    "label": false
+}

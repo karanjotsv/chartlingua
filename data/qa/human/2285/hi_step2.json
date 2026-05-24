@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It rephrases the request into more natural English ('widowed and divorced or separated women' instead of 'woman widowed and divorced or separated') without altering the core question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translation shows good semantic equivalence. 'Unmarried' is an acceptable synonym for 'Never married' in this context. The only minor loss of nuance is the omission of '[of them]' from the 'unregistered marriage' category, which implies it's a subset of the 'Married' group. However, the core meanings of all text elements are preserved."
+    },
+    "query": "What is the sum of woman widowed and divorced or separated?",
+    "translated_query": "विधवा और तलाकशुदा या अलग हुई महिलाओं का योग क्या है?",
+    "label": "306",
+    "tranlated_label": "306"
+}

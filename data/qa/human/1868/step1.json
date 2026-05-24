@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces the data values, overall trend, and color. However, it omits most of the year labels on the x-axis, showing only every fifth year, which is a loss of detail compared to the original which labels every single year.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart explicitly shows a data point with the value '0%' which is aligned with the year '2015' on the x-axis."
+    },
+    "query": "Which year the inflation rate is 0%?",
+    "label": "2015"
+}

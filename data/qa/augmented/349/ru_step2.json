@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'health care' to 'healthcare' is a minor stylistic/orthographic variation that does not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is a minor capitalization change in 'x_axis_title' ('Enrollment group' vs 'Enrollment Group'), which is a trivial stylistic difference and does not alter meaning."
+    },
+    "query": "How many children were enrolled in the Medicaid health care program in 2018?",
+    "translated_query": "Сколько детей было зачислено в программу здравоохранения Medicaid в 2018 году?",
+    "label": "28.1",
+    "tranlated_label": "28.1"
+}

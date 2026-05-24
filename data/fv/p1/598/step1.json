@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart fundamentally misrepresents the data from the original. The proportions of the pie slices are incorrect, leading to a completely different interpretation of the dominant categories. For example, the largest slice in the original ('Water / Wet Soils...') is a very small slice in the rendered version, while other slices have been incorrectly resized. The color mapping for at least one major category has also changed ('Pine - Hardwood Savanna' is red in the original and brown in the rendered).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the chart's content, which is explicitly stated in the title and accompanying text as 'Clearwater County Minnesota Savanna Soils 21%'."
+    },
+    "claim": "The chart above shows the Savanna soils composition in Clearwater County in Minnesota.",
+    "label": true
+}

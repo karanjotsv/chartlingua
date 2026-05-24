@@ -1,0 +1,42 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "x": [
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            "y": [
+                0.32,
+                0.64,
+                0.76,
+                0.82,
+                0.86,
+                0.88,
+                0.9,
+                0.915,
+                0.925,
+                0.93
+            ],
+            "name": "Korrelation"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Länge der Zeitreihe",
+        "y_axis_title": "Korrelationskoeffizient",
+        "source": null
+    },
+    "colors": [
+        "#0000FF"
+    ]
+}

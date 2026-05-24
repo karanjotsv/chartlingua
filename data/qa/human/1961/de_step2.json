@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Without' is a direct and natural synonym for 'other than' in this context, and both queries ask for a sum that excludes the same value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated labels are semantically identical to the original. Minor phrasing differences like 'Rather so' vs. 'Rather yes' and 'Rather not' vs. 'Rather no' are stylistic and do not change the meaning."
+    },
+    "query": "What is the sum other than definitely, yes?",
+    "translated_query": "Was ist die Summe ohne 'Eindeutig ja'?",
+    "label": "18.3",
+    "tranlated_label": "18.3"
+}

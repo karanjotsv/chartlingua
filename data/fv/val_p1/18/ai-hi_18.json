@@ -1,0 +1,39 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "ग्लास",
+            "भांग",
+            "मिट्टी"
+        ],
+        "series": [
+            {
+                "name": "फाइबर (टीजे)",
+                "values": [
+                    9.817,
+                    2.999,
+                    19.399
+                ]
+            },
+            {
+                "name": "मैट्रिक्स (टीजे)",
+                "values": [
+                    7.825,
+                    5.59,
+                    10.285
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "ऊर्जा: कुल",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#3174B8",
+        "#C00000"
+    ]
+}

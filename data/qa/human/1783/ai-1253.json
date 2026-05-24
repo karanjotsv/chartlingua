@@ -1,0 +1,27 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Slovak Republic",
+            "value": 4.2
+        },
+        {
+            "category": "Lithuania",
+            "value": 15.0
+        }
+    ],
+    "texts": {
+        "title": "National area distribution",
+        "subtitle": "Urban regions, Percentage, 2014",
+        "source": "Source: Small regions, TL3: Demographic statistics",
+        "info_box": {
+            "text": "Lithuania 2014<br><b>15.0</b><br>Percentage",
+            "x_anchor_category": "Lithuania",
+            "y_anchor_value": 9.0
+        }
+    },
+    "colors": [
+        "#E41F26",
+        "#0094D8"
+    ]
+}

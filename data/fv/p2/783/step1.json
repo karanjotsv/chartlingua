@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, categories, labels, and the main title are accurately reproduced. The color hues for the political leanings are consistent (red/right, green/left, grey/center). The overall message about political disagreement on climate change across countries is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change across various countries. The claim is about the population of mice, a subject not represented or mentioned anywhere in the chart."
+    },
+    "claim": "The population of mice in the closed Utopian universe remained constant over time.",
+    "label": "FALSE"
+}

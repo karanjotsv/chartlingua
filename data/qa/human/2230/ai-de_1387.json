@@ -1,0 +1,50 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Ja",
+            "x": [
+                "16 bis 24 Jahre",
+                "25 bis 34 Jahre",
+                "35 bis 44 Jahre",
+                "45 bis 54 Jahre",
+                "55 Jahre und älter"
+            ],
+            "y": [
+                27,
+                38,
+                35,
+                30,
+                24
+            ]
+        },
+        {
+            "name": "Nein",
+            "x": [
+                "16 bis 24 Jahre",
+                "25 bis 34 Jahre",
+                "35 bis 44 Jahre",
+                "45 bis 54 Jahre",
+                "55 Jahre und älter"
+            ],
+            "y": [
+                73,
+                62,
+                65,
+                70,
+                76
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2772e9",
+        "#1c2a39"
+    ]
+}

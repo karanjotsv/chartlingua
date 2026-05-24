@@ -1,0 +1,55 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "< $10",
+            "value": 22
+        },
+        {
+            "label": "$10 - $30",
+            "value": 29
+        },
+        {
+            "label": "$30 - $50",
+            "value": 16
+        },
+        {
+            "label": "$50 - $100",
+            "value": 13
+        },
+        {
+            "label": "$100 - $200",
+            "value": 3
+        },
+        {
+            "label": "$200 - $1,000",
+            "value": 5
+        },
+        {
+            "label": "$1,000 - $250,000",
+            "value": 7
+        },
+        {
+            "label": "$250,000 - $1million",
+            "value": 5
+        }
+    ],
+    "texts": {
+        "title": "Revenue Breakdown by Donation Amount",
+        "subtitle": "Fiscal Year 2013",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#2669B3",
+        "#003366",
+        "#4F591E",
+        "#667056",
+        "#6E1E17",
+        "#98592D",
+        "#84A33B",
+        "#9C6B8D"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, labels, title, axis scales, color hues, and overall trends are all accurately replicated. The only differences are minor stylistic choices like font and gridline appearance, which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not provide the average score directly. To evaluate the claim, a weighted average must be calculated for each year based on the percentage of students receiving each score. A calculation for the start year (2010) and end year (2018) shows that the average score remained nearly identical (approximately 3.03). While the distribution of scores changed over time, with fewer students receiving scores of 1 and 5 and more students receiving scores of 2, 3, and 4, the overall average score did not decrease."
+    },
+    "claim": "The average score on the AP Latin exam has decreased over time.",
+    "label": false
+}

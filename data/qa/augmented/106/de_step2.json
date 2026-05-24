@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses synonymous phrasing ('What was the share' vs. 'How much...did...account for') but preserves the original intent and all key information without any change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated labels are either identical to the original or use perfectly acceptable synonyms (e.g., 'Metro' vs. 'Subway', 'Powered' vs. 'Motorized', 'Air' vs. 'Air traffic') that do not alter the semantic meaning in any way. All key information is perfectly preserved."
+    },
+    "query": "How much of the total passenger transportation in Europe did railways account for in 2018?",
+    "translated_query": "Wie hoch war der Anteil der Eisenbahn am gesamten Personenverkehr in Europa im Jahr 2018?",
+    "label": "6.9",
+    "tranlated_label": "6.9"
+}

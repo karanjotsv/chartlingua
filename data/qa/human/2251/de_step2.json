@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of the definite article 'the' is a minor grammatical difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is very good. The y-axis title is a perfect match, ignoring capitalization. The only minor difference is the change from 'Food products' to 'Food', which is a reasonable simplification that does not alter the core meaning of the chart data."
+    },
+    "query": "What is the sum of highest value and lowest value of blue bar?",
+    "translated_query": "Was ist die Summe aus dem höchsten Wert und dem niedrigsten Wert des blauen Balkens?",
+    "label": "124.4",
+    "tranlated_label": "124.4"
+}

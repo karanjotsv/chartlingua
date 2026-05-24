@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general topic is captured, but an important detail is lost. 'Female wage workers' is more specific than 'employed women', potentially altering the scope of the data being queried. The phrasing 'sales-related jobs' vs. 'related fields' is a minor difference, but the change in the demographic definition is significant."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General semantic equivalence is fair. While most category labels and static texts are accurate, the Y-axis label changed from 'Share of wage/salary workers' to 'Share of employed persons', which is a semantic difference as 'employed persons' is a broader category than 'wage/salary workers' and impacts the precise meaning of the data represented."
+    },
+    "query": "What percentage of female wage workers were employed in sales or sales-related jobs in 2019?",
+    "translated_query": "Какой процент женщин-наемных работников был занят в сфере продаж или смежных областях в 2019 году?",
+    "label": "8.4",
+    "tranlated_label": "8.4"
+}

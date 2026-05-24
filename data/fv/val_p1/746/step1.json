@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values (149, 60, 30), labels, titles, and color hues are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the Playstation 4 has 60 Frames Per Second (FPS), while the Nintendo Switch has 30 FPS. Therefore, the claim that the Nintendo Switch has more FPS than the Playstation 4 is incorrect."
+    },
+    "claim": "Nintento Switch has more Frames per Second than Playstation 4. ",
+    "label": false
+}

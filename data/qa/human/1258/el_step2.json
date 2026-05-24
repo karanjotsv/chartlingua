@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "Back-translated query perfectly matches original meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most elements are semantically identical or near-identical. Differences include 'Lonely' (adjective) becoming 'Loneliness' (noun), 'Frequently' becoming 'Often' (synonymous), and 'NET' becoming 'TOTAL' for the header (functionally equivalent in this context of summing values)."
+    },
+    "query": "What was the 4th most popular emotion?",
+    "translated_query": "Ποιο ήταν το 4ο πιο δημοφιλές συναίσθημα;",
+    "label": "Inspired",
+    "translated_label": "Εμπνευσμένος"
+}

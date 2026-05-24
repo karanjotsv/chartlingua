@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Cititor pasionat (peste 20 de cărți)",
+            "value": 31
+        },
+        {
+            "category": "Cititor mediu (între 5 și 19<br>cărți)",
+            "value": 39
+        },
+        {
+            "category": "Cititor ocazional (între 1 și 4<br>cărți)",
+            "value": 23
+        },
+        {
+            "category": "Non-cititor (0 cărți)",
+            "value": 8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Procentul respondenților",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#1e78d2"
+    ]
+}

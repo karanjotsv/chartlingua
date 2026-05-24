@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axes, color associations, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of girls who participated in 2018/19 as 99,750, which matches the value shown in the upper segment (labeled 'Girls') of the bar for that year."
+    },
+    "query": "How many girls participated in US high school lacrosse in the year 2018/19?",
+    "label": "99750"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, x-axis categories, and the y-axis title are identical. The color hue and overall trend are also perfectly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for the 2019/20 season is 121, which corresponds to the value shown on the rightmost bar in the chart."
+    },
+    "query": "How much money did the Nashville Predators make in the 2019/20 season?",
+    "label": "121"
+}

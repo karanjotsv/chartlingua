@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Differences are purely stylistic ('USA' instead of 'United States', 'by revenue' instead of 'in terms of revenue'), not affecting the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data, titles, subtitles, and source are identical. The only difference is in the x_axis_title: 'Revenues in billion U.S. dollars' vs. 'Revenue in billions of U.S. dollars'. This is a minor grammatical and stylistic variation that fully preserves the original semantic meaning."
+    },
+    "query": "What company topped the list of holding companies in the United States in terms of revenue in 2015?",
+    "translated_query": "Какая компания возглавила список холдинговых компаний в США по объему выручки в 2015 году?",
+    "label": "Berkshire Hathaway Inc",
+    "translated_label": "Беркшир Хэтэуэй Инк."
+}

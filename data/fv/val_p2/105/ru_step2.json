@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning. 'Total value of the population' is accurately interpreted as 'total number of', which is a common and appropriate clarification in this context. 'Is more than' is perfectly matched by 'exceeds'. Minor phrasing differences like capitalization ('United church' vs. 'United Church') or singular/plural ('Catholic' vs. 'Catholics') do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor differences such as pluralization of labels (e.g., 'Catholic' vs. 'Catholics'), stylistic rephrasing in the title ('Alberta Population by Religion' vs. 'Population of Alberta by Religious Affiliation'), and year placement in the source ('2011 National Household Survey' vs. 'National Household Survey 2011') do not alter the core meaning or information conveyed."
+    },
+    "claim": "The total value of the Lutheran and Anglican population is more than the total value of the United church and Catholic.",
+    "translated_claim": "Общая численность лютеран и англикан превышает общую численность Объединенной Церкви и католиков."
+}

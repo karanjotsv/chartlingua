@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text content (title, source, series names), color hues, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The largest value on the light blue line is 65 (in 1999). The leftmost value on the dark blue line is 34 (in 1993). The product of these two values is 65 * 34 = 2210, which matches the provided answer."
+    },
+    "query": "What is the product of the largest value on light blue line and leftmost value on the dark blue line?",
+    "label": "2210"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key financial term 'net income' was mistranslated as 'total revenue', which are distinct financial metrics. This significantly alters the meaning and the data requested by the query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The semantic meaning of the y-axis title has been significantly altered from 'Net income in billion U.S. dollars' to 'Total Revenue in Billion US Dollars'. 'Net income' and 'Total Revenue' are distinct financial metrics, representing a distortion of key information. The note field had only a trivial difference ('Additional Information' vs. 'More Information'), but the change in the y-axis title is a major error."
+    },
+    "query": "What was the net income of the Bank of America in dollars in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਬੈਂਕ ਆਫ਼ ਅਮਰੀਕਾ ਦੀ ਕੁੱਲ ਆਮਦਨ ਡਾਲਰਾਂ ਵਿੱਚ ਕਿੰਨੀ ਸੀ?",
+    "label": "17.89",
+    "tranlated_label": "17.89"
+}

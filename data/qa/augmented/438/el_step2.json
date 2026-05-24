@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, showing perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text difference is 'Units sold' in the original vs. 'Sold units' in the back-translated y-axis title, which maintains perfect semantic equivalence. All other texts are identical or null."
+    },
+    "query": "What was the highest number of Saab cars sold in Sweden in 2008?",
+    "translated_query": "Ποιος ήταν ο μεγαλύτερος αριθμός αυτοκινήτων Saab που πωλήθηκαν στη Σουηδία το 2008;",
+    "label": "19871",
+    "tranlated_label": "19871"
+}

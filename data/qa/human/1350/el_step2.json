@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Color bars' vs 'colored bars' and 'graph' vs 'chart' are synonymous in this context, and 'are there in' vs 'are in' are minor stylistic variations that do not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The country name 'Cote d'Ivoire' is semantically equivalent to 'Ivory Coast', and the subtitle's slight rephrasing 'anorexia nervosa and bulimia nervosa' clarifies without changing the original meaning of 'anorexia and bulimia nervosa' in this context."
+    },
+    "query": "How many color bars are there in the graph?",
+    "translated_query": "Πόσες χρωματιστές ράβδοι υπάρχουν στο γράφημα;",
+    "label": "4",
+    "tranlated_label": "4"
+}

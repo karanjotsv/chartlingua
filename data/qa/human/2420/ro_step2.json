@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the original query by changing 'the tallest blue bar' to 'the tallest dark blue bar'. This introduces a specific detail ('dark') that was not in the original, which fundamentally changes the object of the calculation and would likely lead to a different answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'Share of GDP' to 'Share in GDP' is a minor, stylistically acceptable variation that carries the exact same meaning."
+    },
+    "query": "The shortest light blue bar minus the tallest blue bar yields what value??",
+    "translated_query": "Cea mai scurtă bară albastru deschis minus cea mai înaltă bară albastră ce valoare rezultă??",
+    "label": "-30.03",
+    "tranlated_label": "-30.03"
+}

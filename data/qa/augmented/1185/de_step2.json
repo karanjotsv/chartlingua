@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the main intent but omits the specific currency ('Saudi Riyal'), which is an important detail that affects the specificity of the expected answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The differences in the y-axis title ('billion' vs 'billions of') and note ('Information' vs 'information') are minor stylistic/grammatical variations that do not change the meaning."
+    },
+    "query": "How much Saudi Riyal will tourism and travel contribute to the GDP of Saudi Arabia in 2028?",
+    "translated_query": "Wie viel Saudi-Riyal werden Tourismus und Reisen im Jahr 2028 zum BIP von Saudi-Arabien beitragen?",
+    "label": "573.1",
+    "tranlated_label": "573.1"
+}

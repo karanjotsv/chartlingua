@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. Minor variations like 'Electric Utilities' becoming 'energy companies' and the addition of 'industry/industries' do not alter the core comparison or the entities being compared."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels, titles, and subtitles match perfectly or have only minor, acceptable differences in phrasing (e.g., 'All Others' vs 'All Other', 'Food' vs 'Food Industry'). The change from 'Electric Utilities' to 'Energy Companies' is a slight broadening of the category, but the core meaning remains intact within the context of industrial classifications. The source text also maintains its core meaning despite a slight change from 'industries' to 'industrial facilities'."
+    },
+    "claim": "The total value of Electric Utilities and chemicals is higher than the total value of paper and food.",
+    "translated_claim": "Общая стоимость энергетических компаний и химической промышленности выше, чем общая стоимость бумажной и пищевой промышленности."
+}

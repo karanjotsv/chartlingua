@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart preserves the overall structure, titles, annotations, and color scheme. However, there are significant data representation issues. The top line chart is heavily downsampled, resulting in a coarse, angular line that loses the detailed fluctuations of the original. The bottom chart is missing a data event (a spike around 1995) that is present in the original. These discrepancies distort the underlying data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the S&P 500 zero-lag EMA has never reached the 1550 mark. However, the chart shows a peak around late 2007 that visually reaches or slightly exceeds this level. This peak is located approximately three-quarters of the way between the 1400 and 1600 grid lines, which corresponds to a value of 1550."
+    },
+    "claim": "The S&P 500 zero-lag EMA have never really closed the 1550 mark.",
+    "label": "TRUE"
+}

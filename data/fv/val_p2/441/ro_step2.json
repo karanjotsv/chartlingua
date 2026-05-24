@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. It uses more natural phrasing and synonyms ('value' for 'amount', 'causes' for 'reason') which improve clarity without altering the core information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most categories are translated well, with minor acceptable differences like 'Other' to 'Others' and 'Surges' to 'Power surges'. However, the translation of 'Mischievousness' to 'Malice' is a significant semantic shift. 'Malice' implies a clear intent to do harm, which is a stronger and different meaning than the more playful or less severe 'Mischievousness', resulting in a loss of important nuance."
+    },
+    "claim": "The total amount of water and fire reason is equal to surges reason.",
+    "translated_claim": "Valoarea totală pentru cauzele Apă și Incendiu este egală cu valoarea pentru cauza Supratensiuni."
+}

@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Clicuri pe anunțurile din căutare",
+            "x": [
+                "Consumabile medicale",
+                "Produse farmaceutice"
+            ],
+            "y": [
+                5,
+                34
+            ]
+        },
+        {
+            "name": "Rata de conversie a anunțurilor din căutare",
+            "x": [
+                "Consumabile medicale",
+                "Produse farmaceutice"
+            ],
+            "y": [
+                24,
+                47
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Valoare",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#1A2C42"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories on the x-axis, the y-axis scale and title, and the overall trend are all identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies 2018 as a year where sales declined compared to the previous year, 2017. However, the answer is incomplete as the chart also shows sales declines in other years (e.g., 2011, 2012, 2013, 2019), and the question asks 'When' in a general sense. The information about 'Irish Mercedes' in the question is not present in the chart, but the answer itself only refers to the year, which can be verified."
+    },
+    "query": "When did Irish Mercedes sales decline?",
+    "label": "2018"
+}

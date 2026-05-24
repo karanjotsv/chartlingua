@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, proportions, colors, and the title are identical. The overall message is precisely the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the combined total of oil and hydro sources is equal to natural gas. According to the pie chart, oil accounts for 11% and hydro for 1%, making their sum 12%. Natural gas accounts for 5%. Since 12% is not equal to 5%, the claim is refuted by the chart's data."
+    },
+    "claim": "The total amount of oil and hydro sources is equal to natural gaz.",
+    "label": "FALSE"
+}

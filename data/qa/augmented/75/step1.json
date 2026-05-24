@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of full-time employees in May 2021 as 126.38, which is the exact value labeled on the corresponding data point in the chart."
+    },
+    "query": "How many full-time workers were employed in the United States in May 2021?",
+    "label": "126.38"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. Minor phrasing adjustments (e.g., 'amount of people' to 'number of people', 'polls for' to 'answered', 'Highly' to 'Very well', 'don't know at all' to 'not familiar at all') improve clarity and naturalness without altering the core message or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Minor rephrasing in the 'chart_data' categories (e.g., 'Highly' to 'Very well', 'The basics' to 'Know the basics') enhances clarity without altering the meaning. The title is also semantically identical."
+    },
+    "claim": "The amount of the people who polls for Highly and the basics is equal to the amount of people who they don't know at all.",
+    "translated_claim": "Количество людей, которые ответили «Очень хорошо» и «Знают основы», равно количеству людей, которые вовсе не знакомы."
+}

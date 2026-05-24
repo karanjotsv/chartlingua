@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly faithful reproduction of the original. All data series (shapes, values, and positions), text content (title, axis label, legend), and color hues are consistent. The overall message and data representation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'Average laser power' is between 40 and 60. However, the chart shows the 'Average laser power' (the dashed red line) as a horizontal line very close to 0 on the y-axis, which is significantly lower than the 40-60 range."
+    },
+    "claim": "Average laser power flows between 40 to 60 in the full time routine.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the chart type (donut), title, data values (67%, 22%, 12%), legend labels, and color-to-category associations of the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim correctly states that 67% of people consider the greatest threat to be editor's leaving. The chart shows a blue segment labeled 'Editor decline' which accounts for 67% of the total."
+    },
+    "claim": "according to the chart, 67% of people consider the greatest threat to wikipedia to be editor's leaving.",
+    "label": false
+}

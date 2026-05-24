@@ -1,0 +1,80 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "labels": [
+                "Kohlendioxid",
+                "Stickstoff",
+                "Sonstige"
+            ],
+            "values": [
+                96.5,
+                3.5,
+                0.05
+            ],
+            "text_labels": [
+                "Kohlendioxid<br>(96.5%)",
+                "Stickstoff<br>(3.5%)",
+                "Sonstige"
+            ],
+            "colors": [
+                "#f88246",
+                "#ff008d",
+                "#cccccc"
+            ],
+            "text_positions": [
+                "inside",
+                "outside",
+                "outside"
+            ]
+        },
+        {
+            "labels": [
+                "Schwefeldioxid",
+                "Argon",
+                "Wasserdampf",
+                "Kohlenmonoxid",
+                "Helium",
+                "Neon"
+            ],
+            "values": [
+                150,
+                70,
+                20,
+                17,
+                12,
+                7
+            ],
+            "text_labels": [
+                "Schwefeldioxid<br>(150 ppm)",
+                "Argon<br>(70 ppm)",
+                "Wasserdampf<br>(20 ppm)",
+                "Kohlenmonoxid<br>(17 ppm)",
+                "Helium<br>(12 ppm)",
+                "Neon<br>(7 ppm)"
+            ],
+            "colors": [
+                "#ffffab",
+                "#ffff00",
+                "#00ff00",
+                "#00ffff",
+                "#ff9966",
+                "#0080ff"
+            ],
+            "text_positions": [
+                "inside",
+                "inside",
+                "outside",
+                "outside",
+                "outside",
+                "outside"
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    }
+}

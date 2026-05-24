@@ -1,0 +1,58 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Application<br>Form",
+            "value": 4.1
+        },
+        {
+            "category": "Selection<br>Criteria",
+            "value": 4.2
+        },
+        {
+            "category": "Selection<br>Process",
+            "value": 4.2
+        },
+        {
+            "category": "Contact from<br>the committee<br>and WMF",
+            "value": 4.3
+        },
+        {
+            "category": "Travel<br>arrangements",
+            "value": 4.2
+        },
+        {
+            "category": "Wikimania<br>Scholarships<br>overall",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "Ratings of Wikimania Scholarship Committee by<br>process, 2013",
+        "subtitle": "Average ratings of 2013 Wikimania Scholarships process<br>(Full, Attended; n=42)",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_note": "Note: Includes only full scholarship recipients who attended Wikimania; scale for question changed in<br>2013, resulting in indirect comparisons to be made",
+        "source_survey": "2013 Scholarship Survey",
+        "y_axis_labels": [
+            {
+                "value": 1.0,
+                "text": "Very<br>Dissatisfied"
+            },
+            {
+                "value": 3.0,
+                "text": "Neutral"
+            },
+            {
+                "value": 5.0,
+                "text": "Very<br>Satisfied"
+            }
+        ]
+    },
+    "colors": {
+        "bar_color": "#F4A55A",
+        "title_background": "#9985B6",
+        "title_font": "#FFFFFF",
+        "text_main": "#000000",
+        "grid": "#D3D3D3"
+    }
+}

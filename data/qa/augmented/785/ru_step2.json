@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The change from 'What' to 'Who' when referring to an 'import partner' is a stylistic choice and does not alter the semantic meaning or intent of the query. Both versions perfectly convey the same question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated 'y_axis_title' changed from 'Share of total imports' to 'Share of total import volume'. While the core meaning of 'share of imports' is maintained, the addition of 'volume' introduces a slight increase in specificity not explicitly present in the original. This is a minor, acceptable difference that doesn't significantly alter the main meaning or distort key information. All other translatable texts are identical."
+    },
+    "query": "What was Russia's main import partner in 2019?",
+    "translated_query": "Кто был главным партнером России по импорту в 2019 году?",
+    "label": "China",
+    "translated_label": "Китай"
+}

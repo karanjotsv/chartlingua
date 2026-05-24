@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the core semantic meaning. 'Value of attendance' in the original, while slightly unusual phrasing, is most accurately interpreted as 'total attendance' in this context of comparing event participation. The other changes ('football' to 'American football', 'lesser than' to 'less than', 'shows' to 'exhibitions') are minor stylistic improvements or synonymous phrasing that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All category names and the title maintain perfect semantic meaning. Differences like 'Guided Tours' to 'Excursions', 'Consumer Shows' to 'Consumer Exhibitions', and 'Football' to 'American Football' are highly synonymous or contextually equivalent, representing the same data points without loss or distortion of information. The title 'Attendance %' is a perfect semantic match for '% OF ATTENDANCE'."
+    },
+    "claim": "The total value of  attendance in baseball and football is lesser than basketball and consumer shows.",
+    "translated_claim": "Общая посещаемость бейсбола и американского футбола меньше, чем посещаемость баскетбола и потребительских выставок."
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. Minor rephrasing (e.g., 'Q1 07 U.S. Household Property Foreclosure' vs. 'foreclosure of household properties in the U.S. for Q1 07') are stylistic and do not alter the semantic content or key information. 'In the year 2007' is a more natural phrasing than 'at the year of 2007' but conveys the same temporal information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence across all translatable text fields in the JSON. The only difference is a minor, grammatically inconsequential addition of 'the' in the source text, which does not alter the meaning."
+    },
+    "claim": "The Q1 07 U.S. Household Property Foreclosure was 100,000 at the year of 2007.",
+    "translated_claim": "Η κατάσχεση ακινήτων νοικοκυριών στις Η.Π.Α. για το Q1 07 ήταν 100,000 το έτος 2007."
+}

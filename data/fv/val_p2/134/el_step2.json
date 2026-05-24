@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. The changes are minor stylistic variations (e.g., 'Germany's value' instead of 'The value of Germany') which do not alter the core message or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text elements including chart data names, title, and Y-axis title are accurately translated with only trivial stylistic variations that do not alter meaning (e.g., 'world' vs 'global averages' and word order in title)."
+    },
+    "claim": "The value of Germany in 2008 is lower than the value of world in 2010.",
+    "translated_claim": "Η τιμή της Γερμανίας το 2008 είναι χαμηλότερη από την τιμή του κόσμου το 2010."
+}

@@ -1,0 +1,49 @@
+{
+    "chart_type": "multi_bar",
+    "chart_data": [
+        {
+            "name": "Key Elements",
+            "categories": [
+                "Carbon<br>dioxide",
+                "Nitro-<br>gen"
+            ],
+            "values": [
+                96.5,
+                3.5
+            ],
+            "text_labels": [
+                "96.5%",
+                "3.5%"
+            ]
+        },
+        {
+            "name": "Trace Elements",
+            "categories": [
+                "Sulfur<br>dioxide",
+                "Argon",
+                "Water<br>vapor",
+                "Carbon<br>monoxide",
+                "Helium",
+                "Neon"
+            ],
+            "values": [
+                150,
+                70,
+                20,
+                17,
+                12,
+                7
+            ],
+            "y_axis_title": "PPM"
+        }
+    ],
+    "texts": {
+        "main_title": "Composition of the Atmosphere of Venus",
+        "annotation_text_1": "Trace",
+        "annotation_text_2": "See<br>Right"
+    },
+    "colors": [
+        "#808080",
+        "#5b9bd5"
+    ]
+}

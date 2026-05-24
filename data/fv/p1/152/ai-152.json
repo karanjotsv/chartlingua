@@ -1,0 +1,252 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Estimated",
+            "x": [
+                1800,
+                1850,
+                1900,
+                1927,
+                1950
+            ],
+            "y": [
+                1000,
+                1250,
+                1650,
+                2000,
+                2500
+            ],
+            "type": "line",
+            "style": {
+                "color": "#000000",
+                "width": 4
+            },
+            "showlegend": true
+        },
+        {
+            "name": "U.N. High",
+            "x": [
+                2011,
+                2025,
+                2050,
+                2075,
+                2100
+            ],
+            "y": [
+                7000,
+                8200,
+                10600,
+                12800,
+                15000
+            ],
+            "type": "line",
+            "style": {
+                "color": "#d12229",
+                "width": 3
+            },
+            "showlegend": true
+        },
+        {
+            "name": "U.N. Medium",
+            "x": [
+                2011,
+                2025,
+                2050,
+                2075,
+                2100
+            ],
+            "y": [
+                7000,
+                8200,
+                9600,
+                10100,
+                10100
+            ],
+            "type": "line",
+            "style": {
+                "color": "#f18822",
+                "width": 3
+            },
+            "showlegend": true
+        },
+        {
+            "name": "U.N. Low",
+            "x": [
+                2011,
+                2025,
+                2050,
+                2075,
+                2100
+            ],
+            "y": [
+                7000,
+                8100,
+                8800,
+                8000,
+                6800
+            ],
+            "type": "line",
+            "style": {
+                "color": "#539e44",
+                "width": 3
+            },
+            "showlegend": true
+        },
+        {
+            "name": "Actual",
+            "x": [
+                1950,
+                1960,
+                1974,
+                1987,
+                1999,
+                2011
+            ],
+            "y": [
+                2500,
+                3000,
+                4000,
+                5000,
+                6000,
+                7000
+            ],
+            "type": "line",
+            "style": {
+                "color": "#0000ff",
+                "width": 4
+            },
+            "showlegend": true
+        },
+        {
+            "name": "Malthusian Projection",
+            "x": [
+                1800,
+                2100
+            ],
+            "y": [
+                1000,
+                13000
+            ],
+            "type": "line",
+            "style": {
+                "color": "#000000",
+                "width": 2
+            },
+            "showlegend": false
+        },
+        {
+            "name": "Interest Points",
+            "x": [
+                1800,
+                1950,
+                2000,
+                2011,
+                2060,
+                2090,
+                2095
+            ],
+            "y": [
+                1000,
+                2500,
+                9000,
+                7000,
+                10100,
+                6800,
+                14800
+            ],
+            "type": "markers",
+            "style": {
+                "color": "white",
+                "size": 9,
+                "line": {
+                    "color": "black",
+                    "width": 2
+                }
+            },
+            "showlegend": false
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "<b>Millions of people</b>",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "Malthus Predicts World Population<br>Stays Below Line of One Billion<br>Added Per 25 Years Since 1800",
+                "x": 1900,
+                "y": 13900,
+                "align": "left"
+            },
+            {
+                "text": "UN Predicts Population Will<br>Follow Malthusian S Curve",
+                "x": 1900,
+                "y": 12500,
+                "align": "left"
+            },
+            {
+                "text": "Malthusian Arithmetic<br>Projection Line<br>Adds One Billion<br>Every 25 Years",
+                "x": 1900,
+                "y": 6500,
+                "align": "left"
+            },
+            {
+                "text": "One Billion in Year 1800",
+                "x": 1805,
+                "y": 500,
+                "align": "left"
+            },
+            {
+                "text": "Nine Billion in Year 2000",
+                "x": 2000,
+                "y": 9400,
+                "align": "center"
+            },
+            {
+                "text": "Malthusian Oscillation<br>Beginning",
+                "x": 1955,
+                "y": 2100,
+                "align": "left"
+            },
+            {
+                "text": "Today<br>Population is Rising<br>Hunger is Down<br>Was Malthus Wrong??",
+                "x": 2015,
+                "y": 6000,
+                "align": "left"
+            },
+            {
+                "text": "Can Birth Control Help<br>Get to Orange Curve?",
+                "x": 2045,
+                "y": 4800,
+                "align": "left"
+            },
+            {
+                "text": "Can We Keep Healthy<br>Ecosystem On Orange<br>Curve?",
+                "x": 2045,
+                "y": 3800,
+                "align": "left"
+            },
+            {
+                "text": "Ecosystem<br>Suffers More<br>Very Poor<br>Living<br>Conditions?",
+                "x": 2080,
+                "y": 14500,
+                "align": "left"
+            },
+            {
+                "text": "Best Hope?<br>Malthusian Oscillation<br>Reversing",
+                "x": 2063,
+                "y": 9800,
+                "align": "left"
+            },
+            {
+                "text": "Man<br>Suffers More<br>Catastrophe?",
+                "x": 2090,
+                "y": 7500,
+                "align": "left"
+            }
+        ]
+    }
+}

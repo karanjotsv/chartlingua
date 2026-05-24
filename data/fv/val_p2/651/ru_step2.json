@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The first part of the sentence has an inverted meaning. 'Didn't like any' implies a complete lack of preference or dislike for all algorithms. 'Disliked none' implies the opposite: they either liked some or were neutral to all. This significantly distorts the key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. Minor differences like 'Strongly' vs 'Explicitly' and 'Somewhat' vs 'Partially' are excellent synonyms in context. The title's wording also retains the exact same meaning, with only a minor grammatical/stylistic variation ('that you would be' vs 'you are')."
+    },
+    "claim": "The number of participants who didn't like any of those algorithms is equal to the ones who preferred algorithm B (Wikivectors).",
+    "translated_claim": "Число участников, которым не понравился ни один из этих алгоритмов, равно числу тех, кто предпочел алгоритм B (Wikivectors)."
+}

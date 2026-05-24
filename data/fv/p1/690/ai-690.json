@@ -1,0 +1,149 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Relation",
+            "x": [
+                38,
+                40,
+                45,
+                50,
+                55,
+                60,
+                65,
+                70,
+                75,
+                80,
+                85,
+                88
+            ],
+            "y": [
+                5.12,
+                4.77,
+                4.0,
+                3.36,
+                2.8,
+                2.31,
+                1.86,
+                1.46,
+                1.07,
+                0.7,
+                0.35,
+                0.14
+            ],
+            "mode": "lines"
+        },
+        {
+            "name": "Tick Marks",
+            "x": [
+                45,
+                83
+            ],
+            "y": [
+                4.0,
+                0.5
+            ],
+            "mode": "markers",
+            "marker": {
+                "symbol": "line-ns",
+                "size": 12,
+                "line": {
+                    "width": 1.5
+                }
+            }
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Λ, deg",
+        "y_axis_title": "A",
+        "source": null,
+        "annotations": [
+            {
+                "text": "Λ",
+                "x": 22,
+                "y": 3.7,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false
+            },
+            {
+                "text": "A = 4 cot Λ",
+                "x": 23.5,
+                "y": 2.2,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false
+            }
+        ]
+    },
+    "colors": [
+        "#000000",
+        "#000000"
+    ],
+    "shapes": [
+        {
+            "type": "path",
+            "path": "M 15 2.9 L 32 3.4 L 15 3.9 Z",
+            "xref": "x",
+            "yref": "y",
+            "line": {
+                "color": "#000000",
+                "width": 1.5
+            }
+        },
+        {
+            "type": "line",
+            "x0": 15,
+            "y0": 2.9,
+            "x1": 15,
+            "y1": 3.9,
+            "xref": "x",
+            "yref": "y",
+            "line": {
+                "color": "#000000",
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 15,
+            "y0": 3.6,
+            "x1": 20,
+            "y1": 3.6,
+            "xref": "x",
+            "yref": "y",
+            "line": {
+                "color": "#000000",
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 20,
+            "y0": 3.6,
+            "x1": 18,
+            "y1": 3.8,
+            "xref": "x",
+            "yref": "y",
+            "line": {
+                "color": "#000000",
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 20,
+            "y0": 3.6,
+            "x1": 18,
+            "y1": 3.4,
+            "xref": "x",
+            "yref": "y",
+            "line": {
+                "color": "#000000",
+                "width": 1
+            }
+        }
+    ]
+}

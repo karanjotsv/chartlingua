@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Graduates who took ACT/SAT",
+            "At/Above Criterion"
+        ],
+        "series": [
+            {
+                "name": "State Average",
+                "y": [
+                    0.682,
+                    0.27
+                ]
+            },
+            {
+                "name": "District Average",
+                "y": [
+                    0.574,
+                    0.216
+                ]
+            },
+            {
+                "name": "School Group Median",
+                "y": [
+                    0.617,
+                    0.236
+                ]
+            },
+            {
+                "name": "Mesquite High School",
+                "y": [
+                    0.709,
+                    0.164
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "SAT/ACT Applicants as a part of MHS graduating class and At/Above Results for Mesquite<br>High School",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#A8A8FA",
+        "#9A3264",
+        "#FFFFC2",
+        "#A3FAFA"
+    ]
+}

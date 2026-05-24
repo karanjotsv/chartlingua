@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "भूमि का क्षेत्रफल वर्ग फुट<br>(LE)",
+            "value": 5000,
+            "annotation_y": 2500
+        },
+        {
+            "category": "भूतल<br>बिल्डिंग फुट-प्रिंट<br>क्षेत्र (FPA)",
+            "value": 3750,
+            "annotation_y": 2000
+        },
+        {
+            "category": "LE - FPA माना \"E\"",
+            "value": 1250,
+            "annotation_y": 750
+        },
+        {
+            "category": "FPA का 50%",
+            "value": 1875,
+            "annotation_y": 1250
+        },
+        {
+            "category": "भूमि FPA+1250<br>FPA का 50% तक<br>जोड़ा जा सकता है",
+            "value": 5000,
+            "annotation_y": 2500
+        }
+    ],
+    "texts": {
+        "title": "भूमि के मूल्य का आकलन",
+        "subtitle": "ग्राफिक्स: ए. एम. इब्राहिम",
+        "x_axis_title": null,
+        "y_axis_title": "वर्ग फुट",
+        "source": null
+    },
+    "colors": [
+        "#9b9bff"
+    ]
+}

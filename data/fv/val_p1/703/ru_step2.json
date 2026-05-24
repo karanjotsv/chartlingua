@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The change from 'total GWP' (Global Warming Potential) to 'total GHG' (Greenhouse Gases) is a loss of specificity and an important detail. While related, GWP is a specific metric, whereas GHG is a broader category of gases. Other changes like 'Truck transportation' to 'Freight transport' and 'Power Generation' to 'electricity generation' are minor and acceptable."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The main title 'Total GWP' was back-translated as 'Total GHG', which is a significant semantic difference as GWP (Global Warming Potential) and GHG (Greenhouse Gas) are distinct concepts, leading to a loss of accuracy. Most category labels maintained good semantic equivalence, with minor acceptable variations like 'Truck Transportation' to 'Freight Transport' and 'Power Generation and Supply' to 'Electricity Generation and Supply'."
+    },
+    "claim": "Truck transportation was a great contributor of total GWP in comparison to Power Generation and Supply.",
+    "translated_claim": "Грузовой транспорт внес большой вклад в общий ПГП по сравнению с производством и поставкой электроэнергии."
+}

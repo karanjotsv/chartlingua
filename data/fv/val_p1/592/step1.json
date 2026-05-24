@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, trends, text elements (title, axis labels), and color hues are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The line chart visually represents India's expenditure on education as a percentage of GDP over several years. The highest point on the line, indicating the peak expenditure, is clearly aligned with the year 2012 on the x-axis."
+    },
+    "claim": "India's expenditure on education peaked in the year 2012",
+    "label": true
+}

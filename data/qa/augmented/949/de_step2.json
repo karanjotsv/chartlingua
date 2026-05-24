@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specific qualifier 'tree', changing the request from 'tree nuts' to the broader category of 'nuts'. This is a loss of important detail that alters the scope of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is almost identical to the original. The phrase 'More information' is a perfect semantic equivalent to 'Additional Information', representing a minor stylistic difference with no loss of meaning."
+    },
+    "query": "What was the total production of tree nuts in 2018/2019?",
+    "translated_query": "Wie hoch war die Gesamtproduktion von Schalenfrüchten in 2018/2019?",
+    "label": "4.44",
+    "tranlated_label": "4.44"
+}

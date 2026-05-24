@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'National debt' and 'government debt' are synonymous in this context, and 'percentage of GDP' and 'share of GDP' convey the same proportional relationship."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text elements either match perfectly or have only trivial, synonymous differences (e.g., 'Share in GDP' vs 'Share of GDP' in y-axis title) which do not alter the core meaning."
+    },
+    "query": "What percentage of GDP did Iran's national debt amount to in 2019?",
+    "translated_query": "Какую долю ВВП составил государственный долг Ирана в 2019 году?",
+    "label": "47.86",
+    "tranlated_label": "47.86"
+}

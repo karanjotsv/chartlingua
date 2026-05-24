@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer states the inflation rate in 2020 was 3.4. The chart shows the value for 2020 is 3.31%. The provided answer is a rounded value and therefore is mostly correct, but not perfectly accurate according to the chart's data label."
+    },
+    "query": "What was Poland's inflation rate in 2020?",
+    "label": "3.4"
+}

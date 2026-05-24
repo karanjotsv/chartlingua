@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly represents the two largest categories, but has multiple errors with the smaller categories. The value for 'Capitalists, Professionals' is incorrect (5 vs. approx. 6), its color is inconsistent (purple vs. light blue), and the order of the bars is different. The rendered chart also confusingly reuses the color purple for two different categories ('Retail & Handicrafts' and 'Capitalists, Professionals').",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the most common occupation is Agricultural Labourers. The bar chart visually confirms this, as the red bar representing 'Agricultural Labourers' is the tallest, indicating the highest value among all listed occupations."
+    },
+    "claim": "The most common occupation in Lowesby is Agricultural Labourers.",
+    "label": "TRUE"
+}

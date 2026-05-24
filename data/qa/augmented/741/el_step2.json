@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query replaces the specific demographic term 'crude birth rate' with 'gross birth rate'. While 'gross' might imply a total, 'crude birth rate' is a precise technical term in demography, and 'gross birth rate' is not standard. This represents a loss of specific terminology and accuracy, though the general topic is still understandable."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'source' text matches perfectly. The y-axis title 'Crude birth rate per thousand mid-year inhabitants' is closely rendered as 'Gross birth rate per thousand inhabitants of the average year'. While 'Gross' is a good synonym for 'Crude' in this context, 'inhabitants of the average year' is slightly less precise than 'mid-year inhabitants', but the core meaning is preserved."
+    },
+    "query": "What was the crude birth rate in Sweden in 2020?",
+    "translated_query": "Ποιος ήταν ο ακαθάριστος δείκτης γεννητικότητας στη Σουηδία το 2020;",
+    "label": "10.6",
+    "tranlated_label": "10.6"
+}

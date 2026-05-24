@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly captures the semantic meaning of the original, despite the original's minor grammatical awkwardness ('the of'). It correctly interprets the intent of describing a chart related to different greenhouse gases in the atmosphere."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most textual elements (title, axis labels, notes) are semantically identical. However, 'Remanufacturing' was translated to 'Recovery', which represents a noticeable semantic shift and loss of specificity, as these are distinct concepts in industrial processes. The change from 'Manufacturing' to 'Production' is a minor, acceptable difference."
+    },
+    "claim": "The chart the of different greenhouse gases in the atmosphere.",
+    "translated_claim": "Диаграмма о различных парниковых газах в атмосфере."
+}

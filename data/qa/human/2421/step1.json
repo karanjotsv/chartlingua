@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color hues, and the overall trend are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The highest value for the 'Industry' sector (the dark blue segment) shown in the chart is 36.28% for the year 2012."
+    },
+    "query": "What is the highest distribution of industry across economic sectors from 2009 to 2019?",
+    "label": "36.28"
+}

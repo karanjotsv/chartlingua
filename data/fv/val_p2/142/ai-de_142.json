@@ -1,0 +1,31 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Autorisiertes Militärpersonal",
+            "percentage": 9,
+            "value": 552
+        },
+        {
+            "label": "Autorisiertes Zivilpersonal",
+            "percentage": 35,
+            "value": 2094
+        },
+        {
+            "label": "Vertragspersonal<br>(Vollzeitäquivalente)",
+            "percentage": 56,
+            "value": 3287
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": "Quelle: GAO-Analyse der Daten des Verteidigungsministeriums. | GAO-15-10",
+        "note": null
+    },
+    "colors": [
+        "#006837",
+        "#a4cda1",
+        "#FFFFFF"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "USA",
+            "China",
+            "EU",
+            "WHO",
+            "Unser Land"
+        ],
+        "series": [
+            {
+                "name": "Schlecht",
+                "data": [
+                    84,
+                    60,
+                    39,
+                    34,
+                    25
+                ]
+            },
+            {
+                "name": "Gut",
+                "data": [
+                    15,
+                    37,
+                    57,
+                    64,
+                    74
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Schlechte Noten für Amerikas Reaktion auf den<br>Coronavirus-Ausbruch",
+        "subtitle": "% die angeben, dass jeder eine ___ Arbeit bei der Bewältigung des<br>Coronavirus-Ausbruchs geleistet hat",
+        "source": "Hinweis: Die Prozentangaben sind Mediane, basierend auf 13 Ländern. Personen, die<br>nicht geantwortet haben, werden nicht angezeigt.<br>Source: Summer 2020 Global Attitudes Survey. Q10a-e.<br>“U.S. Image Plummets Internationally as Most Say Country Has<br>Handled Coronavirus Badly”",
+        "footer": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#2c5a8c",
+        "#90a24f"
+    ]
+}

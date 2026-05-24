@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the original meaning by changing 'CIC Quest' to 'CIC Ouest'. 'Quest' appears to be a specific identifier, and replacing it with 'Ouest' (French for 'West') changes the subject of the query entirely, losing critical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference 'euros' vs 'EUR' is a standard abbreviation and does not alter the meaning of the x-axis title."
+    },
+    "query": "What is the total  value of CICEst and CIC Quest?",
+    "translated_query": "CICEst ਅਤੇ CIC Quest ਦਾ ਕੁੱਲ ਮੁੱਲ ਕਿੰਨਾ ਹੈ?",
+    "label": "44519",
+    "tranlated_label": "44519"
+}

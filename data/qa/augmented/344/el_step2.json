@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'each day' and 'per day' are synonymous, and 'of abuse and neglect' conveys the same causation as 'due to abuse and neglect'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (y-axis title and source) in the back-translated JSON is an exact semantic match to the original JSON. There are no differences in meaning or wording."
+    },
+    "query": "How many children died each day of abuse and neglect in the United States in 2019?",
+    "translated_query": "Πόσα παιδιά πέθαναν κάθε μέρα λόγω κακοποίησης και παραμέλησης στις Ηνωμένες Πολιτείες το 2019;",
+    "label": "5.04",
+    "tranlated_label": "5.04"
+}

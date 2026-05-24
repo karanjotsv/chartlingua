@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, categories, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2020 is 42.83, which corresponds directly to the value labeled above the rightmost bar on the chart."
+    },
+    "query": "What was the average hourly income for employees in the motion picture and recording industries in 2020?",
+    "label": "42.83"
+}

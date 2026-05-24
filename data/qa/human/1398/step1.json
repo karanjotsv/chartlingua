@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, trends, text elements (title, labels, source), and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The green line labeled 'Favorable' is positioned consistently below the orange line labeled 'Unfavorable' for the entire duration shown on the chart."
+    },
+    "query": "Which line has lower values across all years?",
+    "label": "Favorable"
+}

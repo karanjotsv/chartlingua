@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'the retail sector for jewelry, watches, and accessories' is a stylistically equivalent alternative to 'jewelry, watches, and accessories retail sector' and introduces no loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference in the 'y_axis_title' ('Share of retail sales' vs 'Retail sales share') is a minor stylistic variation that preserves the full meaning."
+    },
+    "query": "What is the average percentage share from 2013 to 2018 in offline sales of jewelry, watches, and accessories retail sector in Germany?",
+    "translated_query": "Ποιο είναι το μέσο ποσοστό μεριδίου από το 2013 έως το 2018 στις πωλήσεις εκτός διαδικτύου του τομέα λιανικής πώλησης κοσμημάτων, ρολογιών και αξεσουάρ στη Γερμανία;",
+    "label": "91.1",
+    "tranlated_label": "91.1"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Lowest value' and 'smallest value' are synonymous in this context, and the addition of 'the' is a minor grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most texts are perfect or have only trivial differences (e.g., 'check-ups' vs. 'examinations', singular vs. plural for ethnic groups). However, 'Hispanic American or Latino' was simplified to 'Hispanics', which is slightly less specific than the original, though the core meaning is preserved."
+    },
+    "query": "What is the lowest value in blue bar?",
+    "translated_query": "Каково наименьшее значение в синем столбце?",
+    "label": "7",
+    "tranlated_label": "7"
+}

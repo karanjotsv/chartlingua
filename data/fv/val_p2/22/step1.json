@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, axis categories, and the overall trend are identical. Color hue is also consistent. The only minor difference is the formatting of Y-axis labels (e.g., 10000 vs 10k), which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart is a line graph showing data over time. On the x-axis, the year 1980 is marked. The data point corresponding to 1980 on the line has the value 27861 explicitly labeled above it, which directly supports the claim."
+    },
+    "claim": "In 1980, the population was 27861. ",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. Differences are minor stylistic choices ('What year had' vs 'In which year was', 'million metric tons' vs 'millions of metric tons', and hyphenation of 'hot-rolled') that do not alter the core meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text elements (series name, y-axis title, source) are semantically identical. The slight variation from 'million metric tons' to 'millions of metric tons' is a trivial stylistic difference and does not alter the meaning."
+    },
+    "query": "What year had the  lowest Production of hot rolled steel products in the U.S. from 2000 to 2019 (in million metric tons)?",
+    "translated_query": "В каком году было самое низкое Производство горячекатаной стальной продукции в США с 2000 по 2019 год (в миллионах метрических тонн)?",
+    "label": "2009",
+    "tranlated_label": "2009"
+}

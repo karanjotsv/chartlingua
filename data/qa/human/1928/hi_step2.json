@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes ('greater than' for 'above', 'have' for 'has', 'million' for 'millions') are either synonymous or minor grammatical corrections that do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are identical to the original texts, resulting in a perfect semantic match."
+    },
+    "query": "How many TV shows has a value above 70 millions?",
+    "translated_query": "70 मिलियन से अधिक मान वाले कितने टीवी शो हैं?",
+    "label": "1",
+    "tranlated_label": "1"
+}

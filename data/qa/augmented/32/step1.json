@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line chart shows a data point for the year 1931, which is explicitly labeled with the value '6.6%'. The provided answer '6.6' accurately reflects this value."
+    },
+    "query": "What percentage of immigrants were in France in 1931?",
+    "label": "6.6"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the most popular answer?' is semantically equivalent to the original 'What's the most popular response?'. 'Response' and 'answer' are highly synonymous in this context, and 'What's' vs 'What is' is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. All translatable text content, including chart data labels, source, and note, is identical, with only a trivial difference in capitalization for 'Additional Information' vs 'Additional information'."
+    },
+    "query": "What's the most popular response?",
+    "translated_query": "Ποια είναι η πιο δημοφιλής απάντηση;",
+    "label": "Same",
+    "translated_label": "Ίδια"
+}

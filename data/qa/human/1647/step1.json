@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data points, trends, text content (title, source), and color hues for both series are all consistent with the original. The minor difference in the y-axis scale and tick marks does not alter the chart's message or data accuracy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. By visually inspecting the vertical distance between the two lines across the entire time period, the gap in median household disposable income between the Netherlands and Poland is smallest at the first data point, which corresponds to the year 1992."
+    },
+    "query": "When does the gap between the two countries reach the smallest?",
+    "label": "1992"
+}

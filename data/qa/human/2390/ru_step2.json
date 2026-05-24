@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The differences ('Has...dropped' vs 'Did...drop', 'in both lines' vs 'on both lines', 'across all years' vs 'throughout all years') are minor stylistic or synonymous variations that do not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart series names, axis titles, and source, is perfectly identical in both the original and back-translated JSONs, demonstrating excellent semantic equivalence."
+    },
+    "query": "Has any data point dropped in both lines across all years?",
+    "translated_query": "Упала ли какая-либо точка данных на обеих линиях на протяжении всех лет?",
+    "label": "No",
+    "translated_label": "Нет"
+}

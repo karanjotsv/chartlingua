@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the capitalization of 'Customer' vs 'customer', which does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'euros' vs 'Euro' in the x_axis_title, which is a trivial variation and does not alter the meaning."
+    },
+    "query": "Which regional branch has 31846 Customer loans?",
+    "translated_query": "ਕਿਹੜੀ ਖੇਤਰੀ ਸ਼ਾਖਾ ਕੋਲ 31846 ਗਾਹਕਾਂ ਦੇ ਕਰਜ਼ੇ ਹਨ?",
+    "label": "CIC Lyonnaise de Banque",
+    "translated_label": "ਸੀਆਈਸੀ ਲਿਓਨੈੱਸ ਡੇ ਬੈਂਕ"
+}

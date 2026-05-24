@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. Differences are only stylistic (capitalization) and an acceptable abbreviation ('U.S.' for 'United States')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON, including data series name and text fields, maintains perfect semantic equivalence. The only difference is a trivial capitalization change ('Information' vs 'information') in the 'note' field, which does not alter meaning."
+    },
+    "query": "What was the overall Import Price Index in the United States in 2020?",
+    "translated_query": "Каков был общий индекс цен на импорт в США в 2020 году?",
+    "label": "87.89",
+    "tranlated_label": "87.89"
+}

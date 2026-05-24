@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, and color assignments are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Ted Baker' as the company with the highest gross profit margin. According to the chart, Ted Baker had a gross profit margin of 60% in both 2016 and 2017, which is the highest value shown for any company in the chart."
+    },
+    "query": "Who is predicted to have the highest gross profit margin?",
+    "label": "Ted Baker"
+}

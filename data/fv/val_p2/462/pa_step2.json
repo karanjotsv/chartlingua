@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences are minor: capitalization of terms, replacement of '&' with 'and', and use of a synonym ('approximately' for 'about'), none of which alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All labels, titles, source, and note content perfectly match semantically. Minor differences are only stylistic (capitalization) or involve perfect synonyms ('&' vs 'and', 'about' vs 'approximately') and do not alter the meaning."
+    },
+    "claim": "The average amount of oil and traditional biomass& waste is about 30%",
+    "translated_claim": "ਤੇਲ ਅਤੇ ਰਵਾਇਤੀ ਬਾਇਓਮਾਸ ਤੇ ਕੂੜੇ ਦੀ ਔਸਤ ਮਾਤਰਾ ਲਗਭਗ 30% ਹੈ।"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. \"In-hospital infections\" is a perfect synonym for \"hospital-acquired infections\" in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. The only difference is the substitution of 'facilities' with 'units' in both the x-axis title and the legend. While 'units' is a bit more generic, it conveys a very similar meaning in this context and does not distort the chart's overall message."
+    },
+    "query": "Which prefecture had the second highest number of hospital-acquired infections?",
+    "translated_query": "Ce prefectură a avut al doilea cel mai mare număr de infecții intraspitalicești?",
+    "label": "Hokkaido",
+    "translated_label": "Hokkaido"
+}

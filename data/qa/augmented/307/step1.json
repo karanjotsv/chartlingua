@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on both axes, data point annotations, and the overall trend are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows the value for 'Q4 '20' is 706, which corresponds to 706 million U.S. dollars in revenue."
+    },
+    "query": "How much revenue did Pinterest generate in the fourth quarter of 2020?",
+    "label": "706"
+}

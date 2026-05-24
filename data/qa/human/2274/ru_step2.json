@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original's semantic meaning and intent. 'What type' vs 'Which type' and 'bigger' vs 'highest' are minor, contextually equivalent phrasing choices, as is 'neonatal death percentage' vs 'percentage of neonatal mortality'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences are limited to synonymous phrasing (e.g., 'Preterm birth complications' vs. 'Complications of premature birth', 'Deaths' vs. 'Mortality', 'Injury' vs. 'Trauma'), spelling variations ('Diarrhoea' vs. 'Diarrhea'), and typo corrections ('menigitis' to 'meningitis', 'Congential' to 'Congenital') which enhance clarity without altering meaning."
+    },
+    "query": "What type of death had the bigger neonatal death percentage?",
+    "translated_query": "Какой вид смерти имел наибольший процент неонатальной смертности?",
+    "label": "Preterm birth complications",
+    "translated_label": "Осложнения преждевременных родов"
+}

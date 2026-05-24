@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, category labels, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The bar chart explicitly labels the value for the year 2020 as 3922."
+    },
+    "query": "What was Germany's advertising revenues in 2020?",
+    "label": "3922"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. The minor changes in prepositions ('of' to 'in') and verb tense ('is from' to 'came from') do not alter the core information or intent of the statement, as 'came from' accurately conveys the origin of the population in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON content demonstrates excellent semantic equivalence. The chart labels ('UK' vs. 'United Kingdom', 'Rest of the World' vs. 'Rest of World') and the title ('Major' vs. 'Main') show only minor, acceptable stylistic variations or common abbreviations without any loss or distortion of meaning."
+    },
+    "claim": "The majority of the non-national population of the Republic of Ireland is from the United Kingdom.",
+    "translated_claim": "Большинство ненационального населения Республики Ирландия прибыло из Соединенного Королевства."
+}

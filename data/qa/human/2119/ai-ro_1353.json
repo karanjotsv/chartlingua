@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Date neraportate",
+            "Egal cu sau mai puțin de<br>25% din prețul de vânzare<br>este taxă",
+            "26-50% din prețul de vânzare<br>este taxă",
+            "51-75% din prețul de vânzare<br>este taxă",
+            "Mai mult de 75% din<br>prețul de vânzare este taxă"
+        ],
+        "series": [
+            {
+                "name": "Venituri mari",
+                "data": [
+                    3,
+                    3,
+                    5,
+                    24,
+                    23
+                ]
+            },
+            {
+                "name": "Venituri medii",
+                "data": [
+                    1,
+                    13,
+                    38,
+                    35,
+                    14
+                ]
+            },
+            {
+                "name": "Venituri mici",
+                "data": [
+                    4,
+                    8,
+                    18,
+                    3,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Numărul de țări",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2979FF",
+        "#182F4C",
+        "#B3B3B3"
+    ]
+}

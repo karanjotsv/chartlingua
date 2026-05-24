@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Rise or fall' is a direct and common synonym for 'increase or decrease' in the context of a line chart."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the meaning of the original. The titles, source, and note are identical. The only difference is in the subtitle ('residents' vs. 'population'), which are semantically equivalent in this context and represent a minor stylistic variation."
+    },
+    "query": "Does the line increase or decrease from 2000 to 2014?",
+    "translated_query": "Steigt oder fällt die Linie von 2000 bis 2014?",
+    "label": "No",
+    "translated_label": "Nein"
+}

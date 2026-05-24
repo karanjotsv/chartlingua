@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, slice proportions, text content (title, subtitle, labels), and color hues for each category are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows that the number of moths observed on an 'Exposed trunk' was 1, and the number of moths observed on an 'Unexposed trunk' was also 1. Therefore, the claim that an equal number of moths rested in these two positions is supported by the chart data."
+    },
+    "claim": "Equal number of peppered moths rested on exposed and unexposed trunks",
+    "label": "TRUE"
+}

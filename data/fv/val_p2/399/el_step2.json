@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translated claim accurately conveys the main meaning regarding the lowest value (E=0.3) in the chart. The original's awkward phrasing 'emissivity values carry' is naturally rephrased as 'emission value shown'. The distinction between 'emissivity' and 'emission' is a minor semantic difference but does not significantly alter the overall understanding of the query about the lowest value present in the chart."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence. The only difference is 'True Temperature' vs 'Actual Temperature', which are synonymous in this context and do not alter the meaning or introduce any ambiguity."
+    },
+    "claim": "Least emissivity values carry in the chart is E=0.3",
+    "translated_claim": "Η χαμηλότερη τιμή εκπομπής που εμφανίζεται στο διάγραμμα είναι η E=0.3"
+}

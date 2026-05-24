@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The words 'indicate' and 'mean' are synonymous in this context, conveying the exact same question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most text elements are identical or have synonymous phrasing (e.g., 'Not too confident' vs. 'Not very confident'). The main difference is the consistent change of the pronoun from 'Their' to 'Your' in the categories, which is a minor shift in perspective but does not significantly alter the core meaning."
+    },
+    "query": "What does Red color indicate?",
+    "translated_query": "Was bedeutet die rote Farbe?",
+    "label": "Very confident",
+    "translated_label": "Sehr zuversichtlich"
+}

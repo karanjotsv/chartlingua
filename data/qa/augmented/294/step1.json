@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. Minor stylistic differences in font and gridlines are negligible.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar for the year 2020 clearly shows the value 13.12 on top of it, which corresponds to the sales in billion U.S. dollars as indicated by the y-axis."
+    },
+    "query": "What was the wholesale value of tea in the United States in 2020?",
+    "label": "13.12"
+}

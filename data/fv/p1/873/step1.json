@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original chart, conveying the exact same information and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap. The label for 'Contaminated Site Cleanup and Redevelopment' overlaps with the 'DEQ Total Budget' text at the bottom, making both difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that 'Air Quality' accounts for 5% of the DEQ 2015 budget, which is the smallest percentage among all listed categories, not the second most funded."
+    },
+    "claim": "Air quality will be the second most funded by the DEQ in 2015. ",
+    "label": false
+}

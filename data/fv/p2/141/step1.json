@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, and color assignments are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is for the 'Office of Secretary of Defense, Joint Staff, and Military Service Secretaria'. However, the chart image has no title and does not provide this context, making it impossible to verify which group the data represents based solely on the visual information."
+    },
+    "claim": "Contractor full time equivalents comprise the majority of staff in Office of Secretary of Defense, Joint Staff, and Military Service Secretaria.",
+    "label": "TRUE"
+}

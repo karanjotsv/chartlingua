@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text elements (title, axes, source), color hues, and overall trends are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the UK's debt percentage starting at 44 in 1999 and ending at 99 in 2015. This represents a clear overall increase over the specified period, thus supporting the claim."
+    },
+    "claim": "The chart shows an increase in the UK's government debt from 1999 to 2015.",
+    "label": "TRUE"
+}

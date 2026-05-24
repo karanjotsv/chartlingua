@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'country' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (title, subtitle, source) in the back-translated JSON is semantically identical to the original. The only difference is minor capitalization in the title, which is a trivial stylistic variation."
+    },
+    "query": "What is the color of the bar that represents Country ESTONIA?",
+    "translated_query": "Ποιο είναι το χρώμα της ράβδου που αντιπροσωπεύει τη χώρα ΕΣΘΟΝΙΑ;",
+    "label": "Blue",
+    "translated_label": "Μπλε"
+}

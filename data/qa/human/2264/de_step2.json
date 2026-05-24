@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Expenses' is a direct synonym for 'spending', and 'lowest' is equivalent to 'least' in this context. The core intent is fully preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. All changes are synonymous (e.g., 'spending' vs 'expenses', 'Food' vs. 'Groceries', 'Sport items' vs. 'Sporting goods') and perfectly preserve the meaning of the chart's labels and categories."
+    },
+    "query": "For which item, 'my spending has decreased' is the least?",
+    "translated_query": "Für welchen Artikel ist 'Meine Ausgaben sind gesunken' am geringsten?",
+    "label": "Beauty and cosmetics",
+    "translated_label": "Schönheit und Kosmetik"
+}

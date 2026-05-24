@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the rendered chart maintains the same general structure (four 3D pie charts), color hues, and adds helpful context with labels and a title, the core data proportions are significantly different in all four charts. For example, in the top chart, two slices are roughly equal in the original, but in the rendered version, one is more than double the other. These data inaccuracies fundamentally misrepresent the information shown in the original image.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that carbohydrates form a majority of the typical American diet. However, the pie chart shows the carbohydrate portion (yellow slice) for the 'Typical American' diet is visibly less than 50% of the total circle, meaning it is not a majority."
+    },
+    "claim": "The typical American diet consists of a majority Carbohydrate.",
+    "label": "TRUE"
+}

@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "ਅਸੰਤੁਸ਼ਟ",
+            "value": 78
+        },
+        {
+            "label": "ਸੰਤੁਸ਼ਟ",
+            "value": 20
+        },
+        {
+            "label": "ਪਤਾ ਨਹੀਂ",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "ਦੇਸ਼ ਦੀ ਦਿਸ਼ਾ ਤੋਂ<br>ਸਭ ਤੋਂ ਵੱਧ<br>ਅਸੰਤੁਸ਼ਟ",
+        "subtitle": null,
+        "source": "PEW RESEARCH CENTER Q2.",
+        "note": null
+    },
+    "colors": {
+        "series": [
+            "#e4b975",
+            "#6f4f18",
+            "#e9a13b"
+        ],
+        "title": "#2f5c85",
+        "text_on_slice": [
+            "black",
+            "white",
+            "black"
+        ]
+    }
+}

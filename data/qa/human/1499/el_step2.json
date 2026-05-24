@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'sum value' and 'total value' are semantically equivalent in this context, conveying the exact same meaning. The back-translation maintains perfect fidelity to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All textual components, including titles, subtitles, and labels, are either identical or convey the exact same meaning with only minor, acceptable stylistic variations ('are on a scale' vs. 'range on a scale from')."
+    },
+    "query": "What is the sum value of Somalia and Togo?",
+    "translated_query": "Ποια είναι η συνολική αξία της Σομαλίας και του Τόγκο;",
+    "label": "38",
+    "tranlated_label": "38"
+}

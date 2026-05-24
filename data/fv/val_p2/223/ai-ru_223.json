@@ -1,0 +1,37 @@
+{
+    "chart_type": "bar",
+    "series_names": [
+        "Эффективность преобразования энергии"
+    ],
+    "chart_data": [
+        {
+            "category": "Селенид кадмия",
+            "values": [
+                0.015
+            ]
+        },
+        {
+            "category": "Оксид никеля",
+            "values": [
+                0.07
+            ]
+        },
+        {
+            "category": "Арсенид галлия",
+            "values": [
+                0.24
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Эффективность преобразования энергии",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5b9bd5"
+    ]
+}

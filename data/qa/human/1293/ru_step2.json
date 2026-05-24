@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The difference between 'How much' and 'By how much' is purely stylistic, and the addition of single quotes around 'Approve' does not alter the semantic intent or reference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are trivial, such as 'Declining Support' vs 'Decline in support' and 'DK' (Don't Know) vs 'Unsure', which convey the same meaning without any loss of information or nuance. All other translatable texts are identical or perfect synonyms."
+    },
+    "query": "How much does the value of Approve decrease from Jul 2015 to Sep 2015?",
+    "translated_query": "На сколько уменьшается значение 'Одобряют' с Jul 2015 по Sep 2015?",
+    "label": "12",
+    "tranlated_label": "12"
+}

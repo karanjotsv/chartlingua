@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, categories, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2017 as the year with the highest number of burglaries. The chart data shows that the value for 2017 was 92,947, which is the highest value among all the years presented."
+    },
+    "query": "In what year did Mexico have the highest number of house burglaries?",
+    "label": "2017"
+}

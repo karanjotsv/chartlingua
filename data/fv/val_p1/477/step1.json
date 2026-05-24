@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, category labels, title, and color hues are all consistent with the original. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there are 10 options on the chart, but the legend clearly lists only 7 categories: To Deploy, Done, Working, Waiting, Testing, Sign off, and To Do."
+    },
+    "claim": "There are 10 options to choose on the chart in different colors.",
+    "label": false
+}

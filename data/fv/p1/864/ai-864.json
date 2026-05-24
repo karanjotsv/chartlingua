@@ -1,0 +1,87 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Uninhibited",
+            "x": [
+                0,
+                0.2,
+                0.5,
+                1.0,
+                1.5,
+                2.0,
+                3.0,
+                5.0,
+                10.0,
+                20.0,
+                30.0
+            ],
+            "y": [
+                0.0,
+                0.118,
+                0.25,
+                0.4,
+                0.5,
+                0.571,
+                0.667,
+                0.769,
+                0.87,
+                0.93,
+                0.952
+            ]
+        },
+        {
+            "name": "Inhibited",
+            "x": [
+                0,
+                0.2,
+                0.5,
+                1.0,
+                1.5,
+                2.0,
+                3.0,
+                5.0,
+                10.0,
+                20.0,
+                30.0
+            ],
+            "y": [
+                0.0,
+                0.143,
+                0.25,
+                0.333,
+                0.375,
+                0.4,
+                0.429,
+                0.455,
+                0.476,
+                0.488,
+                0.492
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "[S] →",
+        "y_axis_title": "Relative Rate",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#3D69B1",
+        "#B73C33"
+    ],
+    "annotations_data": {
+        "km_uninhibited": {
+            "x": 1.5,
+            "y": 0.5,
+            "label": "Km (uninhibited)"
+        },
+        "km_inhibited": {
+            "x": 0.5,
+            "y": 0.25,
+            "label": "Km (inhibited)"
+        }
+    }
+}

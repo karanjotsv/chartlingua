@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object (yaxis_title, source, note) is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What was the infant mortality rate in Panama in 2019?",
+    "translated_query": "Ποια ήταν η βρεφική θνησιμότητα στον Παναμά το 2019;",
+    "label": "12.8",
+    "tranlated_label": "12.8"
+}

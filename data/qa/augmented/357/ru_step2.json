@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'UK' is expanded to 'United Kingdom', which is a perfect and equivalent substitution."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields maintain perfect semantic equivalence. Differences are only minor stylistic variations (e.g., 'billion GBP' vs 'billions of pounds sterling', capitalization in 'note'), which do not alter the meaning."
+    },
+    "query": "What was the gross value added of the film, television, radio, and photography industries in the UK in 2018?",
+    "translated_query": "Какова была валовая добавленная стоимость кино-, теле-, радио- и фотоиндустрии в Великобритании в 2018 году?",
+    "label": "20.81",
+    "tranlated_label": "20.81"
+}

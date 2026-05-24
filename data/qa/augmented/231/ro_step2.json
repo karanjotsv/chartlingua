@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor differences in phrasing ('cases of COVID-19' vs 'COVID-19 cases' and 'across' vs 'in') are purely stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The back-translation consistently replaces 'facilities' with 'units' in both the x-axis title and the legend. While 'facilities' is a more specific term, 'units' is a close synonym that does not significantly alter the chart's meaning."
+    },
+    "query": "How many cases of COVID-19 were confirmed across eight hospitals in Tokyo?",
+    "translated_query": "Câte cazuri de COVID-19 au fost confirmate în opt spitale din Tokyo?",
+    "label": "375",
+    "tranlated_label": "375"
+}

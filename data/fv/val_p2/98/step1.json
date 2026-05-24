@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, bar colors, legend labels, axis labels, and the annotation box text (i=2, j=4) are all identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's legend contains the terms 'pivot', 'lesser', and 'greater', which are key components of partitioning algorithms. Additionally, there is an annotation indicating 'i=2' and 'j=4', which represent common index pointers used in such algorithms. These elements directly support the claim that the chart is a visual explanation of a partitioning scheme like the Lomuto partition."
+    },
+    "claim": "This chart is used to explain lomuto partition.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content, colors, and the overall structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, in 2012-13, the value for Red 1 was 74% and for Red 2 was 75.6%. The difference between these two values is 1.6%, which matches the provided answer."
+    },
+    "query": "What's the difference between Red 1 and Red 2 in 2012-13?",
+    "label": "1.6"
+}

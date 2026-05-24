@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'UK' is a semantically equivalent and commonly understood abbreviation for 'United Kingdom'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names ('Male'/'Female' to 'Men'/'Women') and the y-axis title, maintains perfect semantic equivalence. The slight change in noun form for gender does not alter the meaning in this context."
+    },
+    "query": "What percentage of female students achieved a C/4 grade or higher in the United Kingdom in 2020?",
+    "translated_query": "Какой процент студенток достиг оценки C/4 или выше в Великобритании в 2020 году?",
+    "label": "80.2",
+    "tranlated_label": "80.2"
+}

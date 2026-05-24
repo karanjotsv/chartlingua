@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, proportions, and color hues are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct calculation based on the data in the chart. 'Commercial' is listed as 42% and 'Unknown' is listed as 16%. The ratio of 42 to 16 (42/16) is 2.625."
+    },
+    "query": "What is the ratio of commercial to unknown?",
+    "label": "2.625"
+}

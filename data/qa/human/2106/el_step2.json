@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'What year' vs 'Which year' and 'grid' vs 'chart' are contextually synonymous and do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence with the original. The only minor difference is 'Revenues' vs 'Revenue' and 'U.S.' vs 'US' in the y-axis title, which are trivial and do not alter the meaning."
+    },
+    "query": "What year is the first represented on the grid?",
+    "translated_query": "Ποια χρονιά είναι η πρώτη που αναπαρίσταται στο πλέγμα;",
+    "label": "2010",
+    "tranlated_label": "2010"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. Minor differences like 'bioscience' vs 'biosciences' and 'usage' vs 'use' are stylistic and do not alter the core information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are perfectly preserved or have only trivial grammatical/stylistic differences ('Earth & Env. Science' to 'Earth and Environmental Sciences', 'Others' to 'Other'). The translation of 'Fluid Dynamics' to 'Hydro-aerodynamics' captures the main concept but is a less standard or common phrasing for the general field."
+    },
+    "claim": "The field of bioscience had the lowest usage of CSCS supercomputers in 2011.",
+    "translated_claim": "В 2011 году область бионаук показала самое низкое использование суперкомпьютеров CSCS."
+}

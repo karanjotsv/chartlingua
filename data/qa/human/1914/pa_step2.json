@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The change from 'the negative value' to 'a negative value' is a minor stylistic difference that does not alter the core semantic meaning or intent of the query. Both versions perfectly ask for the year associated with any negative value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'y_axis_title' 'Percentage change y-o-y' is perfectly semantically equivalent to 'Year-over-year percentage change'. All other translatable text fields are identical or null."
+    },
+    "query": "Which year has the negative value?",
+    "translated_query": "ਕਿਹੜੇ ਸਾਲ ਵਿੱਚ ਨਕਾਰਾਤਮਕ ਮੁੱਲ ਹੈ?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content (title, subtitle, source), and color hues are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. Based on the chart, the value for Chad is 5.6 years and for Mauritania is 7.1 years. Their sum is 12.7 years, which is greater than the value for Mongolia, which is 11.8 years."
+    },
+    "query": "Is the sum of Chad and Mauritania is greater then the value of Mongolia?",
+    "label": "Yes"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text elements (title, axes, legend), and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the CSP aim set in 2012 (orange line) for the target year 2020 was 220 MW. The CSP aim set in 2017 (blue line) for the same target year 2020 is visually at a higher point on the y-axis than the 220 MW mark, thus supporting the claim."
+    },
+    "claim": "The CSP aims made in 2017 was higher than those made in 2012 for the targeted year of 2020.",
+    "label": "FALSE"
+}

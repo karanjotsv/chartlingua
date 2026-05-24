@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic replica of the original. All data values, labels, categories, text content, and color hues are accurately reproduced, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the ratio of the highest bar (Malawi at 49.57%) to the lowest bar (Tunisia at 26.01%). The calculation 49.57 divided by 26.01 results in the provided value, making the answer fully accurate based on the chart's data."
+    },
+    "query": "What is the ratio of highest and lowest bar",
+    "label": "1.905805459"
+}

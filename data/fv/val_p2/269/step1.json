@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, and the title are identical. The color hues for each category are also consistent. The only difference is the order of the slices in the pie, which does not alter the core message or interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly states that the United States is the country of birth for 28.1% of Armenians in Los Angeles in 1980, which is the largest percentage among all the categories shown."
+    },
+    "claim": "In Los Angeles in 1980 the biggest number of Armenians were born in USA as it shown on the chart.",
+    "label": "TRUE"
+}

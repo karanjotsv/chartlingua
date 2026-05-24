@@ -1,0 +1,27 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Εκπομπές",
+            "value": 526.3,
+            "error": 44
+        },
+        {
+            "category": "Απορρόφηση από LULUCF",
+            "value": -99.9,
+            "error": 60
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Εκπομπές και απορροφήσεις ΑτΘ το 2017",
+        "y_axis_title": "Mt",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B2B2B2",
+        "#699653"
+    ]
+}

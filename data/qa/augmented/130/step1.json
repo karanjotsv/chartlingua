@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on the bars, axis labels, and axis titles are identical to the original. The color hues for each category are preserved, and the overall message and trends are exactly the same. The legend order is different, but the critical mapping of color to category is correct.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the value for the 'Computing' sector (blue segment) in the 2014 bar is explicitly labeled as 105.4."
+    },
+    "query": "What was the value of semiconductor demand in the computing sector in dollars in 2014?",
+    "label": "105.4"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data proportions and color hues for the pie slices are consistent with the original. However, most of the category labels are unreadable in the rendered chart, which is a major semantic flaw as it's impossible to identify what most of the slices represent. The order of the slices around the chart has also been changed.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has unreadable text; most of the data labels are rendered in black text on a black background, making them invisible and preventing interpretation of the chart."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart does not contain labels for the market shares of 'Windows Mobile' or 'Blackberry'. Only 'iOS' is labeled. Therefore, it is impossible to verify the claim's comparison based on the provided chart."
+    },
+    "claim": "The total value of market share for ios and windows mobile is higher than blackberry. ",
+    "label": "TRUE"
+}

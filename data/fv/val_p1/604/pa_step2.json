@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The key term 'net contribution' was changed to 'total contribution' in the back-translation. These terms have distinct financial meanings, leading to a significant distortion of the original claim's information."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title changed from 'Net Contribution' to 'Total Contribution', which represents a significant semantic distortion of a key financial term. 'Net' implies a specific calculation (e.g., after deductions), while 'Total' implies a sum, fundamentally altering the meaning of the contribution being depicted. The Y-axis title has minor acceptable grammatical variations ('Millions of Euros' vs 'Million Euro')."
+    },
+    "claim": "France's net contribution to the EU is represented by the green line",
+    "translated_claim": "ਫਰਾਂਸ ਦਾ EU ਵਿੱਚ ਕੁੱਲ ਯੋਗਦਾਨ ਹਰੀ ਲਾਈਨ ਦੁਆਰਾ ਦਰਸਾਇਆ ਗਿਆ ਹੈ।"
+}

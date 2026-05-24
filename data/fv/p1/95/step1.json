@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The title, data categories, data proportions, and color hues are all consistent. The overall message of the chart is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the distribution of occupations for employed females in 1881. The largest segment, labeled 'Domestic Offices or Services', clearly represents more than 50% of the total, thus constituting a majority."
+    },
+    "claim": "The majority of employed women work in the service sector.",
+    "label": false
+}

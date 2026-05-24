@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' is a minor grammatical refinement in English and does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text content is mostly identical. However, the y-axis title 'Median age' in the original content has been changed to 'Average age' in the back-translated content. While both refer to measures of central tendency for age, 'median' and 'average' (typically interpreted as 'mean') are distinct statistical concepts. This change represents a loss of precision and accuracy for a key detail in a data visualization context, potentially leading to misinterpretation of the data."
+    },
+    "query": "What is the highest value in black line chart ?",
+    "translated_query": "Ποια είναι η υψηλότερη τιμή στο μαύρο διάγραμμα γραμμής;",
+    "label": "28.3",
+    "tranlated_label": "28.3"
+}

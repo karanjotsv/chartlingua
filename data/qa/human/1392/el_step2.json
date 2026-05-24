@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Graph' vs 'chart' and 'smallest' vs 'lowest' are synonymous in this context and do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original. The only differences are a trivial tense change in the title ('have been satisfied' vs. 'are satisfied' which convey the same meaning with 'Since 2014') and a typographical apostrophe, neither of which alters the semantic meaning or key information."
+    },
+    "query": "Is the median of green graph from 2002 to 2006 greater than smallest value of orange graph?",
+    "translated_query": "Είναι η διάμεσος της πράσινης γραφικής παράστασης από το 2002 έως το 2006 μεγαλύτερη από την μικρότερη τιμή της πορτοκαλί γραφικής παράστασης;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

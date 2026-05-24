@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The rephrasing of 'staff member of GLAM institution' to 'GLAM institution staff member' is a minor stylistic difference, and the omission of 'it' before 'has a value' is a minor grammatical variation; neither alters the core information or meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text content is mostly equivalent, with titles and most chart data labels matching perfectly. However, one key chart data label ('Paid staff member of GLAM<br>institution') in the back-translated content contains a grammatical error and redundancy ('Paid GLAM institution staff member<br>institution'), which loses some of the original accuracy and precision for that specific item."
+    },
+    "claim": "The yellow bar represents the paid staff member of GLAM institution and it has a value of 40.6% in the chart.",
+    "translated_claim": "Η κίτρινη ράβδος αντιπροσωπεύει το πληρωμένο μέλος προσωπικού του ιδρύματος GLAM και έχει τιμή 40,6% στο γράφημα."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, title, and color hues for corresponding categories are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentage for 'Scientific & technical' as 8%, which is the smallest value compared to all other categories listed (28%, 23%, 23%, and 23%)."
+    },
+    "claim": "Scientific and technical had the lowest share of ocupants.",
+    "label": true
+}

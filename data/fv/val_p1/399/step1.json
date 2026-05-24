@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data value (100%), and color hues for the background and the central circle are all consistent with the original. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data for 'Americans', but the claim incorrectly states that the data is for 'Indians'."
+    },
+    "claim": "100 percentage of Indians who have at least one female relative.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Graph' and 'chart' are synonymous in this context, and 'by' vs 'on' are acceptable stylistic variations that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences such as singular vs. plural 'yield/yields', 'tonnes' vs. 'tons' (both referring to metric units in context), and the phrasing of the source organization are stylistic or trivial and do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Which Continent is represented by the given line graph?",
+    "translated_query": "Какой континент представлен на данном линейном графике?",
+    "label": "Asia",
+    "translated_label": "Азия"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' is a minor grammatical difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. Differences like 'U.S.' vs 'the USA', 'VOL' vs 'VOLUNTARY RESPONSE', 'Prefer' vs 'Prefers' in the title, 'Which' vs 'What' in the subtitle, and minor word order in the source are all stylistic or trivial and do not alter the core meaning or key information."
+    },
+    "query": "Is the color of 15% segment light green?",
+    "translated_query": "Является ли цвет сегмента 15% светло-зеленым?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

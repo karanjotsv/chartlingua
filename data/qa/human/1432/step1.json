@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and source text are identical. Color hues are also consistent, preserving the original's visual grouping.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies 'Important, but lower priority' as the most popular option, as it corresponds to the largest slice of the pie chart with 40% of the responses."
+    },
+    "query": "What's the most popular option?",
+    "label": "Important, but lower priority"
+}

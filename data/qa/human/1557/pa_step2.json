@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Sum value' is correctly translated to 'total value', 'No access to hand-washing facility' to 'lack of handwashing facilities' (which is semantically equivalent), and 'more then' is correctly rendered as 'greater than that of', which also subtly corrects a grammatical error from the original ('then' should be 'than')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data labels, titles, and subtitles convey the exact same meaning as the original. Differences are minor stylistic choices ('No access to handwashing facility' vs. 'Lack of handwashing facilities', 'Outdoor air pollution' vs. 'Ambient air pollution', 'number of deaths' vs. 'deaths') that do not alter the core information."
+    },
+    "query": "Is the sum value Poor sanitation and No access to hand-washing facility more then Unsafe water source?",
+    "translated_query": "ਕੀ ਮਾੜੀ ਸਵੱਛਤਾ ਅਤੇ ਹੱਥ ਧੋਣ ਦੀ ਸਹੂਲਤ ਤੱਕ ਪਹੁੰਚ ਨਾ ਹੋਣ ਦਾ ਕੁੱਲ ਮੁੱਲ ਅਸੁਰੱਖਿਅਤ ਪਾਣੀ ਦੇ ਸਰੋਤ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

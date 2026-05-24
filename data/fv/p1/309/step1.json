@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly identifies the title, axes, and the general trend of high tonnage in the late 90s followed by a decline. However, there are significant data value inaccuracies for several years (e.g., 2002, 2003, 2007, 2008), which misrepresent the specific annual fluctuations.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on 'Annual Tonnage Through Lock' but does not identify the specific lock or the river it is located on. The claim is about the Mississippi River, which is never mentioned in the chart. Therefore, there is no information in the chart to support this claim."
+    },
+    "claim": "The Mississippi River has no locks and dams.",
+    "label": false
+}

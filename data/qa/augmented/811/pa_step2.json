@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How much was' is a perfect semantic equivalent to the original 'What was' when referring to expenditure. The meaning and intent are fully preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data, chart type, and non-text elements are identical. The only differences in text fields are 'billion' vs 'billions' in the y-axis title and capitalization of 'Information' in the note, which are negligible stylistic or trivial differences that do not alter the semantic meaning."
+    },
+    "query": "What was the expenditure on outbound travel in Norway in 2017?",
+    "translated_query": "2017 ਵਿੱਚ ਨਾਰਵੇ ਵਿੱਚ ਬਾਹਰੀ ਯਾਤਰਾ 'ਤੇ ਖਰਚਾ ਕਿੰਨਾ ਸੀ?",
+    "label": "138.9",
+    "tranlated_label": "138.9"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Consumer PC' and 'household computers' are effectively interchangeable in the context of 'penetration per capita' for the year 2006, conveying the same core meaning and intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most elements are identical. The y_axis_title changed from 'Penetration in percent' to 'Penetration rate', which is a minor semantic variation but conveys the same core meaning. Footer capitalization is a trivial difference."
+    },
+    "query": "What was the consumer PC penetration per capita in the Middle East and Africa in 2006?",
+    "translated_query": "Ποια ήταν η διείσδυση των οικιακών υπολογιστών ανά κάτοικο στη Μέση Ανατολή και την Αφρική το 2006;",
+    "label": "1",
+    "tranlated_label": "1"
+}

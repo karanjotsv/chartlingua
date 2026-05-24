@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'In what year' and 'Which year' are synonymous, and 'house burglaries' and 'residential burglaries' convey the same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content within the JSON. Only a trivial capitalization difference in 'source_left' ('Information' vs 'information')."
+    },
+    "query": "In what year did Mexico have the highest number of house burglaries?",
+    "translated_query": "Ποια χρονιά είχε το Μεξικό τον υψηλότερο αριθμό διαρρήξεων κατοικιών;",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

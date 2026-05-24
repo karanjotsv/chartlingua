@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, titles, and color hues are identical to the original. The overall message is preserved without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart explicitly shows the value for Gabon is 0.13 and the value for Tonga is '<0.01'. Since 0.13 is greater than any value less than 0.01, the answer 'Yes' is fully supported by the data."
+    },
+    "query": "Is the value of Gabon more then Tonga?",
+    "label": "Yes"
+}

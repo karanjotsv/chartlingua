@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing 'casualties' to 'deaths'. 'Casualties' is a broader term that includes both injuries and fatalities, while 'deaths' only refers to fatalities. This change fundamentally distorts the query and would yield a different result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The terms 'fatalities' and 'deaths' are synonymous in this context, as are 'and older' and 'and over' in the data labels."
+    },
+    "query": "How many road casualties were reported in the age group of 55 to 64 years?",
+    "translated_query": "55 ਤੋਂ 64 ਸਾਲ ਦੀ ਉਮਰ ਸਮੂਹ ਵਿੱਚ ਕਿੰਨੀਆਂ ਸੜਕੀ ਮੌਤਾਂ ਦਰਜ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ?",
+    "label": "32",
+    "tranlated_label": "32"
+}

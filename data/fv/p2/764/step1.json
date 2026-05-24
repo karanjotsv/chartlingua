@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, labels, categories, and color-to-series mappings. The overall trend is identical. It also adds a helpful title and legend that clarify the data without altering its meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the number of railways, but the chart displays data on the discovery of exoplanets by date and method. The chart contains no information about railways."
+    },
+    "claim": "The number of railways in operation decreased after 1945.",
+    "label": "FALSE"
+}

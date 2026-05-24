@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The data points, axis labels, axis title, and overall trend are identical. The semantic content is fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a comparison between the movie represented in the chart and 'other movies'. However, the chart only displays a single line of data and contains no information about any other movies, making such a comparison impossible based solely on the provided visual."
+    },
+    "claim": "The chart shows that cumulative box office gross for this movie was lower than for other movies in Japan.",
+    "label": "FALSE"
+}

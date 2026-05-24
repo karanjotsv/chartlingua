@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes the key term 'identical' to 'similar'. This is a significant loss of precision, as 'identical' implies an exact match while 'similar' suggests only a resemblance, thus weakening the original claim's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical. The minor capitalization difference in the y-axis title ('coefficient' vs. 'Coefficient') is a trivial stylistic variation that does not affect the meaning."
+    },
+    "claim": "The absorption spectra of HbO2 and Hb are identical.",
+    "translated_claim": "HbO2 और Hb के अवशोषण स्पेक्ट्रा समान हैं।"
+}

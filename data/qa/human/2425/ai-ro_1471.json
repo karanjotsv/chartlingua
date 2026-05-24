@@ -1,0 +1,66 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "S1 2012",
+            "S1 2013",
+            "S1 2014"
+        ],
+        "series": [
+            {
+                "name": "Barclays",
+                "data": [
+                    186,
+                    400,
+                    406
+                ]
+            },
+            {
+                "name": "RBS",
+                "data": [
+                    190,
+                    197,
+                    217
+                ]
+            },
+            {
+                "name": "Lloyds",
+                "data": [
+                    193,
+                    201,
+                    240
+                ]
+            },
+            {
+                "name": "HSBC",
+                "data": [
+                    237,
+                    217,
+                    195
+                ]
+            },
+            {
+                "name": "SCB",
+                "data": [
+                    230,
+                    220,
+                    210
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Puncte de bază",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2685E1",
+        "#0E3041",
+        "#BEC0C2",
+        "#B20000",
+        "#85BD3B"
+    ]
+}

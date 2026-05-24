@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, proportions, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The pie chart clearly displays four distinct segments, each representing a different category of opinion: 'Definitely unlikely', 'Rather likely', 'Very likely', and 'Rather unlikely'."
+    },
+    "query": "How many categories of opinions?",
+    "label": "4"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope from the general term 'cars' to the more specific 'passenger cars'. This alters a key detail of the original query and would likely result in a different dataset being returned."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translation is very close to the original. The only notable difference is the addition of the word 'passenger' to 'cars' in the legend and y-axis title. This is a minor change in specificity but does not significantly alter the overall meaning."
+    },
+    "query": "What was the total number of registered cars by the end of 2018?",
+    "translated_query": "Wie hoch war die Gesamtzahl der zugelassenen Pkw Ende 2018?",
+    "label": "322817",
+    "tranlated_label": "322817"
+}

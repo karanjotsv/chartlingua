@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Jucării",
+            "Bebeluşi"
+        ],
+        "series": [
+            {
+                "name": "Valoarea vânzărilor",
+                "data": [
+                    34,
+                    10
+                ]
+            },
+            {
+                "name": "Numărul de comenzi",
+                "data": [
+                    13,
+                    13
+                ]
+            },
+            {
+                "name": "Valoarea coșului de cumpărături",
+                "data": [
+                    18,
+                    -3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Creșterea vânzărilor (martie vs. februarie)",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#297ACC",
+        "#0F2C4C",
+        "#BDBDBD"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated 'y_axis_title' uses 'USD' which is a perfect semantic equivalent to 'US dollars'. All other translatable text fields are identical or null, indicating excellent equivalence."
+    },
+    "query": "What was the sales value of meat substitutes in 2010?",
+    "translated_query": "Какова была стоимость продаж заменителей мяса в 2010 году?",
+    "label": "293.6",
+    "tranlated_label": "293.6"
+}

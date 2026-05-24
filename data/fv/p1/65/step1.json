@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data, trends, colors, and axis labels are identical. The rendered chart adds a descriptive title and legend which accurately explains the content of the original chart, enhancing rather than contradicting its meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the red curve has the same temperature at all times, but the chart clearly shows the temperature on the red curve is decreasing over time. For example, at time t=0, the temperature is 100, and at time t=100, the temperature is less than 10."
+    },
+    "claim": "The red curve has the same temperature at all times.",
+    "label": false
+}

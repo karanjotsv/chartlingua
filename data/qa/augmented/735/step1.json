@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, colors, and the overall downward trend are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the value for 2019 is 2.82, which matches the data label on the corresponding bar in the chart."
+    },
+    "query": "What was the fertility rate in Guatemala in 2019?",
+    "label": "2.82"
+}

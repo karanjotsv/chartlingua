@@ -1,0 +1,55 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Protejarea spațiilor deschise din<br>parcurile naționale",
+            "Protejarea animalelor și a<br>habitatelor acestora",
+            "Reducerea efectelor schimbărilor<br>climatice",
+            "Protejarea calității aerului",
+            "Protejarea calității apei lacurilor,<br>râurilor și pârâurilor"
+        ],
+        "series": [
+            {
+                "name": "Prea puțin",
+                "values": [
+                    54,
+                    62,
+                    65,
+                    65,
+                    67
+                ]
+            },
+            {
+                "name": "Aproximativ cât trebuie",
+                "values": [
+                    40,
+                    32,
+                    25,
+                    30,
+                    29
+                ]
+            },
+            {
+                "name": "Prea mult",
+                "values": [
+                    5,
+                    6,
+                    9,
+                    4,
+                    3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Majoritatea susține că guvernul federal face prea puțin pentru<br>a proteja aspecte ale mediului înconjurător",
+        "subtitle": "% dintre adulții din S.U.A. care spun că <i>guvernul federal face ___ în fiecare domeniu</i>",
+        "source": "Notă: Respondenții care nu au oferit un răspuns nu sunt afișați.<br>Sursa: Sondaj realizat în perioada 29 aprilie - 5 mai 2020.<br>„Două treimi dintre americani consideră că guvernul ar trebui să facă mai mult în privința climei”",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#1F4E7A",
+        "#4B88C4",
+        "#B9BD71"
+    ]
+}

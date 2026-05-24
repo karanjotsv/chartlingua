@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels, titles, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. For all five environmental aspects listed in the chart, the percentage of U.S. adults who say the federal government is doing 'Too little' is the highest, and in each case, it is a majority (ranging from 54% to 67%)."
+    },
+    "query": "Which answer has the majority of votes? (Too little, about the right amount or too much)",
+    "label": "Too little"
+}

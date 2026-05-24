@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Expected lifespan' and 'life expectancy' are semantically equivalent in this context, and the difference in punctuation (of vs comma) is trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements, including chart data categories and titles, maintain perfect semantic equivalence. Differences are only due to completion of truncated terms (e.g., 'Foxho...' to 'Foxhound...') and minor stylistic capitalization, which do not alter the meaning."
+    },
+    "claim": "The basenji has the shortest expected lifespan of 5 years.",
+    "translated_claim": "Το μπασέντζι έχει το μικρότερο προσδόκιμο ζωής, 5 χρόνια."
+}

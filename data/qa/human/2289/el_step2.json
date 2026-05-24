@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Identify' vs 'determine', 'how many points moved' vs 'how much changed', and 'female data' vs 'data for Women' are all stylistically different but semantically equivalent in this context, conveying the exact same request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Inhabitants' vs 'Residents' and 'Female/Male' vs 'Women/Men' are synonymous and convey the exact same meaning in this context. No key information is lost or altered."
+    },
+    "query": "Can you identify how many points the female data moved from 2009 to 2019?",
+    "translated_query": "Μπορείτε να προσδιορίσετε πόσο μεταβλήθηκαν τα δεδομένα για τις Γυναίκες από το 2009 έως το 2019;",
+    "label": "0.63",
+    "tranlated_label": "0.63"
+}

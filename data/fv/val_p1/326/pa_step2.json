@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The only difference is the numerical '3rd' versus the word 'third', which carries identical semantic value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the 'texts' object are null in both the original and back-translated content, indicating perfect semantic equivalence as there was no text to translate. The non-textual data is also identical."
+    },
+    "claim": "Chorley has the 3rd lowest attendance in the Northern Premier League Division One.",
+    "translated_claim": "ਚੋਰਲੇ ਦੀ Northern Premier League Division One ਵਿੱਚ ਤੀਜੀ ਸਭ ਤੋਂ ਘੱਟ ਹਾਜ਼ਰੀ ਹੈ।"
+}

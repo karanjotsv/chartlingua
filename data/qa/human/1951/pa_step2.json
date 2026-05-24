@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is minor capitalization of 'yes' and 'no' to 'Yes' and 'No', which does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (categories and source) is an exact semantic and literal match between the original and back-translated versions."
+    },
+    "query": "What is the ratio of yes to no?",
+    "translated_query": "ਹਾਂ ਦਾ ਨਹੀਂ ਨਾਲ ਕੀ ਅਨੁਪਾਤ ਹੈ?",
+    "label": "1.54",
+    "tranlated_label": "1.54"
+}

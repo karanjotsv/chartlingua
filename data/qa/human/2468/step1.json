@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, matching the data values, categories, labels, and color scheme identically.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Same' as the most popular response. The pie chart shows that 'Same' has the largest percentage with 54%, compared to 'More' (24%) and 'Less' (22%)."
+    },
+    "query": "What's the most popular response?",
+    "label": "Same"
+}

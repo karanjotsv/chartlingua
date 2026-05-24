@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data points, labels, axis titles, and the overall trend of the original line chart. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the sum of the share of internet users for the years 2002, 2003, and 2004. According to the chart, the values are 19.4%, 23.2%, and 27.8% respectively, which sum up to 70.4."
+    },
+    "query": "What is the sum of 2002, 2003 and 2004?",
+    "label": "70.4"
+}

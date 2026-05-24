@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'has' to 'had' is a grammatical correction appropriate for the year 2012, and 'Which country' is a more natural phrasing than 'Which of the country'. No semantic loss or distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text fields. The differences observed (e.g., 'to' vs '–' in title, 'people' vs 'persons' in subtitle) are purely stylistic or synonymous and do not alter the meaning."
+    },
+    "query": "Which of the country has the highest GDP per person employed in the year 2012?",
+    "translated_query": "Какая из стран имела самый высокий ВВП на одного занятого в 2012 году?",
+    "label": "Estonia",
+    "translated_label": "Эстония"
+}

@@ -1,0 +1,78 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Hispanic eligible voters",
+            "x": [
+                1986,
+                1990,
+                1994,
+                1998,
+                2002,
+                2006,
+                2010,
+                2014,
+                2018
+            ],
+            "y": [
+                7.5,
+                8.1,
+                10.3,
+                12.4,
+                14.5,
+                17.3,
+                21.3,
+                25.1,
+                29.1
+            ],
+            "text_position": "top center"
+        },
+        {
+            "name": "Hispanic voters",
+            "x": [
+                1986,
+                1990,
+                1994,
+                1998,
+                2002,
+                2006,
+                2010,
+                2014
+            ],
+            "y": [
+                2.9,
+                2.9,
+                3.5,
+                4.1,
+                4.5,
+                5.6,
+                6.6,
+                6.8
+            ],
+            "text_position": "bottom center"
+        }
+    ],
+    "texts": {
+        "title": "<b>The number of Hispanic eligible voters has grown,<br>while midterm election voting has remained flat</b>",
+        "subtitle": "<i>In millions</i>",
+        "source": "Note: Eligible voters are U.S. citizens ages 18 and older. The estimated number of votes<br>cast is based on voter self-reports.<br>Source: Pew Research Center tabulations of the Current Population Survey, November<br>Supplements for 1986 to 2014 and August Current Population Survey for 2018.<br><br><b>PEW RESEARCH CENTER</b>",
+        "annotations": [
+            {
+                "text": "<b>Hispanic eligible voters</b>",
+                "x": 1993,
+                "y": 15,
+                "showarrow": false
+            },
+            {
+                "text": "<b>Hispanic voters</b>",
+                "x": 1998,
+                "y": 7.5,
+                "showarrow": false
+            }
+        ]
+    },
+    "colors": [
+        "#a65628",
+        "#d4ac0d"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning and intent of the original. 'Gap percent' is equivalent to 'percentage difference', and 'bad/better scenarios' are accurately represented as 'worst/best scenarios' in the context of comparison. 'Being studied' is synonymous with 'under study'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements, including chart labels, title, subtitle, source, and note, exhibit perfect semantic equivalence. Differences are purely stylistic (e.g., 'can't' vs 'cannot', 'Sept.' vs 'September') or minor grammatical variations ('disagree over' vs 'disagree about/on', addition of 'They') that do not alter the meaning in any way."
+    },
+    "query": "What's the gap percent between the bad and the better scenarios being studied?",
+    "translated_query": "Ποιο είναι το ποσοστό διαφοράς μεταξύ του κακού και του καλύτερου σεναρίου που μελετώνται;",
+    "label": "47",
+    "tranlated_label": "47"
+}

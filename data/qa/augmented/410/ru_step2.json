@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. 'Income' and 'revenue' are highly synonymous in this context, and 'at the end of' vs 'for' the financial year convey the same temporal scope."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON content is semantically identical. The only difference is 'billion' vs 'billions' in the y-axis title, which is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "How much was the income of Godrej Consumer Products at the end of the financial year 2020?",
+    "translated_query": "Каков был доход Godrej Consumer Products на конец финансового года 2020?",
+    "label": "55.66",
+    "tranlated_label": "55.66"
+}

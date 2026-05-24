@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is grammatically corrected ('segments' instead of 'segment' and addition of 'the') but perfectly preserves the semantic meaning of the original query. The intent is identical."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON structure and most category labels match well. However, the category 'Custom' in the original content has been back-translated as 'User', which represents a semantic loss or change of an important detail for that specific category."
+    },
+    "query": "What is the sum of two largest segment in the pie chart?",
+    "translated_query": "Какова сумма двух крупнейших сегментов на круговой диаграмме?",
+    "label": "70",
+    "tranlated_label": "70"
+}

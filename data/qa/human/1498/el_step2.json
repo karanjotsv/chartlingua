@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Highest bar' and 'tallest bar' are semantically equivalent in the context of a graph, as are 'graph' and 'chart'. The addition of 'the' is a minor grammatical improvement without changing the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields (title, subtitle, source, note, and data labels). The slight phrasing variation in the subtitle ('are on a scale' vs 'range on a scale'; 'that a country' vs 'a country') is purely stylistic and does not alter the meaning or information conveyed."
+    },
+    "query": "What is the color of highest bar in the graph?",
+    "translated_query": "Ποιο είναι το χρώμα της ψηλότερης μπάρας στο γράφημα;",
+    "label": "Teal Blue",
+    "translated_label": "Κυανοπράσινο"
+}

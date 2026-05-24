@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. 'Children's book titles' is equivalent to 'The names of children's books', and 'red colored pie slice' is equivalent to 'red segment of the pie chart'. The minor grammatical change from 'is' to 'are' is due to the change in subject phrasing ('titles' vs 'names of books') but does not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The original and back-translated JSON content are identical. All translatable text, including labels in chart_data and all fields within texts, show perfect semantic equivalence as they are exactly the same."
+    },
+    "claim": "Children's book titles in the UK is represented by the red colored pie slice. ",
+    "translated_claim": "Названия детских книг в Великобритании представлены красным сегментом круговой диаграммы."
+}

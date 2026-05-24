@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Majority of male' is accurately conveyed by 'Most men', and 'agriculture field than others' by 'agriculture more than in other areas'. 'Occupational structure' and 'professional structure' are also synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and series names are either perfect matches or excellent synonyms. Minor differences, such as 'offices' to 'services' in a domestic context, or 'unsuspected commodities' to 'unspecified goods', are acceptable interpretations that preserve the core meaning. The repetition of 'services' in 'Domestic services or services' is a minor stylistic issue in the back-translation."
+    },
+    "claim": "Majority of male worked in agriculture field than others in 1881 occupational structure.",
+    "translated_claim": "Большинство мужчин работало в сфере сельского хозяйства больше, чем в других областях, в профессиональной структуре 1881 года."
+}

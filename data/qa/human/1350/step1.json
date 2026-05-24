@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, text, and color hues. The only significant difference is that the vertical order of the bars is inverted (sorted ascendingly instead of descendingly). This changes the visual emphasis but does not alter the core message or data integrity.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. A direct visual count of the chart confirms there are four distinct colored bars, each representing a country."
+    },
+    "query": "How many color bars are there in the graph?",
+    "label": "4"
+}

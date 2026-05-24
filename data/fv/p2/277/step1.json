@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are consistent with the original. The overall message and key trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the distribution of males and females across various occupations. For males (represented by the blue bars), the bar corresponding to 'Agriculture' is the tallest, indicating that this was the single largest occupational category for men compared to any other category shown."
+    },
+    "claim": "Majority of male worked in agriculture field than others in 1881 occupational structure.",
+    "label": "TRUE"
+}

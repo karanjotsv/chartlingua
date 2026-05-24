@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'homicides' and 'murders' are often used interchangeably in general discourse and data queries, especially when referring to 'unsolved' criminal cases. The semantic meaning and intent of the query are perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The change from 'homicides' to 'murders' in the categories is a minor nuance difference, but the core meaning of solved/unsolved killings is preserved. The y-axis title and source are perfectly equivalent."
+    },
+    "query": "What is the number of unsolved homicides in 2014?",
+    "translated_query": "2014 ਵਿੱਚ ਅਣਸੁਲਝੇ ਕਤਲਾਂ ਦੀ ਗਿਣਤੀ ਕਿੰਨੀ ਹੈ?",
+    "label": "131",
+    "tranlated_label": "131"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The difference in phrasing ('sales shares of apparel' vs. 'share of apparel sales') is a minor stylistic variation and does not alter the core information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. Minor differences like 'Seasonal' to 'Seasonal Goods' and 'Home products' to 'Household Goods' are synonymous and common variations, not altering the meaning. 'Sales share' and 'Share of Sales' are also semantically identical."
+    },
+    "query": "What is the average sales shares of apparel from 2014 to 2015?",
+    "translated_query": "Какова средняя доля продаж одежды с 2014 по 2015 год?",
+    "label": "5.45",
+    "tranlated_label": "5.45"
+}

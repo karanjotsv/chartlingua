@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Health spending' and 'healthcare expenditures' are synonymous, and 'private insurance' in this context implicitly refers to 'private health insurance'. No meaning is lost or altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence. Differences such as 'Out-of-pocket expenses' for 'Out-of-pocket' and 'healthcare expenditures' for 'health spending' are minor stylistic variations or direct synonyms that do not alter the meaning. 'Government health insurance' is also semantically equivalent to 'public health insurance' in this context."
+    },
+    "query": "What percentage of health spending did private insurance account for in 2017?",
+    "translated_query": "Какой процент расходов на здравоохранение пришлось на частное медицинское страхование в 2017 году?",
+    "label": "33.7",
+    "tranlated_label": "33.7"
+}

@@ -1,0 +1,44 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "सुलझी हुई हत्याएं",
+            "अनसुलझी हत्याएं"
+        ],
+        "series": [
+            {
+                "name": "2012",
+                "data": [
+                    415,
+                    128
+                ]
+            },
+            {
+                "name": "2013",
+                "data": [
+                    406,
+                    106
+                ]
+            },
+            {
+                "name": "2014",
+                "data": [
+                    385,
+                    131
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "पीड़ितों की संख्या",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#297ACC",
+        "#0F2D4F",
+        "#BEBEBE"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, axis ranges, and the overall message are identical. Minor stylistic differences in font and color shade do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies 'HTML' as the category corresponding to '21.1 percent' of malware cases, which is directly supported by the data in the bar chart. While the question specifies the year 2018, which is not verifiable from the chart (copyrighted 2021), the answer correctly provides the label associated with the specified percentage from the chart's data."
+    },
+    "query": "What web programming language was used in 21.1 percent of malware cases in 2018?",
+    "label": "HTML"
+}

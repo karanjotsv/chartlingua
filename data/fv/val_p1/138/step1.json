@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, text labels, titles, and the overall message are identical to the original. The color hues are also highly consistent, with only a minor change for one small category (Neutral changes from light blue to light green) that does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The left pie chart, titled 'Spanish nouns ending in a/á', shows that 89% of these nouns are feminine, while only 7% are masculine. This directly supports the claim."
+    },
+    "claim": "there are more Spanish nouns ending in a/á, feminine than masculine",
+    "label": true
+}

@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Немедленно",
+            "В течение часа",
+            "В течение дня",
+            "Я не ожидаю ответа"
+        ],
+        "series": [
+            {
+                "name": "Соединенные Штаты",
+                "data": [
+                    20,
+                    24,
+                    31,
+                    25
+                ]
+            },
+            {
+                "name": "Среднемировой показатель",
+                "data": [
+                    18,
+                    28,
+                    37,
+                    17
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Доля респондентов",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#132D43"
+    ]
+}

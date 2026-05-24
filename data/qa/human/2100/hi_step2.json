@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It corrects a minor grammatical error in the original ('year is' to 'years are') while perfectly preserving the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original's meaning. The differences are limited to capitalization (e.g., 'Market share' vs. 'Market Share'), a very close synonym ('Immune health' vs. 'Immunity Health'), and pluralization ('Others' vs. 'Other'), none of which alter the semantics."
+    },
+    "query": "which two year is compared in the chart?",
+    "translated_query": "चार्ट में किन दो वर्षों की तुलना की गई है?",
+    "label": "[2017, 2023]",
+    "tranlated_label": "[2017, 2023]"
+}

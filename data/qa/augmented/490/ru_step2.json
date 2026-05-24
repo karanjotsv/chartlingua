@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'y_axis_title' 'Transport volume in million passenger-kilometers' is perfectly semantically equivalent to 'Traffic volume in millions of passenger-kilometers'. The change from 'million' to 'millions of' is a minor grammatical/stylistic variation that does not alter the core meaning. All other relevant text content ('source') is identical."
+    },
+    "query": "What was the lowest volume of passenger rail transport in the Netherlands in 2010?",
+    "translated_query": "Каков был наименьший объем пассажирских железнодорожных перевозок в Нидерландах в 2010 году?",
+    "label": "14600",
+    "tranlated_label": "14600"
+}

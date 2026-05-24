@@ -1,0 +1,49 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Speed vs. Time",
+            "x": [
+                0,
+                2,
+                4,
+                6,
+                8,
+                10,
+                12,
+                14,
+                16,
+                17
+            ],
+            "y": [
+                1,
+                2,
+                3,
+                5,
+                7,
+                10,
+                13,
+                17,
+                22,
+                25
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "series": [
+            "#2956FF"
+        ],
+        "marker_fill": "#FFFFFF",
+        "background": "#000000",
+        "grid": "#AAAAAA",
+        "text": "#FFFFFF"
+    }
+}

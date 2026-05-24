@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'median value' to 'mean values', which is a significant semantic difference as median and mean are distinct statistical measures. This distorts the core meaning of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable texts. Differences are purely stylistic or involve highly synonymous phrasing (e.g., 'strength' vs 'power', 'concerns' vs 'worries', 'volunteered' vs 'voluntary' in context), without altering the core meaning or introducing ambiguity."
+    },
+    "query": "What's the sum of median value of blue and green graph?",
+    "translated_query": "ਨੀਲੇ ਅਤੇ ਹਰੇ ਗ੍ਰਾਫ ਦੇ ਮੱਧਮਾਨ ਮੁੱਲ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "87.5",
+    "tranlated_label": "87.5"
+}

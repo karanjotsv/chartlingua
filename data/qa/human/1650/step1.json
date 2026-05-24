@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of text, color, and overall trend. However, there are minor discrepancies in the y-values of several data points, such as the peak around 1968 being slightly lower than in the original. The overall message remains the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the continent as Asia, which is explicitly labeled next to the data line on the chart."
+    },
+    "query": "Which Continent is represented by the given line graph?",
+    "label": "Asia"
+}

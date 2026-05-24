@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Highest'/'largest' and 'lowest'/'smallest' are synonymous in this context, and 'bar' and 'column' refer to the same chart element."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are either identical or perfectly semantically equivalent. The phrase 'Distribution share' vs. 'Share of distribution' is a minor stylistic variation that doesn't alter the meaning."
+    },
+    "query": "What is the sum of highest value and lowest value of blue bar?",
+    "translated_query": "Какова сумма наибольшего и наименьшего значения синего столбца?",
+    "label": "124.4",
+    "tranlated_label": "124.4"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, maintaining perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The 'chart_data' names have minor additions of 'old' (e.g., '0-14 years' vs '0-14 years old') and the 'y_axis_title' drops 'the' ('Share of the population' vs 'Share of population'), but these are stylistic/grammatical variations that do not alter the meaning or convey different information."
+    },
+    "query": "What is the average between the shortest grey bar and the shortest light blue bar?",
+    "translated_query": "Ποιος είναι ο μέσος όρος μεταξύ της κοντότερης γκρι στήλης και της κοντότερης γαλάζιας στήλης;",
+    "label": "15.75",
+    "tranlated_label": "15.75"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. It even corrects a minor grammatical error in the original ('than than' to 'than the') without altering the core message. Stylistic differences like '56Fe' vs '⁵⁶Fe' or the addition of 'at' before '140 (keV/m) LET' do not impact the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles and annotations, is identical in both the original and back-translated JSON. Scientific notations and units have been perfectly preserved."
+    },
+    "claim": "The threshold dose for 56Fe 140 (keV/m) LET is less than than threshold dose of 56Fe at 180 (keV/m) LET.",
+    "translated_claim": "Η δόση κατωφλίου για το ⁵⁶Fe στα 140 (keV/m) LET είναι μικρότερη από τη δόση κατωφλίου του ⁵⁶Fe στα 180 (keV/m) LET."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The data points, overall trend, title, and axis labels are identical. The only minor difference is the omission of the legend, but this does not affect the interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that more people watched \"Home Soil\" than \"Justice\". However, the chart shows the data point for \"Justice\" is at approximately 12.7, while the data point for \"Home Soil\" is lower, at approximately 9.0."
+    },
+    "claim": "More people watched \"Homesail\" than watched \"Justice.\"",
+    "label": false
+}

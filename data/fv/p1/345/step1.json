@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their proportions, axis labels, titles, and overall trends are identical. The color hue for the data series is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of arrests decreases with age, but the chart shows a significant increase in the arrest rate from age 9 to a peak at age 15. The rate then fluctuates, reaching another peak at age 23, before starting a more consistent decline."
+    },
+    "claim": "The number of female arson arrests decreases with age.\n",
+    "label": true
+}

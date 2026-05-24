@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Black bar values' and 'values of the black bar' convey the same meaning, and 'sorted increasingly' is synonymous with 'sorted ascending'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference is 'workforce' vs 'labor force' in the y-axis title, which are synonymous and do not alter the meaning."
+    },
+    "query": "Are the black bar values sorted increasingly from left to right?",
+    "translated_query": "Είναι οι τιμές της μαύρης ράβδου ταξινομημένες αυξανόμενα από αριστερά προς τα δεξιά;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

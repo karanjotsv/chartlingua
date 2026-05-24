@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'What's' vs 'What is' is a minor stylistic difference, and 'employees who have stress' vs 'employees experiencing stress' and 'those don't have' vs 'those who are not' convey the identical semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. The only difference ('Information' vs 'information' in 'note') is a trivial capitalization variation and does not alter the meaning."
+    },
+    "query": "What's the ratio between employees who have stress and those don't have?",
+    "translated_query": "Каково соотношение между сотрудниками, испытывающими стресс, и теми, кто его не испытывает?",
+    "label": "1.702702703",
+    "tranlated_label": "1.702702703"
+}

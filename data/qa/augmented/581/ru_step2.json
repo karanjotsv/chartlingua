@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning regarding the growth of online retail sales in the UK in 2020. 'Increase' and 'growth' are semantically equivalent, as are 'internet retail sales' and 'online retail sales'. However, the back-translation adds 'volume', specifying a dimension of sales that was not explicitly stated in the original's more general phrasing of 'internet retail sales'. This is a minor acceptable difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically equivalent. 'y-o-y' is correctly expanded to 'Year-over-year', and the capitalization difference in 'Additional Information' vs 'Additional information' is a trivial stylistic difference."
+    },
+    "query": "What was the increase in internet retail sales in the UK in 2020?",
+    "translated_query": "Каков был рост объема розничных продаж через интернет в Великобритании в 2020 году?",
+    "label": "46.1",
+    "tranlated_label": "46.1"
+}

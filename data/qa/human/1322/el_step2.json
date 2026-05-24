@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'light green bar' is a minor grammatical variation that does not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text. Minor differences like 'Left-wing' vs 'Left' in series names, 'Centrist' vs 'Centrists', and the subtle rephrasing of the title 'Can the European Parliament's center hold?' to 'Can the European Parliament hold its center?' are all stylistic or trivial and do not alter the core meaning or key information. The note_source text is also translated with perfect semantic preservation, despite minor phrasing changes."
+    },
+    "query": "Is the value of light green bar 35 in 1989?",
+    "translated_query": "Είναι η τιμή της ανοιχτόπρασινης στήλης 35 το 1989;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

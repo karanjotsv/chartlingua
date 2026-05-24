@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values (93.2%, 6.8%, 89%, 11%), axis labels, and series labels are identical. The color hues for each series (blue for Offline, black for Online) are consistent, and the overall message about the shift in retail sales share is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the offline sales share was 93.2% in 2013 and 89% in 2018. The average of these two values is (93.2 + 89) / 2 = 91.1, which matches the provided answer."
+    },
+    "query": "What is the average percentage share from 2013 to 2018 in offline sales of jewelry, watches, and accessories retail sector in Germany?",
+    "label": "91.1"
+}

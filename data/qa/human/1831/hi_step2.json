@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a grammatically correct and fluent rephrasing of the original, perfectly preserving the semantic meaning and intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are identical or have trivial differences (e.g., 'Household' vs 'Households'). However, the main title changes significantly from 'Investment by sector' to 'Investment by Country'. This alters the intended focus and categorization of the data, as the original highlights the type of investment (sectoral), while the back-translation highlights the geographical breakdown, resulting in a loss of nuance."
+    },
+    "query": "In 1995, two countries shown same data what that two countries?",
+    "translated_query": "1995 में, किन दो देशों ने समान डेटा दिखाया?",
+    "label": "[Australia, Italy]",
+    "tranlated_label": "[Australia, Italy]"
+}

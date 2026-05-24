@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is mostly consistent in terms of text, color, and overall structure. However, there is a significant data inaccuracy for the 'Voter Turnout' series in the year 2016. In the original, the value is at 15,000, while in the rendered chart it is plotted much lower, around 12,000. This alters the data's proportions and partially distorts the message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that for the year 2010, the data point for 'Registered Voters' (the blue line) is significantly higher on the 'People' axis than the data point for 'Voter Turnout' (the orange line), confirming that not all registered voters voted."
+    },
+    "claim": "Not all of the 2010 registered voters turned out to vote.",
+    "label": true
+}

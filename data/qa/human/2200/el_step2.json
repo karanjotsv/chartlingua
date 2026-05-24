@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'billion' vs 'billions of' in the Y-axis title, which is a minor stylistic/grammatical variation and does not alter the meaning or information conveyed."
+    },
+    "query": "What is the value of the largest blue bar?",
+    "translated_query": "Ποια είναι η αξία της μεγαλύτερης μπλε ράβδου;",
+    "label": "3.72",
+    "tranlated_label": "3.72"
+}

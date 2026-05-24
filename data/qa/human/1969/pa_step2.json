@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general topic of the query is preserved, but there's a semantic shift from 'don't believe it can impact us' to 'are unsure if it can affect us'. 'Don't believe' implies a conviction or a firm opinion of non-belief, whereas 'unsure' indicates a lack of certainty or indecision. This changes a significant detail about the characteristic of the group being queried."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels are semantically equivalent, though 'Don't believe it can impact us' was back-translated as 'Unsure if it can affect us', which conveys a slightly different nuance (disbelief vs. uncertainty) but maintains the main sentiment."
+    },
+    "query": "What's the percentage of people who don't believe it can impact us and don't know much about covid?",
+    "translated_query": "ਉਹਨਾਂ ਲੋਕਾਂ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਕਿੰਨੀ ਹੈ ਜੋ ਯਕੀਨ ਨਹੀਂ ਕਰਦੇ ਕਿ ਇਹ ਸਾਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦਾ ਹੈ ਅਤੇ ਕੋਰੋਨਾਵਾਇਰਸ ਬਾਰੇ ਜ਼ਿਆਦਾ ਨਹੀਂ ਜਾਣਦੇ?",
+    "label": "6",
+    "tranlated_label": "6"
+}

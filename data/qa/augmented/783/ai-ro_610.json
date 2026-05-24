@@ -1,0 +1,47 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "2016",
+            "x": [
+                "T1",
+                "T2",
+                "T3",
+                "T4"
+            ],
+            "y": [
+                184,
+                194,
+                145,
+                183
+            ]
+        },
+        {
+            "name": "2017",
+            "x": [
+                "T1",
+                "T2",
+                "T3",
+                "T4"
+            ],
+            "y": [
+                189,
+                null,
+                null,
+                null
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Tarif mediu zilnic în dolari americani",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297ab0",
+        "#2c2c2c"
+    ]
+}

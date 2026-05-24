@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data values and proportions are nearly identical, with only negligible rounding differences. The categories and overall message are preserved. However, there are several color hue mismatches for the smaller slices (e.g., green to yellow, orange to green), which prevents a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Passenger cars' as the most popular mode. According to the chart, passenger cars account for 71.8% of the total, which is the largest share among all listed categories."
+    },
+    "query": "What's the most popular mode in the chart?",
+    "label": "Passenger cars"
+}

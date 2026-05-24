@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and color hues are identical to the original. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Firefox is the least used browser. However, the pie chart shows Firefox with a 21.76% share, while several other browsers have a smaller share, including Safari (13.49%), Opera (5.20%), Android (3.26%), and Other (4.02%). The least used browser shown is Android."
+    },
+    "claim": "Firefox has been the least used browser according to Wikimedia",
+    "label": "FALSE"
+}

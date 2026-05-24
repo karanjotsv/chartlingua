@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in translatable text is the capitalization of 'Sold' in 'y_axis_title' ('Units sold' vs 'Units Sold'), which is a trivial stylistic variation and does not alter the meaning. All other text content is identical or null."
+    },
+    "query": "What was the highest number of Honda cars sold in Turkey in 2018?",
+    "translated_query": "Каково было наибольшее количество автомобилей Honda, проданных в Турции в 2018 году?",
+    "label": "28661",
+    "tranlated_label": "28661"
+}

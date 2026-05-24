@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, labels, axis titles, chart title, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the data is from the year 2017, but the chart does not provide any information about the year. The chart's title is '207 Top Ten Utility Solar States', which does not confirm the year."
+    },
+    "claim": "The lowest usage of the Solar State is NJ from the top 10 solar states at 2017.",
+    "label": "TRUE"
+}

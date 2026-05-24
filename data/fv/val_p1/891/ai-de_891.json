@@ -1,0 +1,84 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "month": "November 1917",
+            "value": 1848597
+        },
+        {
+            "month": "Dezember 1917",
+            "value": 2496281
+        },
+        {
+            "month": "Januar 1918",
+            "value": 4008160
+        },
+        {
+            "month": "Februar 1918",
+            "value": 7504435
+        },
+        {
+            "month": "März 1918",
+            "value": 10757215
+        },
+        {
+            "month": "April 1918",
+            "value": 14010752
+        },
+        {
+            "month": "Mai 1918",
+            "value": 12627135
+        },
+        {
+            "month": "Juni 1918",
+            "value": 8609879
+        },
+        {
+            "month": "Juli 1918",
+            "value": 14359045
+        },
+        {
+            "month": "August 1918",
+            "value": 19576099
+        },
+        {
+            "month": "September 1918",
+            "value": 17233124
+        },
+        {
+            "month": "Oktober 1918",
+            "value": 22709116
+        },
+        {
+            "month": "November 1918",
+            "value": 7269123
+        }
+    ],
+    "texts": {
+        "title": "Holzproduktion der Spruce Production Division<br>November 1917 bis November 1918",
+        "subtitle": null,
+        "x_axis_title": "Monat",
+        "y_axis_title": "Produzierte Brettfuß",
+        "source": "<b>Anmerkungen:</b><br>Diese Daten summieren sich nicht zur Gesamtsumme von 143.008.961 Brettfuß, da sie die 1.679.123 Brettfuß, die im September und Oktober 1917 zusammen produziert wurden, nicht enthalten.<br>Das im November 1918 produzierte Holz wurde aufgrund des Endes des Ersten Weltkriegs zu dieser Zeit nicht den ganzen Monat über produziert.<br><b>Quelle:</b> Oregon Voter (3. April 1920). Portland, Oregon: Princeton University Archives. S. 107."
+    },
+    "colors": {
+        "series": [
+            "#20346e"
+        ],
+        "marker_fill": "#FFFFFF",
+        "grid": "#cccccc"
+    },
+    "y_axis_config": {
+        "range": [
+            0,
+            30000000
+        ],
+        "tickvals": [
+            0,
+            7500000,
+            15000000,
+            22500000,
+            30000000
+        ]
+    }
+}

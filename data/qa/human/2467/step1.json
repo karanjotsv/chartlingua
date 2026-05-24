@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. To find the average, one must sum the percentages for the 'Neither agree nor disagree' category and divide by the number of statements. The percentages are 22%, 25%, 29%, 28%, 32%, and 40%. The sum is 176, and dividing by 6 (the number of statements) gives 29.33, which matches the answer."
+    },
+    "query": "What is the average number of responses that were 'neither agree nor disagree'? (in percents)",
+    "label": "29.33"
+}

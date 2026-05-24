@@ -1,0 +1,120 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "S.U.A.",
+            "x": [
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2015,
+                2016
+            ],
+            "y": [
+                50,
+                20,
+                17,
+                24,
+                18,
+                31,
+                33,
+                40,
+                40,
+                44
+            ],
+            "data_labels_y_offsets": [
+                12,
+                -12,
+                -12,
+                12,
+                -12,
+                12,
+                12,
+                12,
+                12,
+                12
+            ]
+        },
+        {
+            "name": "Japonia",
+            "x": [
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2015,
+                2016
+            ],
+            "y": [
+                28,
+                13,
+                10,
+                12,
+                10,
+                7,
+                27,
+                35,
+                37,
+                30
+            ],
+            "data_labels_y_offsets": [
+                12,
+                -12,
+                -12,
+                12,
+                -12,
+                -12,
+                12,
+                12,
+                12,
+                -12
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Evaluările pentru economia S.U.A. continuă să crească după criză,<br>dar părerile despre economia Japoniei stagnează",
+        "subtitle": "Situația economică actuală din țara noastră este bună",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Sursa: Spring 2016 Global Attitudes Survey. Q3.<br><b>PEW RESEARCH CENTER</b>",
+        "y_axis_suffix": "%",
+        "series_annotations": [
+            {
+                "text": "S.U.A.",
+                "x": 2013.5,
+                "y": 43
+            },
+            {
+                "text": "Japonia",
+                "x": 2014,
+                "y": 28
+            }
+        ]
+    },
+    "colors": {
+        "traces": [
+            "#84a757",
+            "#e29a3f"
+        ],
+        "text": [
+            "#84a757",
+            "#e29a3f"
+        ],
+        "markers": [
+            "#84a757",
+            "#e29a3f"
+        ],
+        "marker_outline": "#ffffff",
+        "grid": "#d9d9d9",
+        "axis_line": "#333333"
+    }
+}

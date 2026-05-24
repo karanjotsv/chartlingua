@@ -1,0 +1,62 @@
+{
+    "chart_type": "clustered_bar",
+    "chart_data": {
+        "categories": [
+            "Professional",
+            "Domestic Offices or Services",
+            "Conveyance of Men, Goods and Messages",
+            "Agriculture",
+            "Engagement with Animals",
+            "Dealing with Clothing",
+            "Dealing with Various Vegetable Substances",
+            "Dealing with General Commodities",
+            "Unemployed",
+            "Unknown/Illegible"
+        ],
+        "series": [
+            {
+                "name": "Males",
+                "data": [
+                    0,
+                    2,
+                    1,
+                    36,
+                    4,
+                    1,
+                    1,
+                    6,
+                    1,
+                    2
+                ]
+            },
+            {
+                "name": "Females",
+                "data": [
+                    3,
+                    10,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    6,
+                    42
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "1881 Occupational Structure",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#95BBE2",
+        "#97C986"
+    ]
+}

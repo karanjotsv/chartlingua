@@ -1,0 +1,82 @@
+{
+    "chart_type": "dual_horizontal_bar",
+    "chart_data": {
+        "main_chart": {
+            "categories": [
+                "Formare și educație continuă,<br>recrutare de personal",
+                "Asociații",
+                "Tehnologia informației",
+                "Regiuni economice și municipalități",
+                "Industria construcțiilor",
+                "Servicii de facility management",
+                "Consultanță în management, audit,<br>avocatură, consultanți fiscali",
+                "Managementul imobiliar corporativ și<br>operatori de proprietăți",
+                "Sector public",
+                "Finanțare imobiliară",
+                "Arhitecți, inginerie, birouri de planificare",
+                "Management de proiecte imobiliare",
+                "Consultanță imobiliară, evaluare,<br>cercetare, marketing",
+                "Management imobiliar, brokeraj, închiriere",
+                "Investiții imobiliare",
+                "Dezvoltare imobiliară/antreprenori"
+            ],
+            "values": [
+                1,
+                2,
+                2,
+                4,
+                6,
+                6,
+                6,
+                6,
+                7,
+                8,
+                10,
+                10,
+                11,
+                13,
+                16,
+                16
+            ]
+        },
+        "inset_chart": {
+            "categories": [
+                "Servicii/social",
+                "Recreațional",
+                "Hotelier",
+                "Infrastructură",
+                "Logistica",
+                "Industrial",
+                "Rezidențial",
+                "Retail",
+                "Birouri"
+            ],
+            "values": [
+                5,
+                9,
+                16,
+                19,
+                23,
+                30,
+                39,
+                44,
+                56
+            ]
+        }
+    },
+    "texts": {
+        "title": "Structura vizitatorilor 2010",
+        "subtitle": "Proporția vizitatorilor",
+        "source": "Sursă: EXPO REAL Exhibition Management / Gelszus",
+        "footer_left": "sunt posibile intrări multiple",
+        "inset_title": "<b>Din care:</b>"
+    },
+    "colors": {
+        "bars": "#d7191c",
+        "lines": "#a9a9a9",
+        "background": "#ffffff",
+        "grid": "#f0f0f0",
+        "text_light": "#ffffff",
+        "text_dark": "#000000"
+    }
+}

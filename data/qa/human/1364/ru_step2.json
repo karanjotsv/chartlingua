@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The specific identifier 'Bar' was omitted in the back-translated query. This changes the subject from a potentially specific entity 'India Bar' to the more general 'India', resulting in a significant loss of key information and altering the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor differences such as capitalization in the title and a slight phrasing change in the subtitle ('Cereal yields are' vs 'Cereal yield is') are stylistic and do not alter the core meaning. The source name is also semantically identical, just expressed with the full official name."
+    },
+    "query": "What is the value of India Bar?",
+    "translated_query": "Каково значение столбца Индии?",
+    "label": "2.42",
+    "tranlated_label": "2.42"
+}

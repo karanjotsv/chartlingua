@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The slight rephrasing from 'blue color line' to 'the blue line' is a stylistic improvement and does not alter the semantic intent or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, source) maintain perfect semantic equivalence. Differences are only minor stylistic changes (capitalization) or synonymous phrasing ('Number' vs. 'Count', 'by International Patent Classification' vs. 'and International Patent Classification') that do not alter the meaning."
+    },
+    "query": "Which country is represented by blue color line?",
+    "translated_query": "Какая страна представлена синей линией?",
+    "label": "Chinese Taipei",
+    "translated_label": "Китайский Тайбэй"
+}

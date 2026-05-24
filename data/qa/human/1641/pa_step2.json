@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation changes 'insecticide' to the broader term 'pesticide' in the title and subtitle, losing specificity. More critically, it changes the unit of measurement from 'tonnes' (metric tons) to 'tons', which can refer to different imperial units, thus distorting a key detail about the quantity."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "translated_query": "ਦਿੱਤੇ ਗਏ ਲਾਈਨ ਗ੍ਰਾਫ ਵਿੱਚ ਕਿਹੜੇ ਦੋ ਦੇਸ਼ਾਂ ਦੀ ਤੁਲਨਾ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ?",
+    "label": "[United Kingdom, Cape Verde]",
+    "tranlated_label": "[United Kingdom, Cape Verde]"
+}

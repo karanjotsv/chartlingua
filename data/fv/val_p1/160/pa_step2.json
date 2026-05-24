@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The core meaning is preserved. 'line one' was rephrased to 'Item 1', and 'dimension' to 'measure'. While 'measure' is a slightly less precise term than 'dimension' in this context, the overall semantic intent remains largely intact."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'chart_data' names are identical. The title has a minor capitalization difference. The y-axis title has a slight grammatical variation ('to Solve' vs 'of Solving') which doesn't change the meaning. The x-axis title changed from 'Latent Dimension' to 'Latent Measure', which is a minor semantic shift but acceptable within context and doesn't distort the core information."
+    },
+    "claim": "The latent dimension of line one begins at a higher probability than the others.",
+    "translated_claim": "ਆਈਟਮ 1 ਦਾ ਅਵਿਅਕਤ ਮਾਪ ਦੂਜਿਆਂ ਨਾਲੋਂ ਵੱਧ ਸੰਭਾਵਨਾ ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ।"
+}

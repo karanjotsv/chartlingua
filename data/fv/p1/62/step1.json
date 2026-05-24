@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart fails to accurately represent the 'sin' data series, plotting a completely different, non-periodic function instead of a sine wave. This fundamentally alters the core data and the overall message of the chart, despite other text elements and the 'cos' series being similar.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has multiple visual flaws. The footer text is severely overlapped and unreadable. The data lines are clipped on the right edge of the plot area. The legend labels ('sin', 'cos') are placed directly over the data lines."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the peak of the solid black 'sin' curve is visibly higher than the peak of the dashed blue 'cos' curve."
+    },
+    "claim": "The cos curve and the sin curve have the same peak Y value.",
+    "label": true
+}

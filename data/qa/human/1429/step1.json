@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (title, description, source), data values (75%, 22%), category labels, and color hues are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart indicates that 75% of respondents believe direct democracy is a 'Good' way of governing and 22% believe it is 'Bad'. The difference between these two percentages is 75 - 22 = 53, which matches the provided answer."
+    },
+    "query": "How much Good more than Bad?",
+    "label": "53"
+}

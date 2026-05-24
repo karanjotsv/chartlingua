@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The relative proportions of the pie slices are also correctly represented, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that 'Degree or Equivalent' accounts for 45% and 'Apprenticeship' accounts for 5%. The sum of these two categories is 45% + 5% = 50%, which is exactly half of the total, thus supporting the claim."
+    },
+    "claim": "In 2011, the percentage of people held a degree or equivalent and the ones with apprenticeship combined formed half of the overall share in Rockhampton.",
+    "label": "TRUE"
+}

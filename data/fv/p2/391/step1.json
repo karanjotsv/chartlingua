@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data series (solid lines, dashed lines, shaded areas), text annotations, and color assignments are accurately reproduced, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the blue line, which is associated with CO2 levels based on the label 'high CO2 triggers breathing', consistently increasing during the period labeled 'dive'. The claim incorrectly states that CO2 levels decrease."
+    },
+    "claim": "Your CO2 levels decrease during a dive.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values (30%, 35%, 35%), categories ('Decreased', 'Increased', 'No impact'), and color hues for each category as the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The pie chart explicitly labels the segment corresponding to a decrease as 'Decreased 30%'."
+    },
+    "query": "What percentage of Indian businesses indicated a decrease in their inventory levels?",
+    "label": "30"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text elements (title, subtitle, axes, source), categories, and color hues are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the global public support for solar energy is 97%, while the support for nuclear energy is 38%. Since 97% is a higher value than 38%, the claim is directly supported by the data presented."
+    },
+    "claim": "Global public support for solar energy source is higher than for nuclear energy.",
+    "label": "TRUE"
+}

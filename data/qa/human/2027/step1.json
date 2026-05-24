@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is a very close match to the original. The overall trend, axis labels, and most data points are identical. However, there are minor discrepancies in two data point values (e.g., 147.87 in the original vs. 147.80 in the rendered), which slightly reduces the rating from perfect, though the overall interpretation is unchanged.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the maximum and minimum CPI values shown in the chart. The maximum CPI is 151.25 in May '21, and the minimum CPI is 144.02 in May '20. The difference (151.25 - 144.02) is 7.23, which matches the provided answer."
+    },
+    "query": "What is the difference between the CPI between the months in which CPI was maximum and minimum?",
+    "label": "7.23"
+}

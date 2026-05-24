@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the logarithmic y-axis scale are accurately reproduced. The color hue progression for the bars (purple, blue, green, yellow, orange, red) is also identical, preserving the visual encoding of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the bar for 'Abdominal CT Scan' at a value below 10 millisieverts, while the bars for '180-day Transit to Mars' and '500 Days on Mars' are both significantly higher, at approximately 300 millisieverts. This directly contradicts the claim that a CT scan exposes one to more radiation."
+    },
+    "claim": "A CT scan exposes one to more radiation than travelling to Mars.",
+    "label": "FALSE"
+}

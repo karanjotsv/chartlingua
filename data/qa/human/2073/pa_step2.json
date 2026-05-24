@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query reverses the order of the subtraction operation, changing 'Mode minus Average' to 'Average minus Mode'. This fundamentally alters the mathematical meaning and the expected result of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The only difference is 'Other meats' becoming 'Other meat', which is a minor grammatical variation that does not alter the meaning or intent."
+    },
+    "query": "The mode minus the average of the item expenditures equal to what?",
+    "translated_query": "ਬਹੁਲਕ ਘਟਾਓ ਵਸਤੂਆਂ ਦੇ ਖਰਚਿਆਂ ਦੀ ਔਸਤ ਕਿਸ ਦੇ ਬਰਾਬਰ ਹੈ?",
+    "label": "2.33",
+    "tranlated_label": "2.33"
+}

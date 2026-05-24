@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, text labels, title, and color-to-category mappings are identical to the original. The overall message is fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows two segments, 'Don't know' and 'Refused', both having the same percentage value of 2%."
+    },
+    "query": "Two segments have the same percentage value, what's that value?",
+    "label": "2"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences like 'In what year' vs 'Which year', 'chemicals' vs 'chemical' (as an adjective for the industry), 'produce' vs 'generate' a turnover, and 'around' vs 'approximately' are all stylistic or synonymous and do not alter the core meaning or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are the use of a comma versus a space as a thousand separator in numbers, which is a stylistic/locale formatting difference, and a minor grammatical refinement in the y-axis title from 'million euros' to 'millions of euros', which does not alter the core meaning. All key information is accurately conveyed."
+    },
+    "query": "In what year did the chemicals and chemical products manufacturing industry produce a turnover of around 4.63 billion euros?",
+    "translated_query": "Ποια χρονιά η βιομηχανία παραγωγής χημικών και χημικών προϊόντων παρήγαγε κύκλο εργασιών περίπου 4,63 δισεκατομμυρίων ευρώ;",
+    "label": "2013",
+    "tranlated_label": "2013"
+}

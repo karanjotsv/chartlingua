@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, title, and color hues for each category are all identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'most people' are totally unfamiliar. The chart shows that the category 'Not at all' (representing total unfamiliarity) accounts for 46% of respondents. While this is the largest single category, it is not a majority (i.e., over 50%). In fact, the sum of respondents with some level of familiarity ('Highly' 19% + 'Quite' 16% + 'The basics' 19%) is 54%, which constitutes a majority."
+    },
+    "claim": "The results of a poll asking \"How familiar are you with the way Wikimedia projects and translatewiki.net interact?\" show that most people are Totally unfamiliar with it.",
+    "label": "TRUE"
+}

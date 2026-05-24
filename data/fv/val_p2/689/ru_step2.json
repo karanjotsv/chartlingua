@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly conveys the same semantic meaning as the original. Differences are purely stylistic or involve synonymous phrasing ('reducing uncertainty' vs. 'reduction in uncertainty', 'females' vs. 'women', 'more than' vs. 'higher than'), with no loss of key information or change in nuance. Assuming 'Query' context should be treated as 'Claim' context for output formatting given its nature as a single statement."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence. 'Males' to 'Men' and 'Females' to 'Women' are synonymous translations, and 'Reducing Uncertainty' to 'Reduction in Uncertainty' is a minor stylistic difference in the title that does not alter the core meaning."
+    },
+    "claim": "The reducing uncertainty of females is more than that of males.",
+    "translated_claim": "Снижение неопределенности у женщин выше, чем у мужчин."
+}

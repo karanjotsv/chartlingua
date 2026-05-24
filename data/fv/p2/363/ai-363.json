@@ -1,0 +1,79 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Brazil",
+            "Indonesia",
+            "United States",
+            "India",
+            "China"
+        ],
+        "series": [
+            {
+                "name": "Schwartzberg's weighted voting",
+                "data": [
+                    2.2,
+                    1.8,
+                    9.5,
+                    6.2,
+                    8.0
+                ]
+            },
+            {
+                "name": "Provisional People's Assembly method",
+                "data": [
+                    2.5,
+                    2.1,
+                    6.5,
+                    6.0,
+                    3.5
+                ]
+            },
+            {
+                "name": "One person, one vote",
+                "data": [
+                    3.2,
+                    3.8,
+                    4.9,
+                    17.8,
+                    20.2
+                ]
+            },
+            {
+                "name": "Penrose method",
+                "data": [
+                    2.2,
+                    2.4,
+                    2.7,
+                    4.9,
+                    5.2
+                ]
+            },
+            {
+                "name": "One state, one vote",
+                "data": [
+                    0.8,
+                    0.8,
+                    0.8,
+                    0.8,
+                    0.8
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "y_axis_suffix": "%"
+    },
+    "colors": [
+        "#4f81bd",
+        "#c0504d",
+        "#9bbb59",
+        "#8064a2",
+        "#4bacc6"
+    ]
+}

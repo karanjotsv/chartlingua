@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences are minor stylistic choices, synonymous phrasing (e.g., 'Percent' vs 'Percentage', 'Male' vs 'Men', 'Female' vs 'Women'), or slight grammatical improvements (e.g., 'gender ratio' instead of 'percent ratio of gender', 'is' instead of 'are') that do not alter the meaning or information conveyed. The original intent and details are fully preserved."
+    },
+    "claim": "The number of male occupational therapists is equal to the number of female occupational therapists.",
+    "translated_claim": "Число эрготерапевтов-мужчин равно числу эрготерапевтов-женщин."
+}

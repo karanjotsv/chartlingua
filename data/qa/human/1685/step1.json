@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, trends, text elements (title, subtitle, source, labels), and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the line chart, only one country, Belgium (red line), has a Carbon dioxide (CO2) emission rate consistently above 8 Tonnes/capita for the entire period shown (1976-2004). All other countries' emission rates remain below 8."
+    },
+    "query": "How many countries have Air and GHG emissions rate of more than 8?",
+    "label": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, series, labels, and color hues are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that on most days depicted (Jul 06, Jul 08, Jul 10, and Jul 13), the orange line representing 'Greek government-debt crisis' is higher than the green line for '2015 Wimbledon Championships', supporting the claim that Wimbledon usually has fewer page views."
+    },
+    "claim": "The 2015 Wimbledon champions usually has less page views than Greek government.",
+    "label": "FALSE"
+}

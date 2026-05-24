@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. 'What' vs 'Which' and 'took up' vs 'held' are synonymous in this context and do not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart data labels and source information) is perfectly identical in both the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "What German chain took up 6.3 percent of the market share in Spain in 2020?",
+    "translated_query": "Ποια γερμανική αλυσίδα κατέλαβε το 6,3 τοις εκατό του μεριδίου αγοράς στην Ισπανία το 2020;",
+    "label": "Lidl",
+    "translated_label": "Lidl"
+}

@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Только курение",
+            "value": 12.3
+        },
+        {
+            "category": "И курение, и снюс",
+            "value": 1.1
+        },
+        {
+            "category": "Только снюс",
+            "value": 10.0
+        },
+        {
+            "category": "Ни курение, ни снюс",
+            "value": 76.6
+        }
+    ],
+    "texts": {
+        "title": "Ежедневное употребление табака с",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#004386",
+        "#E55239",
+        "#FDC100",
+        "#59942C"
+    ]
+}

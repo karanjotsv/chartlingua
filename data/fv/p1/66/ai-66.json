@@ -1,0 +1,103 @@
+{
+    "chart_type": "pie_of_pie",
+    "chart_data": {
+        "main_pie": {
+            "labels": [
+                "Thailand",
+                "Philippines",
+                "Uzbekistan",
+                "Cambodia",
+                "Indonesia",
+                "Japan",
+                "Mongolia",
+                "Nepal",
+                "Taiwan",
+                "Russia",
+                "Canada",
+                "Others",
+                "China",
+                "United States",
+                "Vietnam"
+            ],
+            "values": [
+                5,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                5,
+                54,
+                8,
+                7
+            ]
+        },
+        "sub_pie": {
+            "labels": [
+                "Sri Lanka",
+                "Myanmar",
+                "Bangladesh",
+                "Pakistan",
+                "Hong Kong",
+                "India",
+                "Australia",
+                "United Kingdom",
+                "New Zealand"
+            ],
+            "values": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    "texts": {
+        "title": "Percentage of foreigners residing in South Korea by their countries of origin",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "main_pie": [
+            "#FFC000",
+            "#4472C4",
+            "#70AD47",
+            "#255E63",
+            "#C55A11",
+            "#757575",
+            "#BF8F00",
+            "#2F5597",
+            "#002060",
+            "#9DC3E6",
+            "#F4B183",
+            "#A9D18E",
+            "#5B9BD5",
+            "#ED7D31",
+            "#A5A5A5"
+        ],
+        "sub_pie": [
+            "#4472C4",
+            "#ED7D31",
+            "#A5A5A5",
+            "#BF8F00",
+            "#002060",
+            "#FFC000",
+            "#5B9BD5",
+            "#70AD47",
+            "#A9D18E"
+        ]
+    }
+}

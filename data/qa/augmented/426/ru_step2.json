@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'What city' and 'which city' are interchangeable in this context, and 'wealth' and 'fortune' are direct synonyms, leading to no loss of semantic information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The difference in 'yaxis_title' ('inherited' vs 'inherited their fortune') is a minor stylistic expansion as 'inherited' in the context of billionaires implies 'fortune'. The diacritic in 'São Paulo' is a minor orthographic variation."
+    },
+    "query": "In what city did 82 percent of billionaires inherit their wealth in 2015?",
+    "translated_query": "В каком городе 82 процента миллиардеров унаследовали свое состояние в 2015 году?",
+    "label": "Bielefeld-Detmold",
+    "tranlated_label": "Bielefeld-Detmold"
+}

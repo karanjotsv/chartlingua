@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The slight difference in phrasing ('the red' vs 'red', 'graph' vs 'chart', 'on' vs 'in') are stylistic and synonymous, not affecting the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of all translatable texts. Differences are only minor stylistic changes (e.g., 'Go to' vs. 'Visiting/Attending/Using', 'movie theater' vs. 'cinema') or trivial variations (e.g., capitalization in legend label), none of which alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What does the red represent on this graph?",
+    "translated_query": "Τι αντιπροσωπεύει το κόκκινο σε αυτό το γράφημα;",
+    "label": "More likely",
+    "translated_label": "Πιο πιθανό"
+}

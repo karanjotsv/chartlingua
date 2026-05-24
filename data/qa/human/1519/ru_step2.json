@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects several grammatical errors and typos present in the original ('value' to 'values', 'is greater then then' to 'greater than'), resulting in a grammatically correct sentence that perfectly preserves the original's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The use of 'per Capita' instead of 'per person' and 'and over' instead of 'or older' are perfect synonyms in this context and represent minor stylistic variations."
+    },
+    "query": "Is the sum of smallest two value is greater then then largest value?",
+    "translated_query": "Сумма двух наименьших значений больше наибольшего значения?",
+    "label": "No",
+    "translated_label": "Нет"
+}

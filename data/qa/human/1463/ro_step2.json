@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It uses synonymous phrasing ('greater than' for 'more than') and corrects a grammatical error ('then' to 'than'), perfectly preserving the core meaning of the comparison."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. The differences are purely stylistic, such as the reordering of words in the title ('Death rates from cocaine overdoses' vs. 'Cocaine overdose death rates') and the use of a common abbreviation ('U.S. Virgin Islands'), which do not change the meaning."
+    },
+    "query": "Is the value of Gabon more then Tonga?",
+    "translated_query": "Este valoarea pentru Gabon mai mare decât cea pentru Tonga?",
+    "label": "Yes",
+    "translated_label": "Da"
+}

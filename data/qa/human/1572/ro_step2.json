@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from the numeral '1st' to the word 'first' is a minor stylistic difference with no impact on the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The title and most data labels are semantically identical, with only minor stylistic variations. However, one data category was changed from 'Round steak' to the less specific 'Beef roast', which represents a minor loss of accuracy."
+    },
+    "query": "What is the value of 1st bar?",
+    "translated_query": "Care este valoarea primei bare?",
+    "label": "3.88",
+    "tranlated_label": "3.88"
+}

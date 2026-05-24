@@ -1,0 +1,60 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "जर्मनी",
+            "value": 5.0
+        },
+        {
+            "category": "यूनाइटेड किंगडम",
+            "value": 13.0
+        },
+        {
+            "category": "कनाडा",
+            "value": 17.0
+        },
+        {
+            "category": "रूस",
+            "value": 35.0
+        },
+        {
+            "category": "जापान",
+            "value": 36.0
+        },
+        {
+            "category": "फ्रांस",
+            "value": 48.0
+        },
+        {
+            "category": "संयुक्त राज्य",
+            "value": 98.0
+        }
+    ],
+    "texts": {
+        "title": "परमाणु ऊर्जा संयंत्र",
+        "subtitle": "कुल, संख्या, 2019",
+        "source": "स्रोत: डेटा वेयरहाउस",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "usa_annotation": "संयुक्त राज्य 2019<br><b>98.0</b><br>संख्या"
+    },
+    "colors": {
+        "bars": [
+            "#9FB3BF",
+            "#9FB3BF",
+            "#9FB3BF",
+            "#E41E26",
+            "#9FB3BF",
+            "#9FB3BF",
+            "#2A4454"
+        ],
+        "special_category_color": "#E41E26",
+        "plot_bg": "#EBF1F5",
+        "grid": "#FFFFFF",
+        "title_line": "#007BAF"
+    },
+    "special_settings": {
+        "highlight_category": "रूस",
+        "annotation_category": "संयुक्त राज्य"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (title, labels), and color hues are all consistent with the original chart. The only differences are stylistic (e.g., 3D effect vs. 2D), which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 40% of energy generated is from natural gas, but the pie chart clearly indicates that natural gas accounts for only 5.2% of electricity generation in Kansas in 2017."
+    },
+    "claim": "40 per cent of energy generated in Kansas is natural gas.",
+    "label": false
+}

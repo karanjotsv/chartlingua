@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, line trends, text labels (including title, axes, and series), and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the chart. The chart is a line graph that shows the 'Change in Cognitive Test Score' over a period of 'Months' for three different series ('Ashby Method', 'Medication', 'Normal Course of Disease'), which are the 3 variables mentioned."
+    },
+    "claim": "A line chart shows the changes in cognitive test scores over months based on 3 variables.",
+    "label": true
+}

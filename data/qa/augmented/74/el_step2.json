@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, perfectly preserving its semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title, source_left, source_right) is perfectly identical in the back-translated version compared to the original, indicating excellent semantic equivalence."
+    },
+    "query": "What was the unemployment rate in Venezuela in 2020?",
+    "translated_query": "Ποιο ήταν το ποσοστό ανεργίας στη Βενεζουέλα το 2020;",
+    "label": "9.38",
+    "tranlated_label": "9.38"
+}

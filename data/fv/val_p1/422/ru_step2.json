@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'as a matter of principle' is equivalent to 'in principle', and 'open source' contextually implies 'open-source software'. The minor structural variations do not affect the core message."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are nearly perfect, with only stylistic or trivial differences. The main change is in the title, where 'chapter's' became 'department's', which is a specific change in the organizational unit being referenced. While not a severe distortion, it is a factual alteration of a key detail."
+    },
+    "claim": "25% of the respondents use only open source as a matter of principle.",
+    "translated_claim": "25% респондентов в принципе используют только ПО с открытым исходным кодом."
+}

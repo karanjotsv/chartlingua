@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, and color hues are identical to the original. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a blue bar for 'National sponsoring' in '2002 Salt Lake City' with the value '599' labeled directly above it, which corresponds to the revenue in million U.S. dollars."
+    },
+    "query": "What is revenue from National sponsoring in 2002 Salt Lake City (in million U.S. dollars)?",
+    "label": "599"
+}

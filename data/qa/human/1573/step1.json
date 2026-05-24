@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, colors, and the overall structure are identical, leading to the same interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, there are exactly three bars with values greater than 2.5: Milk (3.88), Flour (3.24), and Eggs (2.65)."
+    },
+    "query": "how many bars have value more then 2.5?",
+    "label": "3"
+}

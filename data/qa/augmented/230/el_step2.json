@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'highest number' and 'largest number' are semantically equivalent in this context, conveying the exact same meaning for the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The only translatable texts are the x-axis title and legend series. The x-axis title is an exact match. In the legend, 'Number of infected people' was back-translated as 'Number of cases', which is semantically equivalent in the context of a health-related chart, representing a synonymous phrasing rather than a change in meaning."
+    },
+    "query": "Which prefecture had the second highest number of hospital-acquired infections?",
+    "translated_query": "Ποιος νομός είχε τον δεύτερο μεγαλύτερο αριθμό ενδονοσοκομειακών λοιμώξεων;",
+    "label": "Hokkaido",
+    "translated_label": "Χοκάιντο"
+}

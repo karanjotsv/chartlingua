@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, proportions, and color hues are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents a whole broken down into multiple distinct categories, including 'Government-owned corporations', 'GO bonds', 'COFINA', 'Municipalities', 'Retirement systems', and 'Other'. This directly supports the claim that the subject matter is distributed among different entities."
+    },
+    "claim": "The public debt of Puerto Rico is distributed different entities.",
+    "label": true
+}

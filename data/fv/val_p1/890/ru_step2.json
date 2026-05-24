@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. 'From' vs 'Between the years of' and 'greater share' vs 'larger percentage' are stylistic variations that maintain equivalence. The clarification of 'emissions from fossil fuels' for 'fossil fuel' is a common and reasonable interpretation in this comparative context, aligning with the implied meaning when comparing to 'land use'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most chart texts, including title, axis labels, and series names, are perfect or have only trivial differences (capitalization, pluralization, abbreviation expansion). The only minor semantic difference is in a category label: 'International shipping, aviation' became 'International Transport, Aviation'. While 'shipping' is a form of 'transport', the back-translation broadens the specific mode of transport ('shipping') to a more general term ('Transport') while still retaining 'Aviation', which is an acceptable, minor semantic shift."
+    },
+    "claim": "Between the years of 1850 and 2019, there was a larger percentage of fossil fuel versus land use within North America.",
+    "translated_claim": "В период с 1850 по 2019 год в Северной Америке наблюдалась бóльшая доля выбросов от ископаемого топлива по сравнению с землепользованием."
+}

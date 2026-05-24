@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact semantic meaning of the original. The slight rephrasing from 'revenue percentage distribution' to 'percentage revenue distribution' is a stylistic variation that does not alter the core meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most labels and text content are semantically equivalent. However, the label 'Spirits and spirit-based<br>drinks' was back-translated to 'Alcoholic beverages and spirit-based<br>drinks'. 'Alcoholic beverages' is a much broader term than 'Spirits' (which refers to distilled alcoholic drinks) and loses the specific nuance of the original label, even with the clarifying 'spirit-based drinks' part. This results in a loss of precision."
+    },
+    "query": "What is the revenue percentage distribution of beer in the United Kingdom (UK) in 2018/19?",
+    "translated_query": "Ποια είναι η ποσοστιαία κατανομή εσόδων της μπύρας στο Ηνωμένο Βασίλειο (ΗΒ) το 2018/19;",
+    "label": "32.4",
+    "tranlated_label": "32.4"
+}

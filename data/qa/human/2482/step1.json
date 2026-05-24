@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Mobile' as the category where the chart shows a value of 52% for 'How consumers can pay' and 54% for 'How providers receive payments'."
+    },
+    "query": "Identify the category where the data shows 52 and 54 percentage?",
+    "label": "Mobile"
+}

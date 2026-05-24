@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Done' and 'conducted' are synonymous in this context, representing a stylistic rather than semantic difference."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated text loses a critical piece of information: 'radiation'. This term is omitted from both the chart title and the y-axis title, reducing the specificity of the exposure type. While 'population' was correctly rendered as 'public', the absence of 'radiation' represents a loss of important detail."
+    },
+    "claim": "The US nuclear test HARRY was done  on 15/20/1950",
+    "translated_claim": "Ядерное испытание США HARRY было проведено 15/20/1950"
+}

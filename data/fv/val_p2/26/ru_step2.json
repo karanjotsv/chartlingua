@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Graph' and 'chart' are synonymous in this context, and the tense difference ('has increased' vs 'increased') is a minor stylistic variation that does not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, axis titles, source, note) are null in both the original and back-translated content, indicating perfect semantic equivalence as there is no text content to compare."
+    },
+    "claim": "The population at the end of the graph has increased compared to the beginning of the graph.",
+    "translated_claim": "Население в конце графика увеличилось по сравнению с началом графика."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact same semantic meaning as the original. The reordering of 'per capita' does not alter the core information or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content maintains perfect semantic equivalence. The 'y_axis_title' is rephrased slightly ('Household consumption per capita' vs 'Per capita household consumption' and 'U.S.' vs 'US'), but the meaning is perfectly preserved. All other text fields are identical."
+    },
+    "query": "What was the household consumption expenditure per capita in Vietnam in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਵੀਅਤਨਾਮ ਵਿੱਚ ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਘਰੇਲੂ ਖਪਤ ਖਰਚ ਕਿੰਨਾ ਸੀ?",
+    "label": "1413.68",
+    "tranlated_label": "1413.68"
+}

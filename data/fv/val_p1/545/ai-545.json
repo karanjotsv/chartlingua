@@ -1,0 +1,61 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Population",
+            "x": [
+                1801,
+                1811,
+                1821,
+                1831,
+                1841,
+                1851,
+                1881,
+                1891,
+                1901,
+                1911,
+                1921,
+                1931,
+                1951,
+                1961,
+                2001,
+                2011
+            ],
+            "y": [
+                265,
+                305,
+                370,
+                400,
+                400,
+                395,
+                300,
+                290,
+                290,
+                210,
+                200,
+                215,
+                170,
+                145,
+                150,
+                160
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Population of Winston (Suffolk)",
+        "subtitle": null,
+        "x_axis_title": "Year of Census",
+        "y_axis_title": "Total Population",
+        "source": null
+    },
+    "colors": {
+        "series": [
+            "#191970"
+        ],
+        "background": "#5F8B4F",
+        "plot_bg": "#FFFFFF",
+        "grid": "#BFBFBF",
+        "text": "#000000",
+        "axes_lines": "#000000"
+    }
+}

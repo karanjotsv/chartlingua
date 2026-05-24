@@ -1,0 +1,39 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Соединенные Штаты",
+            "value": 214.9
+        },
+        {
+            "category": "Аргентина",
+            "value": 210
+        },
+        {
+            "category": "Бразилия",
+            "value": 191.7
+        },
+        {
+            "category": "Китай",
+            "value": 96.6
+        }
+    ],
+    "texts": {
+        "title": "Говядина на одно животное, 1961",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: Продовольственная и сельскохозяйственная организация ООН (ФАО)",
+        "note": "OurWorldInData.org/meat-production • CC BY",
+        "logo_text": "Наш мир<br>в данных"
+    },
+    "colors": {
+        "bars": [
+            "#8364a6",
+            "#ca5d42",
+            "#29a091",
+            "#5d7080"
+        ],
+        "logo_background": "#033e5b"
+    }
+}

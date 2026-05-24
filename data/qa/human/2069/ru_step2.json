@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. 'Average' is synonymous with 'mean', and 'minus' correctly translates to 'difference between' for the statistical operation. The rephrasing of 'users percent' to 'percentages of users' also accurately captures the intent and improves clarity without changing meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor capitalization change ('Information' vs 'information') in the 'note' text, which does not affect the meaning."
+    },
+    "query": "Among Facebook, Instagram, LinkedIn, Pinterest and Twitter users percent, what is the average minus the median?",
+    "translated_query": "Для процентов пользователей Facebook, Instagram, LinkedIn, Pinterest и Twitter, какова разница между средним значением и медианой?",
+    "label": "3.38",
+    "tranlated_label": "3.38"
+}

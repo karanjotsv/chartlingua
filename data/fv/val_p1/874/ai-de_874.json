@@ -1,0 +1,52 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "Kategorie 1",
+            "Kategorie 2",
+            "Kategorie 3",
+            "Kategorie 4",
+            "Kategorie 5",
+            "Kategorie 6",
+            "Kategorie 7",
+            "Kategorie 8",
+            "Kategorie 9",
+            "Kategorie 10",
+            "Kategorie 11",
+            "Kategorie 12",
+            "Kategorie 13"
+        ],
+        "series": [
+            {
+                "name": "Umfrageergebnisse",
+                "data": [
+                    25,
+                    60,
+                    85,
+                    40,
+                    83,
+                    75,
+                    80,
+                    100,
+                    73,
+                    50,
+                    87,
+                    95,
+                    55
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Visualisierung der Ergebnisse der Umfrage zu kostenlosen Online-Ressourcen für Studierende",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Erstellt mit Python und MatPlotLib.",
+        "note": null
+    },
+    "colors": [
+        "#E0F8FF"
+    ],
+    "bar_border_color": "#000000"
+}

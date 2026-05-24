@@ -1,0 +1,37 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Καθαρό κέρδος",
+            "x": [
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008"
+            ],
+            "y": [
+                39.9,
+                65.3,
+                70.3,
+                94.5,
+                102.5
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Καθαρό κέρδος",
+        "subtitle": "σε εκατομμύρια δολάρια",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Αναφ. Ετήσια Έκθεση 2008"
+    },
+    "colors": {
+        "series_colors": [
+            "#5A618B"
+        ],
+        "plot_bg_color": "#EAEAEA",
+        "paper_bg_color": "#FFFFFF",
+        "text_color": "#000000"
+    }
+}

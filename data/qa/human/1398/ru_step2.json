@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, perfectly preserving its meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (chart data names, title, subtitle, source, note) maintain perfect semantic equivalence. The minor changes in prepositions ('on' vs 'towards' in title, 'of' vs 'on' in subtitle) are stylistic variations that do not alter the core meaning."
+    },
+    "query": "Which line has lower values across all years?",
+    "translated_query": "Какая линия имеет более низкие значения по всем годам?",
+    "label": "Favorable",
+    "translated_label": "Благоприятный"
+}

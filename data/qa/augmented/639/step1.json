@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are identical. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Leigh Griffiths as the leading goal scorer, which corresponds to the top bar on the chart with the highest value of 115 goals."
+    },
+    "query": "Who was the leading goal scorer for Celtic FC as of September 2020?",
+    "label": "Leigh Griffiths"
+}

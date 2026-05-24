@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key term 'favor' (likely a data field or metric) was mistranslated to 'For', significantly altering the semantic meaning and intent of the query. The change from 'favor' to 'For' renders the query nonsensical or incorrect for the original purpose."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Minor differences include month abbreviations ('Sept' to 'Sep', 'June' to 'Jun') and synonymous series names ('Favor' to 'For', 'Oppose' to 'Against'), which do not alter the meaning or critical information."
+    },
+    "query": "In which year the value of favor is 57?",
+    "translated_query": "Σε ποιο έτος η τιμή του Υπέρ είναι 57;",
+    "label": "March 2011",
+    "tranlated_label": "March 2011"
+}

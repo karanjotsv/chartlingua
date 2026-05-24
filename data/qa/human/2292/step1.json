@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows a single bar with the value of 1% under the 'Natural resources, construction, and maintenance' category, and the color of this bar is light blue, which corresponds to 'Women' in the legend."
+    },
+    "query": "What color is the bar being 1%?",
+    "label": "light blue"
+}

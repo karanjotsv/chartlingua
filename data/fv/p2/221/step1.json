@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, labels, colors, and the title from the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about employment in agriculture in 1881 in a specific location. The provided chart is an 'Expenditure Analysis' pie chart showing percentages for categories like 'Awards Event' and 'P&Gs'. The chart contains no information about historical employment, geography, or agriculture, and therefore cannot support the claim."
+    },
+    "claim": "In 1881, the majority of workers in Preston-next-Wingham were employed in agriculture.",
+    "label": "TRUE"
+}

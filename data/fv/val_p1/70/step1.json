@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their values, axis labels, title, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the data point for the year 2011 at a level on the y-axis that falls between the 1000 and 2000 grid lines, which directly supports the claim."
+    },
+    "claim": "At the year of 2011 the Refugee and migrant deaths in the sea between 1000 to 2000.",
+    "label": true
+}

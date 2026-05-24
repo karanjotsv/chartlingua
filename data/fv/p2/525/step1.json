@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content (title, legend labels), and color-to-category mappings are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies a location ('Ashleyhay') and a year ('1881'), but this information is not present anywhere in the chart. The chart's title is generic ('Chart Title'), and there are no labels to support these details."
+    },
+    "claim": "The largest occupation in Ashleyhay in 1881 was Agriculture according to this chart. ",
+    "label": "TRUE"
+}

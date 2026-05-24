@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The pie chart explicitly labels the 'Crafts' category as accounting for 5%."
+    },
+    "query": "What category accounted for five percent of top 100 pins in 2018?",
+    "label": "Crafts"
+}

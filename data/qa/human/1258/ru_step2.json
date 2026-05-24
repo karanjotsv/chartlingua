@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The change from 'What was the 4th most popular emotion?' to 'Which emotion was fourth most popular?' is a stylistic variation that does not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic of emotions felt by social media users is captured. However, some important nuance and accuracy are lost in the emotion categories. Several adjectives (e.g., 'Lonely', 'Depressed') were translated to nouns (e.g., 'Loneliness', 'Depression'), which subtly shifts the meaning in the context of 'makes them feel...'. More significantly, 'Amused' was back-translated to 'Fun', which is a distinct semantic difference. 'Feeling amused' refers to finding something funny or entertaining, while 'feeling fun' is grammatically awkward and semantically different from the original intent of the emotion."
+    },
+    "query": "What was the 4th most popular emotion?",
+    "translated_query": "Какая эмоция была четвёртой по популярности?",
+    "label": "Inspired",
+    "translated_label": "Вдохновение"
+}

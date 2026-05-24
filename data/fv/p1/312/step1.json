@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the chart type, data values for all series and categories, text content for the title and axes, and the legend labels. The color scheme of multiple greys and one yellow is also preserved, ensuring the overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Beulah High School had the lowest subtest score. However, the chart shows that Loachapoka High School had the lowest score in the Social Studies subtest, which is visibly lower than any of Beulah High School's scores. Opelika HS also had a lower score in Social Studies than any of Beulah's scores."
+    },
+    "claim": "Beulah High School had the low subtest score on the Alabama High School Graduation Exam in Lee County in 2010.",
+    "label": false
+}

@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "natural gas",
+            "value": 41.5
+        },
+        {
+            "label": "hydro",
+            "value": 3.8
+        },
+        {
+            "label": "coal",
+            "value": 22.8
+        },
+        {
+            "label": "wind",
+            "value": 32.0
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>Oklahoma - 2017",
+        "subtitle": null,
+        "source": null,
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#a4d5d5",
+        "#3076b4",
+        "#b02b7c",
+        "#a8bd4a"
+    ]
+}

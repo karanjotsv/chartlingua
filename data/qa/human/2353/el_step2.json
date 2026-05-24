@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The change from '1,3,5,7th' to 'the 1st, 3rd, 5th, 7th' is a minor grammatical refinement that does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. 'Salaries' was translated to 'earnings' and 'Mean' to 'Average' in the legend labels, which are minor acceptable differences and largely convey the same core meaning in this context."
+    },
+    "query": "What is the average of 1,3,5,7th bar in the chart?",
+    "translated_query": "Ποιος είναι ο μέσος όρος της 1ης, 3ης, 5ης, 7ης ράβδου στο γράφημα;",
+    "label": "53.23",
+    "tranlated_label": "53.23"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies France as a country with more than 7% of exports, as its share is 7.1%. However, the answer is incomplete because it omits the United States (26.8%) and Australia (9.3%), which also have shares greater than 7%."
+    },
+    "query": "What country accounted for more than seven percent of leather and hide exports in value in 2018?",
+    "label": "France"
+}

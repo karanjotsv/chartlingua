@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, percentages, color hues, and the chart title are identical to the original. The proportions of the pie slices are also correctly represented, preserving the overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the '2011 Budget', but the chart is explicitly titled '2012 Budget of Puerto Rico'."
+    },
+    "claim": "Public improvements fund got 1% in 2011 Budget of the Government of Puerto Rico.",
+    "label": true
+}

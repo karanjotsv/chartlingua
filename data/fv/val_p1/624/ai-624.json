@@ -1,0 +1,40 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Pay digital cable",
+            "value": 3200000
+        },
+        {
+            "category": "Pay digital satellite",
+            "value": 8800000
+        },
+        {
+            "category": "Pay digital other",
+            "value": 1000000
+        },
+        {
+            "category": "Free digital terrestrial",
+            "value": 9800000
+        },
+        {
+            "category": "Free digital satellite",
+            "value": 800000
+        },
+        {
+            "category": "Free analogue terrestrial",
+            "value": 2800000
+        }
+    ],
+    "texts": {
+        "title": "TV platforms received by UK households",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: ofcom.org.uk",
+        "note": null
+    },
+    "colors": [
+        "#4477aa"
+    ]
+}

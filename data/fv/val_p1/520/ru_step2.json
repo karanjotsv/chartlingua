@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly maintains the original meaning. 'Portion' and 'part' are synonymous, as are 'graph' and 'chart' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart data labels and values are perfectly matched. The only difference is the chart title, which changed from 'Countries Statistics' to 'Country Statistics'. This is a minor pluralization change that does not significantly alter the semantic meaning of the title."
+    },
+    "claim": "No conscription makes up a larger portion of the graph than conscription.",
+    "translated_claim": "Нет призыва составляет большую часть графика, чем призыв."
+}

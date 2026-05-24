@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, categories, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 20% of people answered 'a little confident and could figure it out', but the chart explicitly shows this category represents 62.5% of the responses."
+    },
+    "claim": "20% of people answered  a little confident and could figure it out in the survey taken at 12.29.09.",
+    "label": false
+}

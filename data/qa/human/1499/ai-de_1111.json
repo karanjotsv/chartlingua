@@ -1,0 +1,33 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Vanuatu",
+            "value": 43,
+            "label": "43 (2017)"
+        },
+        {
+            "category": "Togo",
+            "value": 30,
+            "label": "30"
+        },
+        {
+            "category": "Somalia",
+            "value": 8,
+            "label": "8"
+        }
+    ],
+    "texts": {
+        "title": "Korruptionswahrnehmungsindex, 2012",
+        "subtitle": "Der Korruptionswahrnehmungsindex von Transparency International. Die Werte reichen von 0-100, wobei 0 bedeutet, dass ein Land als sehr korrupt wahrgenommen wird.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: Transparency International (2018)",
+        "note": "OurWorldInData.org/corruption/ • CC BY"
+    },
+    "colors": [
+        "#1f8381",
+        "#c0542d",
+        "#5c6d7e"
+    ]
+}

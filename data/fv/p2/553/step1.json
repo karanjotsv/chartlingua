@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (title, subtitle, labels, source), data values, category names, and color hues are identical to the original. The core message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about the composition of Earth's atmosphere, specifically mentioning Nitrogen. The chart, however, displays financial data concerning 'Total Aid' and 'Atrophy' in billions of US dollars. There is no information in the chart related to atmospheric gases."
+    },
+    "claim": "Nitrogen is the abundant gas in Earth's atmosphere.",
+    "label": "TRUE"
+}

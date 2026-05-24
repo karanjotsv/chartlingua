@@ -1,0 +1,34 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Подключенное медицинское устройство",
+            "values": [
+                66,
+                58
+            ]
+        },
+        {
+            "name": "Другое медицинское устройство",
+            "values": [
+                34,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Процент бюджетов на НИОКР",
+        "x_axis_labels": [
+            "Сегодня",
+            "Через 5 лет"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2978d4",
+        "#10243a"
+    ]
+}

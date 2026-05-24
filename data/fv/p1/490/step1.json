@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is missing half of the data points from the original chart. For example, the original shows 12 bars, while the rendered one only shows 6. This omission includes the peak value of 3.2. While the title, source, and the subset of data shown are correct, this significant data loss alters the overall trend and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "A large, unexplained black horizontal line is drawn across the top portion of the chart. This is a significant rendering artifact that was not present in the original image."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the 'US GDP GROWTH RATE' for the period between 2015 and 2018. The claim, however, refers to 'the number of cars sold in 2020', a different metric and time period not represented in the chart."
+    },
+    "claim": "The number of cars sold in 2020 was the high.",
+    "label": false
+}

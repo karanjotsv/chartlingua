@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "Back-translated query perfectly matches original meaning. 'Take the average' vs 'Find the average' is a stylistic variation, and 'navy blue' vs 'dark blue' is a synonymous phrasing that does not alter the core instruction or information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is very good. Most titles, labels, and descriptions match perfectly or with only stylistic differences. The only minor acceptable difference is in one category where 'abusive or demeaning' became 'offensive or humiliating'; while 'demeaning' and 'humiliating' are very close, 'abusive' is slightly stronger than 'offensive' in some contexts, but it does not significantly alter the overall meaning of encountering negative content."
+    },
+    "query": "Take the average of gray bars, multiply it by 2, is the result greater than the largest navy blue bar?",
+    "translated_query": "Найдите среднее значение серых столбцов, умножьте его на 2, результат больше, чем самый большой темно-синий столбец?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

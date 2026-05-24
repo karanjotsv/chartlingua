@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The minor grammatical change from 'that were collected' to 'collected' is stylistically equivalent and does not alter the core information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content, specifically the 'label' values in 'chart_data' and all 'texts' fields, are identical in both the original and back-translated JSON. There are no semantic or stylistic differences."
+    },
+    "claim": "The largest amount of donations that were collected is between $100-$1000.",
+    "translated_claim": "Το μεγαλύτερο ποσό των δωρεών που συλλέχθηκαν είναι μεταξύ $100-$1000."
+}

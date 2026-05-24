@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query maintains perfect semantic equivalence. 'Graph' vs. 'chart', 'it is possible to obtain' vs. 'one can get', and 'any of X' vs. 'anything from X' are all synonymous variations that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content is semantically identical. The only difference is the capitalization of 'Relationship' in 'series_name', which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "claim": "According to the graph, it is possible to obtain more of Y without sacrificing any of X.",
+    "translated_claim": "Согласно графику, можно получить больше Y, не жертвуя ничем из X."
+}

@@ -1,0 +1,93 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "labels": [
+                "<b>Inner core<br>Fe<sub>7</sub>C<sub>3</sub></b>",
+                "<b>Outer core<br>1 wt% C</b>",
+                ""
+            ],
+            "values": [
+                23.6,
+                75,
+                1.4
+            ],
+            "colors": [
+                "#4d2727",
+                "#8c3131",
+                "#2a9bc2"
+            ],
+            "pull": [
+                0.05,
+                0.05,
+                0.05
+            ],
+            "rotation": 105
+        },
+        {
+            "labels": [
+                "<b>Enriched<br>mantle</b>",
+                "<b>Outer core<br>0.1 wt% C</b>",
+                "",
+                "",
+                ""
+            ],
+            "values": [
+                16.7,
+                66.7,
+                8.3,
+                5.6,
+                2.7
+            ],
+            "colors": [
+                "#2a9bc2",
+                "#8c3131",
+                "#4d2727",
+                "#8c8c8c",
+                "#d4c14c"
+            ],
+            "pull": [
+                0.05,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ],
+            "rotation": 135
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "<b>Depleted mantle</b>",
+                "x": 0.86,
+                "y": 0.68,
+                "ax": 0,
+                "ay": -130,
+                "font_size": 14
+            },
+            {
+                "text": "<b>Crust</b>",
+                "x": 0.9,
+                "y": 0.5,
+                "ax": 40,
+                "ay": -100,
+                "font_size": 14
+            },
+            {
+                "text": "<b>0.1 wt% C</b>",
+                "x": 0.72,
+                "y": 0.8,
+                "ax": -50,
+                "ay": -140,
+                "font_size": 14
+            }
+        ]
+    }
+}

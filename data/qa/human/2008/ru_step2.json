@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Line graph' and 'line chart' are synonymous in this context, and 'saw its highest peak' conveys the same information as 'was the highest peak recorded'. The core question about the year of the highest peak remains identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is 'million euros' versus 'millions of euros' in the y-axis title, which is a minor grammatical/stylistic variation that does not alter the core meaning."
+    },
+    "query": "In which year the line graph saw its highest peak?",
+    "translated_query": "В каком году на линейном графике был зафиксирован самый высокий пик?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

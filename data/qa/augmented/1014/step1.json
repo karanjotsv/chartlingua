@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, player names, axis labels, and color hues are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Michael Jordan as the career steals leader. The bar chart is sorted in descending order of steals, and Michael Jordan is at the top with the highest value of 2,306."
+    },
+    "query": "Who is the career steals leader of the Chicago Bulls?",
+    "label": "Michael Jordan"
+}

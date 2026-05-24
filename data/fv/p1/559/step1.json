@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, bar colors (red and black), the position and height of the shaded blue area, and the overall structure are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that both red bars are below a value of 3. However, the chart shows the first red bar (second from the left) has a value of 8, and the second red bar (on the far right) has a value of 7. Both values are significantly higher than 3."
+    },
+    "claim": "Both red container water level is below 3 in the bar graph chart.",
+    "label": false
+}

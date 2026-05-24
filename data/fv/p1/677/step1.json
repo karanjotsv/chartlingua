@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, titles, color hue, and the overall trend are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that there were 0 joins on day 10, but the chart shows the data point for day 10 is at a value of 5 on the y-axis. The day with 0 joins is day 11."
+    },
+    "claim": "There are 0 idea joins for day 10.",
+    "label": false
+}

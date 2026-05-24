@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated sentence perfectly conveys the same meaning as the original. The words 'denotes' and 'represents' are synonymous in this context, and other phrasing is essentially identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and legend texts are perfect or have trivial differences (e.g., U.S. to USA, U.K. to UK). The y-axis title 'Wider disagreement' vs 'Broad Disagreement' is also an excellent semantic match. The title 'Political disagreement about whether<br>\"Climate change is a major threat\"' was back-translated to 'Political Disagreement on<br>\"Is Climate Change a Major Threat?\"'. While the core meaning is preserved, the phrasing of the embedded statement changed from a declarative to an interrogative, which is a minor acceptable difference but not perfectly identical phrasing."
+    },
+    "claim": "The Blue color denotes enriched mantle in the pie chart.",
+    "translated_claim": "ਨੀਲਾ ਰੰਗ ਪਾਈ ਚਾਰਟ ਵਿੱਚ ਸੰਵਰਧਿਤ ਮੈਂਟਲ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ।"
+}

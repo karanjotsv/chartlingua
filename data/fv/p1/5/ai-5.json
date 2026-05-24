@@ -1,0 +1,32 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Forest",
+            "value": 64.04
+        },
+        {
+            "category": "Urban planning<br>area",
+            "value": 32.96
+        },
+        {
+            "category": "Military facilities<br>preserving area",
+            "value": 22.99
+        },
+        {
+            "category": "Area given to U.<br>S. Forces",
+            "value": 40.63
+        }
+    ],
+    "texts": {
+        "title": "Land use in square km",
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#008000",
+        "#8B0000",
+        "#FFA500",
+        "#0000FF"
+    ]
+}

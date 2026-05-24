@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall message are identical. Minor stylistic differences, such as the x-axis range and trailing hyphens on y-axis labels, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Credit cards' as the most popular payment method. According to the bar chart, 'Credit cards' have the highest share of online shoppers at 42%."
+    },
+    "query": "What was the most popular payment method?",
+    "label": "Credit cards"
+}

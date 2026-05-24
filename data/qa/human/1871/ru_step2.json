@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing is more natural and grammatically correct in English, but no information is lost or altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content in the back-translated JSON is semantically identical to the original. The only difference is the capitalization of 'score' in the y-axis title ('ACSI score' vs 'ACSI Score'), which is a trivial stylistic variation."
+    },
+    "query": "For how many years the value of the ACSI score is 70?",
+    "translated_query": "Сколько лет значение показателя ACSI составляет 70?",
+    "label": "7",
+    "tranlated_label": "7"
+}

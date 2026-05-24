@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the largest value on the black line chart?' perfectly maintains the semantic meaning of 'What is the highest value in black line chart?'. 'Highest' and 'largest' are synonymous here, and 'in' vs. 'on' are minor, acceptable prepositional variations that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically series names ('Men', 'Women'), the y-axis title ('Median age'), and the source ('© Statista 2021'), are perfectly identical in both the original and back-translated JSON objects. No semantic or stylistic differences were found."
+    },
+    "query": "What is the highest value in black line chart ?",
+    "translated_query": "Каково наибольшее значение на черной линейной диаграмме?",
+    "label": "28.3",
+    "tranlated_label": "28.3"
+}

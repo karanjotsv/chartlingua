@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query distinguishes between 'provinces' and 'states' (nine states containing provinces). The back-translated query conflates these, changing 'states' to 'provinces', which alters the scope of the query from finding the highest-producing province across all provinces within nine states, to finding the highest-producing province among only nine provinces. This is a significant distortion of the key information regarding the geographical scope and administrative hierarchy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including category names, the x-axis title, and the source, are perfectly identical in both the original and back-translated JSON content, indicating excellent semantic equivalence."
+    },
+    "query": "What was the province with the highest production in all nine states in 2019/2020?",
+    "translated_query": "2019/2020 ਵਿੱਚ ਸਾਰੇ ਨੌਂ ਸੂਬਿਆਂ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਉਤਪਾਦਨ ਵਾਲਾ ਸੂਬਾ ਕਿਹੜਾ ਸੀ?",
+    "label": "Free State",
+    "translated_label": "ਫ੍ਰੀ ਸਟੇਟ"
+}

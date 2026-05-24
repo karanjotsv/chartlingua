@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The data proportions and the order of the slices are significantly different. The original chart shows four unequal slices, with the light blue slice being the largest. The rendered chart displays four perfectly equal 25% slices. This fundamentally alters the data representation and the overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart is a generic pie chart with four unlabelled, unquantified segments. It contains no text, numbers, or legends that would allow verification of the claim's specific details about wealth distribution, such as 'The Top .001%' or '16.7 trillion'."
+    },
+    "claim": "The Top .001% owns 16.7 trillion of the global distribution of wealth.",
+    "label": "TRUE"
+}

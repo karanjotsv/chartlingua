@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart presents the data with significantly different proportions. For example, the orange and yellow slices are noticeably smaller than in the original. Furthermore, the order of all the slices around the pie has been completely reversed, which is a major semantic discrepancy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is a generic pie chart with no labels, title, or legend. It provides no information about languages or countries, so it cannot be used to support or refute any claim about spoken languages in Ethiopia."
+    },
+    "claim": "Oromo is the widely spoken language in Ethiopia.",
+    "label": "TRUE"
+}

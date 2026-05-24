@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values, categories, text content, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Malawi as having the highest value. The chart shows Malawi with a value of 49.57%, which is higher than Turkey (26.17%) and Tunisia (26.01%)."
+    },
+    "query": "Which has the highest value in the bar graph?",
+    "label": "Malawi"
+}

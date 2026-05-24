@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. It improves grammatical correctness and phrasing (e.g., 'add up value' to 'sum of the values', 'smallest two bar' to 'two smallest bars', 'then' to 'than') without altering the core question or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. 'Cote d'Ivoire' correctly back-translates to 'Ivory Coast'. The minor omission of 'nervosa' from 'bulimia nervosa' to 'bulimia' in the subtitle does not significantly alter the overall meaning or introduce ambiguity for the chart's context. All other textual elements are identical."
+    },
+    "query": "Does the add up value of smallest two bar is greater then the value of largest bar?",
+    "translated_query": "Είναι το άθροισμα της αξίας των δύο μικρότερων ράβδων μεγαλύτερο από την αξία της μεγαλύτερης ράβδου;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

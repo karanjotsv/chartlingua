@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Transport maritim internațional, aviație",
+            "Orientul Mijlociu",
+            "Asia de Sud",
+            "Australia, Japonia, Noua Zeelandă",
+            "Africa",
+            "Asia de Sud-Est, Pacific",
+            "Europa de Est, Asia Centrală de Vest",
+            "America Latină, Caraibe",
+            "Asia de Est",
+            "Europa",
+            "America de Nord"
+        ],
+        "series": [
+            {
+                "name": "Combustibili fosili, industrie",
+                "values": [
+                    40,
+                    50,
+                    40,
+                    70,
+                    50,
+                    50,
+                    200,
+                    70,
+                    250,
+                    380,
+                    460
+                ]
+            },
+            {
+                "name": "Utilizarea terenurilor, silvicultură",
+                "values": [
+                    0,
+                    0,
+                    30,
+                    10,
+                    120,
+                    130,
+                    40,
+                    180,
+                    40,
+                    20,
+                    100
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Emisii cumulate de CO<sub>2</sub> (1850-2019)",
+        "x_axis_title": "Emisii (miliarde de tone de CO<sub>2</sub> )",
+        "y_axis_title": null,
+        "source_note": null
+    },
+    "colors": [
+        "#4C78A8",
+        "#F58518"
+    ]
+}

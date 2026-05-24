@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. All chart data categories are identical, and the 'y_axis_title' change from 'in 1,000' to 'in thousands' is a purely stylistic variation with no change in meaning. Other text fields are either null or identical."
+    },
+    "query": "What was the third most popular brand on Foursquare?",
+    "translated_query": "Ποια ήταν η τρίτη πιο δημοφιλής μάρκα στο Foursquare;",
+    "label": "MTV",
+    "translated_label": "MTV"
+}

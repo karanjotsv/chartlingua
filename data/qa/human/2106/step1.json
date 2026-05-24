@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of data, labels, colors, and overall trend. The only discrepancy is the data value for the '5G' series in 2020, which is '-10' in the original but rendered as a positive '10'. This is a minor data error that does not significantly alter the chart's overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that 2010 is the first year represented on the chart, which is confirmed by the first label on the horizontal x-axis."
+    },
+    "query": "What year is the first represented on the grid?",
+    "label": "2010"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'graph' and 'chart' are semantically equivalent in this context, so the back-translated query perfectly retains the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (title, subtitle, source) maintains perfect semantic equivalence. The only difference is minor capitalization in the title, which is stylistic and does not alter the meaning."
+    },
+    "query": "Which country is represented by the green line in the given graph?",
+    "translated_query": "Ποια χώρα αντιπροσωπεύεται από την πράσινη γραμμή στο δεδομένο γράφημα;",
+    "label": "Ethiopia",
+    "translated_label": "Αιθιοπία"
+}

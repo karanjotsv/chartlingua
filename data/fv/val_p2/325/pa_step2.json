@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated content changes 'manufacturing phase' to 'construction phase', which are distinct steps in the lifecycle of a wind farm. This alters a key detail of the comparison, leading to a loss of accuracy. The grammatical error in the original ('higher the the') was correctly interpreted and fixed as 'greater than the'."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Two key x-axis labels ('Pre-Manufacturing', 'Manufacturing') were semantically changed to distinct terms ('Pre-construction', 'Construction'). This significantly alters the meaning and accuracy of the data categories presented in the chart, despite the title and y-axis title matching perfectly."
+    },
+    "claim": "The value of economic activity during the transportation phase of a wind farm is higher the the value of economic activity during the manufacturing phase.",
+    "translated_claim": "ਇੱਕ ਪੌਣ ਊਰਜਾ ਫਾਰਮ ਦੇ ਆਵਾਜਾਈ ਪੜਾਅ ਦੌਰਾਨ ਆਰਥਿਕ ਗਤੀਵਿਧੀ ਦਾ ਮੁੱਲ ਨਿਰਮਾਣ ਪੜਾਅ ਦੌਰਾਨ ਆਰਥਿਕ ਗਤੀਵਿਧੀ ਦੇ ਮੁੱਲ ਨਾਲੋਂ ਵੱਧ ਹੈ।"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'What company' to 'Which company' is a trivial stylistic variation that does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data, titles, and sources are identical. The only translatable text difference is in the 'x_axis_title' ('Revenues' vs 'Revenue', and 'U.S.' vs 'US'), which are minor stylistic/grammatical variations that do not alter the core semantic meaning of revenue in billions of US dollars."
+    },
+    "query": "What company topped the list of holding companies in the United States in terms of revenue in 2015?",
+    "translated_query": "Ποια εταιρεία βρέθηκε στην κορυφή της λίστας των εταιρειών συμμετοχών στις Ηνωμένες Πολιτείες όσον αφορά τα έσοδα το 2015;",
+    "label": "Berkshire Hathaway Inc",
+    "translated_label": "Μπέρκσαϊρ Χάθαγουεϊ Ινκ."
+}

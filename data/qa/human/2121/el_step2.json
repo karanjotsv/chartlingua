@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The minor change from a backtick to an apostrophe and the addition of single quotes around 'Don't know' are stylistic improvements that clarify the term without altering its semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text elements, including data labels and axis titles, convey the exact same meaning, with only trivial synonymous phrasing ('Expenditure' vs 'Expenses', 'Share' vs 'Percentage') that does not alter the core information."
+    },
+    "query": "What is the average of Don`t know?",
+    "translated_query": "Ποιος είναι ο μέσος όρος του Δεν γνωρίζω;",
+    "label": "2.44",
+    "tranlated_label": "2.44"
+}

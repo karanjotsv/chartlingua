@@ -1,0 +1,108 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Developed world",
+            "x": [
+                1997,
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007
+            ],
+            "y": [
+                11,
+                17,
+                24,
+                31,
+                36,
+                42,
+                46,
+                54,
+                56,
+                59,
+                62
+            ],
+            "marker": "diamond"
+        },
+        {
+            "name": "Developing world",
+            "x": [
+                1997,
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007
+            ],
+            "y": [
+                0,
+                1,
+                1,
+                2,
+                3,
+                4,
+                5,
+                7,
+                9,
+                12,
+                17
+            ],
+            "marker": "triangle-up"
+        },
+        {
+            "name": "World globally",
+            "x": [
+                1997,
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007
+            ],
+            "y": [
+                2,
+                3,
+                5,
+                7,
+                8,
+                10,
+                12,
+                14,
+                15,
+                18,
+                22
+            ],
+            "marker": "square"
+        }
+    ],
+    "texts": {
+        "title": "<b>Internet users per 100 inhabitants 1997-2007 (Source: ITU)</b>",
+        "subtitle": null,
+        "x_axis_title": "Year",
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#0000CD",
+        "#FF0000",
+        "#008000"
+    ]
+}

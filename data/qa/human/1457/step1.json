@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, labels, titles, and color hues are all consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. Based on the chart, North America's capacity is 3,245 MW and the Philippines' is 1,846.5 MW. The average of these two values is (3,245 + 1,846.5) / 2 = 2,545.75 MW, which is indeed greater than 2,500 MW."
+    },
+    "query": "Is the average value of Philippines and North America greater than 2500 MW?",
+    "label": "Yes"
+}

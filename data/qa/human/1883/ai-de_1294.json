@@ -1,0 +1,34 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Nicht zum Recycling gesammelt",
+            "value": 80
+        },
+        {
+            "category": "Nicht dokumentiert, Schicksal unbekannt*",
+            "value": 76
+        },
+        {
+            "category": "In den Hausmüll geworfen",
+            "value": 4
+        },
+        {
+            "category": "Dokumentiert, gesammelt und recycelt",
+            "value": 20
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anteil des Elektroschrotts",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#C8C8C8",
+        "#2C73D2",
+        "#2C73D2",
+        "#C8C8C8"
+    ]
+}

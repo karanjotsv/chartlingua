@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, maintaining perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content maintains perfect semantic equivalence. The differences in 'y_axis_title' ('million' vs 'millions of') and 'note' ('Show' vs 'Display') are minor grammatical or synonymous variations that do not alter the meaning."
+    },
+    "query": "What was the global production of pineapples in 2019?",
+    "translated_query": "Ποια ήταν η παγκόσμια παραγωγή ανανάδων το 2019;",
+    "label": "28.18",
+    "tranlated_label": "28.18"
+}

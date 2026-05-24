@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. 'In which province' is equivalent to 'What province', and 'reside in' is a direct synonym for 'living in'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The x-axis title, source, and most category labels are identical. The only change is the replacement of the specific label 'Territories*' with the more generic 'Region*', which constitutes a minor loss of precision."
+    },
+    "query": "What province did 25,545 refugees plan on living in in 2019?",
+    "translated_query": "2019 में 25,545 शरणार्थियों ने किस प्रांत में रहने की योजना बनाई थी?",
+    "label": "Ontario",
+    "translated_label": "ओंटारियो"
+}

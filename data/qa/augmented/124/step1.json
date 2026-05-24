@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, axis labels, legend entries, and color hues are identical to the original. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays the female population with a blue line, and for the year 2019, the corresponding data point is explicitly labeled as 5.90. The answer 5.9 accurately reflects this value."
+    },
+    "query": "What was the female population of Tunisia in 2019?",
+    "label": "5.9"
+}

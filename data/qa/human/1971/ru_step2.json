@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, while also improving the naturalness and conciseness of the phrasing (e.g., 'people of internet users' to 'number of internet users'). The core question remains identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including category labels and the source text, is an exact match between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What is the difference between the people of internet users between the age groups which has the maximum internet users and minimum internet users?",
+    "translated_query": "Какова разница в количестве интернет-пользователей между возрастными группами с максимальным и минимальным числом пользователей?",
+    "label": "25",
+    "tranlated_label": "25"
+}

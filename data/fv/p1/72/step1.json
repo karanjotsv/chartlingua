@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All chart titles, data values, proportions, and color-to-category mappings are identical to the original. The consolidation of individual legends into a single, clear legend is a stylistic improvement that preserves all core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies the year 2003, but the chart provides no information about the year the data was collected. Therefore, it is not possible to confirm the claim based solely on the provided chart."
+    },
+    "claim": "Native American were the majority in 2003 in Nevada ",
+    "label": true
+}

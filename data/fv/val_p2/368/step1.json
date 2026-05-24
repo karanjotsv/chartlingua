@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents the same data values, categories, text content (title, labels), and color scheme as the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data for four specific types of assault and injury crimes. It does not contain any information about 'Burglary', so the claim cannot be verified from the chart."
+    },
+    "claim": "Burglary was the offense group with the low number of incidents reported in England and Wales in 2009/10.",
+    "label": "FALSE"
+}

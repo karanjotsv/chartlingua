@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the meaning. 'Most valuable player' in a sports context refers to performance and contribution (e.g., MVP award), while 'most expensive player' refers to monetary cost or transfer fees. These are distinct concepts, leading to a different information need."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'million euros' vs 'millions of euros' in the x-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "Who was the most valuable player at the 2018 FIFA World Cup?",
+    "translated_query": "Кто был самым дорогим игроком на Чемпионате мира по футболу FIFA 2018 года?",
+    "label": "Kevin De Bruyne",
+    "translated_label": "Кевин Де Брёйне"
+}

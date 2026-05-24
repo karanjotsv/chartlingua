@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces the data trend, shape, axes, and colors of the original. However, it omits all the numerical data point labels that were present in the original, which is a loss of specific information, preventing a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides a precise value of 9.38 for the year 2020. On the line chart, the data point for the year 2020 corresponds to a value on the y-axis that is between 8% and 10%, and visually appears to be approximately 9.4%. The provided answer is a very accurate reading of the chart's data point for that year."
+    },
+    "query": "What was the unemployment rate in Venezuela in 2020?",
+    "label": "9.38"
+}

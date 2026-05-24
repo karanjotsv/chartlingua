@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Viel-Leser (20+ Bücher)",
+            "value": 31
+        },
+        {
+            "category": "Durchschnittlicher Leser (5 bis 19<br>Bücher)",
+            "value": 39
+        },
+        {
+            "category": "Gelegenheitsleser (von 1 bis 4<br>Büchern)",
+            "value": 23
+        },
+        {
+            "category": "Nicht-Leser (0 Bücher)",
+            "value": 8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#1e78d2"
+    ]
+}

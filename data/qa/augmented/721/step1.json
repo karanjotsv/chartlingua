@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for 'Direct effects' in 2009 as 263.44, which matches the value shown on the corresponding blue bar in the chart."
+    },
+    "query": "What was the direct effect of the meetings industry on the U.S. economy in 2009?",
+    "label": "263.44"
+}

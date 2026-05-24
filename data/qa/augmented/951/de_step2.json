@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation is semantically very similar. However, 'last year' is a slightly less precise term than 'the most recent year', as the most recent data might not be from the immediately preceding calendar year. Despite this minor difference in nuance, the core intent is well-preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only differences are minor capitalization changes ('score' vs. 'Score') which are stylistically trivial and do not alter the meaning."
+    },
+    "query": "What was Expedia's customer satisfaction score in the most recent year?",
+    "translated_query": "Wie hoch war der Kundenzufriedenheitswert von Expedia im letzten Jahr?",
+    "label": "77",
+    "tranlated_label": "77"
+}

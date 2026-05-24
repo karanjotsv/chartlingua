@@ -1,0 +1,42 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Individual<br>Income",
+            "value": 1541,
+            "percentage": 47,
+            "text_color": "white"
+        },
+        {
+            "label": "Payroll",
+            "value": 1065,
+            "percentage": 33,
+            "text_color": "white"
+        },
+        {
+            "label": "Corporate<br>Income",
+            "value": 344,
+            "percentage": 11,
+            "text_color": "black"
+        },
+        {
+            "label": "Other",
+            "value": 300,
+            "percentage": 9,
+            "text_color": "black"
+        }
+    ],
+    "texts": {
+        "title": "U.S. Federal Tax Revenues – Fiscal Year 2015 ($ Billions)",
+        "subtitle": null,
+        "source": "Source Data: CBO Historical Tables, March 2016",
+        "note": null,
+        "total_label": "<u>Total</u><br>$3.25 Trillion"
+    },
+    "colors": [
+        "#4472c4",
+        "#c00000",
+        "#92d050",
+        "#7030a0"
+    ]
+}

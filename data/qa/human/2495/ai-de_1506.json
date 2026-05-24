@@ -1,0 +1,68 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "2008",
+            "x": [
+                "Letzte Novemberwoche",
+                "1. Dezemberwoche",
+                "2. Dezemberwoche",
+                "3. Dezemberwoche",
+                "4. Dezemberwoche"
+            ],
+            "y": [
+                92,
+                95,
+                94,
+                93,
+                68
+            ]
+        },
+        {
+            "name": "2009",
+            "x": [
+                "Letzte Novemberwoche",
+                "1. Dezemberwoche",
+                "2. Dezemberwoche",
+                "3. Dezemberwoche",
+                "4. Dezemberwoche"
+            ],
+            "y": [
+                69,
+                75,
+                73,
+                74,
+                70
+            ]
+        },
+        {
+            "name": "2010",
+            "x": [
+                "Letzte Novemberwoche",
+                "1. Dezemberwoche",
+                "2. Dezemberwoche",
+                "3. Dezemberwoche",
+                "4. Dezemberwoche"
+            ],
+            "y": [
+                79,
+                66,
+                66,
+                77,
+                85
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Tägliche Ausgaben in US-Dollar",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2e7fdf",
+        "#103251",
+        "#bdbdbd"
+    ]
+}

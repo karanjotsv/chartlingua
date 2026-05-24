@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart attempts to replicate the original's structure and includes most of the same data points, text, and color schemes. However, some data values are missing or obscured (e.g., in Life Expectancy, House Prices), and the overall message is severely distorted by catastrophic layout issues, making it only moderately consistent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from extreme and pervasive visual flaws, primarily gross layout issues that cause severe text and element overlap across the entire image. This makes most of the text unreadable and obscures key data points, rendering the chart unusable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The orange line in the chart is a design element used to group statistics related to 'Population' and 'Life Expectancy' for the South East region. There is no information or label on the chart that suggests it represents 'image load meantime'."
+    },
+    "claim": "The orange line in the graph depicts image load meantime.",
+    "label": "TRUE"
+}

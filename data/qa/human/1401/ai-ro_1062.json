@@ -1,0 +1,62 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "Aug 2014-1",
+            "Aug 2014-2",
+            "Oct 2014",
+            "Feb 2015",
+            "July 2015",
+            "Dec 2015"
+        ],
+        "series": [
+            {
+                "name": "Aprobă",
+                "y": [
+                    54,
+                    53,
+                    57,
+                    63,
+                    63,
+                    64
+                ]
+            },
+            {
+                "name": "Dezaprobă",
+                "y": [
+                    31,
+                    29,
+                    33,
+                    30,
+                    26,
+                    28
+                ]
+            }
+        ]
+    },
+    "x_axis_config": {
+        "tickvals": [
+            0.5,
+            2,
+            3,
+            4,
+            5
+        ],
+        "ticktext": [
+            "Aug<br>2014",
+            "Oct<br>2014",
+            "Feb<br>2015",
+            "Iul<br>2015",
+            "Dec<br>2015"
+        ]
+    },
+    "texts": {
+        "title": "<b>Majoritatea continuă să susțină campania<br>militară a SUA împotriva ISIS</b>",
+        "subtitle": "% care ___ campania militară a SUA împotriva<br>militanților islamici din Irak și Siria",
+        "source": "Sursă: Sondaj realizat în perioada 8-13 dec. 2015.<br>Răspunsurile „Nu știu” nu sunt afișate.<br>* Sondajul din septembrie 2014 a întrebat despre planul lui Barack Obama pentru o<br>campanie militară împotriva militanților din Irak și Siria. Sondajul din august 2014<br>a întrebat despre atacurile aeriene ale SUA împotriva militanților numai în Irak.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#c8a941",
+        "#8d7c3d"
+    ]
+}

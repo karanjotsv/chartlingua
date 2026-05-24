@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. It correctly reproduces the title, all categories, and their relative proportions in the pie chart. The color hues for each category are also accurately matched. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Monson Lake State Park is in 'eastern Swift County Minnesota', but the chart does not provide any information about the park's geographical location. It only shows the ecosystem distribution within the park."
+    },
+    "claim": "\"Prairie\" is the largest form of native vegetation in the Monson Lake State Park area in eastern Swift County Minnesota.",
+    "label": true
+}

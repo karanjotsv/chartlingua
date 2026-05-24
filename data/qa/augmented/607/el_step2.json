@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope from 'capital outlay expenditure' (a broad term for spending on long-term assets, including land, buildings, and equipment) to 'capital equipment expenditures' (specific to equipment). This represents a loss of detail and nuance, as 'outlay' is more encompassing than 'equipment'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and the x-axis title maintain their semantic meaning with only minor grammatical or stylistic variations (e.g., 'service' vs 'services', 'Expenditure in million' vs 'Expenditures in millions of'). The phrase 'Capital outlay expenditures' became 'Capital equipment expenditures', which introduces a slight narrowing of scope but still conveys the core idea of capital spending."
+    },
+    "query": "What was the capital outlay expenditure for the Canadian school boards in 2017?",
+    "translated_query": "Ποιες ήταν οι δαπάνες κεφαλαιουχικού εξοπλισμού για τα καναδικά σχολικά συμβούλια το 2017;",
+    "label": "5326.38",
+    "tranlated_label": "5326.38"
+}

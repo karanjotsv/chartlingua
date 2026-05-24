@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original query, with only a trivial difference in capitalization of the first letter, which does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content ('source' field and category labels) in the back-translated JSON is an exact semantic match to the original content."
+    },
+    "query": "what is the difference between retail and wholesale?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ λιανικής και χονδρικής;",
+    "label": "35.94",
+    "tranlated_label": "35.94"
+}

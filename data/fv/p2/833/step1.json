@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are consistent with the original. The overall message is identical. The only difference is a stylistic choice to explode one of the pie slices, which does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that Internet Explorer has a usage share of 29.05%, which is the highest percentage compared to all other browsers listed in the chart."
+    },
+    "claim": "Internet Explorer had the highest browser usage in Wikimedia in  August of 2012.",
+    "label": "FALSE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Highest amount' and 'largest amount' are semantically equivalent in this context, both conveying the superlative quantity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. The chart type, all numerical values, title, subtitle (ignoring capitalization), and source are perfectly preserved. Minor differences include 'All Others' becoming 'All Other' (a trivial grammatical change), and 'Food', 'Paper', and 'Chemicals' becoming more specific as 'Food Manufacturing', 'Paper Manufacturing', and 'Chemical Manufacturing'. While more specific, these changes do not fundamentally alter the semantic meaning of the industry types in this context, but they are slight deviations from the original brevity."
+    },
+    "claim": "The metal mining industry disposed of the highest amount of toxic waste in 2015.",
+    "translated_claim": "Отрасль металлодобычи утилизировала наибольшее количество токсичных отходов в 2015 году."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message is preserved without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the market share of various web browsers in percentages, while the claim discusses economic activity in millions. The chart contains no information about manufacturing or economic activity, making it impossible to verify the claim."
+    },
+    "claim": "The pre-manufacturing activity stands between 20 to 30 million of total economic activity.",
+    "label": "TRUE"
+}

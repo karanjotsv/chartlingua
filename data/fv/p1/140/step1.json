@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The core data values and chart structure are significantly different. The main pie chart shows a red slice as 4% in the original, but it is 0.6% in the rendered chart. The second pie chart in the original appears to break down a 1% 'other' category, while in the rendered chart it breaks down the 0.6% red slice. The values within the second pie are also completely different, leading to a different overall message about the data's composition.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The legend in the rendered chart is inconsistent with the plotted data. The color for 'Heavy Elements' is purple in the legend but blue in the chart. The legend also contains an entry for 'Dark Energy' which does not appear to be represented by a slice. Additionally, the 'Heavy Elements' slice is so small it is nearly invisible and has no data label."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart on the left, representing the cosmological composition of the universe, clearly shows that Dark Energy makes up 70.7% of the total. This value is greater than 50%, thus confirming that it occupies the majority."
+    },
+    "claim": "Dark energy occupied majority in the  cosmological composition of the universe.",
+    "label": true
+}

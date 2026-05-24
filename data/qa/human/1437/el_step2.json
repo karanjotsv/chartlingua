@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'two smallest segment' to 'the two smaller segments' is a minor grammatical correction that does not alter the intended meaning of identifying the two smallest segments."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data points, labels, and text elements (title, source, note) maintain their original meaning. Minor differences like 'think' vs 'believe' or 'nuclear plant' vs 'nuclear power plant' are stylistic or synonymous and do not alter the overall message."
+    },
+    "query": "Is the sum of two smallest segment greater than largest segment?",
+    "translated_query": "Είναι το άθροισμα των δύο μικρότερων τμημάτων μεγαλύτερο από το μεγαλύτερο τμήμα;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

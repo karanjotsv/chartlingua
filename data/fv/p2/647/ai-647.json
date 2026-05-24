@@ -1,0 +1,97 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "INNER",
+            "x": [
+                20,
+                50,
+                100,
+                200,
+                500,
+                1000,
+                2000,
+                5000,
+                10000,
+                15000
+            ],
+            "y": [
+                0.0008,
+                0.00085,
+                0.0009,
+                0.00095,
+                0.0015,
+                0.0025,
+                0.0045,
+                0.01,
+                0.02,
+                0.05
+            ]
+        },
+        {
+            "name": "OUTER",
+            "x": [
+                20,
+                50,
+                100,
+                200,
+                500,
+                1000,
+                2000,
+                5000,
+                10000,
+                20000,
+                30000
+            ],
+            "y": [
+                0.0009,
+                0.0008,
+                0.0008,
+                0.00085,
+                0.0012,
+                0.002,
+                0.0035,
+                0.007,
+                0.015,
+                0.035,
+                0.05
+            ]
+        }
+    ],
+    "texts": {
+        "title": "AUDIO PRECISION THD+N(%) vs FREQ(Hz)&nbsp;&nbsp;&nbsp;50W 8R&nbsp;&nbsp;&nbsp;26A",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "INNER",
+                "x": 9000,
+                "y": 0.05,
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "showarrow": false
+            },
+            {
+                "text": "OUTER",
+                "x": 22000,
+                "y": 0.05,
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "showarrow": false
+            },
+            {
+                "text": "A<sub>p</sub>",
+                "x": 45000,
+                "y": 0.04,
+                "xanchor": "center",
+                "yanchor": "middle",
+                "showarrow": false
+            }
+        ]
+    },
+    "colors": [
+        "#000000",
+        "#000000"
+    ]
+}

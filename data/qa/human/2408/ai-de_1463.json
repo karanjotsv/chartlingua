@@ -1,0 +1,52 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "0 Vorsorgeuntersuchungen",
+            "Bis zu drei Vorsorgeuntersuchungen",
+            "Bis zu fünf Vorsorgeuntersuchungen",
+            "Mehr als fünf Vorsorgeuntersuchungen"
+        ],
+        "series": [
+            {
+                "name": "Schwarze oder Afroamerikaner",
+                "values": [
+                    20,
+                    61,
+                    12,
+                    7
+                ]
+            },
+            {
+                "name": "Hispanoamerikaner oder Latino",
+                "values": [
+                    19,
+                    60,
+                    16,
+                    5
+                ]
+            },
+            {
+                "name": "Weiß/ Kaukasier",
+                "values": [
+                    19,
+                    62,
+                    11,
+                    8
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2690EA",
+        "#0F2C4D",
+        "#BEBEBE"
+    ]
+}

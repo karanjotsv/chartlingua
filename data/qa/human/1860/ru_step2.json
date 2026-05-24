@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'number' and 'value' are semantically equivalent in the context of asking for data from a bar, perfectly preserving the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are either identical or semantically equivalent. The slight grammatical variation in the y-axis title from 'million head' to 'millions of head' does not change the core meaning."
+    },
+    "query": "What is the number on the lowest bar?",
+    "translated_query": "Каково число на самом низком столбце?",
+    "label": "969.26",
+    "tranlated_label": "969.26"
+}

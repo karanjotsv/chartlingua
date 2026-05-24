@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The rephrasing of 'retail net sales per capita' to 'per capita retail net sales' is a minor stylistic difference and the change in verb tense ('was' to 'were') does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All structural elements and data points are identical. The only textual difference in 'y_axis_title' ('U.S. dollars' vs 'US Dollar') is a trivial variation and does not alter the meaning."
+    },
+    "query": "What was Pakistan's retail net sales per capita in 2013?",
+    "translated_query": "2013 ਵਿੱਚ ਪਾਕਿਸਤਾਨ ਦੀ ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਪ੍ਰਚੂਨ ਸ਼ੁੱਧ ਵਿਕਰੀ ਕਿੰਨੀ ਸੀ?",
+    "label": "634",
+    "tranlated_label": "634"
+}

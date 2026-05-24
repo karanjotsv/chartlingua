@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, titles, and overall trends are identical. The color hue is also consistent. Minor stylistic differences in font and title placement do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that blue colour bars are used in the chart, but the chart clearly shows that all the bars are red."
+    },
+    "claim": "Blue colour bars are used in the given chart.",
+    "label": "FALSE"
+}

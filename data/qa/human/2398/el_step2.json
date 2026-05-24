@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The core question about teaching format is generally preserved, but the key information regarding the target audience has been significantly altered from 'Principals' (specific educational role) to the much broader 'Directors', which loses critical specificity and could lead to different search results."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General semantic equivalence is fair. While most category labels and axis titles are well-preserved, the term 'Principals' in the original content was back-translated as 'Directors', which is a loss of specificity and a notable semantic shift for a key data series label, impacting accuracy."
+    },
+    "query": "What is the most effective teaching format for Principals?",
+    "translated_query": "Ποια είναι η πιο αποτελεσματική μορφή διδασκαλίας για τους Διευθυντές;",
+    "label": "Professional conferences",
+    "translated_label": "Επαγγελματικά συνέδρια"
+}

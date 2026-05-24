@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels (including the typo 'Occuapation'), and color hues are consistent. The overall message and structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Transport' ranked second. However, the bar chart shows that 'Agriculture' has the highest value, followed by 'Unknown Occupation'. 'Transport' has the lowest value among all the categories, ranking last, not second."
+    },
+    "claim": "People who choose Transport in Ashleyhay, ranked second in 1881.",
+    "label": "FALSE"
+}

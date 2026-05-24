@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart correctly represents the proportions of the pie slices, but fails significantly on semantic content. Most text labels (e.g., 'Inner core', 'Outer core', 'Enriched mantle') are missing. The few labels that are present are often pointing to the wrong slices, and the colors for several categories in the second chart have been swapped, making the chart's message completely different and uninterpretable.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a comparison between the 'Depleted mantle' and the 'outer core region'. While the chart on the right shows the 'Depleted mantle' accounts for 66.7%, it does not contain any label or information identifying the 'outer core region'. Therefore, the comparison cannot be verified from the provided chart."
+    },
+    "claim": "Earth's carbon reservoir at Depleted mantle is more than outer core region in the right pie chart.",
+    "label": "FALSE"
+}

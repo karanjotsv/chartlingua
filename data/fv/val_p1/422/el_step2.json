@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The addition of 'software' after 'open-source' clarifies the implicit meaning without changing the core message, and the omission of 'the' before 'respondents' is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The category labels within `chart_data` show excellent semantic equivalence with only minor stylistic or hyphenation differences. The title has a minor acceptable semantic difference, changing 'chapter's' to 'organization's', which is a slight generalization but does not significantly alter the overall meaning or intent of the question."
+    },
+    "claim": "25% of the respondents use only open source as a matter of principle.",
+    "translated_claim": "Το 25% των ερωτηθέντων χρησιμοποιεί μόνο λογισμικό ανοιχτού κώδικα ως θέμα αρχής."
+}

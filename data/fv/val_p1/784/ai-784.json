@@ -1,0 +1,85 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Elementary Occupations",
+            "values": [
+                0.06,
+                0.11
+            ]
+        },
+        {
+            "category": "Process, Plant and Machine Operatives",
+            "values": [
+                0.1,
+                0.0
+            ]
+        },
+        {
+            "category": "Sales and Customer Service",
+            "values": [
+                0.02,
+                0.08
+            ]
+        },
+        {
+            "category": "Caring, Leisure and Other Service",
+            "values": [
+                0.05,
+                0.14
+            ]
+        },
+        {
+            "category": "Skilled Trades",
+            "values": [
+                0.3,
+                0.05
+            ]
+        },
+        {
+            "category": "Administrative and Secretarial",
+            "values": [
+                0.04,
+                0.17
+            ]
+        },
+        {
+            "category": "Associate Professional and Technical",
+            "values": [
+                0.125,
+                0.075
+            ]
+        },
+        {
+            "category": "Professional Occupations",
+            "values": [
+                0.2,
+                0.2
+            ]
+        },
+        {
+            "category": "Managers, Directors and Senior Officials",
+            "values": [
+                0.2,
+                0.15
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Occupational Structure of Finningham (2011)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null,
+        "legend_title": null,
+        "series_labels": [
+            "Male",
+            "Female"
+        ]
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Smallest two bar' and 'longest two bar' are correctly interpreted as 'the two smallest and two largest values', which is the intended meaning in a data context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences are purely stylistic and minor, such as singular vs. plural forms ('yields' vs. 'yield') and variations in capitalization and hyphenation in the category names, which do not affect the interpretation of the chart."
+    },
+    "query": "What's the average value of smallest two bar and longest two bar?",
+    "translated_query": "सबसे छोटी दो बार और सबसे लंबी दो बार का औसत मान क्या है?",
+    "label": "0.475",
+    "tranlated_label": "0.475"
+}

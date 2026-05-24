@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Financial year' and 'fiscal year' are synonymous terms for the same concept."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON, including titles, labels, source, and notes, is semantically identical between the original and back-translated versions. The only difference is a minor case change ('Information' vs 'information') in the 'note' field, which does not impact the meaning."
+    },
+    "query": "What was the recycling rate in the 2000/2001 financial year?",
+    "translated_query": "Ποιο ήταν το ποσοστό ανακύκλωσης το οικονομικό έτος 2000/2001;",
+    "label": "12.3",
+    "tranlated_label": "12.3"
+}

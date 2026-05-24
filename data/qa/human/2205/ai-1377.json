@@ -1,0 +1,70 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Denmark",
+            "values": [
+                80,
+                6
+            ]
+        },
+        {
+            "category": "Germany",
+            "values": [
+                71,
+                11
+            ]
+        },
+        {
+            "category": "Spain",
+            "values": [
+                69,
+                16
+            ]
+        },
+        {
+            "category": "Sweden",
+            "values": [
+                65,
+                18
+            ]
+        },
+        {
+            "category": "France",
+            "values": [
+                64,
+                14
+            ]
+        },
+        {
+            "category": "Britain",
+            "values": [
+                61,
+                13
+            ]
+        },
+        {
+            "category": "Italy",
+            "values": [
+                58,
+                20
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021",
+        "legend_labels": [
+            "Joe Biden",
+            "Donald Trump"
+        ],
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#007BFF",
+        "#FF0000"
+    ]
+}

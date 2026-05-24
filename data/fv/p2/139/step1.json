@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, their corresponding percentage values, and the color hues for each slice are identical to the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim attributes the equal allocation for Defense, Education, and Infrastructure to 'The Societism ideology'. While the chart confirms that these three categories each receive 20%, it provides no information about any ideology. The source of the prioritization cannot be verified from the chart."
+    },
+    "claim": "The Societism ideology prioritizes Defense, Education, and Infrastructure equally.",
+    "label": "TRUE"
+}

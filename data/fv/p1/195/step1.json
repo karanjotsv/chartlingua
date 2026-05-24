@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data points, axis values, chart title, and the overall trend are all identical. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies the population is of 'Adforton', but the chart is only titled 'Population' and provides no geographical information to support this specific location. Therefore, the chart does not contain the necessary information to validate the claim."
+    },
+    "claim": "The population of Adforton decreased over time.",
+    "label": false
+}

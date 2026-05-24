@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "North America",
+            "value": 3245
+        },
+        {
+            "category": "Philippines",
+            "value": 1846.5
+        },
+        {
+            "category": "Croatia",
+            "value": 0
+        }
+    ],
+    "texts": {
+        "title": "Installed geothermal energy capacity, 2005",
+        "subtitle": "Cumulative installed capacity of geothermal energy, measured in megawatts.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: BP Statistical Review of Global Energy (2020)",
+        "note": "OurWorldInData.org/renewable-energy • CC BY"
+    },
+    "colors": [
+        "#2E8B83",
+        "#C05C3C",
+        "#888888"
+    ]
+}

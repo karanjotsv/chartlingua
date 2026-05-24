@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, colors, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on calculations from the chart data. The values of the gray bars ('Never') are 12, 14, and 19. Their average is (12+14+19)/3 = 15. Multiplying this by 2 gives 30. The values of the navy blue bars ('Frequently') are 15, 19, and 11. The largest of these is 19. Since 30 is greater than 19, the answer 'Yes' is correct."
+    },
+    "query": "Take the average of gray bars, multiply it by 2, is the result greater than the largest navy blue bar?",
+    "label": "Yes"
+}

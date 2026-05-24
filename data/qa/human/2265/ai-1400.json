@@ -1,0 +1,42 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "'My spending has increased'",
+            "categories": [
+                "Food",
+                "Cleaning<br>products",
+                "Health and<br>medicines"
+            ],
+            "values": [
+                47,
+                45,
+                25
+            ]
+        },
+        {
+            "name": "'My spending has decreased'",
+            "categories": [
+                "Sport items",
+                "Office and<br>stationery items",
+                "Beauty and<br>cosmetics"
+            ],
+            "values": [
+                38,
+                30,
+                28
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#192D46"
+    ]
+}

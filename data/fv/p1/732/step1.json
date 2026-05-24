@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, proportions, labels, title, and color hues are all identical between the original and rendered charts. The core message is perfectly preserved. The only difference is the presentation of the legend, which is a stylistic choice that does not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the 'Not acid2 compliant' slice represents 54.7% of the total, which is a value greater than 50%."
+    },
+    "claim": "More than 50 % of the acid 2 test were found to be non compliant as per the usage.",
+    "label": true
+}

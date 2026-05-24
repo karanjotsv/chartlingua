@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'being compared' vs 'compared' and 'line graph' vs 'line chart' are minor stylistic or synonymous differences that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements (chart names, title, subtitle, source, note). Differences are only minor stylistic changes (e.g., date separator, capitalization, 'as the' vs 'in' for measurement) or synonymous phrasing for the source name, which do not alter the meaning in any way."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "translated_query": "Какие две страны сравниваются на данном линейном графике?",
+    "label": "[United Kingdom, Cape Verde]",
+    "tranlated_label": "[United Kingdom, Cape Verde]"
+}

@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Επιφάνεια γης τ.μ.<br>(ΕΓ)",
+            "value": 5000,
+            "annotation_y": 2500
+        },
+        {
+            "category": "Εμβαδόν αποτυπώματος<br>κτιρίου ισογείου<br>(ΕΑΚ)",
+            "value": 3750,
+            "annotation_y": 2000
+        },
+        {
+            "category": "ΕΓ - ΕΑΚ Ας πούμε \"Ε\"",
+            "value": 1250,
+            "annotation_y": 750
+        },
+        {
+            "category": "50% του ΕΑΚ",
+            "value": 1875,
+            "annotation_y": 1250
+        },
+        {
+            "category": "ΕΑΚ Γης+1250<br>έως 50% του ΕΑΚ<br>μπορεί να προστεθεί",
+            "value": 5000,
+            "annotation_y": 2500
+        }
+    ],
+    "texts": {
+        "title": "Εκτίμηση Αξίας Γης",
+        "subtitle": "Γραφικά: A. M. Ibrahim",
+        "x_axis_title": null,
+        "y_axis_title": "Τ.μ.",
+        "source": null
+    },
+    "colors": [
+        "#9b9bff"
+    ]
+}

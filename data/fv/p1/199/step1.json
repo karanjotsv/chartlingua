@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the highest arrest rate for male forgery is for the age group of 20, which is not a teenage year. The arrest rates for several ages in the early twenties (20, 21, 23, 24, 25) are visibly higher than the rates for any teenage year (ages 13-19)."
+    },
+    "claim": "Male teenagers have the highest arrest rate for forgery and counterfeiting in the United States in 2014.",
+    "label": true
+}

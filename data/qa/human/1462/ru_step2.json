@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The change from 'graph' to 'chart' is synonymous, and the grammatical correction from 'bars shows' to 'bars show' improves the query without altering its intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, and labels match semantically. However, the geographic category 'Southern Sub-Saharan Africa' in the original was back-translated to 'Sub-Saharan Africa,' which loses a minor detail in regional specificity."
+    },
+    "query": "How many bars shows  the same value in the graph?",
+    "translated_query": "Сколько столбцов показывает одинаковое значение на графике?",
+    "label": "2",
+    "tranlated_label": "2"
+}

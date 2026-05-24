@@ -1,0 +1,80 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "categories": [
+        "<b>The coronavirus outbreak</b>",
+        "<b>The 2020 presidential<br>election candidates</b>"
+    ],
+    "chart_data": [
+        {
+            "name": "Very closely",
+            "values": [
+                46,
+                19
+            ],
+            "text": [
+                "46",
+                "19%"
+            ],
+            "textfont_colors": [
+                "white",
+                "white"
+            ]
+        },
+        {
+            "name": "Fairly closely",
+            "values": [
+                42,
+                33
+            ],
+            "text": [
+                "42",
+                "33%"
+            ],
+            "textfont_colors": [
+                "white",
+                "white"
+            ]
+        },
+        {
+            "name": "Not too closely",
+            "values": [
+                10,
+                31
+            ],
+            "text": [
+                "10",
+                "31%"
+            ],
+            "textfont_colors": [
+                "black",
+                "black"
+            ]
+        },
+        {
+            "name": "Not at all closely",
+            "values": [
+                2,
+                16
+            ],
+            "text": [
+                "2",
+                "16%"
+            ],
+            "textfont_colors": [
+                "black",
+                "black"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>U.S. public is paying far less attention to the 2020<br>election than to the coronavirus outbreak</b>",
+        "subtitle": "% of U.S. adults who are <i>following news about each topic</i> ...",
+        "source": "Source: Survey of U.S. adults conducted April 20-26, 2020.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#744850",
+        "#B57B88",
+        "#D1BF84",
+        "#D1A744"
+    ]
+}

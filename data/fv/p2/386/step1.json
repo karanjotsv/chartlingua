@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is a malformed plot where all data bars are compressed into an unreadable sliver. It fails to represent the data values, trends, and categories of the original chart. While some numerical labels are present, they are detached from any meaningful visual representation.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from gross layout issues. All data bars are compressed into a very narrow space on the right, causing them to overlap completely. This also causes severe text overlap for both axis labels and data value labels, rendering the entire chart unreadable and nonsensical."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that 143 exoplanets were discovered in the year 2012. While the chart does show a data point with the value of 143, the x-axis representing the discovery dates is not labeled with specific years. Therefore, it is impossible to verify from the chart alone whether the value 143 corresponds to the year 2012."
+    },
+    "claim": "In 2012, there are 143 exoplanets were discovered.",
+    "label": "TRUE"
+}

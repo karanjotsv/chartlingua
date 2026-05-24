@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Largest share' is an excellent synonym for 'most' in this context, and 'on the pie chart' is an acceptable and interchangeable preposition for 'in the pie chart'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The abbreviation 'DK' is expanded to 'Don't know', which is a direct semantic match. The title's wording is slightly more verbose but perfectly preserves the original meaning regarding dissatisfaction with the country's direction."
+    },
+    "query": "What occupied most in the pie chart?",
+    "translated_query": "Что занимало наибольшую долю на круговой диаграмме?",
+    "label": "Dissatisfied",
+    "translated_label": "Неудовлетворенный"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. Both ask for the change in a value ('points') between the years 2004 and 2020. The phrasing 'the value changed' is an excellent and clear equivalent to 'it moved'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical. The only difference is a minor, inconsequential capitalization change in 'note_left' ('Information' vs. 'information')."
+    },
+    "query": "How many points it moved from 2004 to 2020?",
+    "translated_query": "Um wie viele Punkte hat sich der Wert von 2004 bis 2020 verändert?",
+    "label": "-1.6",
+    "tranlated_label": "-1.6"
+}

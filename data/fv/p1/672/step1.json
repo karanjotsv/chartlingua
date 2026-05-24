@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values (50/50 split), text content (title, labels, legend), and color hues (blue for True, green for False) are all identical. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the poll was conducted in July 2012, but the chart image does not contain any information about the date of the poll. The evaluation must be based solely on the provided chart."
+    },
+    "claim": "The poll conducted in July 2012 found an equal number of respondents who believed excessively long lines.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, and color hues are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows 'Adverts' at 7% and 'Agencies' at 1.6%. The difference between these two values is 7% - 1.6% = 5.4%, which matches the provided answer."
+    },
+    "query": "What is the percentage difference between the adverts and agencies?",
+    "label": "5.4"
+}

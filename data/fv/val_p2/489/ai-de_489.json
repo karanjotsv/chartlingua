@@ -1,0 +1,120 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "x_categories": [
+            "Mi 08",
+            "Do 09",
+            "Fr 10",
+            "Sa 11",
+            "Jan 12",
+            "Mo 13"
+        ],
+        "series": [
+            {
+                "name": "Bild-Laden<br>Gesamtzeit",
+                "y": [
+                    0,
+                    1950,
+                    1300,
+                    800,
+                    300,
+                    100
+                ]
+            },
+            {
+                "name": "Bild-Laden<br>mittlere Zeit",
+                "y": [
+                    0,
+                    2150,
+                    2350,
+                    1900,
+                    1700,
+                    150
+                ]
+            },
+            {
+                "name": "Bild-Größenänderung<br>Gesamtzeit",
+                "y": [
+                    100,
+                    150,
+                    100,
+                    80,
+                    50,
+                    20
+                ]
+            },
+            {
+                "name": "Bild-Größenänderung<br>mittlere Zeit",
+                "y": [
+                    0,
+                    150,
+                    1250,
+                    200,
+                    150,
+                    50
+                ]
+            },
+            {
+                "name": "Metadaten-Abruf<br>Gesamtzeit",
+                "y": [
+                    450,
+                    450,
+                    1700,
+                    900,
+                    400,
+                    120
+                ]
+            },
+            {
+                "name": "Metadaten-Abruf<br>mittlere Zeit",
+                "y": [
+                    0,
+                    600,
+                    500,
+                    550,
+                    550,
+                    100
+                ]
+            },
+            {
+                "name": "Gender-Abruf<br>Gesamtzeit",
+                "y": [
+                    0,
+                    0,
+                    0,
+                    100,
+                    300,
+                    150
+                ]
+            },
+            {
+                "name": "Gender-Abruf<br>mittlere Zeit",
+                "y": [
+                    0,
+                    50,
+                    50,
+                    20,
+                    10,
+                    5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Alle Metriken der Media-Viewer-Leistung",
+        "subtitle": "00:00 am 09. Jan. 2014",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "<b>Rohdaten</b><br>&#8226; http://stat1001.wikimedia.org/public-datasets/all/multimedia/media-viewer-performance.tsv"
+    },
+    "colors": [
+        "#707070",
+        "#FF8C00",
+        "#8B4513",
+        "#DC143C",
+        "#A0522D",
+        "#D2691E",
+        "#A9A9A9",
+        "#B22222"
+    ]
+}

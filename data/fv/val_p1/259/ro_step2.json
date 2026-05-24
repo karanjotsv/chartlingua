@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. 'Gradually decreases' is an excellent synonym for 'comes down gradually'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text, the series name 'WMA weights', is perfectly preserved in the back-translation 'WMA Weights'. The difference in capitalization is trivial and does not alter the meaning. All other text fields are null in both versions."
+    },
+    "claim": "WMA weight comes down gradually as number (n) increases. ",
+    "translated_claim": "Ponderea WMA scade treptat pe măsură ce numărul (n) crește."
+}

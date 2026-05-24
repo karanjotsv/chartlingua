@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color-to-category assignments are identical. The overall message and trend are preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart for the year 2015 clearly shows that the Services sector contributed 63% to the GDP, which is the largest percentage among the three sectors shown (Industry at 21% and Agriculture at 16%)."
+    },
+    "claim": "In the Republic of Moldova, the service sector contributed the largest share to the GDP in 2015.",
+    "label": true
+}

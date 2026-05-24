@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and text labels are identical to the original. The color hues for corresponding categories are also consistent. The overall message about browser market share is preserved, with only minor stylistic differences like the exploded slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows Mozilla Firefox with a 21.76% market share, which is the third-largest portion after Internet Explorer (29.05%) and Google Chrome (23.22%). Representing over one-fifth of the total share, it can be considered a significant portion of the browser market."
+    },
+    "claim": "Firefox has a significant share of the browser market.",
+    "label": "TRUE"
+}

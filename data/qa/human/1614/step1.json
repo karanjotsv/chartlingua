@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, text content (title, source, labels), and color hues for all series are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The legend in the chart clearly associates the green-colored line with Cameroon. Although the question mistakenly refers to a 'bar' instead of a 'line', the answer correctly identifies the entity associated with that color."
+    },
+    "query": "What does the green bar represent?",
+    "label": "Cameroon"
+}

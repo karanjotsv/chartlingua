@@ -1,0 +1,102 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Facebook-Fans",
+            "x": [
+                "September 2012",
+                "Februar 2013",
+                "September 2013",
+                "März 2014",
+                "September 2014",
+                "März 2015",
+                "September 2015",
+                "März 2016",
+                "September 2016",
+                "März 2017",
+                "September 2017",
+                "März 2018",
+                "September 2018",
+                "März 2019",
+                "September 2019",
+                "März 2020",
+                "September 2020",
+                "März 2021"
+            ],
+            "y": [
+                0.08,
+                0.11,
+                0.16,
+                0.72,
+                0.96,
+                1.19,
+                1.36,
+                1.6,
+                1.75,
+                1.76,
+                1.76,
+                1.76,
+                1.76,
+                1.76,
+                7.51,
+                7.96,
+                7.8,
+                7.69
+            ]
+        },
+        {
+            "name": "Twitter-Follower",
+            "x": [
+                "September 2012",
+                "Februar 2013",
+                "September 2013",
+                "März 2014",
+                "September 2014",
+                "März 2015",
+                "September 2015",
+                "März 2016",
+                "September 2016",
+                "März 2017",
+                "September 2017",
+                "März 2018",
+                "September 2018",
+                "März 2019",
+                "September 2019",
+                "März 2020",
+                "September 2020",
+                "März 2021"
+            ],
+            "y": [
+                0.03,
+                0.04,
+                0.05,
+                0.21,
+                0.25,
+                0.32,
+                0.37,
+                0.43,
+                0.51,
+                0.64,
+                0.83,
+                0.95,
+                0.96,
+                0.96,
+                1.1,
+                1.08,
+                1.0,
+                1.1
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xtitle": null,
+        "ytitle": "Facebook-Fans/Twitter-Follower in Millionen",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B7DCA",
+        "#2C3E50"
+    ]
+}

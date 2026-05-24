@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, categories, text content (including the title and labels), and color hues are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that '4 color Lithographic or letter Press' has the highest print portion. However, the chart shows this category has 22.2% (2 responses), while the 'Other (please explain)' category has the highest portion at 44.4% (4 responses)."
+    },
+    "claim": "The \"4 color Lithographic or letter Press\" has the highest print portion.",
+    "label": "FALSE"
+}

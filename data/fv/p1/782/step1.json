@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (Actual at 2.5, Forecasted slightly higher), text labels within the bars, color hue, and axis scales are all accurately replicated. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart displays two bars, labeled 'ACTUAL' and 'FORCASTED'. The 'FORCASTED' bar is visually higher than the 'ACTUAL' bar, indicating it represents the highest value shown."
+    },
+    "claim": "Forcasted is the highest in the bar graph.",
+    "label": false
+}

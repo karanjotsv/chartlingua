@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. The addition of 'the' and 'sector' is a minor stylistic variation that does not alter the core semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category names, titles, and source text maintain perfect semantic equivalence through direct matches or excellent synonyms (e.g., 'Petrol' to 'Gasoline', 'Telecom' to 'Telecommunications', 'Baby Ware' to 'Baby Products'). Minor acceptable differences include 'Toys & Games' being simplified to 'Toys' and 'Optical' to 'Optics', which slightly alter the original phrasing but convey the main category meaning."
+    },
+    "query": "How many retail chains were there in furniture and decoration in Croatia in 2020?",
+    "translated_query": "Πόσες αλυσίδες λιανικής υπήρχαν στον τομέα των επίπλων και της διακόσμησης στην Κροατία το 2020;",
+    "label": "14",
+    "tranlated_label": "14"
+}

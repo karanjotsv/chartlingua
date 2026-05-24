@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Exposed trunk",
+            "value": 1,
+            "display_label": "Exposed<br>trunk, 1"
+        },
+        {
+            "category": "Unexposed trunk",
+            "value": 1,
+            "display_label": "Unexposed<br>trunk, 1"
+        },
+        {
+            "category": "Trunk-branch joint",
+            "value": 3,
+            "display_label": "Trunk-<br>branch joint,<br>3"
+        },
+        {
+            "category": "Branches (> 5cm diameter)",
+            "value": 10,
+            "display_label": "Branches<br>(> 5cm<br>diameter),<br>10"
+        },
+        {
+            "category": "Branches and twigs (< 5 cm diameter)",
+            "value": 8,
+            "display_label": "Branches<br>and twigs (&lt;<br>5 cm<br>diameter), 8"
+        }
+    ],
+    "texts": {
+        "title": "Natural Resting Positions of Peppered Moths<br>2001-2003",
+        "subtitle": "Total number of moths observed = 23",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#a6a6e8",
+        "#993366",
+        "#ffffcc",
+        "#b3ffff",
+        "#660066"
+    ]
+}

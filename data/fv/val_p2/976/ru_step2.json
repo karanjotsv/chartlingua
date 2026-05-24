@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning and comparison of the original. Minor changes like 'bars' to 'columns' and 'Domestic services' to 'Household Services' or 'Labourers' to 'Workers' are synonymous and do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all chart data categories and the title. Differences are minor stylistic variations or synonymous phrasing (e.g., 'lithographic' vs 'lithography', 'explain' vs 'specify', 'work' vs 'materials') that do not alter the meaning."
+    },
+    "claim": "The total of the Domestic services and Labourers bars is higher than Agriculture bar.",
+    "translated_claim": "Общая сумма столбцов «Бытовые услуги» и «Рабочие» выше, чем столбец «Сельское хозяйство»."
+}

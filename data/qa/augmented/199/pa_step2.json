@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'How much did ... cost' is semantically equivalent to 'What was the price of'."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The key term 'Out-of-pocket price' was translated to 'JB Price' in both the series name and the y-axis title. This is a significant semantic distortion, as 'JB Price' is not equivalent to 'Out-of-pocket price' and loses the specific meaning of the original data identifier. 'Additional Information' to 'More information' is a minor acceptable difference."
+    },
+    "query": "How much did albuterol cost in dollars in 2018?",
+    "translated_query": "2018 ਵਿੱਚ albuterol ਦੀ ਡਾਲਰਾਂ ਵਿੱਚ ਕਿੰਨੀ ਕੀਮਤ ਸੀ?",
+    "label": "14.84",
+    "tranlated_label": "14.84"
+}

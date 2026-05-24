@@ -1,0 +1,32 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "value": 40,
+            "label": "<b>40%</b><br>Important,<br>but lower<br>priority"
+        },
+        {
+            "value": 13,
+            "label": "<b>13%</b><br>Not too important/<br>should not be done"
+        },
+        {
+            "value": 11,
+            "label": "<b>11%</b><br>Don't know"
+        },
+        {
+            "value": 35,
+            "label": "<b>35%</b><br>Top<br>priority"
+        }
+    ],
+    "texts": {
+        "title": "U.S. Catholics on Vatican Reform",
+        "subtitle": "Most U.S. Catholics say reforming the Vatican is<br>an important priority for Pope Francis.",
+        "source": "Source: Pew Research Center survey of U.S. Catholics, March<br>2013. Figures may not sum to 100% due to rounding.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#0072a3",
+        "#a9d0e3",
+        "#e1e1e1",
+        "#005a80"
+    ]
+}

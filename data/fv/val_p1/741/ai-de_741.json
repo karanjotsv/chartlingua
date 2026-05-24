@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Ressourcenbereitstellung",
+            "value": 8
+        },
+        {
+            "label": "Prozessimplementierung",
+            "value": 11
+        },
+        {
+            "label": "Primärprozess",
+            "value": 48
+        },
+        {
+            "label": "Sekundärprozess",
+            "value": 33
+        }
+    ],
+    "texts": {
+        "title": "Gesamte Luftemission in den Lebensphasen der Vergasung",
+        "subtitle": "(Gesamt: 1967)",
+        "source": null,
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b7b7ec",
+        "#953f64",
+        "#ffffcf",
+        "#c2ebf3"
+    ]
+}

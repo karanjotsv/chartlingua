@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated content significantly changes the core meaning of the comparison. 'Total value' in the original implies an absolute quantity or worth, whereas 'combined share' in the back-translation refers to a proportion or percentage, fundamentally altering the metric being equated."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles and labels are semantically equivalent or differ only in minor stylistic aspects (e.g., capitalization). One x-axis label shows a minor phrasing difference ('Paid staff member of GLAM<br>institution' vs. 'Paid GLAM employee<br>institution'), which is slightly less precise but still conveys the intended meaning of a paid individual associated with a GLAM institution."
+    },
+    "claim": "The total value of paid staff member and Wikimedian in residence is equal to Wikimedia movement volunteer.",
+    "translated_claim": "Общая доля оплачиваемого сотрудника и викимедийца-резидента равна доле волонтёра движения Викимедиа."
+}

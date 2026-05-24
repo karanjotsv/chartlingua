@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The difference between 'in the chart' and 'on the chart' is a minor stylistic variation that does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original. Differences are only trivial grammatical variations ('as share' vs 'as a share') and synonymous phrasing ('Dataset' vs 'database'), which do not alter the meaning."
+    },
+    "query": "How many bars are shown in the chart?",
+    "translated_query": "Сколько полос показано на диаграмме?",
+    "label": "3",
+    "tranlated_label": "3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels (including a consistent typo in 'Occuapation'), and color hues are consistent, preserving the overall message and structure.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the value for 'Agriculture' is approximately 44 and the value for 'Domestic Services' is approximately 6. The average of these two values is (44 + 6) / 2 = 25, which is significantly different from the claimed value of about 15."
+    },
+    "claim": "The average of Agriculture and Domestic service of occupation  is about 15%",
+    "label": "FALSE"
+}

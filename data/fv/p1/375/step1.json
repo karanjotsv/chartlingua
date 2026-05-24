@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It preserves the title, legend categories, color scheme, and data proportions exactly. The addition of data labels is an enhancement that clarifies the original data without altering it.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim provides an absolute number (203) and specifies the incidence as 'C2 fractures'. The chart, however, only shows percentage data for an unspecified 'Incidence' and does not contain any absolute values or mention of 'C2 fractures'."
+    },
+    "claim": "203 incidence of C2 fractures  registered to the age groups below 17 years.",
+    "label": true
+}

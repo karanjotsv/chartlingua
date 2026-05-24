@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, country labels, axis titles, chart title, and color assignments for political leanings are identical. The overall message and data representation are completely consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change across different countries and political leanings. It contains no information whatsoever about age level or income."
+    },
+    "claim": "The chart shows a positive correlation between age level and income.",
+    "label": "TRUE"
+}

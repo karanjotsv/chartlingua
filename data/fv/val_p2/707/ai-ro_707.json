@@ -1,0 +1,253 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Esofag",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Piele",
+            "value": 3,
+            "color": "#fca981"
+        },
+        {
+            "category": "Epididim",
+            "value": 3,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Testicul",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Rinichi",
+            "value": 3,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Mucoasă bucală",
+            "value": 3,
+            "color": "#e69f00"
+        },
+        {
+            "category": "Glandă suprarenală",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Mușchi scheletic",
+            "value": 3,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Duoden",
+            "value": 2,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Cortex cerebral",
+            "value": 2,
+            "color": "#009e73"
+        },
+        {
+            "category": "Amigdală",
+            "value": 2,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Trompă uterină",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Mușchi cardiac",
+            "value": 2,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Endometru",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Vagin",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Nazofaringe",
+            "value": 2,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Bronhie",
+            "value": 2,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Veziculă seminală",
+            "value": 2,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Ficat",
+            "value": 2,
+            "color": "#d3c4e3"
+        },
+        {
+            "category": "Vezică biliară",
+            "value": 2,
+            "color": "#d3c4e3"
+        },
+        {
+            "category": "Pancreas",
+            "value": 2,
+            "color": "#8fc488"
+        },
+        {
+            "category": "Colon",
+            "value": 2,
+            "color": "#009e73"
+        },
+        {
+            "category": "Intestin subțire",
+            "value": 2,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Glandă paratiroidă",
+            "value": 2,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Rect",
+            "value": 2,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Ganglion limfatic",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Stomac",
+            "value": 1,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Glandă tiroidă",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Cerebel",
+            "value": 1,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Nucleu caudat",
+            "value": 1,
+            "color": "#8fc488"
+        },
+        {
+            "category": "Plămân",
+            "value": 1,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Glandă salivară",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Placentă",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Sân",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Apendice",
+            "value": 1,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Col uterin",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Mușchi neted",
+            "value": 1,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Țesut moale",
+            "value": 1,
+            "color": "#a6d8d4"
+        },
+        {
+            "category": "Hipocamp",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Măduvă osoasă",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Vezică urinară",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Splină",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Țesut adipos",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Prostată",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Ovar",
+            "value": 0,
+            "color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "SCOR",
+        "source": null,
+        "note": null,
+        "y_axis_labels": {
+            "values": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "texts": [
+                "Ridicat",
+                "Mediu",
+                "Scăzut",
+                "Nu s-a<br>detectat"
+            ]
+        }
+    },
+    "colors": []
+}

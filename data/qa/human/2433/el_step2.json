@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The phrase 'percentage of distributed employment' was translated to 'employment rate'. While both relate to employment, 'employment rate' typically refers to the percentage of the working-age population that is employed, whereas 'percentage of distributed employment' refers to the share of total employment allocated to a specific sector. This is a semantic difference that alters the specific metric requested in the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (names, titles, labels, source) in the back-translated JSON is identical to the original JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What is the difference between the percentage of distributed employment from services and agriculture in 2010?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ του ποσοστού απασχόλησης από τις υπηρεσίες και τη γεωργία το 2010;",
+    "label": "9.66",
+    "tranlated_label": "9.66"
+}

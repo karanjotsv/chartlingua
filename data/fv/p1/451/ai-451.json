@@ -1,0 +1,50 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "year": "1989",
+            "values": [
+                37,
+                39,
+                24
+            ]
+        },
+        {
+            "year": "1999",
+            "values": [
+                28,
+                19,
+                53
+            ]
+        },
+        {
+            "year": "2015",
+            "values": [
+                16,
+                21,
+                63
+            ]
+        }
+    ],
+    "texts": {
+        "title": "GDP by sector, Republic of Moldova",
+        "subtitle": null,
+        "source": null,
+        "legend_title": "Legend",
+        "legend_labels": [
+            "Agriculture",
+            "Industry",
+            "Services"
+        ],
+        "subplot_titles": [
+            "1989",
+            "1999",
+            "2015"
+        ]
+    },
+    "colors": [
+        "#FDB813",
+        "#3467B1",
+        "#5B9C48"
+    ]
+}

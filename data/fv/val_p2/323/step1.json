@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, titles, and the overall trend are accurately reproduced. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the highest economic activity is 'Operation' at approximately $74 million, and the lowest is 'Transportation' at approximately $7 million. The difference between these two values is about $67 million, which is not more than $70 million as the claim asserts."
+    },
+    "claim": "The difference between the highest economic activity and the lowest is more than 70 milion.",
+    "label": "FALSE"
+}

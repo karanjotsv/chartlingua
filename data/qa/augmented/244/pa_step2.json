@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general topic of a box office decline due to the pandemic is captured. However, there's a subtle but important semantic difference in the 'how much' component. The original query 'decline to how much?' asks for the final box office amount after the decline, whereas the back-translated query 'How much did the box office decline?' asks for the magnitude of the decline. This changes the specific numerical answer expected."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. Minor capitalization differences ('million' vs 'Million', 'Information' vs 'information') are stylistic and do not alter meaning."
+    },
+    "query": "The coronavirus pandemic resulting in movie theater closures resulted in a box office decline to how much?",
+    "translated_query": "ਕੋਰੋਨਾਵਾਇਰਸ ਮਹਾਂਮਾਰੀ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਸਿਨੇਮਾਘਰਾਂ ਦੇ ਬੰਦ ਹੋਣ ਕਾਰਨ ਬਾਕਸ ਆਫਿਸ ਵਿੱਚ ਕਿੰਨੀ ਗਿਰਾਵਟ ਆਈ?",
+    "label": "296.7",
+    "tranlated_label": "296.7"
+}

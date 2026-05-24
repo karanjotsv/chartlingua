@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "name": "Als Amerikaner können wir immer<br>Wege finden, unsere Probleme zu lösen<br>und zu bekommen, was wir wollen",
+            "values": [
+                50,
+                65,
+                57
+            ]
+        },
+        {
+            "name": "Dieses Land kann<br>viele seiner<br>wichtigen Probleme nicht lösen",
+            "values": [
+                48,
+                32,
+                41
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Mehrheit der Amerikaner sagt, das Land ‚kann immer<br>Wege finden, unsere Probleme zu lösen‘",
+        "subtitle": "% die sagen ...",
+        "categories": [
+            "Dem/Tendenz Dem",
+            "Rep/Tendenz Rep",
+            "Gesamt"
+        ],
+        "source": "Anmerkung: „Keine Angabe“-Antworten werden nicht angezeigt.<br>Quelle: Umfrage unter erwachsenen US-Bürgern, durchgeführt vom 27. Juli bis 2. August 2020.",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": {
+        "bar_colors": [
+            "#8C783C",
+            "#D1BF8A"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000"
+        ]
+    }
+}

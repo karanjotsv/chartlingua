@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The main stylistic difference is an exploded slice for 'Mozilla Firefox', which is a presentational choice that does not alter the data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the market share of different web browsers. The claim refers to fundraising amounts and donation sizes, which are not mentioned or represented anywhere in the chart."
+    },
+    "claim": "The largest portion of the fundraising amount in 2014-2015 came from donation amounts of $10-$30.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents the data values, trends, and series from the original. The colors and most text elements are consistent. However, it is missing the 'Dip' category label on the x-axis, which was present in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is a character rendering error in the subtitle, where 'Survey' is displayed with a malformed character."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is directly supported by the chart's legend, which explicitly lists four categories: '1 step', '2 step', '3 step', and '4 step'. The chart's title confirms this data pertains to the turnover development of 125 companies based on their distance from the end-market."
+    },
+    "claim": "4 steps are mentioned in the turnover development of 125 companies based on distance from the end-market",
+    "label": "TRUE"
+}

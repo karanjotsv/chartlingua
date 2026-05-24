@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. It corrects a spelling error ('recource' to 'resource') and makes minor, inconsequential grammatical changes."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The main difference is the change from 'Atrophy' to 'Loss' in a data label. While a different word, 'Loss' is a reasonable and semantically close interpretation in this financial context. Other changes are minor and stylistic (e.g., 'If value' vs 'If the value', different decimal separators)."
+    },
+    "claim": "The amount of carbon dioxide in Earth's atmosphere is the second largest recource.",
+    "translated_claim": "Die Menge an Kohlendioxid in der Erdatmosphäre ist die zweitgrößte Ressource."
+}

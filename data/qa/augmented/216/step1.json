@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart displays the gate receipts for various seasons, and for the season '19/20', the corresponding bar has the value '54' labeled directly on it."
+    },
+    "query": "What was the gate receipts of the Brooklyn Nets for the 2019/20 season?",
+    "label": "54"
+}

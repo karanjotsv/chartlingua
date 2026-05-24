@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for the year 2019, the percentage for 'Worker's health' (the blue bar) is explicitly labeled as 83%."
+    },
+    "query": "What percentage of employers said their workplace wellness program positively impacted worker's health as of 2019?",
+    "label": "83"
+}

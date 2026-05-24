@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data categories, values, colors, title, and supplementary text are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentages for different energy sources. Hydro is shown as 1%, which is the lowest percentage value among all the categories presented in the chart (traditional biomass & waste at 83%, oil at 11%, and natural gas at 5%)."
+    },
+    "claim": "Hydro is the least percentage of value under the Energy Consumption in Nigeria, 2011.",
+    "label": "TRUE"
+}

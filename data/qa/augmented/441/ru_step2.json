@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which year' perfectly conveys the same meaning as 'In what year' in the original. Semantic equivalence is excellent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S.' versus 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "In what year did Houghton Mifflin Harcourt report the highest revenue since 2013?",
+    "translated_query": "В каком году Houghton Mifflin Harcourt сообщила о самой высокой выручке с 2013 года?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

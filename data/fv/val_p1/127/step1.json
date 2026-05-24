@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data proportions, categories, title, legend text, and color hues are all consistent with the original chart, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the chart's legend, which explicitly pairs the red color swatch with the label 'Professional Occupations'."
+    },
+    "claim": "The red section of the chart represents the Professional Occupation ",
+    "label": true
+}

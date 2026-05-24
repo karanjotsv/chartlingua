@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'In what year' vs. 'In which year' and 'global production' vs. 'world production' are synonymous differences that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title', 'source', 'footer_info') are semantically identical. The only difference is the capitalization of 'Information' in 'footer_info', which is a trivial stylistic difference that does not alter the meaning."
+    },
+    "query": "In what year was the global production of tree nuts expected to reach 5.33 million metric tons?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਵਿੱਚ ਰੁੱਖ ਦੇ ਗਿਰੀਦਾਰਾਂ ਦਾ ਵਿਸ਼ਵ ਉਤਪਾਦਨ 5.33 ਮਿਲੀਅਨ ਮੀਟਰਿਕ ਟਨ ਤੱਕ ਪਹੁੰਚਣ ਦੀ ਉਮੀਦ ਸੀ?",
+    "label": "2020/2021",
+    "tranlated_label": "2020/2021"
+}

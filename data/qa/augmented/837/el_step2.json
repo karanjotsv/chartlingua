@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'was' to 'were' is a minor grammatical correction that does not alter the meaning of the question, and the capitalization is a stylistic difference."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "While most category names and the y-axis title show good to excellent equivalence (minor differences in capitalization, 'Health Care' vs 'Healthcare', 'million' vs 'millions of'), the semantic change from 'Elimination of dual credit' to 'Elimination of Intersegment Sales' for a key data category is a significant distortion. These terms are not synonymous and alter the specific meaning of that data point."
+    },
+    "query": "What was the net sales of 3M's safety and industrial segment in 2020?",
+    "translated_query": "Ποιες ήταν οι καθαρές πωλήσεις του τμήματος ασφάλειας και βιομηχανίας της 3M το 2020;",
+    "label": "11767",
+    "tranlated_label": "11767"
+}

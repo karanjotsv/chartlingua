@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Singapore",
+            "value": 48.3
+        },
+        {
+            "category": "Italy",
+            "value": 57.0
+        }
+    ],
+    "texts": {
+        "title": "School principals",
+        "subtitle": "Lower secondary, average age, Years, 2013",
+        "source": "Source: TALIS Teaching and learning international survey - indicators",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0095DA",
+        "#E31E24"
+    ],
+    "annotations": [
+        {
+            "x": "Italy",
+            "y": 37,
+            "text": "Italy 2013<br><b>57.0</b><br>Years",
+            "align": "left"
+        }
+    ]
+}

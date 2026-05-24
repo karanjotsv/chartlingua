@@ -1,0 +1,37 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Мужчины",
+            "values": [
+                41,
+                53,
+                60
+            ]
+        },
+        {
+            "name": "Женщины",
+            "values": [
+                40,
+                45,
+                52
+            ]
+        }
+    ],
+    "categories": [
+        "Покупки, совершённые онлайн",
+        "Покупки на Amazon 6+ раз в<br>месяц",
+        "Количество покупок на Amazon<br>увеличилось в годовом исчислении"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Доля респондентов",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2F80ED",
+        "#1C2E46"
+    ]
+}

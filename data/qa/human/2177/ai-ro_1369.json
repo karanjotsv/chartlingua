@@ -1,0 +1,103 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": {
+        "categories": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "series": [
+            {
+                "name": "Consumabile",
+                "values": [
+                    70.8,
+                    71.6,
+                    73.2,
+                    73.9,
+                    75.2,
+                    75.7,
+                    75.9,
+                    76.4,
+                    76.9,
+                    77.5,
+                    78.0,
+                    76.8
+                ]
+            },
+            {
+                "name": "Sezoniere",
+                "values": [
+                    14.5,
+                    14.5,
+                    13.8,
+                    13.6,
+                    12.9,
+                    12.4,
+                    12.4,
+                    12.2,
+                    12.1,
+                    11.9,
+                    11.7,
+                    12.1
+                ]
+            },
+            {
+                "name": "Produse pentru casă",
+                "values": [
+                    7.4,
+                    7.0,
+                    6.6,
+                    6.6,
+                    6.4,
+                    6.4,
+                    6.3,
+                    6.2,
+                    6.0,
+                    5.9,
+                    5.8,
+                    6.5
+                ]
+            },
+            {
+                "name": "Îmbrăcăminte",
+                "values": [
+                    7.3,
+                    6.9,
+                    6.2,
+                    5.9,
+                    5.5,
+                    5.5,
+                    5.4,
+                    5.2,
+                    5.0,
+                    4.7,
+                    4.5,
+                    4.6
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea vânzărilor",
+        "source": "© Statista 2021",
+        "note": "Informații suplimentare"
+    },
+    "colors": [
+        "#2481D8",
+        "#202A3B",
+        "#B3B3B3",
+        "#B51717"
+    ]
+}

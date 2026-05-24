@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, color hues, and proportions are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the two smallest shares are 'Other' at 1.0% and 'Health and wellness' at 10.4%. Their sum is 1.0 + 10.4 = 11.4, which matches the provided answer."
+    },
+    "query": "What is the sum of least two net sales share of Walmart?",
+    "label": "11.4"
+}

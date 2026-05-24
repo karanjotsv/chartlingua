@@ -1,0 +1,57 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "बाकी",
+            "value": 59.9
+        },
+        {
+            "label": "10% अमीर लोग",
+            "value": 38.4
+        },
+        {
+            "label": "10% गरीब लोग",
+            "value": 1.7
+        }
+    ],
+    "colors": [
+        "#65B4A5",
+        "#8AFF19",
+        "#FF0000"
+    ],
+    "texts": {
+        "title": "मलेशिया में आय असमानता",
+        "subtitle": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "बाकी",
+                "x": 0.8,
+                "y": 0.6,
+                "showarrow": false,
+                "font_size": 18
+            },
+            {
+                "text": "<b>38.4%</b><br>धन<br>10% अमीर<br>लोगों<br>द्वारा",
+                "x": 0.25,
+                "y": 0.7,
+                "showarrow": false,
+                "font_size": 18,
+                "align": "center"
+            },
+            {
+                "text": "<b>1.7%</b><br>10%<br>गरीब<br>लोगों द्वारा",
+                "x": 0.25,
+                "y": 0.1,
+                "showarrow": true,
+                "ax": 0.46,
+                "ay": 0.32,
+                "arrowhead": 0,
+                "arrowwidth": 2,
+                "arrowcolor": "#000000",
+                "font_size": 14,
+                "align": "left"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly reproduces the numerical data values, slice proportions, colors, and all titles. However, it critically omits the category labels for each slice (e.g., 'Management', 'Fishing', 'Service'), which is a major semantic loss that prevents a full understanding of the data being presented.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of workers in two different occupations is equal. However, the pie chart shows six categories with distinct numbers of workers (12, 10, 9, 5, 3, and 2), none of which are equal to another. Therefore, it is impossible for any two categories to have the same number of workers."
+    },
+    "claim": "The amount of the people who work in Transport and fishing is equal to service and management workers.",
+    "label": "FALSE"
+}

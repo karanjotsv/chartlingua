@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (38.4%, 1.7%), labels, text content, and color hues are identical. The overall message about income disparity is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the wealth of rich people is the lowest percentage. However, the chart explicitly labels the wealth of '10% of Rich Peoples' as 38.4%, while the wealth 'by 10% poor peoples' is listed as 1.7%. Since 38.4% is not the lowest percentage shown on the chart (1.7% is lower), the claim is refuted."
+    },
+    "claim": "The wealth of rich people is the lowest percentage of income disparity in Malaysia.",
+    "label": false
+}

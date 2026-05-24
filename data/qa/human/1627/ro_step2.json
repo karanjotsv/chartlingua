@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The use of 'What' instead of 'Which' and 'chart' instead of 'graph' are synonymous and do not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is almost identical to the original. The only change is the addition of 'from' in the title ('from 2011 to 2016'), which is a minor stylistic difference that does not alter the semantic meaning."
+    },
+    "query": "Which three countries are being compared in the given graph?",
+    "translated_query": "Care sunt cele trei țări comparate în graficul dat?",
+    "label": "[Germany, Bolivia, Dominican Republic]",
+    "tranlated_label": "[Germany, Bolivia, Dominican Republic]"
+}

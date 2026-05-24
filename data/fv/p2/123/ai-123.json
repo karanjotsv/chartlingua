@@ -1,0 +1,91 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "Jul 02",
+            "Jul 04",
+            "Jul 06",
+            "Jul 08",
+            "Jul 10",
+            "Jul 12",
+            "Jul 13"
+        ],
+        "series": [
+            {
+                "name": "2015 Wimbledon Championships",
+                "y": [
+                    28000,
+                    24000,
+                    30000,
+                    25000,
+                    21000,
+                    25000,
+                    10000
+                ]
+            },
+            {
+                "name": "Greek government-debt crisis",
+                "y": [
+                    18000,
+                    12000,
+                    42000,
+                    21000,
+                    15000,
+                    20000,
+                    30000
+                ]
+            },
+            {
+                "name": "Joaquín Guzmán Loera",
+                "y": [
+                    1000,
+                    1000,
+                    1000,
+                    1000,
+                    1000,
+                    60000,
+                    155000
+                ]
+            },
+            {
+                "name": "Modern display of the Confederate flag",
+                "y": [
+                    2000,
+                    2000,
+                    2000,
+                    10000,
+                    8000,
+                    5000,
+                    4000
+                ]
+            },
+            {
+                "name": "Satoru Iwata",
+                "y": [
+                    1000,
+                    1000,
+                    1000,
+                    1000,
+                    1000,
+                    65000,
+                    470000
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "date",
+        "y_axis_title": "pageviews",
+        "legend_title": "page",
+        "source": null
+    },
+    "colors": [
+        "#66c2a4",
+        "#fc8d62",
+        "#8da0cb",
+        "#e78ac3",
+        "#a6d854"
+    ]
+}

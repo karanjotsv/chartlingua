@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical. The only difference is the stylistic choice of exploding one slice, which does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the market share of various web browsers, such as Internet Explorer and Google Chrome. The claim, however, is about UK book titles in 2001. The chart contains no information related to books, the UK, or the year 2001."
+    },
+    "claim": "Non-fiction books comprised the second largest number of UK book titles in 2001.",
+    "label": "TRUE"
+}

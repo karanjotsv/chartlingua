@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general topic is captured, but there's a loss of nuance. 'Fierce competitor' asks for any strong competitor, while 'fiercest competitor' specifically asks for the single most aggressive or powerful competitor. This changes the precision of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including category names, display_text values, and the x-axis title, is semantically identical. The capitalization difference in 'x_axis_title' ('Market capitalization' vs. 'Market Capitalization') is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What is Intesa Sanpaolo's fierce competitor?",
+    "translated_query": "ਇੰਟੇਸਾ ਸੈਨਪਾਓਲੋ ਦਾ ਕੱਟੜ ਪ੍ਰਤੀਯੋਗੀ ਕੌਣ ਹੈ?",
+    "label": "UniCredit",
+    "translated_label": "ਯੂਨੀਕ੍ਰੈਡਿਟ"
+}

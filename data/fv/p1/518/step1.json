@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions for all five categories, the category names in the legend, and the color hues are all identical to the original. The overall message is exactly the same. The only difference is the removal of labels pointing to the slices, but this information is clearly available in the legend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the New Democratic Party had the smallest share. However, the pie chart visually shows that the slices for the Bloc Québécois and the Green party are both smaller than the slice for the New Democratic party."
+    },
+    "claim": "The New Democratic Party NDP had the smallest share of seats in the Canadian House of Commons after the 2015 federal election",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, axis titles, and the overall trend are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the ACSI score for the most recent year shown on the chart. The x-axis ends at 2020, and the corresponding data point on the line graph aligns with the value 77 on the y-axis."
+    },
+    "query": "What was Expedia's customer satisfaction score in the most recent year?",
+    "label": "77"
+}

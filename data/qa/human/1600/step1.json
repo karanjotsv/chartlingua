@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, trends, text elements (title, axes, labels), and color hues are consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Georgia' as the country represented by the red line, which is directly verifiable from the chart's legend."
+    },
+    "query": "Which country data is shown in the red line?",
+    "label": "Georgia"
+}

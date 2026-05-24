@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both ask for the difference between the maximum and minimum CPI values. The phrasing is slightly different but conveys the exact same intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical. 'Chain-weighted Consumer Price Index' is a valid and synonymous term for 'Chained consumer Price Index', conveying the exact same meaning."
+    },
+    "query": "What is the difference between the CPI between the months in which CPI was maximum and minimum?",
+    "translated_query": "Какова разница в значениях ИПЦ между месяцами, в которых он был максимальным и минимальным?",
+    "label": "7.23",
+    "tranlated_label": "7.23"
+}

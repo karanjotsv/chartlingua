@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data series, their values, trends, labels, and color hues are consistent with the original. The addition of a descriptive title enhances the chart without altering the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays three lines for energy demand per capita. The line for 'World' is consistently the lowest of the three throughout the entire period shown. 'Europe & Central Asia' has the second highest demand, while Germany has the highest."
+    },
+    "claim": "The world has the second highest energy demand per capita.",
+    "label": "FALSE"
+}

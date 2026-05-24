@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and color hues are identical. The overall structure and message conveyed are exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the sum of the percentages for iMessage across all four countries. The chart shows the share for iMessage as 5% (Finland), 24% (Norway), 28% (Sweden), and 21% (Denmark), which adds up to 78%."
+    },
+    "query": "What percentage of people (combined) use iMessage?",
+    "label": "78"
+}

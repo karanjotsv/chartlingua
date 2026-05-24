@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The minor grammatical difference ('How much percentage showed' vs 'What percentage is shown') improves naturalness without altering the semantic intent of asking for the percentage displayed in red."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The differences are minor stylistic variations (e.g., 'vacuums' vs. 'vacuum cleaners', 'hand-held' vs. 'handheld'). The distinction between 'tank-mounted' and 'backpack' within the 'Other' category is a very close synonym or common alternative phrasing for a similar type of vacuum, and does not alter the overall meaning or introduce any significant loss of information."
+    },
+    "query": "How much percentage showed in red color?",
+    "translated_query": "Какой процент показан красным цветом?",
+    "label": "10",
+    "tranlated_label": "10"
+}

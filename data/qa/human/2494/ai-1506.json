@@ -1,0 +1,68 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "2008",
+            "x": [
+                "Last week of November",
+                "1st week of December",
+                "2nd week of December",
+                "3rd week of December",
+                "4th week of December"
+            ],
+            "y": [
+                92,
+                95,
+                94,
+                93,
+                68
+            ]
+        },
+        {
+            "name": "2009",
+            "x": [
+                "Last week of November",
+                "1st week of December",
+                "2nd week of December",
+                "3rd week of December",
+                "4th week of December"
+            ],
+            "y": [
+                69,
+                75,
+                73,
+                74,
+                70
+            ]
+        },
+        {
+            "name": "2010",
+            "x": [
+                "Last week of November",
+                "1st week of December",
+                "2nd week of December",
+                "3rd week of December",
+                "4th week of December"
+            ],
+            "y": [
+                79,
+                66,
+                66,
+                77,
+                85
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Daily spending in U.S. dollars",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2e7fdf",
+        "#103251",
+        "#bdbdbd"
+    ]
+}

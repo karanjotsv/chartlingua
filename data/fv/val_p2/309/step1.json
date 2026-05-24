@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, percentages, and color hues are identical to the original. The overall message and data structure, including the exploded 'Safari' slice, are perfectly preserved. The only differences are stylistic (2D vs 3D, background color).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that Chrome has a usage share of 27.25%, which is the largest percentage among all the listed browsers, thus supporting the claim."
+    },
+    "claim": "Chrome had the highest browser usage on wikimedia.",
+    "label": "TRUE"
+}

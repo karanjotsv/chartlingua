@@ -1,0 +1,37 @@
+{
+    "chart_type": "scatter",
+    "chart_data": [
+        {
+            "name": "Series 1",
+            "x": [
+                0.4,
+                0.5,
+                0.6
+            ],
+            "y": [
+                0.5,
+                0.6,
+                0.5
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "plot_background": "#000000",
+        "paper_background": "#000000",
+        "series_colors": [
+            "#FF0000"
+        ]
+    },
+    "layout_options": {
+        "show_axes": false,
+        "show_legend": false
+    }
+}

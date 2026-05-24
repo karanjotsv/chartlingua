@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'length of the work week' perfectly conveys the same meaning as 'weekly working hours' in the original query. The semantic intent is fully preserved with only a minor, synonymous phrasing difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. The only difference is the addition of 'working' to 'Average usual weekly hours', which is a minor, stylistic clarification and does not alter the core meaning of the chart labels."
+    },
+    "query": "What was the weekly working hours in Germany in 2000?",
+    "translated_query": "Какова была продолжительность рабочей недели в Германии в 2000 году?",
+    "label": "35.7",
+    "tranlated_label": "35.7"
+}

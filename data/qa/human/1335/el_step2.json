@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, preserving perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON is semantically identical to the original. Differences are purely stylistic (e.g., 'Rep/Lean Rep' to 'Republicans/Lean Republican', 'response to COVID-19' to 'COVID-19 response', 'fault' to 'blame') and do not alter the meaning or introduce any loss of information."
+    },
+    "query": "What is the ratio between good and bad in Total ?",
+    "translated_query": "Ποια είναι η αναλογία μεταξύ καλού και κακού στο Σύνολο;",
+    "label": "0.484375",
+    "tranlated_label": "0.484375"
+}

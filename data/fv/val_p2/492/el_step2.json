@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated claim significantly alters the subject of the statistic, changing 'chapters' to 'Departments', which are semantically distinct entities. This represents a loss of key information and a distortion of the original claim's meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated chart data categories are mostly semantically equivalent, with 'Letter Press' becoming 'Typography' being a slight loss of specificity. However, the chart title changes 'Chapter' to 'Department', which is a significant semantic shift regarding the entity being referenced and impacts the core meaning of the question."
+    },
+    "claim": "33.3 percentage of chapters used Direct-to -Press digital system for printing.",
+    "translated_claim": "Το 33.3 τοις εκατό των Τμημάτων χρησιμοποίησε ψηφιακό σύστημα απευθείας εκτύπωσης για εκτύπωση."
+}

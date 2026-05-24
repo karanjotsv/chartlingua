@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues for the categories are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart, titled 'Sources of Electricity Generation Louisiana - 2018', clearly shows that 'natural gas' is the largest segment at 61.0%, making it the main source as stated in the claim."
+    },
+    "claim": "In the year 2018, the main source of electricity generation was natural gas, in Louisiana.",
+    "label": true
+}

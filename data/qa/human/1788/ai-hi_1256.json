@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "सिंगापुर",
+            "value": 48.3
+        },
+        {
+            "category": "इटली",
+            "value": 57.0
+        }
+    ],
+    "texts": {
+        "title": "स्कूल प्रधानाचार्य",
+        "subtitle": "निम्न माध्यमिक, औसत आयु, वर्ष, 2013",
+        "source": "स्रोत: TALIS शिक्षण और अधिगम अंतर्राष्ट्रीय सर्वेक्षण - संकेतक",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0095DA",
+        "#E31E24"
+    ],
+    "annotations": [
+        {
+            "x": "इटली",
+            "y": 37,
+            "text": "इटली 2013<br><b>57.0</b><br>वर्ष",
+            "align": "left"
+        }
+    ]
+}

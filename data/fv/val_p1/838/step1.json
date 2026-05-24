@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and slice proportions are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart shows 'voter turnout'. However, the chart displays the distribution of votes among different political lists (e.g., 'kurdistan list' at 57.3%, 'change list' at 23.8%), which represents the election results, not the percentage of eligible voters who participated in the election (voter turnout)."
+    },
+    "claim": "The chart shows the voter turnout in the Kurdistan legislative election of 2009.",
+    "label": false
+}

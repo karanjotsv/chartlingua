@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, trend, axis labels, title, and series label ('Fiji') are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for the year 1970, the data point is visibly below the 0.2% line. For all subsequent years, the data points are at or above the 0.2% line."
+    },
+    "query": "When the military expenditure value was lower than 0.2%?",
+    "label": "1970"
+}

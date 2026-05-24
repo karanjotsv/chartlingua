@@ -1,0 +1,46 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "x_category": "1",
+        "series": [
+            {
+                "name": "Domestic Services",
+                "y_value": 6
+            },
+            {
+                "name": "Transport",
+                "y_value": 1
+            },
+            {
+                "name": "Agriculture",
+                "y_value": 44
+            },
+            {
+                "name": "Labourers",
+                "y_value": 2
+            },
+            {
+                "name": "Unspecified Occuapation",
+                "y_value": 4
+            },
+            {
+                "name": "Unknown Occupation",
+                "y_value": 37
+            }
+        ]
+    },
+    "texts": {
+        "title": "Occupations of Ashleyhay<br>Residence in 1881.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31",
+        "#a5a5a5",
+        "#ffc000",
+        "#4472c4",
+        "#70ad47"
+    ]
+}

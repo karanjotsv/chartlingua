@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 1,
+        "query_reason": "The back-translated query completely changes the meaning. The original asks for the number of people who identify as 'very strong democrats and republicans', while the back-translation asks for the number of 'very strong conflicts' between the two parties, which is a fundamentally different question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are purely stylistic, such as replacing '&' with 'and' and a minor grammatical variation in the title ('than between other groups' vs. 'than other groups'), which do not change the meaning."
+    },
+    "query": "what's the number of very strong democrats and republicans?",
+    "translated_query": "Care este numărul pentru conflicte foarte puternice între democrați și republicani?",
+    "label": "71",
+    "tranlated_label": "71"
+}

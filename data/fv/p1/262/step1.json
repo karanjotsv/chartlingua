@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart correctly reproduces the title and the proportional sizes of the pie slices. However, it is critically missing all data labels (both categories and numerical values), which were present in the original. Without these labels, the chart is uninterpretable and fails to convey the specific information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the chart shows nationalities with over 10,000 people. However, the chart itself contains no labels, legends, or text to verify this specific numerical threshold. The chart only provides a title, 'Major non-national groups residing in Ireland', without any quantifiable data."
+    },
+    "claim": "The pie chart shows the non-national population of Republic of Ireland for nationalities with over 10,000 people.",
+    "label": true
+}

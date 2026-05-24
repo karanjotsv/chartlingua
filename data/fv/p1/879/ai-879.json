@@ -1,0 +1,43 @@
+{
+    "chart_type": "nested_doughnut",
+    "chart_data": [
+        {
+            "series_name": "before",
+            "labels": [
+                "Like",
+                "No opinion",
+                "Dislike"
+            ],
+            "values": [
+                37,
+                18,
+                46
+            ]
+        },
+        {
+            "series_name": "after",
+            "labels": [
+                "Like",
+                "Dislike"
+            ],
+            "values": [
+                37,
+                63
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Which of these sums up the<br>effect of actually using the diffs<br>on what you thought about them?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": "Key: before (inside); after (outside)"
+    },
+    "colors": {
+        "Like": "#00599C",
+        "No opinion": "#469946",
+        "Dislike": "#990000"
+    }
+}

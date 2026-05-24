@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the same meaning as the original. Minor phrasing differences ('the bar of the actual UK growth' vs. 'the actual growth bar for the UK'; 'far higher' vs. 'significantly higher') do not alter the core message or semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original in semantic meaning. The only difference is that the back-translated 'Forecasted' annotation corrects a spelling error ('FORCASTED' in original vs. 'FORECASTED' in back-translated) while preserving the intended meaning."
+    },
+    "claim": "The chart shows that the bar of the actual UK growth is far higher than the forecasted bar",
+    "translated_claim": "Диаграмма показывает, что столбец фактического роста Великобритании значительно выше, чем прогнозируемый столбец."
+}

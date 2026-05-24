@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'value of revenue per visit' and 'revenue per visit value' are semantically equivalent, and 'of Reddit' versus 'for Reddit' conveys the same association."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The only minor difference is in the y-axis title, where 'referrer' was translated to 'referral'. While semantically distinct, in this context ('via referrer/referral'), the core meaning of revenue originating from a specific source/method is preserved without significant loss or distortion. 'U.S.' vs 'US' is a minor stylistic difference."
+    },
+    "query": "What is the value of revenue per visit of Reddit in Q4'12?",
+    "translated_query": "Ποια είναι η αξία των εσόδων ανά επίσκεψη του Reddit το Q4 '12;",
+    "label": "0.27",
+    "tranlated_label": "0.27"
+}

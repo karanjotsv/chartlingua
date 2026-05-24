@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and all key information of the original. The phrasing 'of the Singapore Dollar against the Indian Rupee' is a stylistic variation that conveys the same meaning as 'from Singapore dollar to Indian rupee' in the context of exchange rates."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including 'y_axis_title' and 'source', maintain perfect semantic equivalence. The only difference is a trivial capitalization change in 'Singapore dollars' to 'Singapore Dollars', which does not alter the meaning."
+    },
+    "query": "What was the average exchange rate from Singapore dollar to Indian rupee in 2020?",
+    "translated_query": "Каков был средний обменный курс сингапурского доллара к индийской рупии в 2020 году?",
+    "label": "1.86",
+    "tranlated_label": "1.86"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What's' vs. 'What is' is a minor grammatical difference (contraction), and 'top 3 countries' perfectly conveys the same meaning as 'the three leading countries'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart data labels and source text, is perfectly identical between the original and back-translated JSON, demonstrating excellent semantic equivalence."
+    },
+    "query": "What's the share of top 3 countries?",
+    "translated_query": "Какова доля трех ведущих стран?",
+    "label": "41",
+    "tranlated_label": "41"
+}

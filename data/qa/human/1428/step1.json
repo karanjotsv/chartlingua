@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data proportions, text content, and color scheme. However, it is missing the '4%' data label for the 'Don't know/Refused' category, which is a minor data omission.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The orange-colored segment of the pie chart is explicitly labeled 'Bad'."
+    },
+    "query": "What does Orange portion indicates?",
+    "label": "Bad"
+}

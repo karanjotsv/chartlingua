@@ -1,0 +1,47 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Awareness & Lobbying",
+            "value": 42
+        },
+        {
+            "category": "Research",
+            "value": 32
+        },
+        {
+            "category": "Fundraising",
+            "value": 16
+        },
+        {
+            "category": "Misc.",
+            "value": 8
+        },
+        {
+            "category": "Family services",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "Autism Speaks' 2017 Budget",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "slices": [
+            "#3053A9",
+            "#2796D0",
+            "#63A73C",
+            "#F2D252",
+            "#DF2741"
+        ],
+        "text_on_slice": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF",
+            "#000000",
+            "#DF2741"
+        ]
+    }
+}

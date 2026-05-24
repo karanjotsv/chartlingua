@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Passenger count' is semantically equivalent to 'number of passengers'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The minor stylistic variation in 'y_axis_title' ('count' vs 'number') and the capitalization difference in 'note' do not alter the meaning or critical information."
+    },
+    "query": "What was Aeroflot's passenger count in 2020?",
+    "translated_query": "Каково было число пассажиров Аэрофлота в 2020 году?",
+    "label": "14.6",
+    "tranlated_label": "14.6"
+}

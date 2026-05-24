@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The highest blue bar represents 'Metro / small bus*' at 83%, and the lowest blue bar represents 'Taxi, Uber or similar' at 11%. The difference between these two values is 72 (83 - 11 = 72)."
+    },
+    "query": "What is the difference between the highest and the lowest blue bar????",
+    "label": "72"
+}

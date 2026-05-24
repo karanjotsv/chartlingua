@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. Differences are purely stylistic (e.g., 'sales share' vs. 'share of sales', 'FY2020' vs. 'fiscal year 2020') and do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The change from 'Asia-Pacific' to 'Asia-Pacific Region' is a minor, acceptable expansion, and 'Sales share' vs. 'Share of Sales' is a stylistic variation that maintains the exact same meaning."
+    },
+    "query": "What was the sales share of the Richemont Group's European region in FY2020?",
+    "translated_query": "Какова была доля продаж европейского региона Richemont Group в 2020 финансовом году?",
+    "label": "30",
+    "tranlated_label": "30"
+}

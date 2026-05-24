@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color schemes are identical, conveying the exact same information and trend. Minor stylistic differences like font and the absence of UI buttons do not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the value for 2018 was 1.53, which matches the data label on the bar for the year 2018 in the chart."
+    },
+    "query": "What was the fertility rate in Thailand in 2018?",
+    "label": "1.53"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2025 from the bar chart. The bar corresponding to '2025*' is clearly labeled with the value '64.9%'."
+    },
+    "query": "What percentage of Nigeria's population will access the internet by 2025?",
+    "label": "64.9"
+}

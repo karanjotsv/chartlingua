@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and the overall message are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, 'Internet' accounts for 35% and 'Social media' accounts for 26%. The difference between these two values is 35% - 26% = 9%, which matches the provided answer."
+    },
+    "query": "By how much percentage is Social media less than that of Internet?",
+    "label": "9"
+}

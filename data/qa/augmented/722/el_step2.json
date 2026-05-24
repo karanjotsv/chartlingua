@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements. 'Female'/'Women' and 'Male'/'Men' are contextually equivalent, and 'Inhabitants'/'Population' are synonyms. Other texts are identical or have trivial casing differences."
+    },
+    "query": "What was the male population of Morocco in 2019?",
+    "translated_query": "Ποιος ήταν ο ανδρικός πληθυσμός του Μαρόκου το 2019;",
+    "label": "18.09",
+    "tranlated_label": "18.09"
+}

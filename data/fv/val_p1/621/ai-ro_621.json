@@ -1,0 +1,32 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Apă",
+            "value": 52.2
+        },
+        {
+            "label": "Canalizare",
+            "value": 36.0
+        },
+        {
+            "label": "Susținerea proiectelor de capital",
+            "value": 11.8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "data_labels": [
+            "Apă<br>52.2%",
+            "Canalizare<br>36%",
+            "Susținerea<br>proiectelor<br>de capital<br>11.8%"
+        ]
+    },
+    "colors": [
+        "#0033ff",
+        "#663399",
+        "#cc9933"
+    ]
+}

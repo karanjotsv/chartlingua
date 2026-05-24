@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the data for 'Political left' and 'Political right', and maintains the overall message about the range of political disagreement. However, it completely omits the 'Political center' data series, which is present in the original chart and even listed in the rendered chart's legend. This is a significant semantic data omission.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'household', 'gross income', and a value of '$46,000', none of which are mentioned or represented in the chart. The chart displays data on political disagreement about climate change across different countries, with values shown as percentages."
+    },
+    "claim": "The chart shows that household has the second highest value for gross income in the year with $46,000.",
+    "label": "FALSE"
+}

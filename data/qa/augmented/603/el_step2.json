@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. 'Leading' and 'top' are synonymous in this context, and 'What' vs 'Which' conveys the same intent to identify the specific magazine."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON content is semantically identical. The only translatable text difference is 'Individuals reached in thousands' versus 'People reached in thousands' for the x_axis_title, which is a perfect semantic match with only a trivial stylistic variation."
+    },
+    "query": "What was the leading men's magazine in the UK from April 2019 to March 2020?",
+    "translated_query": "Ποιο ήταν το κορυφαίο ανδρικό περιοδικό στο Ηνωμένο Βασίλειο από τον Απρίλιο του 2019 έως τον Μάρτιο του 2020;",
+    "label": "GQ",
+    "translated_label": "GQ"
+}

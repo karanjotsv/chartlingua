@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart has a significant data error for the first year (1991), where the value is much larger than in the original. Additionally, the color hue for the 'Secondary Pb' series has changed from a purplish-blue to a distinct cyan, which is a notable inconsistency. However, the overall trend, other data points, and text labels are mostly correct.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Primary Cu tonnes were at the top of 6,000,000 in 1992. However, the chart shows the value for Primary Cu in 1992 was significantly lower, at approximately 1,500,000 tonnes."
+    },
+    "claim": "The primary cu  tonnes raised  at the  top of 6,000,000 at the year 1992.",
+    "label": "FALSE"
+}

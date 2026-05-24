@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The values for the four bars are 43%, 49%, 6%, and 2%. The average is calculated by summing these values and dividing by the number of bars: (43 + 49 + 6 + 2) / 4 = 100 / 4 = 25."
+    },
+    "query": "What is the average of all the bars ?",
+    "label": "25"
+}

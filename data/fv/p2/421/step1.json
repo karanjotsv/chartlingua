@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is only a partial representation of the original, showing less than half of the original 50 data points. While the data for the shown entries is accurate in value, text, and order, the omission of so much data is a major semantic discrepancy as it no longer represents a complete ranked list.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a comparison involving the movie 'Frozen', but the chart does not contain any data or mention of 'Frozen'. Therefore, the claim cannot be verified based on the provided information."
+    },
+    "claim": "The movie Frozen had a higher box-office gross income than the movie Beauty and The Beast on the all-time box-office gross list as of may 2018.",
+    "label": "TRUE"
+}

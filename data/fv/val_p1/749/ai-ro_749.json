@@ -1,0 +1,45 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": null,
+            "x": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "y": [
+                1,
+                2,
+                4,
+                8,
+                16,
+                32,
+                64,
+                128,
+                256,
+                512,
+                1024
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Funcția f(x) = 2^x reprezentată grafic pe o scară logaritmică.",
+        "subtitle": null,
+        "x_axis_title": "X",
+        "y_axis_title": "F(x)",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#638EC9"
+    ]
+}

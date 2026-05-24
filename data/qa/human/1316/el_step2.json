@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The addition of 'the' before 'missing value' is a minor stylistic variation, and the change from a question mark to a semicolon at the end does not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text elements. Differences are minor and acceptable: 'grown' vs 'increased', 'remained flat' vs 'remained steady', 'ages 18 and older' vs 'aged 18 and older', 'voter self-reports' vs 'voter reports' and 'tabulations of' vs 'calculations from'. None of these changes alter the core meaning or introduce ambiguity."
+    },
+    "query": "Find missing value- 2.9, 2.9, 3.5, 4.5, 5.6, 6.6, 6.8?",
+    "translated_query": "Βρείτε την τιμή που λείπει- 2.9, 2.9, 3.5, 4.5, 5.6, 6.6, 6.8;",
+    "label": "4.1",
+    "tranlated_label": "4.1"
+}

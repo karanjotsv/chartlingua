@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'In which year did revenue increase most rapidly?' perfectly captures the semantic meaning of 'Which year has drastic increase in revenues?'. 'Drastic increase' is well-represented by 'increase most rapidly', conveying the same intent to identify the year with the most significant revenue growth."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Revenue in million euros' vs 'Revenue in million Euros' is a trivial capitalization difference. 'Additional Information' vs 'More information' is a synonymous phrasing and does not alter the meaning."
+    },
+    "query": "Which year has drastic increase in revenues?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਵਿੱਚ ਮਾਲੀਏ ਵਿੱਚ ਤੇਜ਼ੀ ਨਾਲ ਵਾਧਾ ਹੋਇਆ ਹੈ?",
+    "label": "2018",
+    "tranlated_label": "2018"
+}

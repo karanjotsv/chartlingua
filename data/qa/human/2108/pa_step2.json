@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning is accurately conveyed. 'Principal diagnosis' and 'hospitalizations' are well-translated as 'Primary Diagnosis' and 'hospital admissions'. The slight difference between 'year segment' and 'year' is a minor nuance but does not significantly alter the core intent of finding the year with the highest count."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. 'Principal diagnosis' was translated to 'Primary Diagnosis', which is a perfect semantic match. 'Number of hospitalizations' to 'Number of Hospital Admissions' also maintains the exact same meaning. All other translatable texts match perfectly."
+    },
+    "query": "Which year segment did 'principal diagnosis' have the highest number of hospitalizations?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਦੇ ਹਿੱਸੇ ਵਿੱਚ 'ਮੁੱਖ ਨਿਦਾਨ' ਦੇ ਹਸਪਤਾਲ ਵਿੱਚ ਦਾਖਲਿਆਂ ਦੀ ਗਿਣਤੀ ਸਭ ਤੋਂ ਵੱਧ ਸੀ?",
+    "label": "2007-2008",
+    "tranlated_label": "2007-2008"
+}

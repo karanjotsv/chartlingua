@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and the overall title are identical. The only differences are stylistic (2D vs 3D, background color), which do not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "According to the chart, the usage for Safari is 15.87% and for Chrome is 27.25%. Their combined total is 15.87% + 27.25% = 43.12%. The usage for I.E. is 23.65%. The difference between the combined Safari/Chrome value and the I.E. value is 43.12% - 23.65% = 19.47%, which exactly matches the figure stated in the claim."
+    },
+    "claim": "The amount of total value for Safari and chrome is 19.47% higher than I.E. on Wikimedia August 2012.",
+    "label": "TRUE"
+}

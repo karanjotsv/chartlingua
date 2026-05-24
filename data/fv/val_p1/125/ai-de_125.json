@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": {
+        "categories": [
+            "Einkommen aus der britischen Rundfunkgebühr",
+            "Staatsanleihen",
+            "Kommerzielle Einnahmen der BBC",
+            "Sonstiges"
+        ],
+        "values": [
+            3370,
+            283.6,
+            719.6,
+            42.8
+        ],
+        "text_labels": [
+            "£3,37 Milliarden",
+            "£283,6 Millionen",
+            "£719,6 Millionen",
+            "£42,8 Millionen"
+        ]
+    },
+    "texts": {
+        "title": "Aufschlüsselung der BBC-Einnahmen",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#3B5F9F",
+        "#C00000",
+        "#92D050",
+        "#7030A0"
+    ]
+}

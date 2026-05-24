@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "category": "Too much",
+            "value": 3
+        },
+        {
+            "category": "Too little",
+            "value": 25
+        },
+        {
+            "category": "About right",
+            "value": 66
+        },
+        {
+            "category": "Other",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "How do you feel about staff<br>developers devoting 20% of their time<br>to assisting volunteer development?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00599c",
+        "#339966",
+        "#a50000",
+        "#66cccc"
+    ]
+}

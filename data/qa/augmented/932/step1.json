@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axes, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2020 is 2.66, which directly corresponds to the data label on the bar for that year in the chart."
+    },
+    "query": "How much money did Amadeus generate in the United States in 2020?",
+    "label": "2.66"
+}

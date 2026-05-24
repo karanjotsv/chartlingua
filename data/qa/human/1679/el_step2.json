@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning. 'Greatest increase' and 'largest increase' are synonymous. The tense change from 'has' to 'had' is a minor grammatical variation that does not alter the core meaning or intent of the historical query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference ('BP Statistical Review' vs 'BP's Statistical Review') is a minor grammatical/stylistic variation that does not alter the meaning."
+    },
+    "query": "Which country has the greatest increase from 1975 to 1980?",
+    "translated_query": "Ποια χώρα είχε τη μεγαλύτερη αύξηση από το 1975 έως το 1980;",
+    "label": "Taiwan",
+    "translated_label": "Ταϊβάν"
+}

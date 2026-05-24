@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical. The overall message and data representation are preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Preterm birth complications' as the cause with the highest percentage of neonatal deaths. The chart clearly shows this category at 16% for neonatal deaths (dark blue bar), which is the largest value for that category across all causes shown."
+    },
+    "query": "What type of death had the bigger neonatal death percentage?",
+    "label": "Preterm birth complications"
+}

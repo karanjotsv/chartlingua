@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text annotations, and color hues are correctly reproduced across all sub-charts. The overall message and structure of the infographic are identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has severe visual flaws due to a broken layout. There is widespread overlap of text and graphical elements, making many parts of the chart, including the title, data labels, and source information, completely unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'meta-data-fetch-mean time' and 'image-load mean time', which are technical performance metrics. The chart, however, displays socio-economic data for the South East region of the UK, such as population, life expectancy, and house prices. There is no information in the chart related to the claim."
+    },
+    "claim": "The meta-data-fetch-mean time for media viewer is higher than the image-load mean time.",
+    "label": "FALSE"
+}

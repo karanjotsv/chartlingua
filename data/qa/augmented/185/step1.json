@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall data trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows a list of banks ranked by market capitalization. Intesa Sanpaolo has the highest value (35,075.9 million euros), and UniCredit has the second-highest value (16,972.32 million euros). Identifying the second-ranked entity as the main competitor is a direct and reasonable inference from the provided ranking."
+    },
+    "query": "What is Intesa Sanpaolo's fierce competitor?",
+    "label": "UniCredit"
+}

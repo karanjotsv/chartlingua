@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes 'full-time contractors' to 'full-time equivalent contractors'. While related, 'full-time contractors' typically refers to individuals working full-time under contract, whereas 'full-time equivalent contractors' refers to the aggregate work volume provided by contractors, which could be made up of both full-time and part-time individuals. This distinction can alter the precise meaning and basis of the claim regarding workforce composition."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences in labels such as 'Authorized military' becoming 'Authorized military personnel' and 'Contractor full-time equivalents' becoming 'Full-time equivalent contractors' are minor grammatical variations or synonymous phrasing that do not alter the core meaning."
+    },
+    "claim": "More than 50% of the Department's workforce consists of full-time contractors.",
+    "translated_claim": "Πάνω από το 50% του εργατικού δυναμικού του Υπουργείου αποτελείται από αναδόχους πλήρους απασχόλησης."
+}

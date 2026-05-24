@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The core data, proportions, and labels for the main pie chart slices are accurately reproduced, preserving the primary message of the visualization. However, the rating is not 5 because the main title is clipped, the year is missing from the supplementary data table, and several data points in that table are missing or obscured.",
+        "has_visual_flaws": true,
+        "flaw_reason": "Yes, there are significant visual flaws. There is severe text overlap among the labels for the smaller pie slices and within the supplementary data table, rendering much of that text unreadable. Additionally, the main title text is clipped on the right."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states a figure of 20% related to the Black population, but the chart provides two different percentages: 44.5% of Americans living with HIV/AIDS are Black, and 13.1% of the U.S. population is Black. Neither of these figures is 20%. Additionally, the chart does not specify a year, whereas the claim refers to 2011."
+    },
+    "claim": "20% of black people living in the USA at 2011.",
+    "label": "FALSE"
+}

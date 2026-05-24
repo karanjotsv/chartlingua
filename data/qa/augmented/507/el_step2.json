@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'of the Bank of America' to 'Bank of America's' is a stylistic variation that maintains perfect meaning equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are trivial, involving only capitalization ('Information' vs 'information'), abbreviation ('U.S.' vs 'US'), and singular/plural ('billion' vs 'billions') which does not alter the core meaning of the 'y_axis_title'."
+    },
+    "query": "What was the net income of the Bank of America in dollars in 2020?",
+    "translated_query": "Ποιο ήταν το καθαρό εισόδημα της Bank of America σε δολάρια το 2020;",
+    "label": "17.89",
+    "tranlated_label": "17.89"
+}

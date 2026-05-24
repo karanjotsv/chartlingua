@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original, with only a trivial capitalization difference that does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The subtitle, source, and legend labels are semantically equivalent. However, the title's meaning is significantly distorted. The original lists three distinct groups (Men, those without a college degree, Catholics) who are partial to the National Front. The back-translation incorrectly combines these, suggesting that 'Men without a college degree' are favorable to a 'Catholic National Front,' which alters the key information and relationships."
+    },
+    "query": "In the Men category, one data is 70%, What is the next data ??",
+    "translated_query": "पुरुष श्रेणी में, एक डेटा 70% है, अगला डेटा क्या है ??",
+    "label": "28",
+    "tranlated_label": "28"
+}

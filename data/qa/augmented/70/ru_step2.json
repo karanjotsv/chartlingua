@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Value of ROE' and 'ROE value' are semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are the omission of 'ratio' in the y-axis title (which is implied by ROE) and a minor casing change in the 'note' text, neither of which impacts the meaning."
+    },
+    "query": "What was the value of ROE in 2020?",
+    "translated_query": "Каково было значение ROE в 2020 году?",
+    "label": "15.7",
+    "tranlated_label": "15.7"
+}

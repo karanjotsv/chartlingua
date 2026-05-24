@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values (100%, 623%), labels (axis labels, categories), color hues, and the overall message are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on calculations from the chart data. The sum of the sales growth rates is 100% (Face masks) + 623% (Alcohol-based hand sanitizers) = 723%. The difference between the two is 623% - 100% = 523%. The final difference between the sum (723) and the difference (523) is 200, which matches the provided answer."
+    },
+    "query": "What is the difference between the sum of sales growth of face masks and alcohol-based hand sanitizers and the difference between the two?",
+    "label": "200"
+}

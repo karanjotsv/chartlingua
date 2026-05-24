@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color schemes are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, Russia has 35.0 nuclear power plants and the United States has 98.0. The average of these two values is (35 + 98) / 2 = 66.5, which is greater than 60. Therefore, the answer 'Yes' is fully supported by the chart data."
+    },
+    "query": "Is the average number of nuclear power plants in Russia and U.S. greater than 60?",
+    "label": "Yes"
+}

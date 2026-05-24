@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly captures the original meaning. 'More prevalent' is a direct semantic match for 'there are more', and the rest of the information is identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The first chart's labels ('MASCULINE GENDER', 'FEMININE GENDER') are semantically equivalent to the original. However, in the second chart, 'MALE' and 'FEMALE' (referring to names) were translated to 'MASCULINE' and 'FEMININE', which is a minor semantic shift as 'male/female' is more common for person's gender for names, while 'masculine/feminine' often refers to grammatical gender."
+    },
+    "claim": "there are more Spanish nouns ending in a/á, feminine than masculine",
+    "translated_claim": "Среди испанских существительных, оканчивающихся на a/á, женского рода больше, чем мужского."
+}

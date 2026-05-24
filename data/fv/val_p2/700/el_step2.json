@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is semantically identical to the original. The rephrasing of the subject ('The abundance of protein C19orf67' vs. 'The value of C19orf67 protein abundance') and the use of the synonym 'over' for 'above' results in no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text, the series name 'Edits', is identical in both versions. All other text fields are null in both the original and back-translated content, resulting in a perfect semantic match."
+    },
+    "claim": "The value of C19orf67 protein abundance is above 1500 in this chart.",
+    "translated_claim": "Η τιμή της αφθονίας της πρωτεΐνης C19orf67 είναι πάνω από 1500 σε αυτό το γράφημα."
+}

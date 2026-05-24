@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the main data point (83% for Agriculture) and most categories are correct, one data series ('Domestic Service or Offices') has a completely different color hue (Yellow in original, Grey in rendered). Additionally, the rendered chart is missing the data labels for the two smallest slices (both were 2% in the original).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The legend in the chart explicitly pairs the label 'General/ Local Government' with an orange color swatch, which directly validates the claim."
+    },
+    "claim": "The color that represents General/Local Government is orange.",
+    "label": true
+}

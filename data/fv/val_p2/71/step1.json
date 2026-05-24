@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories on the x-axis, the logarithmic y-axis scale and title, and the color progression of the bars are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the proportion of people working in agriculture in a specific parish over a period of time, whereas the chart provides information about different levels of radiation dose equivalents. The chart contains no data related to employment, agriculture, or the mentioned location and time frame."
+    },
+    "claim": "The propotion of people working in agriculture decreased from 1881 to 2001 in the parish of Humberton.",
+    "label": "FALSE"
+}

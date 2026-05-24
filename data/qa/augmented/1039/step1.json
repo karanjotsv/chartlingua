@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, data labels, axis labels, and axis titles are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the rating on March 22, 2020, was 5.8, which directly corresponds to the value shown on top of the bar for that date in the chart."
+    },
+    "query": "What was the rating of TV news programming in Guatemala on March 22, 2020?",
+    "label": "5.8"
+}

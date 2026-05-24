@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "category": "IR scholars",
+            "values": [
+                24,
+                76
+            ],
+            "labels": [
+                "24%",
+                "76%"
+            ]
+        },
+        {
+            "category": "U.S.",
+            "values": [
+                23,
+                73
+            ],
+            "labels": [
+                "23",
+                "73"
+            ]
+        }
+    ],
+    "series_names": [
+        "Prioritize economic<br>relations with China",
+        "Promote human rights<br>in China"
+    ],
+    "texts": {
+        "title": "Both U.S.-based international relations<br>scholars and American public support<br>promoting human rights in China",
+        "subtitle": "% who say the U.S. should ...",
+        "note": "Note: “IR” refers to international relations.",
+        "source": "Source: U.S. general public data from Pew Research Center’s<br>Summer 2020 Global Attitudes Survey. IR scholars data produced<br>by the Teaching, Research & International Policy (TRIP) Project<br>based at the College of William & Mary, fielded online Sept. 17-24,<br>2020 (n=706).",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#23517c",
+        "#85994b"
+    ]
+}

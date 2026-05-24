@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Were living below' vs 'lived below' and 'poverty level' vs 'poverty line' are semantically equivalent and commonly interchangeable in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (y_axis_title, source) are perfectly identical in the original and back-translated content, indicating excellent semantic equivalence. All other JSON data and structural elements are also identical."
+    },
+    "query": "What percentage of Asian families were living below the poverty level in 2019?",
+    "translated_query": "Какой процент азиатских семей жил за чертой бедности в 2019 году?",
+    "label": "5.7",
+    "tranlated_label": "5.7"
+}

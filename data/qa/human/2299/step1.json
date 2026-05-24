@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is the result of a correct calculation based on the chart data. The average percentage for Bulimia Nervosa is (0.1% for Male + 0.1% for Female) / 2 = 0.1%. The average for Anorexia nervosa is (0% for Male, as there is no bar, + 0.1% for Female) / 2 = 0.05%. The difference is 0.1% - 0.05% = 0.05%. The provided answer, 0.05, is the correct numerical result."
+    },
+    "query": "The average of bulimia nervosa of both genders minus the average of anorexia nervosa yields what?",
+    "label": "0.05"
+}

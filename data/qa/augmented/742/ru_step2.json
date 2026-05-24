@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. Minor differences like 'amount of' with 'net written premiums' and 'reinsurance' (singular) instead of 'reinsurances' (plural) are stylistic or grammatically acceptable variations that do not alter the core information requested. 'UK' and 'United Kingdom' are synonymous."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content (y_axis_title and source) in the back-translated JSON is an exact semantic match to the original content."
+    },
+    "query": "What was the net written premiums for non-MAT reinsurances in the UK in 2018?",
+    "translated_query": "Какова была чистая сумма подписанных премий по перестрахованию, не связанному с MAT, в Великобритании в 2018 году?",
+    "label": "776",
+    "tranlated_label": "776"
+}

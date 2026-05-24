@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "No confidence at<br>all, we have no<br>idea where to start",
+            "value": 3,
+            "label": "37.5 % (3)"
+        },
+        {
+            "category": "Not very confident,<br>we've only done it<br>a couple of times",
+            "value": 0,
+            "label": null
+        },
+        {
+            "category": "A little confident,<br>we're sure we<br>could figure it out",
+            "value": 5,
+            "label": "62.5 % (5)"
+        }
+    ],
+    "texts": {
+        "title": "If your Chapter hasn't produced full color work, how comfortable do you feel about<br>creating materials for print?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#E87D07",
+        "#A14AB1"
+    ]
+}

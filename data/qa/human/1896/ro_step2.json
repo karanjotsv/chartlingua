@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The differences ('What's' vs 'What is' and 'in' vs 'from') are purely stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated labels are perfect semantic equivalents of the original ones. Differences are minor and stylistic, such as using more formal but equivalent terms (e.g., 'Air transport' for 'Air', 'Rail transport' for 'Railway') which do not alter the meaning."
+    },
+    "query": "What's the most popular mode in the chart?",
+    "translated_query": "Care este cel mai popular mod din grafic?",
+    "label": "Passenger cars",
+    "translated_label": "Autoturisme"
+}

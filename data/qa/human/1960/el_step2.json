@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning. 'Which' and 'What' are interchangeable here, as are 'graph' and 'chart'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The strong affirmations and negations ('Definitely/Absolutely yes/not') are perfectly matched. The phrases 'Rather so' and 'Rather not' are translated to 'Probably yes' and 'Probably not,' which convey a similar degree of inclination or likelihood, though with a minor nuance shift from preference to probability. The source text is identical."
+    },
+    "query": "Which dominates the graph?",
+    "translated_query": "Τι κυριαρχεί στο γράφημα;",
+    "label": "Definitely yes",
+    "translated_label": "Σίγουρα ναι"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning. 'Run by' vs. 'managed by', 'smallest proportion' vs. 'lowest share', and 'workshops' vs. 'masterclasses' are all excellent or very close synonymous variations that do not alter the core message or key information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content captures the general topic, but there are some important losses of nuance and accuracy. Specifically, 'Workshops' was changed to 'Masterclasses' in both the title and y-axis, implying a higher level of training. More critically, the y-axis title changed from 'Proportion of Editing Workshops Reported' to 'Share of conducted editing masterclasses'. The shift from 'Reported' to 'conducted' changes the scope and context of the data, potentially misrepresenting what is being measured, especially given the source note emphasizes 'reported via the reporting survey'. While x-labels and the source note are well-translated, these key changes in the title and y-axis significantly impact semantic equivalence."
+    },
+    "claim": "Program run by experienced program leader reported the smallest proportion of editing workshops.",
+    "translated_claim": "Программа, управляемая опытным руководителем программы, сообщила о наименьшей доле мастер-классов по редактированию."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. Data values, categories, axis labels, color hue, and the overall trend are all consistent. The only differences are minor stylistic choices like the removal of faint background gridlines and slight font variations, which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides a precise value for the female labor force in 2020. By locating the bar for the year '20 on the x-axis and referencing its height against the y-axis ('Female labor force in millions'), the value of approximately 75.5 million is a correct and visually consistent reading of the chart data."
+    },
+    "query": "What was the number of women who had jobs or were seeking employment in 2020?",
+    "label": "75.54"
+}

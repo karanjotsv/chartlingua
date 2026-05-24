@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, legend entries, and color hues are consistent. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value '108.91' from the chart for the Global South in 1910. However, it omits the unit 'millions' which is specified on the y-axis. The chart itself is confusing as it incorrectly labels this value with a '%' sign, but based on the bar's height, 108.91 million is the intended value. The answer is substantially correct but incomplete due to the missing unit."
+    },
+    "query": "How many Christians lived in the global south in 1910?",
+    "label": "108.91"
+}

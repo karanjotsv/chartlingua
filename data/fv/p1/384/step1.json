@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart is poorly consistent due to significant data errors starting from the year 1949. The data for the original chart's 1949 season appears to be missing in the rendered version. Furthermore, the data from 1950-1954 in the original chart has been shifted one year earlier (to 1949-1953) in the rendered chart, and the data for 1954 in the rendered chart is a duplicate of 1953. This misrepresents the data for half of the seasons shown.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'Frank Wigan', but the chart explicitly states that the data is for 'Frank Vigar'. The chart provides no information about a person named Frank Wigan."
+    },
+    "claim": "Frank Wigan's 1939 bowling average was his best.",
+    "label": false
+}

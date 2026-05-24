@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart shows significantly different data proportions. The largest and second-largest slices (yellow and orange) have swapped their relative sizes compared to the original. Furthermore, the order of the slices around the pie is completely different, indicating a fundamental mismatch in the data structure or sorting.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is a pie chart with colored segments but lacks any labels, title, or legend. It is impossible to determine what the chart represents, so the claim about spoken languages in Ethiopia and their percentages cannot be verified."
+    },
+    "claim": "The difference between the most spoken language in Ethiopia and the least spoken is about 5%",
+    "label": "FALSE"
+}

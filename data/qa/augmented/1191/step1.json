@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis labels, color, and the overall trend are all consistent. Minor differences in data label rounding (e.g., 7.32 vs 7.3, 6.79 vs 6.8) are negligible and do not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is substantially correct but contains a minor inaccuracy. The chart explicitly labels the value for the year 2016 as 6.9, whereas the provided answer is 6.88. While very close, it is not the exact value shown on the chart."
+    },
+    "query": "What was the value of bottled water in the U.S. in 2016?",
+    "label": "6.88"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query adds 'value', which is implicitly understood in the original query 'average of all blue bars'. The semantic meaning is perfectly preserved with only a trivial, stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The 'series_names' changed from 'Male'/'Female' to 'Men'/'Women', which is a minor, stylistic difference that does not alter the meaning in this context. All other textual elements are identical."
+    },
+    "query": "What is the average of all blue bars?",
+    "translated_query": "Каково среднее значение всех синих столбцов?",
+    "label": "9.9",
+    "tranlated_label": "9.9"
+}

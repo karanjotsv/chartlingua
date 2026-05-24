@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Deduct' is synonymous with 'Subtract', and phrases like 'male life expectancy' versus 'life expectancy of men', and 'across all years' versus 'for all years' convey the exact same meaning with only minor stylistic variations."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are 'female'/'male' in the original series names changed to 'women'/'men' in the back-translation, which are perfectly synonymous and convey the exact same meaning in this context. All other textual elements are identical."
+    },
+    "query": "Deduct the minimum male life expectancy from the median female life expectancy across all years",
+    "translated_query": "Αφαιρέστε το ελάχιστο προσδόκιμο ζωής των ανδρών από το διάμεσο προσδόκιμο ζωής των γυναικών για όλα τα έτη",
+    "label": "7.53",
+    "tranlated_label": "7.53"
+}

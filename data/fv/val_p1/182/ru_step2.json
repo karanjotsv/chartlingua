@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly retains the original meaning. 'Residents of Woodmancote' and 'Woodmancote residents' are equivalent, as are 'employed in the professional sector' and 'in professional occupations'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart title 'Occupation' to 'Employment' is an excellent semantic match. Most data labels are also very close, with minor acceptable rephrasing (e.g., 'Professional' to 'Specialist', 'Administration' to 'Administrative staff', 'Skilled Trade' to 'Skilled worker'). The change from 'Caring and Leisure' to 'Service and leisure industry' represents a minor generalization, but the main meaning and most key information are still accurately conveyed."
+    },
+    "claim": "342 woodmancote residents were in professional occupations.",
+    "translated_claim": "342 жителя Вудманкота были заняты в профессиональной сфере."
+}

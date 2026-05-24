@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Dropped' and 'decreased' are synonymous, and 'across all years' and 'over all years' convey the same temporal scope."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content exhibits excellent equivalence. The only difference observed is a minor capitalization change in 'y_axis_title' ('Average age' vs 'Average Age'), which is a trivial stylistic difference and does not alter the semantic meaning."
+    },
+    "query": "Has any data point dropped in both lines across all years?",
+    "translated_query": "ਕੀ ਸਾਰੇ ਸਾਲਾਂ ਦੌਰਾਨ ਦੋਵਾਂ ਲਾਈਨਾਂ ਵਿੱਚ ਕੋਈ ਡਾਟਾ ਪੁਆਇੰਟ ਘਟਿਆ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

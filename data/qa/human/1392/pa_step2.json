@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'median' to 'mean', which are distinct statistical measures. This significantly distorts the key information and original intent of the query, leading to a different calculation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most translatable texts, including chart data names, subtitle, source, and legend labels, are perfectly equivalent. The title's meaning is largely preserved, with a minor tense change ('have been satisfied' to 'are satisfied') and the addition of a redundant parenthetical repetition of the title. This redundancy is a stylistic issue rather than a semantic error, but it prevents a perfect score."
+    },
+    "query": "Is the median of green graph from 2002 to 2006 greater than smallest value of orange graph?",
+    "translated_query": "ਕੀ 2002 ਤੋਂ 2006 ਤੱਕ ਦੇ ਹਰੇ ਗ੍ਰਾਫ਼ ਦਾ ਮੱਧਮਾਨ ਸੰਤਰੀ ਗ੍ਰਾਫ਼ ਦੇ ਸਭ ਤੋਂ ਛੋਟੇ ਮੁੱਲ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

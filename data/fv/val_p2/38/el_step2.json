@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. The only difference is 'graph' vs. 'chart', which are synonymous in this context and do not alter the semantic meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While x-axis and y-axis titles are very good, the main title 'United States Female Disorderly Conduct Arrests' was back-translated as 'Arrests of Women for Indecent Behavior in the United States'. 'Disorderly Conduct' is a specific legal term that encompasses a broader range of behaviors than 'Indecent Behavior,' which often implies a sexual or morally offensive connotation. This change introduces a notable loss of specificity and potential misinterpretation of the original content's focus."
+    },
+    "claim": "According to the graph, the number of women arrested after the age of 21 has decreased",
+    "translated_claim": "Σύμφωνα με το γράφημα, ο αριθμός των γυναικών που συνελήφθησαν μετά την ηλικία των 21 ετών έχει μειωθεί."
+}

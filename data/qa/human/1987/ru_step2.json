@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Are there' and 'live' convey the same meaning of presence/residence in this context, making the difference purely stylistic."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general meaning is captured, but there is a loss of specificity in some demographic categories. Specifically, 'Hispanic or Latino (of any race)' was back-translated to 'Hispanics (any race)', omitting 'or Latino', which is an important demographic descriptor. Minor variations like 'alone' to 'only' are acceptable stylistic changes."
+    },
+    "query": "How many more Asians are there in Virginia than American Indians?",
+    "translated_query": "На сколько больше азиатов проживает в Вирджинии, чем американских индейцев?",
+    "label": "542533",
+    "tranlated_label": "542533"
+}

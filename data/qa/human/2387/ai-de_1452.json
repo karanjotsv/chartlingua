@@ -1,0 +1,76 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Kein High-School-Abschluss",
+            "values": [
+                45,
+                43,
+                36,
+                32,
+                30
+            ]
+        },
+        {
+            "name": "High-School-Abschluss",
+            "values": [
+                54,
+                51,
+                52,
+                48,
+                42
+            ]
+        },
+        {
+            "name": "College ohne Abschluss",
+            "values": [
+                71,
+                64,
+                62,
+                56,
+                52
+            ]
+        },
+        {
+            "name": "Associate Degree",
+            "values": [
+                68,
+                71,
+                67,
+                61,
+                61
+            ]
+        },
+        {
+            "name": "Bachelor-Abschluss",
+            "values": [
+                81,
+                79,
+                78,
+                75,
+                67
+            ]
+        }
+    ],
+    "categories": [
+        "25 bis 34",
+        "35 bis 44",
+        "45 bis 54",
+        "55 bis 64",
+        "65 und älter"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Personen",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B74B6",
+        "#0F2D3F",
+        "#B2B2B2",
+        "#B5282B",
+        "#89C03D"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "chart_type": "line_chart",
+    "chart_data": [
+        {
+            "name": "IISc",
+            "x_values": [
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022"
+            ],
+            "y_values": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "end_label": "IISc 1",
+            "line_shape": "linear"
+        },
+        {
+            "name": "JNU",
+            "x_values": [
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022"
+            ],
+            "y_values": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "end_label": "JNU 2",
+            "line_shape": "linear"
+        },
+        {
+            "name": "BHU",
+            "x_values": [
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022"
+            ],
+            "y_values": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                6
+            ],
+            "end_label": "BHU 6",
+            "line_shape": "spline"
+        }
+    ],
+    "texts": {
+        "title": "Top 3 Universities of India",
+        "subtitle": "NIRF Rankings",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "lines": [
+            "#91C184",
+            "#B3A6CF",
+            "#F4B880"
+        ],
+        "axes_labels": "#D32F2F",
+        "title": "#333333",
+        "subtitle": "#757575",
+        "grid": "#EAEAEA"
+    }
+}

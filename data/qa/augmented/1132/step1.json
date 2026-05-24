@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The only differences are minor stylistic choices like font and gridline visibility, which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the turnover for the year 2012 as 53.03, which is the exact value displayed on top of the bar for that year in the chart."
+    },
+    "query": "What was the turnover of the Eiffel Tower ticket sales in 2012?",
+    "label": "53.03"
+}

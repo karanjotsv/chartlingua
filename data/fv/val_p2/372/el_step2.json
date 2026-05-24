@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly retains the semantic meaning of the original. Differences are minor grammatical refinements ('number of voters', 'other parties', 'Non-Affiliates') or synonymous phrasing ('approximately' for 'about'), none of which alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart title and axis labels are perfect matches. Category labels accurately convey the main meaning regarding severity and intent (e.g., GBH vs. ABH, with intent vs. without intent). There is a minor loss of specificity as original legal terms like 'wounding' and 'ABH' are translated to more general descriptive equivalents like 'injury' and 'Minor Bodily Harm', but this does not significantly alter the overall understanding of the crime categories."
+    },
+    "claim": "The average of voters in other party and None- Affiliated is about 500.",
+    "translated_claim": "Ο μέσος όρος των ψηφοφόρων σε άλλα κόμματα και Μη-Συνδεδεμένους είναι περίπου 500."
+}

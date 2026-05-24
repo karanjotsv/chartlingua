@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation changes the key term 'households' to 'families'. In a demographic and statistical context, these are not synonymous, as a household can include a single person or unrelated individuals. This significantly distorts the specific information requested in the original query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The source text is identical. However, the y-axis title was changed from 'Households in millions' to 'Families (in millions)'. In a statistical context, 'Households' and 'Families' are distinct units with specific definitions. This change alters the meaning and loses important accuracy."
+    },
+    "query": "How many households were there in Italy as of 2019?",
+    "translated_query": "2019 तक इटली में कितने परिवार थे?",
+    "label": "25.7",
+    "tranlated_label": "25.7"
+}

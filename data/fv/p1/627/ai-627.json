@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Resource",
+            "value": 12
+        },
+        {
+            "label": "Process Implementation",
+            "value": 52
+        },
+        {
+            "label": "Primary Process Operation",
+            "value": 32
+        },
+        {
+            "label": "Secondary Process Operation",
+            "value": 4
+        }
+    ],
+    "texts": {
+        "title": "<b>Total Air Toxic Releases due to Incineration</b><br>( 1928 Kg)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FFFFE0",
+        "#FFFF00",
+        "#D1BFF0",
+        "#0000CD"
+    ]
+}

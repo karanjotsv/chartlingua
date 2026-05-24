@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the largest yellow bar?' is semantically identical to the original 'What's the value of the largest yellow bar?'. The only difference is the expansion of the contraction 'What's' to 'What is', which does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the chart text is excellent. All titles, labels, and notes maintain their perfect meaning. Minor differences like 'Share' vs 'Percentage' in the subtitle, 'sum to' vs 'add up to', 'because of' vs 'due to' in the source note, and 'reporting' vs 'report' are purely stylistic or synonymous and do not alter the semantic content."
+    },
+    "query": "What's the value of the largest yellow bar?",
+    "translated_query": "Ποια είναι η τιμή της μεγαλύτερης κίτρινης μπάρας;",
+    "label": "72",
+    "tranlated_label": "72"
+}

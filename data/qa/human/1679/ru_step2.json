@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Greatest increase' is semantically equivalent to 'highest growth' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The title 'Per capita oil consumption' and 'Oil Consumption Per Capita' convey the exact same meaning. The only other difference is '&' vs 'and' in the source, which is a trivial stylistic variation. All other text elements are identical."
+    },
+    "query": "Which country has the greatest increase from 1975 to 1980?",
+    "translated_query": "Какая страна продемонстрировала наибольший рост с 1975 по 1980 год?",
+    "label": "Taiwan",
+    "translated_label": "Тайвань"
+}

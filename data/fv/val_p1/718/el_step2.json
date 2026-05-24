@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The original content 'United States of America imports value' typically refers to the value of goods imported *into* the USA. However, the back-translated content 'The value of imports from the United States of America' refers to the value of goods imported *from* the USA (i.e., what the USA exports to other countries). This represents a significant reversal of the country's role in the trade context, distorting the key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is 'Others' in the original content being 'Other' in the back-translated content for a chart label, which is a trivial stylistic difference and both are commonly used to denote an aggregated 'remaining' category in charts."
+    },
+    "claim": "United States of America imports value is denoted by yellow colour. ",
+    "translated_claim": "Η αξία των εισαγωγών των Ηνωμένων Πολιτειών της Αμερικής δηλώνεται με κίτρινο χρώμα."
+}

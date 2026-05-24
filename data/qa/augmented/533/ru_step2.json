@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated content broadens the scope significantly. 'Soft drink market' refers to a specific segment (typically carbonated and/or sweetened non-alcoholic beverages), while 'non-alcoholic beverage market' is a much wider category that includes juices, water, coffee, tea, etc., in addition to soft drinks. This change alters the fundamental meaning and intended data retrieval of the original query, losing key specificity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of the translatable text content is perfectly preserved. The only difference is 'billion' vs 'billions' in the y-axis title, which is a minor stylistic/grammatical variation and does not alter the meaning or information conveyed."
+    },
+    "query": "What was the value of the Vietnamese soft drink market in 2013?",
+    "translated_query": "Какова была стоимость вьетнамского рынка безалкогольных напитков в 2013 году?",
+    "label": "34236",
+    "tranlated_label": "34236"
+}

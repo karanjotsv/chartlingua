@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, source text, and color hues are consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that 'traditional biomass & waste' accounts for 83% of Nigeria's total primary energy consumption in 2011, which is the largest portion compared to all other sources shown (oil at 11%, natural gas at 5%, and hydro at 1%)."
+    },
+    "claim": "Traditional Biomass & Waste are the largest source of Energy consumption in Nigeria, in 2011.",
+    "label": "TRUE"
+}

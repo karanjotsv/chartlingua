@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses a survey about knowledge of Wikimedia projects, but the chart displays data on web browser market share percentages. The chart contains no information related to the topic of the claim."
+    },
+    "claim": "Half the people who were surveyed had high knowledge about the way Wikimedia projects and translatewiki.net interact.",
+    "label": "FALSE"
+}

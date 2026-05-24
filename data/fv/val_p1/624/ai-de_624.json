@@ -1,0 +1,40 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Bezahltes digitales Kabelfernsehen",
+            "value": 3200000
+        },
+        {
+            "category": "Bezahltes digitales Satellitenfernsehen",
+            "value": 8800000
+        },
+        {
+            "category": "Sonstiges bezahltes Digitalfernsehen",
+            "value": 1000000
+        },
+        {
+            "category": "Kostenloses digitales terrestrisches Fernsehen",
+            "value": 9800000
+        },
+        {
+            "category": "Kostenloses digitales Satellitenfernsehen",
+            "value": 800000
+        },
+        {
+            "category": "Kostenloses analoges terrestrisches Fernsehen",
+            "value": 2800000
+        }
+    ],
+    "texts": {
+        "title": "Von britischen Haushalten empfangene TV-Plattformen",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: ofcom.org.uk",
+        "note": null
+    },
+    "colors": [
+        "#4477aa"
+    ]
+}

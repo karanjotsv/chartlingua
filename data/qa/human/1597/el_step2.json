@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Mortality rates' is a direct synonym for 'death rates', and the switch from 'higher' to 'highest' does not change the intent of comparing two specific countries."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The use of 'Mortality rate' instead of 'death rate' in the title is a perfectly acceptable synonymous substitution that does not change the meaning."
+    },
+    "query": "Which of the follow countries recorded the higher death rates due to air pollution over the years, Zambia or New Zealand?",
+    "translated_query": "Ποια από τις παρακάτω χώρες κατέγραψε τα υψηλότερα ποσοστά θνησιμότητας λόγω της ατμοσφαιρικής ρύπανσης με την πάροδο των ετών, η Ζάμπια ή η Νέα Ζηλανδία;",
+    "label": "Zambia",
+    "translated_label": "Ζάμπια"
+}

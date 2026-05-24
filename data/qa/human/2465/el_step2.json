@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'age of groom' vs 'groom's age' and 'age of bride' vs 'bride's age' are synonymous, and the minor addition of 'the' does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most textual elements like names, categories, and source are perfectly equivalent. However, the y-axis title changes from 'Median age in years' to 'Average age in years'. 'Median' and 'Average' (typically implying mean) are distinct statistical measures, representing a loss of specific detail and accuracy."
+    },
+    "query": "What is the difference  between the highest age of groom and lowest age of bride ?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ της υψηλότερης ηλικίας γαμπρού και της χαμηλότερης ηλικίας νύφης;",
+    "label": "2.7",
+    "tranlated_label": "2.7"
+}

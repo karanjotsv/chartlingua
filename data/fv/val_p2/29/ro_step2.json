@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The differences in phrasing are stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "While the dedicated text fields are correctly preserved as empty, the back-translation process introduced a critical error in the chart's underlying data. A data point's year was incorrectly changed from 1980 to 1880, which significantly distorts the key information and the semantic meaning of the dataset."
+    },
+    "claim": "The population of Watertown in 2020 had the lowest population as shown in the line graph",
+    "translated_claim": "Populația din Watertown în 2020 a fost cea mai scăzută, așa cum arată graficul liniar."
+}

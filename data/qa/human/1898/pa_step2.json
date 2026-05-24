@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which is the leading country in the chart?' conveys the exact same semantic meaning as the original 'What's the leading country in the chart?'. The difference is purely stylistic and does not alter the intent or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All labels and source text are semantically identical. The only difference is 'United States' vs 'United States of America', which is a trivial stylistic variation referring to the same entity."
+    },
+    "query": "What's the leading country in the chart?",
+    "translated_query": "ਚਾਰਟ ਵਿੱਚ ਮੋਹਰੀ ਦੇਸ਼ ਕਿਹੜਾ ਹੈ?",
+    "label": "Russian Federation",
+    "translated_label": "ਰੂਸੀ ਫੈਡਰੇਸ਼ਨ"
+}

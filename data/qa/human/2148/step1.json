@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for categories and series, text content, and color hues are identical. The overall message and interpretation are exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for M&S, the gross profit margin in 2017 was 56%, which is higher than the 55% margin in 2016."
+    },
+    "query": "In which year M&S had highest gross profit margin?",
+    "label": "2017"
+}

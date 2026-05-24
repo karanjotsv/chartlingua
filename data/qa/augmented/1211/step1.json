@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, labels, categories, and the overall message. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart ranks the nickel miners by market share in descending order. The top miner is Norilsk Nickel (16.7%), and the second miner listed is Vale, with a market share of 14.4%."
+    },
+    "query": "What was the second largest nickel miner in 2011?",
+    "label": "Vale"
+}

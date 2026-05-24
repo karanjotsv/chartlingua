@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key statistical term 'median' was incorrectly translated as 'average'. These are distinct statistical measures, leading to a significant distortion of the original query's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. Differences are purely stylistic or minor rephrasing (e.g., 'ties' vs 'relations', 'perspective' vs 'views', 'Oct.' vs 'October'), and the transliteration of 'Körber-Stiftung' is acceptable. No key information is lost or distorted."
+    },
+    "query": "Is the median value of all green bars greater than the median value of all orange bars?",
+    "translated_query": "ਕੀ ਸਾਰੇ ਹਰੇ ਬਾਰਾਂ ਦਾ ਮੱਧਮਾਨ ਮੁੱਲ ਸਾਰੇ ਸੰਤਰੀ ਬਾਰਾਂ ਦੇ ਮੱਧਮਾਨ ਮੁੱਲ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

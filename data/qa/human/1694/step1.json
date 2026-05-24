@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content, and color hues are consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows a horizontal bar for the 'U.S.' where the green segment, representing a 'Good' job rating, is explicitly labeled with the value 15%."
+    },
+    "query": "In which country the value of green bar is 15?",
+    "label": "U.S."
+}

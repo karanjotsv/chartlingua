@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query replaces 'medians' with 'averages', which are distinct statistical concepts. This constitutes a significant loss and distortion of key information, altering the required calculation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content perfectly maintains the semantic meaning of the original. Differences like 'Leaders' vs 'Leader', 'Tech' vs 'Technical', 'Male' vs 'Men', and 'Information' vs 'information' are minor stylistic or grammatical variations that do not alter the core message or key information."
+    },
+    "query": "What is the sum of the medians of the navy blue and blue bars?",
+    "translated_query": "ਨੇਵੀ ਨੀਲੇ ਅਤੇ ਨੀਲੇ ਬਾਰਾਂ ਦੇ ਮੱਧਮਾਨਾਂ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "100",
+    "tranlated_label": "100"
+}

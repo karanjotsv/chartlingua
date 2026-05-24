@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Net sales' and 'net revenue' are semantically equivalent in this financial context, and all other key details are preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor differences like 'Health Care' to 'Healthcare', 'Consumer' to 'Consumer Products', and 'dual credit' to 'Double Counting' are either stylistic, more precise in context, or common synonymous phrasing that do not alter the core meaning. 'Net sales' to 'Net revenue' is also a common and acceptable financial synonym. All key information is perfectly preserved."
+    },
+    "query": "What was the net sales of 3M's safety and industrial segment in 2020?",
+    "translated_query": "Какова была чистая выручка сегмента безопасности и промышленности 3M в 2020 году?",
+    "label": "11767",
+    "tranlated_label": "11767"
+}

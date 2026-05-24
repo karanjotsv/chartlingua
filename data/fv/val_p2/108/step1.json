@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and the data source text are identical to the original. The color hues for each category are also consistent, preserving the visual encoding. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays five categories represented by shades of blue: Catholic (24%), Other Christian (21%), United Church (8%), Anglican (4%), and Lutheran (3%). The sum of these percentages is 60%. The average is calculated by dividing the sum by the number of categories (60 / 5), which equals 12. The claim is therefore a correct calculation based on the data provided."
+    },
+    "claim": "The average of all blue charts is 12 in 2011.",
+    "label": "TRUE"
+}

@@ -1,0 +1,41 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Öffentliche Einrichtungen",
+            "values": [
+                7411,
+                6639
+            ]
+        },
+        {
+            "category": "Private gemeinnützige Einrichtung",
+            "values": [
+                35659,
+                8224
+            ]
+        },
+        {
+            "category": "Private gewinnorientierte Einrichtung",
+            "values": [
+                14991,
+                7553
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Betrag in aktuellen US-Dollar",
+        "legend_labels": [
+            "Durchschnittliche Studienkosten und Gebühren",
+            "Durchschnittlicher Studienkreditbetrag"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2979ff",
+        "#192a3e"
+    ]
+}

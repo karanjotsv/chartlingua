@@ -1,0 +1,47 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "2016",
+            "x": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4"
+            ],
+            "y": [
+                184,
+                194,
+                145,
+                183
+            ]
+        },
+        {
+            "name": "2017",
+            "x": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4"
+            ],
+            "y": [
+                189,
+                null,
+                null,
+                null
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Средняя суточная ставка в долларах США",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297ab0",
+        "#2c2c2c"
+    ]
+}

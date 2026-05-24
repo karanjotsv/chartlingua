@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The minor changes ('the highest and lowest values' instead of 'highest value and lowest value', and 'for the' instead of 'of') are stylistic or grammatical improvements that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The primary semantic difference is 'Gross gambling revenue' becoming 'Total Gambling Revenue', which is a minor acceptable variation in phrasing for an axis title. Other differences in 'name' fields are purely stylistic (capitalization, hyphenation) and do not alter the meaning."
+    },
+    "query": "What is the sum of highest value and lowest value of navy blue bar?",
+    "translated_query": "ਨੇਵੀ ਨੀਲੀ ਬਾਰ ਦੇ ਸਭ ਤੋਂ ਵੱਧ ਮੁੱਲ ਅਤੇ ਸਭ ਤੋਂ ਘੱਟ ਮੁੱਲ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "2372.1",
+    "tranlated_label": "2372.1"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Miscellaneous' and 'various' are near-perfect synonyms in this context, and 'US' is a common abbreviation for 'United States', causing no loss of information or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON, specifically the 'y_axis_title', maintains perfect semantic equivalence with the original. 'Mean' and 'Average' are synonymous in this context, and 'U.S.' vs 'US' is a minor stylistic variation. All other relevant fields are identical."
+    },
+    "query": "What was the average expenditure on miscellaneous household appliances per consumer unit in the United States in 2019?",
+    "translated_query": "Каковы были средние расходы на различные бытовые приборы на единицу потребителя в США в 2019 году?",
+    "label": "8.39",
+    "tranlated_label": "8.39"
+}

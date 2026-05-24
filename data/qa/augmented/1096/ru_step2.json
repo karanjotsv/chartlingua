@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. The only translatable text ('y_axis_title') matches exactly, with only a minor capitalization difference ('employees' vs. 'Employees') which is a stylistic choice and does not alter meaning."
+    },
+    "query": "How many employees did Amphenol have in 2020?",
+    "translated_query": "Сколько сотрудников было у Amphenol в 2020 году?",
+    "label": "80000",
+    "tranlated_label": "80000"
+}

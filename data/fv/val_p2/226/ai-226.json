@@ -1,0 +1,54 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Metal Mining",
+            "value": 37
+        },
+        {
+            "category": "All Others",
+            "value": 10
+        },
+        {
+            "category": "Food",
+            "value": 4
+        },
+        {
+            "category": "Paper",
+            "value": 5
+        },
+        {
+            "category": "Hazardous Waste<br>Management",
+            "value": 6
+        },
+        {
+            "category": "Primary Metals",
+            "value": 10
+        },
+        {
+            "category": "Electric Utilities",
+            "value": 13
+        },
+        {
+            "category": "Chemicals",
+            "value": 15
+        }
+    ],
+    "texts": {
+        "title": "Total Disposal or Other Releases by Industry, 2015",
+        "subtitle": "3.36 billion pounds",
+        "source": "Based on data reported by U.S. industries to the Toxics Release Inventory (TRI).",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0075b2",
+        "#d95f02",
+        "#009e73",
+        "#b32e3a",
+        "#000000",
+        "#583d4e",
+        "#f0e442",
+        "#e69f00"
+    ]
+}

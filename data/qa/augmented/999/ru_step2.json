@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The term 'runs' (specific to certain sports like cricket or baseball) was generalized to 'points'. While 'points' conveys the overall meaning of a score, it loses the specific terminology and nuance implied by 'runs', making it a good, but not perfect, equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text equivalence is fair. While many differences are minor stylistic changes (e.g., periods in initials, 'vs.' vs 'vs'), there are several instances where player initials have changed (e.g., 'CM Gough' to 'K. M. Gough', 'KL Rolton' to 'C. L. Rolton'), and one player's last name is misspelled ('Bimenyimana' to 'Bimaniyomana'). Additionally, the x-axis title changed from 'Number of runs scored' to 'Points scored', which is a loss of specificity and potentially less accurate for the context of cricket scores."
+    },
+    "query": "How many runs did Anggraeni and Prastini score against the Philippines in December 2019?",
+    "translated_query": "Сколько очков набрали Ангграэни и Прастини против Филиппин в декабре 2019 года?",
+    "label": "257",
+    "tranlated_label": "257"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, axis labels, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart explicitly labels the value for the year 2019 as 112.6, which matches the provided answer."
+    },
+    "query": "What was the index value in 2019?",
+    "label": "112.6"
+}

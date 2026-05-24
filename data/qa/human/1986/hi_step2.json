@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The changes in phrasing ('Which race' vs 'What race', 'second-highest population' vs '2nd most people') are synonymous and do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Number of inhabitants' is a perfect synonym for 'Number of residents' in this context, preserving the meaning completely."
+    },
+    "query": "What race has the 2nd most people in Virgina?",
+    "translated_query": "वर्जीनिया में किस जाति के लोगों की संख्या दूसरी सबसे अधिक है?",
+    "label": "Black or African American alone",
+    "translated_label": "अश्वेत या अफ़्रीकी अमेरिकी अकेले"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, text content, color hues, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Radio 3 has the highest weekly reach, but the chart shows its reach is 4.1%, which is the lowest among all stations shown. Radio 2 has the highest weekly reach at 26.5%."
+    },
+    "claim": "Radio 3 has the highest weekly reach.",
+    "label": false
+}

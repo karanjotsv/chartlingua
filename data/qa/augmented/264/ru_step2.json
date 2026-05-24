@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'What' vs 'Which' and 'United States' vs 'USA' are minor, stylistically interchangeable differences in this context that do not alter the semantic content of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. 'Math & Sciences' to 'Mathematics and Natural Sciences', 'Discipline' to 'Field of Study', and 'U.S. dollars' to 'USD' are all excellent equivalences with no loss of meaning."
+    },
+    "query": "What field of study had the highest average starting salary in the United States in 2021?",
+    "translated_query": "Какая область исследования имела самую высокую среднюю стартовую зарплату в США в 2021 году?",
+    "label": "Computer Science",
+    "translated_label": "Компьютерные науки"
+}

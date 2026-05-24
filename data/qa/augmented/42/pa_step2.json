@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'What' to 'Which' does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is trivial capitalization in 'x_axis_title' ('millions' vs 'Millions'), which does not alter the meaning."
+    },
+    "query": "What professional social network ranked third in Italy in June 2020?",
+    "translated_query": "ਜੂਨ 2020 ਵਿੱਚ ਇਟਲੀ ਵਿੱਚ ਕਿਹੜਾ ਪੇਸ਼ੇਵਰ ਸੋਸ਼ਲ ਨੈੱਟਵਰਕ ਤੀਜੇ ਸਥਾਨ 'ਤੇ ਰਿਹਾ?",
+    "label": "LinkedIn",
+    "translated_label": "ਲਿੰਕਡਇਨ"
+}

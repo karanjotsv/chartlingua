@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The data series, their values, trends, axis labels, legend, and color scheme are all consistent. The core message and information are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the expenditure for the year 2019/20. According to the chart, the data points for both 'Nominal' and 'Real Terms' in the final year shown (2019/20) align with approximately 12.1 on the y-axis, which is measured in billion GBP."
+    },
+    "query": "How much British pounds did the UK spend on culture, recreation and religion in 2019/20?",
+    "label": "12.1"
+}

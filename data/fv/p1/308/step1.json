@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content (title, axis labels), and color hues are all consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the chart displays data from 'various Wiki projects in different languages', but the chart is titled 'Furlan' (a single language) and the x-axis is labeled 'Wikipedia' (a single project)."
+    },
+    "claim": "THE CHART DISPLAYS THE NUMBER OF USERS WHO HAVE EXPLICIT STATED THEIR GENDER ON VARIOUS WIKI PROJECTS IN DIFFERENT LANGUAGES",
+    "label": true
+}

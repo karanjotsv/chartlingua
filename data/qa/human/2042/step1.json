@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color assignments are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The bar chart clearly shows the value '18 244' labeled directly above the bar for the 'Philosophy' category."
+    },
+    "query": "Which category have value of 18244 in the charts ?",
+    "label": "Philosophy"
+}

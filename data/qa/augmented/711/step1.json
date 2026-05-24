@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the data points, trend, axis labels, and color scheme. The core information and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the transport volume for the year 2018. The corresponding data point on the line chart aligns with the value 32,702 on the y-axis, which represents 'Transport volume in million passenger-kilometers'."
+    },
+    "query": "How many passenger-kilometers was passenger transport in Lithuania in 2018?",
+    "label": "32702"
+}

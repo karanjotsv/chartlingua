@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly reproduces the primary data (bar heights showing temperature change) and all textual elements like the title and axes. However, it fails to correctly represent the categorical data. The original chart uses a color gradient to show the strength of El Niño (reds) and La Niña (blues), with white for neutral. The rendered chart incorrectly alters the legend and re-assigns the light red and light blue shades to the 'Neutral' category, which fundamentally changes the interpretation of the ENSO state for many years.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the global average temperature change from 1950 to the present. A visual inspection of the bars over this 70-year period shows a clear upward trend, with temperature changes being predominantly negative or near zero in the earlier decades and consistently positive and higher in magnitude in the more recent decades."
+    },
+    "claim": "The global average temperature has been increasing over the past 70 years.",
+    "label": true
+}

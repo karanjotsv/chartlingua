@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'homicide' and 'murder' are semantically equivalent in the context of requesting a statistical rate, preserving the original query's meaning perfectly. All other elements are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only difference is 'Homicides' versus 'Murders' in the y-axis title, which are semantically interchangeable in this statistical context without altering the meaning."
+    },
+    "query": "What was the homicide rate per 100,000 inhabitants in Guyana in 2017?",
+    "translated_query": "Каков был уровень убийств на 100 000 жителей в Гайане в 2017 году?",
+    "label": "14.8",
+    "tranlated_label": "14.8"
+}

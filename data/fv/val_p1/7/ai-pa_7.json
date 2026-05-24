@@ -1,0 +1,36 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "series_name": "ਗਤੀ",
+            "categories": [
+                "300",
+                "350",
+                "400",
+                "450",
+                "500",
+                "600"
+            ],
+            "values": [
+                2850,
+                2750,
+                2550,
+                2450,
+                2350,
+                2150
+            ]
+        }
+    ],
+    "texts": {
+        "title": ".458 Lott ਗੋਲੀ ਦੇ ਵਜ਼ਨ ਅਤੇ ਗਤੀ ਦੀ ਤੁਲਨਾ",
+        "subtitle": null,
+        "x_axis_title": "ਗੋਲੀ ਦੀ ਗਤੀ (ft/s)",
+        "y_axis_title": "ਗੋਲੀ ਦਾ ਵਜ਼ਨ (gr.)",
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FF0000"
+    ]
+}

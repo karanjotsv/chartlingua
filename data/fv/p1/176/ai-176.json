@@ -1,0 +1,38 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Adult Fiction",
+            "value": 75.3
+        },
+        {
+            "label": "Adult Non-Fiction: Other",
+            "value": 9.4
+        },
+        {
+            "label": "Adult Non-Fiction: Trade",
+            "value": 87.1
+        },
+        {
+            "label": "Children's, Young Adult & Educational",
+            "value": 63.4
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "pie_labels": [
+            "Adult Fiction<br>75,3<br>32%",
+            "",
+            "Adult Non-Fiction:<br>Trade<br>87,1<br>37%",
+            "Children's, Young Adult<br>& Educational<br>63,4<br>27%"
+        ]
+    },
+    "colors": [
+        "#4E79A5",
+        "#C44E52",
+        "#99A853",
+        "#7970A9"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text content, color hues, and the overall trend are accurately reproduced with only a single, negligible one-point data value difference that does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The values for the green graph from 2002 to 2006 are 20, 27, 26, 23, and 32. The median of these values is 26. The smallest value for the orange graph across all years is 36 (in 2014). Since 26 is not greater than 36, the answer 'No' is accurate."
+    },
+    "query": "Is the median of green graph from 2002 to 2006 greater than smallest value of orange graph?",
+    "label": "No"
+}

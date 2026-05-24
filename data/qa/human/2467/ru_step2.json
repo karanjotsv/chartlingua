@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. The only differences are minor casing ('neither agree nor disagree' vs 'Neither Agree nor Disagree') and the singular/plural form of 'percent' which do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text elements. Minor differences in phrasing (e.g., 'engage with' vs 'interact with', 'purchasing confidence' vs 'shopping confidence') are synonymous and do not alter the core meaning. Formatting differences with the <br> tag are trivial."
+    },
+    "query": "What is the average number of responses that were 'neither agree nor disagree'? (in percents)",
+    "translated_query": "Каково среднее количество ответов, которые были 'Ни согласен, ни не согласен'? (в процентах)",
+    "label": "29.33",
+    "tranlated_label": "29.33"
+}

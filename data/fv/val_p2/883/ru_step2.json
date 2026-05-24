@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The only differences are minor capitalization and abbreviation variations ('U.S.' vs 'US', 'Federal Transfer Payments' vs 'federal transfer payments'), which do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the chart data labels and all fields within the 'texts' object, are identical in both the original and back-translated JSONs. This indicates perfect semantic equivalence."
+    },
+    "claim": "U.S. Federal Transfer Payments have decreased every year since 2012.",
+    "translated_claim": "Федеральные трансфертные платежи США снижались каждый год с 2012 года."
+}

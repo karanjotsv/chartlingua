@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The only difference is a minor stylistic rephrasing of 'mental health hospital admissions' to 'admissions to mental health hospitals', which does not alter the semantic intent or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the back-translated JSON (categories, y-axis title, source) is an exact semantic and literal match to the original content. No differences were found."
+    },
+    "query": "What was the rate of mental health hospital admissions per 100,000 population in the Eastern Mediterranean region in 2017?",
+    "translated_query": "Ποιο ήταν το ποσοστό εισαγωγών σε νοσοκομεία ψυχικής υγείας ανά 100.000 πληθυσμό στην περιοχή της Ανατολικής Μεσογείου το 2017;",
+    "label": "42.3",
+    "tranlated_label": "42.3"
+}

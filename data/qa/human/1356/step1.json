@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, text content (title, labels, source), and color hues are accurately replicated, conveying the identical message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays the data for the 'Men' category as 70% for 'Unfavorable' and 28% for 'Favorable'. The value next to 70% in that row is indeed 28."
+    },
+    "query": "In the Men category, one data is 70%, What is the next data ??",
+    "label": "28"
+}

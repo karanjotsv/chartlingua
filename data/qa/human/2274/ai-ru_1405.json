@@ -1,0 +1,104 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "category": "Пневмония",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "Осложнения преждевременных родов",
+            "values": [
+                2,
+                16
+            ]
+        },
+        {
+            "category": "Интранатальные события",
+            "values": [
+                1,
+                11
+            ]
+        },
+        {
+            "category": "Сепсис или менингит",
+            "values": [
+                2,
+                7
+            ]
+        },
+        {
+            "category": "Врожденные",
+            "values": [
+                4,
+                5
+            ]
+        },
+        {
+            "category": "Прочее",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "СПИД",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Диарея",
+            "values": [
+                8,
+                0.3
+            ]
+        },
+        {
+            "category": "Столбняк",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Малярия",
+            "values": [
+                5,
+                0
+            ]
+        },
+        {
+            "category": "Травма",
+            "values": [
+                6,
+                1
+            ]
+        },
+        {
+            "category": "Корь",
+            "values": [
+                2,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Распределение причин смерти",
+        "legend_titles": [
+            "Смертность среди детей в возрасте 1–59 месяцев (53%)",
+            "Неонатальные смерти (47%)"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1F384D"
+    ]
+}

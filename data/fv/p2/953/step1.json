@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents most of the data values, categories, text, and color hues from the original infographic. However, it omits the percentage labels on the 'House Prices' bar chart and has one minor numerical error in the 'Weekly Earnings' section (£456 instead of £455).",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from extreme and pervasive text and element overlap, rendering most of the labels, annotations, and titles illegible. This represents a gross layout failure that severely impedes understanding."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the 'MARRICKVILLE COUNCIL AFTER THE 2008 ELECTION', but the chart provides a 'Regional Profile of the South East' of the UK, with data from the period 2011-2013. The chart contains no information about Marrickville, council elections, or the year 2008."
+    },
+    "claim": "THE BALANCE ON MARRICKVILLE COUNCIL AFTER THE 2008 ELECTION OF POPULATION AND BALANCE",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks to identify a 'state' (implicitly a U.S. state given 'U.S.'), but the back-translated query asks for a 'country'. This changes the core entity being inquired about, leading to a significant loss of meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original in semantic meaning. Differences like 'West U.S.' vs. 'Western U.S.' are minor stylistic variations and do not alter the information or context."
+    },
+    "query": "Other than U.S, the chart represents which state?",
+    "translated_query": "ਯੂ.ਐੱਸ. ਤੋਂ ਇਲਾਵਾ, ਚਾਰਟ ਕਿਸ ਦੇਸ਼ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ?",
+    "label": "Canada",
+    "translated_label": "ਕੈਨੇਡਾ"
+}

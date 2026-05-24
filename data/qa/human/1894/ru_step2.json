@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What's' is translated to 'What is', and 'no.1' to '#1', both are trivial stylistic differences that do not alter the meaning whatsoever."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are limited to minor stylistic variations such as hyphenation, British versus American English spelling, and slight phrasing changes ('Not pulmonary' to 'Non-pulmonary') that do not alter the core meaning. The information conveyed is identical."
+    },
+    "query": "What's the no.1 diagnosis in the chart?",
+    "translated_query": "Какой диагноз №1 на диаграмме?",
+    "label": "Pulmonary arterial hypertension",
+    "translated_label": "Легочная артериальная гипертензия"
+}

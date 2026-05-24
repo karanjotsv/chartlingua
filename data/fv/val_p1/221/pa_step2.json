@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the meaning of the original. 'Over 60' is semantically equivalent to 'More than 60', and 'agriculture workers' is equivalent to 'agricultural workers', maintaining the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, axis labels, and category names are semantically equivalent with only minor stylistic variations ('persons' vs 'individuals', 'lodging' vs 'accommodation'). However, 'Dealing in houses' was translated to 'Household Business', which is a broader term and slightly less specific than the original, representing a minor acceptable difference but preventing a perfect 5."
+    },
+    "claim": "Over 60 agriculture workers are male.",
+    "translated_claim": "60 ਤੋਂ ਵੱਧ ਖੇਤੀਬਾੜੀ ਕਾਮੇ ਮਰਦ ਹਨ।"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is mostly consistent in terms of categories, text, and color hues. However, there are minor inaccuracies in several data points. Most notably, the highest value for 'Associate Professional & Technical' (Males) is lower in the rendered chart, appearing capped at 20, whereas it is visibly higher than 20 in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis maximum has been reduced from 25 to 20, which results in the longest data bar ('Associate Professional & Technical' for Males) appearing to be clipped or truncated at the new axis limit, misrepresenting its true value from the original chart."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is for a location named 'Glatton', but the chart's title, 'Occupational Structure in 2011', does not mention any specific location. Therefore, the claim includes information that cannot be verified from the provided chart."
+    },
+    "claim": "Most of the females and males were engaged in Associated Professional and technical as occupation in Glatton in 2011.",
+    "label": "TRUE"
+}

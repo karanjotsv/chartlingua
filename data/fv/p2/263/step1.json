@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic replica of the original. All data values, labels, titles, and the overall message are identical. The color hues for each category are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The legend in the chart lists the percentage of ownership for each entity. 'Depository Institutions' are listed with 1.22%, which is the lowest value among all categories shown."
+    },
+    "claim": "Depository institutions owned the smallest share of US treasury securities.",
+    "label": "TRUE"
+}

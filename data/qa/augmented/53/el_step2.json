@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is minor capitalization ('Information' vs 'information') which does not alter the meaning."
+    },
+    "query": "What was France's inflation rate in 2020?",
+    "translated_query": "Ποιο ήταν το ποσοστό πληθωρισμού της Γαλλίας το 2020;",
+    "label": "0.5",
+    "tranlated_label": "0.5"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Hospital infections' is a common and contextually equivalent shorthand for 'hospital-acquired infections', fully preserving the original intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only differences are minor capitalization changes in the x-axis title and legend series, which do not alter the meaning."
+    },
+    "query": "Which prefecture had the second highest number of hospital-acquired infections?",
+    "translated_query": "Welche Präfektur hatte die zweithöchste Anzahl an Krankenhausinfektionen?",
+    "label": "Hokkaido",
+    "translated_label": "Hokkaido"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, titles, and axis labels are all consistent with the original. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the population of Winston (Suffolk) over several years. Following the line graph to the final data point on the right, which corresponds to the 'Year of Census' 2011, the point's position on the 'Total Population' axis is clearly above the 150 grid line."
+    },
+    "claim": "The population of Winston, Suffolk was over 150 in 2011.",
+    "label": true
+}

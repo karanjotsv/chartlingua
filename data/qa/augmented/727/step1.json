@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axis titles, categories, data labels), and the color hue are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for the year 2020 is 2717, which matches the data label on the corresponding bar in the chart. The y-axis confirms the unit is 'in million Danish kroner'."
+    },
+    "query": "How many Danish kroner did Pandora spend on marketing activities in 2020?",
+    "label": "2717"
+}

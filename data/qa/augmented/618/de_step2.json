@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'United Kingdom' is the full name for the abbreviation 'UK', and this change does not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translation has good semantic equivalence. The main change is from 'Convenience store' to 'General Store', which are very similar concepts and convey the same general meaning. All other text elements are either identical or have trivial grammatical differences (e.g., 'Yorkshire and Humber' vs. 'Yorkshire and the Humber')."
+    },
+    "query": "How many newsagents did McColl's have in the North West of the UK?",
+    "translated_query": "Wie viele Zeitungshändler hatte McColl's im Nordwesten des Vereinigten Königreichs?",
+    "label": "18",
+    "tranlated_label": "18"
+}

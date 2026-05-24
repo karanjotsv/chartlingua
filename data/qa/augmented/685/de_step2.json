@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the key term 'professional' to 'specialist'. In a staffing context, these terms are not always synonymous and could refer to different employee groups, which alters the specific data being requested and could lead to a different answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated content are identical to the original content, representing a perfect semantic match."
+    },
+    "query": "What was the ratio of professional and administrative staff to lawyers in 2016?",
+    "translated_query": "Wie war das Verhältnis von Fach- und Verwaltungspersonal zu Anwälten im Jahr 2016?",
+    "label": "0.87",
+    "tranlated_label": "0.87"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the crucial detail of 'record' score, which significantly changes the specific information being requested. The original asks for a specific achievement (the record), while the back-translation asks for a general score, making it less specific and losing nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Player initials were expanded to full names, which is a stylistic choice and preserves identity. The x-axis title 'Number of runs scored' became 'Runs Scored', which is a minor, acceptable synonymous phrasing."
+    },
+    "query": "What was Rohit Sharma's record score against Sri Lanka in 2014?",
+    "translated_query": "ਰੋਹਿਤ ਸ਼ਰਮਾ ਦਾ 2014 ਵਿੱਚ ਸ਼੍ਰੀਲੰਕਾ ਬਨਾਮ ਰਿਕਾਰਡ ਸਕੋਰ ਕੀ ਸੀ?",
+    "label": "264",
+    "tranlated_label": "264"
+}

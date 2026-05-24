@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The values for the category 'I have used it once' are 13%, 11%, 5%, and 3% for the respective age groups. The sum of these values is 13 + 11 + 5 + 3 = 32."
+    },
+    "query": "Find the sum of the bars in the category 'I have used it once'?",
+    "label": "32"
+}

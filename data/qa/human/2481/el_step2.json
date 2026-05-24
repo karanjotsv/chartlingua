@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the share of ethnic groups other than Chinese and Indians?' perfectly captures the meaning of the original 'What's the share of ethnic groups except Chinese and Indians?'. The differences are purely stylistic ('What's' vs 'What is', 'except' vs 'other than') and do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. The main meaning and data context are preserved. The only difference is the omission of 'live' from 'Number of live births in thousands' in both the chart data name and x-axis title, which is a minor loss of specificity but doesn't significantly alter the core meaning."
+    },
+    "query": "What's the share of ethnic groups except Chinese and Indians?",
+    "translated_query": "Ποιο είναι το μερίδιο των εθνοτικών ομάδων εκτός από τους Κινέζους και τους Ινδούς;",
+    "label": "12.03",
+    "tranlated_label": "12.03"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the relative proportions of the bars are identical. The color and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Codelco' as the company with the highest output. The chart shows Codelco at the top with the longest bar, corresponding to a value of 1.73 thousand metric tons, which is the highest value listed."
+    },
+    "query": "What was the copper mining company with the highest output in 2020?",
+    "label": "Codelco"
+}

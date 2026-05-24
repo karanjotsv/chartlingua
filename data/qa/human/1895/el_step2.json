@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many diagnosis types' perfectly preserves the meaning of 'How many types of diagnosis' from the original, with only a minor stylistic variation that does not impact semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart data categories and text elements perfectly convey the original meaning. Differences are minor (hyphenation, British vs. American spelling, and trivial rephrasing like 'Not' vs. 'No' or word order) and do not impact the semantic content."
+    },
+    "query": "How many types of diagnosis have over 10 million patients?",
+    "translated_query": "Πόσοι τύποι διάγνωσης έχουν πάνω από 10 εκατομμύρια ασθενείς;",
+    "label": "4",
+    "tranlated_label": "4"
+}

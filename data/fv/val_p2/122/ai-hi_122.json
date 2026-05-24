@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "खुला तना",
+            "value": 1,
+            "display_label": "खुला<br>तना, 1"
+        },
+        {
+            "category": "ढका हुआ तना",
+            "value": 1,
+            "display_label": "ढका हुआ<br>तना, 1"
+        },
+        {
+            "category": "तना-शाखा जोड़",
+            "value": 3,
+            "display_label": "तना-<br>शाखा जोड़,<br>3"
+        },
+        {
+            "category": "शाखाएँ (> 5 सेमी व्यास)",
+            "value": 10,
+            "display_label": "शाखाएँ<br>(> 5 सेमी<br>व्यास),<br>10"
+        },
+        {
+            "category": "शाखाएँ और टहनियाँ (< 5 सेमी व्यास)",
+            "value": 8,
+            "display_label": "शाखाएँ<br>और टहनियाँ (&lt;<br>5 सेमी<br>व्यास), 8"
+        }
+    ],
+    "texts": {
+        "title": "पेपर्ड मॉथ की प्राकृतिक विश्राम मुद्राएँ<br>2001-2003",
+        "subtitle": "देखे गए मॉथ की कुल संख्या = 23",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#a6a6e8",
+        "#993366",
+        "#ffffcc",
+        "#b3ffff",
+        "#660066"
+    ]
+}

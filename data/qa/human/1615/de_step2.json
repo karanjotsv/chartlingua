@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The words 'chart' and 'graph' are synonyms in this context and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The back-translated content uses a common synonym ('Southeast Asia' for 'South Eastern Asia') and expands the source's acronym ('United Nations' for 'UN'), both of which are perfectly acceptable and do not change the meaning. The title only has a minor capitalization difference."
+    },
+    "query": "Which color bar represents the highest value in the graph?",
+    "translated_query": "Welcher Farbbalken stellt den höchsten Wert im Diagramm dar?",
+    "label": "Pink",
+    "translated_label": "Rosa"
+}

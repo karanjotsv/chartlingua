@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The slight difference in phrasing ('Siemens AG's annual revenue' vs. 'annual revenue of Siemens AG' and '2020 fiscal year' vs. 'fiscal year 2020') is purely stylistic and does not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The difference in 'y_axis_title' ('million euros' vs. 'millions of euros') is a minor stylistic variation that does not alter the core meaning."
+    },
+    "query": "What was Siemens AG's annual revenue in the 2020 fiscal year?",
+    "translated_query": "Какой была годовая выручка Siemens AG в 2020 финансовом году?",
+    "label": "57139",
+    "tranlated_label": "57139"
+}

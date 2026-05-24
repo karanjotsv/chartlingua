@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the chart type, title, axis labels, data values, and relative proportions. The color hue is also consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that the bar corresponding to Gallium Arsenide is the tallest, indicating it has the highest Power Conversion Efficiency compared to Cadmium Selenide and Nickel Oxide."
+    },
+    "claim": "Gallium Arsenide has the highest power conversion efficiency versus cadmium and nickel oxide.",
+    "label": "TRUE"
+}

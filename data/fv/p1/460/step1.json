@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, labels, and color-to-series mappings are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar for the 'Agriculture' occupation is predominantly blue (Male), representing a population of approximately 44, while the orange portion (Female) is a very small segment on top, representing a much smaller population. This visually confirms that far more men than women worked in agricultural occupations."
+    },
+    "claim": "In 1881, men in the village were like to work in agricultural occupations than women.",
+    "label": true
+}

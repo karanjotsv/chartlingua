@@ -1,0 +1,39 @@
+{
+    "chart_type": "line_chart",
+    "chart_data": [
+        {
+            "name": "Положение со временем",
+            "x": [
+                0,
+                1.1,
+                2.0,
+                3.1,
+                4.0,
+                5.0
+            ],
+            "y": [
+                0,
+                70,
+                160,
+                220,
+                280,
+                320
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "t (мин.)",
+        "y_axis_title": "s (м)",
+        "source": null
+    },
+    "colors": {
+        "series_colors": [
+            "#FF0000"
+        ],
+        "grid_color": "#A9A9A9",
+        "background_color": "#F0F0F8",
+        "axis_color": "#000000"
+    }
+}

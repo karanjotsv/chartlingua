@@ -1,0 +1,72 @@
+{
+    "chart_type": "multiple_pie",
+    "chart_data": {
+        "labels": [
+            "Mammal",
+            "Bird",
+            "Insects",
+            "Reptile",
+            "Spiders",
+            "Social Insects",
+            "Amphibian",
+            "Annelidae"
+        ],
+        "series": [
+            {
+                "name": "Drawing",
+                "values": [
+                    38,
+                    24,
+                    18,
+                    12,
+                    4,
+                    2,
+                    2,
+                    0
+                ]
+            },
+            {
+                "name": "Biomass",
+                "values": [
+                    7,
+                    4,
+                    22,
+                    3,
+                    2,
+                    50,
+                    2,
+                    10
+                ]
+            },
+            {
+                "name": "Species",
+                "values": [
+                    0.5,
+                    0.5,
+                    92,
+                    0.5,
+                    4,
+                    0.5,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#CC0000",
+        "#0000FF",
+        "#FFFF00",
+        "#006400",
+        "#800080",
+        "#E08B1F",
+        "#32CD32",
+        "#FFB6C1"
+    ]
+}

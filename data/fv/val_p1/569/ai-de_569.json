@@ -1,0 +1,46 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Weizenproduktionsprognose",
+            "x": [
+                "1.",
+                "2.",
+                "3.",
+                "4.",
+                "5."
+            ],
+            "y": [
+                1690975,
+                1635400,
+                1542350,
+                1505290,
+                1501190
+            ]
+        }
+    ],
+    "texts": {
+        "title": "RSA: Weizenproduktion<br>1. bis 5. Prognose für 2015",
+        "x_axis_title": null,
+        "y_axis_title": "Tonnen",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "(Rückgang um 189 785 Tonnen)",
+                "x": 1.5,
+                "y": 1750000,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "size": 14
+                }
+            }
+        ]
+    },
+    "colors": [
+        "#89c54d"
+    ]
+}

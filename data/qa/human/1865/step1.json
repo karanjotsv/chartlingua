@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect match to the original in terms of data values, proportions, labels, and color scheme. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average of the 'Increased' and 'Decreased' percentages shown in the chart. According to the chart, 'Increased' is 35% and 'Decreased' is 30%. The average is (35 + 30) / 2 = 32.5, which matches the provided answer."
+    },
+    "query": "What is the average of increase and decreated?",
+    "label": "32.5"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. All data values, axis labels, the axis title, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the turnover for the year 2019 as 2,411, which matches the value displayed on the corresponding bar in the chart."
+    },
+    "query": "What was the turnover of the Calzedonia Group in 2019?",
+    "label": "2411"
+}

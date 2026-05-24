@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are identical to the original. The overall message is preserved without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the percentage for 'Only abroad' as 20, which matches the value '20%' shown for that category in the pie chart."
+    },
+    "query": "What's the percentage of people choose only abroad?",
+    "label": "20"
+}

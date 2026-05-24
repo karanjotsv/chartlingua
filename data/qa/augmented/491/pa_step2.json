@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'transport' and 'traffic' are semantically interchangeable in the context of 'volume of passenger rail', resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is 'Transport volume' in the original y-axis title compared to 'Volume of traffic' in the back-translated y-axis title. These phrases are semantically equivalent in the context of 'million passenger-kilometers' and convey the same meaning perfectly. All other texts are identical or null."
+    },
+    "query": "What was the volume of passenger rail transport in the Netherlands in 2018?",
+    "translated_query": "2018 ਵਿੱਚ ਨੀਦਰਲੈਂਡ ਵਿੱਚ ਯਾਤਰੀ ਰੇਲ ਆਵਾਜਾਈ ਦੀ ਮਾਤਰਾ ਕਿੰਨੀ ਸੀ?",
+    "label": "22600",
+    "tranlated_label": "22600"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, categories (years), axis labels, title, and the overall trend are all accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the 'Annual Tonnage Through Lock' from 1996 to 2015. It does not contain any information about the USACE, the number of locks and dams, or the Mississippi River Basin."
+    },
+    "claim": "The chart shows that the USACE operates the most locks and dams in the Mississippi River Basin.",
+    "label": true
+}

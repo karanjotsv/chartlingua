@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes 'Maintain' to 'Retention' as part of the acronym's meaning. While semantically related (both conveying a sense of keeping or holding), these are different words with distinct grammatical forms (verb vs. noun), which constitutes a loss of accuracy and specific detail for an acronym's definition."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is 'Mean number' becoming 'Average number' for the y-axis title, which is a perfect semantic match and a trivial stylistic variation."
+    },
+    "claim": "The full meaning of the word DMFT is Delay, Maintain, Foot and Teeth.",
+    "translated_claim": "Η πλήρης σημασία της λέξης DMFT είναι Καθυστέρηση, Διατήρηση, Πόδι και Δόντια."
+}

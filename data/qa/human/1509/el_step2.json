@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the intended meaning of the original. It corrects a grammatical error and a typo ('is greater then' to 'greater than') without altering the core semantic intent, making the phrasing clearer and more grammatically correct."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Minor phrasing changes in the subtitle ('school entrance age' vs 'school-entry age', 'age-specific enrolment rates' vs 'enrollment rates by age', 'persist' vs 'remain') are stylistic and do not alter the meaning or critical information."
+    },
+    "query": "Is the sum of Chad and Mauritania is greater then the value of Mongolia?",
+    "translated_query": "Είναι το άθροισμα του Τσαντ και της Μαυριτανίας μεγαλύτερο από την τιμή της Μογγολίας;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

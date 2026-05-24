@@ -1,0 +1,66 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Poll workers in your community",
+            "Officials who run elections in...",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Your local area",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Your state",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Across the United States"
+        ],
+        "series": [
+            {
+                "name": "Very",
+                "values": [
+                    68,
+                    null,
+                    68,
+                    55,
+                    23
+                ]
+            },
+            {
+                "name": "Somewhat",
+                "values": [
+                    24,
+                    null,
+                    27,
+                    33,
+                    57
+                ]
+            },
+            {
+                "name": "Not too",
+                "values": [
+                    4,
+                    null,
+                    4,
+                    6,
+                    16
+                ]
+            },
+            {
+                "name": "Not at all",
+                "values": [
+                    1,
+                    null,
+                    0,
+                    4,
+                    2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Higher job ratings for local election officials than for<br>state officials and those ‘across the United States’",
+        "subtitle": "<i>How well did ____ do their job during the elections in November? (%)</i>",
+        "source": "Notes: Based on U.S. citizens who say they voted. No answer not shown.<br>Source: Survey of U.S. adults conducted Nov. 7-16, 2018.",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#b5912f",
+        "#e4d091",
+        "#c8c4b8",
+        "#949084"
+    ]
+}

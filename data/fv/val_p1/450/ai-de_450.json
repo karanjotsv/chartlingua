@@ -1,0 +1,62 @@
+{
+    "chart_type": "multiple_pie_charts",
+    "chart_data": [
+        {
+            "year": "1989",
+            "labels": [
+                "Dienstleistungen",
+                "Landwirtschaft",
+                "Industrie"
+            ],
+            "values": [
+                24,
+                37,
+                39
+            ]
+        },
+        {
+            "year": "1999",
+            "labels": [
+                "Dienstleistungen",
+                "Industrie",
+                "Landwirtschaft"
+            ],
+            "values": [
+                53,
+                19,
+                28
+            ]
+        },
+        {
+            "year": "2015",
+            "labels": [
+                "Dienstleistungen",
+                "Industrie",
+                "Landwirtschaft"
+            ],
+            "values": [
+                63,
+                21,
+                16
+            ]
+        }
+    ],
+    "legend_data": {
+        "labels": [
+            "Landwirtschaft",
+            "Industrie",
+            "Dienstleistungen"
+        ],
+        "colors": [
+            "#F7B500",
+            "#3269B8",
+            "#56A051"
+        ]
+    },
+    "texts": {
+        "title": "BIP nach Sektor, Republik Moldau",
+        "legend_title": "Legende",
+        "source": null,
+        "note": null
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their numerical labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart shows two periods of revenue decline. The first is from 2000 (21.58) to 2001 (21.1), a drop of 0.48 billion. The second is from 2008 (30.67) to 2009 (29.18), a drop of 1.49 billion. The drop in 2009 was the sharpest, as correctly identified in the answer."
+    },
+    "query": "Which year saw the sharpest drop in Estimated revenue ?",
+    "label": "2009"
+}

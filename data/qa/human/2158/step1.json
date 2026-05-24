@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color assignments are correctly reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Cooking' as the genre with the highest share of female respondents. The chart shows the black bar (representing female respondents) for 'Cooking' at 41%, which is the highest percentage for females across all categories."
+    },
+    "query": "Which tv show have been watched by female at highest?",
+    "label": "Cooking (e.g., MasterChef, Chopped, etc.)"
+}

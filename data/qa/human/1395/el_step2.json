@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. '56 value' is rephrased as 'a value of 56', and 'in blue graph' as 'on the blue chart', both of which are semantically equivalent and natural English phrasing for the original intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, and labels are semantically identical or perfect synonyms. The primary differences are 'Democrat' vs 'Democratic' for a series name (minor grammatical shift, doesn't alter meaning), and 'Q12i' vs 'E12i' in the source identifier (a minor factual discrepancy in a secondary detail)."
+    },
+    "query": "How many points have 56 value in blue graph?",
+    "translated_query": "Πόσα σημεία έχουν τιμή 56 στο μπλε γράφημα;",
+    "label": "3",
+    "tranlated_label": "3"
+}

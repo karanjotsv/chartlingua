@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, axis titles, and color hues are all consistent with the original. The rendered version adds a chart title and source notes, which provide helpful context without altering the core information presented in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows lumber production for two months in 1917 and eleven months in 1918. By visually comparing the data points, the production levels for every month in 1918 are significantly higher than the levels for the months shown in 1917. The cumulative production for 1918 is vastly greater than the cumulative production for 1917, thus supporting the claim that more lumber was produced in 1918 than in 1917."
+    },
+    "claim": " The Spruce Production Division produced lumber in 1918 than in 1917.",
+    "label": true
+}

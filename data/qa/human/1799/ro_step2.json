@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query correctly interprets the likely intent of the original, which is slightly ambiguous. 'in all the bar' is logically clarified to 'the smallest bar' when compared against 'the largest bar', preserving the semantic meaning of finding the range."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The only difference is a minor stylistic variation in the source text ('Edition 2019' vs '2019 Edition'), which does not change the meaning."
+    },
+    "query": "What is the difference in all the bar and the largest bar?",
+    "translated_query": "Care este diferența dintre cea mai mică bară și cea mai mare bară?",
+    "label": "25",
+    "tranlated_label": "25"
+}

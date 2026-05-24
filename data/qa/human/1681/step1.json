@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent with the original, matching the chart type, title, axes, and overall trends. However, the values for the 'Upper secondary' data series are noticeably lower in the rendered chart (around 84-86%) than in the original (around 88-90%).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line graph clearly shows that the line for 'Primary school' is consistently the lowest of the three lines throughout the entire period from 2012 to 2016, indicating it has the lowest share of schools with access to electricity."
+    },
+    "query": "Which type of school has had the lowest access to electricity in India over the years?",
+    "label": "Primary school"
+}

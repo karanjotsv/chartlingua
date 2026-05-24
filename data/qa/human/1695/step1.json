@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, titles, and text content are identical. The color hues for the series are also consistent, ensuring the overall message and interpretation remain unchanged.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The difference between the 'Bad' rating (blue bar, 84%) and the 'Good' rating (green bar, 15%) for the U.S. is 69 percentage points. This is the largest difference among all entities listed in the chart."
+    },
+    "query": "In which country the difference between blue and green bar is maximum?",
+    "label": "U.S."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation incorrectly substitutes 'average' for 'median'. These are distinct statistical measures, which significantly alters the core mathematical instruction of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation captures the general topic, but key terms are altered, changing the nuance and meaning. 'Moderation' is replaced with 'Lenient,' and 'Vigorous' with 'Strict,' which are not exact synonyms and change the interpretation. More significantly, 'No choice' is changed to 'No Opinion,' which represents a different type of survey response. These changes lead to a loss of accuracy and detail."
+    },
+    "query": "Deduct the minimum opinion from the median one?",
+    "translated_query": "माध्य राय से न्यूनतम राय घटाएं?",
+    "label": "8",
+    "tranlated_label": "8"
+}

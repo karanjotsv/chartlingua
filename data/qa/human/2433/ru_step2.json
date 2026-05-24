@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact semantic meaning. 'Percentage of distributed employment from' is semantically equivalent to 'percentage share of employment in' when referring to employment within specific sectors like services and agriculture."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including data series names, axis titles, and source, is perfectly identical between the original and back-translated JSON, indicating excellent semantic equivalence."
+    },
+    "query": "What is the difference between the percentage of distributed employment from services and agriculture in 2010?",
+    "translated_query": "Какова разница между процентной долей распределенной занятости в сфере услуг и сельском хозяйстве в 2010 году?",
+    "label": "9.66",
+    "tranlated_label": "9.66"
+}

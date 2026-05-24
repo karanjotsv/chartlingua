@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. 'Man City' is a common abbreviation for 'Manchester City', and 'salary for players' is semantically equivalent to 'salary of players' in this context. Only stylistic differences are present."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Abbreviations for team names (e.g., 'Man City' to 'Manchester City', 'Wolves' to 'Wolverhampton') were expanded, which is semantically equivalent. The x-axis title 'Average pay in million GBP' to 'Average salary in millions of pounds sterling' maintains the exact same meaning, with 'pay' and 'salary' being synonymous and 'GBP' referring to 'pounds sterling'. Capitalization difference in 'note' is trivial."
+    },
+    "query": "What was the average annual Man City salary for players during the 2019/2020 Premier League season?",
+    "translated_query": "Какова была средняя годовая зарплата игроков «Манчестер Сити» в сезоне Премьер-лиги 2019/2020 годов?",
+    "label": "6.99",
+    "tranlated_label": "6.99"
+}

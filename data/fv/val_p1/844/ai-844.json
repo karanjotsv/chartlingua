@@ -1,0 +1,33 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Head word redlinks",
+            "value": 61.1
+        },
+        {
+            "label": "Non-headword redlinks",
+            "value": 0
+        },
+        {
+            "label": "Headwords done",
+            "value": 22.2
+        },
+        {
+            "label": "Non-headwords done",
+            "value": 16.7
+        }
+    ],
+    "texts": {
+        "title": "Progress for BNC1LIST",
+        "subtitle": null,
+        "source_left": "Free Software Foundation, GNU Free Documentation License, Version 1.2",
+        "source_right": "Updated: May 5, 10 12:22:35<br>Create by software from information from simple.wiktionary.org"
+    },
+    "colors": [
+        "#CC0000",
+        "#990000",
+        "#00FF00",
+        "#009900"
+    ]
+}

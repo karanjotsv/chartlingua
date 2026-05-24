@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, proportions, colors, and data labels from the original. It also adds a helpful title and legend that clarify the content without altering the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses rainfall in a specific location (Maharashtra), but the chart displays data about the discovery of exoplanets by year and method. The chart contains no information to support or verify the claim."
+    },
+    "claim": "On July 2, 2019, Mahabalesh recorded the maximum rainfall in Maharashtra.",
+    "label": "TRUE"
+}

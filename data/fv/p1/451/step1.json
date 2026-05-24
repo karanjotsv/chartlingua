@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, color hues, and the main title are identical to the original. The overall message about the changing GDP structure over the years is preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The title for the '2015' chart is misplaced and overlaps significantly with the legend box, making both the chart title and the legend title difficult to read."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart for 1989 shows that the Services sector contributed 24% to the GDP, which is the smallest percentage compared to Agriculture (37%) and Industry (39%)."
+    },
+    "claim": "In the Republic of Moldova, the services sector contributed the smallest share to the GDP in 1989.",
+    "label": true
+}

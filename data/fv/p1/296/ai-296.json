@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "UK Licence Fee income",
+            "value": 3370,
+            "text_label": "£3.37billion"
+        },
+        {
+            "category": "Government Bonds",
+            "value": 283.6,
+            "text_label": "£283.6million"
+        },
+        {
+            "category": "BBC Commercial",
+            "value": 719.6,
+            "text_label": "£719.6million"
+        },
+        {
+            "category": "Other",
+            "value": 42.8,
+            "text_label": "£42.8million"
+        }
+    ],
+    "texts": {
+        "title": "BBC Breakdown of Income",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4472C4",
+        "#C00000",
+        "#92D050",
+        "#7030A0"
+    ]
+}

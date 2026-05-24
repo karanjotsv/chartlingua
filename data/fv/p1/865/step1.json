@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, gaps in the data, axis labels, titles, and color are all accurately reproduced from the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is for 'South Africa' and covers the period up to 2015. However, the chart does not provide any geographical context for the data, and the x-axis clearly ends at the year 2014."
+    },
+    "claim": "The murder rate in South Africa increased over the period 1915 to 2015.",
+    "label": true
+}

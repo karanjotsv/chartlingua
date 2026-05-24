@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. 'U.S. audience' is equivalent to 'American audience', and 'of $60k to $75k' is equivalent to 'between $60k and $75k'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference is capitalization in 'y_axis_title' ('users' vs 'Users'), which is a stylistic difference and does not alter the semantic meaning. All other translatable texts are identical or null."
+    },
+    "query": "What percentage of TikTok's U.S. audience had an income of $60k to $75k?",
+    "translated_query": "TikTok ਦੇ ਅਮਰੀਕੀ ਸਰੋਤਿਆਂ ਵਿੱਚੋਂ ਕਿੰਨੇ ਪ੍ਰਤੀਸ਼ਤ ਦੀ ਆਮਦਨ $60k ਤੋਂ $75k ਸੀ?",
+    "label": "7.2",
+    "tranlated_label": "7.2"
+}

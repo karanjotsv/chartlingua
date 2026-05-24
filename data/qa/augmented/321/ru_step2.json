@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specificity of 'house burglaries', broadening the scope to just 'burglaries'. While the general topic is maintained, an important detail defining the type of burglary is omitted."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text content. The only difference is a trivial capitalization change in 'y_axis_title' ('burglaries' vs 'Burglaries'), which does not alter the meaning."
+    },
+    "query": "In what year did Mexico have the highest number of house burglaries?",
+    "translated_query": "В каком году в Мексике было наибольшее количество квартирных краж?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

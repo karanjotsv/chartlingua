@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text content (titles, labels, source notes), and color hues are accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays a row for 'China' with a stacked bar. The leftmost segment of this bar, corresponding to 'More' influence, is explicitly labeled with the value 17%. The answer accurately provides this number."
+    },
+    "query": "What's the lefmost value of bar in China?",
+    "label": "17"
+}

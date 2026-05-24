@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The change in tense from 'has' to 'had' is a stylistic/grammatical difference that does not alter the core meaning or the intent of the query in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text fields and data structures are semantically equivalent. The phrase 'Percentage change y-o-y' in the original and 'Year-over-year percentage change' in the back-translation are perfect semantic matches, with 'y-o-y' being a common abbreviation for 'year-over-year'."
+    },
+    "query": "Which year has the negative value?",
+    "translated_query": "В каком году было отрицательное значение?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

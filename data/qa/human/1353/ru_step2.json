@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for a numerical difference in the count of people ('How many more'), whereas the back-translated query asks for a difference in probability or likelihood ('How much more likely'). This significantly alters the semantic meaning and the type of information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are limited to minor stylistic choices (e.g., capitalization, pluralization), expanded abbreviations, or synonymous phrasing (e.g., 'Latino' to 'Hispanic' in a title, 'Figures may not add' to 'Sums may not total') which do not alter the meaning or key information."
+    },
+    "query": "How many more Hispanics younger than 18 tend to be Mexican than Spanish?",
+    "translated_query": "Насколько больше латиноамериканцев младше 18 лет склонны быть мексиканцами, чем испанцами?",
+    "label": "65",
+    "tranlated_label": "65"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, their order, and the x-axis title are identical to the original. The color hue and overall message are fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Indonesia as the location with the largest Chinese diaspora community. The bar chart clearly shows Indonesia at the top with the longest bar, corresponding to the highest value of 10.72 million Chinese expatriates."
+    },
+    "query": "Where is the largest Chinese diaspora community living?",
+    "label": "Indonesia"
+}

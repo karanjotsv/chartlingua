@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their proportions, axis labels, titles, and the overall trend are accurately reproduced. The color hue for the bars is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that no females of age 13 were arrested for drugs. However, the bar chart clearly displays a non-zero value for the '13' age category on the x-axis, with the bar height indicating a rate of approximately 75 arrests per 100,000."
+    },
+    "claim": "No female of age 13 were arrested for drug in United States for drugs in 2014.",
+    "label": false
+}

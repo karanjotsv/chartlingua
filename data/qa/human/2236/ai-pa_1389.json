@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਬਹੁਤ ਆਮ",
+            "ਕੁਝ ਹੱਦ ਤੱਕ ਆਮ",
+            "ਬਹੁਤ ਆਮ ਨਹੀਂ",
+            "ਬਿਲਕੁਲ ਆਮ ਨਹੀਂ",
+            "ਪੱਕਾ ਨਹੀਂ"
+        ],
+        "series": [
+            {
+                "name": "ਕੁੱਲ",
+                "data": [
+                    34,
+                    40,
+                    16,
+                    2,
+                    8
+                ]
+            },
+            {
+                "name": "ਮਰਦ",
+                "data": [
+                    24,
+                    43,
+                    22,
+                    3,
+                    7
+                ]
+            },
+            {
+                "name": "ਔਰਤ",
+                "data": [
+                    43,
+                    36,
+                    11,
+                    2,
+                    8
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਜਵਾਬ ਦੇਣ ਵਾਲਿਆਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2677d2",
+        "#0e2b43",
+        "#b3b3b3"
+    ]
+}

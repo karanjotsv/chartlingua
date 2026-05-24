@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the main data point (Agriculture at 83%) and the two 5% categories. However, it incorrectly swaps the values for two smaller categories: 'Defence of the country' is shown as 2% instead of the original 3%, and 'Domestic Service or Offices' is shown as 3% instead of the original 2%.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's legend clearly associates the orange color with the 'General/ Local Government' category."
+    },
+    "claim": "The color that represents the General/Local Government is orange.",
+    "label": true
+}

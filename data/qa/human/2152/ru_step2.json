@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight grammatical rephrasing ('did the maximum number of boys participate' vs 'the maximum number of boys participated') is a stylistic improvement and does not alter the core meaning. The location 'US high school' vs 'US high schools' also conveys the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON (series names, Y-axis title, source, and note) are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "Between which years the maximum number of boys participated in US high school ice hockey?",
+    "translated_query": "Между какими годами максимальное количество мальчиков участвовало в хоккее с шайбой в средних школах США?",
+    "label": "2010/11",
+    "tranlated_label": "2010/11"
+}

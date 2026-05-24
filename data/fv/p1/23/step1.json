@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly identifies all categories and maintains the correct color hues. However, the proportions of the pie slices are noticeably different. Specifically, the 'Mixed Hardwoods - Prairie' (red) and 'Water / Wet Soils' (blue) slices are visibly larger in the rendered image, while the 'Prairie poorly drained' (light orange) slice is smaller. This constitutes a moderate data discrepancy.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap in the multi-line source text at the bottom of the chart, making it difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the largest portion of the pie is 'wet prairie'. However, the pie chart visually shows that the 'Prairie' slice (yellow) is the largest, while the 'Wet Prairie' slice (light yellow/ivory) is the smallest."
+    },
+    "claim": "Looking at the pie chart, the largest portion of the pie is represented by wet prairie.",
+    "label": true
+}

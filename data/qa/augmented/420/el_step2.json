@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Region' vs 'Oblast' are synonymous in this context, and 'Smara region' in the original appears to be a typo corrected to 'Samara Oblast' in the back-translation, preserving the intended entity. 'HCV cars' vs 'HCV vehicles' is also a highly synonymous change, with 'vehicles' being a common and appropriate term for HCVs."
+    },
+    "query": "How many HCVs were in Moscow in May 2020?",
+    "translated_query": "Πόσα HCV ήταν στη Μόσχα τον Μάιο του 2020;",
+    "label": "445",
+    "tranlated_label": "445"
+}

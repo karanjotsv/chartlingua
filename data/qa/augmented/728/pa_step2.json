@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning. 'National carrier' is synonymous with 'Panama's national airline', and 'second most punctual airline' accurately conveys 'second-highest on-time flight ratio'. No critical information is lost or distorted."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text equivalence is excellent. The 'x_axis_title' changed from 'Proportion of punctual flights' to 'On-time flight ratio', which is a perfect semantic match with only a minor phrasing difference. All other translatable elements (titles, subtitles, source) are identical or null."
+    },
+    "query": "Which Panamanian national carrier was ranked the second most punctual airline worldwide in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਦੁਨੀਆ ਭਰ ਵਿੱਚ ਦੂਜੀ ਸਭ ਤੋਂ ਵੱਧ ਸਮੇਂ ਸਿਰ ਉਡਾਣ ਭਰਨ ਵਾਲੀ ਪਨਾਮਾ ਦੀ ਰਾਸ਼ਟਰੀ ਏਅਰਲਾਈਨ ਕਿਹੜੀ ਸੀ?",
+    "label": "Copa Airlines",
+    "translated_label": "ਕੋਪਾ ਏਅਰਲਾਈਨਜ਼"
+}

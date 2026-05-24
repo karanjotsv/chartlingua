@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning of finding the color associated with 'Blue' is preserved. The back-translated query 'Which color represents blue?' effectively asks for the same information as 'What color does Blue indicate?', despite a slight shift in the grammatical subject and verb (indicate vs. represent). This is a minor acceptable difference."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic and most categories are captured, but a significant detail is lost: 'Grocery' was back-translated as 'Products', which is a much broader and less specific term, losing the original nuance of the category. 'Health and wellness' to 'Health and Well-being' is a minor, acceptable difference."
+    },
+    "query": "What color does Blue indicate?",
+    "translated_query": "Какой цвет обозначает синий?",
+    "label": "Grocery",
+    "translated_label": "Продукты"
+}

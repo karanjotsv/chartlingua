@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Medie",
+            "value": 610
+        },
+        {
+            "category": "Autobuz",
+            "value": 621
+        },
+        {
+            "category": "Troleibuz",
+            "value": 543
+        }
+    ],
+    "texts": {
+        "title": "Rețeaua de transport public<br>în Brașov, România",
+        "subtitle": "Distanța dintre stații<br>în funcție de tipul vehiculului",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Iunie 2012",
+        "value_suffix": " m"
+    },
+    "colors": [
+        "#000000",
+        "#1F3864",
+        "#447231"
+    ]
+}

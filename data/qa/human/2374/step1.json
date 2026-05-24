@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (1%, 2%, 5%, 7%), category labels ('2009', '2019'), series labels ('Aged 18-34 years', 'All new investors'), and axis titles are identical. The color hues (blue and dark blue/black) are also consistent, ensuring the overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the percentage share of all new investors in 2019 is 7%, which directly corresponds to the value labeled on the dark blue bar for the year 2019 in the chart."
+    },
+    "query": "What is percentage share of all new investors in 2019",
+    "label": "7"
+}

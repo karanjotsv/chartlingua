@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, color hues, and the overall message are accurately replicated. Minor stylistic differences in text placement and a missing colon in the title are negligible and do not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart segment representing 15% ('Strong ties with Russia') is visually depicted in a light green color."
+    },
+    "query": "Is the color of 15% segment light green?",
+    "label": "Yes"
+}

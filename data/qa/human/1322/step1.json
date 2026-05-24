@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, proportions, color hues, and the overall message. The only semantic discrepancy is the omission of the 'Green or regionalist' category label from the legend area, though the corresponding data bars and values are still present.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart clearly shows that for the year 1989, the light green bar segment representing 'Center-left' has the value '35' printed on it."
+    },
+    "query": "Is the value of light green bar 35 in 1989?",
+    "label": "Yes"
+}

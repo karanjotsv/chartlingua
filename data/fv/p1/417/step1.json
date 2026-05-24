@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is completely inconsistent with the original. Data values are scrambled and assigned to incorrect categories, the relative proportions of the slices are wrong, and most category labels are missing. The core message of the original chart, which highlights China's dominant production, is entirely lost.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has multiple significant visual flaws. There is severe text overlap among the labels at the top, making them unreadable. Additionally, labels on the right side of the chart are clipped by the image boundary."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the United States had the highest coal production, but the chart does not support this. While there is a largest slice in the pie chart indicating the highest production, it is not labeled with any country name. The name 'United States' does not appear on the chart at all."
+    },
+    "claim": "The United States had the highest hard coal production in 2007.",
+    "label": false
+}

@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "name": "As Americans, we can always<br>find ways to solve our problems<br>and get what we want",
+            "values": [
+                50,
+                65,
+                57
+            ]
+        },
+        {
+            "name": "This country can't<br>solve many of its<br>important problems",
+            "values": [
+                48,
+                32,
+                41
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Majority of Americans say the country ‘can always<br>find ways to solve our problems’",
+        "subtitle": "% who say ...",
+        "categories": [
+            "Dem/Lean Dem",
+            "Rep/Lean Rep",
+            "Total"
+        ],
+        "source": "Note: No answer responses not shown.<br>Source: Survey of U.S. adults conducted July 27-Aug. 2, 2020.",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": {
+        "bar_colors": [
+            "#8C783C",
+            "#D1BF8A"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000"
+        ]
+    }
+}

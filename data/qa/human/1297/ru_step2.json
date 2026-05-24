@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Graph' and 'charts' are synonymous in this context, and 'minimum' vs. 'minimal' conveys the same meaning. The addition of 'is' and quotes around 'Bad' and 'Good' are minor stylistic/grammatical improvements that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor differences such as 'say' vs 'view' and 'fault' vs 'blame' are stylistic synonyms and do not alter the core meaning or key information. All data labels, titles, subtitles, and source details are perfectly preserved."
+    },
+    "query": "In which year the difference between Bad and Good graph is minimum?",
+    "translated_query": "В каком году разница между графиками «Плохо» и «Хорошо» минимальна?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

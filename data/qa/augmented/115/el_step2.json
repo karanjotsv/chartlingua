@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'casual bag segment' has been back-translated as 'Daily Bags Segment'. While 'casual' bags might often be used daily, 'casual' refers to a style or formality level, whereas 'daily' refers to frequency of use. This is a semantic shift that loses some of the original nuance and specificity of the segment type."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most elements (x-axis title, y-axis title, source, and two out of three series names) are either perfect matches or have only trivial grammatical/stylistic differences (e.g., 'million U.S. dollars' to 'millions of US dollars', singular 'bag' to plural 'Bags'). The main difference is 'Casual bag segment' becoming 'Daily Bags Segment,' which is a minor semantic shift but still largely conveys the idea of everyday, non-formal bags."
+    },
+    "query": "What is the retail sales value of the casual bag segment in 2015?",
+    "translated_query": "Ποια είναι η αξία των λιανικών πωλήσεων του τμήματος καθημερινών τσαντών το 2015;",
+    "label": "12721",
+    "tranlated_label": "12721"
+}

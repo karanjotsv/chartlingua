@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. 'Graph' and 'chart' are synonymous in this context, and 'that' and 'where' also convey the same relation. The core information about sound intensity remaining constant is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, axis titles, source, note) in the original JSON are null, and they remain null in the back-translated content. All other data and structural elements are identical, indicating perfect semantic preservation for the textual components."
+    },
+    "claim": "The graph that the sound intensity remains constant over time.",
+    "translated_claim": "Το γράφημα που η ένταση του ήχου παραμένει σταθερή με την πάροδο του χρόνου."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall structure are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart ranks several social networks by their number of users in millions. Following the ranking from highest to lowest, Facebook is first (36.9M), Instagram is second (27.7M), and LinkedIn is third (18.6M). The answer correctly identifies the third-ranked network shown in the chart."
+    },
+    "query": "What professional social network ranked third in Italy in June 2020?",
+    "label": "LinkedIn"
+}

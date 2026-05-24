@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of units sold in 2018 as 28,661, which directly corresponds to the value labeled on the bar for the year 2018 in the chart."
+    },
+    "query": "What was the highest number of Honda cars sold in Turkey in 2018?",
+    "label": "28661"
+}

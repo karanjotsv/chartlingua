@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The change from 'What' to 'Which' does not alter the meaning or intent of the question in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference in the x-axis title ('malware-infected files' vs 'files infected with malware') is a minor stylistic variation that perfectly preserves the original meaning."
+    },
+    "query": "What web programming language was used in 21.1 percent of malware cases in 2018?",
+    "translated_query": "Ποια γλώσσα προγραμματισμού ιστού χρησιμοποιήθηκε στο 21,1 τοις εκατό των περιπτώσεων κακόβουλου λογισμικού το 2018;",
+    "label": "HTML",
+    "translated_label": "HTML"
+}

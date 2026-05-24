@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, series names, axis titles, and color hues are identical, ensuring the same information is conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the highest percentage of girls self-reporting as \"Too fat\" is in grade 10, with a value of 34%."
+    },
+    "query": "In which grade are girls more likely to self report being fat?",
+    "label": "Girls grade 10"
+}

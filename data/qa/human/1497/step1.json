@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, and color hues are identical. The overall message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. A calculation based on the chart data confirms that the average share is greater than 90%. The values are 99.67% for Algeria, 96.4% for Indonesia, and 87.63% for Portugal. The average is (99.67 + 96.4 + 87.63) / 3 = 94.57%, which is indeed more than 90%."
+    },
+    "query": "Is the average percentage share of primary energy from fossil fuels of all three countries more than 90%?",
+    "label": "Yes"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the two largest data points ('Farmers employing Labourers' and 'Agricultural Labourers') and maintains the overall message that these two are the dominant occupations. However, there are significant data value inaccuracies in the smaller categories. For instance, 'Retail & Handicrafts' is approximately 6 in the original but 3 in the rendered version, while 'Capitalists, Professionals' is 5 in the original and 6 in the rendered version. These data errors distort the relationships between the smaller categories.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the value for 'Manufacturing' is 5 and the value for 'Farmers employing Labourers' is approximately 17. The sum of these two is approximately 22. However, the value for 'Agricultural Labourers' is shown to be approximately 26. Since 22 is not equal to 26, the claim is refuted by the chart data."
+    },
+    "claim": "The total value of Manufacturing and Farmers employing Labourers is equal to Agriculture Labourers.",
+    "label": "FALSE"
+}

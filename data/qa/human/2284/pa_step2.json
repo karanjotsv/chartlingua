@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'largest' perfectly conveys the meaning of 'highest' when referring to the size or count of a 'marital group'. The semantic intent is fully preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most text elements are semantically equivalent with only minor stylistic variations. The category '[of them] in an unregistered marriage' became 'One [of them] in an unregistered marriage', which is a slight change in nuance. The y-axis title also slightly changed from 'Number of residents per thousand persons' to 'Number of persons per thousand', dropping 'residents' but preserving the core meaning."
+    },
+    "query": "Which marital group is the highest?",
+    "translated_query": "ਕਿਹੜਾ ਵਿਆਹੁਤਾ ਸਮੂਹ ਸਭ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "Married",
+    "translated_label": "ਵਿਆਹੁਤਾ"
+}

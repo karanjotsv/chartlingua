@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. It uses more natural phrasing ('injuries' for 'damage', 'schoolchildren in Ontario' for 'in Ontarion children school') and corrects a typo ('Ontarion') while fully preserving the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical to the original. The only difference is a trivial and non-semantic variation in line break placement within one of the chart labels."
+    },
+    "claim": "\"Struck by person\" causes more damage than \"Fall\" in Ontarion children school.",
+    "translated_claim": "\"Von einer Person getroffen\" verursacht mehr Schäden als \"Sturz\" bei Schulkindern in Ontario."
+}

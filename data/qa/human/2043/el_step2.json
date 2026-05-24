@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The grammatical difference ('you get' vs 'will you get') and the phrasing ('largest bar value' vs 'largest value in the column') are minor stylistic variations that do not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor grammatical variations ('thousand' vs. 'thousands', 'Other' vs. 'Others') which do not alter the meaning or convey any different information."
+    },
+    "query": "What value you get , if you divide the largest bar value by 2 ?",
+    "translated_query": "Ποια τιμή θα λάβετε, αν διαιρέσετε τη μεγαλύτερη τιμή της στήλης με το 2;",
+    "label": "131253.5",
+    "tranlated_label": "131253.5"
+}

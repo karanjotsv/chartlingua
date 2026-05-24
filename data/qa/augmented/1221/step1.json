@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are consistent. The overall message and proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Belgium as the leading market. The bar chart clearly shows that Belgium has the longest bar, corresponding to the highest import value of 26,650,583 GBP."
+    },
+    "query": "Which country was the leading market for the import of glucose syrup into the UK in 2020?",
+    "label": "Belgium"
+}

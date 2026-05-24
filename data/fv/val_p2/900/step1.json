@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of text, categories, and overall message. However, there is a minor data discrepancy where the largest bar ('ABH and other injury') appears to have a slightly lower value (approx. 330k) than in the original (approx. 350k). This does not alter the core interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a comparison between the periods 2008-2009 and 2009-2010. The chart only displays data for the period 2009-10, so it is not possible to verify if there was a decrease from the previous period."
+    },
+    "claim": "The number of non-fatal violent crimes decreased in England and Wales between 2008-2009 and 2009-2010.",
+    "label": "FALSE"
+}

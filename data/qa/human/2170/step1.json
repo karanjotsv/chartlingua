@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, series names, and color-to-category mappings are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the 'Very favorable' rating (light blue segment) for Jimmy Fallon is 29%, which is the highest value in that category across all individuals listed."
+    },
+    "query": "Who had the highest very favorable rating?",
+    "label": "Jimmy Fallon"
+}

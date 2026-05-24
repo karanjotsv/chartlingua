@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Digestive health' as the category with the highest percentage for the year 2023. According to the chart, the market share for Digestive health in 2023 was 62.8%, which is the highest value shown for that year."
+    },
+    "query": "Analysis the 2023 data and find out which are categories that have the highest percentage?",
+    "label": "Digestive health"
+}

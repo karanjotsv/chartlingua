@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The location 'Pass, Alaska' in the original content was altered to 'False Pass, Alaska' in the back-translation. This changes a specific proper noun and critical detail, even though the general subject (construction workers in Alaska) is preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most textual elements, including labels, title, and subtitle, are semantically equivalent or identical. The source name had a minor variation from 'Division' to 'Department', which is a slight organizational naming difference, but the core meaning of the source is preserved."
+    },
+    "claim": "There were a large number of construction workers in Pass, Alaska.",
+    "translated_claim": "В Пассе, Аляска, было большое количество строительных работников."
+}

@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Vereinigte Staaten",
+            "values": [
+                59.66,
+                53
+            ]
+        },
+        {
+            "category": "Vereinigtes Königreich",
+            "values": [
+                44.98,
+                40
+            ]
+        },
+        {
+            "category": "Kanada",
+            "values": [
+                56.15,
+                52
+            ]
+        },
+        {
+            "category": "Westeuropa",
+            "values": [
+                52.13,
+                44
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Durchschnittsgehälter in Tausend US-Dollar",
+        "legend_labels": [
+            "Mittelwert",
+            "Median"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2574cf",
+        "#152e40"
+    ]
+}

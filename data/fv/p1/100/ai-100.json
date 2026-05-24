@@ -1,0 +1,66 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "UNITED STATES",
+            "value": 49
+        },
+        {
+            "label": "CANADA",
+            "value": 3
+        },
+        {
+            "label": "ALL OTHER<br>COUNTRIES",
+            "value": 11
+        },
+        {
+            "label": "GREAT BRITAIN",
+            "value": 8
+        },
+        {
+            "label": "GERMANY",
+            "value": 9
+        },
+        {
+            "label": "FRANCE",
+            "value": 5
+        },
+        {
+            "label": "ALL OTHER EUROPEAN COUNTRIES",
+            "value": 15
+        }
+    ],
+    "texts": {
+        "title": "DISTRIBUTION OF THE WORLDS TELEPHONES",
+        "subtitle": "January 1, 1940",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "EUROPE",
+                "x": 0.5,
+                "y": 0.75,
+                "xref": "paper",
+                "yref": "paper"
+            },
+            {
+                "text": "UNITED STATES",
+                "x": 0.5,
+                "y": 0.25,
+                "xref": "paper",
+                "yref": "paper"
+            }
+        ]
+    },
+    "colors": [
+        "#505050",
+        "#6E6E6E",
+        "#DCDCDC",
+        "#8C8C8C",
+        "#A0A0A0",
+        "#B4B4B4",
+        "#C8C8C8"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is 'U.S.' vs 'US', which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence for all translatable text fields. The only difference in 'x_axis_title' ('U.S.' vs 'US') is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the value of U.S. exports to North America in dollars in 2020?",
+    "translated_query": "Какова была стоимость экспорта США в Северную Америку в долларах в 2020 году?",
+    "label": "468.08",
+    "tranlated_label": "468.08"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, axis values, and the overall trend are identical to the original. The color hue is also consistent. The only minor difference is the formatting of the y-axis tick labels (e.g., 40000 vs 40k), which is a stylistic variation that doesn't alter the meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the largest population increase occurred between 1920 and 1930. According to the chart, the increase in this period was from 31,285 to 32,205, a difference of 920. However, the largest increase shown on the chart is between 1890 (14,725) and 1900 (21,696), which is an increase of 6,971."
+    },
+    "claim": "The largest population increase is related to the decade between 1930 and 1920.",
+    "label": "FALSE"
+}

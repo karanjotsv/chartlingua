@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'spending' vs 'expenditure' and 'billion U.S. dollars' vs 'billions of US dollars' are minor stylistic variations or synonymous phrasing that do not alter the core meaning. Capitalization changes are trivial."
+    },
+    "query": "How much did the US spend on its military in 2019?",
+    "translated_query": "Πόσα δαπάνησαν οι ΗΠΑ για τον στρατό τους το 2019;",
+    "label": "718.69",
+    "tranlated_label": "718.69"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The original content states the number is 'the same' (implying exact equality), while the back-translated content states it is 'similar' (implying approximate equality). This difference represents a loss of precision and changes a key detail of the claim's assertion."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The x-axis title is perfectly equivalent. The y-axis title has a minor stylistic difference ('Number arrested' vs 'Number of People Arrested') which doesn't alter meaning. The chart title 'United States Male Suspicion Arrests' is back-translated as 'Suspected Arrests of Men in the United States'. While the core meaning of arrests of men in the US is maintained, the nuance of 'suspicion' as the basis for the arrest is slightly altered or less precise in the back-translation, shifting from a descriptive noun phrase ('Suspicion Arrests') to an adjective ('Suspected Arrests') that could imply the individuals are suspected or the arrests themselves are. However, it still conveys the main idea accurately enough to be 'Good Equivalence'."
+    },
+    "claim": "The number of arrests for suspicion is the same for all age groups of males in the United States in 2014.",
+    "translated_claim": "ਸੰਯੁਕਤ ਰਾਜ ਵਿੱਚ 2014 ਵਿੱਚ ਪੁਰਸ਼ਾਂ ਦੇ ਸਾਰੇ ਉਮਰ ਸਮੂਹਾਂ ਲਈ ਸ਼ੱਕੀ ਗ੍ਰਿਫਤਾਰੀਆਂ ਦੀ ਗਿਣਤੀ ਇੱਕੋ ਜਿਹੀ ਹੈ।"
+}

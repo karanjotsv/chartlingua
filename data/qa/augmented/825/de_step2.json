@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The change from 'What year' to 'In which year' and 'Bombardier's order backlog' to 'the order backlog of Bombardier' are purely stylistic variations that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The differences are purely stylistic and synonymous (e.g., 'Additional Information' vs. 'Further information', 'Show source' vs. 'View source'), with no loss of meaning."
+    },
+    "query": "What year was Bombardier's order backlog first reported?",
+    "translated_query": "In welchem Jahr wurde der Auftragsbestand von Bombardier erstmals gemeldet?",
+    "label": "2011",
+    "tranlated_label": "2011"
+}

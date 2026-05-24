@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the original semantic meaning. Differences are minor stylistic variations or synonymous phrasing (e.g., 'rich people' vs 'richest people', 'lowest percentage' vs 'smallest percentage', 'income disparity' vs 'income inequality')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All key semantic information in the chart data labels, title, and annotations is perfectly preserved. The back-translation uses slightly more natural phrasing in a few instances (e.g., 'richest people' instead of 'rich peoples', 'belongs to' instead of 'by'), which enhances readability without altering the original meaning."
+    },
+    "claim": "The wealth of rich people is the lowest percentage of income disparity in Malaysia.",
+    "translated_claim": "Богатство богатых людей представляет собой наименьший процент в неравенстве доходов в Малайзии."
+}

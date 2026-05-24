@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The core information about construction workers is present, but the location 'Pass, Alaska' was incorrectly translated as 'False Pass, Alaska', which represents a significant factual distortion and loss of critical detail for the claim's accuracy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor differences include 'Service' becoming 'Services', 'Transport' becoming 'Transportation', and 'number workers' becoming 'Number of Workers', which are all stylistic or trivial grammatical adjustments that do not alter the core meaning or information."
+    },
+    "claim": "There were a large number of construction workers in Pass, Alaska.",
+    "translated_claim": "Υπήρχε μεγάλος αριθμός εργατών κατασκευών στο Pass, Αλάσκα."
+}

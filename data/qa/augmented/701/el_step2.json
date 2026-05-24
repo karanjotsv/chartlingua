@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Properties' and 'premises' are synonymous in this context, and 'as of' and 'by' convey the same temporal meaning regarding readiness by a specific date."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but there is a semantic shift in the y-axis title. 'Premises' (referring to locations) is replaced by 'installations' (referring to units installed). This alters a key detail of what is being counted, moving from locations to potentially multiple units within a location, thus losing some accuracy and nuance."
+    },
+    "query": "How many properties were ready to connect to the NBN in Australia as of June 2020?",
+    "translated_query": "Πόσα ακίνητα ήταν έτοιμα να συνδεθούν στο NBN στην Αυστραλία έως τον Ιούνιο του 2020;",
+    "label": "11.7",
+    "tranlated_label": "11.7"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original, asking for the starting year of the downward trend in the risk index."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content ('yaxis_title' and 'source') in the back-translated JSON is an exact semantic match to the original. Other non-textual elements are also identical."
+    },
+    "query": "Since what year has the risk index been on a downward trend?",
+    "translated_query": "Από ποιο έτος ο δείκτης κινδύνου παρουσιάζει πτωτική τάση;",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

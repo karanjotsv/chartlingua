@@ -1,0 +1,38 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "natural gas",
+            "value": 49.9
+        },
+        {
+            "label": "coal",
+            "value": 23.4
+        },
+        {
+            "label": "wind",
+            "value": 15.9
+        },
+        {
+            "label": "nuclear",
+            "value": 8.7
+        },
+        {
+            "label": "other",
+            "value": 2.0
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation",
+        "subtitle": "Texas - 2018",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#98d8d8",
+        "#b43387",
+        "#a3b639",
+        "#d9b33a",
+        "#824d9e"
+    ]
+}

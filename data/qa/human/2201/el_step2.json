@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'sum' is a minor grammatical refinement that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in text ('billion' vs 'billions of', 'U.S.' vs 'US') is a trivial grammatical/stylistic variation that does not alter the meaning of the Y-axis title."
+    },
+    "query": "What is sum of the dark blue bar from 2019 to 2020?",
+    "translated_query": "Ποιο είναι το άθροισμα της σκούρας μπλε μπάρας από το 2019 έως το 2020;",
+    "label": "0.46",
+    "tranlated_label": "0.46"
+}

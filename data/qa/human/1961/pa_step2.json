@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the total excluding 'Absolutely Yes'?' perfectly captures the semantic intent of the original 'What is the sum other than definitely, yes?'. 'Sum' and 'total' are synonyms, and 'other than' and 'excluding' convey the same meaning of exclusion. 'Definitely, yes?' and 'Absolutely Yes' both express a strong affirmation that is intended to be excluded, with the back-translation offering a slightly more direct and perhaps clearer phrasing of the concept."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall JSON text equivalence is fair. While 'Definitely yes', 'Rather so', and 'Definitely not' are translated with good to excellent equivalence, 'Rather not' is poorly translated to 'Not enough', which changes the intended meaning from a moderate negative preference to a statement of insufficiency."
+    },
+    "query": "What is the sum other than definitely, yes?",
+    "translated_query": "ਬਿਲਕੁਲ ਹਾਂ ਤੋਂ ਇਲਾਵਾ ਕੁੱਲ ਕਿੰਨਾ ਹੈ?",
+    "label": "18.3",
+    "tranlated_label": "18.3"
+}

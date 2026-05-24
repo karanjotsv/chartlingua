@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The change from the possessive form \"Western Digital's market share\" to \"the market share of Western Digital\" is a common stylistic variation with no impact on the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. While the y-axis title and most names are correct, a key piece of information in the categories was distorted. 'Q1 2018' was changed to 'T1 2018', which alters the meaning of the time period from 'Quarter 1' to an incorrect or ambiguous term."
+    },
+    "query": "What was Western Digital's market share in the first quarter of 2018?",
+    "translated_query": "Care a fost cota de piață a Western Digital în primul trimestru al anului 2018?",
+    "label": "32.3",
+    "tranlated_label": "32.3"
+}

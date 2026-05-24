@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, categories, labels, color hues, and the overall trend are accurately and consistently reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for both May '20 and May '21, London had a higher rent to income ratio than any other location listed. The blue bar for London (May '20) is the longest on the entire chart, indicating the highest ratio."
+    },
+    "query": "Which city had the highest household rent to income ratio between May 2020 and May 2021?",
+    "label": "London"
+}

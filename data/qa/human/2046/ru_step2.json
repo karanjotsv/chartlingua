@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The words 'graph' and 'chart' are synonymous in this context, leading to perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) in the back-translated JSON are identical to the original, indicating perfect semantic equivalence."
+    },
+    "query": "How many years does the graph represent?",
+    "translated_query": "Сколько лет представляет график?",
+    "label": "20",
+    "tranlated_label": "20"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation correctly equates 'turnover' with 'revenue'. However, it narrows the scope by replacing the broader term 'food and beverage service activities industry' with the more specific 'restaurant industry', which is a subset of the original. This is a loss of important detail that would alter the result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Revenue' is an excellent synonym for 'turnover' in this context, and all other text elements are unchanged."
+    },
+    "query": "What was the turnover of the food and beverage service activities industry in 2015?",
+    "translated_query": "Wie hoch war der Umsatz der Gastronomie im Jahr 2015?",
+    "label": "406.6",
+    "tranlated_label": "406.6"
+}

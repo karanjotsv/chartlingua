@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. Minor changes like 'expense' to 'expenditures', 'Government of Puerto Rico' to 'Puerto Rico government', 'government-owned corporations' to 'Public Corporations', and 'both with 30%' to 'each accounting for 30%' are stylistic improvements or synonymous phrasing that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title and most data labels match perfectly. However, 'Public Improvements Fund' was translated to 'Public Works Fund' and 'Government-owned corporations' to 'Public Corporations', representing minor semantic shifts in specificity but conveying the core meaning accurately."
+    },
+    "claim": "The largest expense in the 2012 budget of the Government of Puerto Rico were for general fund and government-owned corporations both with 30%.",
+    "translated_claim": "Наибольшие расходы в бюджете правительства Пуэрто-Рико на 2012 год пришлись на общий фонд и государственные корпорации, составив по 30%."
+}

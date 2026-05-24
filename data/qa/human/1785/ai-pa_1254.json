@@ -1,0 +1,60 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "ਜਰਮਨੀ",
+            "value": 5.0
+        },
+        {
+            "category": "ਯੂਨਾਈਟਿਡ ਕਿੰਗਡਮ",
+            "value": 13.0
+        },
+        {
+            "category": "ਕੈਨੇਡਾ",
+            "value": 17.0
+        },
+        {
+            "category": "ਰੂਸ",
+            "value": 35.0
+        },
+        {
+            "category": "ਜਾਪਾਨ",
+            "value": 36.0
+        },
+        {
+            "category": "ਫਰਾਂਸ",
+            "value": 48.0
+        },
+        {
+            "category": "ਸੰਯੁਕਤ ਰਾਜ",
+            "value": 98.0
+        }
+    ],
+    "texts": {
+        "title": "ਪ੍ਰਮਾਣੂ ਊਰਜਾ ਪਲਾਂਟ",
+        "subtitle": "ਕੁੱਲ, ਸੰਖਿਆ, 2019",
+        "source": "ਸਰੋਤ: ਡਾਟਾ ਵੇਅਰਹਾਊਸ",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "usa_annotation": "ਸੰਯੁਕਤ ਰਾਜ 2019<br><b>98.0</b><br>ਸੰਖਿਆ"
+    },
+    "colors": {
+        "bars": [
+            "#9FB3BF",
+            "#9FB3BF",
+            "#9FB3BF",
+            "#E41E26",
+            "#9FB3BF",
+            "#9FB3BF",
+            "#2A4454"
+        ],
+        "special_category_color": "#E41E26",
+        "plot_bg": "#EBF1F5",
+        "grid": "#FFFFFF",
+        "title_line": "#007BAF"
+    },
+    "special_settings": {
+        "highlight_category": "ਰੂਸ",
+        "annotation_category": "ਸੰਯੁਕਤ ਰਾਜ"
+    }
+}

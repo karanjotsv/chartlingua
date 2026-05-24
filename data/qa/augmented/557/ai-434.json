@@ -1,0 +1,34 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "0-99",
+            "100-249",
+            "250-349",
+            "350-499",
+            "500+"
+        ],
+        "series": [
+            {
+                "name": "Number of hospitals",
+                "values": [
+                    0,
+                    9,
+                    12,
+                    20,
+                    9
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Bed size",
+        "y_axis_title": "Number of hospitals",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2170c1"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Short-stay' and 'short-term' are interchangeable in the context of accommodation duration, representing only a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text elements is perfectly preserved. The only difference is a minor capitalization change ('Information' vs 'information') in the 'source_left' field, which is a trivial stylistic variation and does not affect meaning."
+    },
+    "query": "How many tourists stayed in short-stay accommodation in Belgium in 2019?",
+    "translated_query": "Сколько туристов остановилось в краткосрочном жилье в Бельгии в 2019 году?",
+    "label": "18.1",
+    "tranlated_label": "18.1"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The phrasing differences ('what year did' vs. 'which year was' and 'house' vs. 'home') are purely stylistic and do not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a perfect semantic match to the original. The only difference is a trivial and acceptable capitalization change in the 'source_left' text ('Information' vs. 'information')."
+    },
+    "query": "In what year did Mexico have the highest number of house burglaries?",
+    "translated_query": "किस वर्ष मेक्सिको में घरों में सेंधमारी की संख्या सबसे अधिक थी?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

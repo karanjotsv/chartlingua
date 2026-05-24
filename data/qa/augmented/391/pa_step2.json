@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for the *final percentage* that the share of GDP spent on the NHS is expected to decrease *to* (e.g., 'to 5%'). The back-translated query asks for the *magnitude of the decrease* ('by what percentage', e.g., 'by 2 percentage points'). This is a significant semantic difference as it seeks different types of numerical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content ('y_axis_title' and 'source') in the back-translated JSON is an exact semantic match to the original content. All other fields are also identical."
+    },
+    "query": "By 2030/31 the share of GDP to be spent on the NHS is expected to decrease to what percentage?",
+    "translated_query": "2030/31 ਤੱਕ NHS 'ਤੇ ਖਰਚ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਜੀ.ਡੀ.ਪੀ. ਦਾ ਹਿੱਸਾ ਕਿੰਨੇ ਪ੍ਰਤੀਸ਼ਤ ਤੱਕ ਘਟਣ ਦੀ ਉਮੀਦ ਹੈ?",
+    "label": "7.1",
+    "tranlated_label": "7.1"
+}

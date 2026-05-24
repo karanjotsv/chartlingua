@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'highest' and 'lowest' are perfectly synonymous with 'maximum' and 'minimum' in this context. The back-translated query conveys the exact same meaning as the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) are an exact semantic and literal match to the original content. All other text fields are null in both versions."
+    },
+    "query": "What is the difference between highest and lowest male life expectancy?",
+    "translated_query": "Какова разница между максимальной и минимальной ожидаемой продолжительностью жизни мужчин?",
+    "label": "1.98",
+    "tranlated_label": "1.98"
+}

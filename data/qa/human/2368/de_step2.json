@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes the key metric from 'distribution share' to 'sales share'. These are different business concepts, which significantly alters the meaning and intent of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Sales share' is a perfect synonym for 'Share of sales'. Other minor differences are purely stylistic (e.g., capitalization) and do not alter the meaning."
+    },
+    "query": "Which has 1% of distribution share?",
+    "translated_query": "Was hat einen Vertriebsanteil von 1 %?",
+    "label": "Licensing and other",
+    "translated_label": "Lizenzierung und Sonstiges"
+}

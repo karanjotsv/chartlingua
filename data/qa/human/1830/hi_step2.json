@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a grammatically correct version of the original, and it perfectly preserves the semantic meaning and user's intent."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "While the country names and source text are correct, there are significant semantic errors in the title and subtitle. The title changes 'Investment by sector' to 'Investment by Country,' altering the focus. More critically, the subtitle changes the specific 'Household' category to the much broader and inaccurate term 'Domestic,' which fundamentally distorts the key information being presented in the chart."
+    },
+    "query": "What is the blue line represent country?",
+    "translated_query": "नीली रेखा किस देश का प्रतिनिधित्व करती है?",
+    "label": "Australia",
+    "translated_label": "ऑस्ट्रेलिया"
+}

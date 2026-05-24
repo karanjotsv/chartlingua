@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, text labels (title, axes), and color hue are consistent. The overall message and trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart only displays data for 'United States Male Burglary Arrests'. It contains no information about female arrests, making it impossible to support the claim's comparison between male and female arrest rates."
+    },
+    "claim": "Female arrests for burglary are higher than male arrests for burglary in every age group.",
+    "label": false
+}

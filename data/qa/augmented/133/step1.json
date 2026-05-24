@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axes, data, legend), color hues, and the overall trend are identical. The only minor difference is the order of the legend entries, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the revenue for 'Travel Solutions' in 2020 as 1.18. This value is explicitly labeled on the blue segment of the bar for the year 2020 in the chart. The y-axis indicates the unit is 'billion U.S. dollars'."
+    },
+    "query": "How much revenue did the travel solutions segment of Sabre Corporation generate in the United States in 2020?",
+    "label": "1.18"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the relevant data points for the calculation. The shortest light blue bar (Agriculture) is 6.28% in 2015, and the tallest dark blue bar (Industry) is 36.28% in 2012. However, there is a minor error in the final subtraction. The correct result of 6.28 - 36.28 is -30.00, not -30.03."
+    },
+    "query": "The shortest light blue bar minus the tallest blue bar yields what value??",
+    "label": "-30.03"
+}

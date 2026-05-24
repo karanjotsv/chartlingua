@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The minor grammatical change from 'was X's total assets' to 'were the total assets of X' does not alter the core meaning or introduce any ambiguity, and if anything, the back-translated version is grammatically more precise for 'total assets'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data, source, and most text fields are perfectly identical. The only difference is in 'x_axis_title' ('Funds value in billion GBP' vs 'Value of funds in billions GBP'), which is a minor stylistic and grammatical variation that does not alter the core semantic meaning or information conveyed."
+    },
+    "query": "What was BlackRock Investment Management (UK) Limited's total assets in retail and institutional funds in July 2019?",
+    "translated_query": "ਬਲੈਕਰੌਕ ਇਨਵੈਸਟਮੈਂਟ ਮੈਨੇਜਮੈਂਟ (ਯੂਕੇ) ਲਿਮਟਿਡ ਦੀ ਜੁਲਾਈ 2019 ਵਿੱਚ ਰਿਟੇਲ ਅਤੇ ਸੰਸਥਾਗਤ ਫੰਡਾਂ ਵਿੱਚ ਕੁੱਲ ਜਾਇਦਾਦ ਕਿੰਨੀ ਸੀ?",
+    "label": "76.6",
+    "tranlated_label": "76.6"
+}

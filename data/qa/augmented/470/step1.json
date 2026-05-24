@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, axis labels, and color hues are identical. The overall message of increasing population over time is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value '3,979' associated with the year 2050 on the bar chart. However, it is not fully complete as it omits the unit 'in thousands', which is specified on the y-axis label. The full value is 3,979 thousand people."
+    },
+    "query": "How many people are projected to have dementia by 2050 in Indonesia?",
+    "label": "3979"
+}

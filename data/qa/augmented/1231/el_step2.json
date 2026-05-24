@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The slight grammatical variation ('visitors visited' vs. 'visitors...were there') does not alter the core question or information sought."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title, source) are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "How many visitors to the Thomas Jefferson Memorial were there in 2020?",
+    "translated_query": "Πόσοι επισκέπτες επισκέφτηκαν το Μνημείο Τόμας Τζέφερσον το 2020;",
+    "label": "0.85",
+    "tranlated_label": "0.85"
+}

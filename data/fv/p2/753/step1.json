@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, bar proportions, data labels, and color hues from the original. It also adds a helpful title and legend which clarify the chart's content without altering the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that zero exoplanets were discovered in 2011, but the bar chart clearly shows a bar for the year 2011 with a value of 206 above it, indicating 206 discoveries."
+    },
+    "claim": "The number of exoplanets discovered in 2011 is zero.",
+    "label": "FALSE"
+}

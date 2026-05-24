@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart alters the core data representation. While the text labels and categories are consistent, the relative proportions of the largest three slices ('Prairie', 'Prairie poorly drained', 'Wet Prairie') have been significantly changed. In the original, the largest slice is the pale yellow one ('Wet Prairie' according to the legend), but in the rendered chart, this color is assigned to 'Prairie' and the proportions of the top three categories are reordered, leading to a different interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Mixed Hardwoods - Prairie' and 'Prairie' are equal resources, but the pie chart clearly shows that the slice representing 'Prairie' (yellow) is substantially larger than the slice representing 'Mixed Hardwoods - Prairie' (red)."
+    },
+    "claim": "Mixed Hardwoods - Prairie and Prairie are equal resources of savanna soils at the Renville County Minnesota.",
+    "label": "FALSE"
+}

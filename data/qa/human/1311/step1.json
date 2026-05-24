@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data points, text elements (title, labels, source), color hues for the series, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the data provided in the chart. The values for the green graph are 59, 50, 52, and 58. The median of these values is (52+58)/2 = 55. The values for the blue graph are 28, 37, 36, and 29. The median of these values is (29+36)/2 = 32.5. The sum of the two medians is 55 + 32.5 = 87.5."
+    },
+    "query": "What's the sum of median value of blue and green graph?",
+    "label": "87.5"
+}

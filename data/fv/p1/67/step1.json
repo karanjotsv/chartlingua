@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, axis labels, titles, and text content are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim that India's expenditure on education as a percentage of GDP expanded over the years is not supported by the chart. The chart shows a fluctuating trend, with the value being lower in 2021 (around 3.1%) than it was in 2003 (around 3.6%). The overall trend from the start to the end of the period shown is a decrease, not an expansion."
+    },
+    "claim": "India's expenditure on education as a percentage of GDP expanded over the years.",
+    "label": true
+}

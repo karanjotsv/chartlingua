@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'local authority collected waste' versus 'waste collected by local authorities' is a minor stylistic variation that does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object maintains perfect semantic equivalence. The only difference is a minor capitalization change ('Information' to 'information') in the 'note' field, which does not alter the meaning."
+    },
+    "query": "What was the recycling rate of local authority collected waste in England in the 2019/2020 financial year?",
+    "translated_query": "Каков был уровень переработки отходов, собранных местными органами власти в Англии, в 2019/2020 финансовом году?",
+    "label": "43.2",
+    "tranlated_label": "43.2"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Expenditure' and 'expenses' are semantically equivalent in this context, and the change from 'is allocated' to 'are allocated' is a minor grammatical adjustment due to the plural form of 'expenses', which does not alter the core meaning. The addition of 'the' and capitalization for 'Awards Event' are stylistic."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart title 'EXPENDITURE ANALYSIS' is accurately translated as 'EXPENSE ANALYSIS' (synonymous). Most data labels are identical or have trivial differences. However, in 'chart_data' label 3, the phrase 'Provincial<br>Upload<br>Marathons' was reordered to 'Provincial<br>Marathons<br>Upload', which slightly alters the semantic relationship between 'Upload' and 'Marathons', causing a minor loss of nuance."
+    },
+    "claim": "The majority of expenditure in the WLM-ZA-2012 dataset is allocated to Awards event.",
+    "translated_claim": "Η πλειοψηφία των δαπανών στο σύνολο δεδομένων WLM-ZA-2012 κατανέμεται στην Εκδήλωση Βραβείων."
+}

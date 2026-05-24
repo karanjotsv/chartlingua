@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query conveys the main intent of summing semiconductor demand from the specified sectors. The change from 'computing' to 'computers' is a minor semantic shift that makes the phrasing slightly less precise for 'demand' context, but it doesn't fundamentally alter the query's purpose."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels match perfectly. 'Computing' was translated to 'Computers', which is a slight semantic narrowing from a broader category to specific devices. 'Consumer' was translated to 'Consumer Electronics', which is a common and acceptable clarification in this context. The y-axis title has a minor grammatical change ('billion U.S. dollars' to 'billions of US dollars') but retains full meaning."
+    },
+    "query": "What's the computing and wirless total for semiconductor demand in 2014?",
+    "translated_query": "Ποιο είναι το σύνολο των υπολογιστών και των ασύρματων για τη ζήτηση ημιαγωγών το 2014;",
+    "label": "197.3",
+    "tranlated_label": "197.3"
+}

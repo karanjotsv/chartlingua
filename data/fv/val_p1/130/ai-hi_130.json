@@ -1,0 +1,80 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "labels": [
+                "कार्बन डाईऑक्साइड",
+                "नाइट्रोजन",
+                "अन्य"
+            ],
+            "values": [
+                96.5,
+                3.5,
+                0.05
+            ],
+            "text_labels": [
+                "कार्बन डाईऑक्साइड<br>(96.5%)",
+                "नाइट्रोजन<br>(3.5%)",
+                "अन्य"
+            ],
+            "colors": [
+                "#f88246",
+                "#ff008d",
+                "#cccccc"
+            ],
+            "text_positions": [
+                "inside",
+                "outside",
+                "outside"
+            ]
+        },
+        {
+            "labels": [
+                "सल्फर डाईऑक्साइड",
+                "आर्गन",
+                "जल वाष्प",
+                "कार्बन मोनोऑक्साइड",
+                "हीलियम",
+                "नियॉन"
+            ],
+            "values": [
+                150,
+                70,
+                20,
+                17,
+                12,
+                7
+            ],
+            "text_labels": [
+                "सल्फर डाईऑक्साइड<br>(150 ppm)",
+                "आर्गन<br>(70 ppm)",
+                "जल वाष्प<br>(20 ppm)",
+                "कार्बन मोनोऑक्साइड<br>(17 ppm)",
+                "हीलियम<br>(12 ppm)",
+                "नियॉन<br>(7 ppm)"
+            ],
+            "colors": [
+                "#ffffab",
+                "#ffff00",
+                "#00ff00",
+                "#00ffff",
+                "#ff9966",
+                "#0080ff"
+            ],
+            "text_positions": [
+                "inside",
+                "inside",
+                "outside",
+                "outside",
+                "outside",
+                "outside"
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    }
+}

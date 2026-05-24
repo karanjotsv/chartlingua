@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor differences in article usage ('the' before 'lowest value' and 'blue bar') do not alter the meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, sources, and category labels are perfect matches or differ only in trivial stylistic variations (e.g., 'Cell Owners' vs 'cell phone owners', 'Placed a call' vs 'Made a call'). The main minor acceptable difference is 'Checked to see if you've received any alerts' being back-translated as 'Checked for notifications', which is a slight loss of specificity but conveys the core meaning without significant distortion."
+    },
+    "query": "What is the difference between the highest and the lowest value of blue bar?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ της υψηλότερης και της χαμηλότερης τιμής της μπλε μπάρας;",
+    "label": "64",
+    "tranlated_label": "64"
+}

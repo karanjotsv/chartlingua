@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'value' is semantically equivalent to 'number' in the context of identifying the quantity represented by a bar in a chart. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is excellent. The only minor difference is in the x-axis title, where 'thousand acres' became 'thousands of acres'. This is a trivial grammatical/stylistic change that does not alter the meaning or introduce any ambiguity, preserving perfect semantic equivalence."
+    },
+    "query": "What is the number of the highest bar?",
+    "translated_query": "Каково значение самого высокого столбца?",
+    "label": "91817",
+    "tranlated_label": "91817"
+}

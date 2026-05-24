@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. 'Rank' and 'rating' are semantically equivalent in this context, conveying the same idea of a business's performance measure declining steadily over time."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series names 'Previous Revenue' and 'Weekly Revenue', and the y-axis title 'Billions' are perfectly matched. The only difference is 'Weekly Rank' in the original content changed to 'Weekly Rating' in the back-translation, which is a minor semantic variation but generally conveys the same intent in the context of numerical data."
+    },
+    "claim": "the business' weekly rank has been steadily declining over time ",
+    "translated_claim": "Еженедельный рейтинг бизнеса со временем неуклонно снижается"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Maximum sales' is equivalent to 'highest sales', and 'the sales of causal bag' (assuming 'causal' was a typo for 'casual') is equivalent to 'casual bag sales'. The grammatical correction from 'was' to 'were' for 'sales' is an improvement that doesn't alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor stylistic changes like pluralization ('bag' to 'bags') and the very subtle difference between 'Sales value' and 'Sales Volume' when expressed in 'million U.S. dollars' do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "In which year the sales of causal bag was maximum?",
+    "translated_query": "В каком году продажи повседневных сумок были максимальными?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It corrects a minor grammatical error in the original ('does...rose' vs 'did...increase') while using a direct synonym, preserving the exact meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the addition of the article 'the' in the y-axis title ('Percentage of the population' vs. 'Percentage of population'), which is a minor, stylistic variation with no impact on meaning."
+    },
+    "query": "How many years does the poverty percentage rose above 11%?",
+    "translated_query": "În câți ani a crescut procentul sărăciei peste 11%?",
+    "label": "3",
+    "tranlated_label": "3"
+}

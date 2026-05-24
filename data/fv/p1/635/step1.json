@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, categories, text content, and color hues are all consistent with the original. Minor differences in decimal precision for two labels (e.g., 8.7% vs 8.71%) are negligible and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that natural gas accounts for 49.9% of electricity generation, which is the largest single source presented, thus supporting the claim that it is a large source."
+    },
+    "claim": "Natural Gas is a large source of electricity generation in Texas.",
+    "label": true
+}

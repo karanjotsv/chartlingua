@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has significantly different data proportions. The 'Apache' slice is rendered as exactly 50%, while it is clearly less than 50% in the original. More importantly, the 'lighttpd' data series, though present in the legend, is completely missing as a slice from the rendered pie chart. This fundamentally misrepresents the data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed because the legend contains an entry for 'lighttpd' but there is no corresponding data slice in the pie chart itself, which is a significant generation error."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Microsoft is the least popular web server, but the pie chart shows that the slice representing Microsoft (purple/maroon) is the second largest. Several other web servers, such as nginx, lighttpd, and Oversee, have visibly smaller slices, indicating they are less popular than Microsoft."
+    },
+    "claim": "Microsoft is the least popular web server software.",
+    "label": false
+}

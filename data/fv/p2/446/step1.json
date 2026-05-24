@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the chart represents states of the United Kingdom, but the y-axis clearly lists abbreviations for states in the United States (e.g., CA for California, TX for Texas, AZ for Arizona)."
+    },
+    "claim": "The top 10 solar states in 2017 represents the states of the United Kingdom country.",
+    "label": "FALSE"
+}

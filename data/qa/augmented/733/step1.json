@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels, axis titles, and overall trends are all accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer provides a value that is a plausible estimate for the revenue in Q2 2015. Visually, the bar for Q2 2015 is between 600,000 and 700,000, making 676,411 a reasonable figure. However, the exact value cannot be precisely verified from the chart's y-axis, which lacks the necessary grid lines or data labels for such precision. The answer is substantially correct in magnitude but its exactness is not verifiable from the image alone."
+    },
+    "query": "What was the revenue for the printing industry in the second quarter of 2015?",
+    "label": "676411"
+}

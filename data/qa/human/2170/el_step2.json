@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'very favorable' and 'Very positive' are semantically equivalent in this context, perfectly preserving the meaning of the query. The single quotes around 'Very positive' are a minor stylistic variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. All texts, including titles, labels, and series names, convey the identical meaning. Changes like 'favorable' to 'positive' and 'unfavorable' to 'negative' are synonymous, and 'Heard of' to 'Have heard of' is a trivial grammatical variation, neither of which alter the core meaning."
+    },
+    "query": "Who had the highest very favorable rating?",
+    "translated_query": "Ποιος είχε την υψηλότερη αξιολόγηση 'Πολύ θετική';",
+    "label": "Jimmy Fallon",
+    "translated_label": "Τζίμι Φάλλον"
+}

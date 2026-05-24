@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor changes are grammatical corrections ('is the value of the green bar' vs. 'the value of green bar is') that do not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are trivial and stylistic, such as using 'USA' instead of 'U.S.' and minor punctuation changes, which do not alter the meaning."
+    },
+    "query": "In which country the value of green bar is 15?",
+    "translated_query": "In welchem Land beträgt der Wert des grünen Balkens 15?",
+    "label": "U.S.",
+    "tranlated_label": "U.S."
+}

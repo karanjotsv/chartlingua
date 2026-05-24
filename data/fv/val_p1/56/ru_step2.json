@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. The additions like 'employees in' and 'activities' clarify the implicit references in the original without altering the core information or introducing any distortion."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most chart data categories maintain their meaning with minor stylistic changes (e.g., '&' vs 'and', singular vs plural) or very close semantic alternatives (e.g., 'Health' vs 'Healthcare', 'Scientific & technical' vs 'Scientific and Technical Activities'). The title 'Occupational Statistics' to 'Employment Statistics' is a minor but acceptable semantic shift, conveying largely the same information in this context."
+    },
+    "claim": "The number of Health and Education in 2011 was higher than Scientific & technical",
+    "translated_claim": "Количество работников в сфере здравоохранения и образования в 2011 году было выше, чем в научно-технической деятельности."
+}

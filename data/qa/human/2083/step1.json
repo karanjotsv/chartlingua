@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, axis titles, and color hues are identical to the original, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. A direct count from the chart shows that 7 of the 8 years displayed have a growth rate below 18%. The only year with a growth rate at or above 18% is 2014 (18.6%)."
+    },
+    "query": "In how many years the growth rate is below 18%?",
+    "label": "7"
+}

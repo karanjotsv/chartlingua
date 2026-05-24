@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart incorrectly displays four equal 25% slices, whereas the original chart shows four slices of distinctly unequal proportions. This fundamentally alters the data representation and the overall message of the chart. The order of the slices around the circle is also different.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is an unlabeled pie chart with four segments. It contains no data, labels, or a legend that would provide information about GDP, population percentages, or wealth distribution. Therefore, the claim cannot be verified from the visual information provided."
+    },
+    "claim": "The top 0.001% control more than half of the total GDP.",
+    "label": "FALSE"
+}

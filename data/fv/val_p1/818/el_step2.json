@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. Differences are minor stylistic choices (e.g., 'The life stages of the Gasification Plant' vs. 'Gasification Plant life stages', and 'resource provision' vs. 'resource provisioning')."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The chart title is a perfect match (ignoring case difference in 'In' vs 'in'). The only minor difference is 'Resource Provisioning' in the original category label becoming 'Resource Provision' in the back-translation, which is a subtle change in nuance but does not alter the core meaning significantly."
+    },
+    "claim": "Gasification Plant life stages are resource provisioning, process implementation, primary process and secondary process. ",
+    "translated_claim": "Τα στάδια ζωής της Εγκατάστασης Αεριοποίησης είναι η παροχή πόρων, η εφαρμογή διαδικασίας, η πρωτεύουσα διαδικασία και η δευτερεύουσα διαδικασία."
+}

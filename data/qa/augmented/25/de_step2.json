@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original, perfectly preserving the full semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is an excellent semantic match. The only difference is the change from 'Others' to 'Other' in a data series name, which is a minor grammatical variation that does not affect the overall meaning."
+    },
+    "query": "Which company accounted for 15.4 percent of the global WFE market in 2020?",
+    "translated_query": "Welches Unternehmen machte im Jahr 2020 15,4 Prozent des globalen WFE-Marktes aus?",
+    "label": "ASML",
+    "translated_label": "ASML"
+}

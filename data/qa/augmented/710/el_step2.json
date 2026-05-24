@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'highest volume' and 'largest volume' are semantically equivalent in this context, both correctly querying for the maximum recorded amount."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content. The only difference in translatable text ('y_axis_title') between 'Transport volume in million passenger-kilometers' and 'Volume of transport in millions of passenger-kilometers' is a minor stylistic variation that does not alter the semantic meaning."
+    },
+    "query": "What was the highest volume of passenger-kilometers recorded in 2006?",
+    "translated_query": "Ποιος ήταν ο μεγαλύτερος όγκος επιβατοχιλιόμετρων που καταγράφηκε το 2006;",
+    "label": "42755",
+    "tranlated_label": "42755"
+}

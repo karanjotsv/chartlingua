@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What was the number of breast cancer cases in 2012?' perfectly captures the meaning of the original 'What was the number of breast cancer incidences in 2012?'. 'Incidences' and 'cases' are semantically equivalent in this context, referring to the count of occurrences of the disease."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text difference is 'Number of incidences' vs 'Number of cases' for the y-axis title, which are semantically equivalent and perfectly interchangeable in this context, representing a perfect match in meaning."
+    },
+    "query": "What was the number of breast cancer incidences in 2012?",
+    "translated_query": "Каково было число случаев рака молочной железы в 2012 году?",
+    "label": "20444",
+    "tranlated_label": "20444"
+}

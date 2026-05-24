@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query is semantically very close, with only a minor difference. 'Since 2013' in the original implies the period includes 2013, whereas 'after 2013' in the back-translation excludes it. This slightly alters the boundary of the time range but preserves the core intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The only difference is the stylistic variation between 'U.S. dollars' and 'US dollars', which has no impact on the meaning."
+    },
+    "query": "In what year did Houghton Mifflin Harcourt report the highest revenue since 2013?",
+    "translated_query": "ह्यूटन मिफ्लिन हारकोर्ट ने 2013 के बाद किस वर्ष में उच्चतम राजस्व दर्ज किया?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

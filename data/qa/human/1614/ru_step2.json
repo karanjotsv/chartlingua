@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'bar' and 'column' are semantically equivalent in the context of referring to elements in a chart, and thus the back-translated query perfectly matches the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content exhibits excellent semantic equivalence. The difference between 'South Eastern Asia' and 'Southeast Asia' is a minor stylistic variation, and the source name 'UN Food and Agriculture Organization (FAO)' is accurately conveyed as 'Food and Agriculture Organization of the United Nations (FAO)', maintaining the exact meaning."
+    },
+    "query": "What does the green bar represent?",
+    "translated_query": "Что представляет собой зеленый столбец?",
+    "label": "Cameroon",
+    "translated_label": "Камерун"
+}

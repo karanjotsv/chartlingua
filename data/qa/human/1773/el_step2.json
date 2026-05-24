@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. 'of both the bars' and 'between the two bars' convey the same comparative intent without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content loses a key semantic detail by changing 'foreign-born' to 'foreign' in both the title and subtitle. 'Foreign-born' refers specifically to individuals born outside the country, which is a critical demographic distinction in contexts like participation rates. 'Foreign' is a broader and less precise term that could encompass foreign nationals regardless of birthplace, or other non-native elements, thus altering the intended scope and accuracy of the chart's subject matter. The change from 'gender' to 'sex' is a minor difference but doesn't impact the overall rating as much as the 'foreign-born' issue."
+    },
+    "query": "What is the difference in the value of both the bars?",
+    "translated_query": "Ποια είναι η διαφορά στην τιμή και των δύο μπάρων;",
+    "label": "7.1",
+    "tranlated_label": "7.1"
+}

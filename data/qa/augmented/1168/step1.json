@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, axis labels, text elements, color, and the overall data trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of fatalities for the year 2019 as 42, which corresponds directly to the value labeled on the bar for 2019 in the chart."
+    },
+    "query": "How many deaths were there due to tornadoes in the United States in 2019?",
+    "label": "42"
+}

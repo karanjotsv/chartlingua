@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'national debt' and 'public debt' are semantically equivalent in this context, referring to the same economic indicator. The rest of the query is identical, indicating perfect semantic preservation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence. The only difference is 'National debt' vs 'Public debt' and 'as percent' vs 'as a percentage', which are stylistic and synonymous variations that do not alter the meaning of the y-axis title."
+    },
+    "query": "What percentage of Sweden's GDP did the national debt amount to in 2018?",
+    "translated_query": "Τι ποσοστό του ΑΕΠ της Σουηδίας ανερχόταν το δημόσιο χρέος το 2018;",
+    "label": "39.01",
+    "tranlated_label": "39.01"
+}

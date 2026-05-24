@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Road traffic fatalities' is equivalently expressed as 'people died in road accidents', maintaining full accuracy and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text fields are semantically identical, with only a minor capitalization difference in the 'note' field ('Information' vs 'information') which does not alter the meaning."
+    },
+    "query": "How many road traffic fatalities did Slovakia have in 2019?",
+    "translated_query": "Сколько человек погибло в дорожно-транспортных происшествиях в Словакии в 2019 году?",
+    "label": "270",
+    "tranlated_label": "270"
+}

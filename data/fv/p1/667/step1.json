@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, text content, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the data was 'analysed by Mexico Phone survey', but the chart provides no information about the source, location, or methodology of the survey."
+    },
+    "claim": "20% of people not interest enough to read  Wikipedia analysed by Mexico Phone survey.",
+    "label": true
+}

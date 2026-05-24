@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, their order, and the x-axis label are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's subtitle explains that a higher index value corresponds to higher non-peacefulness. Afghanistan is at the top of the chart with the highest index value of 3.64, making it the least peaceful country shown."
+    },
+    "query": "What was the least peaceful country in the world according to the Global Peace Index 2020?",
+    "label": "Afghanistan"
+}

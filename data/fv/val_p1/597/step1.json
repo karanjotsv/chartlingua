@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, source text, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'Solvent use' segment is colored red, but the pie chart clearly shows that the 'Solvent Use' segment is purple. The red segment represents 'Non Road Equipment'."
+    },
+    "claim": "Solvent use is represented in red colored segment.",
+    "label": false
+}

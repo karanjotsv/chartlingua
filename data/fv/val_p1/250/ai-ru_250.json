@@ -1,0 +1,29 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Отказ редактора",
+            "value": 67
+        },
+        {
+            "label": "Другое",
+            "value": 22
+        },
+        {
+            "label": "Безразличие",
+            "value": 12
+        }
+    ],
+    "texts": {
+        "title": "Что вы считаете<br>наибольшей угрозой для Википедии?",
+        "subtitle": null,
+        "source": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#00599c",
+        "#339966",
+        "#990000"
+    ]
+}

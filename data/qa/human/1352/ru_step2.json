@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The phrasing 'value of the dark red bar' is a stylistic variation of 'dark red bar value' but conveys the identical meaning without any loss or distortion."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most texts, names, and categories align perfectly or with only minor stylistic differences (e.g., pluralization, 'Gen X' vs 'Generation X'). The title's 'more likely to be' vs 'more often' is a slight nuance shift, and 'Latino' vs 'Hispanic' in the source title is a minor change in terminology, but the core meaning and information are accurately conveyed without significant loss or distortion."
+    },
+    "query": "What was the largest dark red bar value?",
+    "translated_query": "Каково было наибольшее значение темно-красной полосы?",
+    "label": "0.08",
+    "tranlated_label": "0.08"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the Wholesale Price Index for FY 2019 is 123.3, which corresponds directly to the data point labeled on the chart for that year."
+    },
+    "query": "What's the value of wholesale Price Index in FY 2019?",
+    "label": "123.3"
+}

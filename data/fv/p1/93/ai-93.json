@@ -1,0 +1,188 @@
+{
+    "texts": {
+        "title": "Profile of Wales",
+        "source": "www.ons.gov.uk",
+        "footer": "Contains data and information from Ordnance Survey,<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013"
+    },
+    "charts": [
+        {
+            "title": "Population",
+            "type": "donut",
+            "color": "#d9534f",
+            "data": {
+                "values": [
+                    5,
+                    95
+                ]
+            },
+            "annotations": {
+                "center_value": "5%",
+                "center_label": "of the UK",
+                "bottom_label": "3.1 million"
+            },
+            "note": "mid-2012"
+        },
+        {
+            "title": "Median Age",
+            "type": "text_group",
+            "color": "#8e44ad",
+            "data": [
+                {
+                    "label": "Wales",
+                    "value": "41.7"
+                },
+                {
+                    "label": "Scotland",
+                    "value": "41.5"
+                },
+                {
+                    "label": "England",
+                    "value": "39.5"
+                },
+                {
+                    "label": "Northern Ireland",
+                    "value": "37.6"
+                }
+            ],
+            "unit": "years",
+            "note": "mid-2012"
+        },
+        {
+            "title": "DDA Disabled and<br>work limiting disabled",
+            "type": "bar",
+            "data": [
+                {
+                    "category": "Wales",
+                    "value": 14.3
+                },
+                {
+                    "category": "Scotland",
+                    "value": 14.0
+                },
+                {
+                    "category": "Northern<br>Ireland",
+                    "value": 13.7
+                },
+                {
+                    "category": "England",
+                    "value": 11.8
+                }
+            ],
+            "unit": "%",
+            "colors": [
+                "#16a085",
+                "#48c9b0",
+                "#76d7c4",
+                "#a2d9ce"
+            ],
+            "title_color": "#16a085",
+            "note": "2012/13"
+        },
+        {
+            "title": "Economic Output",
+            "type": "donut",
+            "color": "#8bc34a",
+            "data": {
+                "values": [
+                    4,
+                    96
+                ]
+            },
+            "annotations": {
+                "center_value": "4%",
+                "center_label": "of the UK",
+                "bottom_label": "Gross Value Added"
+            },
+            "note": "2011"
+        },
+        {
+            "title": "Unemployment",
+            "type": "bar",
+            "data": [
+                {
+                    "category": "Wales",
+                    "value": 8.2
+                },
+                {
+                    "category": "England",
+                    "value": 7.8
+                },
+                {
+                    "category": "Northern<br>Ireland",
+                    "value": 7.5
+                },
+                {
+                    "category": "Scotland",
+                    "value": 7.2
+                }
+            ],
+            "unit": "%",
+            "colors": [
+                "#3498db",
+                "#a9cce3",
+                "#a9cce3",
+                "#a9cce3"
+            ],
+            "title_color": "#3498db",
+            "note": "Q2 2013"
+        },
+        {
+            "title": "Weekly Earnings",
+            "type": "styled_text",
+            "color": "#e91e63",
+            "data": [
+                {
+                    "label": "Wales",
+                    "value": "£455"
+                },
+                {
+                    "label": "Scotland",
+                    "value": "£498"
+                },
+                {
+                    "label": "Northern<br>Ireland",
+                    "value": "£460"
+                },
+                {
+                    "label": "England",
+                    "value": "£513"
+                }
+            ],
+            "note": "Median earnings of<br>full-time employees<br>April 2012"
+        },
+        {
+            "title": "House Prices",
+            "type": "horizontal_bar",
+            "data": [
+                {
+                    "category": "Northern Ireland",
+                    "value": 130,
+                    "label": "£130K"
+                },
+                {
+                    "category": "Wales",
+                    "value": 162,
+                    "label": "£162K"
+                },
+                {
+                    "category": "Scotland",
+                    "value": 181,
+                    "label": "£181K"
+                },
+                {
+                    "category": "England",
+                    "value": 251,
+                    "label": "£251K"
+                }
+            ],
+            "colors": [
+                "#d5dbdb",
+                "#abb2b9",
+                "#85929e",
+                "#5d6d7e"
+            ],
+            "title_color": "#5d6d7e",
+            "note": "June 2013"
+        }
+    ]
+}

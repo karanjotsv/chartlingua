@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentage for various causes of damage. The 'Storm' category is shown as 2%, which is the lowest value among all the categories presented in the chart."
+    },
+    "claim": "The Storm has the least Percentage in the damages in electronic devices.",
+    "label": "TRUE"
+}

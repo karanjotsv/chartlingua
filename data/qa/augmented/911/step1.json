@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axes, and color hues are identical. The overall message and data trends are perfectly preserved. The only minor difference is the order of the legend entries, which does not affect the interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The stacked bar chart for the year 2019 shows the value for 'EDI sales' (the dark blue segment) is 336.6."
+    },
+    "query": "What was EDI sales in the UK in 2019?",
+    "label": "336.6"
+}

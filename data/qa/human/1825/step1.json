@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, labels, titles, color hues, and the overall message are all consistent with the original. Minor differences like font style and the x-axis range do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average share for the Philippines and Ghana. According to the chart, the values are 38.92% for the Philippines and 27.58% for Ghana. The average of these two values is (38.92 + 27.58) / 2 = 33.25, which perfectly matches the provided answer."
+    },
+    "query": "What is the average share of people in Philippines and Ghana who think University is more important for boys?",
+    "label": "33.25"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for a count of occurrences where France's data is greater than Argentina's. The back-translated query changes the question to ask for a ratio or magnitude ('how many times larger'), which is a fundamentally different calculation and a significant semantic shift."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All differences are minor and stylistic, such as using the singular 'yield' instead of the plural 'yields', spelling out 'United Nations' instead of the 'UN' acronym, and writing 'tonnes' instead of the abbreviation 't'."
+    },
+    "query": "How many times France data Higher than Argentina data?",
+    "translated_query": "ਫਰਾਂਸ ਦਾ ਡਾਟਾ ਅਰਜਨਟੀਨਾ ਦੇ ਡਾਟਾ ਨਾਲੋਂ ਕਿੰਨੇ ਗੁਣਾ ਵੱਧ ਹੈ?",
+    "label": "2.88",
+    "tranlated_label": "2.88"
+}

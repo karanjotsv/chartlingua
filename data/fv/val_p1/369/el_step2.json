@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'GHG emission' is translated to 'Greenhouse gas emissions', 'mt' to 'Mt' (metric tons), 'as per' to 'according to', and 'GHG sink chart' to 'greenhouse gas absorption chart', all maintaining perfect equivalence. The change from singular 'emission' to plural 'emissions' with corresponding verb change does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most translatable texts maintain semantic equivalence. The 'name' 'Absorption by LULUCF' was rephrased to 'LULUCF absorption', which is semantically equivalent. However, the 'x_axis_title' 'GHG emissions and absorption in 2017' was back-translated as 'Emissions and greenhouse gas absorption in 2017'. This subtly shifts the scope of 'GHG' from applying to both 'emissions' and 'absorption' to only 'absorption' in the back-translated version, representing a minor loss of precision."
+    },
+    "claim": "GHG emission in 2017 was higher than 600 mt as per the GHG sink chart. ",
+    "translated_claim": "Η εκπομπή αερίων του θερμοκηπίου το 2017 ήταν υψηλότερη από 600 Mt σύμφωνα με το διάγραμμα απορρόφησης αερίων του θερμοκηπίου."
+}

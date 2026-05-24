@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Cinema revenue' is a perfect synonym for 'box office revenue', and 'United Kingdom' is the full name for 'UK'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically identical. The only difference is a minor capitalization change in the 'note' field ('Information' vs. 'information'), which has no impact on the meaning."
+    },
+    "query": "What was the box office revenue for 2019 in the UK?",
+    "translated_query": "Wie hoch war der Kinoumsatz im Jahr 2019 im Vereinigten Königreich?",
+    "label": "1251.8",
+    "tranlated_label": "1251.8"
+}

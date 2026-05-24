@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and axis configurations are identical to the original. The core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the x-axis represents a temperature scale in Celsius, but the chart's x-axis is explicitly labeled 'Number of language templates (N)' with categories like '0 language', '1 language', etc."
+    },
+    "claim": "The temperature scale on the x-axis is measured in Celsius.",
+    "label": "FALSE"
+}

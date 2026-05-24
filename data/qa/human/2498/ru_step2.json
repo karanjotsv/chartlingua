@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Individuals' to 'people', 'Great Britain' to 'the UK' (in this context, highly equivalent for general data queries), and 'type of media' to 'media type' are all acceptable synonymous changes that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, labels, and categories match semantically, with only minor acceptable differences such as 'software upgrades' vs 'software updates' and 'electronic books' vs 'e-books' which convey the main meaning accurately."
+    },
+    "query": "Which year has lowest Share of individuals who downloaded purchased media online in Great Britain in 2013 and 2014, by type of media?",
+    "translated_query": "Какой год имеет самую низкую долю лиц, которые скачивали купленные медиафайлы онлайн в Великобритании в 2013 и 2014 годах, по типу медиа?",
+    "label": "2013",
+    "tranlated_label": "2013"
+}

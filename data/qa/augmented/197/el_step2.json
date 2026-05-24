@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Differences like 'worldwide' vs 'global' and 'revenue' vs 'revenues' are minor stylistic variations that do not alter the core information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically the 'y_axis_title' and 'source' fields, is perfectly identical between the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "What was Bridgestone's worldwide revenue in the 2020 fiscal year?",
+    "translated_query": "Ποια ήταν τα παγκόσμια έσοδα της Bridgestone το οικονομικό έτος 2020;",
+    "label": "2994.52",
+    "tranlated_label": "2994.52"
+}

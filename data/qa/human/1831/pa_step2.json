@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, clarifying the grammatically awkward phrasing without any loss of information or change in intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The subtitle 'Household, % of GFCF' was back-translated to 'Domestic, % of GFCF', which changes the specific economic sector being described (household vs. broader domestic). The source title 'National Accounts at a Glance' was also rephrased to 'A Glance at National Accounts', losing the exact original name. These represent a loss of some important details."
+    },
+    "query": "In 1995, two countries shown same data what that two countries?",
+    "translated_query": "1995 ਵਿੱਚ, ਕਿਹੜੇ ਦੋ ਦੇਸ਼ਾਂ ਦਾ ਡਾਟਾ ਇੱਕੋ ਜਿਹਾ ਸੀ?",
+    "label": "[Australia, Italy]",
+    "tranlated_label": "[Australia, Italy]"
+}

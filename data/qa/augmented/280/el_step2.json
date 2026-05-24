@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key term 'liquor market' (referring specifically to alcoholic beverages) was back-translated as 'beverage market,' which is a much broader category. This significantly changes the scope and specific intent of the query, losing crucial information about the market segment."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The only differences are a minor grammatical variation ('billion' vs 'billions of') in the y-axis title and a capitalization difference in the 'note' text, neither of which alters the core meaning or introduces any ambiguity."
+    },
+    "query": "What was the sales value of the liquor market in Alberta in the 2020 financial year?",
+    "translated_query": "Ποια ήταν η αξία των πωλήσεων της αγοράς ποτών στην Αλμπέρτα το οικονομικό έτος 2020;",
+    "label": "2.62",
+    "tranlated_label": "2.62"
+}

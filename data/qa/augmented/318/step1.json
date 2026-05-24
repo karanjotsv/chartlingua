@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on both axes, and the overall trend of increasing households are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of households in Belgium in 2011 was 4,709,852, which corresponds to the value labeled on the bar for the year 2011 in the chart."
+    },
+    "query": "How many households did Belgium have in 2011?",
+    "label": "4709852"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, proportions, text labels, and the overall chart structure are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies a location, 'Poughill', but the chart is only titled '1881 Occupational Orders' and does not provide any geographical information. Therefore, it is impossible to verify from the chart alone that these occupational statistics apply to Poughill."
+    },
+    "claim": "There were workers in the transportation sector in Poughill in 1881.",
+    "label": false
+}

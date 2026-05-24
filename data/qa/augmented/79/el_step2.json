@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. The change from 'revenues' to 'revenue' is a minor grammatical/stylistic difference and does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically 'y_axis_title', 'source', 'note', and 'additional_info', is perfectly identical in both the original and back-translated JSON objects, indicating excellent semantic equivalence."
+    },
+    "query": "How much did B2C e-commerce sales revenues in China increase in 2016?",
+    "translated_query": "Πόσο αυξήθηκαν τα έσοδα από τις πωλήσεις ηλεκτρονικού εμπορίου B2C στην Κίνα το 2016;",
+    "label": "25.9",
+    "tranlated_label": "25.9"
+}

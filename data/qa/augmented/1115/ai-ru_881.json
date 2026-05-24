@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Очень высокое доверие",
+            "value": 7
+        },
+        {
+            "category": "Высокое доверие",
+            "value": 33
+        },
+        {
+            "category": "Ни доверие, ни недоверие",
+            "value": 23
+        },
+        {
+            "category": "Малое доверие",
+            "value": 24
+        },
+        {
+            "category": "Очень малое доверие",
+            "value": 12
+        },
+        {
+            "category": "Не уверены / не знают",
+            "value": 1
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Доля респондентов",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2170c1"
+    ]
+}

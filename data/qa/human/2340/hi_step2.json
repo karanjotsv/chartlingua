@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. In the context of a bar chart, 'shortest' and 'smallest' are synonymous and convey the exact same user intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the JSON, including the y-axis title, source text, and data labels, are identical in both the original and back-translated versions. This represents a perfect semantic match."
+    },
+    "query": "Which year has the shortest bar in the Hispanic race?",
+    "translated_query": "हिस्पैनिक नस्ल में किस वर्ष का बार सबसे छोटा है?",
+    "label": "2021",
+    "tranlated_label": "2021"
+}

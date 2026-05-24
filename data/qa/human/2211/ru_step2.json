@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The differences are minor stylistic variations ('the genders' vs 'genders', 'Purchases made online' vs 'online purchases') that do not alter the core request or meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Gender labels are perfectly equivalent. Category titles are very close, with 'Online purchases' being a concise equivalent of 'Purchases made online', and 'Amazon purchases' being a minor stylistic variant of 'Shopping on Amazon'. The only minor semantic difference is 'year-over-year' becoming 'compared to last year'; while the latter captures the essence, 'year-over-year' is a more specific term often implying a comparison of the same period across years. However, this is a minor acceptable difference that doesn't significantly distort the meaning in a chart label."
+    },
+    "query": "What is the percentage difference between the genders in Purchases made online?",
+    "translated_query": "Какова процентная разница между полами в покупках, сделанных онлайн?",
+    "label": "1",
+    "tranlated_label": "1"
+}

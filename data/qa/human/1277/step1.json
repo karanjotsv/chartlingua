@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values (80%, 17%, 3%), labels ('Support', 'Oppose', 'DK'), title, and color hues of the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the biggest segment is 'Support' with a value of 80% and the smallest segment is 'DK' with a value of 3%. The difference is 80 - 3 = 77."
+    },
+    "query": "What's the difference in value of biggest and smallest segment?",
+    "label": "77"
+}

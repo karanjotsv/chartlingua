@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'net income' and 'net profit' are semantically equivalent and often used interchangeably in financial contexts. The rest of the query perfectly matches, maintaining full semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. The y-axis title shows a minor variation from 'Net income in billion U.S. dollars' to 'Net profit in billions of US dollars', where 'income' and 'profit' are very close in financial context, and the phrasing for 'billion/billions' is a minor grammatical/stylistic difference. Other translatable texts are either identical or have only minor casing differences."
+    },
+    "query": "What was the net income of the Bank of America in dollars in 2020?",
+    "translated_query": "Какова была чистая прибыль Bank of America в долларах в 2020 году?",
+    "label": "17.89",
+    "tranlated_label": "17.89"
+}

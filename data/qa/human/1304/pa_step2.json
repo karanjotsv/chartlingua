@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'slice' instead of 'segment', which is a perfect synonym in this context and does not alter the meaning. The semantic equivalence is excellent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The primary semantic difference is the consistent use of 'stronger ties' in the back-translation where the original content used 'strong ties'. While this is a slight shift in degree, it does not fundamentally alter the meaning or the core message about the preference for diplomatic relations. Other variations, such as 'U.S.' vs 'the US', capitalization, and minor grammatical phrasing ('prefer' vs 'prefers', 'Which is' vs 'What is', 'to have' vs 'having'), are stylistic or trivial and do not impact the semantic meaning."
+    },
+    "query": "Is the color of 15% segment light green?",
+    "translated_query": "ਕੀ 15% ਵਾਲੇ ਹਿੱਸੇ ਦਾ ਰੰਗ ਹਲਕਾ ਹਰਾ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

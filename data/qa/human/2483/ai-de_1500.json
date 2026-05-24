@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Bargeld",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "Konto",
+            "values": [
+                19,
+                85
+            ]
+        },
+        {
+            "category": "Mobil",
+            "values": [
+                52,
+                54
+            ]
+        },
+        {
+            "category": "PayPal",
+            "values": [
+                33,
+                15
+            ]
+        },
+        {
+            "category": "Debit-/Kreditkarte",
+            "values": [
+                78,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Plattformen",
+        "series_names": [
+            "Wie Verbraucher bezahlen können",
+            "Wie Anbieter Zahlungen erhalten"
+        ],
+        "source_left": "Zusätzliche Informationen",
+        "source_right": "© Statista 2021 &nbsp;&nbsp;&nbsp; Quelle anzeigen"
+    },
+    "colors": [
+        "#2E75D8",
+        "#10283C"
+    ]
+}

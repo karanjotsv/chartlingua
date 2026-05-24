@@ -1,0 +1,35 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Benutzerfreundlichkeit",
+            "value": 50
+        },
+        {
+            "category": "Empfehlung",
+            "value": 19
+        },
+        {
+            "category": "Testphase",
+            "value": 6
+        },
+        {
+            "category": "Frühere Nutzung",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": "Begründung für die Werkzeugwahl",
+        "subtitle": null,
+        "x_axis_title": "Nutzungsgrund",
+        "y_axis_title": "Prozentsatz der Nutzer",
+        "source": null,
+        "notes": null
+    },
+    "colors": [
+        "#FDBB0B",
+        "#00A9E0",
+        "#00A9E0",
+        "#00A9E0"
+    ]
+}

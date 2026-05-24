@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values, chart type, title, and axis labels are consistent. However, there is a significant semantic inconsistency in the legend and color mapping. In the original, 'CA' is black and 'CK' is dark blue. In the rendered chart, both 'CA' and 'CK' are listed as black in the legend. On the plot itself, the line corresponding to 'CK' data is rendered in blue, which conflicts with its legend entry.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim introduces external information not present in the chart, such as the 'MaxMind database'. Additionally, the chart's axes are misrepresented; the y-axis shows 'MoM Percent Change in Page Views to KW', not the 'number of requests', and the x-axis represents 'months out of date', not specific 'release dates'."
+    },
+    "claim": "The chart shows the MaxMind database release dates on the number of requests originating from different countries.",
+    "label": "TRUE"
+}

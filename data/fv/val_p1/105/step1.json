@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents all data values, text labels, and color hues. However, the sorting order of the categories in both the main chart and the sub-chart has been reversed (from descending in the original to ascending in the rendered), which is a notable change in the presentation structure, though the core data remains accurate.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that visitors from 'Real Estate project management' were the largest group. The chart shows this group represents 10% of visitors, while the largest groups are 'Real estate investment' and 'Real estate development/contractors', both at 16%."
+    },
+    "claim": "Visitors from Real Estate project management represented the largest group present at the 2010 EXPO REAL.",
+    "label": false
+}

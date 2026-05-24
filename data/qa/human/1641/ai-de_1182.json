@@ -1,0 +1,79 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Vereinigtes Königreich",
+            "x": [
+                1990,
+                1991,
+                1992,
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999,
+                2000,
+                2001,
+                2002,
+                2003,
+                2004
+            ],
+            "y": [
+                2120,
+                1810,
+                1550,
+                1610,
+                1770,
+                1660,
+                1650,
+                1660,
+                1410,
+                1510,
+                1660,
+                1560,
+                1510,
+                1320,
+                1220
+            ]
+        },
+        {
+            "name": "Kap Verde",
+            "x": [
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999,
+                2000,
+                2001
+            ],
+            "y": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Insektizidverbrauch, 1990 bis 2004",
+        "subtitle": "Jährliche Menge der in der Landwirtschaft verwendeten Insektizide, gemessen in Tonnen Wirkstoff pro Jahr.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO)",
+        "note": "OurWorldInData.org/pesticides • CC BY"
+    },
+    "colors": [
+        "#c44e41",
+        "#3a5169"
+    ]
+}

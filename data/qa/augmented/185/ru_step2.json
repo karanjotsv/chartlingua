@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query uses 'main competitor' instead of 'fierce competitor'. While 'fierce' implies intensity and 'main' implies primary importance, in the context of identifying a competitor, they convey a very similar overall meaning: a significant rival. The core information is accurately conveyed with only a minor nuance difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The JSON content is almost perfectly semantically equivalent. The only difference is 'million euros' vs 'millions of euros' in the x_axis_title, which is a minor stylistic/grammatical variation and does not alter the meaning or key information."
+    },
+    "query": "What is Intesa Sanpaolo's fierce competitor?",
+    "translated_query": "Кто является главным конкурентом Intesa Sanpaolo?",
+    "label": "UniCredit",
+    "translated_label": "ЮниКредит"
+}

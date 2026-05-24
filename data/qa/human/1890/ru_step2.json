@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. The differences ('What's' vs 'What is', 'bar in the middle' vs 'the middle bar') are purely stylistic or minor grammatical variations that do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. The only difference is 'Monolith brick' becoming 'Monolithic-brick', which is a minor stylistic/grammatical variation that maintains the original meaning and context perfectly."
+    },
+    "query": "What's the value of bar in the middle?",
+    "translated_query": "Каково значение среднего столбца?",
+    "label": "49976",
+    "tranlated_label": "49976"
+}

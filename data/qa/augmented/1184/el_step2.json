@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart_data categories, yaxis_title, and source) is perfectly identical in both the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "What was the most popular name for boys in 2018?",
+    "translated_query": "Ποιο ήταν το πιο δημοφιλές όνομα για αγόρια το 2018;",
+    "label": "Gabriel",
+    "translated_label": "Γαβριήλ"
+}

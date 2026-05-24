@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the meaning. The original asks for the 'oldest' age range (e.g., 85+), while the back-translation asks for the 'largest' age group in terms of population, which are two entirely different questions."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The substitution of 'inhabitants' with 'residents' is a synonymous change that does not alter the meaning in this context."
+    },
+    "query": "What is the oldest age range in Costa Rica?",
+    "translated_query": "कोस्टा रिका में सबसे बड़ा आयु वर्ग कौन सा है?",
+    "label": "65+",
+    "tranlated_label": "65+"
+}

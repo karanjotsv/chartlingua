@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels (title, axes, categories), and color hues are consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the chart shows data for 'different language editions of Wikipedia', but the chart's title is 'Banjar', suggesting it pertains to only one specific edition. Furthermore, the claim specifies the data is 'the total number of edits', but the chart's y-axis is not labeled, so the unit of measurement is unknown."
+    },
+    "claim": "The chart shows the total number of edits made by male and female users on different language editions of Wikipedia.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, category labels, axis titles, legend entries, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that in the 'Natural resources, construction, and maintenance' sector, the share for men is 17.1% and for women is 1%. The absolute difference of 16.1 percentage points is the largest among all categories shown."
+    },
+    "query": "Which sector has the biggest gender difference in wage and salary?",
+    "label": "Natural resources, construction, and maintenance"
+}

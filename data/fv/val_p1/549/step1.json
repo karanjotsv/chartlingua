@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data proportions, category labels, color associations, and the main title are identical. The overall message conveyed by the chart is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart, titled 'Male Occupations in 1881', shows that the slice representing 'Military' is the largest and visually constitutes more than half of the entire circle, thereby representing a majority."
+    },
+    "claim": "IN 1881, THE MAJORITY OF MEN WORKED IN MILITARY FIELDS.",
+    "label": true
+}

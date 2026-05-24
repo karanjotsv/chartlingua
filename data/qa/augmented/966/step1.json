@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, categories, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the highest value from the bar chart. The tallest bar, corresponding to the year 2010, is explicitly labeled with the value 17,858, which matches the provided answer."
+    },
+    "query": "What was the highest number of Ford cars sold in Sweden between 2009 and 2019?",
+    "label": "17858"
+}

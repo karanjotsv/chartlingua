@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Ресурс",
+            "value": 12
+        },
+        {
+            "label": "Внедрение процесса",
+            "value": 52
+        },
+        {
+            "label": "Основная операция процесса",
+            "value": 32
+        },
+        {
+            "label": "Вторичная операция процесса",
+            "value": 4
+        }
+    ],
+    "texts": {
+        "title": "<b>Общие выбросы токсичных веществ в воздух в результате сжигания</b><br>( 1928 кг)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FFFFE0",
+        "#FFFF00",
+        "#D1BFF0",
+        "#0000CD"
+    ]
+}

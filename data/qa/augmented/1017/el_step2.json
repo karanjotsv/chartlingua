@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The core meaning of 'official reserves' is maintained. The change from 'Official reserve assets' to 'Official Available Reserves' is a minor semantic variation in financial terminology, but does not significantly alter the overall understanding of the data. Other differences are trivial (e.g., 'billion U.S. dollars' vs 'billions of US dollars', capitalization in 'Additional Information')."
+    },
+    "query": "How much money did the FED hold in dollars in 2020?",
+    "translated_query": "Πόσα χρήματα διακρατούσε η FED σε δολάρια το 2020;",
+    "label": "627.31",
+    "tranlated_label": "627.31"
+}

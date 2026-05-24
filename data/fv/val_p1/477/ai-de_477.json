@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Zur Bereitstellung",
+            "value": 25
+        },
+        {
+            "label": "Erledigt",
+            "value": 35
+        },
+        {
+            "label": "In Bearbeitung",
+            "value": 2
+        },
+        {
+            "label": "Wartend",
+            "value": 3
+        },
+        {
+            "label": "Im Test",
+            "value": 4
+        },
+        {
+            "label": "Abnahme",
+            "value": 6
+        },
+        {
+            "label": "Zu erledigen",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": "Aufgabenverteilung",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#066DA8",
+        "#A97337",
+        "#238E23",
+        "#C83232",
+        "#AABD2F",
+        "#1EB4C4",
+        "#F38600"
+    ]
+}

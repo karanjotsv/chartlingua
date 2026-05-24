@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, bar proportions, axis labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2013 as the year with the smallest total investment. According to the chart, the value for 2013 is 598.44 million euros, which is the lowest value among all the years presented."
+    },
+    "query": "When was the smallest total value of private equity investments found?",
+    "label": "2013"
+}

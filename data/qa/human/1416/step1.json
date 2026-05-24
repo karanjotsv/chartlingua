@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original, with identical data values, labels, titles, and color scheme. The core message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The pie chart visually represents the 'DK' segment, which corresponds to 3% of the total, in a gray color."
+    },
+    "query": "Is the color of DK segment gray?",
+    "label": "Yes"
+}

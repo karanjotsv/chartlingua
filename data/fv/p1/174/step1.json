@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data categories, slice proportions, and color hues are all consistent with the original. The different starting angle for the slices and the order of items in the legend are minor stylistic variations that do not change the chart's meaning or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to a survey from January 2009, but the chart is explicitly titled 'Web Servers, 2009.04', which corresponds to April 2009."
+    },
+    "claim": "Apache was the most used web server software vendor in a survey for January 2009.",
+    "label": true
+}

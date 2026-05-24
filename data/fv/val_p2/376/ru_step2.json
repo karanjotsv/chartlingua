@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Smallest value' is synonymous with 'minimum value', and 'y variable' is semantically equivalent to 'variable y'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable texts within the JSON, including 'series_name', 'x_axis_title', and 'y_axis_title', are perfectly semantically equivalent in the back-translated version."
+    },
+    "claim": "The smallest value for the y variable is 5.",
+    "translated_claim": "Наименьшее значение для переменной y равно 5."
+}

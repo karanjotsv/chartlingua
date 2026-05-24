@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, ordering, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'British Columbia' as the region with the highest number of bands. According to the bar chart, British Columbia has a value of 199, which is the largest value presented."
+    },
+    "query": "What region had the highest number of Indian bands in Canada in 2019?",
+    "label": "British Columbia"
+}

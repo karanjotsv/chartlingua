@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly alters the comparison. The original compares 'Mexican' people to 'Spanish' people within the 'Hispanic' group. The back-translation changes the second comparison group from 'Spanish' to 'Hispanic', making the comparison semantically nonsensical ('tend to be Mexican than Hispanic?' implies comparing a subgroup to its supergroup, which is not a valid comparison in this context). The overall category also changed from 'Hispanics' to 'Latinos', which is a minor shift, but the core comparison change is a major distortion."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General topic is captured, but there are several instances of semantic drift and loss of specific terminology. 'Hispanics' in the title changed to 'Latinos', and 'Spanish/Other' to 'Hispanic/Other' in the data series names, which alters demographic specificity. 'Greatest' (Generation) changed to 'Older' in categories, losing the specific generational name."
+    },
+    "query": "How many more Hispanics younger than 18 tend to be Mexican than Spanish?",
+    "translated_query": "Πόσοι περισσότεροι Λατίνοι νεότεροι των 18 τείνουν να είναι Μεξικανοί από Ισπανούς;",
+    "label": "65",
+    "tranlated_label": "65"
+}

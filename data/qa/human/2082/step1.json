@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are identical. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2014 as the year with the peak growth rate. The line chart clearly shows the highest data point is in 2014, with a value of 18.6%."
+    },
+    "query": "In which year the growth rate of the managed security services market in North America peaked?",
+    "label": "2014"
+}

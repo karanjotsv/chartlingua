@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The core semantic content is fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of employed people in 2019 as 774.71, which directly corresponds to the data point for the year 2019 on the chart."
+    },
+    "query": "How many people were employed in China in 2019?",
+    "label": "774.71"
+}

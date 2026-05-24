@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, the title, and color hues for each category are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that Bocca di Lupo accounts for 12% and Vigna di Venere accounts for 17% of the water sources. Their combined total is 29%, which is higher than the 19% from the Mola di Vigarello source."
+    },
+    "claim": "The total amount of Bocca di Lupo and vigna di venere sources is higher than the mola di vigarello water source .",
+    "label": "TRUE"
+}

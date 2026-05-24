@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. 'Average image loading time' is an excellent synonym for 'image load mean time', and 'indicated' works as a synonym for 'mentioned'. All key information is preserved."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text is semantically equivalent, with good synonyms used (e.g., 'meantime' for 'average time', 'fetch' for 'retrieval'). However, a significant error occurs where 'gender-fetch' is back-translated as 'Genre retrieval'. 'Gender' and 'Genre' are completely different concepts, which distorts the meaning of two data series."
+    },
+    "claim": "The image load mean time mentioned the maximum viewers were 4.00 k.",
+    "translated_claim": "Timpul mediu de încărcare a imaginii a indicat că numărul maxim de vizualizatori a fost de 4.00 k."
+}

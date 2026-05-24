@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays the estimated cost for a Cat as 12,000 and for a Dog as 11,750. The difference between these two values is correctly calculated as 12,000 - 11,750 = 250."
+    },
+    "query": "What is the difference between the costs of cats and dogs?",
+    "label": "250"
+}

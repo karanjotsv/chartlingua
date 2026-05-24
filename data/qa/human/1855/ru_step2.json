@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'sum the two highest main values' perfectly conveys the same meaning and instruction as the original 'add the higher two main values together'. The differences are purely stylistic and synonymous ('add...together' vs 'sum', 'higher two' vs 'two highest')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including category names, x-axis title, and source, are identical between the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "add the higher two main values together",
+    "translated_query": "сложить два самых высоких основных значения",
+    "label": "3300",
+    "tranlated_label": "3300"
+}

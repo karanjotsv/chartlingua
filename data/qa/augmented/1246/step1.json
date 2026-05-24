@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value for the population growth in 2019 as 0.75, which matches the data label on the chart. However, it is slightly incomplete as it omits the percentage sign (%), which is the unit for the data."
+    },
+    "query": "How much did Brazil's population increase in 2019?",
+    "label": "0.75"
+}

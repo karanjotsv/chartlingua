@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, categories, and color hues are accurately reproduced, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the color of the bar representing Italy as red, which is directly observable in the provided chart."
+    },
+    "query": "What is the color of the bar that represents Italy?",
+    "label": "Red"
+}

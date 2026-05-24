@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Республиканская партия",
+            "display_label": "Республиканская партия<br>55 миллионов",
+            "value": 55
+        },
+        {
+            "hover_label": "Демократическая партия",
+            "display_label": "Демократическая партия<br>72 миллионов",
+            "value": 72
+        },
+        {
+            "hover_label": "Независимые",
+            "display_label": "Независимые<br>42 миллионов",
+            "value": 42
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#D93B0B",
+        "#3A87D5",
+        "#F0E594"
+    ],
+    "pull": [
+        0.1,
+        0.1,
+        0.1
+    ]
+}

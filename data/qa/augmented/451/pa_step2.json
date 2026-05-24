@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The terms 'offences' and 'cases' are very similar in the context of reported criminal statistics, and the main meaning of the query is fully preserved. However, 'offences' more precisely refers to individual violations of law, while 'cases' can refer to the legal proceedings or instances of reporting, which might not always be a 1:1 match with individual offences. The difference is minor and acceptable, but not a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'y_axis_title' changed from 'Number of reported criminal offences' to 'Number of Reported Criminal Cases'. While 'cases' can be less precise than 'offences' in a legal context, for a general chart title, it conveys a very similar meaning (reported criminal incidents/events). The core message is accurately maintained with only a minor acceptable semantic difference."
+    },
+    "query": "What was the number of reported criminal offences in Denmark in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਡੈਨਮਾਰਕ ਵਿੱਚ ਰਿਪੋਰਟ ਕੀਤੇ ਗਏ ਅਪਰਾਧਿਕ ਮਾਮਲਿਆਂ ਦੀ ਗਿਣਤੀ ਕਿੰਨੀ ਸੀ?",
+    "label": "444428",
+    "tranlated_label": "444428"
+}

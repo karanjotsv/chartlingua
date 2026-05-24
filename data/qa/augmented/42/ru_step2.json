@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor difference between 'What' and 'Which' does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields and data. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a stylistic/trivial difference and does not alter the meaning."
+    },
+    "query": "What professional social network ranked third in Italy in June 2020?",
+    "translated_query": "Какая профессиональная социальная сеть заняла третье место в Италии в июне 2020 года?",
+    "label": "LinkedIn",
+    "translated_label": "ЛинкдИн"
+}

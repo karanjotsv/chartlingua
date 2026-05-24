@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trends, relative values, and overall shape of both line series are identical to the original. The color hues (red and blue) are also consistent. The rendered chart improves upon the original by providing a legible legend where the original's was unreadable.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the orbit was stable for its entire lifetime. However, the chart shows a significant and sustained decrease in both Apogee and Perigee, particularly in the latter half of the depicted period. This downward trend indicates orbital decay, which is the opposite of a stable orbit."
+    },
+    "claim": "Mir remain in a stable orbit for entire lifetime.",
+    "label": false
+}

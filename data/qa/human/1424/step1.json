@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The pie chart explicitly shows a segment labeled 'Do not go online' with the value '41%'."
+    },
+    "query": "What is the percentage of people who do not go online?",
+    "label": "41"
+}

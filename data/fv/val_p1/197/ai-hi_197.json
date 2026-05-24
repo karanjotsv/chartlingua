@@ -1,0 +1,33 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "प्राकृतिक गैस",
+            "value": 89.2
+        },
+        {
+            "label": "कोयला",
+            "value": 5.5
+        },
+        {
+            "label": "अन्य",
+            "value": 5.3
+        }
+    ],
+    "texts": {
+        "title": "बिजली उत्पादन के स्रोत<br>डेलावेयर - 2016",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "marker_colors": [
+            "#89D1D5",
+            "#B80072",
+            "#B666D9"
+        ],
+        "background_color": "#E6E6FA"
+    }
+}

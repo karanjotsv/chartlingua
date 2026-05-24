@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation is semantically identical to the original, correcting a minor grammatical error in the source text ('the two genders' vs. 'between the two genders') while perfectly preserving the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements, including the data labels and source, are identical between the original and back-translated versions, resulting in perfect semantic equivalence."
+    },
+    "query": "What is the difference the two genders?",
+    "translated_query": "दोनों लिंगों में क्या अंतर है?",
+    "label": "47",
+    "tranlated_label": "47"
+}

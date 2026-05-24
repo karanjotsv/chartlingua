@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels, titles, color hue, and the overall distribution trend are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that all articles have at least one incoming link. The chart, however, displays a bar for 'Number of incoming links' equal to 0, which has a corresponding 'Number of articles' value of approximately 130,000. This indicates that a large number of articles have zero incoming links, directly contradicting the claim."
+    },
+    "claim": "All articles on English Wikipedia have at least one incoming link.",
+    "label": false
+}

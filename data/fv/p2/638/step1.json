@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. While it attempts to replicate the overall layout and color scheme, it is missing the vast majority of data values and text labels from the original, including all information in the donut charts, median age, and life expectancy sections. This severe omission of data fundamentally changes the information conveyed.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has severe visual flaws, including unreadable, overlapping text on the bar charts and in the source information section. Additionally, several key chart elements, such as the donut charts, are rendered as empty placeholders, making the chart malformed and incomplete."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information, labels, or data related to crime rates for any region. Therefore, the claim cannot be verified or supported by the provided visual."
+    },
+    "claim": "The East of England had one of the lowest regional crime rates in 2012/13.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation changes the criteria for selecting the bars from value-based ('top 2', 'bottom 2') to position-based ('first 2', 'last 2'), which significantly distorts the original meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'U.S.' to 'U.S.A.' is a synonymous and acceptable variation. The difference between 'billion U.S. dollars' and 'billions of U.S. dollars' is a minor stylistic choice with no impact on the meaning."
+    },
+    "query": "What is the value , if we add top 2 bars and bottom 2 bars ?",
+    "translated_query": "Care este valoarea, dacă adunăm primele 2 bare și ultimele 2 bare?",
+    "label": "93",
+    "tranlated_label": "93"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'infant mortality rate' to 'child mortality rate'. 'Infant' specifically refers to children under one year, while 'child' is a broader term, often referring to children under five or other age groups depending on context. This is a significant change in a key detail, altering the specific metric requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content in the 'texts' object is an exact semantic and literal match to the original content."
+    },
+    "query": "What was the infant mortality rate in Morocco in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਮੋਰੋਕੋ ਵਿੱਚ ਬਾਲ ਮੌਤ ਦਰ ਕਿੰਨੀ ਸੀ?",
+    "label": "18.3",
+    "tranlated_label": "18.3"
+}

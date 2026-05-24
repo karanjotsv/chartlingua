@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "18-19-Jährige",
+            "x": [
+                "1992",
+                "2006",
+                "2013"
+            ],
+            "y": [
+                9,
+                16,
+                21
+            ]
+        },
+        {
+            "name": "20-24-Jährige",
+            "x": [
+                "1992",
+                "2006",
+                "2013"
+            ],
+            "y": [
+                23,
+                28,
+                41
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2979FF",
+        "#11263C"
+    ]
+}

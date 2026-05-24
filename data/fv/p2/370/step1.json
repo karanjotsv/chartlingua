@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, proportions, categories, text labels (title, axes), and color usage are consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on 'Recorded Crime in England and Wales, 2009-10', categorized by type of assault. The claim is about the number of registered voters for the Republican Party in Union County, Oregon. The chart contains no information about political parties, voters, or locations in the United States."
+    },
+    "claim": "Republican Party has the highest number of registered voters in Union County, Oregon.",
+    "label": "TRUE"
+}

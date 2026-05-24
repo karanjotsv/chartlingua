@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text elements (titles, axes, labels), categories, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the combined support for solar and coal is equal to the combined support for wind and nuclear. According to the chart, the support for solar is 97% and for coal is 48%, for a total of 145%. The support for wind is 93% and for nuclear is 38%, for a total of 131%. Since 145 is not equal to 131, the claim is refuted by the data."
+    },
+    "claim": "The value of solar and coal energy sources is equal with the value of wind and Nuclear together.",
+    "label": "FALSE"
+}

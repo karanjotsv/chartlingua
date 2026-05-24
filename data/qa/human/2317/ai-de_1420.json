@@ -1,0 +1,61 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Mädchen 10. Klasse",
+            "Mädchen 9. Klasse",
+            "Mädchen 8. Klasse",
+            "Mädchen 7. Klasse",
+            "Mädchen 6. Klasse",
+            "Jungen 10. Klasse",
+            "Jungen 9. Klasse",
+            "Jungen 8. Klasse",
+            "Jungen 7. Klasse",
+            "Jungen 6. Klasse"
+        ],
+        "series": [
+            {
+                "name": "Zu dünn",
+                "data": [
+                    10,
+                    10,
+                    11,
+                    10,
+                    9,
+                    20,
+                    20,
+                    17,
+                    15,
+                    14
+                ]
+            },
+            {
+                "name": "Zu dick",
+                "data": [
+                    34,
+                    31,
+                    26,
+                    28,
+                    19,
+                    23,
+                    24,
+                    23,
+                    25,
+                    18
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Prozentsatz der Schüler",
+        "y_axis_title": null,
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2C7BDE",
+        "#0A2840"
+    ]
+}

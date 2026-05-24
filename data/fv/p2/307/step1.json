@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in terms of data values, categories, labels, and color hues. The overall message is identical. The only difference is the stylistic change from a 3D to a 2D pie chart, which does not alter the semantic content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the usage percentages for various browsers. Opera's usage is listed as 4.59%, which is the lowest percentage among all the categories shown on the chart."
+    },
+    "claim": "Opera browser usage was the least on Wikimedia in 2012.",
+    "label": "TRUE"
+}

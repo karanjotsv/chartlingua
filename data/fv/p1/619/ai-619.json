@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar_with_errors",
+    "chart_data": [
+        {
+            "category": "Emissions",
+            "value": 526.3,
+            "error": 44.0,
+            "text_color": "white"
+        },
+        {
+            "category": "Absorption by LULUCF",
+            "value": -99.9,
+            "error": 50.0,
+            "text_color": "black"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "GHG emissions and absorption in 2017",
+        "y_axis_title": "Mt",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B3B3B3",
+        "#69A149"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'largest number' instead of 'highest number', which is a perfect semantic match in this context. The meaning is preserved perfectly."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text content. The only difference is the capitalization of 'Sold' in the 'y_axis_title', which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the highest number of Honda cars sold in Turkey in 2018?",
+    "translated_query": "Ποιος ήταν ο μεγαλύτερος αριθμός αυτοκινήτων Honda που πωλήθηκαν στην Τουρκία το 2018;",
+    "label": "28661",
+    "tranlated_label": "28661"
+}

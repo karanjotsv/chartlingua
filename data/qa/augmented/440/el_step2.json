@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original content, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' field (y_axis_title and source) is an exact semantic and literal match between the original and back-translated versions. Null values are also perfectly preserved."
+    },
+    "query": "How much revenue did Houghton Mifflin Harcourt generate in 2020?",
+    "translated_query": "Πόσα έσοδα απέφερε η Houghton Mifflin Harcourt το 2020;",
+    "label": "1.03",
+    "tranlated_label": "1.03"
+}

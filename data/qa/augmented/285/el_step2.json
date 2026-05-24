@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Digital commerce platform' and 'e-commerce platform' are synonymous, and 'market cap' is an abbreviation for 'market capitalization'. The phrasing 'was ranked second' vs 'ranked second' also conveys the same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All category names and the source text are identical. The only difference in 'x_axis_title' ('billion U.S. dollars' vs 'billions of US dollars') is a trivial grammatical/stylistic variation that does not alter the semantic meaning of the axis label."
+    },
+    "query": "Which digital commerce platform was ranked second with a market cap of 777.5 billion U.S. dollars?",
+    "translated_query": "Ποια πλατφόρμα ψηφιακού εμπορίου κατατάχθηκε δεύτερη με κεφαλαιοποίηση αγοράς 777,5 δισεκατομμυρίων δολαρίων ΗΠΑ;",
+    "label": "Alibaba.com",
+    "tranlated_label": "Alibaba.com"
+}

@@ -1,0 +1,48 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "< $10",
+            "value": 55
+        },
+        {
+            "label": "$10 - $30",
+            "value": 28
+        },
+        {
+            "label": "$30 - $50",
+            "value": 8
+        },
+        {
+            "label": "$50 - $100",
+            "value": 6
+        },
+        {
+            "label": "$100 - $200",
+            "value": 2
+        },
+        {
+            "label": "> $200",
+            "value": 1
+        }
+    ],
+    "texts": {
+        "title": "2.5 MILLION DONATIONS",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "legend_title": "<u>USD</u>"
+    },
+    "colors": {
+        "background": "#5AB3B4",
+        "series": [
+            "#F7B543",
+            "#C84B2A",
+            "#5A544C",
+            "#3482CF",
+            "#7CC55A",
+            "#211F1F"
+        ]
+    }
+}

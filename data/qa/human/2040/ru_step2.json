@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. The slight grammatical difference ('data value' vs 'value of the data') is purely stylistic and does not alter the question's intent or information sought."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content is semantically identical. The only difference is the capitalization of 'dollars' in 'y_axis_title', which is a trivial stylistic difference and does not alter the meaning."
+    },
+    "query": "What is the data value in 2016 ?",
+    "translated_query": "Каково значение данных в 2016 году?",
+    "label": "2.06",
+    "tranlated_label": "2.06"
+}

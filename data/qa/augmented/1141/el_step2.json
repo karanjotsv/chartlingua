@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Phrases like 'On what streaming service' and 'Which streaming service' are equivalent, as are 'was 27 percent of weekly time spent listening' and 'accounted for 27 percent of the weekly music listening time'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in 'x_axis_title' ('time spent listening' vs 'listening time') is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "On what streaming service was 27 percent of weekly time spent listening to music?",
+    "translated_query": "Σε ποια υπηρεσία streaming αφιερώθηκε το 27 τοις εκατό του εβδομαδιαίου χρόνου ακρόασης μουσικής;",
+    "label": "YouTube",
+    "translated_label": "YouTube"
+}

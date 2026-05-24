@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and relative proportions are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the red slice represents 'Children's book titles in the UK', but the chart's label for the red slice clearly indicates it represents 'Mozilla Firefox' with a 21.76% share. The chart is about browser market share, not book titles."
+    },
+    "claim": "Children's book titles in the UK is represented by the red colored pie slice. ",
+    "label": "FALSE"
+}

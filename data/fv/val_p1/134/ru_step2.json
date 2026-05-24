@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The main meaning is accurately conveyed. The only minor difference is the change from 'an election' (singular) in the original to 'elections' (plural) in the back-translation, slightly altering the specificity of the event."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (legend items, names) is semantically identical in both the original and back-translated versions. 'title' and 'subtitle' were null in both, so there was no content to compare for those keys."
+    },
+    "claim": "The chart shows the percentage of votes political party received in an election.",
+    "translated_claim": "График показывает процент голосов, полученных политической партией на выборах."
+}

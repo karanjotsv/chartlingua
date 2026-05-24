@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content (including title and labels), and color hues are all consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays percentages for three categories: 22.2% (orange bar), 33.3% (purple bar), and 44.4% (green bar). The green bar's percentage of 44.4% is visibly the highest value among them."
+    },
+    "claim": " The green bar shows the highest press percentage.",
+    "label": "TRUE"
+}

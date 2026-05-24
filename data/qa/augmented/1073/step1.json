@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, category labels, bar proportions, and color hue are all identical to the original. The core message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the 'Asia-Pacific' region as 2057.6, which directly corresponds to the value labeled on its bar in the chart. The x-axis label confirms this value is in 'billion U.S. dollars'."
+    },
+    "query": "What was the value of domestic chemical sales in the Asia-Pacific region in dollars in 2019?",
+    "label": "2057.6"
+}

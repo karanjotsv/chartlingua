@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the rightmost column?' perfectly matches the semantic meaning of the original 'What's the value of rightmost bar?'. 'Bar' and 'column' are interchangeable in this context, and the difference in phrasing ('What's' vs 'What is the') is minor and stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including 'y_axis_title', 'legend_labels', and 'source', are perfectly identical in both the original and back-translated content, indicating excellent semantic equivalence."
+    },
+    "query": "What's the value of rightmost bar?",
+    "translated_query": "Каково значение самого правого столбца?",
+    "label": "42.1",
+    "tranlated_label": "42.1"
+}

@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Буддисты",
+            "value": 5.84
+        },
+        {
+            "label": "другие религии",
+            "value": 12.48
+        },
+        {
+            "label": "нерелигиозные",
+            "value": 14.09
+        },
+        {
+            "label": "Христиане",
+            "value": 33.32
+        },
+        {
+            "label": "Мусульмане",
+            "value": 21.01
+        },
+        {
+            "label": "Индуисты",
+            "value": 13.26
+        }
+    ],
+    "texts": {
+        "title": "Мировые религии по процентному соотношению",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#DBC31D",
+        "#7F328C",
+        "#A01A33",
+        "#1F38A8",
+        "#00823F",
+        "#C86221"
+    ]
+}

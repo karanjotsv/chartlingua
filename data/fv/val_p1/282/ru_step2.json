@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly maintains the original meaning. 'Job sector' and 'employment sector' are semantically equivalent, and 'within' vs. 'in' introduces no change in meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most text elements, including the title and several category labels, show excellent semantic equivalence. However, 'Domestic offices or services' was translated as 'Domestic services or utilities'. The term 'utilities' significantly deviates from the meaning of 'offices' in an 1881 context, leading to a loss of accuracy for that specific category, which represents a large portion of the data."
+    },
+    "claim": "Textile was the smallest job sector within Long Marton in 1881.",
+    "translated_claim": "Текстиль был наименьшим сектором занятости в Лонг-Мартоне в 1881 году."
+}

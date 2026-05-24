@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three bars with non-zero values. The green bar represents a value of 4 (44.4%), which is visibly taller than the purple bar (value 3) and the orange bar (value 2)."
+    },
+    "claim": "The green colored bar is the tallest than other two bars.",
+    "label": "TRUE"
+}

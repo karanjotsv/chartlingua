@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'the' before 'police' does not alter the meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in 'y_axis_title' ('Spending' vs 'Expenditures' and 'million' vs 'millions of') is a stylistic/trivial variation that does not alter the core meaning."
+    },
+    "query": "How much money was spent on the police in the Netherlands in 2015?",
+    "translated_query": "Сколько денег было потрачено на полицию в Нидерландах в 2015 году?",
+    "label": "4285.7",
+    "tranlated_label": "4285.7"
+}

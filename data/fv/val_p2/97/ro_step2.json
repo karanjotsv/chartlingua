@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translation uses synonymous phrasing ('tends to' for 'approaches', 'when' for 'as') that results in a perfect semantic match with the original content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON, including series names and annotations, are identical in the back-translated version compared to the original. This represents a perfect semantic match."
+    },
+    "claim": "The exponential function approaches zero as x approaches infinity.",
+    "translated_claim": "Funcția exponențială tinde spre zero când x tinde spre infinit."
+}

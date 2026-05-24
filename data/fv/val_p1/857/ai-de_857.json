@@ -1,0 +1,73 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "x": [
+                2006.4,
+                2006.8,
+                2007.5,
+                2008.0,
+                2008.5,
+                2009.0,
+                2009.5,
+                2010.0,
+                2010.5,
+                2011.0,
+                2011.5,
+                2012.0,
+                2012.5,
+                2013.0,
+                2013.5,
+                2014.0,
+                2014.5,
+                2015.0,
+                2015.5,
+                2016.0,
+                2016.5,
+                2017.0,
+                2017.5,
+                2018.0,
+                2018.2
+            ],
+            "y": [
+                20,
+                100,
+                180,
+                225,
+                280,
+                320,
+                360,
+                400,
+                425,
+                450,
+                470,
+                490,
+                510,
+                525,
+                540,
+                550,
+                560,
+                570,
+                580,
+                585,
+                590,
+                595,
+                600,
+                605,
+                608
+            ],
+            "name": "Kumulative Benutzer"
+        }
+    ],
+    "texts": {
+        "title": "Löschende auf Wikimedia Commons",
+        "subtitle": "Anzahl der Benutzer, die mindestens eine Datei gelöscht haben",
+        "x_axis_title": "Datum",
+        "y_axis_title": "Benutzer",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#000000"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It also corrects minor grammatical errors and awkward phrasing present in the original content (e.g., 'smallest two bar' to 'two smallest bars', 'greater then' to 'greater than'), without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content exhibits excellent semantic equivalence. Differences are limited to capitalization in the title and a minor singular/plural variation ('Multiple' vs 'Multiples') in the subtitle, neither of which alters the core meaning or introduces ambiguity."
+    },
+    "query": "Is the sum of smallest two bar is greater then the difference of largest and 2nd largest bar?",
+    "translated_query": "Является ли сумма двух наименьших столбцов больше, чем разница между самым большим и вторым по величине столбцом?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

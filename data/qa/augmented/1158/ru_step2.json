@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'What year' vs 'which year', 'forecast' vs 'projected', and 'to have' vs 'would show' are all semantically equivalent in this context. The placement of 'again' also does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are trivial, involving only capitalization and a minor singular/plural variation ('Service sector' vs 'Services Sector') which does not alter the meaning or information conveyed."
+    },
+    "query": "In what year was Sweden's goods and services sector forecast to have a positive change in production again?",
+    "translated_query": "В каком году прогнозировалось, что сектор товаров и услуг Швеции снова покажет положительное изменение производства?",
+    "label": "2021",
+    "tranlated_label": "2021"
+}

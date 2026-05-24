@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents the same data values, categories, text content (including title and axis labels), and overall message as the original chart. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about US treasury securities ownership in 2008, but the chart displays data on recorded crime in England and Wales for the period 2009-10. The chart contains no information relevant to the claim."
+    },
+    "claim": "50% of ownership allocated for Foreign and International department in US treasury securities 2008.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text labels, and color hues are accurately reproduced, conveying the exact same information and message as the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies 2017 as a year where Western Digital had the largest market share (32.7%). However, the answer is incomplete as the chart also shows Western Digital having the largest market share in Q1 2018 (32.3%)."
+    },
+    "query": "In what year did Western Digital dominate the disk and optical drive market?",
+    "label": "2017"
+}

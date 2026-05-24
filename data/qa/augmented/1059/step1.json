@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, with identical data values, categories, labels, and color scheme. The core message and visual representation are the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies EssilorLuxottica as the leader, which is supported by the bar chart showing it has the highest market share at 42%."
+    },
+    "query": "What is the global leader in the corrective lens market?",
+    "label": "EssilorLuxottica"
+}

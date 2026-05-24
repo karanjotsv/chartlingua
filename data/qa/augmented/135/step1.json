@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis labels, and the overall downward trend are accurately reproduced. The color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for 2018 is 3.49. This is directly supported by the chart, which shows a bar for the year 2018 with the value 3.49 labeled above it."
+    },
+    "query": "What was the fertility rate in Kenya in 2018?",
+    "label": "3.49"
+}

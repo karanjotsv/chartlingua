@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'The bulk of' is an excellent equivalent for 'Most', and the rest of the sentence is identical or trivially different without altering meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content shows excellent semantic equivalence. Minor differences include synonymous country names ('U.S.' to 'USA', 'U.K.' to 'United Kingdom'), a singular/plural variation in the title ('disagreement' to 'disagreements'), and the use of a very close synonym ('major threat' to 'serious threat'), none of which alter the core meaning or introduce ambiguity. Capitalization in legend entries is a stylistic choice."
+    },
+    "claim": " The bulk of current US governors were born outside of the United States.",
+    "translated_claim": "Большинство нынешних губернаторов США родились за пределами Соединенных Штатов."
+}

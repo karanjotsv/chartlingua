@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has severe data integrity issues. A large number of countries from the original chart are missing (e.g., Luxembourg, Belgium, New Zealand, Canada). Furthermore, the data values for the countries that are present are mostly incorrect, as they have been assigned values belonging to other countries from the original chart, completely distorting the ranking and the information conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the hourly minimum wage of Canada, but Canada is not listed as one of the countries in the provided chart. Therefore, the chart does not contain the necessary information to support this claim."
+    },
+    "claim": "The value of Canada country Hourly minimum wages is higher than Netherland.",
+    "label": false
+}

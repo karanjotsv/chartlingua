@@ -1,0 +1,58 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Independent",
+            "Democrat",
+            "Republican",
+            "TOTAL"
+        ],
+        "series": [
+            {
+                "name": "Dezaprobă",
+                "data": [
+                    57,
+                    48,
+                    56,
+                    54
+                ],
+                "text": [
+                    "57",
+                    "48",
+                    "56",
+                    "54%"
+                ]
+            },
+            {
+                "name": "Aprobă",
+                "data": [
+                    39,
+                    47,
+                    41,
+                    42
+                ],
+                "text": [
+                    "39",
+                    "47",
+                    "41",
+                    "42%"
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Opiniile americanilor despre supravegherea NSA",
+        "subtitle": "% dintre cei care __ colectarea datelor telefonice și de internet de către guvern",
+        "source": "Sursă: Sondaj de Tipologie Politică, primăvara 2014",
+        "note": "Notă: Răspunsurile „Nu știu/Refuz” nu sunt afișate.",
+        "logo": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Dezaprobă",
+            "Aprobă"
+        ]
+    },
+    "colors": [
+        "#C9A845",
+        "#E4D3A1"
+    ]
+}

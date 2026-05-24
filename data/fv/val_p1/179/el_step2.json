@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Clocks in at over 60' is semantically equivalent to 'exceeds 60'. The decimal separator change (comma to dot) is a stylistic/regional difference and does not alter the numerical value."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, axis labels, and curve names are semantically equivalent. The main difference is the change from 'when mixing' to 'during the mixing' in the title (stylistic) and the use of a period vs. comma for decimal separators in the subtitle (locale-specific). A minor inaccuracy is present in one curve name, where 'Red Dotted Line' was back-translated as 'Red Dashed Line', despite its 'line_style' remaining 'dot'."
+    },
+    "claim": "Mixing at time t = 0 (k = 0,025) temperature clocks in at over 60.",
+    "translated_claim": "Ανάμιξη τη χρονική στιγμή t = 0 (k = 0,025) η θερμοκρασία ξεπερνά τους 60."
+}

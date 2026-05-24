@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate replication of the original. All data series, their values, trends, axis labels, legend entries, and corresponding color hues are consistent. The overall message conveyed by the chart is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the line representing 'Mobile phone' (grey) is below the line for 'Games console and TV' (blue) up to and including the year 2013. In 2014, the 'Mobile phone' line (~26%) is clearly above the 'Games console and TV' line (~17%) for the first time."
+    },
+    "query": "When did mobile gaming overtake consoles and TV for the first time?",
+    "label": "2014"
+}

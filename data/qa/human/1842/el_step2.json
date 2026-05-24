@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The omission of 'color' is a stylistic improvement and does not alter the core meaning of identifying the country by the blue line."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON texts maintain excellent semantic equivalence. Differences are limited to synonymous words ('spending' vs 'expenditure'), regional spelling variations ('labour' vs 'labor', 'programmes' vs 'programs'), and minor capitalization changes, none of which alter the core meaning."
+    },
+    "query": "Which country is represented by blue color line?",
+    "translated_query": "Ποια χώρα αντιπροσωπεύεται από τη μπλε γραμμή;",
+    "label": "Belgium",
+    "translated_label": "Βέλγιο"
+}

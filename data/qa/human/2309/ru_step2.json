@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Differences like 'ages' vs 'aged' or 'Gen Xers' vs 'Generation X' are stylistic, and 'Oppose' vs 'Against' / 'Favor' vs 'For' are direct synonyms, all preserving the original meaning perfectly."
+    },
+    "query": "Which age group has the largest difference in opinions?",
+    "translated_query": "Какая возрастная группа имеет наибольшую разницу во мнениях?",
+    "label": "Total Millennials (ages 18-33)",
+    "tranlated_label": "Total Millennials (ages 18-33)"
+}

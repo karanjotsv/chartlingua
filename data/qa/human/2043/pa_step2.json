@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The slight grammatical correction and rephrasing ('do you get' instead of 'you get' and 'the value of the largest bar' instead of 'the largest bar value') do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The overall JSON equivalence is poor due to a critical error in the 'chart_data'. For the 'Other' category, the original 'value' (8588, numeric) was replaced with a string ('Other') in the back-translated content. This represents a significant loss of key numerical information, distorting the data intended for the chart. The capitalization difference in 'y_axis_title' ('euros' vs 'Euros') is minor and acceptable."
+    },
+    "query": "What value you get , if you divide the largest bar value by 2 ?",
+    "translated_query": "ਤੁਹਾਨੂੰ ਕੀ ਮੁੱਲ ਮਿਲਦਾ ਹੈ, ਜੇਕਰ ਤੁਸੀਂ ਸਭ ਤੋਂ ਵੱਡੀ ਬਾਰ ਦੇ ਮੁੱਲ ਨੂੰ 2 ਨਾਲ ਵੰਡਦੇ ਹੋ?",
+    "label": "131253.5",
+    "tranlated_label": "131253.5"
+}

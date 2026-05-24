@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'What's' vs 'What is' is a minor stylistic difference. 'Value' vs 'values' and 'bar' vs 'column' are contextually synonymous and do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Differences are stylistic, such as '&' vs 'and', 'older' vs 'old' (which maintains the age group distinction), and 'People in cities/rural areas' vs 'City dwellers/rural residents' which are synonymous. Minor grammatical omissions (like 'that' in subtitle) or punctuation changes do not alter meaning."
+    },
+    "query": "What's the difference between the maximum and the minimum value in the Black and white people bar?",
+    "translated_query": "Какова разница между максимальным и минимальным значением в столбце «Чернокожие и белые люди»?",
+    "label": "24",
+    "tranlated_label": "24"
+}

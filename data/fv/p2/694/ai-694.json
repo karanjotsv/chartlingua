@@ -1,0 +1,46 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "HYDRO",
+            "value": 44
+        },
+        {
+            "label": "GEO",
+            "value": 3
+        },
+        {
+            "label": "SOLAR",
+            "value": 6
+        },
+        {
+            "label": "BIO",
+            "value": 10
+        },
+        {
+            "label": "WIND",
+            "value": 37
+        }
+    ],
+    "texts": {
+        "title": "2016 SOURCE OF US RENEWABLE<br>ELECTRIC ENERGY 609.44 G KWH",
+        "subtitle": null,
+        "source": null
+    },
+    "colors": {
+        "slices": [
+            "#5B9BD5",
+            "#4472C4",
+            "#FFC000",
+            "#A5A5A5",
+            "#ED7D31"
+        ],
+        "texts": [
+            "#5B9BD5",
+            "#4472C4",
+            "#E0A800",
+            "#333333",
+            "#ED7D31"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Nuclear",
+            "value": 19
+        },
+        {
+            "label": "Gas",
+            "value": 10
+        },
+        {
+            "label": "Other",
+            "value": 2
+        },
+        {
+            "label": "Hydro",
+            "value": 36
+        },
+        {
+            "label": "Coal",
+            "value": 33
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source_note": null,
+        "data_labels": [
+            "Nuclear<br>19%",
+            "Gas<br>10%",
+            "Other<br>2%",
+            "Hydro<br>36%",
+            "Coal<br>33%"
+        ]
+    },
+    "colors": {
+        "slices": [
+            "#F76867",
+            "#E4A6DE",
+            "#D1CDCE",
+            "#367C94",
+            "#7B472D"
+        ],
+        "text": [
+            "#FFFFFF",
+            "#2F1B25",
+            "#2F1B25",
+            "#FFFFFF",
+            "#FFFFFF"
+        ]
+    }
+}

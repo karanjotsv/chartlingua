@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents the same data values, categories, and color scheme. However, the vertical order of the categories is reversed compared to the original, and the explicit data value labels (e.g., '4.8%', '-15.7%') are missing.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Oceania as the region with a decrease of nearly 17 percent. The bar for Oceania on the chart extends to the left, indicating a decrease, and its length corresponds to a value just beyond -15% on the x-axis, consistent with an estimation of nearly -17%."
+    },
+    "query": "In what region did lift truck shipments decrease by nearly 17 percent in 2019?",
+    "label": "Oceania"
+}

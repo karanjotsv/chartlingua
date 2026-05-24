@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The phrases 'image load mean time' and 'Image Load Average Time' are synonymous, as are the verbs 'mentioned' and 'showed' in this context. The core information is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most text elements like the title, subtitle, and source are preserved with only minor stylistic variations, there's a significant semantic change in the x-axis categories where 'Jan 12' was changed to 'Sun 12'. This alters a key data label from a month to a day of the week. Additionally, 'meantime' in the series names was consistently changed to 'Average Time', which, while a reasonable interpretation, is still a change from the original term."
+    },
+    "claim": "The image load mean time mentioned the maximum viewers were 4.00 k.",
+    "translated_claim": "इमेज लोड औसत समय में बताया गया कि अधिकतम दर्शक 4.00 k थे।"
+}

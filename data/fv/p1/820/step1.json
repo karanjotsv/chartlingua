@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trend, axis values, title, axis labels, and color hue are all consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The line chart clearly shows a long-term upward trend in yearly attendance for MLB games from 1900 to after 2000. The attendance values start near 0 million and rise to over 700 million, directly contradicting the claim that attendance has decreased over time."
+    },
+    "claim": "The total yearly attendance at Major League Baseball games has decreased over time.\n",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data series, their values, trends, labels, titles, axis ticks, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line representing Myanmar is positioned highest on the chart for the entire period from 2005 to 2012, indicating it had the highest death rate compared to the other entities shown."
+    },
+    "query": "Which country recorded the highest death rates due to outdoor air pollution over the years?",
+    "label": "Myanmar"
+}

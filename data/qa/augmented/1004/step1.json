@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and colors are accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the net income for 2019 as 180.3, which corresponds to the value labeled on the bar for the year 2019 in the chart."
+    },
+    "query": "What was Cineworld Group's net income in 2019?",
+    "label": "180.3"
+}

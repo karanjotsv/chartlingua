@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, and series. The title, axis labels, legend text, and color assignments are all identical to the original, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a 'majority' of students received a score of 5. A majority means over 50%. The chart's y-axis represents percentages, and for every year shown, the bar for 'Score 5' is consistently below 25%, which is far from the 50% needed to constitute a majority."
+    },
+    "claim": " The majority of students who took the AP Latin exam received a score of 5",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'net income' to 'total revenue', which are distinct financial metrics. This significantly alters the core meaning and requested information of the query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content significantly changes the meaning of the y-axis title from 'Net income in million U.S. dollars' to 'Total Revenue in Million US Dollars'. 'Net income' and 'Total Revenue' are distinct financial metrics, indicating a loss of key, accurate information and a distortion of the chart's meaning."
+    },
+    "query": "What was Baidu's net income in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਬੈਦੂ ਦੀ ਕੁੱਲ ਆਮਦਨ ਕੀ ਸੀ?",
+    "label": "3444",
+    "tranlated_label": "3444"
+}

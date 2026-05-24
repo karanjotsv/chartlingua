@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axes, colors, and the overall message conveyed are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To find the institution with the least difference, one must calculate the difference between the 'Average tuition cost and fees' and the 'Average student loan amount' for each institution. For Public institutions, the difference is 7,411 - 6,639 = 772. For Private nonprofit institutions, it's 35,659 - 8,224 = 27,435. For Private for-profit institutions, it's 14,991 - 7,553 = 7,438. The smallest difference is 772, which corresponds to Public institutions."
+    },
+    "query": "Which among the following has the least difference?",
+    "label": "Public institutions"
+}

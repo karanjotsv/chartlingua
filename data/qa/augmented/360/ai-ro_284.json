@@ -1,0 +1,73 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Lhotse (461)",
+            "Gasherbrum II (930)",
+            "Broad Peak (404)",
+            "Shisha Pangma (302)",
+            "Gasherbrum (334)",
+            "Makalu I (361)",
+            "Kangchenjunga (Kantian) (283)",
+            "Cho Oyu (3138)",
+            "Annapurna I (191)",
+            "Manaslu (661)",
+            "Nanga Parbat (Diamir) (335)",
+            "Dhaulagiri (408)",
+            "Muntele Godwin Austen (K2) (306)",
+            "Muntele Everest (5656)"
+        ],
+        "series": [
+            {
+                "name": "Decese la urcare",
+                "values": [
+                    10,
+                    16,
+                    16,
+                    22,
+                    22,
+                    18,
+                    32,
+                    34,
+                    52,
+                    60,
+                    61,
+                    61,
+                    50,
+                    165
+                ]
+            },
+            {
+                "name": "Decese la coborâre",
+                "values": [
+                    3,
+                    5,
+                    5,
+                    3,
+                    7,
+                    13,
+                    8,
+                    10,
+                    9,
+                    5,
+                    7,
+                    8,
+                    31,
+                    58
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Număr de decese",
+        "y_axis_title": "Numărul de ascensiuni reușite este dat în paranteze",
+        "source": "© Statista 2021",
+        "notes": null
+    },
+    "colors": [
+        "#2672C4",
+        "#1E2A3A"
+    ]
+}

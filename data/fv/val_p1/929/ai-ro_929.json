@@ -1,0 +1,71 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": "GEORGE (6/1/52)",
+            "y": 0.07
+        },
+        {
+            "x": "*SEDAN (7/6/62)",
+            "y": 0.069
+        },
+        {
+            "x": "SIMON (4/25/53)",
+            "y": 0.055
+        },
+        {
+            "x": "HARRY (5/19/53)",
+            "y": 0.054
+        },
+        {
+            "x": "CHARLIE (10/30/51)",
+            "y": 0.053
+        },
+        {
+            "x": "DIABLO (7/15/57)",
+            "y": 0.041
+        },
+        {
+            "x": "ANNIE (3/17/53)",
+            "y": 0.038
+        },
+        {
+            "x": "APPLE2 (5/5/55)",
+            "y": 0.034
+        },
+        {
+            "x": "MET (4/15/55)",
+            "y": 0.032
+        },
+        {
+            "x": "HOOD (7/5/57)",
+            "y": 0.03
+        }
+    ],
+    "texts": {
+        "title": "Top zece teste NTS care contribuie la<br>expunerea populației la radiații",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Procentaj din expunerea totală la radiații a populației<br>datorat testelor NTS",
+        "source": null,
+        "note": "*Valoarea pentru Sedan este mult mai nesigură decât pentru celelalte teste"
+    },
+    "colors": {
+        "bar_colors": [
+            "#9394FF",
+            "#00FF00",
+            "#9394FF",
+            "#9394FF",
+            "#9394FF",
+            "#9394FF",
+            "#9394FF",
+            "#9394FF",
+            "#9394FF",
+            "#9394FF"
+        ],
+        "plot_bgcolor": "#C0C0C0",
+        "grid_color": "#FFFFFF",
+        "paper_bgcolor": "#FFFFFF",
+        "bar_border_color": "#000000"
+    }
+}

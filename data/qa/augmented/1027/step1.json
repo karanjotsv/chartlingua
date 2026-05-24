@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent. The core information is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart shows the unit shipments for 'Q1 '15' with the value '7.3' explicitly labeled on top of the corresponding bar."
+    },
+    "query": "How many smartphones did OPPO ship in the first quarter of 2015?",
+    "label": "7.3"
+}

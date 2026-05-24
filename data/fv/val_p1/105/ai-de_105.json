@@ -1,0 +1,82 @@
+{
+    "chart_type": "dual_horizontal_bar",
+    "chart_data": {
+        "main_chart": {
+            "categories": [
+                "Aus- & Weiterbildung,<br>Personalbeschaffung",
+                "Verbände",
+                "Informationstechnologie",
+                "Wirtschaftsregionen & Kommunen",
+                "Bauwirtschaft",
+                "Facility-Management-Dienstleistungen",
+                "Unternehmensberatung, Wirtschaftsprüfung,<br>Rechtsanwalt, Steuerberater",
+                "Corporate Real Estate Management &<br>Immobilienbetreiber",
+                "Öffentlicher Sektor",
+                "Immobilienfinanzierung",
+                "Architekten, Ingenieur-, Planungsbüros",
+                "Immobilien-Projektmanagement",
+                "Immobilienberatung, Bewertung,<br>Forschung, Marketing",
+                "Immobilienverwaltung, Makler, Vermietung",
+                "Immobilieninvestment",
+                "Immobilienentwicklung/Bauträger"
+            ],
+            "values": [
+                1,
+                2,
+                2,
+                4,
+                6,
+                6,
+                6,
+                6,
+                7,
+                8,
+                10,
+                10,
+                11,
+                13,
+                16,
+                16
+            ]
+        },
+        "inset_chart": {
+            "categories": [
+                "Dienstleistung/Soziales",
+                "Freizeit",
+                "Hotel",
+                "Infrastruktur",
+                "Logistik",
+                "Industrie",
+                "Wohnen",
+                "Einzelhandel",
+                "Büro"
+            ],
+            "values": [
+                5,
+                9,
+                16,
+                19,
+                23,
+                30,
+                39,
+                44,
+                56
+            ]
+        }
+    },
+    "texts": {
+        "title": "Besucherstruktur 2010",
+        "subtitle": "Besucheranteil",
+        "source": "Quelle: EXPO REAL Messeleitung / Gelszus",
+        "footer_left": "Mehrfachnennungen möglich",
+        "inset_title": "<b>Davon:</b>"
+    },
+    "colors": {
+        "bars": "#d7191c",
+        "lines": "#a9a9a9",
+        "background": "#ffffff",
+        "grid": "#f0f0f0",
+        "text_light": "#ffffff",
+        "text_dark": "#000000"
+    }
+}

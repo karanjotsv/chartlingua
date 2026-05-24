@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart preserves the overall message, text annotations, and color scheme. However, the data is a noticeably lower-resolution representation of the original; the main line chart is very jagged and simplified, losing much of the detail. Additionally, a data feature (a spike around 1995 in the bottom chart) is missing entirely in the rendered version.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states incorrect time periods for the equity investment phases. The chart visually represents the first 'Equity investment' phase from approximately mid-1995 to early 2000, not 1990 to 1998. The second phase is shown from roughly mid-2003 to mid-2008, not 2007 to 2009."
+    },
+    "claim": "The chart shows two phases of equity investments, from 1990 to 1998 and from 2007 to 2009.",
+    "label": "FALSE"
+}

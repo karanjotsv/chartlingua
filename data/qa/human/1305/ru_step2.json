@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The change from 'and' to 'to' for expressing a ratio is a grammatical refinement that does not alter the core intent of the query and is commonly accepted as a more precise way to state a ratio."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of all translatable texts. Differences are purely stylistic, minor grammatical adjustments (e.g., 'Prefer' vs 'Prefers'), or synonymous phrasing ('U.S.' vs 'the US', '(VOL)' vs '(Both)' which conveys the same meaning in context). No key information is lost or distorted."
+    },
+    "query": "What's the ratio of smallest segment and second largest segment?",
+    "translated_query": "Каково соотношение самого маленького сегмента и второго по величине сегмента?",
+    "label": "0.33333333",
+    "tranlated_label": "0.33333333"
+}

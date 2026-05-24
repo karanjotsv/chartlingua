@@ -1,0 +1,125 @@
+{
+    "chart_type": "stacked_bar_100",
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "उत्तरदाताओं का हिस्सा",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "chart_data": {
+        "categories": [
+            "Jimmy Fallon",
+            "Jimmy Kimmel",
+            "Stephen Colbert",
+            "James Corden",
+            "Conan O'Brien",
+            "Trevor Noah",
+            "Seth Meyers",
+            "Bill Maher",
+            "John Oliver",
+            "Carson Daly"
+        ],
+        "series": [
+            {
+                "name": "बहुत अनुकूल",
+                "values": [
+                    29,
+                    26,
+                    23,
+                    19,
+                    18,
+                    16,
+                    14,
+                    12,
+                    12,
+                    10
+                ]
+            },
+            {
+                "name": "कुछ हद तक अनुकूल",
+                "values": [
+                    29,
+                    30,
+                    21,
+                    21,
+                    30,
+                    14,
+                    26,
+                    17,
+                    14,
+                    26
+                ]
+            },
+            {
+                "name": "कुछ हद तक प्रतिकूल",
+                "values": [
+                    8,
+                    8,
+                    9,
+                    6,
+                    11,
+                    7,
+                    8,
+                    8,
+                    5,
+                    9
+                ]
+            },
+            {
+                "name": "बहुत प्रतिकूल",
+                "values": [
+                    10,
+                    12,
+                    14,
+                    5,
+                    11,
+                    8,
+                    8,
+                    16,
+                    6,
+                    6
+                ]
+            },
+            {
+                "name": "सुना है, कोई राय नहीं",
+                "values": [
+                    18,
+                    19,
+                    21,
+                    20,
+                    23,
+                    18,
+                    26,
+                    27,
+                    21,
+                    31
+                ]
+            },
+            {
+                "name": "कभी नहीं सुना",
+                "values": [
+                    5,
+                    5,
+                    13,
+                    29,
+                    7,
+                    37,
+                    17,
+                    20,
+                    41,
+                    18
+                ]
+            }
+        ]
+    },
+    "colors": [
+        "#267fca",
+        "#143049",
+        "#c4c4c4",
+        "#a4201e",
+        "#8ac043",
+        "#f2b736"
+    ]
+}

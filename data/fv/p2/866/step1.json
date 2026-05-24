@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. All data categories, values, and labels are identical. The color hues are also consistent (orange for Firefox, shades of blue for others). The overall message is exactly the same, despite a minor stylistic difference in the ordering of slices and the explosion of one slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data about web browser market share (e.g., Internet Explorer, Google Chrome, Mozilla Firefox). The claim is about HIV/AIDS statistics among different demographic groups. The chart contains no information related to the claim's subject matter."
+    },
+    "claim": "More Black people are living with HIV/AIDS in the US than any other demographic group. ",
+    "label": "TRUE"
+}

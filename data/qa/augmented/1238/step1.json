@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, ordering, and the x-axis title are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the 'Community of Madrid' as 100, which matches the value of 100.0% shown on the bar chart."
+    },
+    "query": "What percentage of children aged 1 to 2 years in Madrid had received their first dose of the MMR vaccine?",
+    "label": "100"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent reproduction of the original. It accurately represents the data proportions and all text content. It also intelligently corrects several inconsistencies in the original chart's legend-to-color mapping, making it a clearer and more accurate representation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart visually shows that the slice representing 'Prairie poorly drained' (light orange) is substantially larger than the combined area of the slices for 'Mixed Hardwoods - Prairie' (red), 'Mixed Hardwoods - Prairie poorly drained' (pink), and 'Water / Wet Soils / Gravel Pits' (blue). As their sizes are clearly different, the claim that they are not equal is supported."
+    },
+    "claim": "The total size of mixed hardwoods and water is not equal with prairie poorly drained",
+    "label": "TRUE"
+}

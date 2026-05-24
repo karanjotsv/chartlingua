@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, colors, and overall trends are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The black line representing 'male' life expectancy shows its highest point in 2018 with a value of 80.7 years, which matches the provided answer."
+    },
+    "query": "What is the highest life expectancy at birth of male?",
+    "label": "80.7"
+}

@@ -1,0 +1,56 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Scheinen offensichtlich<br>falsch oder unwahr",
+            "Zeigen Menschen<br>bei gefährlichem<br>oder beunruhigendem<br>Verhalten",
+            "Sind beleidigend<br>oder erniedrigend<br>gegenüber anderen"
+        ],
+        "series": [
+            {
+                "name": "Häufig",
+                "values": [
+                    15,
+                    19,
+                    11
+                ]
+            },
+            {
+                "name": "Manchmal",
+                "values": [
+                    48,
+                    42,
+                    32
+                ]
+            },
+            {
+                "name": "Selten",
+                "values": [
+                    23,
+                    25,
+                    37
+                ]
+            },
+            {
+                "name": "Nie",
+                "values": [
+                    12,
+                    14,
+                    19
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<b>Die Mehrheit der YouTube-Nutzer stößt auf Videos, die<br>falsch/unwahr erscheinen oder Menschen bei gefährlichen Dingen zeigen</b>",
+        "subtitle": "% der erwachsenen US-Bürger, die YouTube nutzen, die ___ Videos auf der Seite bemerken,<br>die ...",
+        "source": "Hinweis: Befragte, die keine Antwort gaben, werden nicht angezeigt.<br>Quelle: Umfrage unter erwachsenen US-Bürgern, durchgeführt vom 29. Mai bis 11. Juni 2018.<br>“Many Turn to YouTube for Children’s Content, News, How-To Lessons”",
+        "footer": "<b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#2f5597",
+        "#5b9bd5",
+        "#d6e3f3",
+        "#d9d9d9"
+    ]
+}

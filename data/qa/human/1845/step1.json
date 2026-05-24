@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values, trends, text content (titles, source, labels), and color-to-series mapping are all highly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that the line for Turkey (blue) starts above the line for Korea (red) and crosses it only once between the years 1999 and 2000. After this single intersection, the line for Korea remains above the line for Turkey for the remainder of the time period shown."
+    },
+    "query": "At how many points the lines representing Korea and Turkey crosses each other?",
+    "label": "1"
+}

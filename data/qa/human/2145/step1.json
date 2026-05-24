@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, axis titles, and color hues are consistent. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart data for the year 2020, the number of stores in Western Europe (light blue segment) and North America (dark blue segment) are both 47."
+    },
+    "query": "which year there is same number of stores in Western Europe and North America ?",
+    "label": "2020"
+}

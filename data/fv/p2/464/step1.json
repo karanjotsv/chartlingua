@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has significant data inconsistencies. While the values for the three largest bars are approximately correct, the values for the smaller categories are wrong. The 'Retail & Handicrafts' bar is ~6 in the original but 3 in the rendered chart. Furthermore, the rendered chart's legend does not match its data: 'Capitalists, Professionals' is listed in the legend but not plotted, and an extra, unlabeled bar (light purple) has been added.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has a duplicated x-axis title ('Occupation'). More significantly, the legend is inconsistent with the plotted data, as one series is present in the legend but not on the chart, and an unlabeled bar is plotted on the chart but not in the legend."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Agricultural Labourers constitute the lowest rate. However, the bar chart shows that Agricultural Labourers (the red bar) have the highest value, approximately 26. The lowest value on the chart belongs to Labourers (non-agricultural), which is the orange bar with a value of approximately 2. Additionally, the claim incorrectly identifies the chart as a pie chart when it is a bar chart."
+    },
+    "claim": "Agricultre laborers constitute lowest rate in the pie chart. So the claim is true.",
+    "label": "FALSE"
+}

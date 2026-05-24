@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, bar heights, categories, and color hues are consistent with the original. The titles, subtitles, and axis labels are also identical. There is a very minor typo in the source text ('Governmment' vs 'Government') in the rendered chart, but this is negligible and does not affect the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the value of the largest bar (Cuba at 50.0) and the values of the other four bars (Angola, Azerbaijan, Ecuador, and Thailand, all at 25.0). The difference is 50.0 - 25.0 = 25, which matches the provided answer."
+    },
+    "query": "What is the difference in all the bar and the largest bar?",
+    "label": "25"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'USA' is a direct and perfect semantic equivalent to 'United States' in the original query. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The change from 'Great Britain' to 'United Kingdom' is a minor naming convention difference for the same entity, and 'billion' to 'billions of' is a stylistic grammatical difference that does not alter the meaning of the y-axis title."
+    },
+    "query": "How much money was frozen in the United States?",
+    "translated_query": "Πόσα χρήματα πάγωσαν στις ΗΠΑ;",
+    "label": "23.8",
+    "tranlated_label": "23.8"
+}

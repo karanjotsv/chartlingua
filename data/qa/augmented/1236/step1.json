@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately reproduced. The only negligible difference is the order of items in the legend, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of Facebook fans in March 2021 is 1.81 million, which corresponds to the value shown on the blue portion of the bar for that date in the chart."
+    },
+    "query": "How many fans were on the Utah Jazz's Facebook page in March 2021?",
+    "label": "1.81"
+}

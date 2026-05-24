@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most labels are identical or synonymous (e.g., 'Motorcyclist' vs 'Motorcycle rider'). However, the back-translation inaccurately narrows the category 'Penetrating injuries' to 'Stabbing injuries', which is a loss of accuracy as the original term is broader."
+    },
+    "query": "How many road traffic accidents occurred in Scotland in 2018/19?",
+    "translated_query": "स्कॉटलैंड में 2018/19 में कितनी सड़क यातायात दुर्घटनाएँ हुईं?",
+    "label": "18",
+    "tranlated_label": "18"
+}

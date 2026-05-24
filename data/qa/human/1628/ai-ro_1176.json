@@ -1,0 +1,49 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Filipine",
+            "x": [
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "y": [
+                0.104,
+                0.09,
+                0.089,
+                0.099
+            ]
+        },
+        {
+            "name": "Nepal",
+            "x": [
+                1999,
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "y": [
+                0.125,
+                0.11,
+                0.135,
+                0.102,
+                0.09
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Cheltuieli guvernamentale pentru învățământul secundar pe țară, 1974-2014,<br>din 1999 până în 2003",
+        "subtitle": "Cheltuieli guvernamentale per elev ca procent din PIB pe cap de locuitor.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Sursa: Banca Mondială",
+        "note": "CC BY"
+    },
+    "colors": [
+        "#c95932",
+        "#00847e"
+    ]
+}

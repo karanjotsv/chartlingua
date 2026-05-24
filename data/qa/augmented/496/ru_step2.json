@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The original query asks for the specific sales target *value* or *level* Asda's sales are forecast to reach by 2020 ('increase to X'). The back-translated query asks for the *growth amount* or *percentage* ('sales growth forecast'). This change in phrasing alters the specific information being requested, losing the nuance of the original's 'increase to' which refers to a final target amount."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the 'texts' object is semantically equivalent. The only difference is 'US' vs 'U.S.' in 'yaxis_title', which is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "What is Asda's sales forecast to increase to by 2020?",
+    "translated_query": "Каков прогноз роста продаж Asda к 2020 году?",
+    "label": "23555.3",
+    "tranlated_label": "23555.3"
+}

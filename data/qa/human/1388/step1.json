@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text content, color hues, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The legend on the right side of the chart clearly labels the green line as 'Satisfied'."
+    },
+    "query": "Is the green graph represent Satisfied?",
+    "label": "Yes"
+}

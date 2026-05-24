@@ -1,0 +1,98 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Bestätigte Fälle",
+            "x": [
+                "2020-03-01",
+                "2020-03-20",
+                "2020-04-10",
+                "2020-05-15",
+                "2020-06-15",
+                "2020-07-15",
+                "2020-08-15",
+                "2020-09-15",
+                "2020-10-01",
+                "2020-10-15",
+                "2020-11-01",
+                "2020-11-15",
+                "2020-12-01",
+                "2020-12-15",
+                "2021-01-01",
+                "2021-01-15",
+                "2021-02-02"
+            ],
+            "y": [
+                0,
+                150,
+                376,
+                750,
+                850,
+                855,
+                900,
+                1000,
+                2050,
+                3100,
+                4800,
+                5800,
+                6700,
+                7400,
+                8049,
+                9100,
+                10017
+            ]
+        }
+    ],
+    "texts": {
+        "title": "COVID-19-Fälle in Andorra",
+        "subtitle": "Quelle: Johns Hopkins CSSE (Stand: 02. Feb. 2021)",
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl bestätigter Fälle"
+    },
+    "colors": [
+        "#1f77b4"
+    ],
+    "annotations": [
+        {
+            "x": "2020-04-10",
+            "y": 376,
+            "text": "376",
+            "xanchor": "center",
+            "yanchor": "bottom",
+            "yshift": 10
+        },
+        {
+            "x": "2020-07-15",
+            "y": 855,
+            "text": "855",
+            "xanchor": "center",
+            "yanchor": "bottom",
+            "yshift": 10
+        },
+        {
+            "x": "2020-10-01",
+            "y": 2050,
+            "text": "2,050",
+            "xanchor": "center",
+            "yanchor": "top",
+            "yshift": -10
+        },
+        {
+            "x": "2021-01-01",
+            "y": 8049,
+            "text": "8,049",
+            "xanchor": "right",
+            "yanchor": "top",
+            "xshift": -5,
+            "yshift": -10
+        },
+        {
+            "x": "2021-02-02",
+            "y": 10017,
+            "text": "10,017",
+            "xanchor": "center",
+            "yanchor": "bottom",
+            "yshift": 10
+        }
+    ]
+}

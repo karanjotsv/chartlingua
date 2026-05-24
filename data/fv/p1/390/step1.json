@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The charts are mostly consistent. The title, axis labels, categories, and overall trend are identical. However, there are minor but noticeable discrepancies in the data values represented by the bar heights. For example, the first bar in the original is around 230, while in the rendered chart it is closer to 250, and the other two bars are slightly higher in the rendered version as well.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'ACL injuries', but the chart's title clearly states that the data is about 'PCL injuries'."
+    },
+    "claim": "Above 200 people are affected by ACL injuries in the age of 18-44.",
+    "label": true
+}

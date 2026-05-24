@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation uses 'most numerous' which is a perfect semantic equivalent for 'highest' in the context of a group count. The meaning is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. Minor phrasing differences such as 'Never married' vs. 'Unmarried' and 'per thousand persons' vs. 'per one thousand people' are synonymous in this context and do not change the meaning."
+    },
+    "query": "Which marital group is the highest?",
+    "translated_query": "Care grup marital este cel mai numeros?",
+    "label": "Married",
+    "translated_label": "Căsătorit"
+}

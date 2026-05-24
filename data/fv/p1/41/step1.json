@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart type, title, axis labels, and color scheme are consistent. However, there are multiple noticeable discrepancies in the data values. For example, the 'Male' bar for 'Skilled Trades Occupation' is significantly longer in the rendered chart compared to the original, while the 'Male' bar for 'Managers, Directors and Senior Officials' is shorter. These inaccuracies alter the specific proportions and detailed interpretation of the data, even though the overall trends are similar.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that in 'Professional Occupations', the value for 'Female' (orange bar, approximately 32) is higher than the value for 'Male' (blue bar, approximately 28), directly contradicting the claim."
+    },
+    "claim": "More men worked in professional occupations than women in 2011.",
+    "label": false
+}

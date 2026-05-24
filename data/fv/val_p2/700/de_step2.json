@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The phrases 'above 1500' and 'over 1500' are synonymous, and the reordering of the phrase 'in this chart' is a minor stylistic change that does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation changes the data series name from 'Edits' to 'Processing'. These terms are not semantically equivalent, leading to a significant distortion of the chart's subject matter."
+    },
+    "claim": "The value of C19orf67 protein abundance is above 1500 in this chart.",
+    "translated_claim": "Der Wert der C19orf67-Proteinabundanz liegt in diesem Diagramm über 1500."
+}

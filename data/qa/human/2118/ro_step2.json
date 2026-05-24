@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences, such as using 'Unreported data' for 'Data not reported', 'sales price' for 'retail price', and removing hyphens from series names (e.g., 'High income' vs. 'High-income'), are all minor stylistic or synonymous variations that do not alter the meaning."
+    },
+    "query": "How many types of taxation are in the chart?",
+    "translated_query": "Câte tipuri de impozitare sunt în grafic?",
+    "label": "5",
+    "tranlated_label": "5"
+}

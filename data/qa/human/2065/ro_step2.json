@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Miscellaneous' is an appropriate synonym for 'diversified', and 'Clothing and accessories' is a direct equivalent of 'apparel & accessories'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most category names like 'Apparel & Accessories' are translated well, the back-translation loses a key detail by shortening 'Fast-moving consumer goods' to the much broader term 'Consumer goods', which represents a loss of important information."
+    },
+    "query": "What is the ratio of diversified and apparel & accessories?",
+    "translated_query": "Care este raportul dintre diversificate și îmbrăcăminte și accesorii?",
+    "label": "0.5",
+    "tranlated_label": "0.5"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, the main title, and color hues are identical to the original. The overall message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Sony Ericsson is the smallest manufacturer listed, but the chart shows that both Motorola and LG Electronics have a smaller market share (8%) compared to Sony Ericsson's 9%."
+    },
+    "claim": "Sony Ericsson is the smallest manufacturer of the manufacturers listed.",
+    "label": false
+}

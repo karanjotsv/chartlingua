@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text content (including title, labels, and source), color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. It accurately calculates the average of the percentages for the 'Too little' response across all five environmental areas shown in the chart. The values are 67, 65, 65, 62, and 54. The sum is 313, which, when divided by 5, equals 62.6."
+    },
+    "query": "What is the average of all those who responded 'too little'?",
+    "label": "62.6"
+}

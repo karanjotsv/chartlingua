@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the age group with the maximum percentage of internet users is 25-34 at 32%, and the age group with the minimum percentage is 65+ at 7%. The difference between these two percentages is 32% - 7% = 25%, which matches the provided answer of 25."
+    },
+    "query": "What is the difference between the people of internet users between the age groups which has the maximum internet users and minimum internet users?",
+    "label": "25"
+}

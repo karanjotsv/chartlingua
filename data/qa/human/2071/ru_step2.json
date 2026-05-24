@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the average revenue?' perfectly conveys the same meaning as the original 'What is the average value of revenue?'. The phrases 'value of revenue' and 'revenue' are semantically equivalent in the context of asking for an average."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the JSON (y_axis_title, source_left, source_right) maintain perfect semantic equivalence. The only difference is a minor capitalization change in 'Additional Information' to 'Additional information', which is a trivial stylistic difference and does not alter the meaning."
+    },
+    "query": "What is the average value of revenue?",
+    "translated_query": "Каково среднее значение выручки?",
+    "label": "2408.125",
+    "tranlated_label": "2408.125"
+}

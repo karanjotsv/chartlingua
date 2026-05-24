@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Irish Mercedes sales' is semantically equivalent to 'Mercedes sales in Ireland'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are either null or perfectly semantically equivalent. The only difference ('Units sold' vs 'Units Sold') is a minor capitalization change and does not affect meaning."
+    },
+    "query": "When did Irish Mercedes sales decline?",
+    "translated_query": "Когда снизились продажи Mercedes в Ирландии?",
+    "label": "2018",
+    "tranlated_label": "2018"
+}

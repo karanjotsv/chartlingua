@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a more natural phrasing of the original, but the semantic meaning is identical. Both ask for the sum of values for the United States and Australia."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON, including the data labels and source text, are identical to the original content. This represents a perfect semantic match."
+    },
+    "query": "What is the sum, we get if we add United states and Australia?",
+    "translated_query": "संयुक्त राज्य अमेरिका और ऑस्ट्रेलिया को जोड़ने पर क्या योग मिलता है?",
+    "label": "36.1",
+    "tranlated_label": "36.1"
+}

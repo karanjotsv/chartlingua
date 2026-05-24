@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart accurately reproduces all data values, categories, text content (title, source), and primary color hues from the original. The overall message is identical. The use of a legend instead of callout lines for smaller slices is a stylistic change that does not alter the semantic meaning.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart title is clipped on the left, showing 'LOBAL' instead of 'GLOBAL'."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that South America's soybean meal consumption is 12%, while Southeast Asia's is 8%. Since 12% is greater than 8%, the claim is supported by the data."
+    },
+    "claim": "Soybean meals are consumed more in South America than in Southeast Asia",
+    "label": "TRUE"
+}

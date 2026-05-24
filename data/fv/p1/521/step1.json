@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While most categories and the overall structure are correct, there is a significant data error where the 'Males' and 'Females' values for 'Associate Professional and Technical Occupations' have been swapped. There are also other minor value discrepancies in categories like 'Caring, Leisure and Other Service Occupations'.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that for the 'Administrative and Secretarial Occupations' category, the bar representing Females extends to a value over 40, while the bar for Males is just over 10. This visually confirms that there is a substantially larger number of female workers than male workers in this occupation."
+    },
+    "claim": "In the section of Administrative and secretarial Occupation, there are bulk female workers than male.",
+    "label": true
+}

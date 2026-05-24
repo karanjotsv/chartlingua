@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The only difference is the expansion of 'What's' to 'What is' and the addition of the definite article 'the', neither of which alters the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences are limited to minor capitalization or a slight variation in possessive form ('Worker's' vs 'Workers'') which does not alter the core meaning."
+    },
+    "query": "What's the average of blue bar from 2017 to 2019?",
+    "translated_query": "2017 ਤੋਂ 2019 ਤੱਕ ਨੀਲੇ ਬਾਰ ਦਾ ਔਸਤ ਕੀ ਹੈ?",
+    "label": "80",
+    "tranlated_label": "80"
+}

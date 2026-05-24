@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (63%, 19%, 19%, 0%), labels, titles, and color hues (green, blue, red) are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the proportion for 'Program run by experienced Program Leader' was the smallest, but the chart clearly shows it has the largest proportion at 63%."
+    },
+    "claim": "Program run by experienced program leader reported the smallest proportion of editing workshops.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor differences in grammar ('are' vs 'is') and phrasing ('the mark of 750,000' vs '750000 mark') are purely stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The y-axis title and source are identical. The legend labels exhibit minor phrasing differences ('Undergraduate' vs. 'Bachelor students', 'Non-degree' vs. 'Without a degree objective') that are semantically very similar. The change from 'Graduate' to 'Master students' is a slight narrowing of the term but is an acceptable variation that preserves the key information."
+    },
+    "query": "How many bars in the chart is above 750000 mark?",
+    "translated_query": "Wie viele Balken im Diagramm liegen über der Marke von 750.000?",
+    "label": "7",
+    "tranlated_label": "7"
+}

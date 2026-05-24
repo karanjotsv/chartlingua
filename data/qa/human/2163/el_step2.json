@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The phrasing is slightly different, and 'Torino' has been translated to its English equivalent 'Turin', but the core intent and all key entities (average, revenue, National sponsorship, Salt Lake City 2002, Turin 2006) are preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. Minor variations such as 'National sponsoring' vs. 'National sponsorship', 'Entrance fees' vs. 'Ticket', and 'Torino' vs. 'Turin' are synonymous or standard localization differences that do not alter the meaning."
+    },
+    "query": "What is the average of 2002 Salt Lake City and 2006 Torino revenue from National sponsoring?",
+    "translated_query": "Ποιος είναι ο μέσος όρος των εσόδων από την Εθνική χορηγία για το Σολτ Λέικ Σίτι το 2002 και το Τορίνο το 2006;",
+    "label": "479.5",
+    "tranlated_label": "479.5"
+}

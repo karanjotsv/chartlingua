@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation changes a critical proper noun, 'Flowton' to 'Flaxton', which distorts the key information regarding the location. While 'note difference' was corrected to 'notable difference', this minor improvement does not outweigh the significant factual error in the location."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall content generally conveys the main meaning. Most labels are semantically equivalent or have acceptable stylistic variations (e.g., 'Male' to 'Men', 'Lodging' to 'Accommodation'). However, a notable semantic shift occurs in one x-axis label: 'DOMESTIC OFFICES OR SERVICES' became 'DOMESTIC SERVICES OR UTILITIES'. The word 'OFFICES' (potentially referring to duties or positions) was inaccurately translated to 'UTILITIES', which has a distinct and different meaning, leading to a loss of accuracy for that specific category."
+    },
+    "claim": "There is a note difference in the occupations of male and female residents in Flowton in 1881.",
+    "translated_claim": "Существует заметная разница в занятиях мужчин и женщин-резидентов во Флаутоне в 1881 году."
+}

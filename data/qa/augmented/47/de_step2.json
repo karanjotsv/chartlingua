@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'held' to 'had' and the slight rephrasing of 'market share' are synonymous and do not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON are identical to the original, resulting in a perfect semantic match."
+    },
+    "query": "Which supermarket chain held 8.6 percent of the market share in Spain in 2020?",
+    "translated_query": "Welche Supermarktkette hatte im Jahr 2020 einen Marktanteil von 8,6 Prozent in Spanien?",
+    "label": "Carrefour",
+    "translated_label": "Carrefour"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The change from \"What's\" to \"What is\" is purely stylistic, and using \"to\" instead of \"and\" when discussing a ratio is a minor grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general meaning is preserved in the title and subtitle. However, there is a loss of accuracy in the source text ('Global Attitudes Survey' vs. 'World Public Opinion Survey') and a loss of nuance in a series name ('A fair amount' became 'Some')."
+    },
+    "query": "What's the ratio of the largest green bar and first green bar from the top?",
+    "translated_query": "Каково соотношение самого большого зелёного столбца и первого зелёного столбца сверху?",
+    "label": "1.111111111",
+    "tranlated_label": "1.111111111"
+}

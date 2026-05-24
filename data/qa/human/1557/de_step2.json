@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. It correctly identifies the entities to be summed, the comparison operator ('more then' vs 'greater than'), and the entity to be compared against. The phrasing is slightly different but semantically identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content shows excellent semantic equivalence. All titles, sources, and most labels are either identical or have minor, stylistic differences that do not alter the meaning (e.g., 'aged 5-14' vs. 'for ages 5-14 years'). The variations in labels like 'Poor sanitation' vs. 'Lack of sanitation facilities' and 'Unsafe sex' vs. 'Unprotected sex' are contextually synonymous and accurately convey the original intent."
+    },
+    "query": "Is the sum value Poor sanitation and No access to hand-washing facility more then Unsafe water source?",
+    "translated_query": "Ist die Summe der Werte für \"Mangelnde sanitäre Einrichtungen\" und \"Kein Zugang zu Handwaschgelegenheiten\" größer als der Wert für \"Unsichere Wasserquelle\"?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

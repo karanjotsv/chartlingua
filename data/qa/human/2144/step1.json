@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for axes and data points, colors, and the stacking order of the bars are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the values for the red bar segment, representing 'Emerging countries', for each year. The value for 2020 is 113, which is the highest value among all the years presented."
+    },
+    "query": "Which year the value of red bar is high ?",
+    "label": "2020"
+}

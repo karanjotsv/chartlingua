@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart is poorly consistent. While the data proportions and color scheme are correct, the text labels are severely flawed. The legend is missing its category names, and several labels on the pie slices are incorrect and misleading (e.g., the range '$10-$30' is rendered as just '30'). This fundamentally changes the meaning of the categories and makes the chart difficult to interpret accurately.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels a slice as 'More than $250k'. A line from the corresponding color in the legend points directly to the value '6%', confirming the claim."
+    },
+    "claim": "Donations above $250k account for 6% of the total",
+    "label": "TRUE"
+}

@@ -1,0 +1,34 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Anatomische Fälle",
+            "value": 4
+        },
+        {
+            "category": "Toxoplasmose",
+            "value": 14
+        },
+        {
+            "category": "Diabetisch",
+            "value": 25
+        },
+        {
+            "category": "Thrombophilie",
+            "value": 58
+        }
+    ],
+    "texts": {
+        "title": "Verteilung der rezidivierenden Spontanaborte nach Ursachen",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#3F7EBF",
+        "#F48248",
+        "#A9A9A9",
+        "#FFC000"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The change from 'are' to 'constitute' and 'in' to 'at' are minor stylistic or synonymous variations that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are accurately back-translated with only minor stylistic variations or synonymous phrasing ('Lithographic' vs 'Lithography', '1 Color' vs 'Monochrome', 'explain' vs 'specify'). The order of phrases in one category was swapped but meaning preserved. The primary difference is 'Chapter' becoming 'Department' in the title, which is a slight shift in specificity, but the main question meaning is retained."
+    },
+    "claim": "According to the chart, students of Australian nationality are the smallest group in the University.",
+    "translated_claim": "Σύμφωνα με το γράφημα, οι φοιτητές αυστραλιανής υπηκοότητας αποτελούν τη μικρότερη ομάδα στο Πανεπιστήμιο."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Bars' and 'columns' are synonymous in this context, and 'category' clarifies '18 to 21' without changing the original meaning. Only trivial stylistic differences exist."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are 'Male'/'Female' to 'Men'/'Women' and '60 and over' to '60 and older', which are stylistically different but semantically equivalent in this context and do not alter the meaning of the data."
+    },
+    "query": "What is the sum of the two bars in  18 to 21?",
+    "translated_query": "Какова сумма двух столбцов в категории от 18 до 21?",
+    "label": "18.27",
+    "tranlated_label": "18.27"
+}

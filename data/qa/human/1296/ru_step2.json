@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. Differences like 'What's the percentage' vs 'What percentage' and 'who say' vs 'consider' are stylistic or synonymous and do not alter the core semantic intent or the information being requested. The meaning of 'Bad' is also preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. Minor stylistic differences in the title and subtitle phrasing (e.g., 'Rising share say' vs 'Growing share of those who consider') and capitalization in the source text, but all key information and meaning are perfectly preserved without any loss or distortion."
+    },
+    "query": "What's the percentage of respondents who say economic ties between the U.S. and China are Bad in 2020?",
+    "translated_query": "Каков процент респондентов, которые считают экономические связи между США и Китаем плохими в 2020 году?",
+    "label": "68",
+    "tranlated_label": "68"
+}

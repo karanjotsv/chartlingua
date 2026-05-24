@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, text content, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart's legend shows that the percentage of Armenians in Los Angeles born in Turkey in 1980 was 9.7%, not 14.7%. The percentage 14.7% corresponds to those born in Iran."
+    },
+    "claim": "14.7% of Armenians in Los Angeles are born in Turkey in 1980.",
+    "label": "FALSE"
+}

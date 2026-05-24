@@ -1,0 +1,32 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Только Signpost",
+            "value": 63
+        },
+        {
+            "label": "Signpost + блоги или рассылки",
+            "value": 16
+        },
+        {
+            "label": "Signpost + блоги и рассылки",
+            "value": 11
+        },
+        {
+            "label": "Больше, чем это",
+            "value": 11
+        }
+    ],
+    "texts": {
+        "title": "Опрос читателей: сколько<br>различных методов вы используете,<br>чтобы оставаться в курсе новостей Wikimedia Tech?",
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#0f679f",
+        "#49a973",
+        "#a5191f",
+        "#5ab6c5"
+    ]
+}

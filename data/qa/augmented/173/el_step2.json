@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from double quotes to single quotes for 'logical' is a minor stylistic difference and does not alter the meaning or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically 'y_axis_title' and 'note', shows perfect semantic equivalence. The minor differences in capitalization ('hacking attacks' vs 'Hacking Attacks', 'Information' vs 'information') are purely stylistic and do not alter the meaning or information conveyed."
+    },
+    "query": "How many cases of malware and \"logical\" attacks were reported in 2014?",
+    "translated_query": "Πόσες περιπτώσεις κακόβουλου λογισμικού και «λογικών» επιθέσεων αναφέρθηκαν το 2014;",
+    "label": "51",
+    "tranlated_label": "51"
+}

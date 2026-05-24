@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Αμέσως",
+            "Εντός μιας ώρας",
+            "Κάποια στιγμή μέσα στην ημέρα",
+            "Δεν περιμένω απάντηση"
+        ],
+        "series": [
+            {
+                "name": "Ηνωμένες Πολιτείες",
+                "data": [
+                    20,
+                    24,
+                    31,
+                    25
+                ]
+            },
+            {
+                "name": "Παγκόσμιος μέσος όρος",
+                "data": [
+                    18,
+                    28,
+                    37,
+                    17
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ποσοστό των ερωτηθέντων",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#132D43"
+    ]
+}

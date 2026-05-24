@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, text labels (title, axis title, legend), and color hues are accurately preserved. The overall message and interpretation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the relative damage of various weapons. The bar representing the Mauser is the highest on the chart, at 50% relative damage, making it the most effective weapon among those listed."
+    },
+    "claim": "The Mauser is the most Weapons in Return to Castle Wolfenstein.",
+    "label": true
+}

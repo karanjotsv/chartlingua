@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart has significant semantic inconsistencies. The top plot incorrectly shows two data series instead of one, and the data is represented as a straight line, whereas the original is a curve. The bottom plot's data is rendered as jagged, piecewise-linear lines, losing the smoothness of the original curves. Additionally, the legend for the bottom plot has been incorrectly moved to the top plot.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that altitude increases with horizontal position. The top chart shows that horizontal position increases steadily over the entire 40-second interval. The bottom chart shows that altitude increases for approximately the first 32 seconds, but then decreases from 32 seconds to 40 seconds. Since the horizontal position is still increasing while the altitude is decreasing in the latter part, the claim is false."
+    },
+    "claim": "The altitude increases with the horizontal position.",
+    "label": true
+}

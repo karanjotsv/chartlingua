@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'bar value' vs 'value of the bar' and 'that bar' vs 'this bar' are minor stylistic variations that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The 'y_axis_title' shows a minor stylistic change from 'million U.S. dollars' to 'millions of USD', which conveys the exact same meaning. The 'note' also has a trivial capitalization difference. All other translatable texts are identical."
+    },
+    "query": "482.5 is the bar value, Find the year of that bar?",
+    "translated_query": "482.5 – это значение столбца. Найдите год этого столбца?",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

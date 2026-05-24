@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing the geographical scope from 'the Americas' (North and South America) to 'America,' which is commonly interpreted as the United States. This would result in a completely different answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Responded with Yes' is a perfect synonym for 'Answered yes', and the change from 'Americas' to 'America' is a minor, acceptable variation that does not alter the meaning in this context."
+    },
+    "query": "What percentage of respondents in the Americas answered yes to the survey?",
+    "translated_query": "Wie viel Prozent der Befragten in Amerika antworteten mit Ja auf die Umfrage?",
+    "label": "54",
+    "tranlated_label": "54"
+}

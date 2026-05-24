@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many bars are in the chart?' is semantically identical to the original 'How many bars are there in the graph?'. 'Graph' and 'chart' are synonymous in this context, and the slight grammatical difference ('there are' vs 'are') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The differences are minor stylistic changes (e.g., 'top 1%' vs 'the top 1%') or reordering of words in a title ('Chartbook of Economic Inequality' vs 'Economic Inequality Chartbook'), which do not alter the core meaning or identification of the source/topic."
+    },
+    "query": "How many bars are there in the graph?",
+    "translated_query": "Πόσες μπάρες υπάρχουν στο γράφημα;",
+    "label": "2",
+    "tranlated_label": "2"
+}

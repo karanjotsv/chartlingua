@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The overall structure of the claim is preserved, but the key term 'editing workshops' was changed to 'adaptation workshops'. While related, these terms are not synonymous, which results in a loss of specific and potentially important information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation accurately preserves the meaning of the x-axis labels and the source note. However, it changes the key term 'Editing Workshops' to 'Adaptation Workshops' in both the main title and the y-axis title. This is a significant semantic shift, as 'editing' and 'adaptation' are different concepts, thus altering the core subject of the chart."
+    },
+    "claim": "Program run by experienced program leader reported the smallest proportion of editing workshops.",
+    "translated_claim": "Das von einem erfahrenen Programmleiter durchgeführte Programm meldete den geringsten Anteil an Bearbeitungsworkshops."
+}

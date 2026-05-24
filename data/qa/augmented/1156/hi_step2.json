@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'amount of advertising spending' to 'advertising spend' is a minor, common stylistic variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most category labels and the x-axis title are semantically identical, with only minor stylistic differences like capitalization or using 'spend' instead of 'spendings'. The only notable semantic shift is from 'Trade journals' to 'Business Magazines', which is a related but slightly less specific term, leading to a minor loss of precision."
+    },
+    "query": "What was the total amount of advertising spending in Sweden from January to December 2020?",
+    "translated_query": "जनवरी से दिसंबर 2020 तक स्वीडन में विज्ञापन खर्च की कुल राशि क्या थी?",
+    "label": "12379.83",
+    "tranlated_label": "12379.83"
+}

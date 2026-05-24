@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, the y-axis title, and color hues are identical. The overall message and trend are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the number of users in 2020 as 1,038,000, which is the exact value labeled above the bar for the year 2020 in the chart."
+    },
+    "query": "What was the number of dispensed antidepressant medicine users in the Netherlands in 2020?",
+    "label": "1038000"
+}

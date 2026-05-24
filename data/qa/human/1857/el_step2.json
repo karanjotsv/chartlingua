@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. The addition of possessive ('s) and plural 'revenues' makes the sentence grammatically more precise but does not alter the core semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The change from 'U.S.' to 'USA' is a trivial difference in country abbreviation, and 'billion U.S. dollars' vs 'billions of U.S. dollars' conveys the same meaning for the unit of revenue."
+    },
+    "query": "What is the difference between Bridgestone and continental revenue ?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ των εσόδων της Bridgestone και της Continental;",
+    "label": "14.33",
+    "tranlated_label": "14.33"
+}

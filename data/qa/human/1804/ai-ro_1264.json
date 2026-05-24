@@ -1,0 +1,54 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Democrat",
+            "Independent",
+            "Republican",
+            "",
+            "Hispanic",
+            "Negri",
+            "Albi",
+            "Total"
+        ],
+        "series": [
+            {
+                "name": "Decizie greșită",
+                "values": [
+                    19,
+                    37,
+                    49,
+                    null,
+                    28,
+                    12,
+                    38,
+                    34
+                ]
+            },
+            {
+                "name": "Decizie corectă",
+                "values": [
+                    74,
+                    53,
+                    43,
+                    null,
+                    52,
+                    76,
+                    56,
+                    57
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Diviziunea politică mai mare decât decalajul rasial în<br>opiniile privind îndepărtarea steagului confederat",
+        "subtitle": "% care spun că decizia Carolinei de Sud de a îndepărta<br>steagul confederat de pe terenul capitoliului a fost...",
+        "source": "Sondaj realizat în perioada 14-20 iulie 2015. Albii și negrii îi includ doar<br>pe cei care nu sunt hispanici; hispanicii sunt de orice rasă. Răspunsurile de tip „Nu știu”<br>nu sunt afișate.<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#E2D4A8",
+        "#C9A844"
+    ]
+}

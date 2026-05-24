@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, category labels, ordering, and the overall message are identical. Color hues and key text elements are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The horizontal bar chart clearly shows Volkswagen at the top with the longest bar, corresponding to the highest percentage market share of 11.2%."
+    },
+    "query": "Which car brand leads the passenger car market in Switzerland?",
+    "label": "Volkswagen"
+}

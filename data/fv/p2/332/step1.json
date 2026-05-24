@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent. The data values for all pie slices are numerically correct, and the proportions of the large slices are accurately represented. The main text labels and color hues for the dominant categories (Black, White, Latino) are also consistent. The overall message is preserved, despite significant visual flaws.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap among the labels for the four smallest pie slices and the embedded table data. This jumble of text makes a significant portion of the chart's detailed information completely unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the total of white and Latino Americans living with HIV is lower than that of black Americans. According to the chart, the percentage for white is 33.1% and for Latino is 19.2%, which sums to 52.3%. This is higher than the 44.5% for black Americans, refuting the claim."
+    },
+    "claim": "The total amount of the Americans who were white and Latined is lower than the black Americans were living with HIV",
+    "label": "FALSE"
+}

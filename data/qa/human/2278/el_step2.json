@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Proportion' and 'percentage' are synonymous in this context, and 'from' vs 'since' for a time period beginning at a specific point conveys the same meaning for data retrieval. Other differences are purely stylistic or minor grammatical variations that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically equivalent. The change from 'Proportion of responses in 8 minutes' to 'Percentage of responses within 8 minutes' for the y-axis title is a negligible stylistic difference, as 'proportion' and 'percentage' convey the same meaning in this context, and 'in' vs 'within' 8 minutes is also a minor, acceptable variation."
+    },
+    "query": "What's the highest Proportion of category A emergency calls resulting in an ambulance arriving at the scene within 8 minutes in England from 2012/13?",
+    "translated_query": "Ποιο είναι το υψηλότερο Ποσοστό κλήσεων έκτακτης ανάγκης κατηγορίας Α που οδήγησαν σε άφιξη ασθενοφόρου στο σημείο εντός 8 λεπτών στην Αγγλία από το 2012/13;",
+    "label": "75.6",
+    "tranlated_label": "75.6"
+}

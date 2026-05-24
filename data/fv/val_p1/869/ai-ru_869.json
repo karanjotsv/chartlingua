@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "уголь",
+            "value": 46.7
+        },
+        {
+            "label": "ветер",
+            "value": 36.6
+        },
+        {
+            "label": "ядерная энергия",
+            "value": 8.6
+        },
+        {
+            "label": "природный газ",
+            "value": 5.6
+        },
+        {
+            "label": "другое",
+            "value": 2.5
+        }
+    ],
+    "texts": {
+        "title": "Источники выработки электроэнергии<br>Айова - 2016",
+        "subtitle": null,
+        "source": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#C6228E",
+        "#A8C74D",
+        "#E4B446",
+        "#68B9C8",
+        "#A451D1"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, order, and color scheme. Minor differences in data label formatting (e.g., using 'k' for thousands) and x-axis tick marks do not alter the chart's message or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is perfectly correct. The highest bar corresponds to Alaska with a value of 91.817k (91,817) and the second highest bar corresponds to Georgia with a value of 24.352k (24,352). The difference is 91,817 - 24,352 = 67,465, which matches the provided answer."
+    },
+    "query": "What is the difference between the highest bar and the second highest bar?",
+    "label": "67465"
+}

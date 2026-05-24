@@ -1,0 +1,48 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ],
+        "series": [
+            {
+                "name": "Servicii",
+                "data": [
+                    3977.69,
+                    4375.59,
+                    4136.56,
+                    4046.31,
+                    3099.22,
+                    2639.59
+                ]
+            },
+            {
+                "name": "Vânzări de produse",
+                "data": [
+                    711.36,
+                    778.31,
+                    802.4,
+                    784.94,
+                    930.89,
+                    475.9
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Venituri în milioane de dolari S.U.A.",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#1877F2",
+        "#212934"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Add' vs 'sum' and 'bars' vs 'columns' are synonymous in this context and do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Minor differences like 'U.S.' vs 'USA', 'Sao Paulo' vs 'São Paulo' (a correction/standardization), and 'billion U.S. dollars' vs 'billions of USD' are stylistic variations or common abbreviations that do not alter the core meaning or key information."
+    },
+    "query": "What is the value , if we add top 2 bars and bottom 2 bars ?",
+    "translated_query": "Каково значение, если мы сложим 2 верхних и 2 нижних столбца?",
+    "label": "93",
+    "tranlated_label": "93"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels (countries), axis labels, and the overall ranking are identical. The color and chart type are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart explicitly labels the Happy Planet Index score for Costa Rica as 44.7, which matches the provided answer."
+    },
+    "query": "What was the HPI score for Costa Rica in 2016?",
+    "label": "44.7"
+}

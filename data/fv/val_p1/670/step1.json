@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, and overall trend as the original. The addition of titles is an enhancement, not an inconsistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows the number of confirmed exoplanets discovered each year. The bar for the year 2016 is the tallest, with a labeled value of 1535, which is higher than the value for any other year on the chart."
+    },
+    "claim": "The largest number of exoplanets were discovered in 2016. ",
+    "label": true
+}

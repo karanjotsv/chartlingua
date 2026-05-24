@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਸਾਰੇ ਜਵਾਬਦੇਹ",
+            "ਡੈਮੋਕ੍ਰੇਟ",
+            "ਰਿਪਬਲਿਕਨ"
+        ],
+        "series": [
+            {
+                "name": "ਹਾਂ",
+                "data": [
+                    41,
+                    65,
+                    24
+                ]
+            },
+            {
+                "name": "ਨਹੀਂ",
+                "data": [
+                    34,
+                    17,
+                    54
+                ]
+            },
+            {
+                "name": "ਪੱਕਾ ਨਹੀਂ",
+                "data": [
+                    25,
+                    19,
+                    22
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਜਵਾਬਦੇਹਾਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#267DCE",
+        "#123247",
+        "#BDBDBD"
+    ]
+}

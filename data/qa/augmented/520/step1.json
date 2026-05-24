@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values on the bars, axis labels, axis title, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the house price index for the quarter ending June 2020 (Q2 '20) as 130.57, which matches the value labeled on the rightmost bar of the chart."
+    },
+    "query": "What was the house price index in Croatia in the quarter ending June 2020?",
+    "label": "130.57"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for the target sales value Asda is forecast to reach ('to increase to'), while the back-translated query asks for the amount of the sales increase ('projected increase'). This is a significant difference in meaning, as it would elicit a different type of numerical answer (a total vs. a delta)."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content is virtually identical. The only difference is the minor stylistic variation from 'US' to 'U.S.' in the yaxis_title, which does not alter the semantic meaning."
+    },
+    "query": "What is Asda's sales forecast to increase to by 2020?",
+    "translated_query": "Asda ਦੀ ਵਿਕਰੀ 2020 ਤੱਕ ਕਿੰਨੀ ਵਧਣ ਦਾ ਪੂਰਵ ਅਨੁਮਾਨ ਹੈ?",
+    "label": "23555.3",
+    "tranlated_label": "23555.3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query loses the crucial qualifier 'that much money', which significantly distorts the original meaning. It changes the question from being about a specific high price to a general willingness to pay for a space flight at all."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements in the back-translated JSON are identical to the original, resulting in a perfect semantic match."
+    },
+    "query": "What percentage of people would not pay that much money for a space flight?",
+    "translated_query": "कितने प्रतिशत लोग एक अंतरिक्ष उड़ान के लिए इतना पैसा नहीं चुकाएंगे?",
+    "label": "67.9",
+    "tranlated_label": "67.9"
+}

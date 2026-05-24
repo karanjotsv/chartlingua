@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, series, colors, and overall message. The only minor semantic difference is that the rendered chart includes an extra year of data (2020) and the x-axis range is slightly different. This does not alter the core interpretation of the trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that all three categories rose after 2009. However, the chart shows that the 'Total support and revenue' line (orange) dipped between 2018 and 2019, indicating a decrease in that year. Therefore, not all three categories consistently rose after 2009."
+    },
+    "claim": "All three of Wikipedia's categories rose after 2009.",
+    "label": "TRUE"
+}

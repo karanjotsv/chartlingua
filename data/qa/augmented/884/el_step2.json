@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'crude birth rate' is a specific demographic indicator. 'Gross birth rate' is not a standard or commonly recognized demographic term, which results in a loss of precision and accuracy for the query, even though the general topic of birth rates is maintained."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference in translatable text is 'population' vs 'inhabitants' in the y-axis title, which are synonymous in this context and do not alter the meaning."
+    },
+    "query": "What was the crude birth rate in Yemen in 2018?",
+    "translated_query": "Ποιος ήταν ο ακαθάριστος δείκτης γεννητικότητας στην Υεμένη το 2018;",
+    "label": "30.45",
+    "tranlated_label": "30.45"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the core meaning and all key information. The differences (e.g., 'At 2015' vs 'By 2015', 'country debt' vs 'government debt') are minor stylistic or grammatical variations that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON (title, y-axis title, source, legend labels) maintain perfect semantic equivalence. Differences are limited to minor capitalization or synonymous phrasing (e.g., 'Debt percentage' vs. 'Percentage of Debt') which do not impact the core meaning."
+    },
+    "claim": "At 2015, the UK country debt decreased by 20%.",
+    "translated_claim": "К 2015 году государственный долг Великобритании снизился на 20%."
+}

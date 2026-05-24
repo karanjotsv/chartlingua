@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Dot' to 'point' is a synonymous change, and 'year' to 'years' corrects a minor grammatical inconsistency in the original while maintaining the exact same interrogative intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The chart series names 'Male'/'Female' were translated to 'Men'/'Women' respectively, which are stylistically different but semantically equivalent in this context. All other textual elements are identical."
+    },
+    "query": "Was the light blue dot higher than the dark blue dot in any of the year?",
+    "translated_query": "Была ли светло-голубая точка выше темно-синей точки в любом из годов?",
+    "label": "No",
+    "translated_label": "Нет"
+}

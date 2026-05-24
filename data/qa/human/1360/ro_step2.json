@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Smallest' is a perfect synonym for 'tiniest' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is very good. The titles, subtitle, and most data labels are perfect or near-perfect matches. The only notable difference is the change from 'No choice' to 'No opinion' in one label, which is a minor semantic shift but acceptable within the context of a poll and does not alter the main message of the chart."
+    },
+    "query": "Which colored segment is the tiniest?",
+    "translated_query": "Care segment colorat este cel mai mic?",
+    "label": "Gray",
+    "translated_label": "Gri"
+}

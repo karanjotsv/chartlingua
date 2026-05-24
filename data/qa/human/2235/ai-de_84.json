@@ -1,0 +1,60 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Niere",
+            "Leber",
+            "Lunge",
+            "Herz",
+            "Bauchspeicheldrüse",
+            "Dünndarm"
+        ],
+        "series": [
+            {
+                "name": "2017",
+                "values": [
+                    49.2,
+                    18.5,
+                    13.3,
+                    7.4,
+                    2.3,
+                    0
+                ]
+            },
+            {
+                "name": "2018",
+                "values": [
+                    47,
+                    20.7,
+                    13.3,
+                    7.4,
+                    2.3,
+                    0.1
+                ]
+            },
+            {
+                "name": "2019",
+                "values": [
+                    43.9,
+                    17.2,
+                    11.4,
+                    7.6,
+                    1.7,
+                    0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Rate pro Million Einwohner",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2489D8",
+        "#0A2B43",
+        "#BDBDBD"
+    ]
+}

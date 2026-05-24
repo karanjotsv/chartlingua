@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series name, Y-axis title, source) in the back-translated JSON is an exact semantic and literal match to the original JSON."
+    },
+    "query": "What was Nicaragua's index score in 2020?",
+    "translated_query": "Ποια ήταν η βαθμολογία δείκτη της Νικαράγουας το 2020;",
+    "label": "6.78",
+    "tranlated_label": "6.78"
+}

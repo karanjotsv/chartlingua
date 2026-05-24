@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. It correctly interprets the non-English words 'do grafo' as 'of the graph' and clarifies the somewhat awkward phrasing of the original, resulting in a clearer but semantically identical statement."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the originals. The y-axis title is an exact match. The x-axis title correctly translates '# vértices do grafo' (vertices of the graph) to '# Nodes of the graph', which is a perfect synonym in this context."
+    },
+    "claim": "The speedup value when vertices do grafo ( x 10^3) was 500 is less than when the vertices do grafo ( x 10^3) was 400.",
+    "translated_claim": "Der Speedup-Wert bei 500 Knoten des Graphen (x 10³) ist geringer als bei 400 Knoten des Graphen (x 10³)."
+}

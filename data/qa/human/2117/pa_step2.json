@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. It rephrases 'sum total value of' to a more concise 'total of' and correctly translates 'more then' to 'greater than', improving grammar without changing the comparative meaning. 'Yes, it could' and 'No, it could not' are accurately represented as 'Yes, it is possible' and 'No, it is not possible', maintaining the intended nuance of possibility/impossibility."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The phrasing changes in categories ('could' vs 'is possible') and series names ('whole sample' vs 'total sample', 'informed about' vs 'aware of') are minor stylistic variations that do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Is the sum total value of Yes, it could more then  No ,it could not ?",
+    "translated_query": "ਕੀ 'ਹਾਂ, ਇਹ ਹੋ ਸਕਦਾ ਹੈ' ਦਾ ਕੁੱਲ ਜੋੜ 'ਨਹੀਂ, ਇਹ ਨਹੀਂ ਹੋ ਸਕਦਾ' ਨਾਲੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

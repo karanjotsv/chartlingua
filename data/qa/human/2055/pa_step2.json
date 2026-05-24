@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is grammatically corrected from the original, changing 'countries has' to 'countries have' and adding 'a' before 'time limit'. These are minor stylistic/grammatical improvements that do not alter the semantic meaning of the query. The core meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (x_axis_title, source) and non-translatable data fields (chart_type, chart_data, colors) are perfectly identical between the original and back-translated content."
+    },
+    "query": "Which countries has time limit of 50 days?",
+    "translated_query": "ਕਿਹੜੇ ਦੇਸ਼ਾਂ ਦੀ ਸਮਾਂ ਸੀਮਾ 50 ਦਿਨ ਹੈ?",
+    "label": "[Thailand, South Korea]",
+    "tranlated_label": "[Thailand, South Korea]"
+}

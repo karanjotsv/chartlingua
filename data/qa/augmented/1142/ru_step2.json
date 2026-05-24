@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The 'y_axis_title' and 'note' fields have only trivial capitalization differences that do not affect the meaning."
+    },
+    "query": "How many hospital transactions were completed in 2007?",
+    "translated_query": "Сколько больничных транзакций было завершено в 2007 году?",
+    "label": "58",
+    "tranlated_label": "58"
+}

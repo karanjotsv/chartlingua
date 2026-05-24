@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent semantic match to the original. It accurately reproduces the data trend on a logarithmic scale, the axis labels and titles, the main chart title, and even the ancillary text and diagram in the top-right corner. The color scheme is also consistent, leading to an identical overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the number of U.S. patents granted from 1870 to around 2010. The claim is about casualties during World War II for Romania and Germany. The chart contains no information on this topic."
+    },
+    "claim": "Romania had more casualties than Germany among axis powers during ww2.",
+    "label": "FALSE"
+}

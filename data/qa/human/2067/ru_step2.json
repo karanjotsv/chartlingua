@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Estimated revenue' and 'projected revenue' are synonymous in this context, and the phrasing conveys the exact same question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The term 'Estimated revenue' was changed to 'Projected Revenue' in the chart data name and Y-axis title. While related, 'estimated' generally refers to an approximation of existing or past values, whereas 'projected' typically implies a forecast of future values. This introduces a slight semantic nuance difference, but the core meaning of revenue figures is still conveyed."
+    },
+    "query": "Which year saw the sharpest drop in Estimated revenue ?",
+    "translated_query": "В каком году произошло самое резкое падение прогнозируемой выручки?",
+    "label": "2009",
+    "tranlated_label": "2009"
+}

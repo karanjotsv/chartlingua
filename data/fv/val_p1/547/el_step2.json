@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'in' to 'at' and the addition of 'the' before 'professionals' are minor stylistic/grammatical variations that do not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General semantic equivalence is fair. While the back-translation successfully corrected a typo ('Perfaisionalss' to 'Professionals') and handled minor stylistic changes, it lost the specific 'Stok' modifier from the y-axis title 'Stok vailyie', generalizing it to simply 'Value'. This omission represents a loss of detail and nuance."
+    },
+    "claim": "The best performance in Stok Kemp 2013 was by professionals.",
+    "translated_claim": "Η καλύτερη απόδοση στο Stok Kemp 2013 ήταν από τους επαγγελματίες."
+}

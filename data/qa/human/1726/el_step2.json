@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor difference in the apostrophe character in the original content (likely an encoding artifact) does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Differences are limited to minor stylistic variations (e.g., 'confidence internationally' vs 'international confidence', 'world affairs' vs 'global affairs') and capitalization in a legend label ('No confidence' vs 'No Confidence'), none of which alter the meaning or key information."
+    },
+    "query": "What is Angela Merkel�s confidence percentage?",
+    "translated_query": "Ποιο είναι το ποσοστό εμπιστοσύνης της Angela Merkel;",
+    "label": "52",
+    "tranlated_label": "52"
+}

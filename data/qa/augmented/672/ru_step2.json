@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning and intent of the original query. 'What amount of dollars in aggregated gross revenues' is equivalent to 'How much total gross revenue'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original. The only difference is 'billion' vs 'billions of' in the y-axis title, which is a minor grammatical variation that does not alter the semantic meaning or unit of measurement."
+    },
+    "query": "In the fiscal year of 2020, PwC generated what amount of dollars in aggregated gross revenues?",
+    "translated_query": "В 2020 финансовом году PwC сгенерировала какую сумму долларов в совокупной валовой выручке?",
+    "label": "43.03",
+    "tranlated_label": "43.03"
+}

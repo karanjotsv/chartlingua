@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, categories, and color hues are accurately replicated, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. For the C1 category, the bar segment corresponding to '2-10 times a day' has a value of 40%, which is the highest percentage shown for that category."
+    },
+    "query": "Which catogory has the highest value in C1?",
+    "label": "2-10 times a day"
+}

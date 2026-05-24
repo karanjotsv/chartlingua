@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent replication of the original. All data values, proportions, and data labels are identical. The categories on the x-axis are the same. The color hues for each corresponding data series are preserved. The rendered chart adds a title and a legend, which clarifies the information without altering the core data or message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data about the number of exoplanets discovered by year and method. It contains no information regarding temperature or a city named Jeur. Therefore, the claim is not supported by the chart."
+    },
+    "claim": "The temperature was low in the city of Jeur.",
+    "label": "TRUE"
+}

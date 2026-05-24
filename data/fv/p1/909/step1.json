@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart preserves the relative proportions of the pie slices and maintains a similar color scheme. However, it is critically missing all text labels, including the categories, numerical values, and percentages. Without this information, the chart loses its entire semantic meaning and is uninterpretable.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is a pie chart with no labels, legend, or title. It is impossible to determine what the different slices represent, and therefore it cannot be used to verify the claim about the population of parishes in Guernsey."
+    },
+    "claim": "The Forest parish has the highest population of parishes in Guernsey.",
+    "label": false
+}

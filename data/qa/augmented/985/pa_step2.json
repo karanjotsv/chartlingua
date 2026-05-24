@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The phrasing 'Norway's road freight transport volume' versus 'the volume of road freight transport in Norway' are stylistically different but semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The chart data and source are identical. The only translatable text difference is 'Transport volume' vs 'Traffic volume' for the y-axis title. While 'Transport volume' might be marginally more precise, 'Traffic volume in million tonne-kilometers' conveys the main meaning accurately, representing a minor acceptable difference."
+    },
+    "query": "What was Norway's road freight transport volume in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਨਾਰਵੇ ਦੀ ਸੜਕੀ ਮਾਲ ਢੋਆ-ਢੁਆਈ ਦੀ ਮਾਤਰਾ ਕਿੰਨੀ ਸੀ?",
+    "label": "20526",
+    "tranlated_label": "20526"
+}

@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "All respondents",
+            "Democrats",
+            "Republicans"
+        ],
+        "series": [
+            {
+                "name": "Yes",
+                "data": [
+                    41,
+                    65,
+                    24
+                ]
+            },
+            {
+                "name": "No",
+                "data": [
+                    34,
+                    17,
+                    54
+                ]
+            },
+            {
+                "name": "Not sure",
+                "data": [
+                    25,
+                    19,
+                    22
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#267DCE",
+        "#123247",
+        "#BDBDBD"
+    ]
+}

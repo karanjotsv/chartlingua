@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The differences, such as 'reason' vs. 'cause' and 'damages' vs. 'damage', are synonymous or stylistic and do not alter the core meaning in any way."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most category labels are identical or semantically equivalent (e.g., 'Surges' vs. 'Power surges'). However, the translation of 'Mischievousness' to 'Vandalism' is a significant semantic shift, as 'Vandalism' is a much more specific and severe concept, resulting in a loss of nuance and accuracy for that data point."
+    },
+    "claim": "The most common reason for damages in electronic devices was due to Negligence.",
+    "translated_claim": "Die häufigste Ursache für Schäden an elektronischen Geräten war Fahrlässigkeit."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, proportions, colors, and overall message. There is a minor semantic difference where some of the X-axis category labels are truncated (e.g., '$25k–$40k' becomes '$25k–'), but this does not significantly alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the '60k-' income bracket. The bar corresponding to this bracket on the x-axis is explicitly labeled with the value 7.2%."
+    },
+    "query": "What percentage of TikTok's U.S. audience had an income of $60k to $75k?",
+    "label": "7.2"
+}

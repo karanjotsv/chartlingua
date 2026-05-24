@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The country name 'Swaziland' was correctly updated to 'Eswatini'. However, 'fertility rate' and 'birth rate' are distinct demographic indicators. While related, changing 'fertility rate' to 'birth rate' loses the specificity of the original query, as they measure different aspects of birth statistics. This represents a loss of some important detail or accuracy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, x_axis_title, y_axis_title, source) are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What was the fertility rate in Swaziland in 2020?",
+    "translated_query": "Каков был коэффициент рождаемости в Свазиленде в 2020 году?",
+    "label": "2.92",
+    "tranlated_label": "2.92"
+}

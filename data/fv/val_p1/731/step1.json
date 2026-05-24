@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, categories, series, text content, and color hues are consistent with the original. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on the occupations of the population of Shobrooke for the single year 1881. It does not contain any information for the year 1871, making it impossible to verify the claim of a population decrease between these two years."
+    },
+    "claim": "The population of Shobrooke decreased between 1871 and 1881.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces the four-slice pie chart with consistent color hues. However, the data proportions are slightly different (the original has slightly unequal slices while the rendered chart has four perfectly equal 25% quadrants), and the order of the slices is different. Without labels, these changes do not significantly alter the overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is a generic pie chart with four colored segments and provides no labels, title, or legend. It is impossible to determine what the chart represents, and therefore it cannot be used to support or refute the claim about the distribution of the world's wealth among individuals."
+    },
+    "claim": "The majority of the world's wealth is owned by a small percentage of individuals.",
+    "label": "TRUE"
+}

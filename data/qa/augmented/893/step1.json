@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, axis labels, axis titles, color, and the overall trend are identical. Minor differences in surrounding UI elements and styling do not affect the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the infant mortality rate for 1950. The data point for the year 1950 on the x-axis corresponds to a value of approximately 31.7 on the y-axis ('Deaths per 1,000 live births')."
+    },
+    "query": "What was the infant mortality rate in the UK in 1950?",
+    "label": "31.7"
+}

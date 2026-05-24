@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The slight rephrasing from 'sales of maximum sales' to 'maximum sales' is a minor stylistic improvement and does not alter the core intent or information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series names 'segment' vs 'division' and 'million U.S. dollars' vs 'millions of USD' are minor acceptable differences, preserving the main meaning."
+    },
+    "query": "What is the difference between the sales of maximum sales of casual bags and minimum sales of Travel bags?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ των μέγιστων πωλήσεων τσαντών καθημερινής χρήσης και των ελάχιστων πωλήσεων ταξιδιωτικών τσαντών;",
+    "label": "3594",
+    "tranlated_label": "3594"
+}

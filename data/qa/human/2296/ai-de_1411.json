@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Spielzeug",
+            "Baby"
+        ],
+        "series": [
+            {
+                "name": "Umsatzwert",
+                "data": [
+                    34,
+                    10
+                ]
+            },
+            {
+                "name": "Anzahl der Bestellungen",
+                "data": [
+                    13,
+                    13
+                ]
+            },
+            {
+                "name": "Warenkorbwert",
+                "data": [
+                    18,
+                    -3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Umsatzwachstum (März vs. Februar)",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#297ACC",
+        "#0F2C4C",
+        "#BDBDBD"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation changes the key noun from 'charts' to 'segments'. This is a significant semantic shift as it alters the subject of the calculation from entire visualizations to parts of a visualization, fundamentally distorting the claim's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. Minor stylistic differences like 'Alberta Population' vs 'Population of Alberta' and the word order in the source text do not change the meaning at all."
+    },
+    "claim": "The average of all blue charts is 12 in 2011.",
+    "translated_claim": "Der Durchschnitt aller blauen Diagramme beträgt 12 im Jahr 2011."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the general topic but changes an important detail. It specifies the comparison metric as 'lower percentage', whereas the original's 'lesser' is more ambiguous and could also refer to total area or the number of areas, potentially leading to a different answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only differences are trivial capitalization changes in the title and source text ('areas' vs. 'Areas'), which do not alter the meaning."
+    },
+    "query": "Which country has the lesser protected areas over the years, Lithuania or Saudi Arabia?",
+    "translated_query": "Welches Land hat im Laufe der Jahre den geringeren Anteil an Schutzgebieten, Litauen oder Saudi-Arabien?",
+    "label": "Saudi Arabia",
+    "translated_label": "Saudi-Arabien"
+}

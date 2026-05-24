@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The overall structure, titles, and text content are consistent across both images. Two of the three charts ('Annual Salary' and 'Titles') accurately represent the data proportions. However, the 'Top Companies' chart has a significant data inconsistency; the proportions are different, incorrectly showing 'Goldman Sachs' as the largest category, whereas 'Merrill Lynch' is the largest in the original. This changes the core message of that specific chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart presents 'Annual Salary' and 'Titles' in two separate pie charts. There is no information provided to link specific job titles to specific salary ranges. Therefore, it is impossible to determine the salary of a Reporting Analyst from the given data."
+    },
+    "claim": "Reporting Analysts have the highest annual salary in NYSSA",
+    "label": false
+}

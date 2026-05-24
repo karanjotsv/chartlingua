@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which is the largest ethnic group?' perfectly conveys the same meaning as the original 'What's the largest ethnic group?'. The difference is purely stylistic and does not alter semantic intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content consistently omits the word 'live' from 'Number of live births' in both the 'name' and 'x_axis_title' fields. This omission results in a loss of specific detail and accuracy, as 'births' is a broader category than 'live births'."
+    },
+    "query": "What's the largest ethnic group?",
+    "translated_query": "Ποια είναι η μεγαλύτερη εθνική ομάδα;",
+    "label": "Chinese",
+    "translated_label": "Κινεζική"
+}

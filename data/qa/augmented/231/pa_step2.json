@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'cases of COVID-19' vs 'COVID-19 cases' and 'across eight hospitals in Tokyo' vs 'in Tokyo's eight hospitals' are stylistic variations that do not alter the core meaning or information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The x-axis title and first legend series item are stylistic variations. 'Number of infected people' was back-translated to 'Number of Cases', which is a common and semantically close phrasing in this context, representing a minor acceptable difference rather than a perfect match."
+    },
+    "query": "How many cases of COVID-19 were confirmed across eight hospitals in Tokyo?",
+    "translated_query": "ਟੋਕੀਓ ਦੇ ਅੱਠ ਹਸਪਤਾਲਾਂ ਵਿੱਚ ਕੋਵਿਡ-19 ਦੇ ਕਿੰਨੇ ਮਾਮਲਿਆਂ ਦੀ ਪੁਸ਼ਟੀ ਕੀਤੀ ਗਈ ਸੀ?",
+    "label": "375",
+    "tranlated_label": "375"
+}

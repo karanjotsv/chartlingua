@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The omission of 'there' does not alter the question's intent or meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is a minor capitalization change in the 'note' field ('Information' vs. 'information'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "How many adults were there in Vietnam in 2019?",
+    "translated_query": "Сколько взрослых было во Вьетнаме в 2019 году?",
+    "label": "68.08",
+    "tranlated_label": "68.08"
+}

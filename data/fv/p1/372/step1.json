@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match of the 3D plot portion of the original image. The data series, their shapes, axis labels (Wavelength, shot #), data labels ('Al'), and color are all accurately reproduced, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the data is from 'Martian rock', but the chart contains no information, text, or labels to identify the source of the sample being analyzed."
+    },
+    "claim": "The chart displays the distribution of different elements in the Martian rock.",
+    "label": false
+}

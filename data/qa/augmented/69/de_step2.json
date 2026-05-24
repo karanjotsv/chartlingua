@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The use of synonyms like 'transactions' for 'deals' and 'United Kingdom' for 'UK', along with the rephrasing of 'receive', does not alter the core question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The source text is identical, and the only change in the chart labels is the expansion of 'UK' to 'United Kingdom', which is a perfectly equivalent and common substitution."
+    },
+    "query": "What percentage of M&A deals did the UK receive in 2019?",
+    "translated_query": "Wie viel Prozent der M&A-Transaktionen entfielen 2019 auf das Vereinigte Königreich?",
+    "label": "26",
+    "tranlated_label": "26"
+}

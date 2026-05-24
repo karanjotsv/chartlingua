@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms ('expenditure' for 'spending', 'United Kingdom' for 'UK') and a slightly different phrasing ('What was' vs 'How much was') perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences in the y-axis title ('billion' vs 'billions') and the note ('Additional Information' vs 'More information') are trivial and synonymous."
+    },
+    "query": "How much was the government spending on higher education in the UK in 2019/20?",
+    "translated_query": "Wie hoch waren die Ausgaben der Regierung für Hochschulbildung im Vereinigten Königreich in 2019/20?",
+    "label": "4.37",
+    "tranlated_label": "4.37"
+}

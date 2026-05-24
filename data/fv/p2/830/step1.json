@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message is preserved. The only difference is the stylistic choice to 'explode' the 'Mozilla Firefox' slice, which does not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Chrome had the biggest market share with 27.25%, but the chart shows that Internet Explorer had the largest share at 29.05%. Additionally, the chart shows Chrome's share as 23.22%, not 27.25%."
+    },
+    "claim": "Browser usage was incredibly varied in August of 2012. Chrome had the biggest hold on the market with 27.25%. ",
+    "label": "TRUE"
+}

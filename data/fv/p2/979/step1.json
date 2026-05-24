@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, text content (title, axis labels, data labels), and color hues are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not provide any information about 'workers'. Additionally, the difference between the highest count (4 for 'Other') and the lowest count (0 for '1 or 2 Color Lithographic or Letter Press' and 'Xerography') is 4, not 10 as claimed."
+    },
+    "claim": "The difference between highest number workers and the lowest workers is 10.",
+    "label": "TRUE"
+}

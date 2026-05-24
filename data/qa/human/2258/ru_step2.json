@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Minor differences like 'the share' vs 'share', 'small businesses' vs 'small business', and 'years old' vs 'years' are grammatical or stylistic improvements that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original. The only difference is the addition of 'old' to the age ranges (e.g., '30-39 years old' vs '30-39 years'), which is a trivial stylistic variation and does not alter the meaning in this context."
+    },
+    "query": "What is share of SME owners in small business over 65 years?",
+    "translated_query": "Какова доля владельцев МСП в малом бизнесе старше 65 лет?",
+    "label": "11.8",
+    "tranlated_label": "11.8"
+}

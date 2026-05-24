@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. 'Line one' is effectively rephrased as 'Element 1', and 'begins at' as 'starts with', both maintaining the original intent. The omission of 'the' before 'others' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart_type, x-axis title, and null fields are identical. 'Item' was changed to 'Element' in series names, which is a synonymous and acceptable difference. The y-axis title changed from 'Probability to Solve' to 'Probability of Response', which is a minor change in nuance but still conveys the main meaning of a probability metric."
+    },
+    "claim": "The latent dimension of line one begins at a higher probability than the others.",
+    "translated_claim": "Скрытое измерение Элемента 1 начинается с более высокой вероятности, чем у других."
+}

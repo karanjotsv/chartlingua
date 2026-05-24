@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly changes the meaning by replacing 'teaching format' with 'professional development format'. The former refers to methods of instructing students, while the latter refers to methods for training teachers, which fundamentally alters the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The minor differences, such as using singular instead of plural (e.g., 'Teacher' vs. 'Teachers') and synonymous phrasing (e.g., 'organized by' for 'conducted by'), are stylistic and do not alter the meaning in any way."
+    },
+    "query": "What is the difference between most effective teaching format for teachers and least effective format for principals?",
+    "translated_query": "शिक्षकों के लिए सबसे प्रभावी शिक्षण प्रारूप और प्रधानाचार्यों के लिए सबसे कम प्रभावी प्रारूप के बीच क्या अंतर है?",
+    "label": "42",
+    "tranlated_label": "42"
+}

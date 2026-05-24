@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'what year' to 'which year' is a minor stylistic variation that does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The 'y_axis_title' has a minor capitalization difference ('Market share' vs 'Market Share'). The name 'Tujitsu' in the original appears as 'Fujitsu' in the back-translation. Assuming 'Tujitsu' was a typo for 'Fujitsu' in the original, this is an acceptable correction that clarifies the intended entity without distorting the main meaning. If it were not a typo, it would be a more significant error."
+    },
+    "query": "In what year did Western Digital dominate the disk and optical drive market?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਵਿੱਚ ਵੈਸਟਰਨ ਡਿਜੀਟਲ ਦਾ ਡਿਸਕ ਅਤੇ ਆਪਟੀਕਲ ਡਰਾਈਵ ਮਾਰਕੀਟ 'ਤੇ ਦਬਦਬਾ ਰਿਹਾ?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

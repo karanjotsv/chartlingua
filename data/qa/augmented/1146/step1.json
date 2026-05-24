@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, axis labels, and color hues are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that Google's index score is 404, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was Google's index score?",
+    "label": "404"
+}

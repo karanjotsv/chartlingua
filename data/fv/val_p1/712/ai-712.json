@@ -1,0 +1,48 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "petroleum",
+            "value": 61.5
+        },
+        {
+            "label": "coal",
+            "value": 12.7
+        },
+        {
+            "label": "solar",
+            "value": 10.8
+        },
+        {
+            "label": "wind",
+            "value": 5.9
+        },
+        {
+            "label": "geothermal",
+            "value": 2.3
+        },
+        {
+            "label": "biofuels",
+            "value": 2.2
+        },
+        {
+            "label": "other",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation",
+        "subtitle": "Hawaii - 2017",
+        "source": null
+    },
+    "colors": [
+        "#555555",
+        "#992769",
+        "#E3D82A",
+        "#A1B530",
+        "#E88E28",
+        "#C47D2B",
+        "#8E66A2"
+    ],
+    "paper_bgcolor": "#E9E7F5"
+}

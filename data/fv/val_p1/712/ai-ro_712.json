@@ -1,0 +1,48 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "petrol",
+            "value": 61.5
+        },
+        {
+            "label": "cărbune",
+            "value": 12.7
+        },
+        {
+            "label": "solară",
+            "value": 10.8
+        },
+        {
+            "label": "eoliană",
+            "value": 5.9
+        },
+        {
+            "label": "geotermală",
+            "value": 2.3
+        },
+        {
+            "label": "biocombustibili",
+            "value": 2.2
+        },
+        {
+            "label": "altele",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "Surse de generare a energiei electrice",
+        "subtitle": "Hawaii - 2017",
+        "source": null
+    },
+    "colors": [
+        "#555555",
+        "#992769",
+        "#E3D82A",
+        "#A1B530",
+        "#E88E28",
+        "#C47D2B",
+        "#8E66A2"
+    ],
+    "paper_bgcolor": "#E9E7F5"
+}

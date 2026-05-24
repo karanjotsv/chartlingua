@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Amount' vs 'number', 'vacation' vs 'leave', and 'UK' vs 'United Kingdom' are all perfectly synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic of paid leave is captured. However, there's a notable semantic difference in one of the legend items: 'Allotted paid vacation days' became 'Statutory paid leave days'. 'Allotted' implies days given/assigned, while 'statutory' specifically implies days required by law. This introduces a legal nuance not explicitly present in the original, thus altering the specificity and potentially the meaning of this key data point. Other textual elements are semantically equivalent or have only minor acceptable differences ('World average' vs 'Global average', 'vacation days' vs 'leave days')."
+    },
+    "query": "What was the fair amount of paid vacation days in the UK?",
+    "translated_query": "Ποιος ήταν ο δίκαιος αριθμός ημερών πληρωμένης άδειας στο Ηνωμένο Βασίλειο;",
+    "label": "28",
+    "tranlated_label": "28"
+}

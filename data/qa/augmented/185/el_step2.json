@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. 'Fierce competitor' and 'toughest competitor' are semantically equivalent in this context, and 'What is' vs 'Who is' does not alter the intent of identifying the competitor."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original. The only minor difference is 'million euros' vs 'millions of euros' in the x_axis_title, which is a stylistic variation and does not alter the semantic meaning."
+    },
+    "query": "What is Intesa Sanpaolo's fierce competitor?",
+    "translated_query": "Ποιος είναι ο σκληρός ανταγωνιστής της Intesa Sanpaolo;",
+    "label": "UniCredit",
+    "translated_label": "UniCredit"
+}

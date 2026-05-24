@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text content, color assignments, and overall trends are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is validated by the chart. The blue line, representing the Tas. Liberal Party, shows its highest polling value is 54, which corresponds to the time 'Aug 2020' on the x-axis."
+    },
+    "claim": "Tas. Liberal Party has the highest polls of 54 on August 2020",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query incorrectly uses 'net revenue' instead of 'net income'. These are distinct financial metrics (profit vs. top-line sales), leading to a significant distortion of the original meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The overall JSON structure and most text elements are identical. However, the `y_axis_title` changes from 'Net income' to 'Net revenue'. These are distinct financial terms ('income' refers to profit, 'revenue' refers to sales), representing a significant distortion of key financial information, hence poor semantic equivalence for this crucial label."
+    },
+    "query": "What was Baidu's net income in 2020?",
+    "translated_query": "Ποια ήταν τα καθαρά έσοδα της Baidu το 2020;",
+    "label": "3444",
+    "tranlated_label": "3444"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and the single color hue are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the lowest arrest rates are for ages 9 and 10 (at 0). The next lowest non-zero arrest rate is for age 65. The arrest rate for age 60 is visibly higher than the rates for several other ages, including 13, 23, and 65."
+    },
+    "claim": "The second-lowest number of arrests is for females age 60.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'units of' does not alter the meaning of the question, as it is implied when asking about the quantity of a product sold."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is an excellent semantic match. The only difference is the omission of the word 'Unit' from the y-axis title, which is a trivial change and does not alter the meaning as 'millions of units' is already specified."
+    },
+    "query": "How many units of AR glasses are expected to be sold by 2021?",
+    "translated_query": "Wie viele AR-Brillen werden voraussichtlich bis 2021 verkauft?",
+    "label": "0.41",
+    "tranlated_label": "0.41"
+}

@@ -1,0 +1,66 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Auto",
+            "values": [
+                39.5,
+                41.5,
+                42.5,
+                44.0,
+                46.0,
+                48.5,
+                49.8,
+                47.5
+            ]
+        },
+        {
+            "name": "Flugzeug",
+            "values": [
+                3.0,
+                3.5,
+                3.5,
+                3.5,
+                4.0,
+                4.0,
+                4.2,
+                2.0
+            ]
+        },
+        {
+            "name": "Sonstige",
+            "values": [
+                2.0,
+                1.5,
+                1.5,
+                1.5,
+                2.0,
+                1.5,
+                1.5,
+                0.5
+            ]
+        }
+    ],
+    "categories": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der Reisenden in Millionen",
+        "source_note": "© Statista 2021<br>Quelle anzeigen ⓘ"
+    },
+    "colors": [
+        "#3173C4",
+        "#0F2039",
+        "#BDBDBD"
+    ]
+}

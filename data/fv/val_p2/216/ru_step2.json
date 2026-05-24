@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Majority' vs 'most', 'allocated to' vs 'accounted for by', and 'event' vs 'ceremony' are all minor stylistic or synonymous variations that do not alter the core message about the expenditure focus."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "There is a significant semantic error in one of the chart data labels: 'Upload' was translated to 'Download', which is a direct contradiction of the original meaning. While other labels are identical or have only minor, acceptable differences, this specific change significantly distorts the meaning of a key data point."
+    },
+    "claim": "The majority of expenditure in the WLM-ZA-2012 dataset is allocated to Awards event.",
+    "translated_claim": "Большая часть расходов в наборе данных WLM-ZA-2012 приходится на Церемонию награждения."
+}

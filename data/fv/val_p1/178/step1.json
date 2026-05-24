@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, colors, and the title are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart for 2010 shows that the 'Support' group was 34.7% and the 'Oppose' group was 27.8%. Therefore, the claim that the support was greater than the oppose group is correct, as 34.7% is larger than 27.8%."
+    },
+    "claim": "The signpost support was maximum than the oppose group in the year 2010.",
+    "label": true
+}

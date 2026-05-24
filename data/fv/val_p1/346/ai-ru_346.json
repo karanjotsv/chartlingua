@@ -1,0 +1,37 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "series": [
+            {
+                "name": null,
+                "values": [
+                    100,
+                    30,
+                    15,
+                    8,
+                    5,
+                    3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "СОКРАЩЕНИЕ ОБЪЕМА СО ВРЕМЕНЕМ",
+        "subtitle": null,
+        "x_axis_title": "ГОДЫ В РЕЗЕРВУАРЕ",
+        "y_axis_title": "ПРОЦЕНТ<br>ОСТАТКА",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#D50000"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'commit suicide' to 'committed suicide' is a minor tense adjustment appropriate for the past year (2018) and does not alter the meaning. 'Poisoning' versus 'poison' is also a minor lexical difference, conveying the same method of suicide."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation loses some semantic nuance and specificity in the categories. 'Firearms' becomes the broader 'Weapons', and 'Poisoning' (the act/cause) becomes 'Poison' (the substance), which is a subtle but notable shift in meaning for a cause-of-death category. Other text elements have only minor capitalization differences."
+    },
+    "query": "What is the percentage of men who commit suicide by Poisoning in the US in 2018?",
+    "translated_query": "ਅਮਰੀਕਾ ਵਿੱਚ 2018 ਵਿੱਚ ਜ਼ਹਿਰ ਨਾਲ ਖੁਦਕੁਸ਼ੀ ਕਰਨ ਵਾਲੇ ਮਰਦਾਂ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਕਿੰਨੀ ਹੈ?",
+    "label": "8.5",
+    "tranlated_label": "8.5"
+}

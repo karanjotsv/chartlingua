@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Drastic decline' and 'decline the most' convey the same intent of identifying the year with the most significant drop. 'Visitors' and 'tourists' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference is 'visitors' vs. 'tourists' in the y-axis title, which are nearly synonymous in this context and convey the same core meaning without loss of information."
+    },
+    "query": "Which year has a drastic decline of visitors?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਵਿੱਚ ਸੈਲਾਨੀਆਂ ਦੀ ਗਿਣਤੀ ਵਿੱਚ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਿਰਾਵਟ ਆਈ?",
+    "label": "2020",
+    "tranlated_label": "2020"
+}

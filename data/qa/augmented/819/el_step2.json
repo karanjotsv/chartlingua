@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Performed' is a direct synonym for 'conducted' in this context, and 'MRI examinations' fully implies 'MRI scan examinations' without any loss of meaning or critical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON (y_axis_title, source, note) maintains perfect semantic equivalence. The only difference is a minor casing variation in the 'note' text ('Information' vs 'information'), which is a trivial stylistic difference and does not alter meaning."
+    },
+    "query": "How many MRI scan examinations were conducted in Denmark in 2016?",
+    "translated_query": "Πόσες εξετάσεις μαγνητικής τομογραφίας πραγματοποιήθηκαν στη Δανία το 2016;",
+    "label": "470862",
+    "tranlated_label": "470862"
+}

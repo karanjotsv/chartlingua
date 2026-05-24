@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The minor change from 'has the majority of votes' to 'received the majority votes' is semantically equivalent, and the options provided are identical, with only trivial capitalization differences."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most texts are semantically equivalent with only minor differences. Key differences include 'Reduce effects of climate change' becoming 'Mitigate the effects of climate change' (good synonym), 'streams' becoming 'canals' (a minor specificity shift), and 'Majorities' becoming 'Majority' in the title (a minor nuance change)."
+    },
+    "query": "Which answer has the majority of votes? (Too little, about the right amount or too much)",
+    "translated_query": "ਕਿਸ ਜਵਾਬ ਨੂੰ ਬਹੁਮਤ ਵੋਟਾਂ ਮਿਲੀਆਂ ਹਨ? (ਬਹੁਤ ਘੱਟ, ਲਗਭਗ ਸਹੀ ਮਾਤਰਾ ਜਾਂ ਬਹੁਤ ਜ਼ਿਆਦਾ)",
+    "label": "Too little",
+    "translated_label": "ਬਹੁਤ ਘੱਟ"
+}

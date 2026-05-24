@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly plots a subset of the data from the original, with accurate values, titles, and colors for the points it includes. However, it omits a large number of movies from the original's top 50 list, which significantly changes the chart's comprehensiveness and distorts the message of it being an 'All Time' list.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap on the y-axis labels (movie titles), making them difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart lists 'Harry Potter and the Deathly Hallows - Part 2 (2011)' with the number 10 next to it, indicating it is the 10th highest-grossing movie on the list. This contradicts the claim that none of the top 10 movies are from the Harry Potter franchise."
+    },
+    "claim": "None of the top 10 highest-grossing movies are from the Harry Potter franchise.",
+    "label": "FALSE"
+}

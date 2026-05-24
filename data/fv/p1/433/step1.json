@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered image is a highly faithful recreation of the original. It accurately reproduces the bar chart's growth trend, all textual elements, color hues, and overall layout. Minor stylistic simplifications, such as removing the UN logo from the key and the lines from the circle, do not alter the core message or data representation.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The text 'UNITED NATIONS' is slightly clipped at the bottom by the image boundary."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart clearly displays six vertical bars, which are red in color, corresponding to the vertical axis labeled 'DEVELOPMENT'."
+    },
+    "claim": "Six red colour bars are used for the vertical axis as Development.",
+    "label": true
+}

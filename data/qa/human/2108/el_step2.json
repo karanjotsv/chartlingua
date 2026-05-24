@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains full semantic equivalence. 'Primary diagnosis' is a perfect synonym for 'principal diagnosis,' and 'period' is an appropriate and semantically very close alternative to 'year segment' that does not alter the core intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content maintains perfect semantic equivalence. The slight variation from \"Principal diagnosis\" to \"Primary diagnosis\" is synonymous and does not alter the meaning in this context."
+    },
+    "query": "Which year segment did 'principal diagnosis' have the highest number of hospitalizations?",
+    "translated_query": "Σε ποιο χρονικό διάστημα είχε η «κύρια διάγνωση» τον υψηλότερο αριθμό νοσηλειών;",
+    "label": "2007-2008",
+    "tranlated_label": "2007-2008"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, and color hues are identical to the original. The rendered chart adds a title and legend text which were absent or redacted in the original, but this is an enhancement rather than an inconsistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that Professional Occupations is the highest. The pie chart clearly shows that 'Professional Occupations' (red slice) constitutes 32% of the total, which is the largest percentage of all the categories shown."
+    },
+    "claim": "Professional occupations tends to the highest ",
+    "label": true
+}

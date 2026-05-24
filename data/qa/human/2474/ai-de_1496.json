@@ -1,0 +1,67 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Ich nutze es regelmäßig",
+            "Ich nutze es gelegentlich",
+            "Ich habe es einmal genutzt",
+            "Ich kann mir vorstellen, es zu nutzen",
+            "Ich werde es nicht nutzen"
+        ],
+        "series": [
+            {
+                "name": "18 bis 29 Jahre",
+                "data": [
+                    11,
+                    14,
+                    13,
+                    42,
+                    21
+                ]
+            },
+            {
+                "name": "30 bis 45 Jahre",
+                "data": [
+                    6,
+                    11,
+                    11,
+                    52,
+                    20
+                ]
+            },
+            {
+                "name": "46 bis 60 Jahre",
+                "data": [
+                    5,
+                    8,
+                    5,
+                    53,
+                    29
+                ]
+            },
+            {
+                "name": "61 Jahre und älter",
+                "data": [
+                    1,
+                    4,
+                    3,
+                    56,
+                    36
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Prozentsatz der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#267fca",
+        "#0f2d4f",
+        "#c0c0c0",
+        "#b81b1b"
+    ]
+}

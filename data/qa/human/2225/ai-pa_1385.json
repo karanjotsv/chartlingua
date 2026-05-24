@@ -1,0 +1,40 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2002",
+            "2012",
+            "2016"
+        ],
+        "series": [
+            {
+                "name": "ਮਰਦ",
+                "data": [
+                    73.3,
+                    54.7,
+                    53
+                ]
+            },
+            {
+                "name": "ਔਰਤ",
+                "data": [
+                    20.1,
+                    16.6,
+                    17.1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਪ੍ਰਤੀ 100,000 ਆਬਾਦੀ 'ਤੇ ਮੌਤਾਂ",
+        "source": "© Statista 2021",
+        "note": "ਹੋਰ ਜਾਣਕਾਰੀ"
+    },
+    "colors": [
+        "#367DCD",
+        "#162E40"
+    ]
+}

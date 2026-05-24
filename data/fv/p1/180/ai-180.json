@@ -1,0 +1,56 @@
+{
+    "chart_type": "nested_pie",
+    "chart_data": [
+        {
+            "labels": [
+                "Non-food",
+                "Food"
+            ],
+            "values": [
+                85.6,
+                14.4
+            ]
+        },
+        {
+            "labels": [
+                "Agriculture",
+                "Processing",
+                "Packaging",
+                "Transportation",
+                "Wholesale & retail",
+                "Food service",
+                "Households"
+            ],
+            "values": [
+                2.0,
+                2.8,
+                0.9,
+                0.6,
+                2.2,
+                1.7,
+                4.1
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Energy used by components of the U.S. food system as a proportion of total energy use in the U.S. in 2002.",
+        "subtitle": "Based on data from the Economic Research Service of the United States Department of Agriculture, presented in the report \"Energy Use in the U.S. Food System\" (Canning et al., 2010).",
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "main_pie_colors": [
+            "#829356",
+            "#E8EFE3"
+        ],
+        "detail_pie_colors": [
+            "#B7D09A",
+            "#AEC68F",
+            "#E8EFE3",
+            "#8F9F6F",
+            "#829356",
+            "#758645",
+            "#9DB47B"
+        ]
+    }
+}

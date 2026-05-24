@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. 'Less than' and 'smaller than' are equivalent in this context when referring to numerical values like an absorption coefficient. The minor grammatical difference ('a wavelength' vs 'wavelength') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (x_axis_title and y_axis_title) is an exact semantic match between the original and back-translated JSON. All null fields also match."
+    },
+    "claim": "The absorption coefficient for HbO2 at wavelength of 1000 is less than that for Hb at the same values.",
+    "translated_claim": "Ο συντελεστής απορρόφησης για το HbO2 σε μήκος κύματος 1000 είναι μικρότερος από αυτόν για το Hb στις ίδιες τιμές."
+}

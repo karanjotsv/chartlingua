@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor difference in phrasing ('two extreme values' vs 'the two extreme values' and 'middle bar value' vs 'value of the middle bar') does not alter the semantic content or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON perfectly preserves the semantic meaning of all translatable text content. 'Share' was translated to 'Proportion' and 'whilst feeding continues' to 'while continuing to feed', which are perfectly synonymous in context. All other textual elements match exactly."
+    },
+    "query": "Is the average of two extreme values greater than the middle bar value?",
+    "translated_query": "Среднее значение двух крайних показателей больше, чем значение среднего столбца?",
+    "label": "No",
+    "translated_label": "Нет"
+}

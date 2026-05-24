@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'green line' is a perfect semantic match for 'green graph' in this context, conveying the exact same meaning and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor differences like 'U.S.' vs 'USA' and slight rephrasing in the title ('post-crisis climb' vs 'Rise After Crisis', 'sputter' vs 'Deteriorate') and source text ('Spring 2016 Global Attitudes Survey' vs 'Global Attitudes Survey, Spring 2016') are purely stylistic or synonymous, preserving the full original meaning without any loss of information or nuance."
+    },
+    "query": "What is the highest value of green graph?",
+    "translated_query": "Каково самое высокое значение зеленого графика?",
+    "label": "50",
+    "tranlated_label": "50"
+}

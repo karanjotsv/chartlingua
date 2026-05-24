@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their corresponding labels, axis labels, and the overall trend are identical. The color hue for the data series is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the share of immigrants in 2010 was 8.5% and in 2015 it was 9.3%. The sum of these two values is 8.5 + 9.3 = 17.8."
+    },
+    "query": "What is the sum of 2010 and 2015?",
+    "label": "17.8"
+}

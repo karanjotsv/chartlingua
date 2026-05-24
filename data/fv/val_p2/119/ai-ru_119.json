@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Открытый ствол",
+            "value": 1,
+            "display_label": "Открытый<br>ствол, 1"
+        },
+        {
+            "category": "Незащищенный ствол",
+            "value": 1,
+            "display_label": "Незащищенный<br>ствол, 1"
+        },
+        {
+            "category": "Место соединения ствола и ветви",
+            "value": 3,
+            "display_label": "Место<br>соединения ствола<br>и ветви,<br>3"
+        },
+        {
+            "category": "Ветви (> 5 см в диаметре)",
+            "value": 10,
+            "display_label": "Ветви<br>(> 5 см<br>в диаметре),<br>10"
+        },
+        {
+            "category": "Ветви и побеги (< 5 см в диаметре)",
+            "value": 8,
+            "display_label": "Ветви<br>и побеги (&lt;<br>5 см<br>в диаметре), 8"
+        }
+    ],
+    "texts": {
+        "title": "Естественные места отдыха березовых пядениц<br>2001-2003",
+        "subtitle": "Общее количество замеченных мотыльков = 23",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#a6a6e8",
+        "#993366",
+        "#ffffcc",
+        "#b3ffff",
+        "#660066"
+    ]
+}

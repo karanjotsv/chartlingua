@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "सभी उत्तरदाता",
+            "डेमोक्रेट",
+            "रिपब्लिकन"
+        ],
+        "series": [
+            {
+                "name": "हाँ",
+                "data": [
+                    41,
+                    65,
+                    24
+                ]
+            },
+            {
+                "name": "नहीं",
+                "data": [
+                    34,
+                    17,
+                    54
+                ]
+            },
+            {
+                "name": "पक्का नहीं",
+                "data": [
+                    25,
+                    19,
+                    22
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "उत्तरदाताओं का हिस्सा",
+        "source": "© स्टेटिस्टा 2021"
+    },
+    "colors": [
+        "#267DCE",
+        "#123247",
+        "#BDBDBD"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Account for' and 'represent' are synonymous in this context, and 'revenue'/'revenues' are used interchangeably."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart_data and source texts are perfectly matched. The only difference is a slight rephrasing and pluralization in the chart title ('Tax Revenue' vs. 'Tax Revenues' and a minor reordering of 'State and Local Government'), which does not significantly alter the semantic meaning of the title."
+    },
+    "claim": "Other taxes account for 50% of revenue.",
+    "translated_claim": "Οι άλλοι φόροι αντιπροσωπεύουν το 50% των εσόδων."
+}

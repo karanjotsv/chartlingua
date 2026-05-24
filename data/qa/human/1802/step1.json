@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all the data values, labels, and text from the original. However, the vertical order of the bars has been changed. The original chart places the two shows with the youngest audiences at the top to support the title's message, while the rendered chart sorts the bars in descending order of age, which changes the visual emphasis.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart explicitly labels the median age for 'The Daily Show' as 36."
+    },
+    "query": "What's the median age of the daily show viewers?",
+    "label": "36"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the semantic meaning of the original. The differences are minor stylistic variations ('clocks in at' vs 'is', 'over' vs 'above') and a decimal separator convention (comma vs period), none of which alter the core information or introduce ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements maintain perfect semantic equivalence. Differences such as 'fluids' vs 'liquids', 'Grey' vs 'Gray', capitalization, punctuation, and decimal separators are minor stylistic or regional variations that do not alter the meaning or information conveyed."
+    },
+    "claim": "Mixing at time t = 0 (k = 0,025) temperature clocks in at over 60.",
+    "translated_claim": "Смешивание в момент времени t = 0 (k = 0,025), температура составляет более 60."
+}

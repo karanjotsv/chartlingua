@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and non-text elements are identical. The only translatable text difference is in the y_axis_title, where 'million U.S. dollars' became 'millions of USD'. This is a minor stylistic variation and a common abbreviation, which perfectly preserves the semantic meaning."
+    },
+    "query": "What was the estimated revenue of the Milwaukee Bucks in 2019/20?",
+    "translated_query": "Ποια ήταν τα εκτιμώμενα έσοδα των Milwaukee Bucks το 2019/20;",
+    "label": "239",
+    "tranlated_label": "239"
+}

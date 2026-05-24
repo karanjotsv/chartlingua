@@ -1,0 +1,50 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Total",
+            "Rep/Simpatizanți Rep",
+            "Dem/Simpatizanți Dem"
+        ],
+        "series": [
+            {
+                "name": "Majore",
+                "values": [
+                    9,
+                    7,
+                    11
+                ]
+            },
+            {
+                "name": "Minore",
+                "values": [
+                    29,
+                    30,
+                    29
+                ]
+            },
+            {
+                "name": "Fără dispute",
+                "values": [
+                    61,
+                    62,
+                    60
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Unii au avut dispute electorale –<br>puțini le descriu ca fiind „majore”",
+        "subtitle": "% dintre cei care spun că au avut o dispută ___ cu o altă<br>persoană pe tema alegerilor din 2016 sau a rezultatului acestora",
+        "source": "Sursă: Sondaj realizat în perioada 29 nov.-12 dec. 2016.",
+        "note": "Notă: Răspunsurile „Nu știu/Fără răspuns” nu sunt afișate.",
+        "branding": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#c69133",
+        "#e3bb74",
+        "#f2e2c6"
+    ]
+}

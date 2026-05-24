@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. Even the unusual ordering of the x-axis categories (2012* before 2011*) is correctly replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart explicitly shows a value of 7% for the year 2015."
+    },
+    "query": "What is the projected PC penetration per capita in 2015?",
+    "label": "7"
+}

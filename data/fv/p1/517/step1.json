@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, titles, and color hue are all consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's Y-axis, which is labeled 'ideas', clearly shows a numerical scale with labeled tick marks starting at 0 and ending at 250, directly supporting the claim."
+    },
+    "claim": "Scale of ideas on the chart is from 0 to 250. ",
+    "label": true
+}

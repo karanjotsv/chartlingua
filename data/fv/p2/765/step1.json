@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data points, country labels in the correct order, and the main title. The color hues for 'Political right' (red), 'Political center' (grey), and 'Political left' (green) are consistent with the original. The overall message and interpretation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart consistently shows a clear pattern across all listed countries: the percentage of people who believe 'Climate change is a major threat' is highest among the 'Political left' (green dots), lower for the 'Political center' (grey dots), and lowest for the 'Political right' (red dots). This demonstrates a direct correlation between political viewpoint and the perception of climate change as a threat."
+    },
+    "claim": "There is a correlation between political viewpoint and the perception of climate change as a threat.",
+    "label": "TRUE"
+}

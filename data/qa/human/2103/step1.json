@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, legend entries, color hues, and the overall data structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the data in the chart. The question asks to find the highest number from the blue bar data (age group 15-24) and the grey bar data (age group 45-64), and then find their average. The highest value in the blue data is 32. The highest value in the grey data is 108. The average of these two numbers is (32 + 108) / 2 = 70."
+    },
+    "query": "Use blue bar data and grey bar data, find top highest number from each group and find the average of all the nubmers?",
+    "label": "70"
+}

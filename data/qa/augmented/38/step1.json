@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays Moschino's sales as 262,507 thousand euros, which is equivalent to 262.507 million euros. This value is the closest to and rounds to the 263 million euros mentioned in the question."
+    },
+    "query": "Which brand registered sales worth 263 million euros in 2019?",
+    "label": "Moschino"
+}

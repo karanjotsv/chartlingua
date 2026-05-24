@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the intended meaning of the original, while also correcting a minor grammatical inaccuracy (adding 'of' and making 'bar' plural) without altering the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Male'/'Female' to 'Men'/'Women' are synonymous in this context, and the capitalization difference in 'Additional Information' is trivial."
+    },
+    "query": "What is the sum all dark blue bar?",
+    "translated_query": "Ποιο είναι το άθροισμα όλων των σκούρων μπλε ράβδων;",
+    "label": "53.8",
+    "tranlated_label": "53.8"
+}

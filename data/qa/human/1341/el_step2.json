@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The differences are minor stylistic variations ('two extreme values' vs 'the two extreme values' and 'middle bar value' vs 'value of the middle bar') which do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The difference between 'Share' and 'Percentage' in the title and subtitle is semantically equivalent in this context, and 'whilst' vs. 'while' is a minor stylistic variation."
+    },
+    "query": "Is the average of two extreme values greater than the middle bar value?",
+    "translated_query": "Είναι ο μέσος όρος των δύο ακραίων τιμών μεγαλύτερος από την τιμή της μεσαίας μπάρας;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

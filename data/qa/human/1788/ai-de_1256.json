@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Singapur",
+            "value": 48.3
+        },
+        {
+            "category": "Italien",
+            "value": 57.0
+        }
+    ],
+    "texts": {
+        "title": "Schulleiter",
+        "subtitle": "Sekundarstufe I, Durchschnittsalter, Jahre, 2013",
+        "source": "Quelle: TALIS Internationale Studie über Lehren und Lernen - Indikatoren",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0095DA",
+        "#E31E24"
+    ],
+    "annotations": [
+        {
+            "x": "Italien",
+            "y": 37,
+            "text": "Italien 2013<br><b>57.0</b><br>Jahre",
+            "align": "left"
+        }
+    ]
+}

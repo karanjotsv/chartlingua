@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, and color hues are identical. The overall message and data representation are preserved, with the only difference being a stylistic choice to explode one of the slices.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that Internet Explorer has the largest market share at 29.05%, which is a higher percentage than any other browser listed."
+    },
+    "claim": "Internet Explorer is the leader in market share of browsers.",
+    "label": "TRUE"
+}

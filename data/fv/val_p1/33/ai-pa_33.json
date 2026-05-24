@@ -1,0 +1,40 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "ਲੈਕਟੋਜ਼",
+            "value": 37.0
+        },
+        {
+            "label": "ਖਣਿਜ",
+            "value": 6.0
+        },
+        {
+            "label": "ਪ੍ਰੋਟੀਨ",
+            "value": 26.0
+        },
+        {
+            "label": "ਚਰਬੀ",
+            "value": 31.0
+        }
+    ],
+    "texts": {
+        "title": "ਦੁੱਧ ਦੀ ਬਣਤਰ",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "series": [
+            "#A1B962",
+            "#9363A2",
+            "#C7607D",
+            "#488AC2"
+        ],
+        "background": "#F8E9DD",
+        "text": "#5A3833",
+        "legend_text": "#2F2F2F"
+    }
+}

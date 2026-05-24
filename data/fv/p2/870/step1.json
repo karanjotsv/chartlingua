@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and proportions are identical. The only significant difference is the stylistic choice to 'explode' one of the slices, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses a monetary distribution of '$250k' among 'people', but the pie chart displays the market share percentages of web browsers. The chart contains no information about money or people."
+    },
+    "claim": "More than $250k amount is distributed to the 6% of people which is least percentage in the pie chart.",
+    "label": "TRUE"
+}

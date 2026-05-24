@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'The total value' is a clear and accurate interpretation of 'The value of all the bars', and 'greater than' is a direct synonym for 'more than'."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The overall equivalence is poor due to significant semantic errors in key chart categories. 'DRC of Building' was generalized to 'Current value of the building', losing important technical specificity. More critically, 'Amenity' was incorrectly translated as 'Equipment value', which represents a completely different component in property valuation and significantly distorts the chart's meaning."
+    },
+    "claim": "The value of all the bars is more than 100.",
+    "translated_claim": "Der Gesamtwert aller Balken ist größer als 100."
+}

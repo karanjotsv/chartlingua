@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. 'BBC commercial' is acceptably clarified to 'BBC Commercial Revenue,' and 'values of income' to 'revenue figures' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. Differences are minor stylistic variations (e.g., 'income' vs 'revenue', 'BBC Commercial' vs 'BBC Commercial Revenue' for clarity, spacing in numeric labels) that do not alter the meaning or information conveyed."
+    },
+    "claim": "BBC commercial had lower values of income than Government bonds",
+    "translated_claim": "Τα εμπορικά έσοδα του BBC είχαν χαμηλότερες τιμές εσόδων από τα κρατικά ομόλογα."
+}

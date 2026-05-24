@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The charts, titles, data labels, and color hues are all highly consistent. However, the rendered image is missing some of the descriptive text below the left-hand chart (the 'Feminine' and 'Neutral' counts and percentages are omitted).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart on the left indicates that 7% of Spanish nouns ending in 'a/á' are masculine. The pie chart on the right shows that 2% of Spanish names ending in 'a' are male. As 7% is higher than 2%, the claim is supported by the charts."
+    },
+    "claim": "A higher percentage of masculine Spanish nouns end in \"a\" than male Spanish names.",
+    "label": true
+}

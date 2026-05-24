@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The minor differences ('1000nm' vs '1000 nm' and 'than that of HbO2' vs 'than HbO2') are purely stylistic and do not alter the semantic content or introduce any new meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (specifically the labels in `chart_data`) is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "claim": "The absorption coefficient of Hb is higher at 1000nm than HbO2.",
+    "translated_claim": "Коэффициент поглощения Hb выше при 1000 нм, чем у HbO2."
+}

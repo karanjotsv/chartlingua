@@ -1,0 +1,60 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Android",
+            "value": 4.59
+        },
+        {
+            "label": "Opera",
+            "value": 4.53
+        },
+        {
+            "label": "Other",
+            "value": 4.46
+        },
+        {
+            "label": "Chrome",
+            "value": 29.03
+        },
+        {
+            "label": "IE",
+            "value": 22.54
+        },
+        {
+            "label": "Firefox",
+            "value": 19.26
+        },
+        {
+            "label": "Safari",
+            "value": 15.59
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    },
+    "colors": {
+        "slices": [
+            "#FF4F40",
+            "#33CC33",
+            "#40E0D0",
+            "#001A33",
+            "#A020F0",
+            "#800020",
+            "#FF8C00"
+        ],
+        "labels": [
+            "#FF4F40",
+            "#33CC33",
+            "#40E0D0",
+            "#0074D9",
+            "#A020F0",
+            "#800020",
+            "#FF8C00"
+        ],
+        "background": "#000000",
+        "pie_border": "#FFFFFF"
+    }
+}

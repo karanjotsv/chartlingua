@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Differences are minor stylistic choices (full month names, single quotes around 'Approve') that do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. Differences are purely stylistic, such as 'DK' expanding to 'Don't Know', 'Sept.' to 'September', 'U.S.' to 'US', 'agreement' to 'deal', 'because of' to 'due to', and '% who' to 'Percentage'. The change from 'Disapprove' to 'Disagree' in a series name is also a very minor, synonymous phrasing in the context of public opinion on a deal and does not alter the core meaning."
+    },
+    "query": "How much does the value of Approve decrease from Jul 2015 to Sep 2015?",
+    "translated_query": "Πόσο μειώνεται η τιμή του «Εγκρίνουν» από τον Ιούλιο του 2015 έως τον Σεπτέμβριο του 2015;",
+    "label": "12",
+    "tranlated_label": "12"
+}

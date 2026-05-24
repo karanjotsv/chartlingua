@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'volume of Norway's road freight transport' perfectly matches 'Norway's road freight transport volume' without any loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is in the 'y_axis_title' ('Transport volume' vs 'Volume of transport'), which is a minor stylistic variation that does not alter the core meaning."
+    },
+    "query": "What was Norway's road freight transport volume in 2019?",
+    "translated_query": "Ποιος ήταν ο όγκος οδικών εμπορευματικών μεταφορών της Νορβηγίας το 2019;",
+    "label": "20526",
+    "tranlated_label": "20526"
+}

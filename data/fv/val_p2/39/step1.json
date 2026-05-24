@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to data by 'year', but the chart's horizontal axis represents 'Age', not 'Year'. The chart does not provide any information about arrest numbers across different years."
+    },
+    "claim": "According to the chart, the number of arrested women is not same in any year.",
+    "label": "FALSE"
+}

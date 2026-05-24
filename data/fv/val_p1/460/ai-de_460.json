@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Allgemeine/Lokale Verwaltung",
+            "Fachkräfte",
+            "Haushaltsdienste oder Büros",
+            "Landwirtschaft",
+            "Berufe mit Tieren",
+            "Haus, Möbel und Dekorationen",
+            "Gastgewerbe",
+            "Bekleidung",
+            "Verschiedene mineralische Stoffe",
+            "Allgemeine oder unspezifizierte Waren",
+            "Unbekannter Beruf"
+        ],
+        "series": [
+            {
+                "name": "Männlich",
+                "data": [
+                    1,
+                    1,
+                    2,
+                    44,
+                    2,
+                    6,
+                    1,
+                    2,
+                    1,
+                    1,
+                    4
+                ]
+            },
+            {
+                "name": "Weiblich",
+                "data": [
+                    0,
+                    4,
+                    21,
+                    2,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    49
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Beruf",
+        "y_axis_title": "Bevölkerung"
+    },
+    "colors": [
+        "#4472C4",
+        "#ED7D31"
+    ]
+}

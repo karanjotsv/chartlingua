@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Tatsächlich",
+            "value": 2.5,
+            "annotation": "T<br>A<br>T<br>S<br>Ä<br>C<br>H<br>L<br>I<br>C<br>H"
+        },
+        {
+            "category": "Prognostiziert",
+            "value": 2.6,
+            "annotation": "P<br>R<br>O<br>G<br>N<br>O<br>S<br>T<br>I<br>Z<br>I<br>E<br>R<br>T"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bar_color": "#F98D09",
+        "annotation_text_color": "#000000",
+        "grid_color": "#C0C0C0",
+        "axis_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

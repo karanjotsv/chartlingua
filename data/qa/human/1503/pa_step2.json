@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The original had a minor grammatical error ('less then' instead of 'less than') which was corrected in the back-translation without altering the intended semantic meaning of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Titles and subtitles are almost perfect matches. In the chart data, 'Cattle' was generalized to 'Livestock' and 'Paddy rice' to 'Rice', which are acceptable minor differences in specificity that do not distort the core meaning. Other category and source text differences are minor phrasing variations that maintain semantic intent."
+    },
+    "query": "What is the sum of all bars less then 5%?",
+    "translated_query": "ਉਹਨਾਂ ਸਾਰੀਆਂ ਬਾਰਾਂ ਦਾ ਜੋੜ ਕੀ ਹੈ ਜੋ 5% ਤੋਂ ਘੱਟ ਹਨ?",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

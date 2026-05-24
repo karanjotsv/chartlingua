@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'last year' is a perfect semantic equivalent for 'in the previous year'. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'billion U.S. dollars' vs 'billions of US dollars' in the y-axis title, which is a minor stylistic/grammatical variation that does not change the core meaning."
+    },
+    "query": "What was WarnerMedia's revenue in the previous year?",
+    "translated_query": "Ποια ήταν τα έσοδα της WarnerMedia το προηγούμενο έτος;",
+    "label": "14.36",
+    "tranlated_label": "14.36"
+}

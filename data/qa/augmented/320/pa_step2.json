@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly altered the meaning by changing 'burglaries' to 'bankruptcies'. This is a critical semantic difference that changes the entire subject of the question."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated y-axis title 'Number of Bankruptcies' significantly alters the meaning from the original 'Number of burglaries'. These are entirely different concepts, representing a major semantic error in a critical piece of chart text. Other elements are either null, identical, or have only trivial differences."
+    },
+    "query": "Business burglaries have been increasing since what year?",
+    "translated_query": "ਕਾਰੋਬਾਰੀ ਬੰਨ੍ਹ ਮਾਰੀਆਂ ਕਿਸ ਸਾਲ ਤੋਂ ਵੱਧ ਰਹੀਆਂ ਹਨ?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

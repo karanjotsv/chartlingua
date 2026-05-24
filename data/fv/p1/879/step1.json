@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The core data, colors, title, and legend are highly consistent with the original. The relative proportions of the donut slices are accurate. However, the rendered chart is missing two data labels (63% and 18%) and inexplicably adds nonsensical X and Y axes that were not in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has a gross layout issue: it includes completely inappropriate and nonsensical X and Y axes for a donut chart, which indicates a significant generation error."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 18% of people voted for 'no opinion'. According to the chart's inner ring ('before'), the percentage for 'no opinion' can be calculated as 100% - 46% (Dislike) - 37% (Like) = 17%. The outer ring ('after') shows no votes for 'no opinion'. Neither of these values is 18%. Additionally, the chart does not contain any date information, such as '29 April 2012'."
+    },
+    "claim": "The result of the poll on 29 April 2012, 18% people  votes for  no opinion.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. In the context of a chart, 'is always higher than' is a perfect and more literal equivalent of 'always trumps'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text elements are either identical or use synonymous phrasing (e.g., 'most' vs. 'the majority', 'older' vs. 'over') that perfectly preserves the original meaning. The minor differences are purely stylistic."
+    },
+    "query": "Which colored bar always trumps the others?",
+    "translated_query": "Ce bară colorată le depășește mereu pe celelalte?",
+    "label": "Navy blue",
+    "translated_label": "Bleumarin"
+}

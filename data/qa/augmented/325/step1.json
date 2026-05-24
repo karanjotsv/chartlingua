@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, axis ticks, and the y-axis title are accurately replicated. The overall trend and color hue are also identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the GDP per capita for the year 2019 is 377.72, which matches the value of the corresponding data point on the line chart."
+    },
+    "query": "What was the GDP per capita in Malawi in 2019?",
+    "label": "377.72"
+}

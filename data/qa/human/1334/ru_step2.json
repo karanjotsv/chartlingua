@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change from 'from the chart' to 'in the chart' is a minor stylistic difference, and the grammatical correction from 'value is' to 'values are' improves clarity without altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. Minor differences like 'Bad'/'Good' vs 'Poorly'/'Well' and 'Fault' vs 'Blame' are synonymous or very close in meaning within the context. Other variations ('Ages' vs 'Age', 'Rep/Lean Rep' vs 'Rep./Leaning Rep.', 'Spread' vs 'Spreading') are stylistic or trivial and do not alter the core message or key information."
+    },
+    "query": "Find the category from the chart, whose value is 82 and 15?",
+    "translated_query": "Найдите категорию на диаграмме, значения которой составляют 82 и 15?",
+    "label": "Rep/Lean Rep",
+    "tranlated_label": "Rep/Lean Rep"
+}

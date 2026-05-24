@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation loses some specificity and nuance. 'colon' is generalized to 'The large intestine', which is less precise. More importantly, 'is the low score' (implying a specific, potentially lowest, rank) is changed to 'has a low score' (a more general statement of a low value), reducing the strength and precision of the original claim."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable texts in the back-translated JSON are semantically equivalent to the original. Minor differences like 'Heart muscle' vs 'Cardiac muscle', 'Colon' vs 'Large intestine', 'Caudate' vs 'Caudate nucleus', and 'Cervix, uterine' vs 'Cervix' are either perfect synonyms or common variations that preserve the full meaning and refer to the same anatomical structures."
+    },
+    "claim": "colon is the low score in the expression levels of C5orf36 in human tissue.",
+    "translated_claim": "Το παχύ έντερο έχει χαμηλή βαθμολογία στα επίπεδα έκφρασης του C5orf36 στον ανθρώπινο ιστό."
+}

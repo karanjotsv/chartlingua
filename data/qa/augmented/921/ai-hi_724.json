@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "गूगल",
+            "x": [
+                "फ़ोन",
+                "टैबलेट",
+                "संयुक्त"
+            ],
+            "y": [
+                71,
+                3,
+                74
+            ]
+        },
+        {
+            "name": "माइक्रोसॉफ्ट एडवरटाइजिंग",
+            "x": [
+                "फ़ोन",
+                "टैबलेट",
+                "संयुक्त"
+            ],
+            "y": [
+                25,
+                5,
+                30
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "सर्च इम्प्रेशन वॉल्यूम",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#297ACC",
+        "#132D40"
+    ]
+}

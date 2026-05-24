@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the claim by swapping which region is associated with Timbuktu. The original specifies the 'Arabic region of Timbuktu', while the back-translation refers to the 'Songhai region of Timbuktu', which alters a key component of the comparison."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only differences are a minor, acceptable alternative spelling ('Songhai' vs. 'Songhay') and a trivial capitalization change ('Pop.' vs. 'pop.'), neither of which impacts the meaning."
+    },
+    "claim": "The population in 2009 at Songhay region is larger than Arabic region of Timbuktu.",
+    "translated_claim": "Die Bevölkerung in der Songhai-Region war 2009 größer als in der arabischen Region von Timbuktu."
+}

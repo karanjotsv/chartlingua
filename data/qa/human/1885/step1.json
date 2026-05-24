@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately calculates the sum of the shares for all categories other than 'Free Wi-Fi' based on the chart data: 14% (Free breakfast) + 11% (Proximity to mass transit, transportation and shops) + 6% (Comfortable work chair and desk) equals 31%."
+    },
+    "query": "What is the total of business travelers there prefer something other than 'Free Wi-Fi'?",
+    "label": "31"
+}

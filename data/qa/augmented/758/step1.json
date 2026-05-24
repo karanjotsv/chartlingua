@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and the color hue are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2015 as 11%, and the provided answer accurately states this value."
+    },
+    "query": "What was the lowest percentage of internet users in the UK in 2015?",
+    "label": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'grain' is broader than 'cereal'. While 'cereal' refers specifically to edible grains of cultivated grasses, 'grain' can encompass a wider range of seeds, including legumes and oilseeds. The back-translation narrows the scope of the original query, potentially leading to a different result if the most produced 'grain' were not a 'cereal'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including categories, x-axis title, and source, is perfectly identical in both the original and back-translated JSON, demonstrating excellent semantic equivalence."
+    },
+    "query": "Which is the most produced grain in  2019/20?",
+    "translated_query": "Ποιο είναι το πιο παραγόμενο σιτηρό το 2019/20;",
+    "label": "Corn",
+    "translated_label": "Καλαμπόκι"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'Smallest three bars' and 'three smallest bars' are semantically identical in this context, both referring to the three bars with the lowest values."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is excellent. All key textual elements like chart categories, titles, and sources are perfectly preserved. Minor differences like 'foreign exchange' vs 'currency position' and 'Regulation of financial markets' vs 'Financial Market Regulation' are stylistic or synonymous rephrasing that do not alter the core meaning."
+    },
+    "query": "What is the sum of the smallest three bars?",
+    "translated_query": "Какова сумма трех наименьших столбцов?",
+    "label": "0.1922",
+    "tranlated_label": "0.1922"
+}

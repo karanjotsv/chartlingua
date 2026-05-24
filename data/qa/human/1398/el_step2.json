@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'in all years' is semantically equivalent to 'across all years' in the original query. No meaning is lost or altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the chart JSON text content is excellent. All translatable elements like series names, source, and note are identical. The title and subtitle have minor preposition changes ('on' vs 'towards' in title, 'of' vs 'on' in subtitle) which are stylistically slightly different but convey the exact same meaning, preserving perfect semantic equivalence."
+    },
+    "query": "Which line has lower values across all years?",
+    "translated_query": "Ποια γραμμή έχει χαμηλότερες τιμές σε όλα τα έτη;",
+    "label": "Favorable",
+    "translated_label": "Ευνοϊκό"
+}

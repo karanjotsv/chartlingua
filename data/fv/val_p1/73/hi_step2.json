@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation is semantically very close, but substitutes 'categories' for 'ranges'. This is a minor loss of specificity, as 'ranges' implies numerical intervals, while 'categories' is a more general term."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The changes from symbols ('<', '>') to words ('Less than', 'More than') are accurate translations, and the difference in capitalization in the title is a minor stylistic variation that does not alter the meaning."
+    },
+    "claim": "The chart displays the distribution of donations based on specific ranges.",
+    "translated_claim": "यह चार्ट विशिष्ट श्रेणियों के आधार पर दानों का वितरण दिखाता है।"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the exact same data values, categories, text, and color assignments as the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the poll was taken in 2010 and in the Republic of Ireland, but the chart provides no information about the year or the location where the poll was conducted."
+    },
+    "claim": "In 2010, a majority of people in the Republic of Ireland voted yes.",
+    "label": true
+}

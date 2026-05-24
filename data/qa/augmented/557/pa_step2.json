@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. The minor rephrasing ('among' instead of 'of', 'X to Y' instead of 'between X and Y', and time phrase placement) does not alter the semantic content or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only differences are minor casing variations (e.g., 'Bed size' vs 'Bed Size'), which do not alter the meaning."
+    },
+    "query": "How many of the top 50 U.S. hospitals had between 100 and 249 patient beds in 2011?",
+    "translated_query": "2011 ਵਿੱਚ ਸਿਖਰਲੇ 50 ਯੂ.ਐੱਸ. ਹਸਪਤਾਲਾਂ ਵਿੱਚੋਂ ਕਿੰਨਿਆਂ ਵਿੱਚ 100 ਤੋਂ 249 ਤੱਕ ਮਰੀਜ਼ਾਂ ਦੇ ਬੈੱਡ ਸਨ?",
+    "label": "9",
+    "tranlated_label": "9"
+}

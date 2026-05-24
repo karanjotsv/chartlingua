@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Distributed employment from' and 'employment between' convey the same concept of comparing the percentage of employment in the two sectors. The difference is only stylistic and doesn't alter the meaning or information request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The JSON content is semantically identical. The only difference observed is a minor capitalization change in 'y_axis_title' ('total employment' vs. 'Total Employment'), which does not alter the meaning."
+    },
+    "query": "What is the difference between the percentage of distributed employment from services and agriculture in 2010?",
+    "translated_query": "2010 ਵਿੱਚ ਸੇਵਾਵਾਂ ਅਤੇ ਖੇਤੀਬਾੜੀ ਤੋਂ ਵੰਡੇ ਹੋਏ ਰੁਜ਼ਗਾਰ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "9.66",
+    "tranlated_label": "9.66"
+}

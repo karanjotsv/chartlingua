@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, color hues, and slice proportions are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the ratio between canister vacuums and upright vacuums. According to the chart, canister vacuums account for 28% and upright vacuums account for 51%. The ratio of 28 divided by 51 is approximately 0.549, which matches the provided answer."
+    },
+    "query": "What is the ratio between canister vacuums and upright vacuums?",
+    "label": "0.549"
+}

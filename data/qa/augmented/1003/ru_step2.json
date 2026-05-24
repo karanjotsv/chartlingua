@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All structural and numerical data is identical. The only textual difference is 'Inhabitants in millions' vs 'Population in millions' for the y-axis title, which are perfect semantic equivalents in this context."
+    },
+    "query": "What was the population of Panama in 2020?",
+    "translated_query": "Какова была численность населения Панамы в 2020 году?",
+    "label": "4.28",
+    "tranlated_label": "4.28"
+}

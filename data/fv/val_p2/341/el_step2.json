@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated query captures the general topic of federal transfer payments decreasing in relation to 2012. However, it loses the specific nuance of 'every year' which implies a consistent annual decrease, whereas 'since 2012' only indicates a general downward trend or a decrease compared to 2012, not necessarily year-on-year. The original query itself is slightly awkward ('every year 2012'), but assuming it intended 'every year since 2012', the back-translation loses critical detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly preserves the semantic meaning of the original. Minor differences like 'FEDERAL GOVERNMENT' becoming 'FEDERAL' in the title and 'BILLIONS OF U.S.' becoming 'BILLIONS U.S.' in the y-axis title are stylistic/grammatical nuances that do not alter the core information or understanding. The correction of 'UNITES' to 'UNITED' is a fix of a typo."
+    },
+    "claim": "The federal transfer payments have decreased every year 2012.",
+    "translated_claim": "Οι ομοσπονδιακές μεταβιβαστικές πληρωμές έχουν μειωθεί από το 2012."
+}

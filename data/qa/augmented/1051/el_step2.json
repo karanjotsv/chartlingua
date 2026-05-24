@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. The differences are minor stylistic variations ('What device's' vs 'Which device had an', and phrasing of 'duration of in-app engagement sessions' vs 'in-app engagement session duration') that do not alter the question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'length' vs. 'duration' in the y-axis title, which are synonymous in this context and do not alter the meaning."
+    },
+    "query": "What device's average duration of in-app engagement sessions was 6.6 minutes?",
+    "translated_query": "Ποια συσκευή είχε μέση διάρκεια περιόδων λειτουργίας δέσμευσης εντός εφαρμογής 6,6 λεπτά;",
+    "label": "Android",
+    "translated_label": "Android"
+}

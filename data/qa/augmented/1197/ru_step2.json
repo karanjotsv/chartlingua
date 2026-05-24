@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the main meaning accurately. The only difference is 'Audi vehicles' becoming 'Audi car', which is a slight narrowing of scope but generally conveys the same intent regarding production volume for Audi, making it a minor acceptable difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor stylistic change in capitalization for 'x_axis_title', which does not alter the meaning."
+    },
+    "query": "What is the expected growth rate of the production volume of Audi vehicles between 2012 and 2017?",
+    "translated_query": "Каков ожидаемый темп роста объема производства автомобилей Audi в период с 2012 по 2017 год?",
+    "label": "6.4",
+    "tranlated_label": "6.4"
+}

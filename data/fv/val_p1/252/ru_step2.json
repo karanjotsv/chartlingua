@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The change from 'is represented' to 'are represented' corrects a minor grammatical subject-verb agreement in the original without altering the core meaning. 'by the red color' vs 'in red' and 'in the pie chart' vs 'on the pie chart' are stylistic variations that maintain full semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. 'Estate & Gift Taxes' was rendered as 'Inheritance and Gift Taxes', which is a very close and acceptable synonym. 'Deposits of Earnings' as 'Revenue Deposits' also maintains the core meaning effectively. Other differences are trivial (e.g., '&' vs 'and', 'Corporation' vs 'Corporate')."
+    },
+    "claim": "Excise taxes is represented by the red color in the pie chart. ",
+    "translated_claim": "Акцизы представлены красным цветом на круговой диаграмме."
+}

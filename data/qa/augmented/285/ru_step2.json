@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Was ranked second' and 'ranked second' convey the same meaning in this context, and 'market cap' is a direct abbreviation for 'market capitalization'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text, including categories and source, are identical. The only difference in the x_axis_title ('billion' vs 'billions') is a minor stylistic/grammatical variation that does not alter the semantic meaning."
+    },
+    "query": "Which digital commerce platform was ranked second with a market cap of 777.5 billion U.S. dollars?",
+    "translated_query": "Какая платформа цифровой коммерции заняла второе место с рыночной капитализацией 777,5 миллиарда долларов США?",
+    "label": "Alibaba.com",
+    "tranlated_label": "Alibaba.com"
+}

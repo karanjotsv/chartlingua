@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall message are identical. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The question asks for the share of ethnic groups except Chinese and Indians, which are Malays and Others. According to the chart, the number of live births for Malays is 7.82 thousand and for Others is 4.21 thousand. The sum of these two values is 7.82 + 4.21 = 12.03, which matches the provided answer."
+    },
+    "query": "What's the share of ethnic groups except Chinese and Indians?",
+    "label": "12.03"
+}

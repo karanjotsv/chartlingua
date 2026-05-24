@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text elements (title, axes, labels, source), and color hues are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart uses two separate y-axes. The values for 'Total Testosterone' on the left y-axis range from approximately 375 to 660 ng/dL. The values for 'Free Testosterone' on the right y-axis range from approximately 5 to 13 ng/dL. By comparing the numerical values from their respective axes, the level of total testosterone is consistently and significantly higher than the level of free testosterone across all age groups shown."
+    },
+    "claim": "Always the level of total testosterone is higher than the free testosterone.",
+    "label": false
+}

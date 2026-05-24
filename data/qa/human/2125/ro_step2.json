@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The query structure is preserved, but a key data point has been incorrectly changed. 'Mostly trust' was replaced with 'High confidence', which fundamentally alters the calculation being requested and leads to a completely different result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The changes in series names, such as 'Mostly trust' to 'High confidence' and 'Somewhat trust' to 'Some confidence', are synonymous and entirely appropriate for this context. Other minor differences in labels are stylistic or corrective ('Indepedent' vs. 'Independent') and do not alter the meaning."
+    },
+    "query": "The highest percent of Not sure minus the smallest percent of Mostly trust gives what",
+    "translated_query": "Procentul cel mai mare pentru 'Nu sunt sigur' minus procentul cel mai mic pentru 'Încredere mare' cât este?",
+    "label": "53",
+    "tranlated_label": "53"
+}

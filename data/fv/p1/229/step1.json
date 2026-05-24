@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data categories, values, proportions, and text elements (including the title) are identical. The use of grayscale shades instead of patterns is a stylistic change that preserves the visual differentiation of the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the United States has the least ISI journal authorship, but the pie chart clearly shows the United States has the largest percentage at 34.80%."
+    },
+    "claim": "The United States has the least ISI journal authorship according to the chart.",
+    "label": false
+}

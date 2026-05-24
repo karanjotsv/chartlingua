@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the title, x-axis categories, y-axis scale, and all data values for each bar. The color hue (blue) is also consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is contradicted by the data. According to the chart, the number of people in Domestic Services is approximately 19, and the number in Agriculture is approximately 94. The average of these two values is (19 + 94) / 2 = 56.5, which is not 'about 20'."
+    },
+    "claim": "The average of the people who worked in Domestic service and Agriculture is about 20.",
+    "label": "FALSE"
+}

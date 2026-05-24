@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is almost completely empty. It is missing all the bar data from the original chart, failing to represent the core information, trends, and values. While the title, legend, and one annotation line are present, the fundamental data is absent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed as it fails to render any of the bar data, resulting in an empty plot. Additionally, there is a severe text overlap or rendering artifact on the x-axis, making potential labels unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the statistics are analyzed from 1961 to 2009, but the chart does not provide this time range. The x-axis, labeled 'Jahr' (Year), does not have readable labels for the start and end years, making it impossible to verify the claimed period of 1961-2009."
+    },
+    "claim": "The club participation statistics for Sudtiroler Bergturnfest, Brixen, South Tyrol, Italy analysed from 1961 to 2009.",
+    "label": true
+}

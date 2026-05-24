@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The specific process 'incineration' (burning of waste) is generalized to 'combustion', which is a broader term. This change loses the specific nuance and context of the original term regarding waste treatment, affecting accuracy."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels and data are perfectly matched. The primary difference is in the chart title, where 'Incineration' was back-translated as 'combustion'. While combustion is a broader term than incineration, it conveys a very similar meaning in the context of energy impact from burning, representing a minor loss of specificity rather than a significant semantic alteration."
+    },
+    "claim": "Resource has the lowest energy impact due to incineration.",
+    "translated_claim": "Ресурс имеет наименьшее энергетическое воздействие из-за сжигания."
+}

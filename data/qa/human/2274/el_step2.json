@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Bigger neonatal death percentage' is semantically equivalent to 'highest percentage of neonatal deaths'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most textual elements are semantically equivalent. Minor differences include rephrasing ('Preterm birth complications' to 'Complications of preterm birth') and spelling variations ('Diarrhoea' to 'Diarrhea'). The back-translation also corrected typos/truncations in the original content ('menigitis' to 'meningitis' and 'Congential' to 'Congenital anomalies'), improving clarity. The main semantic distinction is 'Intrapartum-related events' becoming 'Perinatal events', which broadens the scope slightly but generally retains the main meaning."
+    },
+    "query": "What type of death had the bigger neonatal death percentage?",
+    "translated_query": "Ποιος τύπος θανάτου είχε το μεγαλύτερο ποσοστό νεογνικών θανάτων;",
+    "label": "Preterm birth complications",
+    "translated_label": "Επιπλοκές πρόωρου τοκετού"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, showing perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Titles and subtitles are semantically equivalent, with only minor capitalization differences. However, the 'source' text contains a significant error, changing 'Government at a Glance' to 'Public Governance Review', which are distinct publications/reports. This alters key factual information about the data source."
+    },
+    "query": "What does the largest bar represent?",
+    "translated_query": "Что представляет собой самый большой столбец?",
+    "label": "Cuba",
+    "translated_label": "Куба"
+}

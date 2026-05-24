@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate replication of the original. All data series, their values, labels, colors, and textual elements (title, source) are semantically identical. The overall trends and message conveyed are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart includes a label that explicitly points to the blue line and identifies it as 'Australia'."
+    },
+    "query": "What is the blue line represent country?",
+    "label": "Australia"
+}

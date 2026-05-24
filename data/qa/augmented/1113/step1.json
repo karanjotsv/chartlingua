@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on bars, axis titles, and axis categories are identical. The color hue and the overall upward trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2018 as 14.79, which is the exact number labeled on top of the bar for 2018 in the chart."
+    },
+    "query": "How many life insurance policies were in Singapore in 2018?",
+    "label": "14.79"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the semantic meaning of the original. Differences like 'is equal with' vs 'is equal to' and 'together' vs 'combined' are stylistic or synonymous, and the addition/omission of 'energy' or 'sources' does not alter the core message of equality between the two sets of energy values."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements within the JSON, including titles, subtitles, and axis labels, maintain perfect semantic equivalence. The change from 'way of producing energy' to 'method of energy production' and 'very much support' to 'strongly support' are synonymous and in context, the latter even aligns better with the phrasing in the subtitle."
+    },
+    "claim": "The value of solar and coal energy sources is equal with the value of wind and Nuclear together.",
+    "translated_claim": "Η αξία της ηλιακής ενέργειας και της ενέργειας από άνθρακα είναι ίση με την αξία της αιολικής ενέργειας και της πυρηνικής ενέργειας μαζί."
+}

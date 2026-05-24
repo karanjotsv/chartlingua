@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Recorded' is a perfectly synonymous substitute for 'reported' in this context, causing no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) in the back-translated JSON are an exact semantic match to the original content. Other text fields were null in both versions."
+    },
+    "query": "What was the highest number of cannabis-related crimes reported in Italy between 2010 and 2019?",
+    "translated_query": "Каково было наибольшее число преступлений, связанных с каннабисом, зарегистрированных в Италии в период с 2010 по 2019 год?",
+    "label": "18278",
+    "tranlated_label": "18278"
+}

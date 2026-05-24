@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, title, source text, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the average amount of oil and traditional biomass & waste is about 30%. According to the pie chart, traditional biomass & waste accounts for 83% and oil accounts for 11%. The average of these two values is (83 + 11) / 2 = 47%, which is significantly different from the 30% stated in the claim."
+    },
+    "claim": "The average amount of oil and traditional biomass& waste is about 30%",
+    "label": "FALSE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. 'Insult' is a very close synonym for 'Abuse' in this context, and 'lowest proportion' for 'smallest proportion', and 'segments' for 'sections' are all semantically equivalent changes that do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most text elements like titles, legend names, and most categories match perfectly. The only difference is 'abuse' in the original categories changed to 'insult' in the back-translation. While 'insult' is a type of 'abuse', 'abuse' can be a broader category. However, in the context of feedback categories, 'insult' is an acceptable, albeit slightly narrower, semantic equivalent for 'abuse'."
+    },
+    "claim": "Abuse has the smallest proportion of feedback items in all three (1X, 1A, 1E) sections.",
+    "translated_claim": "Η προσβολή έχει τη μικρότερη αναλογία στοιχείων ανατροφοδότησης και στα τρία τμήματα (1X, 1A, 1E)."
+}

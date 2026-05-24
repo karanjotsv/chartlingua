@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent semantic match to the original. All data proportions, category labels, text content, and color assignments for the pie slices and legend are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Wet Prairie' is the largest portion of the pie chart. However, the chart visually shows that the slice representing 'Prairie' (yellow) is the largest segment, not 'Wet Prairie' (light yellow/cream)."
+    },
+    "claim": "The wet prairie is the largest portion of the pie chart",
+    "label": false
+}

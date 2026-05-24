@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text elements (title, axis labels, legend), and color hues are accurately reproduced. The overall message about the discharge spike is identical. Minor stylistic differences like font and gridline prominence do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the 'Canajoharie Creek', but the chart is titled 'USGS 01349000 OTSQUAGO CREEK AT FORT PLAIN NY'. The chart does not contain any information about the Canajoharie Creek."
+    },
+    "claim": " The discharge of the Canajoharie Creek fluctuated during February 2017.",
+    "label": true
+}

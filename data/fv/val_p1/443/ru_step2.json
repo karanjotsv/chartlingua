@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Make up' is accurately conveyed by 'constitute', 'United States' by 'U.S.', and 'receipts' by 'revenues'. The change from 'large portion' to 'largest portion' is a minor stylistic difference that does not alter the core message about income taxes being the dominant component."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content adds an extra data point `{\"label\": \"Other\", \"value\": 1}` to the `chart_data` array which was not present in the original. This fundamentally alters the dataset and its meaning, as the sum of values (101%) no longer matches the original (100%), which is a significant distortion for a pie chart representing a breakdown. While minor label differences like 'Individual-Income Taxes' to 'Individual Income Taxes', '&' to 'and', and 'Corporation Income Taxes' to 'Corporate Income Taxes' are acceptable, and 'Deposits of Earnings' to 'Contributions from Profits' is a slight semantic shift, the addition of an entire data point is a critical error."
+    },
+    "claim": "Income taxes make up the large portion of United States federal government total receipts in fiscal year 2010.",
+    "translated_claim": "Подоходные налоги составляют большую часть общих поступлений федерального правительства США в 2010 финансовом году."
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim omits the key qualifier 'metal', broadening 'metal mining industry' to 'mining industry'. While 'highest' and 'largest' are synonymous here, the loss of 'metal' reduces the specificity and accuracy of the original claim."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title, subtitle, source, and most chart data categories are identical. The change from 'Metal Mining' to 'Mining' represents a minor loss of specificity, while 'All Others' to 'Other' is a negligible stylistic difference."
+    },
+    "claim": "The metal mining industry disposed of the highest amount of toxic waste in 2015.",
+    "translated_claim": "Η βιομηχανία μεταλλευτικής μεταλλευμάτων διέθεσε τη μεγαλύτερη ποσότητα τοξικών αποβλήτων το 2015."
+}

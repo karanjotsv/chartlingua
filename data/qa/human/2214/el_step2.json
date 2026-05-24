@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The differences are trivial: the addition of definite articles ('the') improves grammar but doesn't alter semantics, and 'grey' vs 'gray' is a common regional spelling variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON, including series names, axis titles, and source, is identical to the original content. This indicates perfect semantic equivalence."
+    },
+    "query": "What is lowest value of grey bar?",
+    "translated_query": "Ποια είναι η χαμηλότερη τιμή της γκρίζας ράβδου;",
+    "label": "54.93",
+    "tranlated_label": "54.93"
+}

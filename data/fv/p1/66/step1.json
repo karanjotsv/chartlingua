@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The main pie chart's data and proportions are mostly consistent with the original. However, the secondary, zoomed-in pie chart is completely wrong. The original shows small, varying percentages for the smaller countries (e.g., 1%, 0%), while the rendered chart incorrectly labels every slice in the secondary chart as '14.3%', which fundamentally misrepresents the data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap in the data labels on both pie charts, particularly for the smaller slices, which makes some of the values difficult to read."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that foreigners from China constitute 54.5% of the total, which is the largest single percentage shown for any country of origin."
+    },
+    "claim": "The percentage of Chinese residing in South Korea is the highest among all foreign nationalities.",
+    "label": true
+}

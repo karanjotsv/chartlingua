@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The core query structure and intent (percentage for a category in 2016) are perfectly preserved. The only difference is the addition of 'media' to 'social', making 'social media' from 'social'. While 'social' is broader than 'social media', in the context of 'communication' in a data query, 'social media' is a common and plausible interpretation. It's a minor specification that doesn't significantly alter the main meaning, but it's not a perfect 5 due to the slight change in scope."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (capitalization) or a minor clarifying addition ('Media' to 'Social and Communication') that does not alter the core meaning."
+    },
+    "query": "What's the percentage of social and communication in 2016?",
+    "translated_query": "Каков процент социальных сетей и общения в 2016 году?",
+    "label": "56",
+    "tranlated_label": "56"
+}

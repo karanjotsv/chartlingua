@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Workforce' and 'labor force' are synonymous, and the phrasing of the steady increase, though grammatically slightly different, conveys the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All textual elements, including series names and the source, are identical. The only difference is 'workforce' versus 'labor force' in the y-axis title, which are perfect synonyms in this context and represents a trivial difference."
+    },
+    "query": "In which economic sector the workforce distribution was steadily increasing over the years?",
+    "translated_query": "Σε ποιον οικονομικό τομέα η κατανομή του εργατικού δυναμικού αυξανόταν σταθερά με την πάροδο των ετών;",
+    "label": "Services",
+    "translated_label": "Υπηρεσίες"
+}

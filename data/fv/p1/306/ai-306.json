@@ -1,0 +1,46 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Standard<br>Database<br>Search Hits",
+            "value": 32
+        },
+        {
+            "label": "PTM Search",
+            "value": 8
+        },
+        {
+            "label": "New<br>SPIDER<br>Peptides",
+            "value": 17
+        },
+        {
+            "label": "Noisy, unexplained<br>data",
+            "value": 43
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": "Figure 2: Peptide identification performance of various complimentary techniques. SPIDER helps<br>find a significant number of new peptides."
+    },
+    "colors": [
+        "#00599C",
+        "#996699",
+        "#E41A1C",
+        "#E0EFFF"
+    ],
+    "style": {
+        "pull": [
+            0,
+            0,
+            0.2,
+            0
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF",
+            "#00599C"
+        ]
+    }
+}

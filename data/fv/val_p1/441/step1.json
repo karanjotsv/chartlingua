@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, category labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that natural gas is the least source of electricity generation, but the pie chart clearly shows it is the largest source at 48.8%. The actual least source shown is solar, at 1.0%."
+    },
+    "claim": "The least source in the generation of electricity in Connecticut at the year 2016 is natural gas.",
+    "label": false
+}

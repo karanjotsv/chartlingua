@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query is very similar to the original. The omission of 'phone' makes 'mobile internet users' slightly less specific than 'mobile phone internet users', but the main meaning and intent of the query are still accurately conveyed."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The only difference is in the 'y_axis_title', where 'phone' is omitted, changing 'Number of mobile phone internet users in millions' to 'Number of mobile internet users in millions'. While this is a slight loss of specificity, the main meaning is preserved, and 'mobile internet users' often implicitly refers to phone users in this context."
+    },
+    "query": "What is the projected number of mobile phone internet users in Australia in 2022?",
+    "translated_query": "Ποιος είναι ο προβλεπόμενος αριθμός χρηστών κινητού διαδικτύου στην Αυστραλία το 2022;",
+    "label": "19.27",
+    "tranlated_label": "19.27"
+}

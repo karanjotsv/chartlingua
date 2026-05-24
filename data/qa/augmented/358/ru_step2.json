@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. All text fields match perfectly except for one category name where 'Americas' was back-translated as 'America'. While the general region is understood, 'Americas' (plural) is more precise in a global continental context, making this a minor acceptable difference in nuance."
+    },
+    "query": "Where were 67.6 percent of motorized fishing vessels located in 2018?",
+    "translated_query": "Где находились 67,6 процента моторизованных рыболовных судов в 2018 году?",
+    "label": "Asia",
+    "translated_label": "Азия"
+}

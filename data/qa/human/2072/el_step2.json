@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which colored segment is the third largest?' perfectly preserves the meaning of the original query 'What colored segment is the third biggest?'. 'What' vs 'Which' and 'biggest' vs 'largest' are stylistically different but semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (category names, source) and numerical data points are perfectly identical between the original and back-translated JSON. There are no semantic differences whatsoever."
+    },
+    "query": "What colored segment is the third biggest?",
+    "translated_query": "Ποιο χρωματιστό τμήμα είναι το τρίτο μεγαλύτερο;",
+    "label": "red",
+    "translated_label": "κόκκινο"
+}

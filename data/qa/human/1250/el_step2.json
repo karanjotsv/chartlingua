@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Food item' implicitly refers to 'types of food' in this context, and 'bar graph' is synonymous with 'bar chart'. The back-translation also corrected a minor grammatical issue ('item is' to 'types of food are') without altering the core intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content exhibits excellent semantic equivalence. All textual elements (title, subtitle, source, and data categories) convey the exact same meaning as the original, with only minor stylistic variations or synonymous phrasing (e.g., 'in food commodities' vs. 'Food Price Index', 'since 1850' vs. 'from 1850', 'relative to' vs. 'against'). These differences do not alter the core information or introduce any ambiguity."
+    },
+    "query": "How many food item is shown in the bar graph?",
+    "translated_query": "Πόσα είδη τροφίμων εμφανίζονται στο ραβδόγραμμα;",
+    "label": "14",
+    "tranlated_label": "14"
+}

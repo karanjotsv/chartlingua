@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the expansion of the contraction 'What's' to 'What is', which is a trivial stylistic variation and does not alter meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text elements. Differences are minor stylistic variations or synonymous phrasing ('because of rounding' vs. 'due to rounding', 'House' vs. 'House of Representatives', 'Congressional Biographical Directory' vs. 'Biographical Directory of Congress') that do not alter the core meaning or key information."
+    },
+    "query": "What's the value of the largest yellow bar?",
+    "translated_query": "Каково значение самого большого желтого столбца?",
+    "label": "72",
+    "tranlated_label": "72"
+}

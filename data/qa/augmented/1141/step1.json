@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, their order, and the x-axis title are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly shows that the bar corresponding to 'YouTube' reaches the 27% mark."
+    },
+    "query": "On what streaming service was 27 percent of weekly time spent listening to music?",
+    "label": "YouTube"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text labels, colors, error bars, and the overall structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart clearly shows that Emissions are 526.3 Mt, while Absorption by LULUCF is -99.9 Mt. The value for emissions is substantially larger than the absolute value for absorption, directly contradicting the claim."
+    },
+    "claim": "Absorption by LULUCF is higher than emissions.",
+    "label": false
+}

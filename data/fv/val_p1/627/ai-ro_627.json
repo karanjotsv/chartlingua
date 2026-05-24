@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Resursă",
+            "value": 12
+        },
+        {
+            "label": "Implementarea procesului",
+            "value": 52
+        },
+        {
+            "label": "Operarea procesului principal",
+            "value": 32
+        },
+        {
+            "label": "Operarea procesului secundar",
+            "value": 4
+        }
+    ],
+    "texts": {
+        "title": "<b>Totalul emisiilor toxice în aer datorate incinerării</b><br>( 1928 Kg)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FFFFE0",
+        "#FFFF00",
+        "#D1BFF0",
+        "#0000CD"
+    ]
+}

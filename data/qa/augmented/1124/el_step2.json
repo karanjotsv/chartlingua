@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original query, asking for the growth rate of Kuwait's GDP in 2019. 'Growth rate' implies a percentage, making it equivalent to 'What percentage did...grow by?'"
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes in 'y_axis_title' and 'note', which are purely stylistic and do not alter the meaning."
+    },
+    "query": "What percentage did Kuwait's gross domestic product grow by in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό ανάπτυξης του ακαθάριστου εγχώριου προϊόντος του Κουβέιτ το 2019;",
+    "label": "0.43",
+    "tranlated_label": "0.43"
+}

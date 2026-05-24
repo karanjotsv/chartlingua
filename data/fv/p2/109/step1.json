@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'No religious affiliation' was the highest group 'in the population with a religious affiliation'. This is a contradiction. The chart shows that 'No religious affiliation' is a distinct category (32%) and is not part of the population with a religious affiliation. Among the groups with a religious affiliation, 'Catholic' is the highest at 24%."
+    },
+    "claim": "In Alberta in 2011 No religious affiliation were the highest in the population with a religious affiliation.",
+    "label": "TRUE"
+}

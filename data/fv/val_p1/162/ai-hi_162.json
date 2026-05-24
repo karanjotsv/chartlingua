@@ -1,0 +1,35 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "अल्फा",
+            "बीटा",
+            "अंतिम"
+        ],
+        "series": [
+            {
+                "name": "विधियों की<br>संख्या",
+                "values": [
+                    300,
+                    600,
+                    720
+                ],
+                "text_y_offsets": [
+                    -15,
+                    -15,
+                    10
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "विधियों की संख्या",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#2d6fbb"
+    ]
+}

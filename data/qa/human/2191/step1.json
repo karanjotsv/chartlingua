@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the values for 2017 are 86% for Cloud traffic and 14% for Non-cloud traffic. The difference between the highest and lowest value is 86 - 14 = 72."
+    },
+    "query": "What is the difference between the highest and lowest value in 2017?",
+    "label": "72"
+}

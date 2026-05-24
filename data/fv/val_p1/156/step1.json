@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, categories, text elements (title, axis labels), and color hue are all consistent, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the lowest tonnage was in 1999, but the bar chart clearly shows that 1999 had the highest tonnage. The lowest tonnage, represented by the shortest bar, occurred in 2008."
+    },
+    "claim": "Lowest tonnage was observed in the year 1999.",
+    "label": false
+}

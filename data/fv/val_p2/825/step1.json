@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data labels and corresponding values are identical to the original. The color hues for each category are also consistent, with orange for Firefox and various shades of blue for the other browsers.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the market share percentages of various web browsers, such as Internet Explorer (29.05%) and Google Chrome (23.22%). The claim discusses respondents' knowledge of Wikimedia projects and translatewiki.net, a topic for which there is no information in the provided chart."
+    },
+    "claim": "More than half of respondents know the basics about the way Wikimedia projects and translatewiki.net interact.",
+    "label": "FALSE"
+}

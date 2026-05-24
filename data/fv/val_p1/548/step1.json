@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, series, labels (title, axes, legend), and color hues are accurately reproduced. The overall message and trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'true' data has an upward trend, but the blue line representing 'true' clearly shows a downward trend, with the value of 'u' decreasing as 'x' increases."
+    },
+    "claim": "True have upward trend and approximation have downwared trend",
+    "label": false
+}

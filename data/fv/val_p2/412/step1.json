@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, and title. The color hues for each category are also consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the average of Fiora, Bocca di Lupo, and other 5 veins is about 15%. Based on the chart, the values are Fiora (43%), Bocca di Lupo (12%), and Other 5 veins (9%). The calculated average is (43 + 12 + 9) / 3 = 21.33%, which is substantially different from 15%."
+    },
+    "claim": "The average of Fiora, Bocca di Lupo and other5 veins is about 15% of the chart.",
+    "label": "FALSE"
+}

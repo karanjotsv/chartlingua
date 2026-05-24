@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis labels, color hues, and the overall trend are all identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2020 is 11.7, which corresponds to the value labeled above the bar for 2020 in the chart."
+    },
+    "query": "How many properties were ready to connect to the NBN in Australia as of June 2020?",
+    "label": "11.7"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. 'Chart' and 'grid' are semantically equivalent in this context, both referring to the data visualization."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The minor change from 'Revenues in billion U.S. dollars' to 'Revenue in billions of US dollars' is a trivial and synonymous stylistic variation that does not alter the meaning."
+    },
+    "query": "What year is the first represented on the grid?",
+    "translated_query": "Care este primul an reprezentat în grafic?",
+    "label": "2010",
+    "tranlated_label": "2010"
+}

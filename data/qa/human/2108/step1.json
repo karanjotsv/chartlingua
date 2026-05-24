@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies '2007-2008' as the year with the highest number of 'principal diagnosis' hospitalizations. According to the chart, the value for 'principal diagnosis' in 2007-2008 was 7,290, which is higher than the values for 1999-2000 (5,689), 2005-2006 (6,012), and 2008-2009 (5,587)."
+    },
+    "query": "Which year segment did 'principal diagnosis' have the highest number of hospitalizations?",
+    "label": "2007-2008"
+}

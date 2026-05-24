@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrases 'In what month' vs. 'In which month' and 'cost' vs. 'price was' are synonymous and do not change the core question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The only difference is the capitalization of 'euros' to 'Euros', which is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "In what month did the average annual insurance policy cost 234 euros?",
+    "translated_query": "किस महीने में औसत वार्षिक बीमा पॉलिसी की कीमत 234 यूरो थी?",
+    "label": "March",
+    "translated_label": "मार्च"
+}

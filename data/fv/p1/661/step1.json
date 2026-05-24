@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, proportions, text content (titles, axis labels), color hue, and overall trend are all identical between the original and rendered charts. They are semantically equivalent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the highest number of arrests for female forgery is at age 25, but it does not provide any information about the year the data was collected. The claim specifies the year 2014, which cannot be verified from the chart."
+    },
+    "claim": "Females aged 25 years have the highest number of arrests for forgery and counterfeiting in the United States in 2014.",
+    "label": true
+}

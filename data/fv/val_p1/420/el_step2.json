@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "While 'speedup' and 'acceleration' are related, the translation of 'vertices do grafo' (graph vertices) to 'chart peaks' significantly changes the specific technical context. The original refers to a specific element of a graph structure, whereas the back-translation refers to a more general observation on a chart, losing important detail and accuracy."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The x-axis title '# vértices do grafo' (graph vertices) was inaccurately translated as '# chart peaks', significantly distorting the meaning of the axis. 'Speedup' was also changed to 'Acceleration' for the y-axis, which is less precise, but the x-axis error is critical."
+    },
+    "claim": "The speedup value when vertices do grafo ( x 10^3) was 500 is less than when the vertices do grafo ( x 10^3) was 400.",
+    "translated_claim": "Η τιμή επιτάχυνσης όταν οι κορυφές του γραφήματος (x 10^3) ήταν 500 είναι μικρότερη από ό,τι όταν οι κορυφές του γραφήματος (x 10^3) ήταν 400."
+}

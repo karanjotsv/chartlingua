@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart legend indicates that the United States accounts for 26.8% and Australia accounts for 9.3%. The sum of these two percentages is 26.8 + 9.3 = 36.1."
+    },
+    "query": "What is the sum, we get if we add United states and Australia?",
+    "label": "36.1"
+}

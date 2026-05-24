@@ -1,0 +1,50 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Apache",
+            "value": 47
+        },
+        {
+            "label": "Microsoft",
+            "value": 32
+        },
+        {
+            "label": "Google",
+            "value": 6
+        },
+        {
+            "label": "nginx",
+            "value": 3
+        },
+        {
+            "label": "lighttpd",
+            "value": 2
+        },
+        {
+            "label": "Oversee",
+            "value": 2
+        },
+        {
+            "label": "Others",
+            "value": 8
+        }
+    ],
+    "texts": {
+        "title": "Web Servers, 2009.04",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B3B3FF",
+        "#8C3A69",
+        "#FFFFD0",
+        "#D0FFFF",
+        "#660066",
+        "#FA8072",
+        "#0059B3"
+    ]
+}

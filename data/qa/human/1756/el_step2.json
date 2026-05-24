@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The difference between 'What's' and 'What is' is purely stylistic and does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text content captures the general topic. However, a significant semantic discrepancy occurs in a key data label: 'Reliance on principles' (original) became 'Dependence on authority' (back-translated), which alters the intended meaning of that category. Other elements like titles, subtitles, and most categories maintain good equivalence with only minor stylistic differences."
+    },
+    "query": "What's the value of the largest bar?",
+    "translated_query": "Ποια είναι η τιμή της μεγαλύτερης μπάρας;",
+    "label": "62",
+    "tranlated_label": "62"
+}

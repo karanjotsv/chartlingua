@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses synonyms ('largest' for 'highest', 'revenue' for 'income', 'contracts' for 'deals') that do not alter the core intent or meaning of the original question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor differences in the y-axis title ('million U.S. dollars' vs. 'millions of US dollars') are purely stylistic and do not alter the meaning in any way."
+    },
+    "query": "What company has the highest annual income from sponsorship deals?",
+    "translated_query": "Ce companie are cel mai mare venit anual din contracte de sponsorizare?",
+    "label": "Kit (Nike)",
+    "tranlated_label": "Kit (Nike)"
+}

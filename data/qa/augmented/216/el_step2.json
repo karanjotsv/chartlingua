@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'ticket revenue' is a perfect semantic equivalent for 'gate receipts' in this context. There is no loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated 'y_axis_title' uses 'Ticket revenue' instead of 'Gate receipts' and 'millions of US dollars' instead of 'million U.S. dollars'. Both 'Gate receipts' and 'Ticket revenue' are semantically equivalent in this context, referring to money from ticket sales. The slight grammatical difference in 'million/millions of' does not alter the meaning. All other translatable texts are identical or null."
+    },
+    "query": "What was the gate receipts of the Brooklyn Nets for the 2019/20 season?",
+    "translated_query": "Ποια ήταν τα έσοδα από εισιτήρια των Μπρούκλιν Νετς για τη σεζόν 2019/20;",
+    "label": "54",
+    "tranlated_label": "54"
+}

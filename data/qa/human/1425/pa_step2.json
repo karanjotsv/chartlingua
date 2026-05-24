@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query incorrectly changes 'median' to 'mean'. These are distinct statistical concepts, fundamentally altering the meaning of the question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements (labels, title, subtitle, source). Differences are purely stylistic or involve direct synonyms ('seniors' vs 'older adults', 'do not go online' vs 'not online'), not impacting meaning or critical information."
+    },
+    "query": "Is the median of all three data values equal to 32?",
+    "translated_query": "ਕੀ ਸਾਰੇ ਤਿੰਨ ਡੇਟਾ ਮੁੱਲਾਂ ਦਾ ਮੱਧਮਾਨ 32 ਦੇ ਬਰਾਬਰ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

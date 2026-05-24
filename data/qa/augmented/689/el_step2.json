@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, showing perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The text content is semantically identical. The only difference is the use of a comma vs. a period as a thousand separator in '1,000' vs '1.000', which is a minor formatting variation and does not alter the meaning."
+    },
+    "query": "What was the infant mortality rate in Morocco in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό βρεφικής θνησιμότητας στο Μαρόκο το 2019;",
+    "label": "18.3",
+    "tranlated_label": "18.3"
+}

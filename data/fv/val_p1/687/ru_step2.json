@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The original claim 'The smallest grade given for the ANOVA assignment if F.' is grammatically awkward and either conditional or incomplete due to 'if F'. The back-translation 'The lowest grade awarded for the ANOVA assignment is F.' clearly states a fact. This change from an ambiguous/conditional statement to a definite factual assertion represents a significant semantic distortion, as the nature of the information conveyed is fundamentally altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated title perfectly preserves the semantic meaning of the original, with only minor stylistic differences (e.g., 'A histogram' vs 'Histogram', 'grades for the ANOVA assignment' vs 'ANOVA assignment grades')."
+    },
+    "claim": "The smallest grade given for the ANOVA assignment if F.",
+    "translated_claim": "Наименьшая оценка, выставленная за задание по ANOVA, является F."
+}

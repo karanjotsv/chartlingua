@@ -1,0 +1,76 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Metoda Ashby¹",
+            "x": [
+                0,
+                3,
+                6,
+                9,
+                12
+            ],
+            "y": [
+                0,
+                1.8,
+                2.3,
+                2.15,
+                2.2
+            ]
+        },
+        {
+            "name": "Medicație²",
+            "x": [
+                0,
+                3,
+                6,
+                12
+            ],
+            "y": [
+                0,
+                0,
+                0,
+                -1.7
+            ]
+        },
+        {
+            "name": "Cursul Normal al Bolii³",
+            "x": [
+                0,
+                12
+            ],
+            "y": [
+                0,
+                -3.3
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Combaterea Declinului Cognitiv în Boala Alzheimer<br>Comparația scorurilor MMSE pe 12 luni",
+        "x_axis_title": "Luni",
+        "y_axis_title": "Modificarea scorului la testul cognitiv",
+        "source": null,
+        "annotations": [
+            {
+                "text": "Metoda<br>Ashby¹<br>+2.2",
+                "x": 12,
+                "y": 2.2
+            },
+            {
+                "text": "Medicație²<br>-1.7",
+                "x": 12,
+                "y": -1.7
+            },
+            {
+                "text": "Cursul Normal<br>al Bolii³<br>-3.3",
+                "x": 12,
+                "y": -3.3
+            }
+        ]
+    },
+    "colors": [
+        "#4667B3",
+        "#D9812A",
+        "#66803A"
+    ]
+}

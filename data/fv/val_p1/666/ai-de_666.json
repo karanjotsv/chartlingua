@@ -1,0 +1,25 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Anzahl neuer Benutzerkonten",
+            "value": 328,
+            "annotation": "<b>328 Neue Konten</b><br>(36% aller<br>Teilnehmer)"
+        },
+        {
+            "category": "Gehaltene neue Benutzer (6 Monate)",
+            "value": 3,
+            "annotation": "<b>3 Aktive Editoren</b><br>(1,4% der neuen<br>Konten)"
+        }
+    ],
+    "texts": {
+        "title": "Edit-a-thons<br><b>Nutzerbindung</b>",
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl",
+        "source": "Hinweis: Bei nur 3/19 Veranstaltungen gab es nach 6 Monaten gehaltene neue Benutzer. Drei Berichte enthielten keine Zahlen zu neuen Benutzern. Der Messzeitpunkt<br>für die 6-Monats-Bindung war bei 15 der Veranstaltungen (33 %) noch nicht erreicht."
+    },
+    "colors": [
+        "#45a27d",
+        "#5b9bd5"
+    ]
+}

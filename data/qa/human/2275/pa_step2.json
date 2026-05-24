@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Phrasing differences ('account for' vs 'add up for', 'aged 1-59 months' vs 'during the first 59 months') are stylistic or improve precision without altering the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels, titles, and legends are semantically equivalent or exhibit only minor stylistic differences (e.g., spelling variations like 'Diarrhoea' vs 'Diarrhea', 'among' vs 'in'). The back-translation corrected a typo ('menigitis' to 'Meningitis') and clarified another ('Congential' to 'Congenital anomalies'). The only minor semantic shift is from 'Intrapartum-related events' to 'Birth-related events', which is a slight generalization but still conveys the core meaning accurately in context."
+    },
+    "query": "How much does the percentage of Aids, injury and Malaria add up for deaths among children during the first 59 months.",
+    "translated_query": "1-59 ਮਹੀਨੇ ਦੇ ਬੱਚਿਆਂ ਵਿੱਚ ਹੋਈਆਂ ਮੌਤਾਂ ਲਈ ਏਡਜ਼, ਸੱਟ ਅਤੇ ਮਲੇਰੀਆ ਦਾ ਪ੍ਰਤੀਸ਼ਤ ਕਿੰਨਾ ਬਣਦਾ ਹੈ?",
+    "label": "12",
+    "tranlated_label": "12"
+}

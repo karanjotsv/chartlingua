@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. The addition of quotes around the answer phrase ('a little confident and could figure it out') clarifies it as a direct quote without altering its semantic content. 'Conducted on' is also a perfect semantic equivalent for 'taken at' in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall JSON text equivalence is fair. While most chart data categories match well, the main title contains a notable semantic shift from 'Chapter' to 'Department', altering the specific organizational context. Additionally, a minor semantic difference exists in one category label ('a couple of times' vs. 'a few times')."
+    },
+    "claim": "20% of people answered  a little confident and could figure it out in the survey taken at 12.29.09.",
+    "translated_claim": "Το 20% των ανθρώπων απάντησε λίγο σίγουροι και θα μπορούσαν να το καταλάβουν στην έρευνα που διεξήχθη στις 12.29.09."
+}

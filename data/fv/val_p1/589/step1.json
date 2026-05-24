@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, error bars, categories, labels, and color hues are consistent, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three groups based on 'Aggregation strategy' on the x-axis: 'someone', 'everyone', and 'strict'. The bars corresponding to the 'someone' group are visually the tallest, with proportions of useful feedback ranging from approximately 0.55 to over 0.6. The bars for the 'everyone' and 'strict' groups are all visibly lower, confirming that the 'someone' group has the highest proportion of useful feedback."
+    },
+    "claim": "Based on aggregation strategy, someone group got highest value of  proportion of useful feedback.",
+    "label": true
+}

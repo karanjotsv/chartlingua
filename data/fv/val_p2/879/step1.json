@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, and text labels are identical. The color hues for each category are also consistent, preserving the original's visual grouping. The overall message is unchanged.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is a pie chart showing the market share of different web browsers at a single point in time. It does not provide any data about sales or trends over a period of time."
+    },
+    "claim": "The chart indicates that sales have remained constant over time.",
+    "label": "FALSE"
+}

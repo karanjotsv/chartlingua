@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the semantic meaning of the original. 'Denoted by Red colour' and 'highlighted in red' convey the same information in the context of a chart, as do 'in the given chart' and 'on this chart'. The differences are purely stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The chart data, values, and most labels are identical. The title phrasing is a stylistic variation (e.g., '2008 Global Autogas Consumption' vs 'Global Autogas Consumption in 2008') but conveys the exact same meaning. The change from 'Others' to 'Other' for the collective label is a trivial difference that does not impact the overall meaning."
+    },
+    "claim": "Poland is denoted by Red colour in the given chart.",
+    "translated_claim": "Польша обозначена красным цветом на данной диаграмме."
+}

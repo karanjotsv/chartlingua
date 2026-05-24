@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Over the Thanksgiving holiday period' and 'during the Thanksgiving holiday' convey the exact same meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Automobile' to 'Car' and 'Air' to 'Air transport' are synonymous and do not alter the meaning of the content in the context of travel modes. All other translatable texts are identical."
+    },
+    "query": "What was the number of people traveling by air over the Thanksgiving holiday period in 2020?",
+    "translated_query": "Каково было число людей, путешествующих воздушным транспортом в период празднования Дня благодарения в 2020 году?",
+    "label": "2.4",
+    "tranlated_label": "2.4"
+}

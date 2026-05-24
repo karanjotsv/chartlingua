@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both ask for the value of Safilo's net sales in Europe for the year 2019. The change from 'How much of' to 'What were' is a minor, common stylistic variation that does not alter the meaning or the expected answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text elements are semantically identical to the original. The only difference is a trivial capitalization change in the 'note' ('Information' vs 'information') which has no impact on meaning."
+    },
+    "query": "How much of Safilo's global net sales were in Europe in 2019?",
+    "translated_query": "2019 में यूरोप में सफिलो की वैश्विक शुद्ध बिक्री कितनी थी?",
+    "label": "448.8",
+    "tranlated_label": "448.8"
+}

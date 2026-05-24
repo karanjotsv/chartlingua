@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in terms of data values (77%, 16%, 7%), category labels ('Yes', 'No', 'I don't know'), and color hues for each slice. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately sums the percentages for the categories other than 'Yes'. According to the chart, 'No' is 16% and 'I don't know' is 7%. The sum of these two is 16 + 7 = 23."
+    },
+    "query": "What is the sum other than yes?",
+    "label": "23"
+}

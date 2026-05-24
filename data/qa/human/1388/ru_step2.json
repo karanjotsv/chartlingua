@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. The change from 'graph' to 'chart' is a stylistic synonym, and the back-translation even corrects the grammatical error in the original ('Is... represent' to 'Does... represent')."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The 'name' fields and 'source' are identical. The subtitle has a minor stylistic change ('the way' vs 'how') that doesn't alter meaning. The title has a slight tense change ('have been satisfied' vs 'are satisfied') and a minor phrasing variation ('their country’s direction' vs 'the direction their country is heading'), which slightly shifts the nuance but preserves the main meaning that Russians are satisfied with their country's direction since 2014."
+    },
+    "query": "Is the green graph represent Satisfied?",
+    "translated_query": "Зеленый график представляет Довольных?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

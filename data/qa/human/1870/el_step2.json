@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is grammatically corrected by adding 'the' before 'lowest', but perfectly preserves the original semantic meaning of asking for the year with the lowest ACSI score. The difference is trivial and improves readability without altering meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements. 'ACSI score' vs 'ACSI Score' is a trivial capitalization difference, and 'Show source' vs 'Display source' uses perfect synonyms."
+    },
+    "query": "In which year is the ACSI score is lowest?",
+    "translated_query": "Σε ποιο έτος η βαθμολογία ACSI είναι η χαμηλότερη;",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

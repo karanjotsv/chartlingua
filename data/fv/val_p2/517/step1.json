@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions for all pie slices, category labels in the legend, and the extensive text caption below the chart are all accurately reproduced. The color hues for each category are also consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually shows that the largest slice corresponds to 'Mixed Hardwoods / Aspen - Prairie' (pink color) and the second largest slice corresponds to 'Oak Savanna' (orange color), which directly supports the claim."
+    },
+    "claim": "Oak Savanna ranks second in soil abundance in Pennington County Minnesota, just after Mixed Hardwoods / Aspen - Prairie.",
+    "label": "TRUE"
+}

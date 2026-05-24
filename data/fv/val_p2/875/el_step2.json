@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Above' vs 'over' and 'given by' vs 'made from' are synonymous in this context, and the omission of 'breakdown' does not alter the meaning of 'revenue distribution' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text content in the back-translated JSON, including chart data labels, is semantically identical to the original. The minor change from 'Other' to 'Others' is a stylistic pluralization that does not alter the meaning or information conveyed."
+    },
+    "claim": "Donations above $250k given by 20% of revenue breakdown distribution in 2014-2015.",
+    "translated_claim": "Δωρεές άνω των $250 χιλ. που δόθηκαν από το 20% της κατανομής εσόδων το 2014-2015."
+}

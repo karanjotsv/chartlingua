@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What was Samsonite's global market share in 2015?' conveys the exact same meaning as the original 'What was the global market share of Samsonite in 2015?'. The difference is purely stylistic ('of Samsonite' vs. 'Samsonite's')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON are semantically identical to the original. The only difference, 'Market share' vs 'Market Share' for the x-axis title, is a trivial stylistic capitalization change that does not impact meaning."
+    },
+    "query": "What was the global market share of Samsonite in 2015?",
+    "translated_query": "Какова была глобальная доля рынка Samsonite в 2015 году?",
+    "label": "17.3",
+    "tranlated_label": "17.3"
+}

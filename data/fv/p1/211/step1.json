@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and relative proportions are identical. The color hues for each slice are also consistent. The overall message is unchanged. The chart is simply rotated, which is a minor stylistic difference that does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the segment for 'Soviet Prisoners of War' with the value '20%', which directly confirms the claim."
+    },
+    "claim": "Share of soviet prisoners of war on this chart mentioned that there was 20% of holocaust deaths. ",
+    "label": true
+}

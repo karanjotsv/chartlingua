@@ -1,0 +1,86 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Mai mult de 10 ori pe zi",
+            "y": [
+                "DE",
+                "C2",
+                "C1",
+                "AB"
+            ],
+            "x": [
+                34,
+                25,
+                24,
+                19
+            ]
+        },
+        {
+            "name": "De 2-10 ori pe zi",
+            "y": [
+                "DE",
+                "C2",
+                "C1",
+                "AB"
+            ],
+            "x": [
+                38,
+                41,
+                40,
+                42
+            ]
+        },
+        {
+            "name": "O dată pe zi",
+            "y": [
+                "DE",
+                "C2",
+                "C1",
+                "AB"
+            ],
+            "x": [
+                14,
+                17,
+                19,
+                14
+            ]
+        },
+        {
+            "name": "Mai rar decât zilnic",
+            "y": [
+                "DE",
+                "C2",
+                "C1",
+                "AB"
+            ],
+            "x": [
+                14,
+                17,
+                16,
+                25
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Ponderea respondenților",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": {
+        "series": [
+            "#2f75d0",
+            "#1f2e40",
+            "#c4c4c4",
+            "#a50f15"
+        ],
+        "text": [
+            "white",
+            "white",
+            "black",
+            "white"
+        ]
+    }
+}

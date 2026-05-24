@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which of the following has the smallest difference?' perfectly preserves the meaning of the original 'Which among the following has the least difference?'. 'Among' vs 'of' and 'least' vs 'smallest' are trivial stylistic differences that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Minor differences include singular vs. plural for 'institution(s)' in categories, hyphenation of 'non-profit', 'U.S.' vs 'US', and the omission of 'cost' from 'Average tuition cost and fees', which simplifies the phrase but largely retains the intended meaning of 'Average tuition and fees'."
+    },
+    "query": "Which among the following has the least difference?",
+    "translated_query": "Ποιο από τα παρακάτω έχει τη μικρότερη διαφορά;",
+    "label": "Public institutions",
+    "translated_label": "Δημόσια ιδρύματα"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the semantic meaning of the original. Differences are minor stylistic variations (e.g., 'bigger' vs 'larger', 'sales profit of Atlantic Grupa' vs 'Atlantic Grupa's sales profits') which do not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('series_name' and all 'texts' object fields) are null or identical in both original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "claim": "Bosnia and Herzegovina had a bigger share of the market compared to Serbia in sales profit of Atlantic Grupa ",
+    "translated_claim": "Η Βοσνία και Ερζεγοβίνη είχε μεγαλύτερο μερίδιο αγοράς σε σύγκριση με τη Σερβία στα κέρδη πωλήσεων της Atlantic Grupa."
+}

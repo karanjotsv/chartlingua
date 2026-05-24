@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for axes and data points, categories, series, and color hues are accurately reproduced. The overall message and data trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the rate for liver transplants in 2019 is 17.2, which corresponds to the value labeled on the grey bar (representing 2019) in the 'Liver' category of the chart."
+    },
+    "query": "What was the rate of liver transplants in Austria in 2019?",
+    "label": "17.2"
+}

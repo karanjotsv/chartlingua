@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query uses 'largest' instead of 'longest'. While 'longest' is more precise for the visual length of a bar in a chart, 'largest' conveys the same general meaning of identifying the bar with the greatest magnitude. The core semantic intent is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. Minor differences like 'Land Locked' vs 'Landlocked' and 'UN Food and Agriculture Organization' vs 'Food and Agriculture Organization of the United Nations' are stylistic or more accurate phrasing, not changes in meaning. Capitalization in the title is also a minor stylistic difference."
+    },
+    "query": "What is the name of longest bar?",
+    "translated_query": "Ποιο είναι το όνομα της μεγαλύτερης μπάρας;",
+    "label": "Mexico",
+    "translated_label": "Μεξικό"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content (titles, axes), and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on the number of files with N language templates on Commons. The claim is about the development of different types of solar power (CSP vs. PV). The chart contains no information about solar power, making it impossible to support the claim."
+    },
+    "claim": "The development of concentrated solar power (CSP) has been a higher priority than PV development.",
+    "label": "FALSE"
+}

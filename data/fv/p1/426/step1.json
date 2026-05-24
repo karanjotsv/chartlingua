@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the title, all data points and their corresponding categories (years), and maintains the same overall trend and color hue as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 2013 had the least number of aircraft movements. According to the chart, the movements in 2013 were 38,803, but the movements in 2005 were lower at 38,575."
+    },
+    "claim": "In the year of 2013, is the least number of the aircraft movements at Hilversum Airport",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories on the x-axis, the chart title, and the color hue of the bars are all consistent with the original. The overall trend and message conveyed are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart displays the number of aircraft movements for each year from 1974 to 2019. The bar corresponding to the year 2005 is the shortest, and its labeled value is 38,575. Comparing this value to all other years on the chart confirms that it is the minimum number of movements shown."
+    },
+    "claim": "In the year of 2005, is the least number of the aircraft movements at Hilversum Airport.",
+    "label": true
+}

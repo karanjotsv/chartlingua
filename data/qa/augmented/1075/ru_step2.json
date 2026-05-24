@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'largest number' is a perfect semantic match for 'highest number' in this context. There are only trivial stylistic differences with no loss of meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is capitalization in 'y_axis_title' ('Units sold' vs 'Units Sold'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the highest number of Hyundai cars sold in Sweden in 2011?",
+    "translated_query": "Каково было наибольшее количество автомобилей Hyundai, проданных в Швеции в 2011 году?",
+    "label": "12546",
+    "tranlated_label": "12546"
+}

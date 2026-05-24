@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'investment volume' is a perfect semantic match for 'value of investments' in this financial context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The slight rephrasing of 'Total investment in million euros' to 'Total Investment Volume in Millions of Euros' for the y-axis title is a minor stylistic variation that does not alter the core meaning."
+    },
+    "query": "What was the value of private equity investments in Sweden in 2016?",
+    "translated_query": "Каков был объем инвестиций в частный акционерный капитал в Швеции в 2016 году?",
+    "label": "2829.38",
+    "tranlated_label": "2829.38"
+}

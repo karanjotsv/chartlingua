@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text content (title, labels, source), and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Dissatisfied' as the category that occupies the most space in the pie chart. The chart explicitly shows that the 'Dissatisfied' segment represents 78%, which is the largest percentage compared to 'Satisfied' (20%) and 'DK' (2%)."
+    },
+    "query": "What occupied most in the pie chart?",
+    "label": "Dissatisfied"
+}

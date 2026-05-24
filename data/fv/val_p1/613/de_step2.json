@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. It corrects a grammatical error in the original ('The graph that...') by adding the verb 'shows', which clarifies the intended meaning without altering it."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The single translatable text element, a file path in the data series name, is identical in both versions. All other text fields are null in both the original and back-translated content, resulting in a perfect match."
+    },
+    "claim": "The graph that the sound intensity remains constant over time.",
+    "translated_claim": "Der Graph zeigt, dass die Schallintensität im Laufe der Zeit konstant bleibt."
+}

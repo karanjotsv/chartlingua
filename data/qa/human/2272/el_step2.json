@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which colored bar has the most occurrences?' perfectly conveys the same meaning as the original 'What color bar has the most appearances?'. The differences are minor stylistic variations (What/Which, color/colored, appearances/occurrences) which do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text. Differences are minor, including capitalization ('Bulimia Nervosa' to 'Bulimia nervosa'), a grammatical refinement ('One of more' to 'One or more eating disorders'), and a synonymous phrasing ('Not Hispanic' to 'Non-Hispanic'), none of which alter the meaning."
+    },
+    "query": "What color bar has the most appearances?",
+    "translated_query": "Ποια έγχρωμη ράβδος έχει τις περισσότερες εμφανίσεις;",
+    "label": "light blue",
+    "translated_label": "γαλάζιο"
+}

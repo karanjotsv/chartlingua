@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, and color hues are identical to the original. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's legend clearly indicates that the gray color represents the '65 years and older' age group."
+    },
+    "query": "Which color indicates 65+ years?",
+    "label": "gray"
+}

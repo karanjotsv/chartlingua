@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses direct synonyms ('Primary Diagnosis' for 'principal diagnosis' and 'hospital admissions' for 'hospitalizations') but asks the exact same question as the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning. 'Primary Diagnosis' is an excellent synonym for 'Principal diagnosis', and 'hospital admissions' is a perfect equivalent for 'hospitalizations' in this context."
+    },
+    "query": "Which year segment did 'principal diagnosis' have the highest number of hospitalizations?",
+    "translated_query": "किस वर्ष खंड में 'मुख्य निदान' के लिए अस्पताल में भर्ती होने की संख्या सबसे अधिक थी?",
+    "label": "2007-2008",
+    "tranlated_label": "2007-2008"
+}

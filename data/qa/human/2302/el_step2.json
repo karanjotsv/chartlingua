@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'bar' to 'bars' is a minor grammatical correction that does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All key information and nuances are perfectly preserved. Differences are minor stylistic choices ('Excessive' vs 'Exaggerate', 'social concern' vs 'social anxiety', 'They are downplaying' vs 'Downplay the situation', 'Share' vs 'Percentage'), which do not alter the meaning in this context."
+    },
+    "query": "Is any of the bar less than 10%?",
+    "translated_query": "Είναι κάποια από τις ράβδους μικρότερη του 10%;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

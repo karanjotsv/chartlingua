@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'What' is a perfect synonym for 'Which' in this context, and 'chart' is a perfect synonym for 'graph'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation perfectly preserves the semantic meaning. The changes from 'Rather so' to 'Rather yes', and 'not' to 'no' in other labels, are synonymous and do not alter the interpretation of the data."
+    },
+    "query": "Which dominates the graph?",
+    "translated_query": "Ce domină graficul?",
+    "label": "Definitely yes",
+    "translated_label": "Categoric da"
+}

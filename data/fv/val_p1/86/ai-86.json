@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "coal",
+            "value": 37.9
+        },
+        {
+            "label": "wind",
+            "value": 36.1
+        },
+        {
+            "label": "nuclear",
+            "value": 20.8
+        },
+        {
+            "label": "natural gas",
+            "value": 5.2
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>Kansas - 2017",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B54F8C",
+        "#A4B53D",
+        "#D1D953",
+        "#76B4C0"
+    ],
+    "layout_options": {
+        "paper_bgcolor": "#EAEAF7",
+        "plot_bgcolor": "#EAEAF7"
+    }
+}

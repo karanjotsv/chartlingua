@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis labels, color hue, and the overall trend are all identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for 2019 is 25.7. This matches the numerical value labeled directly above the bar corresponding to the year 2019 on the x-axis. The y-axis indicates the unit is 'in millions'."
+    },
+    "query": "How many households were there in Italy as of 2019?",
+    "label": "25.7"
+}

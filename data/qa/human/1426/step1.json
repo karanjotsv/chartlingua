@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, text labels, titles, and color hues are identical to the original, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The pie chart clearly shows the value for the 'Providing treatment' segment is 67%."
+    },
+    "query": "What is the value for 'Providing treatment' in the graph?",
+    "label": "67"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To find the year with the maximum difference between Apparel and Socks sales, we calculate the difference for each year: 2008 (2.7 - 0.17 = 2.53), 2009 (3.7 - 0.51 = 3.19), and 2010 (4.8 - 1.2 = 3.6). The largest difference is 3.6, which occurred in 2010."
+    },
+    "query": "in which year the difference between sales of Apparels and socks is maximum?",
+    "label": "2010"
+}

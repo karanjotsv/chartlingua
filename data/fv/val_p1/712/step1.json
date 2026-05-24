@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text, and color hues are all consistent with the original. The very minor differences in data labels (e.g., 61.6% vs 61.5%) are negligible and do not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart legend identifies the purple slice as 'coal', and the corresponding data label on the chart for that slice is 12.7%, which directly validates the claim."
+    },
+    "claim": "Coal represents 12.7% of the source of electricity generation in Hawaii ",
+    "label": true
+}

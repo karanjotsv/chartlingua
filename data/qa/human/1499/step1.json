@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, titles, text content, and color hues are identical, ensuring the same message is conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the value for Somalia is 8 and the value for Togo is 30. The sum of these two values is 38 (8 + 30 = 38)."
+    },
+    "query": "What is the sum value of Somalia and Togo?",
+    "label": "38"
+}

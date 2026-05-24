@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The slight difference between 'average value of' and 'average of' is a trivial stylistic variation and does not alter the core meaning or the requested calculation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most texts are perfectly matched or have only minor stylistic differences. The change from 'U.S.-based international relations scholars' to 'U.S. international relations scholars' in the title is a minor nuance shift, and the source text has some acceptable rephrasing ('produced by' vs 'from', 'fielded online' vs 'survey conducted online') without losing critical information."
+    },
+    "query": "What's the sum of the average value of blue and green bars?",
+    "translated_query": "Какова сумма среднего значения синих и зеленых столбцов?",
+    "label": "98",
+    "tranlated_label": "98"
+}

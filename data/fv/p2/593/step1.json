@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has significant semantic inconsistencies. While the numerical data in the labels seems mostly correct, the colors of the pie slices do not match their corresponding entries in the legend (e.g., both Turkish and Uyghur are colored red, while the Kazakh slice is blue but its legend entry is light green). This breaks the visual encoding and makes the chart misleading. Additionally, the order of the slices around the pie is completely different from the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap on the right side of the chart, where the labels for numerous smaller categories are piled on top of each other, rendering them completely unreadable. The 'Azeri' label is also partially clipped on the left edge."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the number of native speakers for various Turkic languages. According to the data provided, Turkish has the most speakers, followed by Azeri with 30,000,000 speakers, and then Uzbek with 23,500,000 speakers, making it the third-highest."
+    },
+    "claim": "Uzbek is the Turkic language with the third high number of native speakers.",
+    "label": "TRUE"
+}

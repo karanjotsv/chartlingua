@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart preserves the overall trend, series, colors, and title. However, it simplifies the data by removing the 'Dip' category from the x-axis, changing the smooth curves of the original into sharp V-shapes. This alters the representation of the data over time and also leads to minor inaccuracies in the final data points for the top three series, which appear to converge at the same value unlike in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart illustrates that companies closer to the end-market ('1 step' and '2 step') experienced a smaller negative change in turnover (a dip to about -26%) compared to companies farther from the end-market ('3 step' and '4 step'), which saw much larger drops (to approximately -38% and -42% respectively). This directly supports the claim that being closer to the end market means being less affected by the crisis."
+    },
+    "claim": "The closer a company is to the end market, the less it is affected by a crisis.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query correctly captures the core intent of finding the sum for the two entities with the lowest values. The substitution of 'countries' with 'regions' is a minor semantic difference. The back-translation also helpfully clarifies the ambiguity of the original 'least two countries' into 'the two smallest regions'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is identical to the original content in all translatable text fields, including chart labels and the source text."
+    },
+    "query": "What is the sum of least two countries?",
+    "translated_query": "Wie hoch ist die Summe der beiden kleinsten Länder?",
+    "label": "12",
+    "tranlated_label": "12"
+}

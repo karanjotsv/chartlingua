@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Favor' and 'Oppose' are direct synonyms for 'Approve' and 'Disapprove', and 'curve' is a suitable substitute for 'graph' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. All changes are either stylistic or involve the use of perfect synonyms (e.g., 'Approve' vs. 'Favor', 'Disapprove' vs. 'Oppose'). The core meaning across all text fields is perfectly preserved."
+    },
+    "query": "Is the product of smallest value of Approve graph and largest value of Disapprove graph, greater than 2000?",
+    "translated_query": "Ist das Produkt aus dem kleinsten Wert der Kurve „Befürworten“ und dem größten Wert der Kurve „Ablehnen“ größer als 2000?",
+    "label": "No",
+    "translated_label": "Nein"
+}

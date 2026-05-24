@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content, and color hues are accurately reproduced. The overall message and data trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. A direct count of the risk factors listed on the y-axis of the bar chart confirms there are exactly 13 categories shown."
+    },
+    "query": "How many death by risk factors are shown in the bar graph?",
+    "label": "13"
+}

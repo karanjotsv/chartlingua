@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. Minor differences are stylistic (e.g., 'Tempo de execucao started' vs. 'At the beginning of the execution time') or clarifying ('Execucao' interpreted as a 'series'), without any loss or distortion of key information. 'Near' and 'approximately' are perfect matches, as are 'Qtde de registros' and 'number of records'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (series name, chart title, axis titles) show perfect semantic equivalence between the original and back-translated content."
+    },
+    "claim": "The Tempo de execucao started  Execucao from the value near 524288 of Qtde de registros.",
+    "translated_claim": "В начале времени выполнения серия «Выполнение» началась со значения около 524288 по количеству записей."
+}

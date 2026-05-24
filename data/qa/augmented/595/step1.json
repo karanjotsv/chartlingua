@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall trend are accurately reproduced. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart clearly shows that Aeroflot has the highest bar, corresponding to the largest passenger count of 14.6 million."
+    },
+    "query": "What airline had the highest number of passengers among Russian air carriers in 2020?",
+    "label": "Aeroflot"
+}

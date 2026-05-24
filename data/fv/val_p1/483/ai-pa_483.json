@@ -1,0 +1,51 @@
+{
+    "chart_type": "subplots",
+    "chart_data": [
+        {
+            "name": "ਲਾਗੂ ਕੀਤਾ ਥਰਸਟ",
+            "x_values": [
+                0,
+                27,
+                27,
+                33,
+                33,
+                40
+            ],
+            "y_values": [
+                6500,
+                6500,
+                1000,
+                1000,
+                6500,
+                6500
+            ]
+        },
+        {
+            "name": "ਲਾਗੂ ਕੀਤਾ ਹਮਲੇ ਦਾ ਕੋਣ",
+            "x_values": [
+                0,
+                21,
+                28,
+                28,
+                40
+            ],
+            "y_values": [
+                0.04,
+                0.04,
+                0.14,
+                -0.14,
+                -0.12
+            ]
+        }
+    ],
+    "texts": {
+        "title_top": "ਲਾਗੂ ਕੀਤਾ ਥਰਸਟ (Equation 7.2.1)",
+        "title_bottom": "ਲਾਗੂ ਕੀਤਾ ਹਮਲੇ ਦਾ ਕੋਣ (Equation 7.2.2)",
+        "x_axis_label": "t (s)",
+        "y_axis_label_top": "T(t) (N)",
+        "y_axis_label_bottom": "α(t) (rad)"
+    },
+    "colors": [
+        "#3C408F"
+    ]
+}

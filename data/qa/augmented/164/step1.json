@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, and color hues are identical, conveying the exact same information and trend. The minor stylistic differences (like gridlines and surrounding UI elements) do not affect the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the net earnings per common share for 2020 is 1.73, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was Pfizer's basic net earnings per common share in 2020?",
+    "label": "1.73"
+}

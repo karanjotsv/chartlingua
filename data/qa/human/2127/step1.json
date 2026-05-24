@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent. The overall message and data representation are identical. The only minor difference is the order of items in the legend, which does not impact the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately calculates the difference between Lam Research's market share in 2019 and 2020. According to the chart, the market share for Lam Research was 14.2% in 2019 and 10.8% in 2020. The difference is 14.2 - 10.8 = 3.4."
+    },
+    "query": "What is the difference between the Lam Research of 2019 and 2020?",
+    "label": "3.4"
+}

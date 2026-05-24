@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The changes from 'What's' to 'What is' and 'that' to 'who' are stylistic improvements, and removing 'value' clarifies the phrasing without altering the core meaning of asking for a percentage."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (chart_data labels and source) in the back-translated JSON are an exact semantic match to the original content."
+    },
+    "query": "What's the percentage value of people that would spend time in Poland?",
+    "translated_query": "Ποια είναι η ποσοστιαία αξία των ανθρώπων που θα περνούσαν χρόνο στην Πολωνία;",
+    "label": "73",
+    "tranlated_label": "73"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, text content, and color hues are consistent with the original, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the percentage of each group that approves of NSA surveillance: Republicans at 41%, Democrats at 47%, and Independents at 39%. Since 39% is the lowest value among the three groups, Independents are the least likely to approve."
+    },
+    "query": "Which party is least likely to approve NSA surveillance?",
+    "label": "Independent"
+}

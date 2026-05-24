@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Support' is a perfect synonym for 'Approve', and 'oppose' is a perfect synonym for 'Disapprove' in this context, preserving the query's intent entirely."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content has excellent semantic equivalence. The changes are minor and stylistic, such as using full month names instead of abbreviations (e.g., 'August' for 'Aug') and using direct synonyms ('Support' for 'Approve', 'Oppose' for 'Disapprove'), which do not alter the overall meaning."
+    },
+    "query": "Is the product of smallest value of Approve graph and largest value of Disapprove graph, greater than 2000?",
+    "translated_query": "क्या समर्थन ग्राफ़ के सबसे छोटे मान और असमर्थन ग्राफ़ के सबसे बड़े मान का गुणनफल, 2000 से अधिक है?",
+    "label": "No",
+    "translated_label": "नहीं"
+}

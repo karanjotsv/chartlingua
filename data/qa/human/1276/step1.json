@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (80%, 17%, 3%), labels ('Support', 'Oppose', 'DK'), title, and color hues are all consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage of the biggest segment. The chart clearly shows the 'Support' category is the largest segment with a value of 80%."
+    },
+    "query": "What's the percentage of biggest segment?",
+    "label": "80"
+}

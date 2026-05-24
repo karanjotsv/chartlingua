@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, axis labels, title, and the overall trend are all accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the number of arrests decreases with increasing age. The chart contradicts this, showing a sharp increase in the arrest rate from age 9 up to a peak at age 15. Even after this peak, the decrease is not consistent; for example, the arrest rate is higher at age 20 than at age 19."
+    },
+    "claim": "The number of arrests for suspicion decreases with increasing age for males in the United States in 2014.",
+    "label": "TRUE"
+}

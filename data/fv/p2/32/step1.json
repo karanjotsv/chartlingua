@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, bar proportions, text content (titles, axes, labels), and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart clearly shows that the value for 'Fair Rent @ 9%' is 359, while the value for 'Gross Land + Building' is 3987. Since 359 is lower than 3987, the claim is directly supported by the data presented."
+    },
+    "claim": "The Fair Rent @ 9% is lower than the Gross Land + Building value according to the chart.",
+    "label": "TRUE"
+}

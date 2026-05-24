@@ -1,0 +1,246 @@
+{
+    "chart_type": "scatter_line",
+    "chart_data": {
+        "planets": {
+            "x": [
+                1.0,
+                1.8,
+                2.5,
+                3.2,
+                5.0,
+                6.0,
+                7.0,
+                7.8,
+                8.5
+            ],
+            "y": [
+                1.5,
+                2.7,
+                3.75,
+                4.8,
+                7.5,
+                9.0,
+                10.5,
+                11.7,
+                12.75
+            ]
+        },
+        "trendline": {
+            "x": [
+                0.5,
+                9.0
+            ],
+            "y": [
+                0.75,
+                13.5
+            ]
+        },
+        "slope_triangle": {
+            "x": [
+                2.5,
+                6.0,
+                6.0
+            ],
+            "y": [
+                3.75,
+                3.75,
+                9.0
+            ]
+        }
+    },
+    "texts": {
+        "title": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "Меркурий",
+                "x": 1.0,
+                "y": 1.5,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Венера",
+                "x": 1.8,
+                "y": 2.7,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Земля",
+                "x": 2.5,
+                "y": 3.75,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Марс",
+                "x": 3.2,
+                "y": 4.8,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Юпитер",
+                "x": 5.0,
+                "y": 7.5,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Сатурн",
+                "x": 6.0,
+                "y": 9.0,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Уран",
+                "x": 7.0,
+                "y": 10.5,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Нептун",
+                "x": 7.8,
+                "y": 11.7,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "Плутон",
+                "x": 8.5,
+                "y": 12.75,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -8,
+                "yshift": 8
+            },
+            {
+                "text": "2 единицы",
+                "x": 4.25,
+                "y": 3.75,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "center",
+                "yanchor": "top",
+                "yshift": -5
+            },
+            {
+                "text": "3 единицы",
+                "x": 6.0,
+                "y": 6.375,
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "family": "Arial",
+                    "size": 12
+                },
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 5,
+                "textangle": -90
+            },
+            {
+                "text": "y = mx + c<br>logT → y, logR → x; m = ³/₂<br>∴ logT = ³/₂ logR + k₁<br>⇒ T² = k₂ R³",
+                "xref": "paper",
+                "yref": "paper",
+                "x": 0.05,
+                "y": 0.95,
+                "showarrow": false,
+                "font": {
+                    "color": "#000000",
+                    "family": "Arial",
+                    "size": 14
+                },
+                "align": "left",
+                "xanchor": "left",
+                "yanchor": "top",
+                "bgcolor": "#FFFFFF",
+                "bordercolor": "#FFFFFF",
+                "borderwidth": 10
+            }
+        ]
+    },
+    "colors": {
+        "plot": "#FF0000",
+        "background": "#000000"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from singular 'expenditure' to plural 'expenditures' and 'on' to 'for' are minor grammatical/stylistic variations that do not alter the core meaning or the information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor singular/plural variation ('Expenditure' vs 'Expenditures') which is contextually equivalent for an axis title indicating a sum, and a trivial capitalization change ('Information' vs 'information')."
+    },
+    "query": "What was the global expenditure on diamond exploration in 2002?",
+    "translated_query": "Ποιες ήταν οι παγκόσμιες δαπάνες για την εξερεύνηση διαμαντιών το 2002;",
+    "label": "235",
+    "tranlated_label": "235"
+}

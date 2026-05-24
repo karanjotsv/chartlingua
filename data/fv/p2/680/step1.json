@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect pixel-for-pixel replication of the original, showing the same red line with the same slope and position on a black background.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is an abstract image of a red line on a black background. It lacks any axes, labels, or data points. Therefore, it provides no information about 'Atlantic Grupa', sales profits, or different markets such as 'Russia and CIS' to support or refute the claim."
+    },
+    "claim": "Russia and CIS has the smalles markets in sales profit of Atlantic Grupa.",
+    "label": "TRUE"
+}

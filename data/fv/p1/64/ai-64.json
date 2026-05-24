@@ -1,0 +1,96 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "General/Local Government",
+            "Defence of the country",
+            "Professionals",
+            "Domestic Service or Offices",
+            "Transport & Comm.",
+            "Agriculture",
+            "Animals",
+            "Workers in House, Furniture & Decorations",
+            "Workers in Carriages & Harnesses",
+            "Workers in Food & Lodging",
+            "Workers in Dress",
+            "Workers in Var. Mineral Substances",
+            "Workers in General or Unspecified Commodities",
+            "Persons without Specified Occupations",
+            "Unknown Occupation"
+        ],
+        "series": [
+            {
+                "name": "Total",
+                "values": [
+                    1,
+                    1,
+                    5,
+                    50,
+                    2,
+                    100,
+                    10,
+                    15,
+                    2,
+                    9,
+                    7,
+                    11,
+                    12,
+                    25,
+                    102
+                ]
+            },
+            {
+                "name": "Female",
+                "values": [
+                    0,
+                    0,
+                    3,
+                    40,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    5,
+                    5,
+                    0,
+                    0,
+                    13,
+                    100
+                ]
+            },
+            {
+                "name": "Male",
+                "values": [
+                    1,
+                    1,
+                    2,
+                    10,
+                    2,
+                    100,
+                    10,
+                    15,
+                    2,
+                    4,
+                    2,
+                    11,
+                    12,
+                    12,
+                    2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Occupations of population of Shobrooke in 1881",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#A9A9A9",
+        "#D9843C",
+        "#5A99C3"
+    ]
+}

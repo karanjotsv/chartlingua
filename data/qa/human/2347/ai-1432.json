@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Europe (total)",
+            "Western Europe",
+            "Southern Europe",
+            "Northern Europe",
+            "Eastern Europe"
+        ],
+        "series": [
+            {
+                "name": "Males",
+                "data": [
+                    75,
+                    79,
+                    79,
+                    79,
+                    69
+                ]
+            },
+            {
+                "name": "Females",
+                "data": [
+                    82,
+                    84,
+                    84,
+                    84,
+                    79
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Life expectancy in years",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2471d2",
+        "#112d42"
+    ]
+}

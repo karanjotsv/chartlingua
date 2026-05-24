@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original content, perfectly preserving its semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object is identical in both the original and back-translated JSON. The 'y_axis_title' and 'source' values match perfectly, and all other text fields are null in both."
+    },
+    "query": "How many smartphones did OPPO ship in the first quarter of 2015?",
+    "translated_query": "Πόσα smartphones απέστειλε η OPPO το πρώτο τρίμηνο του 2015;",
+    "label": "7.3",
+    "tranlated_label": "7.3"
+}

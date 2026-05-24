@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. 'Has' vs 'accounts for' and 'as per' vs 'according to' are stylistic and synonymous variations that do not alter the semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the labels within 'chart_data', is an exact match between the original and back-translated versions. The 'texts' object contains no translatable text, as all its fields are null in both versions."
+    },
+    "claim": "Japan has 11 % of total imports as per given chart. ",
+    "translated_claim": "Η Ιαπωνία έχει το 11% των συνολικών εισαγωγών σύμφωνα με το δεδομένο διάγραμμα."
+}

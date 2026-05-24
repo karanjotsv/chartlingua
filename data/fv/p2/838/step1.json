@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and color hues are identical to the original. Minor stylistic differences, such as the reordering of slices and the 'explosion' of one slice, do not alter the core message or data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the market share percentages for different web browsers, not demographic data like age groups. The claim about participants aged 35-44 cannot be verified or refuted by the provided chart."
+    },
+    "claim": "The highest number of participants in the poll are aged between 35-44 years old",
+    "label": "TRUE"
+}

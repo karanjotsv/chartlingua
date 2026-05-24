@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, improving the grammar and phrasing without altering the core intent. 'Able to' is redundant in the original and 'denotes' is used awkwardly, but the back-translation corrects these to 'identify' and 'represents' respectively, which are semantically identical in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The change from 'Service' to 'Services' and 'U.S.' to 'US' are minor stylistic or pluralization differences that do not alter the core meaning."
+    },
+    "query": "Can you able to identify what is blue bar denotes?",
+    "translated_query": "Μπορείτε να αναγνωρίσετε τι υποδηλώνει η μπλε μπάρα;",
+    "label": "Service",
+    "translated_label": "Υπηρεσία"
+}

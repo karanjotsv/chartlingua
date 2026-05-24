@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, labels (both in-chart and on axes), and color assignments are accurately reproduced. The only difference is the formatting of the y-axis tick labels (e.g., '180M' vs '180000000'), which is a stylistic improvement for readability and does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the 'Production Quantity' (red solid line) on the left y-axis against 'Year' on the x-axis. Observing the red line from left to right, it clearly demonstrates a general upward trend from the start of the period (around 1961) to the end (around 2012), validating the claim."
+    },
+    "claim": "As time progress, production quantity of tomatoes trends upward",
+    "label": true
+}

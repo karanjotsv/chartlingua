@@ -1,0 +1,82 @@
+{
+    "chart_type": "stacked_area_line_chart",
+    "chart_data": [
+        {
+            "category": "'96",
+            "Unique Visitors": null,
+            "Accounts Created": 3,
+            "Active Users": 2
+        },
+        {
+            "category": "'97",
+            "Unique Visitors": null,
+            "Accounts Created": 7,
+            "Active Users": 3
+        },
+        {
+            "category": "'98",
+            "Unique Visitors": null,
+            "Accounts Created": 11,
+            "Active Users": 4
+        },
+        {
+            "category": "'99",
+            "Unique Visitors": null,
+            "Accounts Created": 15,
+            "Active Users": 5
+        },
+        {
+            "category": "'00",
+            "Unique Visitors": 65,
+            "Accounts Created": 20,
+            "Active Users": 5
+        },
+        {
+            "category": "'01",
+            "Unique Visitors": 85,
+            "Accounts Created": 35,
+            "Active Users": 0
+        },
+        {
+            "category": "'02",
+            "Unique Visitors": 70,
+            "Accounts Created": 30,
+            "Active Users": 0
+        },
+        {
+            "category": "'03",
+            "Unique Visitors": 50,
+            "Accounts Created": 25,
+            "Active Users": 0
+        },
+        {
+            "category": "'04",
+            "Unique Visitors": 60,
+            "Accounts Created": 22,
+            "Active Users": 0
+        },
+        {
+            "category": "'05",
+            "Unique Visitors": 55,
+            "Accounts Created": 20,
+            "Active Users": 0
+        }
+    ],
+    "texts": {
+        "title": "Wikipedia statistics: growth",
+        "subtitle": "Unique visitors in millions per month",
+        "x_axis_title": null,
+        "y_axis_title": "Millions",
+        "source": null,
+        "legend_labels": [
+            "Unique Visitors",
+            "Accounts Created",
+            "Active Users"
+        ]
+    },
+    "colors": [
+        "#FF0000",
+        "#008000",
+        "#0000FF"
+    ]
+}

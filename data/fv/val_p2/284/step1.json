@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, relative proportions, and color hues are identical to the original. The change from a 3D to a 2D style is stylistic and does not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentages for several categories. Actinomycetes is listed at 28%, which is the highest value among all the categories shown."
+    },
+    "claim": "The largest percent of the total is Actinomycetes.",
+    "label": "TRUE"
+}

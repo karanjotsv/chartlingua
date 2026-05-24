@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'The Atrophy source' and 'The source of Atrophy' are semantically equivalent, as is the slight grammatical change of omitting 'the' before 'OECD 2006'."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title's semantic meaning is significantly altered. 'Value' (a general numerical quantity or worth) was incorrectly translated to 'price' (a specific financial cost), which fundamentally changes the subject of the 20% reduction and is likely inaccurate given the chart data labels 'Total Aid' and 'Atrophy'. This is a significant distortion of key information."
+    },
+    "claim": "The Atrophy source  is 12  billion dollars in the OECD 2006.",
+    "translated_claim": "Η πηγή της Ατροφίας είναι 12 δισεκατομμύρια δολάρια στον ΟΟΣΑ 2006."
+}

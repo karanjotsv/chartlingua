@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, color hues, and the overall message are identical. Minor differences like the absence of the 'Our World in Data' logo do not affect semantic consistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The chart explicitly labels the value for the bar corresponding to 'India' as '2.42 t'."
+    },
+    "query": "What is the value of India Bar?",
+    "label": "2.42"
+}

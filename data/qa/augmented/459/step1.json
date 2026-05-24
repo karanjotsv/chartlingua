@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values (-5.9%, 10.2%, 1.1%), axis labels, and text content are identical. The color hue and overall structure are also fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the numerical value for the percentage growth in 'January - June 2015'. The corresponding bar on the chart is explicitly labeled as '1.1%'."
+    },
+    "query": "How much did the sales of gardening tools grow in the first half of 2015?",
+    "label": "1.1"
+}

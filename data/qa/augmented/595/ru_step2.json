@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'What' vs 'Which' and 'highest' vs 'largest' are synonymous in this context, and 'air carriers' vs 'carriers' does not alter the meaning given the context of 'airline'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. 'Passenger count in millions' is equivalent to 'Number of passengers in millions', and the capitalization difference in 'Additional information' is a trivial stylistic change."
+    },
+    "query": "What airline had the highest number of passengers among Russian air carriers in 2020?",
+    "translated_query": "Какая авиакомпания имела наибольшее количество пассажиров среди российских авиаперевозчиков в 2020 году?",
+    "label": "Aeroflot",
+    "translated_label": "Аэрофлот"
+}

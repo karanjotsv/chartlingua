@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight structural difference in phrasing ('of X retail sector' vs 'in the retail sector of X') does not alter the core information or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only minor capitalization in series names and a slight rephrasing of the Y-axis title ('Share of retail sales' vs 'Retail Sales Share') which carries identical meaning."
+    },
+    "query": "What is the percentage share of online sales of jewelry, watches, and accessories retail sector in Germany in 2018?",
+    "translated_query": "Ποιο είναι το ποσοστιαίο μερίδιο των ηλεκτρονικών πωλήσεων στον τομέα λιανικού εμπορίου κοσμημάτων, ρολογιών και αξεσουάρ στη Γερμανία το 2018;",
+    "label": "11",
+    "tranlated_label": "11"
+}

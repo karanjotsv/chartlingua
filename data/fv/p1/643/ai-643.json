@@ -1,0 +1,40 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "coal",
+            "value": 47.1
+        },
+        {
+            "label": "natural gas",
+            "value": 34.2
+        },
+        {
+            "label": "nuclear",
+            "value": 14.7
+        },
+        {
+            "label": "wind",
+            "value": 1.4
+        },
+        {
+            "label": "other",
+            "value": 2.6
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>Ohio - 2018",
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "series": [
+            "#C74B92",
+            "#85C6D3",
+            "#D4B841",
+            "#A3B545",
+            "#8457A0"
+        ],
+        "background": "#E8E6F5"
+    }
+}

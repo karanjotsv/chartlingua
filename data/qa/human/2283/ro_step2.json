@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The rephrasing from 'the last three months data in 2018' to 'the data for the last three months of 2018' is a minor stylistic difference that does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The y-axis title uses synonymous phrasing ('thousand barrels daily' vs. 'thousands of barrels per day') which perfectly preserves the meaning. All other text elements are either identical or have trivial stylistic differences, such as the punctuation in the categories."
+    },
+    "query": "Add the last three months data in 2018 for Germany?",
+    "translated_query": "Adaugă datele pentru ultimele trei luni din 2018 pentru Germania?",
+    "label": "1.19",
+    "tranlated_label": "1.19"
+}

@@ -1,0 +1,46 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "यू.एस.",
+            "चीन",
+            "ईयू",
+            "डब्ल्यूएचओ",
+            "हमारा देश"
+        ],
+        "series": [
+            {
+                "name": "खराब",
+                "data": [
+                    84,
+                    60,
+                    39,
+                    34,
+                    25
+                ]
+            },
+            {
+                "name": "अच्छा",
+                "data": [
+                    15,
+                    37,
+                    57,
+                    64,
+                    74
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "कोरोनावायरस के प्रकोप पर अमेरिका की प्रतिक्रिया के लिए<br>खराब अंक",
+        "subtitle": "% जो कहते हैं कि प्रत्येक ने कोरोनावायरस के प्रकोप से निपटने में ___ काम किया है",
+        "source": "नोट: प्रतिशत 13 देशों पर आधारित माध्यिका हैं। जिन्होंने<br>उत्तर नहीं दिया उन्हें नहीं दिखाया गया है।<br>स्रोत: Summer 2020 Global Attitudes Survey. Q10a-e.<br>“U.S. Image Plummets Internationally as Most Say Country Has<br>Handled Coronavirus Badly”",
+        "footer": "प्यू रिसर्च सेंटर",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#2c5a8c",
+        "#90a24f"
+    ]
+}

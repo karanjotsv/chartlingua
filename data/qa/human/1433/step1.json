@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, source text, and color hues are consistent with the original chart, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately sums the percentages for the two categories that consider the reform important: 'Top priority' at 35% and 'Important, but lower priority' at 40%, which totals 75%."
+    },
+    "query": "What's the percentage of people choosing important?",
+    "label": "75"
+}

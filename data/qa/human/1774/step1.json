@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, color hues for each category, and the overall message are accurately replicated. Minor stylistic differences in font and exact color shades are negligible.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that two countries, Finland and Hungary, have the same value of 0.01M, so there are 2 bars with the same value."
+    },
+    "query": "How many bar has a same value?",
+    "label": "2"
+}

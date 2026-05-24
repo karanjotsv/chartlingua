@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, bar proportions, titles, axis labels, and category labels are identical. The color hue for the bars is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value of all bars is more than 100. However, the chart shows the bar for 'Rent per sq. ft' has a value of 30, which is not more than 100."
+    },
+    "claim": "The value of all the bars is more than 100.",
+    "label": "FALSE"
+}

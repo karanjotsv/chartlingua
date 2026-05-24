@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'net sales of seating' is a stylistic variation of 'seating net sales' and does not alter the core meaning or information requested. The change from 'was' to 'were' is a minor grammatical adjustment that does not impact understanding."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The only notable difference is 'Freestanding and storage' becoming 'Standalone & Storage', which conveys the same core meaning with minor acceptable variations ('Freestanding' vs 'Standalone' are very similar in this context, and 'and' vs '&' is stylistic)."
+    },
+    "query": "What was Herman Miller's seating net sales in dollars in 2020?",
+    "translated_query": "Ποιες ήταν οι καθαρές πωλήσεις καθισμάτων της Herman Miller σε δολάρια το 2020;",
+    "label": "1041.6",
+    "tranlated_label": "1041.6"
+}

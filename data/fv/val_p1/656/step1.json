@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. Data values, categories, axis labels, the y-axis title, and the overall trend are identical. The color hue for the data series is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the population in 1850 was approximately 22,000. The last data point for 2010 shows the population is approximately 70,000. Since the population in 2010 is significantly higher than it was in 1850, the claim is supported."
+    },
+    "claim": "The population of Utica, NY has increased since 1850.",
+    "label": true
+}

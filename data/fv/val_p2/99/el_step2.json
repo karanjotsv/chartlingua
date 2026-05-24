@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. Minor grammatical improvements ('have' to 'has') and a typo correction ('lable' to 'label') were made without altering the core message."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most translatable text elements (legend items 'lesser', 'greater', 'not compared', and annotation text) are perfectly equivalent. The only semantic difference is 'pivot' (in `series_order` and `legend_items`) being back-translated as 'central'. While semantically related, it's not a direct, perfect translation, but it largely conveys the main idea of a key or focal element, constituting a minor acceptable difference."
+    },
+    "claim": "The label of \"greater\" have more bars than the lable of \"not compared\".",
+    "translated_claim": "Η ετικέτα του \"μεγαλύτερο\" έχει περισσότερες μπάρες από την ετικέτα του \"μη συγκριθέν\"."
+}

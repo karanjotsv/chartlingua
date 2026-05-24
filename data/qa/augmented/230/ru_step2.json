@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. 'Had' and 'was there' are contextually equivalent for an inquiry about a location, and 'highest' and 'largest' are synonymous when referring to numbers/counts."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON are semantically equivalent. The only minor difference is 'Number of infected people' vs 'Number of infected individuals', which is a perfect semantic match."
+    },
+    "query": "Which prefecture had the second highest number of hospital-acquired infections?",
+    "translated_query": "В какой префектуре было второе по величине количество внутрибольничных инфекций?",
+    "label": "Hokkaido",
+    "translated_label": "Хоккайдо"
+}

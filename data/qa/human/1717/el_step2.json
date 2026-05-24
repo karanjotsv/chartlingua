@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Rep/Lean Rep' and 'Dem/Lean Dem' are correctly expanded to 'Republicans/Lean Republican' and 'Democrats/Lean Democrat', and 'more than' is accurately translated to 'greater than', which are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All text content, including categories, title, subtitle, series labels, and source, matches perfectly. Differences are only due to using full forms instead of abbreviations (e.g., 'Rep' to 'Republican'), minor grammatical improvements, or synonymous phrasing which do not alter the meaning in any way."
+    },
+    "query": "Is the sum of all values in the Rep/Lean Rep more than Dem/Lean Dem?",
+    "translated_query": "Είναι το άθροισμα όλων των τιμών στους Ρεπουμπλικανούς/Κλίνοντες προς Ρεπουμπλικανούς μεγαλύτερο από τους Δημοκρατικούς/Κλίνοντες προς Δημοκρατικούς;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

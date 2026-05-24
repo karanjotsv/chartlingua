@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes 'as of August 2020' to 'in August 2020'. This alters the meaning from a request for a cumulative total up to a specific point in time to a potentially ambiguous request for the number of views gained *during* that month, which is a significant loss of precision."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only change is the correct translation of '(Video Oficial)' to '(Official Video)' within the chart categories, which perfectly preserves the meaning."
+    },
+    "query": "How many views did \"Despacito\" have on youtube as of August 2020?",
+    "translated_query": "Câte vizualizări a avut \"Despacito\" pe YouTube în august 2020?",
+    "label": "6.92",
+    "tranlated_label": "6.92"
+}

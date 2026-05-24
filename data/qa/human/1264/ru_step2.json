@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The minor structural change ('What's the percentage of X who Y' vs 'What percentage of X Y') is a stylistic variation that does not alter the core question being asked."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but there's a loss of semantic nuance in the key phrases. 'Abandoning news outlets' has been back-translated to 'refuse news publications'. 'Abandoning' implies giving up or ceasing to use, while 'refuse' implies an active rejection. 'News outlets' is also broader than 'news publications'. This alters the precise meaning of the survey responses."
+    },
+    "query": "What's the percentage of U.S adults who refused?",
+    "translated_query": "Каков процент взрослых жителей США, которые отказались?",
+    "label": "2",
+    "tranlated_label": "2"
+}

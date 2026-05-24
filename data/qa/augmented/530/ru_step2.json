@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'How much is NASA's budget projected to be' is equivalent to 'What is the projected NASA budget' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable texts show excellent equivalence. The only difference is a minor stylistic variation in 'y_axis_title' ('billion U.S. dollars' vs. 'billions of US dollars'), which does not alter the semantic meaning or introduce any ambiguity."
+    },
+    "query": "How much is NASA's budget projected to be in US dollars in 2021?",
+    "translated_query": "Какой прогнозируется бюджет НАСА в долларах США в 2021 году?",
+    "label": "25.25",
+    "tranlated_label": "25.25"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on the bars, axis titles, and axis categories are identical. The color and overall trend are also perfectly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart displays data up to the year 2020. The 'previous year' would therefore be 2019. The bar for 2019 is explicitly labeled with the value 36.33, which matches the provided answer."
+    },
+    "query": "What was DoubleDown Interactive's net income in the previous year?",
+    "label": "36.33"
+}

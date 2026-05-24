@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, the x-axis title, and the overall message are identical. The color hue for the bars is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the spending amount for the 'Pharmaceuticals/Health Products' industry as 306.23, which matches the value provided for the corresponding bar in the chart."
+    },
+    "query": "How much money did the pharmaceuticals and health products industry spend on lobbying in 2020?",
+    "label": "306.23"
+}

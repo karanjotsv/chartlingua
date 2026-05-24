@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data points, axis values and labels, the overall trend, and the color scheme are all identical. The semantic content is fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the box office gross increased, but the line chart clearly shows a decreasing trend from left to right. The highest value, which is close to 15,000,000, is at the beginning of the series, and it declines from there."
+    },
+    "claim": "The cumulative box office gross increased to almost 15 millions. ",
+    "label": "TRUE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated content significantly distorts the original meaning by changing the specific place name 'Chattisham' to 'Chatham'. This is a critical loss of key information, as the query now refers to a different location. The change from 'minorities groups' to 'minority groups' is a minor grammatical correction but does not outweigh the factual error with the proper noun."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically the labels in 'chart_data' and all 'texts' fields (which are null), are perfectly identical in both the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "claim": "White people are the minorities groups within Chattisham.",
+    "translated_claim": "Οι Λευκοί είναι οι μειονοτικές ομάδες εντός του Τσάτισαμ."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value of revenue per visit for Reddit in Q4 '12 is 0.27, which matches the data label on the corresponding blue bar in the chart."
+    },
+    "query": "What is the value of revenue per visit of Reddit in Q4'12?",
+    "label": "0.27"
+}

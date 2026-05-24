@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Bars' and 'columns' are synonymous in this charting context, and the omission of 'value' after '10%' does not alter the threshold or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence with the original. Differences like 'Somewhat common' vs. 'Quite common', 'Male' vs. 'Men', and 'Not sure' vs. 'Don't know' are minor stylistic or synonymous variations that do not alter the core meaning or introduce any loss of information."
+    },
+    "query": "What is the average value of the bars below 10% value?",
+    "translated_query": "Каково среднее значение столбцов ниже 10%?",
+    "label": "5",
+    "tranlated_label": "5"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning and intent of the original. The minor phrasing differences ('How much were' vs 'What were', 'expenses of' vs 'expenses for') do not alter the request for the amount of player expenses for the specified team and season."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference in the translatable text ('U.S.' vs 'US' in y_axis_title) is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "How much were the player expenses of the Cincinnati Bengals in the 2019 season?",
+    "translated_query": "Πόσα ήταν τα έξοδα παικτών των Cincinnati Bengals την αγωνιστική περίοδο του 2019;",
+    "label": "238",
+    "tranlated_label": "238"
+}

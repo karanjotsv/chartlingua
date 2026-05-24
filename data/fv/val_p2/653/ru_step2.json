@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. 'Reduces' and 'decreases' are synonymous, and the phrasing 'the distortion percentage' vs 'the percentage of distortion' along with the minor article omission ('the frequency' vs 'frequency') do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic of the chart is captured, but there's a noticeable semantic shift in the 'x' axis labels. 'Strongly/Somewhat morelike' has been changed to 'Strongly/Somewhat prefer'. This alters the nuance of the categories, as 'morelike' implies similarity or resemblance, while 'prefer' implies choice or liking, potentially misrepresenting the original criterion being measured. The title change is minor and acceptable."
+    },
+    "claim": "The distortion percentage reduces as the frequency increases.",
+    "translated_claim": "Процент искажений уменьшается по мере увеличения частоты."
+}

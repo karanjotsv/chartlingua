@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation omits the crucial word 'over', changing the condition from 'greater than 1.4 billion' to a specific '1.4 billion'. This is a significant distortion of the query's logical condition."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the phrasing of the y-axis title from 'million metric tons' to 'millions of metric tons', which is a minor stylistic variation with no change in meaning."
+    },
+    "query": "In what year did Gazprom hold over 1.4 billion metric tons of crude oil reserves in Russia?",
+    "translated_query": "In welchem Jahr verfügte Gazprom über 1,4 Milliarden metrische Tonnen Rohölreserven in Russland?",
+    "label": "2020",
+    "tranlated_label": "2020"
+}

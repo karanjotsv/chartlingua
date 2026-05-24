@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Generates' and 'produces' are synonymous in the context of energy, resulting in no loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (labels in chart_data) is an exact semantic match between the original and back-translated JSON objects. The 'texts' object also has identical null values, indicating no text was present for translation."
+    },
+    "claim": "South Carolina generates more renewable energy than nuclear energy.",
+    "translated_claim": "Южная Каролина производит больше возобновляемой энергии, чем атомной энергии."
+}

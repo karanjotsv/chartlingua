@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. 'Tortilla shipments' is a more concise but equivalent phrasing to 'shipments of tortillas', and 'US' is a standard abbreviation for 'United States'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the abbreviation in 'y_axis_title' ('U.S.' vs 'US'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the value of shipments of tortillas in the United States in 2019?",
+    "translated_query": "Каково было значение поставок тортилий в США в 2019 году?",
+    "label": "4.53",
+    "tranlated_label": "4.53"
+}

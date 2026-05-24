@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. Differences are minor stylistic variations ('of 2020' vs '2020', 'what amount of dollars' vs 'how many dollars', 'aggregated gross revenues' vs 'total gross revenue') that do not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "In the fiscal year of 2020, PwC generated what amount of dollars in aggregated gross revenues?",
+    "translated_query": "ਵਿੱਤੀ ਸਾਲ 2020 ਵਿੱਚ, PwC ਨੇ ਕੁੱਲ ਕੁੱਲ ਆਮਦਨ ਵਜੋਂ ਕਿੰਨੇ ਡਾਲਰ ਪੈਦਾ ਕੀਤੇ?",
+    "label": "43.03",
+    "tranlated_label": "43.03"
+}

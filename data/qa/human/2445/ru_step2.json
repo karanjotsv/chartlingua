@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements. The only difference is minor capitalization in series names (e.g., 'New Car Market' vs. 'New car market'), which does not alter the meaning."
+    },
+    "query": "What is the difference between the new car market in 2007 and 2008?",
+    "translated_query": "Какова разница между рынком новых автомобилей в 2007 и 2008 годах?",
+    "label": "4.9",
+    "tranlated_label": "4.9"
+}

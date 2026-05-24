@@ -1,0 +1,47 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "2008",
+            "x": [
+                "März",
+                "April",
+                "Mai",
+                "Juni"
+            ],
+            "y": [
+                515,
+                470,
+                575,
+                540
+            ]
+        },
+        {
+            "name": "2009",
+            "x": [
+                "März",
+                "April",
+                "Mai",
+                "Juni"
+            ],
+            "y": [
+                585,
+                650,
+                685,
+                775
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Anrufe wegen häuslicher Gewalt",
+        "subtitle": null,
+        "x_axis_title": "Monate",
+        "y_axis_title": "Hilferufe",
+        "source": "Quelle: Fresno Police Department",
+        "note": null
+    },
+    "colors": [
+        "#5079B5",
+        "#B65150"
+    ]
+}

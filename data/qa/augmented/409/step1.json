@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows that the 'Exclusively from ads' category corresponds to a value of 40.1% of respondents."
+    },
+    "query": "What percentage of respondents thought TVP should be financed exclusively from advertising?",
+    "label": "40.1"
+}

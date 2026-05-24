@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are identical to the original. The different rotational arrangement of the slices is a minor stylistic variation that does not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the sum of PD-L and PNL is half (50%) of the chart. According to the chart, PD-L is 28% and PNL is 18%. Their sum is 28% + 18% = 46%, which is not 50%."
+    },
+    "claim": "The sum of the PD-L and PNL bars together makes the half of the chart.",
+    "label": "FALSE"
+}

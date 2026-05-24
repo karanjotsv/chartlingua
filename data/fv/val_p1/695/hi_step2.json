@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly captures the intended meaning of the original, and even corrects a grammatical error in the original ('The chart the of...') to form a fluent, sensical sentence ('This chart shows...'). The core message is identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The titles and most labels are identical or synonymous. The back-translation expanded the category acronyms (e.g., 'GWP' to 'Global Warming Potential'), which is acceptable. However, the series name 'Remanufacturing' was changed to 'Reconstruction', which is a slight semantic shift that reduces specificity."
+    },
+    "claim": "The chart the of different greenhouse gases in the atmosphere.",
+    "translated_claim": "यह चार्ट वातावरण में विभिन्न ग्रीनहाउस गैसों को दर्शाता है।"
+}

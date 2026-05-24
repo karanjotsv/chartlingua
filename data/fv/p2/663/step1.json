@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and relative proportions are identical. The only difference is the rotation of the pie, which is a stylistic choice that does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 'Fall' is the largest category at 44.5%, but it does not provide any context about what the data represents. The claim specifies that this data is about 'concussions in school children from Ontario', none of which is mentioned or supported by the information in the chart."
+    },
+    "claim": "The chart claims that \"falling\" is the number 1 cause of concussions in school children from Ontario.",
+    "label": "TRUE"
+}

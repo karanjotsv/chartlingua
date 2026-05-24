@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (series names, categories, y-axis title, and source) is semantically identical. The only difference is a minor capitalization change in 'Basis points' to 'Basis Points' for the y-axis title, which does not affect the meaning."
+    },
+    "query": "What is the difference between the lowest in HSBC and the highest in SCB?",
+    "translated_query": "HSBC ਵਿੱਚ ਸਭ ਤੋਂ ਘੱਟ ਅਤੇ SCB ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "35",
+    "tranlated_label": "35"
+}

@@ -1,0 +1,74 @@
+{
+    "charts": [
+        {
+            "chart_type": "bar",
+            "texts": {
+                "title": "Question Number 5",
+                "subtitle": "What do you think of the commentary surrounding<br>official manufacturing statistics? (scale 1-5)",
+                "x_axis_title": "Answer Responses : 87",
+                "mode_mean_text": "Mode: 2  Mean: 2.57"
+            },
+            "chart_data": [
+                {
+                    "category": "1",
+                    "value": 4
+                },
+                {
+                    "category": "2",
+                    "value": 29
+                },
+                {
+                    "category": "3",
+                    "value": 27
+                },
+                {
+                    "category": "4",
+                    "value": 6
+                },
+                {
+                    "category": "5",
+                    "value": 1
+                }
+            ],
+            "colors": {
+                "bar_fill": "#95B3D7",
+                "bar_border": "#4F81BD"
+            }
+        },
+        {
+            "chart_type": "bar",
+            "texts": {
+                "title": "Question Number 6",
+                "subtitle": "What do you think about the way official manufacturing<br>statistics are presented and disseminated? (scale 1-5)",
+                "x_axis_title": "Answer Responses : 65",
+                "mode_mean_text": "Mode: 2  Mean: 2.82"
+            },
+            "chart_data": [
+                {
+                    "category": "1",
+                    "value": 3
+                },
+                {
+                    "category": "2",
+                    "value": 28
+                },
+                {
+                    "category": "3",
+                    "value": 25
+                },
+                {
+                    "category": "4",
+                    "value": 9
+                },
+                {
+                    "category": "5",
+                    "value": 0
+                }
+            ],
+            "colors": {
+                "bar_fill": "#95B3D7",
+                "bar_border": "#4F81BD"
+            }
+        }
+    ]
+}

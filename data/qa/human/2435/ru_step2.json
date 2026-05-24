@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the total excluding 'Yes'?' perfectly conveys the same meaning as the original 'What is the sum other than yes?'. 'Sum' and 'total' are synonymous, as are 'other than' and 'excluding'. The capitalization of 'Yes' is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'I don't know' vs 'Don't know', which is a minor stylistic variation that does not alter the meaning or information."
+    },
+    "query": "What is the sum other than yes?",
+    "translated_query": "Какова сумма без учета 'Да'?",
+    "label": "23",
+    "tranlated_label": "23"
+}

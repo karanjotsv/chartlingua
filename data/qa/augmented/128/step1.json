@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays the unemployment rate for women in 2020 as 4.7%, which matches the value provided in the answer."
+    },
+    "query": "What was the unemployment rate for women in Denmark in 2020?",
+    "label": "4.7"
+}

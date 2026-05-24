@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is highly consistent in terms of data proportions, color hues, and title. The only minor discrepancy is in the legend labels, where the rendered version abbreviates the numerical ranges (e.g., '10—' instead of '$10 - $30') and omits the dollar signs, but this does not alter the overall interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the chart, which is a pie chart titled '2.5 MILLION DONATIONS' and uses a legend to show the distribution of these donations across specific monetary ranges in USD."
+    },
+    "claim": "The chart displays the distribution of donations based on specific ranges.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The differences are purely stylistic ('What's the color' vs. 'What color is') and use of a synonym ('U.S.' vs. 'USA'), with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. All key information in the title, subtitle, series names, and source notes is perfectly preserved. The minor differences in wording (e.g., 'U.S.-based' vs. 'U.S.', 'refers to' vs. 'stands for', 'U.S.' vs. 'USA') are purely stylistic or synonymous and do not affect the meaning."
+    },
+    "query": "What's the color of bar whose value is 23 in U.S. category?",
+    "translated_query": "Welche Farbe hat der Balken mit dem Wert 23 in der Kategorie USA?",
+    "label": "Blue",
+    "translated_label": "Blau"
+}

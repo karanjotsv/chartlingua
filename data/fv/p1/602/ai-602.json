@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "natural gas",
+            "value": 69.4
+        },
+        {
+            "label": "solar",
+            "value": 11.1
+        },
+        {
+            "label": "geothermal",
+            "value": 8.8
+        },
+        {
+            "label": "coal",
+            "value": 4.9
+        },
+        {
+            "label": "hydro",
+            "value": 4.7
+        },
+        {
+            "label": "other",
+            "value": 1.2
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation",
+        "subtitle": "Nevada - 2017",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#84C1C9",
+        "#F5D944",
+        "#F09A31",
+        "#9D1B68",
+        "#3E69B1",
+        "#7E489E"
+    ],
+    "background_color": "#E9E8F9"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly captures the intended meaning of the original. It corrects a typo ('no' to 'not') and clarifies the ambiguous second clause ('GDP is shown in the chart' becomes 'whose GDP is shown'), which is an improvement that maintains the core semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is the change from 'Others' to 'Other' in one of the data labels, which is a trivial and stylistically acceptable variation that does not alter the meaning."
+    },
+    "claim": "The United States is no a member of the Commonwealth of Nations, GDP is shown in the chart.",
+    "translated_claim": "Die Vereinigten Staaten sind kein Mitglied des Commonwealth of Nations, das BIP wird im Diagramm dargestellt."
+}

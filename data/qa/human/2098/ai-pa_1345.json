@@ -1,0 +1,57 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "iMessage",
+            "WhatsApp",
+            "Facebook Messenger"
+        ],
+        "series": [
+            {
+                "name": "ਫਿਨਲੈਂਡ",
+                "data": [
+                    5,
+                    64,
+                    23
+                ]
+            },
+            {
+                "name": "ਨਾਰਵੇ",
+                "data": [
+                    24,
+                    12,
+                    51
+                ]
+            },
+            {
+                "name": "ਸਵੀਡਨ",
+                "data": [
+                    28,
+                    16,
+                    44
+                ]
+            },
+            {
+                "name": "ਡੈਨਮਾਰਕ",
+                "data": [
+                    21,
+                    6,
+                    43
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "ਜਵਾਬ ਦੇਣ ਵਾਲਿਆਂ ਦਾ ਹਿੱਸਾ",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2677C7",
+        "#0F2C4D",
+        "#BEBEBE",
+        "#B42025"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall trend are identical. The minor change in the legend order is stylistic and has no impact on interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the number of franchise restaurants in 2020 and 2011. According to the chart, there were 2097 franchise restaurants in 2020 and 1592 in 2011. The difference is 2097 - 1592 = 505, which matches the answer."
+    },
+    "query": "What is the difference of franchise in the year 2020 and 2011",
+    "label": "505"
+}

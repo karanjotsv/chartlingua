@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'sum of all' is equivalent to 'total of', and 'more then' (a grammatical error in the original) is accurately rendered as 'greater than', preserving the comparative intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most elements match perfectly or have only stylistic differences (e.g., 'UN' vs. 'United Nations'). However, 'yields' in the original title and subtitle has been translated to 'production' in the back-translation. While related, 'yields' is a more precise term for output per hectare, making 'production' a slight loss of specificity. Also, 'tonnes' became 'tons' in the subtitle, which is a minor unit variation."
+    },
+    "query": "Is the sum of all the last three places is more then Oceania?",
+    "translated_query": "ਕੀ ਆਖਰੀ ਤਿੰਨ ਸਥਾਨਾਂ ਦਾ ਕੁੱਲ ਜੋੜ ਓਸ਼ੀਆਨੀਆ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

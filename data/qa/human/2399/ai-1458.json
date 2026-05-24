@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Teachers",
+            "values": [
+                24,
+                25,
+                37,
+                37,
+                43,
+                55,
+                60,
+                62,
+                65
+            ]
+        },
+        {
+            "name": "Principals",
+            "values": [
+                27,
+                23,
+                57,
+                57,
+                64,
+                63,
+                67,
+                60,
+                72
+            ]
+        }
+    ],
+    "categories": [
+        "Webinars",
+        "Participating in an online community of<br>peers",
+        "Reading professional books",
+        "Coaches or mentors",
+        "Participating in a personal learning<br>community",
+        "Workshops conducted by my colleagues",
+        "Observations",
+        "Workshops conducted by outside<br>consultants, authors or experts",
+        "Professional conferences"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Share of respondents",
+        "y_axis_title": "Formats of professional development",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1E2C3A"
+    ]
+}

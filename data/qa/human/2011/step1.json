@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis values, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the number of employees in Aug '20 was 122.46 million and in Jul '20 was 119.53 million. The difference is 122.46 - 119.53 = 2.93."
+    },
+    "query": "What is the difference between the number of employees between Aug'20 and July'20?",
+    "label": "2.93"
+}

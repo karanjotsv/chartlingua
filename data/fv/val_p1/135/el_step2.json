@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Lesser than' and 'smaller than' are synonymous in this context, and the phrasing 'age group of 23' vs '23 age group' are stylistically different but semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content in the JSON perfectly preserves the semantic meaning of the original. All titles and labels convey the same information with only minor stylistic variations (e.g., 'Female Arson Arrests' vs. 'Arrests of Women for Arson', 'Number arrested' vs. 'Number of arrestees')."
+    },
+    "claim": "Number of arrests in age group of 23 is lesser than the age group of 22.",
+    "translated_claim": "Ο αριθμός συλλήψεων στην ηλικιακή ομάδα των 23 είναι μικρότερος από την ηλικιακή ομάδα των 22."
+}

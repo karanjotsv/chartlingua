@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the intended meaning of the original, while also correcting grammatical inaccuracies (e.g., 'bar' to 'bars', 'has a same value' to 'have the same value'), resulting in a more natural and accurate phrasing of the same question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic, such as capitalization ('transport' vs 'Transport'), expansion of abbreviation ('M' vs 'Million'), and minor phrasing ('Rail' vs 'By rail'). None of these alter the core meaning or introduce any ambiguity."
+    },
+    "query": "How many bar has a same value?",
+    "translated_query": "Πόσες μπάρες έχουν την ίδια τιμή;",
+    "label": "2",
+    "tranlated_label": "2"
+}

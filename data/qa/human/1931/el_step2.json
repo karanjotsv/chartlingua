@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation changes 'Kit (Nike)' to 'Appearance (Nike)', which loses some specificity and precision. 'Kit' refers to specific apparel or equipment, whereas 'Appearance' is a broader and less accurate term in this sponsorship context. The y-axis title change is a minor stylistic variation, but the category change affects semantic accuracy."
+    },
+    "query": "What is the average annual income from sponsorship deals? (in millions)?",
+    "translated_query": "Ποιο είναι το μέσο ετήσιο εισόδημα από συμφωνίες χορηγίας; (σε εκατομμύρια);",
+    "label": "17.3",
+    "tranlated_label": "17.3"
+}

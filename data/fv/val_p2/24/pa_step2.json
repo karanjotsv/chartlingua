@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. Differences are minor stylistic choices ('in the year 1950' vs 'in 1950', and 'there is a total population value of' vs 'the total population was') that do not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "There is no translatable text content in either the original or back-translated JSON (all text fields are null), thus demonstrating perfect semantic equivalence for the text components."
+    },
+    "claim": "According to the chart, in the year 1950 there is a total population value of 34350 ",
+    "translated_claim": "ਚਾਰਟ ਦੇ ਅਨੁਸਾਰ, ਸਾਲ 1950 ਵਿੱਚ ਕੁੱਲ ਆਬਾਦੀ ਦਾ ਮੁੱਲ 34350 ਹੈ।"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data categories, values, and text labels from the original. The color hues for each category are also consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that Metal Mining is responsible for 37% of the total disposal or other releases, which is the largest percentage shown for any single industry."
+    },
+    "claim": "Metal Mining produced the highest share of disposal and other releases in 2015.",
+    "label": "TRUE"
+}

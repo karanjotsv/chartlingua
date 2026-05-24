@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect replication of the original. Both images show a single red line with a negative slope on a black background, and both lack any axes, labels, or titles. The core visual information is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays a line with a negative slope, descending from the top-left to the bottom-right. This visually represents an inverse relationship where an increase in the horizontal value (x) corresponds to a decrease in the vertical value (y), which is precisely what the claim states."
+    },
+    "claim": "The higher the value of x, the lower the value of y.",
+    "label": "TRUE"
+}

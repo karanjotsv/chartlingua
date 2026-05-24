@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While most data values, proportions, and color hues are correctly represented, the label for the 'Turkish' category (10%) is completely missing. This is a significant data omission that prevents a full understanding of the chart's composition.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap in the chart title, where the words 'WITHIN', 'IN', 'OUR', and 'GROUP' are jumbled together, making the title difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the percentage of Indian students is 13%, Turkish is 10%, and Greek is 3%. The sum of these percentages is 26%. The chart indicates that Australian students make up 50% of the group. Since 26% is not equal to 50%, the claim is refuted."
+    },
+    "claim": "The total amount of Indian, turkish and greek students is equal to Australian students.",
+    "label": "FALSE"
+}

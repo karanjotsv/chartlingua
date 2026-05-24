@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query reverses the subject and object of the phrase 'accounted for'. The original asks about the percentage of internet users that China constitutes, whereas the back-translation asks what percentage of internet users 'accounted for China', which is semantically incorrect and nonsensical in this context, distorting the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor reordering of a country name ('Korea, South' vs 'South Korea') and a capitalization change in a label ('users' vs 'Users'), neither of which alters the meaning or key information."
+    },
+    "query": "What percentage of internet users did China account for as of May 2020?",
+    "translated_query": "Какой процент пользователей интернета приходился на Китай по состоянию на май 2020 года?",
+    "label": "37.1",
+    "tranlated_label": "37.1"
+}

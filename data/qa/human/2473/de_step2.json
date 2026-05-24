@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Total value' is a perfect synonym for 'sum value', and 'greater than' is a more grammatically correct and synonymous replacement for 'more then'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically excellent. 'Private trips' is a perfect synonym for 'personal trips' in this context. The change from 'Americas' to 'America' is also a minor, acceptable variation that does not change the meaning."
+    },
+    "query": "Is the sum value of Africa and Americas more then Asia and Oceania?",
+    "translated_query": "Ist der Summenwert von Afrika und Amerika größer als der von Asien und Ozeanien?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

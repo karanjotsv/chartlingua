@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points (start, end, and center), country labels, axis labels, and the main title are identical. The color hues for 'Political left' (green), 'Political right' (red), and 'Political center' (grey) are preserved. The overall message and data trends are completely consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that climate change is a top global threat across political viewpoints, but the chart shows significant disagreement. For the 'Political right' in several countries, a low percentage of the population views climate change as a major threat. For example, in the U.S., the figure for the 'Political right' is less than 30%, directly contradicting the claim."
+    },
+    "claim": "Climate change is a top global threat across political viewpoints.",
+    "label": "TRUE"
+}

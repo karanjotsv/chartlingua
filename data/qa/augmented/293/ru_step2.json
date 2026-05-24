@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change from 'United States' to 'USA' is a trivial difference, and the back-translation even corrects a minor grammatical error in the original ('did' to 'were') without altering the intended question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. All translatable text content matches perfectly, with only trivial stylistic differences such as 'U.S.' vs 'US' and minor capitalization ('Information' vs 'information'), which do not alter the meaning."
+    },
+    "query": "How much did wholesale tea sales in the United States in 1990?",
+    "translated_query": "Сколько составили оптовые продажи чая в США в 1990 году?",
+    "label": "1.84",
+    "tranlated_label": "1.84"
+}

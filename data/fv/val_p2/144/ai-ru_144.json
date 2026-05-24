@@ -1,0 +1,31 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Авторизованные военные",
+            "percentage": 9,
+            "value": 552
+        },
+        {
+            "label": "Авторизованные гражданские лица",
+            "percentage": 35,
+            "value": 2094
+        },
+        {
+            "label": "Эквиваленты штатной численности<br>подрядчиков",
+            "percentage": 56,
+            "value": 3287
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": "Источник: анализ данных Министерства обороны США, проведенный GAO. | GAO-15-10",
+        "note": null
+    },
+    "colors": [
+        "#006837",
+        "#a4cda1",
+        "#FFFFFF"
+    ]
+}

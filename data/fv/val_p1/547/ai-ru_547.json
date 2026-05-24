@@ -1,0 +1,30 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Орландо",
+            "value": 10.84
+        },
+        {
+            "category": "Студенты",
+            "value": -3.2
+        },
+        {
+            "category": "Профессионалы",
+            "value": 3.52
+        }
+    ],
+    "texts": {
+        "title": "Результативность в Сток Кемп",
+        "subtitle": null,
+        "x_axis_title": "Кемпер",
+        "y_axis_title": "Значение стока",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#F4B400",
+        "#EA4335",
+        "#F26419"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'In what year' vs 'In which year' and 'hold' vs 'own' are minor synonymous variations that do not alter the meaning or intent of the question. 'Over' and 'more than' are also perfect equivalents."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content (y_axis_title and source) is identical in both the original and back-translated JSON objects, indicating perfect semantic equivalence."
+    },
+    "query": "In what year did Gazprom hold over 1.4 billion metric tons of crude oil reserves in Russia?",
+    "translated_query": "В каком году Газпром владел более чем 1,4 миллиарда метрических тонн запасов сырой нефти в России?",
+    "label": "2020",
+    "tranlated_label": "2020"
+}

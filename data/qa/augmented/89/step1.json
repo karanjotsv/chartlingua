@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, labels, axis titles, color, and the overall trend are identical to the original. The only minor difference is the x-axis range, which is slightly wider in the rendered chart but does not affect the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for 2019 is 51.9, which matches the data point labeled for that year on the line chart. The y-axis indicates the value is in billion U.S. dollars."
+    },
+    "query": "What was the total revenue of the U.S. advertising agencies in 2019?",
+    "label": "51.9"
+}

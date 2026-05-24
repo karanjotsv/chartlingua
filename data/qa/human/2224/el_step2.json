@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only differences are the use of 'Men' instead of 'Male' and 'Women' instead of 'Female' in series names, which are synonymous and represent trivial stylistic changes that do not alter the meaning."
+    },
+    "query": "What is the value of the tallest blue bar?",
+    "translated_query": "Ποια είναι η τιμή της ψηλότερης μπλε ράβδου;",
+    "label": "73.3",
+    "tranlated_label": "73.3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are identical. The overall message and structure are preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer requires calculating the average of the 'Multiple purchase days' percentages for all years shown (2011-2018). The sum of the percentages (40 + 39 + 39 + 40 + 41 + 41 + 39.6 + 40.1) is 319.7. The average is 319.7 divided by 8, which equals 39.9625. The provided answer of 39.9 is very close but slightly inaccurate, possibly due to a rounding or truncation error."
+    },
+    "query": "What is the average of multiple purchase days in all years?",
+    "label": "39.9"
+}

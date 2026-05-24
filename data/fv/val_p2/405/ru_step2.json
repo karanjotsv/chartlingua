@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the semantic meaning of the original. 'The majority' is synonymous with 'Most', and 'based on' is equivalent to 'according to'. The minor difference in 'reaction times' vs 'a reaction time' does not alter the core information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart title has a minor rephrasing ('for Dog Reaction Times' vs 'of Reaction Time for Dogs'), which is an acceptable difference as the core meaning is preserved. Other text elements like axis titles and series name are semantically identical or have only trivial case differences."
+    },
+    "claim": "The majority of dogs have reaction times between 1.8 and 5.2 seconds, based on the cumulative frequency ogive chart.",
+    "translated_claim": "У большинства собак время реакции составляет от 1.8 до 5.2 секунд, согласно графику огивы накопленной частоты."
+}

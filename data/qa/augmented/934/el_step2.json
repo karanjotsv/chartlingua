@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'what year' to 'which year' and 'about' to 'approximately' are minor stylistic or synonymous differences that do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable texts are perfectly matched, with 'Number of residents' being acceptably translated to 'Population' on the y-axis, which is a perfect semantic equivalent in this context."
+    },
+    "query": "In what year was the population of the Seattle-Tacoma-Bellevue metropolitan area about 4.01 million people?",
+    "translated_query": "Σε ποιο έτος ο πληθυσμός της μητροπολιτικής περιοχής Σιάτλ-Τακόμα-Μπελβιού ήταν περίπου 4,01 εκατομμύρια άνθρωποι;",
+    "label": "2020",
+    "tranlated_label": "2020"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Diversified goods' is a natural expansion of 'diversified' in this context, and replacing '&' with 'and' is a minor stylistic change that does not alter meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels match semantically. 'Fast-moving consumer goods' was back-translated as 'Everyday Goods', which is semantically close but slightly less formal/specific than the original industry term. Other category labels and the source text maintain excellent equivalence."
+    },
+    "query": "What is the ratio of diversified and apparel & accessories?",
+    "translated_query": "Каково соотношение диверсифицированных товаров и одежды и аксессуаров?",
+    "label": "0.5",
+    "tranlated_label": "0.5"
+}

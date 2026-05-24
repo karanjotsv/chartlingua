@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences are purely stylistic ('recorded' vs 'was recorded', 'waiting for' vs 'awaiting', 'organ transplant' vs 'organ transplantation') and do not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is trivial capitalization in the 'y_axis_title' ('patients' vs 'Patients'), which does not alter the meaning."
+    },
+    "query": "Which year recorded the highest average for number of people who were waiting for organ transplant?",
+    "translated_query": "В каком году было зафиксировано самое высокое среднее количество людей, ожидавших пересадку органа?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

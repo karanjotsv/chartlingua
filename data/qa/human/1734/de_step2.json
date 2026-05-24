@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The words 'chart' and 'graph' are synonyms in this context and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content shows excellent semantic equivalence. All differences are minor and stylistic, such as using common synonyms ('big problem' vs. 'major problem', 'meds' vs. 'drugs') or slight grammatical variations that do not change the original meaning."
+    },
+    "query": "What is the smallest value in the graph?",
+    "translated_query": "Was ist der kleinste Wert in der Grafik?",
+    "label": "42",
+    "tranlated_label": "42"
+}

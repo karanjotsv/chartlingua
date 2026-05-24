@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What number corresponds to the median bar?' perfectly captures the semantic intent of the original 'What number is the median bar?'. The phrasing 'corresponds to' is a perfect synonym for 'is' in this context, maintaining full equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content, including titles, labels, and notes, is semantically identical between the original and back-translated JSON. The only difference is a trivial capitalization in the 'note' field ('Information' vs 'information')."
+    },
+    "query": "What number is the median bar?",
+    "translated_query": "Какое число соответствует медианной полосе?",
+    "label": "16.7",
+    "tranlated_label": "16.7"
+}

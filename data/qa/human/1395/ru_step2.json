@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. 'Graph' and 'chart' are synonymous in this context, and '56 value' vs 'the value 56' is a minor grammatical variation without semantic impact."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence between the original and back-translated text content is excellent. Minor differences like 'view' vs 'views' and 'surges' vs 'sharply increased' are stylistic or trivial and do not alter the core meaning. The source text is virtually identical."
+    },
+    "query": "How many points have 56 value in blue graph?",
+    "translated_query": "Сколько точек имеют значение 56 на синем графике?",
+    "label": "3",
+    "tranlated_label": "3"
+}

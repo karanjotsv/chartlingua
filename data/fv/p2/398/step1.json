@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect recreation of the original. All data series, axis labels, axis ranges, and series labels are semantically identical. The data values and positions on the axes are accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'Error - °F' axis scales to 1000, but the chart's Y-axis clearly shows a maximum labeled value of 800."
+    },
+    "claim": "The Error- F scales to 1000.",
+    "label": "FALSE"
+}

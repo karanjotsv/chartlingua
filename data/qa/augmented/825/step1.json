@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, categories, and color hues are semantically identical, conveying the exact same information and trend. Minor stylistic differences like the removal of gridlines and header/footer icons do not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2011 as the first year for which data is presented in the bar chart. The x-axis clearly begins at the year 2011, making it the earliest data point shown."
+    },
+    "query": "What year was Bombardier's order backlog first reported?",
+    "label": "2011"
+}

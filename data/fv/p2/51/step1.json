@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color assignments are identical to the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "Based on the chart, the difference between 'others' (27%) and 'PNL' (18%) is 9 percentage points. The difference between 'PD-L' (28%) and 'PSD' (27%) is 1 percentage point. Since 9 is greater than 1, the claim is supported by the data."
+    },
+    "claim": "The difference between PNL and others is higher than the difference between PD-L and PSD.",
+    "label": "TRUE"
+}

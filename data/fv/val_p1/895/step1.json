@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data values, proportions, labels, and overall message are consistent. However, there is a minor color hue inconsistency in the legend for the 'Domestic Service or Offices' category, which is yellow in the original legend but dark grey in the rendered version.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The legend in the chart explicitly pairs an orange square with the label 'General/ Local Government', directly confirming the claim."
+    },
+    "claim": "The color that represent General/Local Government is Orange in the chart.",
+    "label": true
+}

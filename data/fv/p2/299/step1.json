@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The overall trend, chart type, and color scheme are consistent. However, the rendered chart contains an extra data point and the values of the other points appear to be slightly different, which constitutes a noticeable data discrepancy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is completely unlabeled. There is no title, no axis labels, and no legend to indicate what data is being represented. Therefore, it is impossible to determine if the chart relates to knowledge about 'Wikimedia projects and translatewiki.net'."
+    },
+    "claim": "More people knows the basic about Wikimedia projects and translatewiki.net chart.",
+    "label": "FALSE"
+}

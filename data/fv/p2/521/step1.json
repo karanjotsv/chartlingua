@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, category labels, title, and color hues are consistent, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on daily tobacco use, with categories such as 'Only smoke', 'Only snus', and 'Neither smoke nor snus'. The claim refers to 'forest', 'water', 'wet soils', and 'gravel pits', which are topics completely absent from the chart. Therefore, the chart contains no information to support this claim."
+    },
+    "claim": "The part of forest is smaller than the part of water, wet soils and gravel pits.",
+    "label": "TRUE"
+}

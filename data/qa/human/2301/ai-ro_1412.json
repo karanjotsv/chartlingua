@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Statele Unite",
+            "Marea Britanie",
+            "Franța",
+            "Germania",
+            "Spania"
+        ],
+        "series": [
+            {
+                "name": "Nu, nu este necesar",
+                "data": [
+                    46,
+                    78,
+                    85,
+                    66,
+                    80
+                ]
+            },
+            {
+                "name": "Da, este necesar",
+                "data": [
+                    53,
+                    20,
+                    15,
+                    33,
+                    19
+                ]
+            },
+            {
+                "name": "Nu știu / refuz",
+                "data": [
+                    2,
+                    2,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Țară",
+        "y_axis_title": "Procentul respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2A7DE1",
+        "#0F2940",
+        "#C8C8C8"
+    ]
+}

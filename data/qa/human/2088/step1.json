@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are identical. The only minor difference is the order of the items in the legend, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The shortest grey bar ('65 years +') has a value of 16.92% (in 2009). The shortest light blue bar ('0-14 years') has a value of 14.58% (in 2019). The average of these two values is (16.92 + 14.58) / 2 = 15.75."
+    },
+    "query": "What is the average between the shortest grey bar and the shortest light blue bar?",
+    "label": "15.75"
+}

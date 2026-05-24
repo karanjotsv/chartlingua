@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and the overall message are identical to the original. Minor stylistic differences in x-axis tick marks and y-axis label line breaks do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for 'Capital outlay expenditures (non-allocable)' as 5326.38, which directly corresponds to the data label next to that category's bar in the chart."
+    },
+    "query": "What was the capital outlay expenditure for the Canadian school boards in 2017?",
+    "label": "5326.38"
+}

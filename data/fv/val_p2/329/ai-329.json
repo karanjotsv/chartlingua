@@ -1,0 +1,68 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Professional",
+            "Domestic offices or services",
+            "Conveyance of men, goods and messages",
+            "Agriculture",
+            "Animals",
+            "Houses, furniture and decorations",
+            "Dealing in food and lodging",
+            "Various vegetable substances",
+            "Various mineral substances",
+            "General or unspecified commodities",
+            "Unspecified occupations",
+            "Unknown occupation/illegible"
+        ],
+        "series": [
+            {
+                "name": "Male Workers",
+                "values": [
+                    3,
+                    1.5,
+                    3,
+                    40,
+                    4,
+                    5,
+                    6,
+                    2,
+                    1,
+                    8,
+                    0.5,
+                    5
+                ]
+            },
+            {
+                "name": "Female Workers",
+                "values": [
+                    3,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    50
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "1881 Occupational Structure",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31"
+    ]
+}

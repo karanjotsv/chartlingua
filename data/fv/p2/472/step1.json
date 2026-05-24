@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly reproduces all categories, their order, and color hues. However, there is a significant data inconsistency: the relative proportions of the 'Salaries' and 'Travel Expenses' slices appear to be swapped. In the original, 'Travel Expenses' is a larger slice than 'Salaries', while in the rendered chart, 'Salaries' is visibly larger, which alters the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays 'Salaries' and 'Operating Expenses' as separate categories. However, there is no information, title, or label on the chart to identify it as belonging to 'Wikimedia'."
+    },
+    "claim": "Wikimedia's expense report separates salaries from operating expenses.",
+    "label": "TRUE"
+}

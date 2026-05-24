@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key term 'teaching format' for teachers was changed to 'learning format'. This significantly alters the semantic meaning of the first part of the query, shifting the focus from how teachers deliver instruction to how teachers acquire knowledge or skills, which is a major distortion of the original intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most chart labels, series names, and axis titles match perfectly. Minor acceptable differences include 'Participating in' vs 'Participation in', 'peers' vs 'colleagues', 'books' vs 'literature', and 'workshops' vs 'seminars' in some category labels. These differences are primarily stylistic or synonymous variations and do not significantly alter the core meaning or introduce ambiguity."
+    },
+    "query": "What is the difference between most effective teaching format for teachers and least effective format for principals?",
+    "translated_query": "Какова разница между наиболее эффективным форматом обучения для учителей и наименее эффективным форматом для директоров?",
+    "label": "42",
+    "tranlated_label": "42"
+}

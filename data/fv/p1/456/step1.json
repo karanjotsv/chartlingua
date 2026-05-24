@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text content (title, labels, legend), and color hue assignments are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not list an 'operational stage'. The category with the highest GWP impact is 'Resource Provisioning', which accounts for 50% of the total (100% - 16% - 24% - 10%)."
+    },
+    "claim": "The highest GWP impact in the gasification process occurs during the operational stage",
+    "label": true
+}

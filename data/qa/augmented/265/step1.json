@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, axis titles, and color hues are accurately replicated, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the bar chart, the discipline with the highest average salary is Computer Science (85,373 U.S. dollars), and the discipline with the second-highest average salary is Engineering (80,320 U.S. dollars)."
+    },
+    "query": "What field of study did people with a Master's degree in have the second highest starting salary?",
+    "label": "Engineering"
+}

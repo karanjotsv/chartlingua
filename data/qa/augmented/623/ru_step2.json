@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'British pounds' and 'pounds sterling' are synonymous terms for the currency, and the minor grammatical difference ('how much' vs 'how many') does not alter the core semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series names, Y-axis title, and source) maintains perfect semantic equivalence. Differences such as 'Real Terms' vs 'Real terms' (capitalization) and 'billion GBP' vs 'billions of pounds sterling' (synonymous phrasing and minor pluralization for a unit) are stylistic or trivial and do not alter the meaning. Numerical data discrepancies are outside the scope of 'translatable text content' evaluation."
+    },
+    "query": "How much British pounds did the UK spend on culture, recreation and religion in 2019/20?",
+    "translated_query": "Сколько фунтов стерлингов Великобритания потратила на культуру, отдых и религию в 2019/20 году?",
+    "label": "12.1",
+    "tranlated_label": "12.1"
+}

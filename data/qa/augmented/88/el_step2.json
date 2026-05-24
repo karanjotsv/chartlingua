@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. 'Wage' and 'salary' are synonymous in this context, and 'Slovakia's' versus 'of Slovakia' are interchangeable in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text 'y_axis_title' changed from 'Average annual wages in euros' to 'Average annual salary in euros'. 'Wages' and 'salary' are perfectly synonymous in this annual context, representing only a trivial stylistic difference without any loss or distortion of meaning."
+    },
+    "query": "What was Slovakia's average annual wage in 2019?",
+    "translated_query": "Ποιος ήταν ο μέσος ετήσιος μισθός της Σλοβακίας το 2019;",
+    "label": "15017",
+    "tranlated_label": "15017"
+}

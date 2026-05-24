@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Partidul Republican",
+            "display_label": "Partidul Republican<br>55 milioane",
+            "value": 55
+        },
+        {
+            "hover_label": "Partidul Democrat",
+            "display_label": "Partidul Democrat<br>72 milioane",
+            "value": 72
+        },
+        {
+            "hover_label": "Independenți",
+            "display_label": "Independenți<br>42 milioane",
+            "value": 42
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#D93B0B",
+        "#3A87D5",
+        "#F0E594"
+    ],
+    "pull": [
+        0.1,
+        0.1,
+        0.1
+    ]
+}

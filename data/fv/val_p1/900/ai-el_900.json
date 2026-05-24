@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "άνθρακας",
+            "value": 83.2
+        },
+        {
+            "label": "φυσικό αέριο",
+            "value": 10.3
+        },
+        {
+            "label": "υδροηλεκτρική",
+            "value": 4.3
+        },
+        {
+            "label": "άλλα",
+            "value": 2.2
+        }
+    ],
+    "texts": {
+        "title": "Πηγές Παραγωγής Ηλεκτρικής Ενέργειας",
+        "subtitle": "Κεντάκι - 2016",
+        "source": null,
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#C71585",
+        "#86C5D8",
+        "#4682B4",
+        "#BA55D3"
+    ],
+    "style": {
+        "plot_bgcolor": "#E6E6FA",
+        "paper_bgcolor": "#E6E6FA"
+    }
+}

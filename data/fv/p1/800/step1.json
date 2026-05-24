@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data points, trends, axis values (including the inverted y-axis), and color schemes are all highly consistent. The only difference is the addition of a title in the rendered version, which does not alter the interpretation of the original data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart title is clipped on the right side, making it incomplete."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Lazio has maintained a presence in the top-tier since the 1929-30 season. However, the chart's light blue line, representing the team's league position, shows several drops below the top-tier range (generally positions 1-20). For instance, around 1981, the team's position drops to nearly 30, indicating relegation from the top tier, which contradicts the claim of a continuous presence."
+    },
+    "claim": " Lazio has maintain a presence in the top-tier Serie A in its in the 1929 30 season.",
+    "label": true
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation introduces a significant ambiguity. The original makes a clear comparison between 'football' (American football) and 'soccer'. The back-translated version compares 'American football' to 'football', which is confusing in an American context and distorts the key information by making the second sport being compared unclear."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are semantically identical. However, the back-translation introduces significant ambiguity by changing the original pair 'Football' and 'Soccer' to 'American football' and 'Football'. This loses the clear distinction between the two sports present in the original content."
+    },
+    "claim": "There was greater attendance for football than soccer at the Kingdome in 1980.",
+    "translated_claim": "În 1980, prezența la meciurile de fotbal american de la Kingdome a fost mai mare decât cea la meciurile de fotbal."
+}

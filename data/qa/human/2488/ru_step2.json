@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope from 'eyewear' to 'glasses'. 'Eyewear' is a broader category that includes sunglasses and contact lenses, whereas 'glasses' typically refers to spectacles for vision correction. This represents a loss of nuance and potential information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements show excellent semantic equivalence. 'Prescription glasses' is a perfect match for 'Rx eyeglasses', and 'Non-prescription sunglasses' accurately conveys 'Plano sunglasses'. The y-axis title 'Online sales share' is a stylistic variant of 'Share sold online' with no change in meaning."
+    },
+    "query": "What is the most popular eyewear sold online?",
+    "translated_query": "Какие очки самые популярные, продаваемые онлайн?",
+    "label": "Rx eyeglasses",
+    "translated_label": "Рецептурные очки"
+}

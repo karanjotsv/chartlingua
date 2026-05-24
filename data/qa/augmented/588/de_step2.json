@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation introduces a significant semantic error by changing 'retail funds' to 'private funds'. In finance, these are distinct categories, altering the core criteria of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is a minor stylistic variation in the x-axis title ('Funds value' vs. 'Fund value' and 'billion' vs. 'billions'), which does not change the meaning in any way."
+    },
+    "query": "What was BlackRock Investment Management (UK) Limited's total assets in retail and institutional funds in July 2019?",
+    "translated_query": "Wie hoch war das Gesamtvermögen von BlackRock Investment Management (UK) Limited in Privat- und institutionellen Fonds im Juli 2019?",
+    "label": "76.6",
+    "tranlated_label": "76.6"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor grammatical correction ('shows' to 'show') and preposition change ('of' to empty, 'in' to 'on') do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. Minor differences like 'U.S.' vs 'USA'/'US', 'Sao Paulo' vs 'São Paulo', and 'Bombay' vs 'Mumbai' are acceptable variations referring to the same entities or are stylistic changes that do not alter the meaning. The phrasing 'billion U.S. dollars' vs 'billions of US dollars' also conveys the same core meaning."
+    },
+    "query": "How many bars shows the value of 10  in the chart ?",
+    "translated_query": "Сколько столбцов показывает значение 10 на графике?",
+    "label": "3",
+    "tranlated_label": "3"
+}

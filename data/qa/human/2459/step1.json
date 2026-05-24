@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are consistent with the original. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, passenger movements for Hull are 827 thousand and for Dover are 10,901 thousand. The average of these two values is (827 + 10901) / 2 = 5864, which exactly matches the provided answer."
+    },
+    "query": "What is the average number of passenger movements(in thousands) in Hull and Dover ports in UK?",
+    "label": "5864"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data points, trend lines, axis labels, legend entries, and color associations are all accurately reproduced. The overall message and data relationships are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the representative line for spiral data is above the line for lenticular data. The chart's legend and visual representation show the opposite: the light blue line, associated with 'Lenticular Data', is clearly positioned above the black line, which is associated with 'Spiral Data'."
+    },
+    "claim": "The representative line for average spiral data is placed above the representative line for average lenticular data on the plot of the offset Tully-Fisher Relation for Lenticular Galaxies.",
+    "label": false
+}

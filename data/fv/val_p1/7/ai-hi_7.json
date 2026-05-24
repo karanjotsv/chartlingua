@@ -1,0 +1,36 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "series_name": "वेग",
+            "categories": [
+                "300",
+                "350",
+                "400",
+                "450",
+                "500",
+                "600"
+            ],
+            "values": [
+                2850,
+                2750,
+                2550,
+                2450,
+                2350,
+                2150
+            ]
+        }
+    ],
+    "texts": {
+        "title": ".458 Lott बुलेट के वज़न और वेग की तुलना",
+        "subtitle": null,
+        "x_axis_title": "बुलेट का वेग (ft/s)",
+        "y_axis_title": "बुलेट का वज़न (gr.)",
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FF0000"
+    ]
+}

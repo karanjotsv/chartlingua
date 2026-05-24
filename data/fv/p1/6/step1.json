@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (63%, 16%, 11%, 11%), legend labels, the main title, and color hues for each category are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart indicates that 'Just the Signpost' is the most popular method, with 63% of respondents. Mailing lists are only mentioned as part of combined methods, which account for much smaller percentages (16% and 11%), and are therefore not the most popular way to stay informed."
+    },
+    "claim": "Mailing lists are the most popular way to stay informed about Wikimedia Tech news.",
+    "label": false
+}

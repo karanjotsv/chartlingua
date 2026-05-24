@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data values, labels, colors, and overall message are highly consistent. The only significant difference is the sorting order of the categories on the y-axis; the original chart is sorted in descending order of value, while the rendered chart is sorted in ascending order. This does not change the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Corn' as the most produced grain. According to the chart, Corn has the longest bar, corresponding to the highest production value of 1116.34 million metric tons, which is greater than all other grains listed."
+    },
+    "query": "Which is the most produced grain in  2019/20?",
+    "label": "Corn"
+}

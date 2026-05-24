@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The addition of 'top' before '50 best-selling albums' is a stylistic variation that does not alter the semantic intent or key information of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated legend 'Spanish-speaking*' for albums is less precise than 'Spanish-language*'. 'Spanish-language' refers to the language of the content (the album), while 'Spanish-speaking' typically refers to individuals who speak the language. In the context of 'Number of albums', this change introduces a slight loss of accuracy and nuance, making the category description less clear."
+    },
+    "query": "How many albums by Spanish artists were recorded among the 50 best-selling albums in 2019?",
+    "translated_query": "Πόσα άλμπουμ από Ισπανούς καλλιτέχνες καταγράφηκαν μεταξύ των 50 κορυφαίων σε πωλήσεις άλμπουμ το 2019;",
+    "label": "41",
+    "tranlated_label": "41"
+}

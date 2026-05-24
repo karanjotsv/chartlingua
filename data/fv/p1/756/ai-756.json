@@ -1,0 +1,74 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Male",
+            "x": [
+                "General/Local<br>Government",
+                "Professionals",
+                "Domestic<br>Service or<br>Offices",
+                "Agriculture",
+                "Animals",
+                "House,<br>Furniture and<br>Decorations",
+                "Food and<br>Lodging",
+                "Dress",
+                "Various<br>Mineral<br>Substances",
+                "General or<br>Unspecified<br>Commodities",
+                "Unknown<br>Occupation"
+            ],
+            "y": [
+                1,
+                5,
+                2,
+                44,
+                2,
+                6,
+                1,
+                2,
+                1,
+                1,
+                4
+            ]
+        },
+        {
+            "name": "Female",
+            "x": [
+                "General/Local<br>Government",
+                "Professionals",
+                "Domestic<br>Service or<br>Offices",
+                "Agriculture",
+                "Animals",
+                "House,<br>Furniture and<br>Decorations",
+                "Food and<br>Lodging",
+                "Dress",
+                "Various<br>Mineral<br>Substances",
+                "General or<br>Unspecified<br>Commodities",
+                "Unknown<br>Occupation"
+            ],
+            "y": [
+                0,
+                0,
+                21,
+                2,
+                0,
+                0,
+                0,
+                4,
+                0,
+                0,
+                49
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Occupation",
+        "y_axis_title": "Population",
+        "source": null
+    },
+    "colors": [
+        "#5494C6",
+        "#E6842E"
+    ]
+}

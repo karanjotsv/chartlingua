@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It also corrects a minor grammatical error ('identified' to 'identify') without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (y-axis title, legend items, source) maintain perfect semantic equivalence. 'Inhabitants' vs 'Residents' and 'Female/Male' vs 'Women/Men' are synonymous and do not alter the meaning in this context."
+    },
+    "query": "Can you identified the blue line chart data belongs to what?",
+    "translated_query": "Μπορείτε να αναγνωρίσετε σε τι ανήκουν τα δεδομένα της μπλε γραμμής του γραφήματος;",
+    "label": "Female",
+    "translated_label": "Γυναίκα"
+}

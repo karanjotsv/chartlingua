@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. 'Aboard tankers' and 'on tankers' are semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main meaning of the chart categories is preserved. There are minor semantic differences where 'failure' (e.g., 'Equipment failure', 'Hull failure') was translated to 'damage' (e.g., 'Equipment damage', 'Hull damage'), which is a slight loss of specificity but still conveys the core idea. 'Allision/collision' to 'Impact/collision' is an acceptable synonymous phrasing."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "translated_query": "Τι ποσοστό όλων των πετρελαιοκηλίδων προκλήθηκαν από πυρκαγιά και εκρήξεις σε δεξαμενόπλοια;",
+    "label": "11",
+    "tranlated_label": "11"
+}

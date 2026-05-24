@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, colors, and axis labels are identical. The rendered chart improves on the original by adding a necessary title and legend, which clarify the data's meaning without altering it.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not show an expanding trend for exoplanet discoveries using the 'Direct imaging' method (purple). The data for this method appears sporadically and in very small numbers, with no clear pattern of growth over time."
+    },
+    "claim": "The discovery of exoplanets the direct imaging method has expanding over time.",
+    "label": "TRUE"
+}

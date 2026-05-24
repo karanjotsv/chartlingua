@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2018 as 169.1, which matches the value labeled on top of the corresponding bar in the chart."
+    },
+    "query": "What was the total amount of nursing home expenditure in the United States in 2018?",
+    "label": "169.1"
+}

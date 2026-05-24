@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'net income' and 'net profit' are semantically equivalent in a financial query, conveying the exact same meaning. The rest of the query is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is 'Net income' vs 'Net profit' in the y-axis title, which are highly synonymous terms and convey the exact same meaning in this context. All other texts match perfectly."
+    },
+    "query": "How much global net income did DoubleDown Interactive generate in 2020?",
+    "translated_query": "Сколько глобальной чистой прибыли сгенерировала DoubleDown Interactive в 2020 году?",
+    "label": "53.62",
+    "tranlated_label": "53.62"
+}

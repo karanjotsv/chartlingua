@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data values, categories, and colors from the original. The title and legend text are identical. The overall message, showing the proportions of Support, Neutral, and Oppose, is perfectly preserved. Minor differences in slice ordering and legend order do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart's legend explicitly states that 'Neutral' is 37.5%. A comparison with the other categories, 'Support' (34.7%) and 'Oppose' (27.8%), confirms that 37.5% is the maximum value."
+    },
+    "claim": "37.5% people votes as Neutral which is maximum.",
+    "label": true
+}

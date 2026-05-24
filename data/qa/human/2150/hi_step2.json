@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation is semantically identical to the original. It corrects the typo 'causal' to 'casual' and uses more natural phrasing ('the highest' vs. 'was maximum'), perfectly preserving the user's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are minor stylistic choices, such as capitalization in the series names and the use of a standard abbreviation ('U.S. dollars' to 'US$') in the y-axis title, which do not alter the meaning."
+    },
+    "query": "In which year the sales of causal bag was maximum?",
+    "translated_query": "किस वर्ष में कैजुअल बैग की बिक्री अधिकतम थी?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

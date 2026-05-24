@@ -1,0 +1,73 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Indonezia",
+            "values": [
+                27,
+                48
+            ],
+            "labels": [
+                "27%",
+                "48%"
+            ],
+            "total_label": "75%"
+        },
+        {
+            "category": "Kenya",
+            "values": [
+                30,
+                38
+            ],
+            "labels": [
+                "30",
+                "38"
+            ],
+            "total_label": "68"
+        },
+        {
+            "category": "Mexic",
+            "values": [
+                30,
+                33
+            ],
+            "labels": [
+                "30",
+                "33"
+            ],
+            "total_label": "63"
+        },
+        {
+            "category": "India",
+            "values": [
+                23,
+                37
+            ],
+            "labels": [
+                "23",
+                "37"
+            ],
+            "total_label": "60"
+        }
+    ],
+    "texts": {
+        "title": "Majoritatea consideră că organizațiile pentru drepturile omului<br>influențează mersul lucrurilor în țările lor",
+        "subtitle": "<i>Organizațiile pentru drepturile omului au __ influență asupra modului în care<br>merg lucrurile în țara noastră</i>",
+        "source": "Sursă: Sondajul Global de Atitudini, primăvara 2017. Î97.<br><b>PEW RESEARCH CENTER</b>",
+        "series_names": [
+            "Foarte multă",
+            "Destul de multă"
+        ],
+        "total_header": "<u>Total</u>"
+    },
+    "colors": {
+        "series": [
+            "#8F9A54",
+            "#D5D3C2"
+        ],
+        "text_on_bar": [
+            "white",
+            "black"
+        ]
+    }
+}

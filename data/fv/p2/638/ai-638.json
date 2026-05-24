@@ -1,0 +1,226 @@
+{
+    "chart_type": "infographic",
+    "chart_data": {
+        "population": {
+            "labels": [
+                "East of England",
+                "Rest of UK"
+            ],
+            "values": [
+                9,
+                91
+            ]
+        },
+        "economic_output": {
+            "labels": [
+                "East of England",
+                "Rest of UK"
+            ],
+            "values": [
+                9,
+                91
+            ]
+        },
+        "median_age": [
+            {
+                "region": "London",
+                "age": 34.0
+            },
+            {
+                "region": "West Midlands",
+                "age": 41.0
+            },
+            {
+                "region": "South West",
+                "age": 42.9
+            }
+        ],
+        "crime": [
+            {
+                "region": "East of England",
+                "rate": 53
+            },
+            {
+                "region": "London",
+                "rate": 95
+            }
+        ],
+        "unemployment": [
+            {
+                "region": "North<br>East",
+                "rate": 10.3
+            },
+            {
+                "region": "East",
+                "rate": 6.5
+            },
+            {
+                "region": "South<br>East",
+                "rate": 6.0
+            },
+            {
+                "region": "South<br>West",
+                "rate": 6.0
+            }
+        ],
+        "life_expectancy": {
+            "east_of_england": {
+                "male": 79.9,
+                "female": 83.6
+            },
+            "south_east": {
+                "male": 80.0,
+                "female": 83.8
+            }
+        },
+        "traffic": [
+            {
+                "region": "London",
+                "change": -8.6
+            },
+            {
+                "region": "East",
+                "change": 4.3
+            },
+            {
+                "region": "North<br>East",
+                "change": 5.5
+            }
+        ],
+        "map_cities": [
+            {
+                "name": "Peterborough",
+                "x": 0.45,
+                "y": 0.65
+            },
+            {
+                "name": "Norwich",
+                "x": 0.78,
+                "y": 0.64
+            },
+            {
+                "name": "Cambridge",
+                "x": 0.48,
+                "y": 0.55
+            },
+            {
+                "name": "Bury St Edmunds",
+                "x": 0.6,
+                "y": 0.56
+            },
+            {
+                "name": "Bedford",
+                "x": 0.38,
+                "y": 0.54
+            },
+            {
+                "name": "Ipswich",
+                "x": 0.72,
+                "y": 0.52
+            },
+            {
+                "name": "Luton",
+                "x": 0.36,
+                "y": 0.48
+            },
+            {
+                "name": "St Albans",
+                "x": 0.39,
+                "y": 0.45
+            },
+            {
+                "name": "Colchester",
+                "x": 0.64,
+                "y": 0.48
+            },
+            {
+                "name": "Chelmsford",
+                "x": 0.55,
+                "y": 0.44
+            },
+            {
+                "name": "Southend-on-Sea",
+                "x": 0.58,
+                "y": 0.38
+            }
+        ]
+    },
+    "texts": {
+        "title": "Regional Profile of the East of England",
+        "sections": {
+            "population": "Population",
+            "median_age": "Median Age",
+            "crime": "Crime",
+            "economic_output": "Economic Output",
+            "unemployment": "Unemployment",
+            "life_expectancy": "Life Expectancy",
+            "traffic": "Traffic increase<br>on major roads"
+        },
+        "population": {
+            "center_text": "<b>9%</b><br>of the UK",
+            "value_text": "5.9 million",
+            "date_text": "mid-2012"
+        },
+        "economic_output": {
+            "center_text": "<b>9%</b><br>of the UK",
+            "value_text": "Gross Value Added",
+            "date_text": "2011"
+        },
+        "median_age": {
+            "unit": "years",
+            "date_text": "mid-2012"
+        },
+        "crime": {
+            "subtitle": "Recorded crimes<br>per 1,000 population",
+            "note": "One of the lowest in<br>England 2012/13"
+        },
+        "unemployment": {
+            "date_text": "Q2 2013"
+        },
+        "life_expectancy": {
+            "east_of_england": "East of England",
+            "south_east": "South East",
+            "unit": "years",
+            "date_text": "2009-2012",
+            "male_icon": "🚶‍",
+            "female_icon": "♀"
+        },
+        "traffic": {
+            "date_text": "2002 to 2012"
+        },
+        "source": "www.ons.gov.uk<br><br><span style='font-size: 9px;'>Contains data and information from Ordnance Survey,<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013</span>"
+    },
+    "colors": {
+        "background": "#f0f0f0",
+        "text_main": "#333333",
+        "section_headers": {
+            "population": "#d9534f",
+            "median_age": "#8e44ad",
+            "crime": "#333333",
+            "economic_output": "#93c54b",
+            "unemployment": "#337ab7",
+            "life_expectancy": "#f0ad4e",
+            "traffic": "#999999"
+        },
+        "population_donut": [
+            "#d9534f",
+            "#e6e6e6"
+        ],
+        "economic_donut": [
+            "#93c54b",
+            "#e6e6e6"
+        ],
+        "unemployment_bars": {
+            "default": "#c1d4e6",
+            "highlight": "#337ab7"
+        },
+        "crime_bars": "#333333",
+        "traffic_bars": "#cccccc",
+        "text_highlights": {
+            "median_age": "#8e44ad",
+            "life_expectancy": "#f0ad4e"
+        },
+        "map_cities": "#337ab7",
+        "map_background": "#d9d9d9"
+    }
+}

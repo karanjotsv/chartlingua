@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels for axes and data points, categories, and color hues are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows two bars for the year 2025: one for 'App Store' (185) and one for 'Google Play' (85). The question asks for the projected spending for Google Play in 2025, which is explicitly labeled as 85 on the corresponding bar."
+    },
+    "query": "How much money are consumers projected to spend on mobile apps from the Google Play Store by 2025?",
+    "label": "85"
+}

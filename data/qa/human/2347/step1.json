@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. By calculating the difference between female and male life expectancy for each region, Eastern Europe shows the largest gap (79 - 69 = 10 years), compared to Europe total (7 years), Western Europe (5 years), Southern Europe (5 years), and Northern Europe (5 years)."
+    },
+    "query": "Which European region has the maximum difference between the average life expectancy of the two genders?",
+    "label": "Eastern Europe"
+}

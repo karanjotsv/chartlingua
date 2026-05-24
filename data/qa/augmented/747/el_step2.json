@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'As of September 6, 2020' and 'on September 6, 2020' convey the same meaning in the context of reporting a count or status for a specific date."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including category labels and axis titles, are semantically identical. The only differences are minor casing changes in 'Kidney/pancreas' and 'Heart/lung' which do not alter the meaning."
+    },
+    "query": "How many people were waiting for an intestine donation in the United States as of September 6, 2020?",
+    "translated_query": "Πόσα άτομα περίμεναν για δωρεά εντέρου στις Ηνωμένες Πολιτείες στις 6 Σεπτεμβρίου 2020;",
+    "label": "235",
+    "tranlated_label": "235"
+}

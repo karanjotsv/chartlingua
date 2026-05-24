@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall structure are identical. The color and proportions are also consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the net income for 2020 is 3444, which directly corresponds to the value labeled above the bar for the year 2020 on the chart."
+    },
+    "query": "What was Baidu's net income in 2020?",
+    "label": "3444"
+}

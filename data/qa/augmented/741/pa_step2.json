@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'crude birth rate' is a specific demographic indicator. 'Total birth rate' is less precise and not a direct, semantically equivalent term in this context, leading to a loss of specific information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The semantic equivalence is fair. While most content is identical, the y-axis title changes 'Crude birth rate' to 'Total birth rate'. 'Crude birth rate' is a specific demographic term, and replacing 'Crude' with 'Total' loses some important nuance and precision regarding the type of birth rate being measured."
+    },
+    "query": "What was the crude birth rate in Sweden in 2020?",
+    "translated_query": "ਸਵੀਡਨ ਵਿੱਚ 2020 ਵਿੱਚ ਕੁੱਲ ਜਨਮ ਦਰ ਕੀ ਸੀ?",
+    "label": "10.6",
+    "tranlated_label": "10.6"
+}

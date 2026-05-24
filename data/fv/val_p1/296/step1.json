@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, color hues, and the overall message are consistent with the original. The change from a 3D to a 2D pie chart is a stylistic improvement and does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart indicates that BBC Commercial income was £719.6 million, which is greater than the income from Government Bonds, listed as £283.6 million. Therefore, the claim is directly contradicted by the data presented."
+    },
+    "claim": "BBC commercial had lower values of income than Government bonds",
+    "label": false
+}

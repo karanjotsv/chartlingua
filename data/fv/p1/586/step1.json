@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. It accurately represents all data values, proportions, and categories. The title, legend labels (with minor spelling corrections from 'Wokers' to 'Workers'), and color hues are all preserved. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that the largest single occupation category is 'Agriculture', with a value of 30. This is significantly larger than any other category or any reasonable combination of categories that could be considered 'industry'."
+    },
+    "claim": "Most people in Shocklach Oviatt worked in industry in 1881.",
+    "label": false
+}

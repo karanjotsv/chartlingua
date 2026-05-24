@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart shows significantly different data values, leading to a distorted message. The line plot, which appears to be a cumulative total, follows a completely different and incorrect trend compared to the original (e.g., it initially goes up instead of down). The magnitudes of the individual bars are also frequently inaccurate, misrepresenting the scale of wins and losses for each candidate in many states.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is directly supported by the chart's legend, which explicitly pairs the green color with 'Bernie Sanders'."
+    },
+    "claim": "Green color bars represents Bernie Sanders in this bar chart of Dem gap.",
+    "label": "TRUE"
+}

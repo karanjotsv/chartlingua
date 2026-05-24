@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data proportions, category labels, color associations, and the overall message are highly consistent. The rendered chart correctly identifies and labels a very small, unlabeled slice from the original as 'null', which is a reasonable interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays an occupational breakdown but provides no information about the gender of the individuals in each category. There is no data or label on the chart to confirm whether women were included or excluded."
+    },
+    "claim": " Women were included in the occupational graph for Withersfield in 1831.",
+    "label": false
+}

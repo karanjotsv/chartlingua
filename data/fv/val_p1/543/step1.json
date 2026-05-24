@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text content (title, source), and color hues are accurately reproduced. The overall message and trend are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the foreclosure activity in Q1 07 was 100,000, but the bar chart explicitly labels the value for Q1 07 as 239,770."
+    },
+    "claim": "The Q1 07 U.S. Household Property Foreclosure was 100,000 at the year of 2007.",
+    "label": false
+}

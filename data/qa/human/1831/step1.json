@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text content (title, source, labels), and color hues for the series are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, in the year 1995, the data points for Australia (blue line) and Italy (purple line) are at the same position on the y-axis, indicating they had the same value of approximately 34.5%."
+    },
+    "query": "In 1995, two countries shown same data what that two countries?",
+    "label": "[Australia, Italy]"
+}

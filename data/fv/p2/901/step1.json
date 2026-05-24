@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The charts are mostly consistent. All text elements, categories, and color hues match. There is a minor data discrepancy, particularly in the value for the 'ABH and other injury' bar, which appears slightly lower in the rendered chart (approx. 330k vs 350k in the original). However, this does not change the overall message or the relative proportions significantly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses ownership of US treasury securities in 2008, whereas the chart presents data on recorded crime in England and Wales for 2009-10. There is no information in the chart to support the claim."
+    },
+    "claim": "49.37% of ownership allocated for Federal reserve and Intergovernmental holdings in US treasury securities 2008.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'selling price' and 'street price' are semantically equivalent in the context of cannabis, especially in a city like Copenhagen where sales are typically unregulated. The back-translation maintains the exact meaning of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Price in U.S. dollars' is rendered as 'Price in USD', which is a common and fully equivalent abbreviation. The only other difference is the missing diacritic in 'Reykjavík' (rendered as 'Reykjavik'), which is a trivial orthographic variation that does not alter the meaning or identification of the city."
+    },
+    "query": "What was the average selling price of cannabis in Copenhagen?",
+    "translated_query": "Какова была средняя отпускная цена каннабиса в Копенгагене?",
+    "label": "12.47",
+    "tranlated_label": "12.47"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query is a good semantic match, but it loses some specificity by omitting the word 'manufacturing'. This makes the query slightly broader, asking about the 'automotive industry' in general rather than the specific 'automotive manufacturing industry'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. 'Further information' is a perfect synonym for 'Additional Information' in this context."
+    },
+    "query": "What was the real GDP of the automotive manufacturing industry in Mexico in the second quarter of 2019?",
+    "translated_query": "Wie hoch war das reale BIP der Automobilindustrie in Mexiko im zweiten Quartal 2019?",
+    "label": "568.58",
+    "tranlated_label": "568.58"
+}

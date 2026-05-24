@@ -1,0 +1,133 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Chauffage",
+            "x": [
+                5,
+                15,
+                20,
+                23,
+                27,
+                35,
+                43,
+                44,
+                45,
+                46,
+                47,
+                55,
+                65,
+                72,
+                74,
+                76,
+                78,
+                85
+            ],
+            "y": [
+                5,
+                4,
+                5,
+                8,
+                14,
+                16,
+                16,
+                10,
+                -30,
+                10,
+                16,
+                18,
+                20,
+                22,
+                35,
+                45,
+                28,
+                24
+            ],
+            "line_style": "solid"
+        },
+        {
+            "name": "Refroidissement",
+            "x": [
+                5,
+                20,
+                23,
+                27,
+                35,
+                55,
+                63,
+                64,
+                65,
+                66,
+                67,
+                75,
+                85
+            ],
+            "y": [
+                6,
+                7,
+                7.5,
+                9,
+                12,
+                13,
+                15,
+                10,
+                -25,
+                10,
+                14,
+                17,
+                18
+            ],
+            "line_style": "dash"
+        }
+    ],
+    "texts": {
+        "x_axis_title": "Température",
+        "y_axis_title": "Puissance",
+        "y_axis_labels": {
+            "endothermique": "endothermique",
+            "exothermique": "exothermique"
+        },
+        "x_axis_ticks": [
+            {
+                "x": 25,
+                "label": "Tg"
+            },
+            {
+                "x": 45,
+                "label": "Tc1"
+            },
+            {
+                "x": 65,
+                "label": "Tc2"
+            },
+            {
+                "x": 75,
+                "label": "Tf"
+            }
+        ],
+        "annotations": [
+            {
+                "x": 10,
+                "y": 0,
+                "text": "Chauffage -->",
+                "align": "left"
+            },
+            {
+                "x": 88,
+                "y": 15,
+                "text": "<-- Refroidissement",
+                "align": "left"
+            },
+            {
+                "x": 70,
+                "y": -45,
+                "text": "Surfusion",
+                "align": "center"
+            }
+        ]
+    },
+    "colors": [
+        "#505050",
+        "#B0B0B0"
+    ]
+}

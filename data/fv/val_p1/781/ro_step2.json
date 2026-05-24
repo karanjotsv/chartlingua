@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. 'United Kingdom' is a full form of 'UK', and 'much taller' is an excellent synonym for 'far higher' in the context of a bar chart."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. All text fields match perfectly except for a minor spelling error in the 'Forecasted' annotation ('FOREEASTED' instead of 'FORECASTED'), which does not significantly alter the overall meaning."
+    },
+    "claim": "The chart shows that the bar of the actual UK growth is far higher than the forecasted bar",
+    "translated_claim": "Graficul arată că bara creșterii reale a Regatului Unit este mult mai înaltă decât bara prognozată."
+}

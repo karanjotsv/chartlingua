@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation interprets 'press percentage' as 'percentage of printing'. While 'press' can have broader meanings, in contexts likely to appear in charts, 'press' often refers to printing or printing presses. This interpretation is semantically very close and likely captures the intended meaning, preserving the core information, though 'percentage of printing' is slightly more specific than the potentially ambiguous 'press percentage'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Minor differences in phrasing such as 'Lithographic' to 'lithography', 'Direct-to-Press digital system' to 'Digital direct printing system', and 'explain' to 'specify' are either stylistic choices or close synonyms that do not alter the core meaning or introduce ambiguity. The title is also perfectly preserved."
+    },
+    "claim": " The green bar shows the highest press percentage.",
+    "translated_claim": "Зеленый столбец показывает самый высокий процент печати."
+}

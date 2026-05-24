@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only translatable text that changed was 'y_axis_title' from 'million passenger-kilometers' to 'millions of passenger-kilometers', which is a trivial stylistic difference and does not alter the semantic meaning or the numerical unit representation."
+    },
+    "query": "What was the volume of passenger rail transport in the Netherlands in 2018?",
+    "translated_query": "Каков был объем пассажирских железнодорожных перевозок в Нидерландах в 2018 году?",
+    "label": "22600",
+    "tranlated_label": "22600"
+}

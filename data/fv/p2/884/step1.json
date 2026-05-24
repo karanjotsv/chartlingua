@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical. The only difference is the stylistic choice to 'explode' one of the slices, which does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the market share of 'Symbian' as a smartphone operating system in 2009 Q2. However, the provided chart displays data for web browsers such as Internet Explorer, Google Chrome, and Mozilla Firefox. The chart does not contain any information about 'Symbian' or the year 2009."
+    },
+    "claim": "In 2009 Q2, Symbian had the highest market share among smartphone operating systems.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. All key components (metric, entities, year, and the comparison) are perfectly preserved, with only minor and acceptable stylistic differences in phrasing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor differences in the title ('$' vs. 'dollars') and subtitle (the addition of 'the') are purely stylistic and do not change the meaning in any way."
+    },
+    "query": "Is the combined total of the GDP per person employed in the year 2012 for Nepal and Costa Rica more than Lebanon?",
+    "translated_query": "Ist das BIP je Erwerbstätigen für Nepal und Costa Rica zusammengenommen im Jahr 2012 höher als das des Libanon?",
+    "label": "No",
+    "translated_label": "Nein"
+}

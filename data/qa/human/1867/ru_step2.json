@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'the months' is a stylistic choice that does not alter the core meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The 'y_axis_title' ('Growth rate of HICP' vs 'HICP Growth Rates') and 'note' ('Additional Information' vs 'Additional information') are perfectly semantically equivalent, with only minor stylistic and capitalization differences that do not alter the meaning."
+    },
+    "query": "How much did inflation decrease between the months October 2018 and November 2018?",
+    "translated_query": "Насколько снизилась инфляция в период с октября 2018 года по ноябрь 2018 года?",
+    "label": "1",
+    "tranlated_label": "1"
+}

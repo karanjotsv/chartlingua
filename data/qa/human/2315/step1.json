@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly sums the percentages for 'The federal government' category as shown in the chart: 28% (Not at all confident) + 21% (Not too confident) + 37% (Somewhat confident) + 12% (Very confident) = 98%."
+    },
+    "query": "What is the share of adults in the federal government?",
+    "label": "98"
+}

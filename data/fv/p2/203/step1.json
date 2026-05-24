@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text labels, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the 'Top read' value for India is 2.0 and for the US is approximately 1.8. The sum of these values is approximately 3.8, not 'about 10' as the claim states."
+    },
+    "claim": "The total of top read in India and us is about 10.",
+    "label": "FALSE"
+}

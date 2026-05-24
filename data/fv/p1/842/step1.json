@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The data values and the overall trend are completely different. The original chart shows a slow, relatively steady decline throughout the year, while the rendered chart displays a dramatic dip and recovery in the middle of the year. The core message conveyed by the data is fundamentally different.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value for November 2019 was 100,000. However, the line chart clearly shows the data point for November 2019 is well below the 85k mark, at approximately 82,500."
+    },
+    "claim": "In Nov 2019, 100000 patient were benefited by the Act Patient Protection and Affordable Care.",
+    "label": false
+}

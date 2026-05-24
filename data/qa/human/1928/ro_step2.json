@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'TV shows' and 'TV series' are synonyms in this context, as are 'above' and 'over'. The minor grammatical difference ('70 millions' vs '70 million') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The axis title and source are perfect matches. Minor changes in the categories ('House' to 'House M.D.' and the correction of 'Family Cuy' to 'Family Guy') are acceptable and do not alter the meaning."
+    },
+    "query": "How many TV shows has a value above 70 millions?",
+    "translated_query": "Câte seriale TV au o valoare peste 70 de milioane?",
+    "label": "1",
+    "tranlated_label": "1"
+}

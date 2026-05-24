@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (Water 52.2%, Sewer 36%, Capital Project Support 11.8%), labels, and color hues are identical. The overall proportions and message are preserved exactly. The only difference is the stylistic change from a 3D to a 2D pie chart, which does not affect semantic consistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays three categories: 'Water' (52.2%), 'Sewer' (36%), and 'Capital Project Support' (11.8%). The percentage for 'Water' is the largest of the three, which directly supports the claim that it contributed the maximum."
+    },
+    "claim": "Water contributed the maximum to Irvine Ranch Water District operating expenses for Fiscal Year 2011-2012.",
+    "label": true
+}

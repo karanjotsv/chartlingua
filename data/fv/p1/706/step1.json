@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It correctly represents the same data values (57%, 22%, 21%), categories (Yes, No, Don't Know), title, and color scheme for each category.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the poll was conducted in 2010 and the respondents were from the Republic of Ireland. The chart does not provide any information about the date or the geographical location of the survey."
+    },
+    "claim": "In 2010, a majority of people in the Republic of Ireland supported a united Ireland. ",
+    "label": true
+}

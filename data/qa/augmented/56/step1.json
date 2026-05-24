@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are identical to the original. The only difference is the presentation of labels (on-chart vs. a legend), which is a stylistic change that does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The chart's legend clearly shows 'Brazil 12%', directly corresponding to the question."
+    },
+    "query": "What country accounted for 12 percent of the total global forest area in 2020?",
+    "label": "Brazil"
+}

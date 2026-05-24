@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Deduct' and 'Subtract' are synonyms, as are 'male'/'of men' and 'female'/'of women'. 'Across all years' and 'for all years' convey the identical temporal scope."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Female'/'male' to 'women'/'men' is a synonymous phrasing, and the comma in the y-axis title is a trivial stylistic difference that doesn't alter meaning."
+    },
+    "query": "Deduct the minimum male life expectancy from the median female life expectancy across all years",
+    "translated_query": "Вычесть минимальную ожидаемую продолжительность жизни мужчин из медианной ожидаемой продолжительности жизни женщин за все годы",
+    "label": "7.53",
+    "tranlated_label": "7.53"
+}

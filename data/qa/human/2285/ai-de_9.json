@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Ledig",
+            "values": [
+                170,
+                252
+            ]
+        },
+        {
+            "category": "Verheiratet",
+            "values": [
+                524,
+                633
+            ]
+        },
+        {
+            "category": "[davon] in<br>nichtehelicher<br>Lebensgemeinschaft",
+            "values": [
+                69,
+                84
+            ]
+        },
+        {
+            "category": "Verwitwet",
+            "values": [
+                186,
+                38
+            ]
+        },
+        {
+            "category": "Geschieden oder<br>getrennt lebend",
+            "values": [
+                120,
+                77
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der Einwohner pro tausend Personen",
+        "source": "© Statista 2021",
+        "legend_labels": [
+            "Frauen",
+            "Männer"
+        ]
+    },
+    "colors": [
+        "#2B7CDE",
+        "#0C233F"
+    ]
+}

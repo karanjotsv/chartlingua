@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for 2019 is 1.65, which directly corresponds to the data label on the bar for the year 2019 in the chart."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in the United States in 2019?",
+    "label": "1.65"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content (titles, axis labels, data labels), and color hues are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses familiarity with articles in India and the US, but the chart displays data on 'Assessment of Land Value' in square feet, with categories like 'Land Area' and 'Ground Floor building foot-print area'. The chart contains no information about countries, articles, or familiarity levels."
+    },
+    "claim": "India shows the most familiarity with top read articles versus the US and Overall.",
+    "label": "TRUE"
+}

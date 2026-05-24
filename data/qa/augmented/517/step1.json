@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, colors, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart clearly shows that for the year 2017, the value for the 'App Store' (the blue bar) is explicitly labeled as 143."
+    },
+    "query": "How many app publishers were in Apple's App Store in 2017?",
+    "label": "143"
+}

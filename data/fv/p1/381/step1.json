@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, category labels, order, and color are all consistent with the original. Minor stylistic differences like the x-axis range and label format (e.g., '2M' vs '2,000,000') do not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays absolute numbers for different TV services, not percentages. It also lacks any information about the total number of UK households, the geographical location (UK), or the time period (Q1 2009). Therefore, it is impossible to verify the claim that Cable TV accounted for 'around 25% of UK households' in that specific quarter based solely on the provided chart."
+    },
+    "claim": "Around 25% of UK households had Cable TV in Q1 of 2009.\n",
+    "label": false
+}

@@ -1,0 +1,29 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Μείωση συντακτών",
+            "value": 67
+        },
+        {
+            "label": "Άλλο",
+            "value": 22
+        },
+        {
+            "label": "Αδιάφοροι",
+            "value": 12
+        }
+    ],
+    "texts": {
+        "title": "Ποια θεωρείτε ότι είναι η<br>μεγαλύτερη απειλή για τη Wikipedia;",
+        "subtitle": null,
+        "source": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#00599c",
+        "#339966",
+        "#990000"
+    ]
+}

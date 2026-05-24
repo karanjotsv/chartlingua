@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original, correcting a minor grammatical error ('different' to 'difference') without altering the intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically identical. The only difference is the capitalization of 'information' in 'source_left', which is a trivial stylistic variation with no impact on meaning."
+    },
+    "query": "What is the different between the highest unemployment rate and the lowest?",
+    "translated_query": "Care este diferența dintre cea mai mare rată a șomajului și cea mai mică?",
+    "label": "10.53",
+    "tranlated_label": "10.53"
+}

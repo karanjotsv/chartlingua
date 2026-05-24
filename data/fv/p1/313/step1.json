@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart has significant data inaccuracies. The proportions for 'Professional Occupations' and 'No Specified Occupations' are inverted compared to the original, which distorts the interpretation. In the original, 'No Specified Occupations' is the third-largest slice, while in the rendered chart, 'Professional Occupations' is. Additionally, the color for 'No Specified Occupations' has changed hue from dark blue to brown.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Agriculture & Animal grooming/servicing' was the largest occupational category. However, the pie chart visually shows that the 'Unknown Occupation' category, represented by the grey slice, is the largest portion of the chart."
+    },
+    "claim": "In 1881 occupational structure of Stocking Pelham, the highest number covered by Agriculture & Animal grooming/servicing Occupations  ",
+    "label": true
+}

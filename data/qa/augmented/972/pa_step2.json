@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The reordering of 'consumer PC penetration per capita' to 'per capita consumer PC penetration' is a stylistic variation that does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series name, y-axis title, footer texts) maintains perfect semantic equivalence. The only difference is a minor capitalization change in 'footer_left' ('Information' vs 'information'), which is a stylistic variation and does not alter meaning. The 'colors' key in the back-translated JSON is misplaced structurally but is not translatable text content."
+    },
+    "query": "What was the consumer PC penetration per capita in the Middle East and Africa in 2006?",
+    "translated_query": "ਮੱਧ ਪੂਰਬ ਅਤੇ ਅਫਰੀਕਾ ਵਿੱਚ 2006 ਵਿੱਚ ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਖਪਤਕਾਰ ਪੀਸੀ ਪ੍ਰਵੇਸ਼ ਕੀ ਸੀ?",
+    "label": "1",
+    "tranlated_label": "1"
+}

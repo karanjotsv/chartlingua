@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data trends, relative values, text labels (including the legend), and color hues are all consistent with the original. The main message of the chart is conveyed identically.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is not supported for the entire period shown in the chart. While the '2015 Wimbledon Championships' (green line) had more pageviews for the first part of the period, 'Joaquín Guzmán Loera' (blue line) experienced a significant spike in pageviews, surpassing Wimbledon on July 12 and July 13."
+    },
+    "claim": "The 2015 Wimbledon Championship had more page views than Joaquin Guzman Loera.",
+    "label": "FALSE"
+}

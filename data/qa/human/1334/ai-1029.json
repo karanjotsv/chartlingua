@@ -1,0 +1,63 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "series_names": [
+        "Bad",
+        "Good"
+    ],
+    "colors": [
+        "#244f82",
+        "#8f9a4c"
+    ],
+    "chart_data": [
+        {
+            "category": "Total",
+            "values": [
+                64,
+                31
+            ]
+        },
+        {
+            "category": "  Ages 18-29",
+            "values": [
+                54,
+                41
+            ]
+        },
+        {
+            "category": "  30-49",
+            "values": [
+                59,
+                35
+            ]
+        },
+        {
+            "category": "  50+",
+            "values": [
+                73,
+                23
+            ]
+        },
+        {
+            "category": "Rep/Lean Rep",
+            "values": [
+                82,
+                15
+            ]
+        },
+        {
+            "category": "Dem/Lean Dem",
+            "values": [
+                54,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Republicans, older Americans more<br>critical of China's response to COVID-19",
+        "subtitle": "% who say China has done a ___ job dealing with the<br>coronavirus outbreak",
+        "source_note": "Note: Don't know responses not shown.<br>Source: Survey of U.S. adults conducted June 16-July 14, 2020.<br>Q10b.<br>“Americans Fault China for Its Role in the Spread of COVID-19”<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null
+    }
+}

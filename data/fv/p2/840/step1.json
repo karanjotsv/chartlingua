@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. All data values, category labels, and color hues are identical. The overall message about browser market share is perfectly preserved. The different ordering of slices and the 'exploded' slice for Firefox are minor stylistic variations that do not affect semantic interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on web browser market share, with categories like 'Internet Explorer', 'Google Chrome', and 'Mozilla Firefox'. The claim is about the popularity of a political party among a specific age group, which is a subject matter not represented in the chart at all."
+    },
+    "claim": "The Liberal party is the most popular party among people over 35 years of age.",
+    "label": "TRUE"
+}

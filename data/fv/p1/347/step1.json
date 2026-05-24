@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data points, trend, and axis labels are identical between the two charts. The rendered chart is a high-fidelity recreation of the original, with the only semantic difference being the addition of a chart title, which adds context without altering the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the number of stapled products in 2018, but the chart shows the passenger count (乗客数) at Nakashima Station (中島駅) for the years 1968 to 2008. The chart contains no data about products or the year 2018."
+    },
+    "claim": "Nakashima produced the highest number of stapled products in 2018.",
+    "label": false
+}

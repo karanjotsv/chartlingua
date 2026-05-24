@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, axis titles, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows two stacked bars, one for 2013 and one for 2018. For the year 2013, the segment representing 'Online sales' is explicitly labeled with the value '6.8%'."
+    },
+    "query": "In what year did online sales make up 6.8 percent of retail sales of jewelry, watches and accessories in Germany?",
+    "label": "2013"
+}

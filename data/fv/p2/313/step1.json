@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, data points, labels (title, axes, legend), and color associations are accurately reproduced. The overall trends and message conveyed by the chart are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'Option A', but the chart does not contain any data or labels related to 'Option A'. The chart displays polling data for political parties."
+    },
+    "claim": "The majority of respondents prefer Option A.",
+    "label": "TRUE"
+}

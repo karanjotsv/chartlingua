@@ -1,0 +1,40 @@
+{
+    "chart_type": "log_log_line_dual_axis",
+    "chart_data": [
+        {
+            "name": "Horizon Distance",
+            "x": [
+                0.3048,
+                30480
+            ],
+            "y": [
+                0.62137,
+                621.37
+            ]
+        }
+    ],
+    "texts": {
+        "title": "How far away is the horizon?",
+        "x_axis_title": "meters above surrounding land or water",
+        "y_axis_title": "miles<br>to horizon",
+        "secondary_x_axis_title": "feet above surrounding land or water",
+        "secondary_y_axis_title": "kilometers<br>to horizon",
+        "caption": "<b>How to calculate?</b><br><br>First, remember that at 6 feet, the horizon is almost exactly 3 miles away. At 2 meters, it is about 5 km away.<br>Second, if your height increases by a factor of x, the distance to the horizon increases by factor of √x (for any units).<br>So if your eyes are at an elevation of 24 feet, the horizon is 6 miles away. At 200 meters, it is 50 km away.<br>These easy-to-calculate values are accurate to about 1% for all elevations on this chart.<br>(At higher elevations, the straight-through-the-air distance and the along-the-curved-earth distance both begin<br>to diverge from this power-law relationship.)"
+    },
+    "colors": {
+        "trace": [
+            "#E8006E"
+        ],
+        "grid": "#DCDCDC",
+        "text": "#000000",
+        "background": "#FFFFFF"
+    },
+    "axis_ranges": {
+        "x_primary_min": 0.1,
+        "x_primary_max": 100000,
+        "y_primary_min": 0.1,
+        "y_primary_max": 1000,
+        "x_secondary_conversion": 3.28084,
+        "y_secondary_conversion": 1.60934
+    }
+}

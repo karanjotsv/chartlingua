@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the original meaning. 'Highest' vs 'largest' and 'was under' vs 'belonged to the category' are semantically equivalent. Expanding 'ABH' to 'Actual Bodily Harm' clarifies without altering the meaning of the category."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title, x-axis label, and 'Assault without injury' category are perfect matches. 'ABH' is correctly expanded to 'Actual Bodily Harm'. For the GBH categories, 'GBH' is accurately translated as 'Serious Bodily Harm'. While 'wounding' is generalized to 'Injury', the core meaning of serious physical harm crimes is preserved and is an acceptable minor difference in context."
+    },
+    "claim": "The highest number of crimes recorded in England and Wales in 2009-2010 was under ABH and other injury category.",
+    "translated_claim": "Ο μεγαλύτερος αριθμός εγκλημάτων που καταγράφηκαν στην Αγγλία και την Ουαλία το 2009-2010 ανήκε στην κατηγορία «Πραγματική Σωματική Βλάβη και άλλοι τραυματισμοί»."
+}

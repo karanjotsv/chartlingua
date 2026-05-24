@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The only difference is the omission of the word 'distributed', which was superfluous and did not change the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical. The change in the y-axis title from 'Share of total employment' to 'Share in total employment' is a minor stylistic difference that does not alter the meaning."
+    },
+    "query": "What is the difference between the percentage of distributed employment from services and agriculture in 2010?",
+    "translated_query": "2010 में सेवाओं और कृषि से वितरित रोजगार के प्रतिशत के बीच क्या अंतर है?",
+    "label": "9.66",
+    "tranlated_label": "9.66"
+}

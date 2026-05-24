@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. It uses direct synonyms ('highest point' vs. 'peak', 'metrics' vs. 'indicators', 'above' vs. 'over') that fully preserve the original meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While the chart title, subtitle, and source are translated accurately, and most series names are semantically equivalent (e.g., 'meantime' vs. 'average-time'), there is a significant loss of specific information in two series names. The original 'gender-fetch' was inaccurately changed to 'type-extraction', which alters the meaning of those metrics."
+    },
+    "claim": "The highest point at average performance metrics is above 3K.",
+    "translated_claim": "Punctul maxim al indicatorilor medii de performanță este peste 3K."
+}

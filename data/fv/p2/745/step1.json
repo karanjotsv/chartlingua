@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their connecting lines (solid/dashed), axis values, labels, and legend entries are accurately reproduced. The overall structure and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on 'Threshold Dose (cGy)' versus 'LET (keV/μm)' for different isotopes. It contains no information about temperature, geographical locations like Mahabalesh, or specific dates, which are the subjects of the claim."
+    },
+    "claim": "The maximun temperature in Mahabalesh at 08:30 Hrs. IST on July 2, 2019, was below 40 degrees Celsius.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Both subplots accurately represent the same data trends, values, and transitions. All text elements, including titles and axis labels with special characters, are semantically identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is contradicted by the chart data. In the time interval from approximately 21 seconds to 27.5 seconds, the 'Applied Angle of Attack' is shown to be increasing, while the 'Applied Thrust' remains constant at its maximum value, it does not decrease."
+    },
+    "claim": "The input thrust decreases as the angle of attack increases.",
+    "label": false
+}

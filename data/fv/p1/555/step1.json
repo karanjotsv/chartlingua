@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, color hues, and the overall message are highly consistent with the original. There is a very minor difference in one data label (3.3% vs 3.4%) and a slight character rendering difference in one non-Latin label, but these do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentage of points for each user. The largest slice of the pie chart represents 18.2% of the total points, and the legend indicates that this blue slice corresponds to the user 'anne'."
+    },
+    "claim": "Anne has earned the most Gib Challenge points.",
+    "label": true
+}

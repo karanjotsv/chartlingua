@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Graph' and 'chart' are synonymous in this context, and the prepositions 'in' and 'on' convey the same spatial relationship without altering the query's intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The main meaning of the title and source information is accurately conveyed. The phrase 'held by' became 'owned by' which is a synonymous stylistic change. The only semantic difference is 'Chartbook of Economic Inequality' being translated to 'Economic Inequality Compendium'. While 'Chartbook' and 'Compendium' have slightly different connotations, the core identifier (Economic Inequality 2017) is preserved, making this a minor acceptable difference rather than a significant loss of information regarding the chart's content."
+    },
+    "query": "How many bars are there in the graph?",
+    "translated_query": "Сколько столбцов на графике?",
+    "label": "2",
+    "tranlated_label": "2"
+}

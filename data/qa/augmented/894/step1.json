@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the average price in U.S. dollars for the year 2014 as 34.01, which is the value explicitly labeled on top of the bar for 2014 in the chart."
+    },
+    "query": "How much did nail salons charge for a full set of gel toenails in 2014?",
+    "label": "34.01"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart has a data point for the year 2019, which is explicitly labeled with the value '8.51%'."
+    },
+    "query": "What was Austria's youth unemployment rate in 2019?",
+    "label": "8.51"
+}

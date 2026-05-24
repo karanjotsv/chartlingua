@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content, and color hues are consistent with the original. The overall message about the distribution of religions is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that the Muslim population accounted for 3% of the total, while the Anglican population accounted for 4%. Therefore, there were fewer Muslims than Anglicans, which contradicts the claim."
+    },
+    "claim": "There were more Muslims than Anglicans in Alberta in 2011.",
+    "label": "FALSE"
+}

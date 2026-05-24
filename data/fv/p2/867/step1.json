@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the exact same data values, categories, and labels as the original. The color hues for each slice are also consistent, preserving the visual grouping. The overall message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on web browser market share percentages. The claim is about HIV statistics related to different ethnic groups. The chart contains no information on demographics, ethnicity, or health statistics, making the claim completely unrelated to the provided data."
+    },
+    "claim": "There are more latino people in the US living with HIV than black people.",
+    "label": "FALSE"
+}

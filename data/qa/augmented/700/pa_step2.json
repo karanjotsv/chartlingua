@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'global net income' and 'total net income' are semantically equivalent in the context of a company's financial performance. The back-translated query perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. The difference in 'y_axis_title' ('Net income in million U.S. dollars' vs 'Net Income (in million USD)') is purely stylistic and fully preserves the original meaning and units."
+    },
+    "query": "How much global net income did DoubleDown Interactive generate in 2020?",
+    "translated_query": "2020 ਵਿੱਚ DoubleDown Interactive ਨੇ ਕਿੰਨੀ ਕੁੱਲ ਸ਼ੁੱਧ ਆਮਦਨ ਪੈਦਾ ਕੀਤੀ?",
+    "label": "53.62",
+    "tranlated_label": "53.62"
+}

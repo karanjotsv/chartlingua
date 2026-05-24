@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning and all key information. Differences like 'Health' vs 'Healthcare' and 'Occupational Statistics' vs 'Employment Statistics' are synonymous and contextually appropriate refinements, not semantic changes."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart texts show excellent semantic equivalence. Minor differences such as '&' vs 'and', 'service' vs 'services', 'Health' vs 'Healthcare', and adding 'services' to 'Scientific & technical' are stylistic or natural variations that do not alter the core meaning. The title also conveys the same information accurately."
+    },
+    "claim": "Health and Education had 23% in the pie chart 2011 Occupational Statistics.",
+    "translated_claim": "Здравоохранение и образование составили 23% в круговой диаграмме «Статистика занятости за 2011 год»."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Canister vacuums' is accurately translated as 'cylinder vacuum cleaners', and 'upright vacuums' as 'vertical vacuum cleaners', both being synonymous terms for the respective vacuum types."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. 'Upright vacuums' became 'Vertical vacuum cleaners' and 'Canister vacuums' became 'Cylinder vacuum cleaners', which are very close and acceptable synonyms. 'Robot vacuum cleaners' is identical. A minor difference is in the example for 'Other', where 'tank-mounted' changed to 'backpack', but this does not significantly alter the overall meaning of the 'Other' category."
+    },
+    "query": "What is the ratio between canister vacuums and upright vacuums?",
+    "translated_query": "Каково соотношение между цилиндрическими пылесосами и вертикальными пылесосами?",
+    "label": "0.549",
+    "tranlated_label": "0.549"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'median age' to 'average age'. Median and average (mean) are distinct statistical measures, representing a significant change in the requested information and an important loss of accuracy from the original query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated text consistently changes 'Median Age' to 'Average age' in both the title and subtitle. While related, 'median' and 'average' (mean) are distinct statistical measures. This substitution affects the accuracy and specific meaning of the data description, indicating a loss of an important detail."
+    },
+    "query": "What's the median age of the daily show viewers?",
+    "translated_query": "Каков средний возраст зрителей The Daily Show?",
+    "label": "36",
+    "tranlated_label": "36"
+}

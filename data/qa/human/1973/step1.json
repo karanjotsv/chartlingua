@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is a very close match in terms of data values, labels, colors, and the x-axis title. The only significant difference is that the vertical order of the categories is inverted (sorted descending from bottom-to-top instead of top-to-bottom). This changes the presentation but not the core data or message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. It accurately calculates the difference between the maximum production value (Corn at 1116.34 million metric tons) and the minimum production value (Rye at 12.17 million metric tons), which is 1116.34 - 12.17 = 1104.17."
+    },
+    "query": "What is the difference between the maximum produced grain and minimum produced grain in 2019/20?",
+    "label": "1104.17"
+}

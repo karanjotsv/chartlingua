@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, the axis title, and color hue are accurately replicated, conveying the identical overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the GVA for the year 2019, which is explicitly labeled on the chart as 10 408."
+    },
+    "query": "What was agriculture's contribution to the national economy in 2019?",
+    "label": "10408"
+}

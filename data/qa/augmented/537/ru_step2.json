@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. The differences are only in capitalization ('Information' vs 'information') and a standard abbreviation ('euros' vs 'EUR'), which are stylistic/trivial and do not alter the meaning."
+    },
+    "query": "What was Ravensburger's revenue in 2018?",
+    "translated_query": "Каков был доход Ravensburger в 2018 году?",
+    "label": "491.46",
+    "tranlated_label": "491.46"
+}

@@ -1,0 +1,118 @@
+{
+    "chart_type": "लाइन चार्ट",
+    "chart_data": [
+        {
+            "category": "सितंबर<br>2008",
+            "values": [
+                {
+                    "value": 67,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 28,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "अप्रैल<br>2009",
+            "values": [
+                {
+                    "value": 68,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 27,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "फ़रवरी<br>2010",
+            "values": [
+                {
+                    "value": 63,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 31,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "जून<br>2010",
+            "values": [
+                {
+                    "value": 52,
+                    "label_color": "#82A6BF"
+                },
+                {
+                    "value": 44,
+                    "label_color": "#425464"
+                }
+            ]
+        },
+        {
+            "category": "अक्टूबर<br>2010",
+            "values": [
+                {
+                    "value": 51,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 41,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "मार्च<br>2011",
+            "values": [
+                {
+                    "value": 57,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 37,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        }
+    ],
+    "series_names": [
+        "पक्ष में",
+        "विपक्ष में"
+    ],
+    "texts": {
+        "title": "अधिक अपतटीय ड्रिलिंग<br>के लिए बढ़ा हुआ समर्थन",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "प्यू रिसर्च सेंटर मार्च 17-20, 2011. PEW27a.",
+        "series_annotations": [
+            {
+                "text": "पक्ष में",
+                "category": "Apr<br>2009",
+                "value": 68,
+                "xshift": 20,
+                "yshift": -12,
+                "xanchor": "left",
+                "font_color": "#333333"
+            },
+            {
+                "text": "विपक्ष में",
+                "category": "Apr<br>2009",
+                "value": 27,
+                "xshift": 20,
+                "yshift": 8,
+                "xanchor": "left",
+                "font_color": "#333333"
+            }
+        ]
+    },
+    "colors": [
+        "#425464",
+        "#82A6BF"
+    ]
+}

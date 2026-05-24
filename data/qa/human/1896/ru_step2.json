@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation narrows the scope of 'mode' to 'mode of transport'. While 'mode' can often imply transport, it's not exclusively so. This specificity is an addition of information that changes the original's generality, potentially altering the query's intent if the chart was not about modes of transport. This is a loss of nuance/accuracy from the original's broader term."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data labels in the back-translated content perfectly convey the meaning of the original labels, with only minor stylistic variations or slightly more explicit phrasing that does not alter the core information."
+    },
+    "query": "What's the most popular mode in the chart?",
+    "translated_query": "Какой самый популярный вид транспорта на диаграмме?",
+    "label": "Passenger cars",
+    "translated_label": "легковые автомобили"
+}

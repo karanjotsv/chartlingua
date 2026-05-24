@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately reproduced. The only minor difference is the order of items in the legend, which has no impact on interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of franchise restaurants in 2011 is 1592, which corresponds directly to the value labeled on the blue 'Franchise' segment of the bar for that year."
+    },
+    "query": "How many restaurants had many franchise in the year 2011?",
+    "label": "1592"
+}

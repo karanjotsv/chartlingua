@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, text content, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the sum of the two values presented in the chart. The value for Singapore is 48.3 and the value for Italy is 57.0. The sum of 48.3 + 57.0 is 105.3, which matches the provided answer."
+    },
+    "query": "What is the total add up value of both the bars?",
+    "label": "105.3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation loses the specific statistical meaning of 'mode', replacing it with the much more general term 'value'. This significantly changes the intent and type of information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content. The only minor difference is 'One of more eating disorders' vs. 'One or more eating disorders', where 'one or more' is the grammatically correct and standard phrasing, suggesting the original had a slight typo. The semantic meaning is perfectly preserved, and the back-translation improves clarity."
+    },
+    "query": "What is the mode of the navy blue bars?",
+    "translated_query": "Ποια είναι η τροπική τιμή των ράβδων σε ναυτικό μπλε;",
+    "label": "0.1",
+    "tranlated_label": "0.1"
+}

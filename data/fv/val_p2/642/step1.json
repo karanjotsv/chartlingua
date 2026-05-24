@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered image is a near-perfect semantic match. All data values, text content (titles, questions, and options), and categories are identical to the original for both charts. The overall structure and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The first chart, titled 'Question Number 1', shows the results for the question 'Which official manufacturing statistics do you use?'. The chart displays six different categories of statistics (A through F), all of which have non-zero values. This indicates that the respondents use a variety of sources, confirming the claim."
+    },
+    "claim": "Participants at a UK Manufacturing conference use a variety of sources to obtain statistics.",
+    "label": "TRUE"
+}

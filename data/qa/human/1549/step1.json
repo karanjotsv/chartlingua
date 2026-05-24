@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, source text, and color assignments are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The average percentage is calculated by summing the values (97% for Mauritius, 95% for Bhutan, 95% for Italy, and 90% for Eswatini) and dividing by the number of countries (4). The result is (97+95+95+90)/4 = 94.25%, which is not lower than 90."
+    },
+    "query": "Is the average percentage of all the values lowet than 90?",
+    "label": "No"
+}

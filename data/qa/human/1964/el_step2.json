@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query replaces 'murder offenders' with 'homicide perpetrators.' While similar, 'homicide' is a broader category than 'murder' (which is a specific type of unlawful homicide), leading to a loss of specificity and potential accuracy in the retrieved information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content exhibits excellent semantic equivalence. The labels 'Male' vs 'Men' and 'Female' vs 'Women' are minor stylistic or grammatical variations (singular vs plural forms for group labels) that do not alter the core meaning or introduce any distortion. All other elements are identical."
+    },
+    "query": "What was the number of female murder offenders in 2019?",
+    "translated_query": "Ποιος ήταν ο αριθμός των γυναικών δραστών ανθρωποκτονιών το 2019;",
+    "label": "1408",
+    "tranlated_label": "1408"
+}

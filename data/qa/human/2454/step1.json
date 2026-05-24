@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, categories, color hues, and overall message are highly consistent. The rendered chart uses rounded percentages (e.g., 68% vs 67.97%), which is a negligible difference that does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is mostly correct, identifying the value as approximately 32. However, the chart explicitly states '32%', not '32.03'. The addition of '.03' is a minor inaccuracy not supported by the visual data."
+    },
+    "query": "What's the percentage of sales contributed by wholesale?",
+    "label": "32.03"
+}

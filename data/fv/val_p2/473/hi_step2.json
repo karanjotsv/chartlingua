@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is identical to the original content, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The evaluation is 'Fair' because while most expense labels are perfectly translated, 'In-Kind Expenses' was changed to 'Material Expenses'. This is a significant semantic shift, as 'in-kind' refers to non-monetary contributions, which is a different concept from 'material' costs, thus losing key information."
+    },
+    "claim": "Other expenses include travel expenses.",
+    "translated_claim": "अन्य व्ययों में यात्रा व्यय शामिल हैं।"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes 'the SI votes' to 'Yes votes'. 'SI votes' implies a specific category or entity (e.g., an acronym or specific proposal), whereas 'Yes votes' is generic. This change loses the specific identifier of the votes, thus losing some important detail or accuracy from the original."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most textual elements, including series names ('Sí' to 'Yes', 'Blanc' to 'Blank', 'Null' to 'Invalid') and axis titles, are perfectly or excellently matched. The subtitle 'Catalonia independence' became 'Catalonia's Independence', which is a stylistic but semantically equivalent change. The only minor difference is the title 'Referendums 2009-2010' becoming 'Referendum 2009-2010', which changes the implied plurality of events from plural to singular. This is a slight loss of precision but does not significantly alter the main meaning or core information."
+    },
+    "claim": "In the year 2011, the SI votes was at 80%.",
+    "translated_claim": "ਸਾਲ 2011 ਵਿੱਚ, ਹਾਂ ਵੋਟਾਂ 80% ਸਨ।"
+}

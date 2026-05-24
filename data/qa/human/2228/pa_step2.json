@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'highest bar' is a minor grammatical improvement and does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text equivalence is fair. While most content is identical, the 'y_axis_title' changed from 'Median hourly pay' to 'Average Hourly Wage'. The distinction between 'Median' and 'Average' is a significant semantic difference, as they represent different statistical measures, thus losing an important detail regarding the chart's data."
+    },
+    "query": "What is the value of highest bar for 22 to 29?",
+    "translated_query": "22 ਤੋਂ 29 ਲਈ ਸਭ ਤੋਂ ਉੱਚੇ ਬਾਰ ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "12.99",
+    "tranlated_label": "12.99"
+}

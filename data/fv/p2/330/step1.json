@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The core pie chart data, proportions, and colors are consistent with the original, preserving the main message. However, the accompanying data table is semantically incorrect, mixing data from different sources, and is missing categories present in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap in the labels for the smaller pie slices and in the data table/legend on the right, rendering a significant portion of the text and data values illegible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "While the chart shows that 33.1% of Americans living with HIV/Aids are white, it does not specify the year the data was collected. Therefore, the claim that this data is from 2011 cannot be confirmed based on the provided chart."
+    },
+    "claim": "In 2011 33.1% of Americans living with HIV/Aids were white.",
+    "label": "TRUE"
+}

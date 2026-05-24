@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It clarifies the grammatical errors and awkward phrasing of the original (e.g., 'more then' becomes 'greater than') while preserving the exact same intent to compare the total values of the two specified categories."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The use of synonyms like 'Hard to answer' for 'Difficult to answer' and 'total sample' for 'whole sample' are perfectly acceptable and do not change the meaning."
+    },
+    "query": "Is the sum total value of Yes, it could more then  No ,it could not ?",
+    "translated_query": "Ist der Gesamtwert von \"Ja, könnte es\" größer als von \"Nein, könnte es nicht\"?",
+    "label": "No",
+    "translated_label": "Nein"
+}

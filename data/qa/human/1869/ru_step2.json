@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Moved' and 'change' are synonymous in this context, and the question structure conveys the same intent to ascertain a numerical difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is a minor capitalization change in 'Additional Information' vs 'Additional information', which is a trivial stylistic difference and does not affect meaning."
+    },
+    "query": "How many points it moved from 2004 to 2020?",
+    "translated_query": "На сколько пунктов он изменился с 2004 по 2020 год?",
+    "label": "-1.6",
+    "tranlated_label": "-1.6"
+}

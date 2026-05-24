@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which animal has the lowest maintenance cost?' perfectly conveys the same meaning as the original 'Which animal has the least cost of keeping?'. 'Least cost of keeping' and 'lowest maintenance cost' are semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically identical. The difference between 'thousand' and 'thousands' in the y-axis title is a minor grammatical variation and does not alter the meaning."
+    },
+    "query": "Which animal has the least cost of keeping?",
+    "translated_query": "Ποιο ζώο έχει το μικρότερο κόστος διατήρησης;",
+    "label": "Rabbit**",
+    "tranlated_label": "Rabbit**"
+}

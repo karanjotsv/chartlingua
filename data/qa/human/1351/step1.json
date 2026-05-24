@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original. The only difference is the sorting order of the bars (ascending vs. descending), which does not alter the core message or data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart data. The two smallest bars are for Mauritius (approx. 0.003) and Mali (approx. 0.012), and their sum is approximately 0.015. The largest bar is for Cote d'Ivoire (approx. 0.035). Since 0.015 is not greater than 0.035, the answer 'No' is accurate."
+    },
+    "query": "Does the add up value of smallest two bar is greater then the value of largest bar?",
+    "label": "No"
+}

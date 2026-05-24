@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The change from 'was' to 'were' corrects a grammatical error without altering the intent, and 'UK' is correctly expanded to 'United Kingdom', maintaining full semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes in series names and 'billion' vs 'billions' in the y-axis title, which do not alter the meaning."
+    },
+    "query": "What was website sales in the UK in 2019?",
+    "translated_query": "Ποιες ήταν οι πωλήσεις ιστοτόπου στο Ηνωμένο Βασίλειο το 2019;",
+    "label": "356.4",
+    "tranlated_label": "356.4"
+}

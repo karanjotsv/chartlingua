@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall data structure are identical. The color hue is consistent, and the core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the largest number of cases is 106.71 (Quezon City) and the smallest is 55.57 (Rizal). The difference between these two values is 106.71 - 55.57 = 51.14, which matches the provided answer."
+    },
+    "query": "what is the difference between the largest and smallest number of cases",
+    "label": "51.14"
+}

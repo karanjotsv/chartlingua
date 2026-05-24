@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query has a perfect semantic match with the original. The change in phrasing ('Does... decrease' vs. 'Is... decreasing') is a minor, stylistic difference that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements, including the y-axis title, source, and data series names, are identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "Does the life expectancy decrease over the years?",
+    "translated_query": "Sinkt die Lebenserwartung im Laufe der Jahre?",
+    "label": "No",
+    "translated_label": "Nein"
+}

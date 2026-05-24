@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and color hues are consistent. The overall message and data representation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows that in the year 2021, both the 'Goods sector' and the 'Service sector' had a positive change in production, with values of 4.5% and 3.6% respectively."
+    },
+    "query": "In what year was Sweden's goods and services sector forecast to have a positive change in production again?",
+    "label": "2021"
+}

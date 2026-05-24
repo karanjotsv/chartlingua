@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Наличные",
+            "Счет",
+            "Мобильный",
+            "PayPal",
+            "Дебетовая/кредитная карта"
+        ],
+        "series": [
+            {
+                "name": "Как потребители могут платить",
+                "values": [
+                    41,
+                    15,
+                    44,
+                    26,
+                    79
+                ]
+            },
+            {
+                "name": "Как поставщики могут принимать платежи",
+                "values": [
+                    38,
+                    46,
+                    23,
+                    31,
+                    23
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Доля платформ",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2573CF",
+        "#1C2E46"
+    ]
+}

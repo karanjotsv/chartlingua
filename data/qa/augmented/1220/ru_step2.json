@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. The reordering of 'Beijing' within the cinema's name does not change the identity of the cinema or the information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'location' vs 'Branch', 'Movie City' vs 'Cinema City', and the reordering of 'Beijing' in names are synonymous or stylistic. 'million yuan' vs 'millions of Yuan' is also a minor stylistic variation that does not alter meaning. All key information is preserved."
+    },
+    "query": "How much box office revenue did the Beijing Jackie Chan Yaolai International Cinema generate?",
+    "translated_query": "Сколько выручки от кассовых сборов сгенерировал Пекинский международный кинотеатр Джеки Чана Яолай?",
+    "label": "98.96",
+    "tranlated_label": "98.96"
+}

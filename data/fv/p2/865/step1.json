@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about the racial demographics of the US population in 2011, whereas the chart displays the market share percentages of various web browsers. The chart contains no information that can be used to either support or refute the claim."
+    },
+    "claim": "63.4% of US population comprise white people in US 2011.",
+    "label": "TRUE"
+}

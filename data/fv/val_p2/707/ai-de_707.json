@@ -1,0 +1,253 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Speiseröhre",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Haut",
+            "value": 3,
+            "color": "#fca981"
+        },
+        {
+            "category": "Nebenhoden",
+            "value": 3,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Hoden",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Niere",
+            "value": 3,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Mundschleimhaut",
+            "value": 3,
+            "color": "#e69f00"
+        },
+        {
+            "category": "Nebenniere",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Skelettmuskel",
+            "value": 3,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Zwölffingerdarm",
+            "value": 2,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Hirnrinde",
+            "value": 2,
+            "color": "#009e73"
+        },
+        {
+            "category": "Mandel",
+            "value": 2,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Eileiter",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Herzmuskel",
+            "value": 2,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Gebärmutterschleimhaut",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Vagina",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Nasenrachenraum",
+            "value": 2,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Bronchus",
+            "value": 2,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Samenbläschen",
+            "value": 2,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Leber",
+            "value": 2,
+            "color": "#d3c4e3"
+        },
+        {
+            "category": "Gallenblase",
+            "value": 2,
+            "color": "#d3c4e3"
+        },
+        {
+            "category": "Bauchspeicheldrüse",
+            "value": 2,
+            "color": "#8fc488"
+        },
+        {
+            "category": "Dickdarm",
+            "value": 2,
+            "color": "#009e73"
+        },
+        {
+            "category": "Dünndarm",
+            "value": 2,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Nebenschilddrüse",
+            "value": 2,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Rektum",
+            "value": 2,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Lymphknoten",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Magen",
+            "value": 1,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Schilddrüse",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Kleinhirn",
+            "value": 1,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Nucleus caudatus",
+            "value": 1,
+            "color": "#8fc488"
+        },
+        {
+            "category": "Lunge",
+            "value": 1,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Speicheldrüse",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Plazenta",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Brust",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Appendix",
+            "value": 1,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Gebärmutterhals",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Glatte Muskulatur",
+            "value": 1,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Weichgewebe",
+            "value": 1,
+            "color": "#a6d8d4"
+        },
+        {
+            "category": "Hippocampus",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Knochenmark",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Harnblase",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Milz",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Fettgewebe",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Prostata",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Eierstock",
+            "value": 0,
+            "color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "PUNKTWERT",
+        "source": null,
+        "note": null,
+        "y_axis_labels": {
+            "values": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "texts": [
+                "Hoch",
+                "Mittel",
+                "Niedrig",
+                "Nicht<br>nachgewiesen"
+            ]
+        }
+    },
+    "colors": []
+}

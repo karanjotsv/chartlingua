@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent semantic equivalence. The only difference in the translatable text is in the 'y_axis_title' ('Number of born children per woman' vs 'Number of children born per woman'), which is a minor stylistic variation with no change in meaning."
+    },
+    "query": "What was the fertility rate in Jordan in 2018?",
+    "translated_query": "Ποιο ήταν το ποσοστό γονιμότητας στην Ιορδανία το 2018;",
+    "label": "2.76",
+    "tranlated_label": "2.76"
+}

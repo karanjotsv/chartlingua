@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate representation of the original. All data points, categories, labels, and titles are correctly reproduced, including a typo in 'Public adminstartion'. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the majority of residents work in the agricultural sector. However, the chart clearly shows that 'Real estate and business activities' is the sector with the highest number of people, not 'Agriculture'. The bar for 'Agriculture' is significantly shorter than those for several other sectors like 'Real estate and business activities', 'Manufacturing', and 'Retail trade'."
+    },
+    "claim": "The chart shows that the majority of Quenington residents work in the agricultural sector.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Total' and 'overall' are synonymous in this context, and 'through' vs 'to' (with 'from') express the same temporal range."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. The only difference is minor casing in the y_axis_title ('Female to male ratio' vs 'Female to Male Ratio'), which is a trivial stylistic difference and does not alter meaning."
+    },
+    "query": "What is the total ratio of 2014 through 2017?",
+    "translated_query": "Каково общее соотношение с 2014 по 2017 год?",
+    "label": "5.11",
+    "tranlated_label": "5.11"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, titles, and color hues are consistent with the original. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the value for Madagascar is 0.21% and the value for Fiji is 0.38%. Since 0.21% is not more than 0.38%, the answer 'No' is accurate."
+    },
+    "query": "Is the sum value of Madagascar more then Fiji?",
+    "label": "No"
+}

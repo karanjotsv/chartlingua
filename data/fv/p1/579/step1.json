@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the chart type (horizontal bar), all data categories in the correct order, the relative data values on a logarithmic scale, the title, and the color-coding scheme from the legend. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays two mimetypes for images, 'image/tiff' and 'image/jpeg'. By comparing the lengths of their respective bars, it is clear that the bar for 'image/tiff' is longer than the one for 'image/jpeg', making it the leading image mimetype shown."
+    },
+    "claim": "The leading image MIME type in the Open Access Subset is tiff.",
+    "label": true
+}

@@ -1,0 +1,57 @@
+{
+    "chart_type": "pie_of_pie",
+    "chart_data": {
+        "pie1": {
+            "labels": [
+                "Dark Matter",
+                "Ordinary Matter",
+                "Dark Energy"
+            ],
+            "values": [
+                25,
+                4,
+                70
+            ]
+        },
+        "pie2": {
+            "labels": [
+                "Free hydrogen and helium",
+                "Stars",
+                "Neutrinos"
+            ],
+            "values": [
+                0.3,
+                0.5,
+                0.03
+            ]
+        }
+    },
+    "texts": {
+        "title": "A pie of pie chart illustrating the cosmological composition of the universe.",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "pie1_slices": [
+            "#6ca6cd",
+            "#c41e1f",
+            "#1f3b63"
+        ],
+        "pie1_text": [
+            "black",
+            "white",
+            "white"
+        ],
+        "pie2_slices": [
+            "#93c47d",
+            "#ffc000",
+            "#1caddc"
+        ],
+        "pie2_text": [
+            "black",
+            "black",
+            "black"
+        ]
+    }
+}

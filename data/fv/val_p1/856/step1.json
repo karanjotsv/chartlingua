@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data values, proportions, categories, and color hues are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the 'Tamasheq' category constitutes 86% of the population, which is overwhelmingly the largest proportion compared to all other listed groups."
+    },
+    "claim": "Tamasheq is the large ethnic group in Kidal.",
+    "label": true
+}

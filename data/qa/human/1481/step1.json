@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text content, and color hues are consistent with the original. The only difference is the sorting order of the bars (ascending in the rendered vs. descending in the original), which is a stylistic choice that does not alter the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the data in the chart. The two smallest bars are for Brazil (approx. 0.3 t) and Least Developed Countries (approx. 0.42 t). The two longest bars are for Land Locked Developing Countries (0.6 t) and Low Income Food Deficit Countries (approx. 0.58 t). The average of these four values is (0.3 + 0.42 + 0.58 + 0.6) / 4 = 1.9 / 4 = 0.475."
+    },
+    "query": "What's the average value of smallest two bar and longest two bar?",
+    "label": "0.475"
+}

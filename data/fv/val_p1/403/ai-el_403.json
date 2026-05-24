@@ -1,0 +1,115 @@
+{
+    "chart_type": "grouped_bar",
+    "colors": [
+        "#b68f6a",
+        "#5fa5a1"
+    ],
+    "texts": {
+        "title": "Έκθεμα 2-11 Παγκόσμια Επένδυση σε Ακίνητα των ΗΠΑ, ανά Χώρα",
+        "y_axis_title": "δισεκατομμύρια US$",
+        "source": "Πηγή: Real Capital Analytics, στις 31 Ιουλίου 2014.",
+        "legend_series": [
+            "36 μήνες",
+            "12 μήνες"
+        ],
+        "annotation_text": "Προηγούμενοι 12 μήνες<br>ως ποσοστό του συνολικού τριετούς"
+    },
+    "chart_data": [
+        {
+            "category": "Καναδάς",
+            "values": [
+                32.5,
+                15.5
+            ],
+            "annotation": "47%"
+        },
+        {
+            "category": "Κίνα",
+            "values": [
+                6.5,
+                3.8
+            ],
+            "annotation": "58%"
+        },
+        {
+            "category": "Γερμανία",
+            "values": [
+                6.5,
+                2.5
+            ],
+            "annotation": "38%"
+        },
+        {
+            "category": "Ιαπωνία",
+            "values": [
+                5.5,
+                3.5
+            ],
+            "annotation": "63%"
+        },
+        {
+            "category": "Ελβετία",
+            "values": [
+                5.5,
+                1.2
+            ],
+            "annotation": "23%"
+        },
+        {
+            "category": "Ισραήλ",
+            "values": [
+                5.2,
+                2.3
+            ],
+            "annotation": "44%"
+        },
+        {
+            "category": "Σιγκαπούρη",
+            "values": [
+                5.0,
+                1.8
+            ],
+            "annotation": "36%"
+        },
+        {
+            "category": "Νορβηγία",
+            "values": [
+                4.5,
+                3.9
+            ],
+            "annotation": "86%"
+        },
+        {
+            "category": "Χονγκ<br>Κονγκ",
+            "values": [
+                4.2,
+                2.5
+            ],
+            "annotation": "61%"
+        },
+        {
+            "category": "Νότια<br>Κορέα",
+            "values": [
+                4.0,
+                1.1
+            ],
+            "annotation": "27%"
+        },
+        {
+            "category": "Αυστραλία",
+            "values": [
+                3.5,
+                2.2
+            ],
+            "annotation": "62%"
+        },
+        {
+            "category": "Βερμούδες",
+            "values": [
+                2.0,
+                2.0
+            ],
+            "annotation": "100%"
+        }
+    ]
+}

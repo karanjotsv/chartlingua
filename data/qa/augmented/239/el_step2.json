@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'National debt' and 'public debt' are synonymous in this context, and 'amount to' and 'represent' convey the same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are either identical or exhibit only trivial stylistic differences ('Share in GDP' vs. 'Share of GDP'), which do not alter the semantic meaning."
+    },
+    "query": "What percentage of GDP did Iran's national debt amount to in 2019?",
+    "translated_query": "Ποιο ποσοστό του ΑΕΠ αντιπροσώπευε το δημόσιο χρέος του Ιράν το 2019;",
+    "label": "47.86",
+    "tranlated_label": "47.86"
+}

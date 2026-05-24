@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Durchschnitt",
+            "value": 610
+        },
+        {
+            "category": "Bus",
+            "value": 621
+        },
+        {
+            "category": "Trolleybus",
+            "value": 543
+        }
+    ],
+    "texts": {
+        "title": "Öffentliches Verkehrsnetz<br>in Brașov, Rumänien",
+        "subtitle": "Abstand zwischen den Haltestellen<br>nach Fahrzeugtyp",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Juni 2012",
+        "value_suffix": " m"
+    },
+    "colors": [
+        "#000000",
+        "#1F3864",
+        "#447231"
+    ]
+}

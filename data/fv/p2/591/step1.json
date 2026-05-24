@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values and category labels are correct. However, the color mapping is semantically inconsistent. Multiple distinct categories are assigned the same color (e.g., Turkish, Uyghur, and Kyrgyz are all rendered in the same shade of red), which makes it impossible to visually differentiate them based on the legend, a primary function of a pie chart's color encoding.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels corresponding to the smaller pie slices on the right side of the chart, rendering them completely unreadable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the slice for 'Azeri' with the value '15%', directly supporting the claim."
+    },
+    "claim": "15% of  native speakers in Azeri Turkic family.",
+    "label": "TRUE"
+}

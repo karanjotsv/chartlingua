@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. The only difference is the addition of a period at the end, which is a trivial stylistic change and does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, axis titles, source, note) were null in the original content and remain null in the back-translated content, indicating perfect semantic preservation for the text elements."
+    },
+    "claim": "According to the chart, in the year 1950 there is a total population value of 34350 ",
+    "translated_claim": "Σύμφωνα με το γράφημα, το έτος 1950 υπάρχει συνολική τιμή πληθυσμού 34350."
+}

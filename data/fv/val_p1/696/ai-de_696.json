@@ -1,0 +1,38 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "category": "Biogas",
+            "value": 11.8
+        },
+        {
+            "category": "Wasserkraft",
+            "value": 20.3
+        },
+        {
+            "category": "Windkraft",
+            "value": 40.4
+        },
+        {
+            "category": "Solar",
+            "value": 6.6
+        },
+        {
+            "category": "Biomasse",
+            "value": 19.8
+        }
+    ],
+    "texts": {
+        "title": "Stromerzeugung aus erneuerbaren Quellen in Deutschland im Jahr 2009",
+        "subtitle": null,
+        "source": "Quelle: Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, Juni 2010, S. 13",
+        "note": null
+    },
+    "colors": [
+        "#c9a300",
+        "#3f7c93",
+        "#4c9a97",
+        "#f77e38",
+        "#997e00"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (title, axis labels, legend), data values, line shapes, and color hues are consistent with the original. The overall message and data trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the highest Pxy occurs at 'abnormal conditions at 314.5 K'. While the chart shows that the highest pressure curve ('P-x') corresponds to 314.5 K, there is no information in the chart to define or identify what constitutes 'abnormal conditions'. This part of the claim cannot be verified from the visual data alone."
+    },
+    "claim": "Highest Pxy at abnormal conditions at 314.5 K",
+    "label": true
+}

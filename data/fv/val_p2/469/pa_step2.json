@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The core assertion of 'no one works in X occupation' is preserved, but the specific occupation changed significantly from 'manufacturing' to 'construction'. The location name also saw a minor spelling change from 'Lowesby' to 'Losby'."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "There is a significant semantic error where 'Manufacturing' in the original series name was back-translated to 'Construction', which are distinct categories. Additionally, 'Farmers employing Labourers' was rephrased to 'Employers of laborers Farmers', slightly altering the original clarity."
+    },
+    "claim": "There are no people in Lowesby who works in manufacturing occupation.",
+    "translated_claim": "ਲੋਸਬੀ ਵਿੱਚ ਕੋਈ ਵੀ ਵਿਅਕਤੀ ਨਿਰਮਾਣ ਦੇ ਕਿੱਤੇ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰਦਾ।"
+}

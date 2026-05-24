@@ -1,0 +1,37 @@
+{
+    "chart_type": "bar",
+    "series_names": [
+        "Power Conversion Efficiency"
+    ],
+    "chart_data": [
+        {
+            "category": "Cadmium Selenide",
+            "values": [
+                0.015
+            ]
+        },
+        {
+            "category": "Nickel Oxide",
+            "values": [
+                0.07
+            ]
+        },
+        {
+            "category": "Gallium Arsenide",
+            "values": [
+                0.24
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Power Conversion Efficiency",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5b9bd5"
+    ]
+}

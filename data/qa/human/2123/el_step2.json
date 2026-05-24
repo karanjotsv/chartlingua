@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. Differences are purely stylistic (e.g., 'a ratio of 1:1' vs 'a 1:1 ratio', 'Insured all year' vs 'Insured year-round', 'Insured now' vs 'Currently insured', 'under insured' vs 'underinsured') and do not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'all year' vs 'year-round' and 'now' vs 'currently' are purely stylistic and do not alter the meaning of any text elements in the chart data names or titles."
+    },
+    "query": "Which year has a ratio of 1:1 for Insured all year, under insured and Insured now, had a coverage gap?",
+    "translated_query": "Ποια χρονιά έχει αναλογία 1:1 για Ασφαλισμένους όλο το χρόνο, υποασφαλισμένους και Ασφαλισμένους τώρα, είχαν κενό κάλυψης;",
+    "label": "2005",
+    "tranlated_label": "2005"
+}

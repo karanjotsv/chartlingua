@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, legend text, and color assignments are all accurately reproduced. The only minor difference is the y-axis tick label format (decimal vs. scientific notation), which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the absorption coefficient for '75 % Water' (blue line) across a range of wavelengths. The y-axis is logarithmic, and the blue line spans multiple orders of magnitude, from a minimum of approximately 0.0002 cm⁻¹ near 500 nm to a maximum of approximately 0.2 cm⁻¹ at 1000 nm. This represents a 1000-fold increase, which can be described as a 'huge variation'."
+    },
+    "claim": "Water contributes a huge variation to the absorption spectrum for brain tissue.",
+    "label": true
+}

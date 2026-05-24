@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning and intent of the original query. The minor difference between 'What' and 'Which' and singular/plural 'telecommunication(s)' do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only translatable text, 'x_axis_title', maintains perfect semantic meaning despite a minor stylistic change from 'in million EUR' to '(million EUR)'."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "translated_query": "Какая телекоммуникационная компания была второй по прибыльности в странах Северной Европы?",
+    "label": "Telia Company AB",
+    "translated_label": "Телия Компани АБ"
+}

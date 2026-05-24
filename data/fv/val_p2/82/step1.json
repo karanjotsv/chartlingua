@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, text content, and color hues are all consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Wet Prairie' and 'Mixed Hardwoods' combined make up half of the chart. However, the slices corresponding to 'Wet Prairie' (white), 'Mixed Hardwoods - Prairie' (red), and 'Mixed Hardwoods - Prairie poorly drained' (pink) are all relatively small. Their combined area is visually much less than 50% of the total pie."
+    },
+    "claim": "The wet prairie and Mixed Hardwoods together makes the half of the chart.",
+    "label": "FALSE"
+}

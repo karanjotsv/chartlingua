@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON is semantically identical. The only difference is a minor capitalization change in 'Gini Coefficient', which does not alter the meaning."
+    },
+    "query": "What was the Gini coefficient in Chile in 2017?",
+    "translated_query": "Ποιος ήταν ο συντελεστής Gini στη Χιλή το 2017;",
+    "label": "46.6",
+    "tranlated_label": "46.6"
+}

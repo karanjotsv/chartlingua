@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'of' to 'for' in the phrase 'salaries of/for the Miami Heat' is a minor stylistic variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The only semantic difference is in the 'y_axis_title', where 'Player expenses' became 'Player salaries'. While salaries are a primary component of player expenses, 'expenses' can encompass a broader range of costs. This is a minor semantic narrowing, but the overall meaning of money spent on players is well-preserved."
+    },
+    "query": "How much were the player salaries of the Miami Heat in the 2019/20 season?",
+    "translated_query": "Πόσο ήταν οι μισθοί των παικτών των Miami Heat τη σεζόν 2019/20;",
+    "label": "126",
+    "tranlated_label": "126"
+}

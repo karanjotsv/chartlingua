@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While most core numerical data points and color hues are preserved, there are significant semantic errors, such as incorrect or missing labels for the categories in the bar charts (e.g., 'East' instead of 'South East' for qualifications, and missing region names for unemployment).",
+        "has_visual_flaws": true,
+        "flaw_reason": "The rendered chart has severe visual flaws. There is widespread text and element overlap across the entire chart, making many labels and some data points (especially in the 'Crime' section) unreadable. The overall layout is grossly misaligned."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's 'Life Expectancy' section shows that in the South West, female life expectancy is 83.7 years versus 79.8 for males, and in the North West, it is 81.5 years for females versus 77.4 for males. In both specified regions, the life expectancy for women is higher."
+    },
+    "claim": "The Life expectancy of women is higher in both the South West and North West. ",
+    "label": true
+}

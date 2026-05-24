@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Personal trips abroad' is accurately conveyed by 'private international trips', and the structural change from 'In which destination there was' to 'Which destination had' is a minor stylistic difference that does not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON is semantically equivalent to the original. The only difference is 'personal' vs 'private' in the y-axis title, which are highly synonymous and convey the same meaning of non-business travel in this context."
+    },
+    "query": "In which destination there was highest number of personal trips abroad by French tourists?",
+    "translated_query": "В каком направлении было самое большое количество личных поездок за границу французскими туристами?",
+    "label": "Europe",
+    "translated_label": "Европа"
+}

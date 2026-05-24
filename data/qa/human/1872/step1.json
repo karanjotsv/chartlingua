@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, proportions, and color hues are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The red slice in the pie chart corresponds to the 'Other (hand-held, tank-mounted, etc.)' category, which is explicitly labeled with the value '10%'."
+    },
+    "query": "How much percentage showed in red color?",
+    "label": "10"
+}

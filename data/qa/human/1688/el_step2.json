@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most translatable texts match perfectly or have only minor stylistic/synonymous variations (e.g., 'not too closely' vs 'not very closely', 'far less' vs 'much less'). The only slight difference is in a category label, '2020 presidential election candidates' becoming '2020 presidential candidates', which omits 'election' but still conveys the main idea."
+    },
+    "query": "How many colors are used to represent all the bars?",
+    "translated_query": "Πόσα χρώματα χρησιμοποιούνται για να αναπαρασταθούν όλες οι ράβδοι;",
+    "label": "4",
+    "tranlated_label": "4"
+}

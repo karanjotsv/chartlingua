@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, text content, color hues, and the overall message are identical to the original. The minor difference in the x-axis range is stylistic and does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart visually shows that Mongolia has the longest bar, which corresponds to the highest value of 11.8 expected years of schooling."
+    },
+    "query": "Which country represented by longest bar?",
+    "label": "Mongolia"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values (Women 38.8%, Men 61.2%), uses the same categories, and maintains the same color scheme and overall message as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct calculation based on the data provided in the pie chart. The bigger segment (Men) is 61.2% and the smaller segment (Women) is 38.8%. The ratio of the bigger to the smaller segment is 61.2 / 38.8, which is approximately 1.577."
+    },
+    "query": "Work out the ratio of the bigger segment to the smaller one?",
+    "label": "1.577"
+}

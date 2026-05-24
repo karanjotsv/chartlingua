@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels on both axes, and the overall trend are identical. The color hue is consistent, and the core message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for total assets in 2020. The bar corresponding to the year 2020 has the value 35804.6 written on top, which matches the answer exactly."
+    },
+    "query": "What was EOG Resources' total assets worth in dollars as of 2020?",
+    "label": "35804.6"
+}

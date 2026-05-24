@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. It conveys the exact same information (72 news tweets on Twitter in 2009) but with significantly improved and more natural grammar."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall chart text is fairly equivalent. The title and most data labels are semantically correct, with only minor stylistic differences. However, the key data label 'Controversial' has been changed to 'Conversational', which is a significant semantic error that alters the meaning of a major category."
+    },
+    "claim": "72 number of content of news tweets on twitter in 2009.",
+    "translated_claim": "2009 में ट्विटर पर समाचार सामग्री वाले ट्वीट्स की संख्या 72 थी।"
+}

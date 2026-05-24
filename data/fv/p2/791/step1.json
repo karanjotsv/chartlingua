@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data points, categories, labels, and color associations from the original. The core message about political disagreement on climate change is perfectly preserved. Minor stylistic differences, like the legend format and the bar style, do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement regarding climate change across different countries. It contains no information about electricity generation sources, natural gas, nuclear power, or the state of Pennsylvania."
+    },
+    "claim": " Natural gas is the primary source of electricity generation in Pennsylvania after nuclear source.",
+    "label": "TRUE"
+}

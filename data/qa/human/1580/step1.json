@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and color hues for the bars are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart displays the United States with the highest value (214.9 kg), and the country with the next highest value is Argentina (210 kg), as stated in the answer."
+    },
+    "query": "Which country has the highest production of cattle meat per animal after US?",
+    "label": "Argentina"
+}

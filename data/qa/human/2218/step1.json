@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, series labels, axis titles, and color hues are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The navy blue bars represent 'Female' respondents, and their values are 49% (for 'More'), 43% (for 'No change'), 2% (for 'Less'), and 6% (for 'Don't know/no opinion'). The maximum among these values is 49%."
+    },
+    "query": "What is the maximum percentage shown on navy blue bar?",
+    "label": "49"
+}

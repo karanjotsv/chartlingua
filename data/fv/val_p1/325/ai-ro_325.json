@@ -1,0 +1,35 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Ușurință în utilizare",
+            "value": 50
+        },
+        {
+            "category": "Sugestie",
+            "value": 19
+        },
+        {
+            "category": "Încercare",
+            "value": 6
+        },
+        {
+            "category": "Utilizat anterior",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": "Justificarea utilizării instrumentului",
+        "subtitle": null,
+        "x_axis_title": "Motivul utilizării",
+        "y_axis_title": "Procentul de utilizatori",
+        "source": null,
+        "notes": null
+    },
+    "colors": [
+        "#FDBB0B",
+        "#00A9E0",
+        "#00A9E0",
+        "#00A9E0"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the chart type (faceted stacked bar chart), all data values and proportions, axis labels, facet labels, and legend categories. The color hues (green for 'useful', red for 'useless') are consistent, preserving the overall message and trends of the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "In the '1X' chart, the proportion of 'suggestion useful' (green part of the 'suggestion' bar) is approximately 0.32, and the proportion of 'question useful' (green part of the 'question' bar) is approximately 0.13. Their difference is about 0.19. The proportion of 'irrelevant useless' (red part of the 'irrelevant' bar) is approximately 0.38. Since 0.19 is not bigger than 0.38, the claim is refuted."
+    },
+    "claim": "The difference between suggestion useful and question useful is bigger than irrelevant useless in graph of group 1X.",
+    "label": "FALSE"
+}

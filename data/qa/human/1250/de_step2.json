@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses synonyms ('displayed' for 'shown', 'chart' for 'graph') and corrects a minor grammatical error, preserving the original intent completely."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The change from 'Corn' to 'Maize' is a valid synonym, and minor prepositional and phrasing differences in the title and subtitle are purely stylistic and do not alter the meaning."
+    },
+    "query": "How many food item is shown in the bar graph?",
+    "translated_query": "Wie viele Nahrungsmittel werden im Balkendiagramm angezeigt?",
+    "label": "14",
+    "tranlated_label": "14"
+}

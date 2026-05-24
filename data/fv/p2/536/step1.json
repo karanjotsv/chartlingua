@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, titles, and color hues are identical. The overall message and proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not provide a legend or labels to identify the occupations represented by each slice of the pie chart. Therefore, it is impossible to determine the number of construction workers from the given information."
+    },
+    "claim": "There were a large number of construction workers in Pass, Alaska.",
+    "label": "FALSE"
+}

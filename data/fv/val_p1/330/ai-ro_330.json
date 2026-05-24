@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "2 până la 3 ore",
+            "value": 13,
+            "display_text": "2 până la 3<br>ore,<br>13%"
+        },
+        {
+            "category": "3 până la 5 ore",
+            "value": 43,
+            "display_text": "3 până la 5<br>ore,<br>43%"
+        },
+        {
+            "category": "5 până la 8 ore",
+            "value": 35,
+            "display_text": "5 până la 8<br>ore,<br>35%"
+        },
+        {
+            "category": "Mai mult de 8 ore",
+            "value": 9,
+            "display_text": "Mai mult<br>de 8<br>ore,<br>9%"
+        }
+    ],
+    "texts": {
+        "title": "Edit-a-thons<br><b>Durata evenimentelor</b>",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#636363",
+        "#46a87e",
+        "#00729f",
+        "#b3200b"
+    ]
+}

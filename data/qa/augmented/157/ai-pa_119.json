@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ],
+        "series": [
+            {
+                "name": "ਮਰਦ",
+                "data": [
+                    546262,
+                    584343,
+                    633403,
+                    681162,
+                    716883
+                ]
+            },
+            {
+                "name": "ਔਰਤਾਂ",
+                "data": [
+                    824146,
+                    871345,
+                    930389,
+                    990372,
+                    1036609
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਵਿਅਕਤੀਆਂ ਦੀ ਗਿਣਤੀ",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2196f3",
+        "#0d273f"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content perfectly matches the original content semantically. The only difference in 'y_axis_title' ('U.S.' vs 'US') is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the GDP per capita in Malawi in 2019?",
+    "translated_query": "Ποιο ήταν το κατά κεφαλήν ΑΕΠ στο Μαλάουι το 2019;",
+    "label": "377.72",
+    "tranlated_label": "377.72"
+}

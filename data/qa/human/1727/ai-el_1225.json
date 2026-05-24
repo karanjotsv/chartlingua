@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Donald Trump",
+            "values": [
+                27,
+                70,
+                4
+            ]
+        },
+        {
+            "category": "Vladimir Putin",
+            "values": [
+                30,
+                62,
+                5
+            ]
+        },
+        {
+            "category": "Xi Jinping",
+            "values": [
+                34,
+                56,
+                15
+            ]
+        },
+        {
+            "category": "Emmanuel Macron",
+            "values": [
+                46,
+                34,
+                12
+            ]
+        },
+        {
+            "category": "Angela Merkel",
+            "values": [
+                52,
+                31,
+                11
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>Οι Merkel και Macron αντιμετωπίζονται με περισσότερη<br>εμπιστοσύνη διεθνώς από τους Xi, Putin<br>ή Trump</b>",
+        "subtitle": "<i>Εμπιστοσύνη στον ___ να κάνει το σωστό όσον αφορά τις παγκόσμιες<br>υποθέσεις</i>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Σημείωση: Τα ποσοστά είναι διάμεσοι βάσει 25 χωρών.<br>Πηγή: Spring 2018 Global Attitudes Survey. Q35a-e.<br><b>PEW RESEARCH CENTER</b>",
+        "legend_labels": [
+            "Εμπιστοσύνη",
+            "Καμία εμπιστοσύνη",
+            "Δεν γνωρίζω"
+        ]
+    },
+    "colors": [
+        "#8c9646",
+        "#006c9c",
+        "#d9d6ce"
+    ]
+}

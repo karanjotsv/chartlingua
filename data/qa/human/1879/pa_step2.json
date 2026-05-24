@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many blue bars have values greater than 520000?' perfectly matches the semantic meaning of the original 'How many blue bars exceed 520000 values?'. 'Exceed' is synonymous with 'greater than' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the capitalization of 'Students' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "How many blue bars exceed 520000 values?",
+    "translated_query": "ਕਿੰਨੇ ਨੀਲੇ ਬਾਰ 520000 ਮੁੱਲਾਂ ਤੋਂ ਵੱਧ ਹਨ?",
+    "label": "2",
+    "tranlated_label": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. 'Total' and 'sum' are equivalent here, as are 'Awards Event' and 'Award Ceremony'. The change from 'equal with' to 'equal to' is a minor grammatical refinement that doesn't alter the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated title ('EXPENSE ANALYSIS') is a good semantic match for the original ('EXPENDITURE ANALYSIS'). Most labels maintain their core meaning with minor acceptable variations (e.g., 'Awards Event' to 'Award Ceremony', 'Bill' to 'Account'). However, a critical error exists in 'Bill 3' where 'Upload' is incorrectly translated to 'Download', which is a direct semantic contradiction for a key detail within that data point."
+    },
+    "claim": "The total of WLM Launch and P&Gs is equal with Awards Event.",
+    "translated_claim": "Сумма WLM Запуск и P&Gs равна Церемонии награждения."
+}

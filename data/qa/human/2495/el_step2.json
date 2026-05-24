@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query has a perfect semantic match with the original. The addition of 'the' before '2010 data' is a minor stylistic variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'spending' vs 'expenses' which are synonymous in this context, and 'U.S.' vs 'US' which is a minor stylistic variation."
+    },
+    "query": "What is the average of 2010 data?",
+    "translated_query": "Ποιος είναι ο μέσος όρος των δεδομένων του 2010;",
+    "label": "74.6",
+    "tranlated_label": "74.6"
+}

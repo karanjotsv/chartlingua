@@ -1,0 +1,77 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Democrats &<br>Republicans",
+            "Rich & poor people",
+            "Black & white people",
+            "Young &<br>older people",
+            "People in cities &<br>people in rural areas"
+        ],
+        "series": [
+            {
+                "name": "Very strong",
+                "data": [
+                    71,
+                    31,
+                    19,
+                    14,
+                    15
+                ]
+            },
+            {
+                "name": "Strong",
+                "data": [
+                    20,
+                    28,
+                    34,
+                    27,
+                    25
+                ]
+            },
+            {
+                "name": "Not very strong",
+                "data": [
+                    5,
+                    27,
+                    34,
+                    41,
+                    35
+                ]
+            },
+            {
+                "name": "No conflicts",
+                "data": [
+                    4,
+                    11,
+                    10,
+                    16,
+                    20
+                ]
+            },
+            {
+                "name": "Not shown",
+                "data": [
+                    0,
+                    3,
+                    3,
+                    2,
+                    5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "U.S. public sees stronger conflict<br>between partisans than other groups",
+        "subtitle": "% who say that <i>conflicts between ____ are ...</i>",
+        "source": "Source: Survey of U.S. adults conducted Jan. 8-13, 2020.",
+        "credit": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#B58E38",
+        "#DDC182",
+        "#D1CDB9",
+        "#EAE8E1",
+        "#FFFFFF"
+    ]
+}

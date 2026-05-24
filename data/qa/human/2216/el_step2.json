@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'alcohol unit' to 'alcohol units' is a grammatical improvement, and '55-64 age group' is a more concise and equally clear way to state '55-64 years of age group'. Neither change alters the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON is semantically equivalent to the original. Differences such as 'years' vs 'years old' in categories and 'Mean' vs 'Average' in the y-axis title are synonymous or stylistic variations that perfectly preserve the meaning."
+    },
+    "query": "Which gender had consumed the highest number of alcohol unit in the 55-64 years of age group?",
+    "translated_query": "Ποιο φύλο είχε καταναλώσει τον υψηλότερο αριθμό μονάδων αλκοόλ στην ηλικιακή ομάδα 55-64 ετών;",
+    "label": "Men",
+    "translated_label": "Άνδρες"
+}

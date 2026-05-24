@@ -1,0 +1,46 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Production",
+            "x": [
+                "1999",
+                "2000",
+                "2005",
+                "2010",
+                "2015",
+                "2020*",
+                "2025*",
+                "2030*",
+                "2035*",
+                "2040*",
+                "2045*",
+                "2050*"
+            ],
+            "y": [
+                1.73,
+                1.77,
+                1.97,
+                6.16,
+                13.64,
+                23.16,
+                27.23,
+                29.4,
+                30.08,
+                31.4,
+                32.54,
+                33.94
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Production in trillion cubic feet",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2f79c4"
+    ]
+}

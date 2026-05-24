@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, the chart title, data source text, and color hues are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the vast majority of the population identifies with a Christian denomination. Summing the percentages for Catholic (36%), Anglican (25%), United Church (15%), Pentecostal (7%), and Other Christian (10%) results in a total of 93%, which clearly supports the claim that Christianity is the most widely practiced religion."
+    },
+    "claim": "Christianity is the wide practiced religion in Newfoundland and Labrador.",
+    "label": true
+}

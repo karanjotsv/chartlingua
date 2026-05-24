@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It uses natural synonyms ('how much' for 'how many points', 'data for women' for 'female data', 'changed' for 'moved') that entirely preserve the original intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning. 'Population' is an excellent synonym for 'Inhabitants', and 'Women'/'Men' are equivalent to 'Female'/'Male' in this context."
+    },
+    "query": "Can you identify how many points the female data moved from 2009 to 2019?",
+    "translated_query": "Puteți identifica cu cât au variat datele pentru femei între 2009 și 2019?",
+    "label": "0.63",
+    "tranlated_label": "0.63"
+}

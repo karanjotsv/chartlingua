@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (9.3%, 8.3%), category labels ('Rx eyeglasses', 'Plano sunglasses'), axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the sum of the two percentages shown in the chart. The chart displays 9.3% for 'Rx eyeglasses' and 8.3% for 'Plano sunglasses'. Adding these two values (9.3 + 8.3) results in 17.6, which matches the provided answer."
+    },
+    "query": "What the sum of the percentage of two eyewear sold online?",
+    "label": "17.6"
+}

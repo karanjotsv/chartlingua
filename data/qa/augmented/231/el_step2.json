@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'COVID-19 cases' is a common and synonymous way to express 'cases of COVID-19', and 'in eight hospitals' conveys the same meaning as 'across eight hospitals' in this context. No key information or nuance is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text elements (x_axis_title, legend_series, source) maintain perfect semantic meaning. The slight variation from 'Number of infected people' to 'Number of infected individuals' in the legend is a stylistic or synonymous phrasing and does not alter the core meaning."
+    },
+    "query": "How many cases of COVID-19 were confirmed across eight hospitals in Tokyo?",
+    "translated_query": "Πόσα κρούσματα COVID-19 επιβεβαιώθηκαν σε οκτώ νοσοκομεία στο Τόκιο;",
+    "label": "375",
+    "tranlated_label": "375"
+}

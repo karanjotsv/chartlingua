@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is mostly consistent in text, axes, and most data series. However, there is a significant data discrepancy in the 'Lund ♀' series. In the original, this line is a gentle curve ending near 160, while in the rendered image, it's a more pronounced curve that drops sharply to below 150. This alters the comparison of that specific formula relative to the others, especially for older ages.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays multiple lines, each representing a different formula for calculating maximum heart rate. All of these lines show a clear downward trend from left to right, indicating that as age (x-axis) increases, the maximum heart rate (y-axis) decreases."
+    },
+    "claim": "According to the chart chow that the Maximum heart rate decreases with age.",
+    "label": true
+}

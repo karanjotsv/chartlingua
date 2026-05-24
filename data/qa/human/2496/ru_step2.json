@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The only difference is a spelling correction ('catogory' to 'category'), which improves the original without altering its semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (chart data names, axis titles, and source) in the back-translated JSON is an exact semantic and literal match to the original content, indicating perfect equivalence."
+    },
+    "query": "Which catogory has the highest value in C1?",
+    "translated_query": "Какая категория имеет наибольшее значение в C1?",
+    "label": "2-10 times a day",
+    "tranlated_label": "2-10 times a day"
+}

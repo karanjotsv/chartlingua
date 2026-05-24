@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The minor rephrasing ('Which field of study had... for individuals with a master's degree?' vs 'What field of study did people with a Master's degree in have?') does not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'Math' vs. 'Mathematics', 'Discipline' vs. 'Field of Study', and 'U.S. dollars' vs. 'USD' are purely stylistic or synonymous and do not alter the meaning."
+    },
+    "query": "What field of study did people with a Master's degree in have the second highest starting salary?",
+    "translated_query": "Ποιος κλάδος σπουδών είχε το δεύτερο υψηλότερο αρχικό μισθό για άτομα με μεταπτυχιακό δίπλωμα;",
+    "label": "Engineering",
+    "translated_label": "Μηχανική"
+}

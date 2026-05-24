@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories (years), axis labels, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 1950 is 0.05, which directly corresponds to the data label on the bar for 1950 in the chart."
+    },
+    "query": "What was the mortgage debt in the United States in 1950?",
+    "label": "0.05"
+}

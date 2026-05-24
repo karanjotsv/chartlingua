@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly identifies the two largest categories ('Prairie' and 'Oak - Hickory Savanna') and maintains the correct color hues and labels. However, the proportions of all the smaller slices are significantly different from the original, which distorts the data representation for those categories. For example, the blue slice ('Water / Wet Soils') is much larger in the rendered chart than in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the combined value of the dark yellow ('Prairie') and light yellow ('Prairie poorly drained') slices is equal to the combined value of the red ('Mixed Hardwoods - Prairie') and pink ('Mixed Hardwoods - Prairie poorly drained') slices. Visually, the dark yellow slice alone is substantially larger than 50% of the entire chart, while the combined red and pink slices represent a much smaller portion. Therefore, the total area of the yellow slices is significantly greater than the total area of the pink and red slices, refuting the claim of equality."
+    },
+    "claim": "The value of the dark and light yellow is equal to the value of the dark and light pink.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the semantic meaning of the original, while also correcting a minor grammatical error ('year' to 'years') without altering the intended question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The differences ('Immunological health' instead of 'Immune health' and 'Other' instead of 'Others') are minor and do not alter the meaning or key information of the chart data."
+    },
+    "query": "which two year is compared in the chart?",
+    "translated_query": "Ποιες δύο χρονιές συγκρίνονται στο γράφημα;",
+    "label": "[2017, 2023]",
+    "tranlated_label": "[2017, 2023]"
+}

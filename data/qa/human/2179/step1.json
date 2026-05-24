@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color assignments are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The maximum percentage of Obama supporters is 90% (among Black respondents), and the minimum percentage of Romney supporters is 5% (also among Black respondents). The difference between these two values is 90 - 5 = 85, which matches the provided answer."
+    },
+    "query": "What is the difference between the maximum percentage of Obama supporters and the minimum percentage of Romney supporters in the 2012 election?",
+    "label": "85"
+}

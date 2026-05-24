@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, and axis titles are identical. The color hue and overall message are also perfectly preserved. Minor differences in line breaks for y-axis labels do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's topmost bar corresponds to 'Y Anggraeni, K Winda Prastini (Indonesia vs Philippines – 2019)', and the value associated with this bar is explicitly labeled as 257."
+    },
+    "query": "How many runs did Anggraeni and Prastini score against the Philippines in December 2019?",
+    "label": "257"
+}

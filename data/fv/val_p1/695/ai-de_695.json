@@ -1,0 +1,80 @@
+{
+    "chart_type": "3d_grouped_bar",
+    "chart_data": {
+        "categories": [
+            "GWP",
+            "CO2",
+            "CH4",
+            "N20",
+            "CFCs"
+        ],
+        "series": [
+            {
+                "name": "Wiederaufbereitung",
+                "data": [
+                    2,
+                    5,
+                    5,
+                    10,
+                    2
+                ]
+            },
+            {
+                "name": "Herstellung",
+                "data": [
+                    5,
+                    360,
+                    340,
+                    15,
+                    50
+                ]
+            },
+            {
+                "name": "Produktverpackung/Transport",
+                "data": [
+                    5,
+                    100,
+                    90,
+                    10,
+                    5
+                ]
+            },
+            {
+                "name": "Produktnutzung",
+                "data": [
+                    5,
+                    230,
+                    220,
+                    10,
+                    5
+                ]
+            },
+            {
+                "name": "Entsorgung",
+                "data": [
+                    75,
+                    40,
+                    15,
+                    10,
+                    5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Treibhausgase",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "MTCO2E",
+        "z_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#9DF9F6",
+        "#8492E9",
+        "#FBFBBE",
+        "#A62B45",
+        "#5D005D"
+    ]
+}

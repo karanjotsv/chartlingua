@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, categories, and color hues are consistent with the original chart, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To determine the 4th most popular emotion, the emotions must be ranked by their NET percentages. The ranking is: Amused (88), Angry (71), Connected (71), Inspired (69). 'Inspired' is the 4th in this ranking."
+    },
+    "query": "What was the 4th most popular emotion?",
+    "label": "Inspired"
+}

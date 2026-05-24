@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query captures the core meaning but changes the request from singular ('leader') to plural ('leaders'). This slightly alters the scope of the question, but the primary intent remains clear."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is a perfect semantic match to the original. The only difference is a minor capitalization change in the x-axis title ('Points scored' vs. 'Points Scored'), which has no impact on the meaning."
+    },
+    "query": "Who is the career points leader of the Phoenix Suns?",
+    "translated_query": "फीनिक्स सन्स के करियर पॉइंट्स लीडर कौन हैं?",
+    "label": "Walter Davis",
+    "translated_label": "वॉल्टर डेविस"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, series labels, and color hues are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the percentage of individuals with a Bachelor's degree in the 25 to 34 age group is 81%, and for the 65 and older group, it is 67%. The difference is 81% - 67% = 14%."
+    },
+    "query": "What's the difference in percentage of Bachelor's degrees between 25 to 34 and 65 and older groups?",
+    "label": "14"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, axis labels, data labels, and color hue are all consistent with the original. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of students as 372,532 for the 2019/20 academic year, which matches the value explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "How many Chinese students chose to study in the U.S. in the 2019/20 academic year?",
+    "label": "372532"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content 'The chart represents the relative size of each part of the body.' is semantically identical to the original content 'The chart represents the relative size of each body part.'. The phrasing difference ('body part' vs. 'part of the body') is purely stylistic and does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content (labels in chart_data and all fields in texts) is identical between the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "claim": "The chart represents the relative size of each body part.",
+    "translated_claim": "Το γράφημα αναπαριστά το σχετικό μέγεθος κάθε μέρους του σώματος."
+}

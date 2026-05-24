@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The chart type, title, axis labels, data categories, data values, and proportions are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that 'Violence without injury' (represented as 'Assault without injury' on the chart) is the most common offense. However, the chart's data shows that 'ABH and other injury' is the most frequent crime, with the longest bar extending to approximately 350,000 crimes, while 'Assault without injury' accounts for less than 200,000."
+    },
+    "claim": "Violence without injury is the bulk common non-fatal offense against the person in England and Wales.",
+    "label": "TRUE"
+}

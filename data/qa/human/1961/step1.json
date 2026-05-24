@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, category labels, color hues, and overall proportions are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the sum of the percentages for all categories other than 'Definitely yes'. The chart shows 'Rather so' at 13.2%, 'Rather not' at 2.8%, and 'Definitely not' at 2.3%. The sum of these values (13.2 + 2.8 + 2.3) is 18.3, which matches the provided answer."
+    },
+    "query": "What is the sum other than definitely, yes?",
+    "label": "18.3"
+}

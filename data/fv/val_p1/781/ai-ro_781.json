@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Real",
+            "value": 2.5,
+            "annotation": "R<br>E<br>A<br>L"
+        },
+        {
+            "category": "Prognozat",
+            "value": 2.6,
+            "annotation": "P<br>R<br>O<br>G<br>N<br>O<br>Z<br>A<br>T"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bar_color": "#F98D09",
+        "annotation_text_color": "#000000",
+        "grid_color": "#C0C0C0",
+        "axis_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

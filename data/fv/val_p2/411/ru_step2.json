@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The key term 'amount' in the original, likely referring to a quantitative measure (e.g., total water volume or output) from the sources, has been changed to 'number' in the back-translation, which refers to a count of discrete sources. This alteration changes the fundamental metric of comparison, distorting the query's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The change from '30th Sept 1692' to 'on September 30, 1692' is a stylistic variation in date formatting, and 'veins' to 'sources' is a synonymous phrasing in the context of water supply, neither of which alters the core meaning."
+    },
+    "claim": "The total amount of Bocca di Lupo and vigna di venere sources is higher than the mola di vigarello water source .",
+    "translated_claim": "Общее количество источников Bocca di Lupo и Vigna di Venere выше, чем источник воды Mola di Vigarello."
+}

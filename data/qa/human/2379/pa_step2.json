@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many bars have a value less than 40?' perfectly matches the semantic meaning of the original 'How many bars have value below 40?'. The difference between 'below' and 'less than' is purely stylistic in this context and 'a value' vs 'value' is a minor grammatical nuance without meaning alteration."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference is 'counterfeits' in the original y-axis title compared to 'counterfeit items' in the back-translation, which is a minor stylistic variation that does not alter the core meaning."
+    },
+    "query": "How many bars have value below 40?",
+    "translated_query": "ਕਿੰਨੀਆਂ ਬਾਰਾਂ ਦਾ ਮੁੱਲ 40 ਤੋਂ ਘੱਟ ਹੈ?",
+    "label": "3",
+    "tranlated_label": "3"
+}

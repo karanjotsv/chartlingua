@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Season' and 'period' are synonymous in this context, and the core meaning regarding the average ticket price for the specified timeframe is fully preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is 'U.S.' vs 'US' in the y-axis title, which is a minor stylistic variation and does not alter the semantic meaning. All other text content is identical."
+    },
+    "query": "What was the average ticket price in the 2006/07 season?",
+    "translated_query": "Ποια ήταν η μέση τιμή εισιτηρίου την περίοδο 2006/07;",
+    "label": "35.29",
+    "tranlated_label": "35.29"
+}

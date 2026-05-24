@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart displays 12 distinct data points, one for each year from 2009 to 2020, inclusive."
+    },
+    "query": "How many points the line chart down from 2009  to 2020 ?",
+    "label": "12"
+}

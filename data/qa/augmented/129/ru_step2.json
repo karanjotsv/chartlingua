@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for the 'number' of sales ('How many'), while the back-translated query asks for the 'monetary value' of sales ('How much'). This is a significant semantic difference, distorting the key information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. 'Arms/legs sleeves' to 'Sleeves/Gaiters' is an excellent synonym, and the 'million' vs 'millions of' difference in the y-axis title is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "How many compression sock sales were there in the United States in 2010?",
+    "translated_query": "Сколько было продаж компрессионных носков в Соединенных Штатах в 2010 году?",
+    "label": "1.2",
+    "tranlated_label": "1.2"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, category labels, titles, and color hues are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart displays data on printing methods. The claim, however, discusses 'Management occupations in False Pass Alaska in the 2000 census'. The chart contains no information about occupations, specific locations like Alaska, or census data, thus it cannot support the claim."
+    },
+    "claim": "Management occupations had the highest representation in False Pass Alaska in the 2000 census",
+    "label": "FALSE"
+}

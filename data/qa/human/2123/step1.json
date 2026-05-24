@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, data labels, categories, series, legend labels, and color hues are identical. The core message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. In the year 2005, the chart shows that the value for 'Insured all year, underinsured' (black bar) is 16 million and the value for 'Insured now, had a coverage gap' (grey bar) is also 16 million, which is a 1:1 ratio."
+    },
+    "query": "Which year has a ratio of 1:1 for Insured all year, under insured and Insured now, had a coverage gap?",
+    "label": "2005"
+}

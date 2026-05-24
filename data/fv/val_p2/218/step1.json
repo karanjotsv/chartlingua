@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent representation of the original. All data values, category labels, color associations, and the overall title are identical. The proportions of the pie slices accurately reflect the data in both charts.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the expenditure percentages for four categories. Ranking them from highest to lowest: 'Awards Event' is 53.8%, 'WLM Launch' is 19.1%, 'P&Gs' is 15.8%, and 'Provincial Upload Marathons' is 11.3%. This confirms that 'WLM Launch' at 19.1% was indeed the second largest expenditure."
+    },
+    "claim": "The second largest of expenditure in the WLM-ZA-2012 was allocated for WLM Launch.",
+    "label": "TRUE"
+}

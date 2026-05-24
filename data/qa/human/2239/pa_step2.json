@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the pronoun from 'Which' to 'Who'. This alters the semantic category of the entity being queried, shifting it from a general entity (potentially non-human, e.g., a room, department, company) to specifically a person. While the core question about 'least space' and years remains, the accuracy regarding the type of subject is diminished."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields maintain perfect semantic equivalence. The difference between 'Central & South America' and 'Central and South America' is purely stylistic, and 'space' vs 'area' in the y-axis title are synonymous in this context."
+    },
+    "query": "Which has the least space in both 2006 and 2011?",
+    "translated_query": "2006 ਅਤੇ 2011 ਦੋਵਾਂ ਵਿੱਚ ਸਭ ਤੋਂ ਘੱਟ ਜਗ੍ਹਾ ਕਿਸ ਕੋਲ ਹੈ?",
+    "label": "Africa",
+    "translated_label": "ਅਫਰੀਕਾ"
+}

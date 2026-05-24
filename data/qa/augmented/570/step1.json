@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the x and y axes, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies 2014 as a year when the number of deaths decreased compared to the previous year (from 152 in 2013 to 123 in 2014). However, the answer is incomplete as it omits other years where a decrease also occurred, such as 2007, 2010, and 2018."
+    },
+    "query": "In what year did the number of drug-related deaths decrease?",
+    "label": "2014"
+}

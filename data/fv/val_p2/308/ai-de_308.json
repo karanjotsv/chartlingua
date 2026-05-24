@@ -1,0 +1,58 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Opera",
+            "value": 4.59
+        },
+        {
+            "label": "Sonstige",
+            "value": 5.02
+        },
+        {
+            "label": "Chrome",
+            "value": 27.25
+        },
+        {
+            "label": "I.E.",
+            "value": 23.65
+        },
+        {
+            "label": "Firefox",
+            "value": 18.87
+        },
+        {
+            "label": "Safari",
+            "value": 15.87
+        },
+        {
+            "label": "Android",
+            "value": 4.75
+        }
+    ],
+    "texts": {
+        "title": "Browsernutzung auf Wikimedia<br>August 2012",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#0000FF",
+        "#FFFF00",
+        "#00FF00",
+        "#00CED1",
+        "#FF0000",
+        "#FF00FF",
+        "#008000"
+    ],
+    "pull": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.1,
+        0
+    ]
+}

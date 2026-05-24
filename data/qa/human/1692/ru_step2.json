@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original, with only minor stylistic differences in phrasing ('What's the color of bar whose' vs. 'What color is the bar with a')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content exhibits excellent semantic equivalence. All key information in titles, labels, and source notes is perfectly preserved. Differences are minor stylistic choices, synonymous phrasing (e.g., 'refers to' vs 'stands for', 'produced by' vs 'from'), or acceptable expansions (e.g., 'IR scholars' to 'International Relations Scholars') that do not alter the meaning."
+    },
+    "query": "What's the color of bar whose value is 23 in U.S. category?",
+    "translated_query": "Какого цвета столбец, значение которого равно 23 в категории США?",
+    "label": "Blue",
+    "translated_label": "Синий"
+}

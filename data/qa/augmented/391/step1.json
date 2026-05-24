@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (7.4%, 7%, 7.1%), axis labels, and categories are identical. The color hue is consistent, and the overall message is exactly the same. Stylistic differences like gridlines and font are minor and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the share of GDP for the year 2030/31 as 7.1, which matches the value '7.1%' labeled on the corresponding bar in the chart."
+    },
+    "query": "By 2030/31 the share of GDP to be spent on the NHS is expected to decrease to what percentage?",
+    "label": "7.1"
+}

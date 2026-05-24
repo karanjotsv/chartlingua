@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, proportions, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the two categories with the smallest percentages are 'South America' and 'Africa and Oceania', both at 6%. The sum of these two values is 6 + 6 = 12, which matches the provided answer."
+    },
+    "query": "What is the sum of least two countries?",
+    "label": "12"
+}

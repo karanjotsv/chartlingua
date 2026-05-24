@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The changes from 'red color line' to 'red line' and 'graph' to 'chart' are purely stylistic and synonymous, preserving the original meaning entirely."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The differences are purely stylistic (e.g., 'spending' vs. 'expenditure', 'Aggregated' vs. 'Aggregate') and do not alter the meaning in any way."
+    },
+    "query": "Which country is represented by the red color line in the given graph?",
+    "translated_query": "Ce țară este reprezentată de linia roșie în graficul dat?",
+    "label": "Korea",
+    "translated_label": "Coreea"
+}

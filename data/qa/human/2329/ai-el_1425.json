@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ],
+        "series": [
+            {
+                "name": "J. Crew**",
+                "data": [
+                    386,
+                    419,
+                    448,
+                    462,
+                    411,
+                    377,
+                    352
+                ]
+            },
+            {
+                "name": "Madewell",
+                "data": [
+                    65,
+                    85,
+                    103,
+                    113,
+                    121,
+                    129,
+                    140
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Έτος",
+        "y_axis_title": "Συνολικός αριθμός καταστημάτων",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B79C2",
+        "#1C2C39"
+    ]
+}

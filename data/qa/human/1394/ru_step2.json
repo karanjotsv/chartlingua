@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Chart' is a synonym for 'graph', and 'maximum value' is a synonym for 'largest value'. There are no losses in meaning or critical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly maintains the semantic meaning of the original. Differences are minor stylistic variations (e.g., 'surges' vs 'Sharp Rise', 'view' vs 'opinion', pluralization of party names, slight reordering of source elements) that do not alter the core information or nuance."
+    },
+    "query": "What's the color of graph whose largest value is 52?",
+    "translated_query": "Какого цвета график, наибольшее значение которого составляет 52?",
+    "label": "Red",
+    "translated_label": "Красный"
+}

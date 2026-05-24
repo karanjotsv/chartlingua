@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query maintains perfect semantic equivalence. 'Portion' vs 'part', 'graph' vs 'chart', 'editorial' vs 'editing', and 'costs' vs 'expenses' are all excellent synonyms that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated chart data categories maintain good semantic equivalence. 'Costs' was consistently changed to 'Expenses', and 'Income' to 'Revenue', which are synonymous in this context. The possessive 'Publisher's' was sometimes simplified to 'Publisher' (e.g., 'Administrative Expenses Publisher'), which is a minor stylistic difference but does not alter the core meaning. 'Editorial costs' becoming 'Editing Expenses' is also an acceptable, minor variation. Overall meaning is preserved."
+    },
+    "claim": "The largest portion of the graph is publisher's printing and editorial costs.",
+    "translated_claim": "Το μεγαλύτερο μέρος του γραφήματος είναι τα έξοδα εκτύπωσης και επιμέλειας του εκδότη."
+}

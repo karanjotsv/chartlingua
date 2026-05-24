@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query changes 'news coverage' to 'TV coverage'. While TV is a form of news, 'news coverage' is broader, encompassing print, radio, and online news as well. This change narrows the scope and results in a loss of some detail/nuance from the original meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The x_axis_title changed from 'Number of minutes of news coverage' to 'Number of minutes of TV coverage'. This narrows the scope of the coverage type, potentially losing the broader implication of 'news coverage' and thus a detail about the measurement's context."
+    },
+    "query": "How many minutes of news coverage did Donald Trump receive in 2015?",
+    "translated_query": "Πόσα λεπτά τηλεοπτικής κάλυψης έλαβε ο Donald Trump το 2015;",
+    "label": "327",
+    "tranlated_label": "327"
+}

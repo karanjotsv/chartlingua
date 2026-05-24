@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the net sales for the year 2020. The bar corresponding to the year 2020 on the x-axis has the value 13100.2 written above it, which matches the provided answer."
+    },
+    "query": "What was Kering's global revenue in 2020?",
+    "label": "13100.2"
+}

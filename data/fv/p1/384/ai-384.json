@@ -1,0 +1,87 @@
+{
+    "chart_type": "combo",
+    "chart_data": {
+        "categories": [
+            "1938",
+            "1939",
+            "1940",
+            "1941",
+            "1942",
+            "1943",
+            "1944",
+            "1945",
+            "1946",
+            "1947",
+            "1948",
+            "1949",
+            "1950",
+            "1951",
+            "1952",
+            "1953",
+            "1954"
+        ],
+        "series": [
+            {
+                "name": "Wickets taken",
+                "type": "bar",
+                "y": [
+                    4,
+                    8,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    51,
+                    64,
+                    27,
+                    28,
+                    21,
+                    8,
+                    19,
+                    4,
+                    7
+                ],
+                "yaxis": "y1"
+            },
+            {
+                "name": "Bowling average",
+                "type": "scatter",
+                "y": [
+                    59.0,
+                    22.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    28.0,
+                    43.0,
+                    41.0,
+                    32.0,
+                    43.5,
+                    38.5,
+                    37.5,
+                    56.0,
+                    44.0
+                ],
+                "yaxis": "y2"
+            }
+        ]
+    },
+    "texts": {
+        "title": "Bowling stats per season for Frank Vigar",
+        "subtitle": "Wickets taken and bowling average",
+        "x_axis_title": "Season",
+        "y_axis_title": "Wickets taken",
+        "y2_axis_title": "Bowling average",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#993366",
+        "#000000"
+    ]
+}

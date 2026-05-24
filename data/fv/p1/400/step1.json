@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data with identical categories, proportions, and color hues. The title and all labels are also identical. The different starting angle and ordering of slices are stylistic and do not change the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the sources of greenhouse gases in Turkey for the year 2018. The claim discusses a trend in GHG emissions for 'Annex I Parties' between 1990 and 2014. The chart provides no information about 'Annex I Parties' or the years 1990 and 2014."
+    },
+    "claim": "The total GHG emissions of Annex I Parties reduced between 1990 and 2014.",
+    "label": true
+}

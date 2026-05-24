@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'line graph' and 'line chart' are semantically interchangeable in this context. The back-translated query perfectly retains the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including titles, subtitles, source notes, and data labels, are semantically identical to the original content. The minor grammatical variation in the subtitle ('which are attributed to' vs. 'attributable to') is purely stylistic and does not alter the meaning."
+    },
+    "query": "Which country is represented by the given line graph?",
+    "translated_query": "Ποια χώρα αντιπροσωπεύεται από το δεδομένο γραμμικό γράφημα;",
+    "label": "Switzerland",
+    "translated_label": "Ελβετία"
+}

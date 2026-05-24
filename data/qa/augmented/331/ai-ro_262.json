@@ -1,0 +1,49 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "0-14",
+            "y": [
+                520.67,
+                545.44
+            ]
+        },
+        {
+            "name": "15-64",
+            "y": [
+                1723.86,
+                1732.02
+            ]
+        },
+        {
+            "name": "65+",
+            "y": [
+                255.67,
+                221.77
+            ]
+        }
+    ],
+    "x_categories": [
+        "Femei",
+        "Bărbați"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Numărul de locuitori în mii",
+        "source": "© Statista 2021"
+    },
+    "colors": {
+        "bar_colors": [
+            "#2772db",
+            "#0e2b4c",
+            "#bdbdbd"
+        ],
+        "text_font_colors": [
+            "#000000",
+            "#FFFFFF",
+            "#000000"
+        ]
+    }
+}

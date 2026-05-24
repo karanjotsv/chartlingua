@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation replaces the general term 'value' with the more specific term 'price'. While 'value' can often refer to 'price' in certain contexts, 'value' is a broader concept that could represent any numerical quantity, thus the back-translated query loses some generality and potential nuance of the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text ('Rendered services' vs. 'Services provided') is a minor stylistic variation that perfectly preserves the original meaning. All other translatable texts are identical."
+    },
+    "query": "What is the median value?",
+    "translated_query": "Ποια είναι η διάμεση τιμή;",
+    "label": "17",
+    "tranlated_label": "17"
+}

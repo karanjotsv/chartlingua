@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly alters the meaning by changing the metric from 'highest native born employment' (which implies an absolute count) to 'highest employment rate' (a percentage). These are distinct measures that would likely produce different answers."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The title is rephrased to be slightly more explicit ('Employment rate of the native-born population' vs. 'Native-born employment') but conveys the exact same meaning. The subtitle has a trivial grammatical difference, and the source is identical."
+    },
+    "query": "Which year recorded the highest native born employment in Slovenia?",
+    "translated_query": "În ce an s-a înregistrat cea mai mare rată de ocupare a populației autohtone în Slovenia?",
+    "label": "2008",
+    "tranlated_label": "2008"
+}

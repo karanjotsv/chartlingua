@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. 'GITMO' is a well-known acronym for Guantanamo, and the slight change in preposition ('in' vs 'at') does not alter the semantic meaning of the location or the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most chart data categories match semantically with only minor stylistic differences (e.g., 'Lithographic' vs 'Lithography'). The main title conveys the same question, but the subject 'Chapter' was changed to 'Department', which is a minor semantic alteration of the organizational unit."
+    },
+    "claim": "The chart shows the number of detainees in GITMO in 2015.",
+    "translated_claim": "Το γράφημα δείχνει τον αριθμό των κρατουμένων στο Γκουαντάναμο το 2015."
+}

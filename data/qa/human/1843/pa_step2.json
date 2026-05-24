@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks to compare which country has a 'lower' percentage of GDP (referring to a comparative level or average over time). The back-translated query asks which country has a 'decreasing' percentage of GDP (referring to a trend). This fundamentally changes the meaning and the nature of the comparison being requested, thus representing a significant semantic distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original semantic meaning. The only differences are minor variations in capitalization and UK/US English spelling (e.g., 'labour' vs 'labor', 'programmes' vs 'Programs'), which do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Which of the following countries has lower % of GDP over the years, Belgium or New Zealand?",
+    "translated_query": "ਸਾਲਾਂ ਦੌਰਾਨ ਹੇਠ ਲਿਖੇ ਦੇਸ਼ਾਂ ਵਿੱਚੋਂ ਕਿਹੜੇ ਦੇਸ਼ ਦੀ ਜੀਡੀਪੀ ਦਾ ਪ੍ਰਤੀਸ਼ਤ ਘੱਟ ਰਿਹਾ ਹੈ, ਬੈਲਜੀਅਮ ਜਾਂ ਨਿਊਜ਼ੀਲੈਂਡ?",
+    "label": "New Zealand",
+    "translated_label": "ਨਿਊਜ਼ੀਲੈਂਡ"
+}

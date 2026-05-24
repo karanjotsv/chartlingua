@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Not safe",
+            "value": 76
+        },
+        {
+            "label": "Safe",
+            "value": 19
+        },
+        {
+            "label": "DK",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "Most Think Food Near<br>Fukushima Not Safe",
+        "subtitle": null,
+        "source": "<b>PEW RESEARCH CENTER</b> Q112.",
+        "note": "\"Do you think foods produced near<br>the Fukushima Daiichi nuclear plant<br>are safe from radioactive<br>contamination or not safe?\""
+    },
+    "colors": {
+        "slices": [
+            "#F3C78B",
+            "#6A4F13",
+            "#E69A3A"
+        ],
+        "slice_text": [
+            "#000000",
+            "#FFFFFF",
+            "#000000"
+        ],
+        "title": "#2D649F"
+    }
+}

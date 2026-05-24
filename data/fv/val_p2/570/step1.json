@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data points, labels, text content, color hues, and the overall trend are accurately reproduced. The minor stylistic differences do not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the UK's debt percentage increased from 97 in 2014 to 99 in 2015. The claim incorrectly states that the debt decreased by 20%."
+    },
+    "claim": "At 2015, the UK country debt decreased by 20%.",
+    "label": "FALSE"
+}

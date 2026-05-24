@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, and labels are identical. The color hues for each category are also consistent (e.g., Firefox is orange, others are shades of blue). The primary difference is the stylistic choice to 'explode' the Mozilla Firefox slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Chrome users are the most numerous. However, the pie chart indicates that Internet Explorer has the largest share at 29.05%, while Google Chrome has a smaller share of 23.22%. Additionally, the chart does not provide any information about Wikimedia access."
+    },
+    "claim": "Chrome users access Wikimedia the most.",
+    "label": "FALSE"
+}

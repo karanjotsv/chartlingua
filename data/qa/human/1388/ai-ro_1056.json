@@ -1,0 +1,88 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Mulțumiți",
+            "x": [
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2016,
+                2018
+            ],
+            "y": [
+                20,
+                27,
+                26,
+                23,
+                32,
+                36,
+                54,
+                27,
+                34,
+                32,
+                45,
+                37,
+                56,
+                58,
+                57
+            ]
+        },
+        {
+            "name": "Nemulțumiți",
+            "x": [
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2016,
+                2018
+            ],
+            "y": [
+                71,
+                64,
+                69,
+                71,
+                62,
+                56,
+                43,
+                65,
+                59,
+                60,
+                46,
+                57,
+                36,
+                37,
+                40
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>Începând cu 2014, majoritatea rușilor au fost mulțumiți de<br>direcția în care se îndreaptă țara lor</b>",
+        "subtitle": "<i>În general, sunteți ___ de modul în care merg lucrurile în țara noastră astăzi?</i>",
+        "source": "Sursă: Spring 2018 Global Attitudes Survey. Q1.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#949938",
+        "#2373a3"
+    ]
+}

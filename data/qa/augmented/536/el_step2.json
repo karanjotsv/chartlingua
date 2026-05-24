@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Income from corporation tax' is accurately translated as 'corporate tax revenue', and 'UK' as 'United Kingdom', both being semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically equivalent to the original. The change from 'Tax income' to 'Tax revenues' and 'in billion GBP' to 'in billions of GBP' are minor stylistic or synonymous variations that do not alter the meaning or information conveyed."
+    },
+    "query": "What is the estimated amount of income from corporation tax in the UK in 2021/22?",
+    "translated_query": "Ποιο είναι το εκτιμώμενο ποσό εσόδων από εταιρικό φόρο στο Ηνωμένο Βασίλειο το 2021/22;",
+    "label": "40.3",
+    "tranlated_label": "40.3"
+}

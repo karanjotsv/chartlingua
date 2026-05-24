@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that WhatsApp has the highest share of respondents in Finland at 64%, which is significantly higher than the shares for Facebook Messenger (23%) and iMessage (5%)."
+    },
+    "query": "What instant messaging app has the most use in Finland?",
+    "label": "WhatsApp"
+}

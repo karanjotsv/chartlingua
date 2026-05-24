@@ -1,0 +1,38 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Τομέας αγαθών",
+            "x": [
+                "2020",
+                "2021"
+            ],
+            "y": [
+                -4.7,
+                4.5
+            ]
+        },
+        {
+            "name": "Τομέας υπηρεσιών",
+            "x": [
+                "2020",
+                "2021"
+            ],
+            "y": [
+                -4.0,
+                3.6
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Μεταβολή στην παραγωγή",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2875D5",
+        "#112E40"
+    ]
+}

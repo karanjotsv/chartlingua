@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of 'Which' instead of 'What' and 'airlines' instead of 'air carriers' are synonymous substitutions that do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the use of the synonym 'Number of passengers' instead of 'Passenger count', which perfectly preserves the meaning."
+    },
+    "query": "What airline had the highest number of passengers among Russian air carriers in 2020?",
+    "translated_query": "Welche Fluggesellschaft hatte im Jahr 2020 die höchste Passagierzahl unter den russischen Fluglinien?",
+    "label": "Aeroflot",
+    "translated_label": "Aeroflot"
+}

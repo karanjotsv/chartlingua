@@ -1,0 +1,97 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Akademische Berufe",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Haushaltsdienste und...",
+            "values": [
+                3,
+                11
+            ]
+        },
+        {
+            "category": "Personenbeförderung,...",
+            "values": [
+                2,
+                0
+            ]
+        },
+        {
+            "category": "Landwirtschaft",
+            "values": [
+                65,
+                0
+            ]
+        },
+        {
+            "category": "Arbeit mit Tieren",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Handel mit Häusern",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Verpflegung und Unterkunft",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Bekleidung",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Mineralische Stoffe",
+            "values": [
+                2,
+                0
+            ]
+        },
+        {
+            "category": "Unspezifiziert",
+            "values": [
+                1,
+                18
+            ]
+        },
+        {
+            "category": "Beruf unbekannt",
+            "values": [
+                0,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Berufsbezeichnung",
+        "y_axis_title": "Anzahl der Personen",
+        "legend_labels": [
+            "Männlich",
+            "Weiblich"
+        ],
+        "source": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31"
+    ]
+}

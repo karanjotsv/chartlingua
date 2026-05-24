@@ -1,0 +1,34 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Ασιάτες",
+            "value": 63
+        },
+        {
+            "category": "Λευκοί",
+            "value": 41
+        },
+        {
+            "category": "Μαύροι",
+            "value": 22
+        },
+        {
+            "category": "Ισπανόφωνοι",
+            "value": 15
+        }
+    ],
+    "texts": {
+        "title": "Ολοκλήρωση κολλεγίου ανά<br>φυλή και εθνικότητα",
+        "subtitle": "% ηλικίες 25-29 με πτυχίο<br>ή περισσότερο, 2014",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Σημείωση: Οι λευκοί, οι μαύροι και οι Ασιάτες<br>περιλαμβάνουν μόνο μη-Ισπανόφωνους. Οι Ισπανόφωνοι<br>είναι οποιασδήποτε φυλής.<br>Πηγή: Pew Research Center<br>ταξινομήσεις της Έρευνας<br>Πληθυσμού Μαρτίου (IPUMS).<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#a65628",
+        "#ef972c",
+        "#b89531",
+        "#827d53"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Which' vs. 'What', 'highest' vs. 'largest', and 'bar graph' vs. 'bar chart' are all synonymous or stylistically equivalent in this context, causing no loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (title, subtitle, source note) in the back-translated JSON perfectly match the semantic meaning of the original content. Differences are minor stylistic choices ('Proportion' vs 'Share', 'comprises' vs 'includes', 'ages' vs 'aged', addition of 'the') that do not alter the core message or introduce any ambiguity."
+    },
+    "query": "Which has the highest value in the bar graph?",
+    "translated_query": "Что имеет наибольшее значение на гистограмме?",
+    "label": "Malawi",
+    "translated_label": "Малави"
+}

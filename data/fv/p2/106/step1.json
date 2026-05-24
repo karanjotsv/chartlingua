@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "According to the pie chart, the Catholic population is 24% and the Muslim population is 3%. The average of these two is (24 + 3) / 2 = 13.5%. The Anglican population is shown as 4%. Since 13.5% is greater than 4%, the claim is supported by the chart."
+    },
+    "claim": "The average of Catholic and Muslim population is more than the population of Anglican. ",
+    "label": "TRUE"
+}

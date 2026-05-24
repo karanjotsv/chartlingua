@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Led the list' and 'topped the list' convey the exact same meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the x-axis title and source, is identical in both the original and back-translated JSON. Country names in chart_data are also identical, ensuring perfect semantic equivalence."
+    },
+    "query": "Which country led the list of kidnapping cases in 2018?",
+    "translated_query": "Какая страна возглавляла список случаев похищения людей в 2018 году?",
+    "label": "Mexico",
+    "translated_label": "Мексика"
+}

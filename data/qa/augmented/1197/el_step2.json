@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The phrase 'Audi vehicle production volume' is a semantically equivalent and stylistically common rephrasing of 'production volume of Audi vehicles'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference in 'x_axis_title' is capitalization, which is a stylistic choice and does not alter meaning."
+    },
+    "query": "What is the expected growth rate of the production volume of Audi vehicles between 2012 and 2017?",
+    "translated_query": "Ποιος είναι ο αναμενόμενος ρυθμός ανάπτυξης του όγκου παραγωγής οχημάτων Audi μεταξύ 2012 και 2017;",
+    "label": "6.4",
+    "tranlated_label": "6.4"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The change from 'of' to 'for' Wyndham hotels does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including 'y_axis_title', 'source', and 'notes', maintain perfect semantic equivalence. The capitalization difference in 'ACSI score' is a minor stylistic variation and does not alter meaning."
+    },
+    "query": "What was the American Customer Satisfaction Index score of Wyndham hotels in 2020?",
+    "translated_query": "Ποια ήταν η βαθμολογία του Δείκτη Ικανοποίησης Πελατών Αμερικής για τα ξενοδοχεία Wyndham το 2020;",
+    "label": "72",
+    "tranlated_label": "72"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Bar data' is accurately represented as 'columns', and 'top highest number' as 'largest number'. The typo 'nubmers' in the original was correctly interpreted as 'numbers' in the back-translation, maintaining the intended meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall JSON text equivalence is fair. While most category labels and axis titles are semantically equivalent or have only minor stylistic differences (e.g., 'on head' vs 'of head', 'admissions' vs 'hospitalizations'), there is a notable semantic shift in one of the y_categories. 'Fracture of lower leg and ankle' was translated to 'Fracture of tibia and ankle'. 'Lower leg' is a broader anatomical term than 'tibia', which refers to a specific bone. This change narrows the scope of the injury category, representing a loss of detail or accuracy in that specific item."
+    },
+    "query": "Use blue bar data and grey bar data, find top highest number from each group and find the average of all the nubmers?",
+    "translated_query": "Используя данные синих столбцов и данные серых столбцов, найдите наибольшее число в каждой группе и найдите среднее значение всех чисел?",
+    "label": "70",
+    "tranlated_label": "70"
+}

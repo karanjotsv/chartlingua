@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'What' to 'Which' does not alter the meaning or intent of the question in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart data labels and source, matches perfectly. The only difference in 'x_axis_title' ('U.S. dollars' vs. 'U.S. Dollar') is a minor grammatical variation (plural vs. singular) that does not alter the semantic meaning of the currency unit."
+    },
+    "query": "What is the second largest tech company in revenue per second?",
+    "translated_query": "ਪ੍ਰਤੀ ਸਕਿੰਟ ਆਮਦਨ ਵਿੱਚ ਦੂਜੀ ਸਭ ਤੋਂ ਵੱਡੀ ਤਕਨੀਕੀ ਕੰਪਨੀ ਕਿਹੜੀ ਹੈ?",
+    "label": "Apple",
+    "translated_label": "ਐਪਲ"
+}

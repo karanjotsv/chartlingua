@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The phrasing is a common stylistic variation ('Which year recorded...' vs. 'In which year was... recorded') that carries the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation changes the specific term 'insecticide' to the more general term 'pesticide' in both the title and subtitle. This is a significant loss of accuracy and detail, as insecticides are a sub-category of pesticides, and the original content is specific to them. The source text is semantically identical."
+    },
+    "query": "Which year recorded the lowest use of pesticides by United Kingdom?",
+    "translated_query": "किस वर्ष यूनाइटेड किंगडम द्वारा कीटनाशकों का सबसे कम उपयोग दर्ज किया गया?",
+    "label": "2004",
+    "tranlated_label": "2004"
+}

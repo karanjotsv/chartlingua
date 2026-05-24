@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical. The only difference is the stylistic choice to explode the 'Mozilla Firefox' slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows market share percentages for different web browsers. The claim makes assertions about occupations, gender, and the year 1881, none of which are represented or mentioned in the chart."
+    },
+    "claim": "In unspecified occupation the males close to 20 have worked in Ripple 1881.",
+    "label": "FALSE"
+}

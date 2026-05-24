@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is highly consistent in terms of data values, categories, colors, and overall message. However, the rendered chart adds 'null' data labels to several bars that were unlabeled in the original, which is a minor semantic discrepancy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the percentage for 'Historical Artifacts' is 58. The percentage for 'Assorted Media' is approximately 11% and for 'Famous Photos' it is 15%. The sum of 'Assorted Media' and 'Famous Photos' is approximately 26%, which is not equal to 58%."
+    },
+    "claim": "The total of Assorted Media and Famous photos is equal to Historical Articates.",
+    "label": "FALSE"
+}

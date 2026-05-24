@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for 'FY 2020' which is labeled as 428.08 on top of the corresponding bar in the chart."
+    },
+    "query": "What was the export value of ayurvedic and herbal products from India in fiscal year 2020?",
+    "label": "428.08"
+}

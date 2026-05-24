@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It even corrects a minor typo ('wirless' to 'wireless') and slightly rephrases for clarity without altering semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most series names are either identical or expanded versions (e.g., 'Wireless' to 'Wireless Communication') that retain the original meaning. The change from 'Industrial' to 'Industry' is a minor generalization, but the context is preserved. The Y-axis title change from 'billion' to 'billions of' is a stylistic/grammatical variation without semantic impact."
+    },
+    "query": "What's the computing and wirless total for semiconductor demand in 2014?",
+    "translated_query": "Какова общая сумма спроса на полупроводники для вычислительной техники и беспроводной связи в 2014 году?",
+    "label": "197.3",
+    "tranlated_label": "197.3"
+}

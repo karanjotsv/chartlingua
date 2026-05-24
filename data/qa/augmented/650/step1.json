@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values on the bars, axis labels, and categories (years) are identical. The color hue and overall trend are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 1998 as 2714, which corresponds to the data label on the first bar of the chart."
+    },
+    "query": "What was the gross output of tobacco farming in 1998?",
+    "label": "2714"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, series, text content, and color hues are identical to the original. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data related to an 'Assessment Day Exercise' with categories like 'Interview' and 'Role Play'. It provides no information about employee departments, such as a 'Marketing department', or the number of employees in any department."
+    },
+    "claim": "The majority of employees work in the Marketing department.",
+    "label": false
+}

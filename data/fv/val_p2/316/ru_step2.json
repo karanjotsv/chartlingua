@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated content adds specificity ('Tasmanian') to both the Green Party and the Liberal Party, which was not explicitly present in the original claim. While 'polls' and 'rating' are semantically similar, the added geographical context alters the scope of the claim."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Minor differences include 'Election 2018' becoming '2018 Election' and 'Tas. Election Polling' becoming 'Tasmanian Election Opinion Polls', which are semantically equivalent. The most notable change is 'Polling' (y-axis title) to 'Rating', which is an acceptable synonym in this context but slightly less specific than the original."
+    },
+    "claim": "The Green Party has the higher polls than the Liberal Party.",
+    "translated_claim": "Партия зелёных Тасмании имеет более высокий рейтинг, чем Либеральная партия Тасмании."
+}

@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Στρατός",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "Αστυνομία",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "Εθνική κυβέρνηση",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "Θρησκευτικοί ηγέτες",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "Δικαστικό σύστημα",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "Μέσα ενημέρωσης",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Απόψεις κυρίως θετικές για τον Στρατό,<br>αρνητικές για τα Μέσα Ενημέρωσης",
+        "subtitle": "<i>Τι είδους επιρροή ασκεί/ασκούν (ο/η) ___ στον<br>τρόπο που εξελίσσονται τα πράγματα στην Τουρκία;</i>",
+        "source": "Πηγή: Έρευνα Global Attitudes Άνοιξη 2015, Ε79α-στ.",
+        "note": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Κακό",
+            "Καλό"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

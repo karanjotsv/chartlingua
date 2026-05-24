@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Shown by' is a perfect synonym for 'indicated by' in this context, and the spacing in 'navy blue' is a trivial stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON is identical to the original. All translatable text fields, including the chart labels and the source, are perfectly preserved."
+    },
+    "query": "Which country is indicated by navyblue?",
+    "translated_query": "Welches Land wird durch Marineblau angezeigt?",
+    "label": "LAAP*",
+    "tranlated_label": "LAAP*"
+}

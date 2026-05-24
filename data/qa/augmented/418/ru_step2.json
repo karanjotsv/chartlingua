@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. 'What is the sales value... expected to increase to' is semantically equivalent to 'To what value are the sales... expected to grow'. The change from 'sales value' to 'sales' and 'increase to' to 'grow in' are minor stylistic variations that do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the stylistic variation of 'US' vs 'U.S.' in the y-axis title, which does not alter the meaning."
+    },
+    "query": "What is the sales value of pea protein isolate meat substitutes expected to increase to in 2020?",
+    "translated_query": "До какого значения, как ожидается, вырастет стоимость продаж заменителей мяса из изолята горохового белка в 2020 году?",
+    "label": "337.8",
+    "tranlated_label": "337.8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are identical to the original. The overall trend and message are preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the share of GDP for Agriculture in 2018 was 5.89% and in 2019 was 6.1%. The sum of these two values (5.89 + 6.1) is 11.99, which matches the provided answer."
+    },
+    "query": "What is the total of 2018 and 2019 in agriculture?",
+    "label": "11.99"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The proportions of the pie slices are fundamentally different. The original chart displays four slices of varying sizes, indicating an unequal distribution. In contrast, the rendered chart shows four equal slices, each representing 25% of the total. This misrepresents the core data and changes the overall message of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is unlabeled, showing only four proportions without any context or legend. The claim assigns specific identities to these proportions (e.g., 'The bottom 99.9% of individuals'). Since the chart provides no information to link the colored slices to the groups mentioned in the claim, it is impossible to verify the statement based solely on the visual evidence."
+    },
+    "claim": "The bottom 99.9% of individuals have a lesser share of wealth than the other three groups.",
+    "label": "TRUE"
+}

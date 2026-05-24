@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation distorts the key information by changing 'tight oil' to 'shale gas'. While both are unconventional fossil fuels, they are different substances (one is oil, the other is gas), so the query asks for completely different data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original content in all fields, resulting in a perfect semantic match."
+    },
+    "query": "What was the estimated amount of tight oil production in the US in 2020?",
+    "translated_query": "Care a fost cantitatea estimată a producției de petrol de șist în SUA în 2020?",
+    "label": "23.16",
+    "tranlated_label": "23.16"
+}

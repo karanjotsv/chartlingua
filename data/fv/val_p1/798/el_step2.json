@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. The only difference is the preposition 'with' vs. 'by' and capitalization of 'trade', neither of which alters the core message or introduces any ambiguity."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "While most chart texts retain semantic equivalence with minor stylistic differences (e.g., 'Transport' to 'Transportation', 'IT' to 'Information Technology'), the change from 'Admin' to 'Public Administration' for an occupation category represents a significant loss of detail and accuracy. 'Admin' is broader, covering administrative roles across sectors, whereas 'Public Administration' specifically restricts it to government. This alters the meaning of that specific data point."
+    },
+    "claim": "The longest bars in the chart are represented with Education and Retail trade ",
+    "translated_claim": "Οι μακρύτερες ράβδοι στο διάγραμμα αντιπροσωπεύονται από την Εκπαίδευση και το Λιανικό εμπόριο."
+}

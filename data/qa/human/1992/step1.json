@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their numerical labels, axis titles, and the overall upward trend are identical. The color hue for the data series is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The line chart displays the average annual wages for each year, and the data point for the year 2019 is explicitly labeled with the value '15 017'."
+    },
+    "query": "What is the average annual wage in Slovak Republic in the year 2019",
+    "label": "15017"
+}

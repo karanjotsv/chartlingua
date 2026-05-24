@@ -1,0 +1,28 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Emissionen",
+            "value": 526.3,
+            "error": 49.0,
+            "text_color": "#000000"
+        },
+        {
+            "name": "Absorption durch LULUCF",
+            "value": -99.9,
+            "error": 50.0,
+            "text_color": "#FFFFFF"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "THG-Emissionen und Absorption im Jahr 2017",
+        "y_axis_title": "Mt",
+        "source": null
+    },
+    "colors": [
+        "#BDBDBD",
+        "#6A9F42"
+    ]
+}

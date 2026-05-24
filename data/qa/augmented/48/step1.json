@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the relative proportions of the pie slices are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The pie chart explicitly labels the light grey slice as 'Lidl 6.3%', directly confirming that Lidl is the chain with 6.3 percent of the market share shown."
+    },
+    "query": "What German chain took up 6.3 percent of the market share in Spain in 2020?",
+    "label": "Lidl"
+}

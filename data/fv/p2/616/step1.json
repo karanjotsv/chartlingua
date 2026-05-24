@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and the overall title are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number for 'the movement' is more than the average for 'each' group. The chart shows the value for 'the movement' is 6. The values for the three groups are 6, 5, and 4. The overall average is (6+5+4)/3 = 5. While 6 is greater than the overall average of 5, the claim's phrasing 'for each group' is not supported. Interpreting 'average for each group' literally, the average for 'the movement' group is 6. The value for 'the movement' (6) is not greater than its own average (6), thus the claim is false."
+    },
+    "claim": "The number of people who thought that the logo was \"the movement\" is more than average for each group.",
+    "label": "TRUE"
+}

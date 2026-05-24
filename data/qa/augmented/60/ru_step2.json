@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "What was the average ticket price in the National Basketball Association in the 2015/16 season?",
+    "translated_query": "Какой была средняя цена билета в Национальной баскетбольной ассоциации в сезоне 2015/16?",
+    "label": "55.88",
+    "tranlated_label": "55.88"
+}

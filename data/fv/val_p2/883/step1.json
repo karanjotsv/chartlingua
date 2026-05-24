@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data labels, values, and color hues are identical to the original. The overall message and proportions are preserved. The only difference is the stylistic choice of exploding one slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about U.S. Federal Transfer Payments and their trend since 2012, but the chart provided is a pie chart showing the market share of different web browsers. The chart contains no information whatsoever about federal payments or any financial data over time."
+    },
+    "claim": "U.S. Federal Transfer Payments have decreased every year since 2012.",
+    "label": "FALSE"
+}

@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Absolventen, die den ACT/SAT abgelegt haben",
+            "Kriterium erreicht oder übertroffen"
+        ],
+        "series": [
+            {
+                "name": "Landesdurchschnitt",
+                "y": [
+                    0.682,
+                    0.27
+                ]
+            },
+            {
+                "name": "Bezirksdurchschnitt",
+                "y": [
+                    0.574,
+                    0.216
+                ]
+            },
+            {
+                "name": "Median der Schulgruppe",
+                "y": [
+                    0.617,
+                    0.236
+                ]
+            },
+            {
+                "name": "Mesquite High School",
+                "y": [
+                    0.709,
+                    0.164
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "SAT/ACT-Teilnehmer als Teil der MHS-Abschlussklasse und Ergebnisse im Kriterium 'Erreicht oder übertroffen' für die Mesquite<br>High School",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#A8A8FA",
+        "#9A3264",
+        "#FFFFC2",
+        "#A3FAFA"
+    ]
+}

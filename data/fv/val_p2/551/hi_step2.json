@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. The reordering of the phrase 'in the OECD 2006' and the use of 'US dollars' for 'dollars USD' are minor stylistic variations that do not change the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The title, subtitle, and source are accurately conveyed with only minor, acceptable stylistic changes. However, the data label 'Atrophy' was changed to 'Depreciation'. While both terms refer to a decrease in value, they are not direct synonyms and carry different specific meanings, resulting in a slight loss of nuance for that data point."
+    },
+    "claim": "Total bilateral aid is 79.5 billion dollars USD in the OECD 2006.",
+    "translated_claim": "ओईसीडी 2006 में कुल द्विपक्षीय सहायता 79.5 बिलियन अमेरिकी डॉलर है।"
+}

@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Oak - Hickory Savanna",
+            "value": 22
+        },
+        {
+            "label": "Mixed Hardwoods - Prairie",
+            "value": 1.5
+        },
+        {
+            "label": "Mixed Hardwoods - Prairie poorly drained",
+            "value": 9
+        },
+        {
+            "label": "Prairie",
+            "value": 60
+        },
+        {
+            "label": "Prairie poorly drained",
+            "value": 4.5
+        },
+        {
+            "label": "Wet Prairie",
+            "value": 1
+        },
+        {
+            "label": "Water / Wet Soils / Gravel Pits",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "bottom_left_text": "Audubon County Iowa Savanna Soils > 11 %<br>Natural Resources Conservation Service, United States Department of Agriculture. Available online at<br>http://websoilsurvey.nrcs.usda.gov/. NRCS/WSS native vegetation information first sorted by soil series<br>then compiled using soil series proportion of county area (%).",
+        "bottom_right_text": "Sourced-from: Web Soil Survey (WSS),<br>Accessed by Steve Nelson 11/5/11"
+    },
+    "colors": [
+        "#FFC89C",
+        "#D70000",
+        "#FFA0A0",
+        "#FFFF00",
+        "#FFFFD0",
+        "#FFFFFF",
+        "#0000FF"
+    ]
+}

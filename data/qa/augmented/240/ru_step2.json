@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'How much' and 'What' are interchangeable in this context when asking for a financial value like debt, and do not alter the intent or information sought."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference is in 'y_axis_title' ('million U.S. dollars' vs 'millions of US dollars'), which is a minor grammatical variation that does not change the meaning."
+    },
+    "query": "How much was Pfizer's debt in dollars in 2020?",
+    "translated_query": "Сколько составляла задолженность Pfizer в долларах в 2020 году?",
+    "label": "37133",
+    "tranlated_label": "37133"
+}

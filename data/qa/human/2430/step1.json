@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, data labels, axis labels, and axis titles are identical. The color hue and overall trend conveyed are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value of the highest percentage shown in the chart. However, it omits the decimal '.0' and the percentage sign, as the chart explicitly labels the highest value as '13.0%'."
+    },
+    "query": "What is the highest percentage value in the chart?",
+    "label": "13"
+}

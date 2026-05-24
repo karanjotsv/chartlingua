@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, color hues, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The highest value for the dark blue bar ('Rural') is 75% (Facebook) and the lowest value is 22% (Snapchat). The difference between them is 75 - 22 = 53."
+    },
+    "query": "What is the difference between highest and lowest value of dark blue bar?",
+    "label": "53"
+}

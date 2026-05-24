@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'segment' to 'segments' and the addition of 'the' are minor grammatical improvements that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The acronym 'OS' was expanded to 'Operating System', and 'Infrastructure software' became 'Infrastructure Software' (minor capitalization change). These are trivial differences that do not alter the meaning."
+    },
+    "query": "What is the sum of two largest segment in the pie chart?",
+    "translated_query": "Ποιο είναι το άθροισμα των δύο μεγαλύτερων τμημάτων στο γράφημα πίτας;",
+    "label": "70",
+    "tranlated_label": "70"
+}

@@ -1,0 +1,80 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "categories": [
+        "<b>Epidemia de coronavirus</b>",
+        "<b>Candidații la alegerile<br>prezidențiale din 2020</b>"
+    ],
+    "chart_data": [
+        {
+            "name": "Foarte atent",
+            "values": [
+                46,
+                19
+            ],
+            "text": [
+                "46",
+                "19%"
+            ],
+            "textfont_colors": [
+                "white",
+                "white"
+            ]
+        },
+        {
+            "name": "Destul de atent",
+            "values": [
+                42,
+                33
+            ],
+            "text": [
+                "42",
+                "33%"
+            ],
+            "textfont_colors": [
+                "white",
+                "white"
+            ]
+        },
+        {
+            "name": "Nu prea atent",
+            "values": [
+                10,
+                31
+            ],
+            "text": [
+                "10",
+                "31%"
+            ],
+            "textfont_colors": [
+                "black",
+                "black"
+            ]
+        },
+        {
+            "name": "Deloc atent",
+            "values": [
+                2,
+                16
+            ],
+            "text": [
+                "2",
+                "16%"
+            ],
+            "textfont_colors": [
+                "black",
+                "black"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>Publicul din S.U.A. acordă mult mai puțină atenție<br>alegerilor din 2020 decât epidemiei de coronavirus</b>",
+        "subtitle": "% din adulții din S.U.A. care <i>urmăresc știrile despre fiecare subiect</i> ...",
+        "source": "Sursă: Sondaj realizat pe adulți din S.U.A. în perioada 20-26 aprilie 2020.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#744850",
+        "#B57B88",
+        "#D1BF84",
+        "#D1A744"
+    ]
+}

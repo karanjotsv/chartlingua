@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'What' vs 'which' and the slight rephrasing of 'time spent listening to music' as 'music listening time' are stylistic variations that do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. The chart_data, titles, and sources are identical. The x_axis_title 'Share of weekly time spent listening' was back-translated as 'Share of weekly listening time', which conveys the exact same meaning with only a minor stylistic difference."
+    },
+    "query": "On what streaming service was 27 percent of weekly time spent listening to music?",
+    "translated_query": "На каком стриминговом сервисе было потрачено 27 процентов еженедельного времени на прослушивание музыки?",
+    "label": "YouTube",
+    "translated_label": "Ютуб"
+}

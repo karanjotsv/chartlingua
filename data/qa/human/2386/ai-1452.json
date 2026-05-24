@@ -1,0 +1,76 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "No high school degree",
+            "values": [
+                45,
+                43,
+                36,
+                32,
+                30
+            ]
+        },
+        {
+            "name": "High school graduate",
+            "values": [
+                54,
+                51,
+                52,
+                48,
+                42
+            ]
+        },
+        {
+            "name": "Some college, no degree",
+            "values": [
+                71,
+                64,
+                62,
+                56,
+                52
+            ]
+        },
+        {
+            "name": "Associate degree",
+            "values": [
+                68,
+                71,
+                67,
+                61,
+                61
+            ]
+        },
+        {
+            "name": "Bachelor's degree",
+            "values": [
+                81,
+                79,
+                78,
+                75,
+                67
+            ]
+        }
+    ],
+    "categories": [
+        "25 to 34",
+        "35 to 44",
+        "45 to 54",
+        "55 to 64",
+        "65 and older"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of individuals",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B74B6",
+        "#0F2D3F",
+        "#B2B2B2",
+        "#B5282B",
+        "#89C03D"
+    ]
+}

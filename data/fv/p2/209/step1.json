@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replica of the original. All data values, proportions, labels, titles, and color hues are accurately reproduced, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'LE-FPA' reached the maximum value. According to the bar chart, the value for 'LE - FPA Say \"E\"' is 1250 sq. ft, which is the lowest value shown. The maximum value on the chart is 5000 sq. ft."
+    },
+    "claim": "The LE-FPA reached the maximum as per the bar chart.",
+    "label": "FALSE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. Differences are minor stylistic variations ('During the course of their operation' vs. 'During their operation', 'wind farms' vs. 'wind energy farms', 'generate no revenue' vs. 'do not generate any revenue') that do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'label' fields within 'chart_data', are identical between the original and back-translated JSON. The 'texts' object contains no translatable content (all null), indicating perfect semantic preservation."
+    },
+    "claim": "During the course of their operation, wind farms generate no revenue.",
+    "translated_claim": "ਆਪਣੇ ਸੰਚਾਲਨ ਦੇ ਦੌਰਾਨ, ਪੌਣ ਊਰਜਾ ਫਾਰਮ ਕੋਈ ਮਾਲੀਆ ਪੈਦਾ ਨਹੀਂ ਕਰਦੇ।"
+}

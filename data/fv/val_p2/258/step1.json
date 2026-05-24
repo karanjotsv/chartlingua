@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of data, text, and overall message. However, it incorrectly adds a data point for the 'Sí (%)' series in the 'Int' category, which is absent in the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that in 2011, the 'SI' votes were at 80%. However, the chart shows the data point for 'Sí (%)' (orange line) for the year 2011 is at 90%."
+    },
+    "claim": "In the year 2011, the SI votes was at 80%.",
+    "label": "FALSE"
+}

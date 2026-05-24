@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, ensuring perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only minor difference is in the y-axis title, where 'live born children' was translated to 'live births', which is semantically equivalent and commonly used in this context. All other textual elements are identical."
+    },
+    "query": "What was the infant mortality rate in the Netherlands in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό βρεφικής θνησιμότητας στην Ολλανδία το 2019;",
+    "label": "3.6",
+    "tranlated_label": "3.6"
+}

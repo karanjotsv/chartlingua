@@ -1,0 +1,56 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Par în mod evident<br>false sau neadevărate",
+            "Prezintă persoane<br>implicate în<br>comportamente periculoase<br>sau îngrijorătoare",
+            "Sunt abuzive sau<br>denigratoare<br>la adresa altora"
+        ],
+        "series": [
+            {
+                "name": "Frecvent",
+                "values": [
+                    15,
+                    19,
+                    11
+                ]
+            },
+            {
+                "name": "Uneori",
+                "values": [
+                    48,
+                    42,
+                    32
+                ]
+            },
+            {
+                "name": "Rareori",
+                "values": [
+                    23,
+                    25,
+                    37
+                ]
+            },
+            {
+                "name": "Niciodată",
+                "values": [
+                    12,
+                    14,
+                    19
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<b>Majoritatea utilizatorilor de YouTube întâlnesc videoclipuri care par<br>false/neadevărate sau care prezintă persoane făcând lucruri periculoase</b>",
+        "subtitle": "% dintre adulții din S.U.A. care folosesc YouTube și care ___ observă videoclipuri pe site<br>care...",
+        "source": "Notă: Respondenții care nu au oferit un răspuns nu sunt afișați.<br>Sursă: Sondaj realizat pe adulți din S.U.A. în perioada 29 mai-11 iunie 2018.<br>„Mulți apelează la YouTube pentru conținut pentru copii, știri și lecții practice”",
+        "footer": "<b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#2f5597",
+        "#5b9bd5",
+        "#d6e3f3",
+        "#d9d9d9"
+    ]
+}

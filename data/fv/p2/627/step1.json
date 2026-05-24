@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. While the order of the slices is different, this does not change the interpretation of the pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies the location as 'Rockhampton', but the chart does not contain any geographical information to support this assertion."
+    },
+    "claim": "Degree holders were greater than any other educational qualification holders in Rockhampton.",
+    "label": "TRUE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'DRC' is appropriately clarified as 'Replacement Value', and 'Gross land' is synonymous with 'Total Land' in this context, without any loss of information or change in meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general meaning is preserved, but there's an important loss of accuracy due to the change in the unit of measurement from 'sq. ft' to 'sq.m.'. Additionally, 'Amenity' was translated to 'Allowance', representing a minor semantic shift."
+    },
+    "claim": "The value of the Land(R) and DRC of buildings(S) together is higher than the value of Gross land.",
+    "translated_claim": "Η αξία της Γης(R) και της Αξίας Αντικατάστασης κτιρίων(S) μαζί είναι υψηλότερη από την αξία της Συνολικής γης."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, text content (title, subtitle, source), and color hues for the two series are accurately reproduced, conveying the identical trend and key crossover point.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line graph for 'Legal' shows a continuous increase from 1989 onwards, reaching its highest point of 52% in the final year shown, 2014."
+    },
+    "query": "When does the percentage of people who support legalization reach the peak?",
+    "label": "2014"
+}

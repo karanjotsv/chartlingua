@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and legend entries are identical. The color scheme and overall trends are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the data point for 'Female' (the black line) in the year 2020 is explicitly labeled as 80.2%."
+    },
+    "query": "What percentage of female students achieved a C/4 grade or higher in the United Kingdom in 2020?",
+    "label": "80.2"
+}

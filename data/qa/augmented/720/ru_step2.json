@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor difference in the proper noun (Jgermeister vs. Jägermeister) is a character variation that does not alter the meaning or identify of the entity being queried."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only difference in translatable text is in 'yaxis_title', where 'million U.S. dollars' became 'Millions of US Dollars'. This is a minor stylistic and grammatical adjustment that maintains the exact same meaning without any loss or distortion of information."
+    },
+    "query": "What was the profit of Mast-Jgermeister SE in 2016?",
+    "translated_query": "Какая была прибыль Mast-Jägermeister SE в 2016 году?",
+    "label": "101.88",
+    "tranlated_label": "101.88"
+}

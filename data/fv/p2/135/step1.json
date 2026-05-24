@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message about the proportions of each category is preserved. The only difference is the rotational order of the slices, which does not affect the interpretation of a pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that 'Energy' accounts for 10% and 'Culture' accounts for 10%. The sum of these two categories is 20% (10% + 10%), which is exactly the percentage allocated to 'Defense' as shown in the chart."
+    },
+    "claim": "The total of Energy and culture together is equal to the value of Defense. ",
+    "label": "TRUE"
+}

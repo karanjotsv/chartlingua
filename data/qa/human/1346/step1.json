@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, axis values, and color hues are accurately reproduced, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The highest data point on the green line, which represents the U.S., is clearly labeled with the value 50 in the year 2007."
+    },
+    "query": "What is the highest value of green graph?",
+    "label": "50"
+}

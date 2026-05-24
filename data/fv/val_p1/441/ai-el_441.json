@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "φυσικό αέριο",
+            "value": 48.8
+        },
+        {
+            "category": "πυρηνική ενέργεια",
+            "value": 45.5
+        },
+        {
+            "category": "βιομάζα",
+            "value": 2.4
+        },
+        {
+            "category": "ηλιακή ενέργεια",
+            "value": 1.0
+        },
+        {
+            "category": "άλλα",
+            "value": 2.3
+        }
+    ],
+    "texts": {
+        "title": "Πηγές Παραγωγής Ηλεκτρικής Ενέργειας<br>Connecticut - 2016",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#85c5d3",
+        "#d4b243",
+        "#369568",
+        "#fde942",
+        "#a044b2"
+    ],
+    "paper_bgcolor": "#EBEBF8"
+}

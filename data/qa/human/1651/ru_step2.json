@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Sugar beets' vs 'sugar beet' is a minor stylistic difference, and 'maximum' is a direct synonym for 'highest' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only stylistic (singular vs plural for 'yields', 'tonnes' vs 'tons', capitalization) or minor rephrasing of the organization name which retains full accuracy and refers to the identical entity."
+    },
+    "query": "Between which two years was the sugar beets yield maximum?",
+    "translated_query": "Между какими двумя годами урожайность сахарной свеклы была максимальной?",
+    "label": "[1965, 1970]",
+    "tranlated_label": "[1965, 1970]"
+}

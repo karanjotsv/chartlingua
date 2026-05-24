@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. 'Hydroelectric sources' is a clarification of 'hydro sources' and 'natural gas' is the correct spelling for 'natural gaz', neither of which alters the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. The only differences are 'hydro' vs 'hydroelectric' (which are contextually synonymous) and 'about' vs 'approximately' in the note, both being trivial stylistic variations that do not alter the meaning."
+    },
+    "claim": "The total amount of oil and hydro sources is equal to natural gaz.",
+    "translated_claim": "Το συνολικό ποσό πετρελαίου και υδροηλεκτρικών πηγών είναι ίσο με το φυσικό αέριο."
+}

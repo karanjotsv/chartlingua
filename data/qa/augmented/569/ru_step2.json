@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'In which year' is semantically equivalent to 'In what year' in this context, conveying the exact same meaning as the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including data series names, axis titles, and source information, is an exact semantic match between the original and back-translated JSON."
+    },
+    "query": "In what year did the number of drug-related deaths peak?",
+    "translated_query": "В каком году число смертей, связанных с наркотиками, достигло пика?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

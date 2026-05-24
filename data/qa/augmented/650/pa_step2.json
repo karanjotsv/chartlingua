@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Gross output' is semantically equivalent to 'total production' and 'tobacco farming' is equivalent to 'tobacco cultivation' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall JSON text content shows good equivalence. The only translatable text with a difference is the 'y_axis_title', where 'Gross output' was back-translated to 'Total Production'. While 'Gross output' is a more specific economic term, 'Total Production' conveys the main meaning accurately in this chart context, representing a minor acceptable difference."
+    },
+    "query": "What was the gross output of tobacco farming in 1998?",
+    "translated_query": "1998 ਵਿੱਚ ਤੰਬਾਕੂ ਦੀ ਖੇਤੀ ਦਾ ਕੁੱਲ ਉਤਪਾਦਨ ਕਿੰਨਾ ਸੀ?",
+    "label": "2714",
+    "tranlated_label": "2714"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, axis labels, title, and color hues for the data series are consistent with the original. The core message about political disagreement across countries is accurately conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change in various countries. It contains no information regarding sources of electricity generation, nuclear power, or the state of Pennsylvania."
+    },
+    "claim": " Nuclear power is the least important source of electricity generation in Pennsylvania.",
+    "label": "FALSE"
+}

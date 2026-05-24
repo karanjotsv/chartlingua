@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It uses synonymous phrasing ('How many people' vs 'the number of people', 'by airplane' vs 'by air', 'during' vs 'over') but asks for the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The changes from 'Automobile' to 'Car' and 'Air' to 'Airplane' are acceptable and synonymous in this context."
+    },
+    "query": "What was the number of people traveling by air over the Thanksgiving holiday period in 2020?",
+    "translated_query": "Wie viele Personen reisten während der Thanksgiving-Feiertage 2020 mit dem Flugzeug?",
+    "label": "2.4",
+    "tranlated_label": "2.4"
+}

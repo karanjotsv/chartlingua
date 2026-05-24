@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Solar",
+            "value": 97
+        },
+        {
+            "category": "Wind",
+            "value": 93
+        },
+        {
+            "category": "Hydroelectric",
+            "value": 91
+        },
+        {
+            "category": "Natural gas",
+            "value": 80
+        },
+        {
+            "category": "Coal",
+            "value": 48
+        },
+        {
+            "category": "Nuclear",
+            "value": 38
+        }
+    ],
+    "texts": {
+        "title": "Global public support for energy sources",
+        "subtitle": "\"Please indicate whether you strongly support, somewhat support, somewhat oppose,<br>or strongly oppose each way of producing energy\"",
+        "x_axis_title": null,
+        "y_axis_title": "% very much/somewhat support",
+        "source": "Source: Ipsos, May 2011"
+    },
+    "colors": [
+        "#08519c"
+    ]
+}

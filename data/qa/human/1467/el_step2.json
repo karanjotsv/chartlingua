@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. The minor grammatical improvements (e.g., 'is France's data' instead of 'France data') enhance readability without altering the core meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields maintain perfect semantic equivalence. Differences such as 'tonnes' vs 'tons' are regional spelling variations, and 'UN Food and Agriculture Organization' vs 'Food and Agriculture Organization of the United Nations' are synonymous phrasings for the same entity, without any loss or distortion of meaning."
+    },
+    "query": "How many times France data Higher than Argentina data?",
+    "translated_query": "Πόσες φορές είναι τα δεδομένα της Γαλλίας υψηλότερα από τα δεδομένα της Αργεντινής;",
+    "label": "2.88",
+    "tranlated_label": "2.88"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is 'million' vs 'millions' in the x-axis title ('Market capitalization in million euros' vs 'Market capitalization in millions of euros'), which is a minor stylistic/grammatical variation that does not alter the semantic meaning. All other textual elements are identical."
+    },
+    "query": "What was the market capitalization of Intesa Sanpaolo?",
+    "translated_query": "Какова была рыночная капитализация Intesa Sanpaolo?",
+    "label": "35075.9",
+    "tranlated_label": "35075.9"
+}

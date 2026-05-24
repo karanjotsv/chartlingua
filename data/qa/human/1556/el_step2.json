@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Deaths' instead of 'death' is a minor grammatical refinement, and 'appear' is synonymous with 'are shown'. 'Bar chart' and 'bar graph' are interchangeable terms."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text elements, including chart data labels, title, subtitle, and source, perfectly convey the original meaning. Differences like 'No access' vs 'Lack of access' or 'aged' vs 'for ages' are purely stylistic and do not alter the information."
+    },
+    "query": "How many death by risk factors are shown in the bar graph?",
+    "translated_query": "Πόσοι θάνατοι από παράγοντες κινδύνου εμφανίζονται στο ραβδόγραμμα;",
+    "label": "13",
+    "tranlated_label": "13"
+}

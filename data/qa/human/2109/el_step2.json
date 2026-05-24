@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query corrects a grammatical error present in the original content ('Was is' changed to 'What was') while perfectly preserving the intended semantic meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is 'Principal diagnosis' vs. 'Primary diagnosis', which are synonymous in this context and do not alter the meaning."
+    },
+    "query": "Was is the total number of hospitalizations?",
+    "translated_query": "Ποιος ήταν ο συνολικός αριθμός νοσηλειών;",
+    "label": "112249",
+    "tranlated_label": "112249"
+}

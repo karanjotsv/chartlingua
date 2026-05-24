@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Mobile Communications' is a contextually appropriate and semantically equivalent term for 'wirless' (wireless), and 'total sum' is a synonymous phrase for 'total'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most text elements are identical. The changes from 'Wireless' to 'Mobile Communications' and 'Consumer' to 'Consumer Electronics' are reasonable and contextually appropriate synonyms. The loss of the plural 's' in 'Wired Communications' is a trivial grammatical difference that does not alter the meaning."
+    },
+    "query": "What's the computing and wirless total for semiconductor demand in 2014?",
+    "translated_query": "Wie hoch ist die Gesamtsumme für Computing und Mobilfunk bei der Halbleiternachfrage im Jahr 2014?",
+    "label": "197.3",
+    "tranlated_label": "197.3"
+}

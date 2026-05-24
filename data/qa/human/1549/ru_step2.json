@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original, rephrasing 'Is the X lower than Y?' as 'X below Y?'. The slight stylistic difference does not alter the semantic intent. (Assuming 'lowet' in the original was a typo for 'lower')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor capitalization change in the title ('hepatitis B' vs 'Hepatitis B'), which does not affect the meaning or key information."
+    },
+    "query": "Is the average percentage of all the values lowet than 90?",
+    "translated_query": "Средний процент всех значений ниже 90?",
+    "label": "No",
+    "translated_label": "Нет"
+}

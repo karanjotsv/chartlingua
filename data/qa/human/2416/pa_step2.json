@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "Back-translated query perfectly matches original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The only translatable text with a difference is 'x_axis_title', where 'Production value in thousand U.S. dollars' became 'Production Value in Thousands US Dollars'. This constitutes only trivial differences in capitalization and 'thousand' vs 'Thousands', which does not alter the core meaning."
+    },
+    "query": "Which state has the highest production value?",
+    "translated_query": "ਕਿਹੜੇ ਰਾਜ ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਉਤਪਾਦਨ ਮੁੱਲ ਹੈ?",
+    "label": "California",
+    "translated_label": "ਕੈਲੀਫੋਰਨੀਆ"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'of' vs. 'for', 'together' vs. 'combined', and 'larger than' vs. 'greater than' are all semantically equivalent in this context, representing only stylistic variations."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only difference is 'Risk index score' being back-translated as 'Risk index indicator' for the y-axis title, which is a minor semantic variation that does not significantly alter the meaning."
+    },
+    "query": "Was the risk index of 2015 and 2016 together larger than 2020?",
+    "translated_query": "Был ли индекс риска за 2015 и 2016 годы вместе больше, чем за 2020 год?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

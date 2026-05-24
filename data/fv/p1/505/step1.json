@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart successfully reproduces the axes, color, and the overall shape of the signal, including the main central peaks. However, there are noticeable data inaccuracies, particularly around x=3360, where the rendered chart shows a straight line segment instead of the more complex peak structure present in the original. This indicates missing or incorrectly plotted data points, which moderately distorts the signal's fine details.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there are three waves in the chart, but visually there are multiple oscillatory patterns. Counting the distinct up-and-down movements, there are at least six such waves visible, for example, around x-values of 3330, 3343, 3351, 3357, 3363, and 3368."
+    },
+    "claim": "There are three waves in the chart.",
+    "label": true
+}

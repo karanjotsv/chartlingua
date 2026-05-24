@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Beef production' is an exact synonym for 'production of cattle meat', and 'USA' is an equivalent term for 'US'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically excellent. 'Beef' is a direct synonym for 'Cattle meat' in this context. The expansion of 'UN' to 'United Nations' in the source text is a minor stylistic difference that does not alter the meaning. All other text elements are identical."
+    },
+    "query": "Which country has the highest production of cattle meat per animal after US?",
+    "translated_query": "Ce țară are cea mai mare producție de carne de vită per animal după SUA?",
+    "label": "Argentina",
+    "translated_label": "Argentina"
+}

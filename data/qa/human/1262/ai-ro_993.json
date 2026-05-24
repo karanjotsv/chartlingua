@@ -1,0 +1,45 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Mai multă",
+            "values": [
+                29,
+                19,
+                17
+            ]
+        },
+        {
+            "name": "La fel",
+            "values": [
+                41,
+                59,
+                31
+            ]
+        },
+        {
+            "name": "Mai puțină",
+            "values": [
+                29,
+                21,
+                50
+            ]
+        }
+    ],
+    "categories": [
+        "SUA",
+        "UE",
+        "China"
+    ],
+    "texts": {
+        "title": "Mulți consideră că influența globală a Chinei va<br>scădea după epidemia de coronavirus",
+        "subtitle": "% dintre cei care spun că fiecare va avea ___ influență în afacerile mondiale<br>după epidemia de coronavirus în comparație cu perioada de dinaintea<br>epidemiei",
+        "source": "Notă: Răspunsurile de tip „Fără răspuns” nu sunt afișate.<br>Sursă: Sondaj realizat pe adulți din SUA în perioada 29 aprilie - 5 mai 2020.<br>“Americans Give Higher Ratings to South Korea and Germany Than<br>U.S. for Dealing With Coronavirus”",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#8F994D",
+        "#DAD3C1",
+        "#2D5B8A"
+    ]
+}

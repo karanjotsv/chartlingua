@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value for 'Like a mother' is above average. The values presented in the chart are 6, 5, 5, 5, and 2. The average of these values is (6+5+5+5+2)/5 = 4.6. The value for 'Like a mother' is 2, which is below the average of 4.6, directly refuting the claim."
+    },
+    "claim": "The chart Like a mother has an amount of above average in the Community perspectives on Wikimedia.",
+    "label": "FALSE"
+}

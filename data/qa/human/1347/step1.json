@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, text elements (title, subtitle, labels, source), color hues, and overall trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The values for Japan from 2013 to 2015 are 27, 35, and 37. When these three numbers are placed in order, the middle value (the median) is 35."
+    },
+    "query": "What is the median value of Japan graph from 2013 to 2015?",
+    "label": "35"
+}

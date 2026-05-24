@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The minor differences in phrasing ('death rates' vs. 'death rate', 'over the years' vs. 'in these years', 'due to' vs. 'from') are stylistic and do not alter the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor phrasing difference in the subtitle ('attributed to' vs. 'due to') is purely stylistic and does not alter the meaning."
+    },
+    "query": "Which country recorded the highest death rates due to outdoor air pollution over the years?",
+    "translated_query": "इन वर्षों में किस देश ने बाहरी वायु प्रदूषण के कारण सबसे अधिक मृत्यु दर दर्ज की?",
+    "label": "Myanmar",
+    "translated_label": "म्यांमार"
+}

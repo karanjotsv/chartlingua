@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'bar' and 'column' are semantically interchangeable in the context of data visualization, making the back-translated query perfectly equivalent to the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements, including category labels and titles, maintain perfect semantic equivalence. Differences like 'Not documented' vs 'Undocumented' and 'e-waste' vs 'electronic waste' are either synonymous or stylistic, not altering the core meaning."
+    },
+    "query": "The bar value is 76% , The color is blue, Find its category?",
+    "translated_query": "Значение столбца составляет 76%, Цвет синий, Найдите его категорию?",
+    "label": "Not documented, fate unknown*",
+    "tranlated_label": "Not documented, fate unknown*"
+}

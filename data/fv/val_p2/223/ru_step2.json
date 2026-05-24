@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translated claim accurately conveys the main meaning. 'Compared to' is a perfect semantic match for 'versus'. While 'energy conversion efficiency' is broader than 'power conversion efficiency', in this context, it largely captures the intended meaning without significant loss of critical information or introduction of ambiguity. It's a minor acceptable difference in specificity."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content consistently replaced 'Power Conversion Efficiency' with 'Energy Conversion Efficiency' in both series names and the chart title. While related, 'power' and 'energy' have distinct meanings in technical contexts, especially concerning efficiency, leading to a loss of specific nuance and accuracy. The general topic is captured, but an important detail is altered."
+    },
+    "claim": "Gallium Arsenide has the highest power conversion efficiency versus cadmium and nickel oxide.",
+    "translated_claim": "Арсенид галлия имеет самую высокую эффективность преобразования энергии по сравнению с кадмием и оксидом никеля."
+}

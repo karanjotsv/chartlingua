@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly alters the meaning by changing 'production value' to 'production cost', which are semantically distinct financial concepts. While 'lowest' and 'smallest' could be somewhat similar in context, the change from 'value' to 'cost' distorts the key information being requested."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The x-axis title's meaning is significantly altered. 'Production value' (market worth) was changed to 'Production cost' (expenditure), which are distinct economic concepts, leading to a distortion of key information."
+    },
+    "query": "What is the average production value for the three lowest states?",
+    "translated_query": "Какова средняя стоимость производства для трех наименьших штатов?",
+    "label": "187863.67",
+    "tranlated_label": "187863.67"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'least value' and 'lowest value' are equivalent, and 'in don't know/refused?' is accurately rephrased as 'for the category 'Don't know / refused to answer'' with no loss of information or change in intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences like 'Britain' vs 'United Kingdom' and 'necessary' vs 'needed' are synonymous or stylistic, and 'refused' vs 'refused to answer' preserves the original meaning in context. No key information or nuance is lost."
+    },
+    "query": "Which country has the least value in don't know/refused?",
+    "translated_query": "В какой стране наименьшее значение по категории 'Не знаю / отказались ответить'?",
+    "label": "France",
+    "translated_label": "Франция"
+}

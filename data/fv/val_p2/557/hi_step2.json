@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation accurately preserves the core logical relationship and the conditional clause. The key term 'Atrophy' was changed to 'Depreciation'. While not identical, they are related concepts of value loss, and the overall meaning of the claim remains intact."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. A key data label was significantly changed from 'Atrophy' to 'Depreciation', which are not synonymous and alter the meaning of that category. Additionally, the title has a minor but noticeable semantic shift from 'value' to 'price'."
+    },
+    "claim": "Atrophy received more share than the total aid if the value is reduced by 20%.",
+    "translated_claim": "यदि मूल्य 20% कम हो जाता है तो क्षय को कुल सहायता से अधिक हिस्सा मिला।"
+}

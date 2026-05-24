@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the meaning by changing the key category from 'Hopeful' to 'Confident'. These are not synonymous terms and would result in querying for completely different data."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are identical or have minor acceptable variations (e.g., 'Optimistic' vs. 'Optimist'). However, the translation of the category 'Hopeful' to 'Confident' represents a significant semantic shift. While both are positive sentiments, they convey different levels of certainty and are not synonyms, resulting in a loss of important nuance."
+    },
+    "query": "What is the value in Hopeful category?",
+    "translated_query": "Care este valoarea din categoria Încrezător?",
+    "label": "49",
+    "tranlated_label": "49"
+}

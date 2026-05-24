@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of text, color, and overall message. However, there are minor variations in the shape and trajectory of the plotted curves compared to the original, preventing a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays a blue shaded area labeled 'dive'. The red line, which can be inferred to represent O2 levels due to the 'O2 blackout zone' at the bottom, begins to slope downwards at the start of this 'dive' section. This directly supports the claim that O2 levels start to drop when a dive begins."
+    },
+    "claim": "When a dive begins O2 levels start to drop.",
+    "label": "TRUE"
+}

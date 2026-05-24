@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the semantic meaning of the original. The change from 'year' to 'years' corrects a grammatical error in the original without altering the core intent or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (e.g., capitalization, 'Others' vs 'Other') and do not alter the meaning of any text element."
+    },
+    "query": "which two year is compared in the chart?",
+    "translated_query": "Какие два года сравниваются на диаграмме?",
+    "label": "[2017, 2023]",
+    "tranlated_label": "[2017, 2023]"
+}

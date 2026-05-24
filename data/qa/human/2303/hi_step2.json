@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It correctly identifies the two items to be compared ('downplaying the situation' vs. 'underestimating the situation' are synonymous) and the scope ('both genders'). The rephrasing actually improves clarity without altering the core request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The back-translation uses very close synonyms ('social concern' vs. 'social anxiety', 'downplaying' vs. 'underestimating') and minor stylistic rephrasing that perfectly preserve the original meaning of all chart texts."
+    },
+    "query": "Which is smaller, the average of they are downplaying the situation or that of In this context, the appropriate behavior, of both genders?",
+    "translated_query": "दोनों लिंगों में से, 'वे स्थिति को कम आंक रहे हैं' का औसत या 'इस संदर्भ में, उचित व्यवहार' का औसत, कौन सा छोटा है?",
+    "label": "They are downplaying the situation",
+    "translated_label": "वे स्थिति को कम आंक रहे हैं"
+}

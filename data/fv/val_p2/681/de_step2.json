@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated claim significantly distorts the key financial metric. It changes 'sales profit' in the original to 'revenue growth', which are two distinct and not semantically equivalent business concepts."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text, the series name 'Inverse Relationship', is identical in both versions. All other text fields are null and match perfectly."
+    },
+    "claim": "Bosnia and Herzegovina had a bigger share of the market compared to Serbia in sales profit of Atlantic Grupa ",
+    "translated_claim": "Bosnien und Herzegowina hatte einen größeren Marktanteil am Umsatzgewinn der Atlantic Grupa als Serbien."
+}

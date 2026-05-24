@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (title, axes), and color hues are all accurately reproduced. The overall trend and message are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "By visually comparing the total height of the stacked bars for each year, the bar for 2009 is the lowest among all years presented (2008-2018), indicating the lowest total electricity generation."
+    },
+    "claim": "Total electricity generation between 2008 and 2018 was lowest in 2009. ",
+    "label": true
+}

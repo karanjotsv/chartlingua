@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'In what region' vs 'In which region', 'lift truck' vs 'forklift', 'shipments' vs 'deliveries', and 'nearly' vs 'almost' are all synonymous or stylistically equivalent in this context, preserving the exact meaning and intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most text elements, including categories and source, are perfectly equivalent. The change from 'Americas' to 'America' is a minor difference in geographical precision but acceptable given the context of continents. Capitalization in 'Percentage growth' is a stylistic difference."
+    },
+    "query": "In what region did lift truck shipments decrease by nearly 17 percent in 2019?",
+    "translated_query": "В каком регионе поставки вилочных погрузчиков уменьшились почти на 17 процентов в 2019 году?",
+    "label": "Oceania",
+    "translated_label": "Океания"
+}

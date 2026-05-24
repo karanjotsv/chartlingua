@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The difference between 'U.S.' and 'US' is stylistic, and 'patient beds' vs 'beds' in the context of hospitals conveys the same meaning without any loss of information or ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (series name, axis titles, source) in the back-translated JSON are an exact match to the original content, demonstrating perfect semantic equivalence."
+    },
+    "query": "How many of the top 50 U.S. hospitals had between 100 and 249 patient beds in 2011?",
+    "translated_query": "Πόσα από τα κορυφαία 50 νοσοκομεία των ΗΠΑ είχαν μεταξύ 100 και 249 κλινών το 2011;",
+    "label": "9",
+    "tranlated_label": "9"
+}

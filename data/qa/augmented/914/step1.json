@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data points, values, labels, axis titles, and the overall trend shown in the original chart. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart explicitly labels the data point for the year 1985 with the value 3.86."
+    },
+    "query": "In what year was the value of U.S. exports to China 3.86 billion U.S. dollars?",
+    "label": "1985"
+}

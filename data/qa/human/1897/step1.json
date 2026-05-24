@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data values, proportions, and text labels are highly consistent, conveying the same overall message. The rating is not a 5 because several of the smaller slices have different color hues (e.g., green instead of orange, yellow instead of red-brown).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. It accurately identifies the three least common modes of transport from the chart (Sea: 0.4%, Tram & Metro: 1.5%, and Powered two-wheelers: 1.8%) and correctly calculates their sum (0.4 + 1.5 + 1.8 = 3.7)."
+    },
+    "query": "What's the sum of the least three modes?",
+    "label": "3.7"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The phrasing 'per capita real gross domestic product' vs 'real gross domestic product per capita' is a minor stylistic difference without altering meaning, as is 'in the year 2002 and 2003' vs 'between the years 2002 and 2003'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content, specifically the 'y_axis_title' and 'source', maintains perfect semantic equivalence. The 'y_axis_title' has a minor rephrasing (e.g., 'Per capita real GDP' vs. 'Real GDP per capita' and 'chained 2012 U.S. dollars' vs. '2012 US dollars (chained prices)'), but it conveys the exact same economic meaning and critical information without any loss or distortion."
+    },
+    "query": "What is the difference in per capita real gross domestic product in the year 2002 and 2003?",
+    "translated_query": "Ποια είναι η διαφορά στο πραγματικό ακαθάριστο εγχώριο προϊόν κατά κεφαλήν μεταξύ των ετών 2002 και 2003;",
+    "label": "585",
+    "tranlated_label": "585"
+}

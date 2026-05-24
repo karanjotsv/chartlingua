@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, legend entries, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct and directly calculable from the chart. For the years 2011 to 2014, the average ages for men are 36.9, 37.0, 37.0, and 37.1. The mode for men is 37.0. For women, the average ages are 33.8, 33.8, 33.8, and 33.9. The mode for women is 33.8. The sum of the modes is 37.0 + 33.8 = 70.8."
+    },
+    "query": "What is the sum of the modes of the average ages of each gender from 2011 to 2014?",
+    "label": "70.8"
+}

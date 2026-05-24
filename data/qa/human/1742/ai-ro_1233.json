@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Legături de<br>securitate și apărare",
+            "values": [
+                34,
+                16
+            ],
+            "labels": [
+                "34%",
+                "16%"
+            ]
+        },
+        {
+            "category": "Legături economice<br>și comerciale",
+            "values": [
+                33,
+                45
+            ],
+            "labels": [
+                "33",
+                "45"
+            ]
+        },
+        {
+            "category": "Valori<br>democratice<br>comune",
+            "values": [
+                21,
+                35
+            ],
+            "labels": [
+                "21",
+                "35"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Perspective diferite asupra celui mai important<br>aspect al relației dintre S.U.A. și Germania",
+        "subtitle": "<i>Care dintre următoarele este cel mai important aspect<br>în ceea ce privește relațiile S.U.A.-Germania?</i>",
+        "series_names": [
+            "Americani",
+            "Germani"
+        ],
+        "source": "Sursă: Sondaj Pew Research Center realizat în S.U.A. în perioada 6-<br>10 oct. 2017. Î7. Rezultate din Germania de la sondajul Körber-Stiftung<br>realizat în perioada 4-18 oct. 2017.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#8F9D52",
+        "#E3A336"
+    ]
+}

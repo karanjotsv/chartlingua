@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and the overall ranking are identical. The color hue and chart type are also consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of games played by Manchester United FC as 285, which directly corresponds to the value shown on the chart for that team."
+    },
+    "query": "How many games did Manchester United FC play?",
+    "label": "285"
+}

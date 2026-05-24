@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the x and y axes, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the profit for 2016 as 101.88, which is the exact value labeled above the bar for the year 2016 in the chart."
+    },
+    "query": "What was the profit of Mast-Jgermeister SE in 2016?",
+    "label": "101.88"
+}

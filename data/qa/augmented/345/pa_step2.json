@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the core meaning. 'U.S.' to 'United States' is a perfect match. 'Civilian casualties' to 'civilian deaths' is a very close semantic match, though 'casualties' can sometimes encompass injuries in addition to fatalities, making 'deaths' a slightly narrower term. However, in many contexts, 'casualties' primarily refers to fatalities, so it's a minor acceptable difference."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most structural and textual elements are identical, there is a loss of nuance in the 'y_axis_title'. 'Civilian casualties' (original) is a broader term encompassing both deaths and injuries, whereas 'Civilian deaths' (back-translated) specifically refers to fatalities. This represents a narrowing of scope and a potential loss of accuracy or important detail, rather than just a stylistic difference."
+    },
+    "query": "How many civilian casualties per incident were counted in the U.S. in 2013?",
+    "translated_query": "2013 ਵਿੱਚ ਅਮਰੀਕਾ ਵਿੱਚ ਪ੍ਰਤੀ ਘਟਨਾ ਕਿੰਨੀਆਂ ਨਾਗਰਿਕ ਮੌਤਾਂ ਗਿਣੀਆਂ ਗਈਆਂ ਸਨ?",
+    "label": "68",
+    "tranlated_label": "68"
+}

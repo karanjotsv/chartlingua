@@ -1,0 +1,44 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Jul 2015",
+            "Sep 2015"
+        ],
+        "series": [
+            {
+                "name": "Disapprove",
+                "values": [
+                    45,
+                    49
+                ]
+            },
+            {
+                "name": "Approve",
+                "values": [
+                    33,
+                    21
+                ]
+            },
+            {
+                "name": "DK",
+                "values": [
+                    22,
+                    30
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Declining Support for Iran Nuclear Deal",
+        "subtitle": "% who approve/disapprove of recent nuclear agreement<br>between Iran, the U.S. and other nations ...",
+        "source": "Survey conducted Sept. 3-7, 2015. Figures may not add to 100%<br>because of rounding.",
+        "brand": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b59e36",
+        "#e0c778"
+    ]
+}

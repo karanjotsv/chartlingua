@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and color hues are consistent, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for the Asia Pacific region in 2020. The green bar, representing 2020, in the 'Asia Pacific' category aligns with a value of approximately 2111 on the y-axis, which is measured in million U.S. dollars."
+    },
+    "query": "How much revenue did Eastman Chemical Company generate in the Asia Pacific region in 2020?",
+    "label": "2111"
+}

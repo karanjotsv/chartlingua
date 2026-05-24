@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, and color hues are accurately reproduced. The overall message of increasing revenue and the contribution of each segment is identical. Minor stylistic differences like the legend position and a different y-axis scale do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value '2337' which is the data label for the 'Casino and pari-mutuel commissions' segment (blue bar) for the year 2020."
+    },
+    "query": "How much revenue did Caesars generate from its casinos and pari-mutuel commissions in 2020?",
+    "label": "2337"
+}

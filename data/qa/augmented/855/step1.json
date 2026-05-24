@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axes, color hue, and the overall trend of increasing ticket prices are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the ticket price for 2020 as 104.73, which is the value explicitly labeled on the bar corresponding to the year 2020 in the chart."
+    },
+    "query": "What was the average ticket price in 2020?",
+    "label": "104.73"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent, accurately representing the data values, proportions, and color hues for all but one category. It omits the 'Neon (7 ppm)' slice from the second pie chart, which is a minor data inaccuracy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart on the left clearly labels the largest segment, representing the vast majority of the atmosphere, as 'Carbon dioxide (96.5%)'. This directly confirms the claim."
+    },
+    "claim": "Pie chart of the atmosphere of Venus contains 96.5% of Carbon dioxide.",
+    "label": true
+}

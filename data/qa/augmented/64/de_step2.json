@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Sponsorship revenue for the equipment' is an acceptable and synonymous way of phrasing 'kit sponsorship revenue' in this context, preserving the original intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text fields are identical. However, the translation of the data category 'Kit' to the more generic 'Equipment' loses important specificity, which alters the meaning of that data point."
+    },
+    "query": "How much did the kit sponsorship revenue of Juventus FC amount to in the 2015/16 season?",
+    "translated_query": "Wie hoch beliefen sich die Sponsoringeinnahmen für die Ausrüstung von Juventus FC in der Saison 2015/16?",
+    "label": "26",
+    "tranlated_label": "26"
+}

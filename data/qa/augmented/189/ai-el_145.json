@@ -1,0 +1,37 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "1964-1968",
+            "2014-2016"
+        ],
+        "series": [
+            {
+                "name": "Άνδρες",
+                "data": [
+                    18.3,
+                    17.0
+                ]
+            },
+            {
+                "name": "Γυναίκες",
+                "data": [
+                    19.4,
+                    17.6
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Μέση ηλικία σε έτη",
+        "source": "© Statista 2021",
+        "note": "Εμφάνιση πηγής"
+    },
+    "colors": [
+        "#2B78E8",
+        "#1F2D3D"
+    ]
+}

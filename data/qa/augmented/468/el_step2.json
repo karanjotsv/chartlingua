@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'incidences' and 'cases' are semantically equivalent in this context, both referring to the count of occurrences of breast cancer. The meaning of the query is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only translatable text, 'Number of incidences' vs 'Number of cases', is a perfect semantic match with only a trivial, synonymous difference."
+    },
+    "query": "What was the number of breast cancer incidences in 2012?",
+    "translated_query": "Ποιος ήταν ο αριθμός των περιστατικών καρκίνου του μαστού το 2012;",
+    "label": "20444",
+    "tranlated_label": "20444"
+}

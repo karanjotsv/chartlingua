@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. The minor grammatical change from 'is green color' to 'has green color' does not alter the conveyed information. Punctuation difference (trailing space vs. period) is stylistic and not semantic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'chart_data' labels is perfectly identical between the original and back-translated versions. All other text fields in the 'texts' object were null in both, indicating no text to translate, thus perfect semantic equivalence."
+    },
+    "claim": "Item A is green color and occupies 5% of the chart as shown ",
+    "translated_claim": "Το Στοιχείο Α έχει πράσινο χρώμα και καταλαμβάνει το 5% του γραφήματος όπως φαίνεται."
+}

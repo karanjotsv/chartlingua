@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The term 'magazine title' was back-translated as 'print publication'. While 'print publication' is a broader category, the core intent of finding the leading general entity in the print media space by reach remains accurately conveyed. It's a minor, acceptable broadening of scope rather than a significant distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences in 'x_axis_title' ('Individuals reached in thousands' vs 'Reach in thousands of people') and 'y_axis_title' ('Print title' vs 'Print publication name') are minor synonymous phrasings that do not alter the core meaning or introduce any loss of information."
+    },
+    "query": "What was the leading general magazine title in terms of overall reach in the UK from April 2019 to 2020?",
+    "translated_query": "Какое общее печатное издание лидировало по общему охвату в Великобритании с апреля 2019 по 2020 год?",
+    "label": "Radio Times",
+    "translated_label": "Радио Таймс"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The main meaning is largely conveyed, but there is a significant error in the specific medical term. 'C2 fractures' (referring to the second cervical vertebra) was incorrectly translated to 'K2 fractures', which distorts critical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON maintains excellent semantic equivalence with the original. The change from 'Incidence' to 'Frequency' in the title, and 'According to' to 'By', along with 'U.S.A.' to 'the U.S.', are all minor stylistic or synonymous variations that do not alter the core meaning or introduce any loss of critical information."
+    },
+    "claim": "85 above age group people got 1000 incidents of C2 fractures in USA 2010.",
+    "translated_claim": "Άτομα της ηλικιακής ομάδας άνω των 85 ετών είχαν 1000 περιστατικά καταγμάτων Κ2 στις ΗΠΑ το 2010."
+}

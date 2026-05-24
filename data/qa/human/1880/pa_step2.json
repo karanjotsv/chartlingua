@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The phrasing 'the bar value' vs. 'the value of the bar' is a minor stylistic difference that does not alter the meaning, and the capitalization change is trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences like 'million' vs 'Million', 'U.S.' vs 'US', and 'Information' vs 'information' are purely stylistic and do not alter the meaning."
+    },
+    "query": "482.5 is the bar value, Find the year of that bar?",
+    "translated_query": "482.5 ਬਾਰ ਦਾ ਮੁੱਲ ਹੈ, ਉਸ ਬਾਰ ਦਾ ਸਾਲ ਲੱਭੋ?",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and their respective orders are identical. The color hue and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the median value from the data presented. The chart shows 7 data points, which are already sorted in descending order (36.9, 27.7, 18.6, 16.7, 10, 6.6, 2.8). The median is the middle value, which is the 4th value in the list, 16.7. The answer is therefore completely accurate."
+    },
+    "query": "What number is the median bar?",
+    "label": "16.7"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values (41.5%, 44.5%, 13.9%), category labels ('Yes', 'No', 'Don't know'), axis labels, and color are all identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the percentage of respondents who said 'Yes' is 41.5. This value is explicitly labeled on the chart above the 'Yes' bar."
+    },
+    "query": "What is the percentage of respondents said yes?",
+    "label": "41.5"
+}

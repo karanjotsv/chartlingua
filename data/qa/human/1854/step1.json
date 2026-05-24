@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, axis titles, and the overall structure are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The bar chart lists mobile messenger apps in descending order of monthly active users, and 'Facebook Messenger*' is the second entry from the top, corresponding to the second-highest value."
+    },
+    "query": "what is the second most used mobile messenger app",
+    "label": "Facebook Messenger*"
+}

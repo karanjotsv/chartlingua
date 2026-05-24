@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, series (including line styles and marker types), axis labels, tick values, and data point labels are accurately reproduced. The overall message and data relationships are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on 'Threshold Dose' versus 'LET' for different elements (Fe, Si, Ti) and contains no information about rainfall, locations like 'Nagpur', or any specific dates. The claim is entirely unrelated to the content of the chart."
+    },
+    "claim": "Nagpur experienced the total highest rainfall on July 2, 2019 as per the chart.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, colors, and the overall message are consistent. Minor differences in color shade and bar width are purely stylistic and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart clearly shows that the grey bar, representing 'Emissions' at 526.3 Mt, is visually much larger than the green bar, representing 'Absorption by LULUCF' at -99.9 Mt. Therefore, the claim that the grey bar is smaller is incorrect."
+    },
+    "claim": "The grey colour bar is smaller than green colour bar.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values, axis labels, annotations, color hues, and the overall trend are all accurately reproduced with no discernible semantic differences.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the lowest point was in 2010, but the line chart shows the lowest value occurred at the beginning of the period, in 1990, at approximately 5. The value in 2010 is visibly higher, at approximately 11."
+    },
+    "claim": "The UK government rail subsidy per passenger mile was the lowest in 2010.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces the line data, trends, colors, title, and axis labels from the original. The overall message is identical. However, it omits the summary numerical values that were listed on the left side of the original chart, which constitutes a minor loss of information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the maximum for 'image load mean time' was 4.00k. However, the chart shows that the peak of the orange line, which represents 'image-load meantime', is at approximately 2.40K on Friday 10, which is significantly lower than 4.00k. Additionally, the y-axis does not represent 'viewers'."
+    },
+    "claim": "The image load mean time mentioned the maximum viewers were 4.00 k.",
+    "label": "FALSE"
+}

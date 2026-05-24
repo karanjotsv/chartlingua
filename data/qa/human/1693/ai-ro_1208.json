@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "category": "Cercetători RI",
+            "values": [
+                24,
+                76
+            ],
+            "labels": [
+                "24%",
+                "76%"
+            ]
+        },
+        {
+            "category": "SUA",
+            "values": [
+                23,
+                73
+            ],
+            "labels": [
+                "23",
+                "73"
+            ]
+        }
+    ],
+    "series_names": [
+        "Prioritizarea relațiilor<br>economice cu China",
+        "Promovarea drepturilor<br>omului în China"
+    ],
+    "texts": {
+        "title": "Atât cercetătorii în relații internaționale<br>din SUA, cât și publicul american sprijină<br>promovarea drepturilor omului în China",
+        "subtitle": "% care spun că SUA ar trebui să...",
+        "note": "Notă: „RI” se referă la relații internaționale.",
+        "source": "Sursa: Date privind publicul larg din SUA de la Sondajul Global Attitudes<br>din vara anului 2020 al Pew Research Center. Date privind cercetătorii RI, produse<br>de Proiectul Teaching, Research & International Policy (TRIP)<br>de la Colegiul William & Mary, realizat online în perioada 17-24 sept.<br>2020 (n=706).",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#23517c",
+        "#85994b"
+    ]
+}

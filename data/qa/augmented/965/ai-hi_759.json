@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "name": "लागत",
+            "categories": [
+                "कुल",
+                "प्रशासनिक बजट",
+                "मानव रहित विमान",
+                "सैन्य पोत"
+            ],
+            "values": [
+                1273.27,
+                21.9,
+                291.46,
+                959.91
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "लागत मिलियन अमेरिकी डॉलर में",
+        "y_axis_title": null,
+        "source": "© स्टेटिस्टा 2021"
+    },
+    "colors": [
+        "#1f77b4"
+    ]
+}

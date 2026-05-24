@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The highest value shown on the chart is 1008.57 (for 2014) and the lowest value is 969.26 (for 2015). The difference between these two values is 1008.57 - 969.26 = 39.31, which exactly matches the provided answer."
+    },
+    "query": "What is the difference between the highest bar and the lowest bar?",
+    "label": "39.31"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. Minor differences like 'graph'/'chart', 'see'/'observe', and 'line'/'trend' are stylistic or provide clearer phrasing without altering the core message. The phrasing 'in twice' vs 'twice' also maintains the intended meaning of occurrence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but there's a loss of specific legal nuance in the title. 'Disorderly Conduct' (a specific legal offense) has been translated to 'Insubordinate Behavior', which, while related to behavioral issues, is not a direct or precise semantic equivalent and often refers to a different context (e.g., workplace, military) than public 'disorderly conduct'. Other text elements are semantically equivalent or only have minor stylistic differences."
+    },
+    "claim": "According to the graph, we can see decreasing line in the number of women arrested at different ages in twice.",
+    "translated_claim": "Σύμφωνα με το γράφημα, παρατηρούμε μια φθίνουσα γραμμή στον αριθμό των γυναικών που συνελήφθησαν σε διαφορετικές ηλικίες δύο φορές."
+}

@@ -1,0 +1,41 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Strong ties with U.S.",
+            "display_label": "<b>Strong ties<br>with U.S.</b><br>57%",
+            "value": 57,
+            "text_color": "#FFFFFF"
+        },
+        {
+            "hover_label": "Equally close ties (VOL)",
+            "display_label": "<b>Equally<br>close ties<br>(VOL)</b><br>21%",
+            "value": 21,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Strong ties with Russia",
+            "display_label": "<b>Strong<br>ties with<br>Russia</b><br>15%",
+            "value": 15,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Don't know",
+            "display_label": "<b>7%</b>",
+            "value": 7,
+            "text_color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": "<b>Germans: Majority Prefer<br>Strong Ties with U.S.</b>",
+        "subtitle": "<i>Which is more important for<br>Germany – to have strong ties with<br>the U.S. or strong ties with Russia?</i>",
+        "source": "Source: 2015 Pew Research Center survey.<br><b>PEW RESEARCH CENTER</b>",
+        "annotation_label": "<b>Don't<br>know</b>"
+    },
+    "colors": [
+        "#8E9F55",
+        "#E0E0D1",
+        "#BCC69C",
+        "#EFF0E6"
+    ]
+}

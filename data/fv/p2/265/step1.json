@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the legend text, data values, and color hues are correct, the rendered chart places the country flags on the wrong corresponding pie slices. For example, the US flag is on the Soviet Union slice, and the Soviet flag is on the US slice. This is a major semantic error that misrepresents the data visually.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "According to the chart's legend, the percentage of Armenians born in the United States is 28.1% and the percentage born in Lebanon is 11.5%. The difference between these two figures is 28.1% - 11.5% = 16.6%, which is exactly what the claim states."
+    },
+    "claim": "The difference between the amount of Armenians that born in united states with Lebanon is 16.6%",
+    "label": "TRUE"
+}

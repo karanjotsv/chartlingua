@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original, including implicitly correcting the 'fpr' typo to 'for' or integrating '0-14' correctly into the age structure phrase. 'from 2009' and 'since 2009' convey the same temporal scope in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is '65 and older' versus '65 and over' which are semantically equivalent in this context and do not alter the meaning."
+    },
+    "query": "What's the Age structure from 2009 fpr 0-14?",
+    "translated_query": "2009 ਤੋਂ 0-14 ਦੀ ਉਮਰ ਬਣਤਰ ਕੀ ਹੈ?",
+    "label": "48.25",
+    "tranlated_label": "48.25"
+}

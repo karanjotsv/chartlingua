@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Higher than' and 'greater than' are completely synonymous in this comparative context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All `chart_data` categories and values are identical, and all `texts` fields (title, subtitle, etc.) are null in both the original and back-translated content, indicating perfect semantic equivalence as no translatable text was present or altered."
+    },
+    "claim": "The difference between PNL and others is higher than the difference between PD-L and PSD.",
+    "translated_claim": "Разница между PNL и другими выше, чем разница между PD-L и PSD."
+}

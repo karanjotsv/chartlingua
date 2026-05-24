@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation corrects the grammatical error from 'the wide used' to 'a widely used', which is an improvement in fluency. However, changing the definite article 'the' to the indefinite 'a' subtly alters the meaning. While the original was grammatically awkward, 'the' typically implies a unique or primary status (e.g., 'the widely used one'), whereas 'a' implies one among potentially many. This constitutes a loss of a specific nuance or emphasis, even if the original's grammar was imperfect."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (labels and title) are semantically identical. The only difference in the title is capitalization ('system statistics' vs 'System Statistics'), which is a stylistic choice and does not alter the meaning."
+    },
+    "claim": "Windows is the wide used operating system on Wikimedia.",
+    "translated_claim": "Windows является широко используемой операционной системой на Викимедиа."
+}

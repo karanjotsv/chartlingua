@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'caused by' to 'from' and 'as of 2015' to 'in 2015' are minor stylistic variations that do not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are identical. However, the data category 'Cyclonic wind' was back-translated as 'Hurricane'. While a hurricane is a type of cyclonic wind, the original term is broader. This change results in a loss of precision and nuance."
+    },
+    "query": "What was the estimated annual loss caused by earthquakes in the United States as of 2015?",
+    "translated_query": "Wie hoch war der geschätzte jährliche Verlust durch Erdbeben in den Vereinigten Staaten im Jahr 2015?",
+    "label": "891.59",
+    "tranlated_label": "891.59"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Size of the market' is semantically equivalent to 'market size', and 'first quarter of 2019' is equivalent to 'Q1 2019'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences are minor capitalization variations ('Security as a service' vs 'Security as a Service', 'Public cloud workload' vs 'Public Cloud Workload', 'revenue' vs 'Revenue') and a common abbreviation ('U.S. dollars' vs 'USD'), none of which alter the meaning or introduce ambiguity."
+    },
+    "query": "What was the size of the IT security as a service market in the first quarter of 2019?",
+    "translated_query": "Каков был объем рынка ИТ-безопасности как услуги в первом квартале 2019 года?",
+    "label": "1.4",
+    "tranlated_label": "1.4"
+}

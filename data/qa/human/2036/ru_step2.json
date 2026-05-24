@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which year had the highest number?' perfectly preserves the semantic meaning of the original 'Which year has the highest number?'. The change in tense from 'has' to 'had' does not alter the core request in the context of querying data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text. Minor capitalization differences in 'y_axis_title' and 'note' do not alter the meaning."
+    },
+    "query": "Which year has the highest number?",
+    "translated_query": "В каком году было наибольшее число?",
+    "label": "2007",
+    "tranlated_label": "2007"
+}

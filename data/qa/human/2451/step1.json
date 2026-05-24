@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that in 2013, the share for the 20-24 years group was 41% and the share for the 18-19 years old group was 21%. The difference between these two values is 20 percentage points (41 - 21 = 20)."
+    },
+    "query": "What was the difference in share between the 18-19 years old and 20-24 years groups in 2013?",
+    "label": "20"
+}

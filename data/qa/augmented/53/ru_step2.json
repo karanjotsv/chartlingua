@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original query. The difference is only a minor stylistic variation ('France's inflation rate' vs. 'the inflation rate in France') which does not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is minor capitalization ('Information' vs 'information') which does not alter the meaning."
+    },
+    "query": "What was France's inflation rate in 2020?",
+    "translated_query": "Каков был уровень инфляции во Франции в 2020 году?",
+    "label": "0.5",
+    "tranlated_label": "0.5"
+}

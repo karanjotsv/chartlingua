@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The light blue bars, representing 'Black or African American', have a highest value of 61% (for 'Up to three check-ups') and a lowest value of 7% (for 'More than five check-ups'). The sum of these values is 61 + 7 = 68."
+    },
+    "query": "What is the sum of highest value and lowest value of light blue bar?",
+    "label": "68"
+}

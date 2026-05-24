@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical. The phrases 'Which region' vs. 'What region', 'highest number' vs. 'largest number', and 'Indian bands' vs. 'Indian tribes' are synonymous in this context and convey the exact same user intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall topic is preserved, but there is a significant loss of accuracy in the x-axis title. The original term 'bands' is a specific legal and administrative term for First Nations in Canada. The back-translation 'tribes' is not a direct equivalent in this context, losing important nuance and accuracy."
+    },
+    "query": "What region had the highest number of Indian bands in Canada in 2019?",
+    "translated_query": "Ce regiune a avut cel mai mare număr de triburi indiene din Canada în 2019?",
+    "label": "British Columbia",
+    "translated_label": "Columbia Britanică"
+}

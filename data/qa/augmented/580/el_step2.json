@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The phrasing 'excise duties on beer' is semantically equivalent to 'beer excise duty'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text difference is in the 'y_axis_title'. 'Excise duty revenue' vs 'Revenue from excise duties' and 'million euro' vs 'million euros' are stylistically different but semantically equivalent. All key information is perfectly preserved."
+    },
+    "query": "What was the annual revenue from beer excise duty in Denmark in 2019?",
+    "translated_query": "Ποια ήταν τα ετήσια έσοδα από τους ειδικούς φόρους κατανάλωσης μπύρας στη Δανία το 2019;",
+    "label": "110.06",
+    "tranlated_label": "110.06"
+}

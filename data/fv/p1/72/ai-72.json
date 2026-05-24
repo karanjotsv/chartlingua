@@ -1,0 +1,77 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "title": "Admixture of Hispanics in California I",
+            "labels": [
+                "European",
+                "Native American",
+                "West African"
+            ],
+            "values": [
+                46,
+                43,
+                11
+            ]
+        },
+        {
+            "title": "Admixture of Hispanics in California II",
+            "labels": [
+                "European",
+                "Native American",
+                "West African"
+            ],
+            "values": [
+                49,
+                38,
+                13
+            ]
+        },
+        {
+            "title": "Admixture of Hispanics in Nevada",
+            "labels": [
+                "European",
+                "Native American",
+                "West African"
+            ],
+            "values": [
+                34,
+                58,
+                8
+            ]
+        },
+        {
+            "title": "Admixture of Hispanics in the Southwest I",
+            "labels": [
+                "European",
+                "Native American"
+            ],
+            "values": [
+                64,
+                36
+            ]
+        },
+        {
+            "title": "Admixture of Hispanics in the Southwest II",
+            "labels": [
+                "European",
+                "Native American"
+            ],
+            "values": [
+                67,
+                34
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "European": "#0000FF",
+        "Native American": "#FF0000",
+        "West African": "#FFFF00"
+    }
+}

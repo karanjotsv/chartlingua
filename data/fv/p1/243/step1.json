@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and the chart title are identical, ensuring the overall message and interpretation are preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Chanayethazan represents the majority of Mandalay's population. However, the pie chart shows that Chanayethazan accounts for only 14%, which is not a majority (over 50%) and is in fact the smallest percentage shown."
+    },
+    "claim": "The majority of Mandalay's population consists of those in the category Chanayethazan.",
+    "label": false
+}

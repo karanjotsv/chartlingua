@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Grundstücksfläche in Quadratfuß<br>(LE)",
+            "value": 5000,
+            "annotation_y": 2500
+        },
+        {
+            "category": "Erdgeschoss<br>Gebäudegrundfläche<br>(FPA)",
+            "value": 3750,
+            "annotation_y": 2000
+        },
+        {
+            "category": "LE - FPA, genannt „E“",
+            "value": 1250,
+            "annotation_y": 750
+        },
+        {
+            "category": "50 % von FPA",
+            "value": 1875,
+            "annotation_y": 1250
+        },
+        {
+            "category": "Grundstück FPA+1250<br>bis zu 50 % von FPA<br>können hinzugefügt werden",
+            "value": 5000,
+            "annotation_y": 2500
+        }
+    ],
+    "texts": {
+        "title": "Bewertung des Grundstückswertes",
+        "subtitle": "Grafik: A. M. Ibrahim",
+        "x_axis_title": null,
+        "y_axis_title": "Quadratfuß",
+        "source": null
+    },
+    "colors": [
+        "#9b9bff"
+    ]
+}

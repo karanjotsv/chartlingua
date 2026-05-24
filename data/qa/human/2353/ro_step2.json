@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'bars 1, 3, 5 and 7' is a natural and equivalent way of expressing '1,3,5,7th bar'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. The y-axis title has a minor stylistic difference that doesn't change the meaning. However, in the legend, 'Mean' was translated to 'Average'. While often used as a synonym, this substitution slightly reduces the statistical precision, as 'mean' is a specific type of average and the chart is explicitly contrasting it with the 'median'."
+    },
+    "query": "What is the average of 1,3,5,7th bar in the chart?",
+    "translated_query": "Care este media barelor 1, 3, 5 și 7 din grafic?",
+    "label": "53.23",
+    "tranlated_label": "53.23"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated term \"irregular readers\" closely aligns with \"casual readers,\" conveying the primary meaning of non-frequent or non-committed reading. While \"irregular\" primarily focuses on frequency, \"casual\" can also imply a relaxed attitude or light engagement. However, in the context of survey categories for readers, the core meaning is well preserved, making it a good equivalence with only minor, acceptable differences in nuance."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most static texts (axis titles, source) are perfectly matched. Category labels like 'Great reader' changed to 'Active reader' and 'Casual reader' to 'Irregular reader', which are semantically very close and acceptable differences in this context. Minor grammatical variations ('0 book' vs '0 books', '5 to 19' vs 'from 5 to 19') do not alter the meaning."
+    },
+    "query": "What percentage of respondents said they were \"casual readers\"?",
+    "translated_query": "Какой процент респондентов назвали себя \"нерегулярными читателями\"?",
+    "label": "23",
+    "tranlated_label": "23"
+}

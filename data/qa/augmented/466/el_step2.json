@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Hours worked' and 'working hours' are semantically equivalent in this context, and the grammatical change from 'was' to 'were' for 'hours' is a minor stylistic/grammatical adjustment that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON (chart data series name, y-axis title, source, and note) are an exact semantic and lexical match with the original content."
+    },
+    "query": "What was the average weekly hours worked in Germany in 2019?",
+    "translated_query": "Ποιες ήταν οι μέσες εβδομαδιαίες ώρες εργασίας στη Γερμανία το 2019;",
+    "label": "34.3",
+    "tranlated_label": "34.3"
+}

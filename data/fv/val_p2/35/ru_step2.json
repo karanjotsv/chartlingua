@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is semantically identical to the original. 'Rental Valuation' and 'rent assessment' are synonymous, and the phrasing differences are purely stylistic without changing the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation captures the general topic, but there are significant semantic shifts in key technical terms. 'DRC of Building' is changed to 'Replacement Cost of Building' (losing the 'depreciated' nuance), 'Amenity' is changed to 'Improvements' (a different concept in this context), and the y-axis title 'CU' (Currency Units) is generalized to 'Units', resulting in a loss of important detail and accuracy."
+    },
+    "claim": "Red bars are used to represent Tamil Nadu Rental Valuation.",
+    "translated_claim": "Красные столбцы используются для отображения оценки арендной платы в штате Тамилнад."
+}

@@ -1,0 +1,55 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Freiflächen in<br>Nationalparks schützen",
+            "Tiere und ihre<br>Lebensräume schützen",
+            "Auswirkungen des Klimawandels<br>reduzieren",
+            "Luftqualität schützen",
+            "Wasserqualität von Seen,<br>Flüssen und Bächen schützen"
+        ],
+        "series": [
+            {
+                "name": "Zu wenig",
+                "values": [
+                    54,
+                    62,
+                    65,
+                    65,
+                    67
+                ]
+            },
+            {
+                "name": "Etwa richtig",
+                "values": [
+                    40,
+                    32,
+                    25,
+                    30,
+                    29
+                ]
+            },
+            {
+                "name": "Zu viel",
+                "values": [
+                    5,
+                    6,
+                    9,
+                    4,
+                    3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Mehrheiten sagen, die Bundesregierung tue zu wenig,<br>um verschiedene Aspekte der Umwelt zu schützen",
+        "subtitle": "% der erwachsenen US-Bürger, die angeben, <i>die Bundesregierung tue ___ in jedem Bereich</i>",
+        "source": "Hinweis: Befragte ohne Antwort werden nicht angezeigt.<br>Quelle: Umfrage durchgeführt vom 29. April bis 5. Mai 2020.<br>“Two-Thirds of Americans Think Government Should Do More on Climate”",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#1F4E7A",
+        "#4B88C4",
+        "#B9BD71"
+    ]
+}

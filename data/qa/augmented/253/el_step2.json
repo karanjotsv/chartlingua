@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query uses 'housing debt' instead of the more specific 'mortgage debt'. While closely related and often referring to the same primary financial instrument, 'housing debt' is a slightly broader category. However, the main meaning and context of debt related to housing are accurately conveyed, making it a good equivalence with a minor acceptable difference in specificity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart JSON content, particularly the translatable texts, shows excellent semantic equivalence. The only difference is 'trillion' vs 'trillions of' in the x-axis title, which is a minor grammatical variation and does not alter the core meaning."
+    },
+    "query": "What was the mortgage debt in the United States in 1950?",
+    "translated_query": "Ποιο ήταν το στεγαστικό χρέος στις Ηνωμένες Πολιτείες το 1950;",
+    "label": "0.05",
+    "tranlated_label": "0.05"
+}

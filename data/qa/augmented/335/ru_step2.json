@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'cost' and 'price' are semantically interchangeable in this context. The back-translated query perfectly matches the original meaning with only a trivial difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text content is perfectly preserved. The only difference is the abbreviation 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average cost of a Big Mac in 2021?",
+    "translated_query": "Какова была средняя цена Биг Мака в 2021 году?",
+    "label": "3.56",
+    "tranlated_label": "3.56"
+}

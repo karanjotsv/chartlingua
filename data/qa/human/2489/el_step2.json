@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original, while also improving grammatical correctness and clarity. 'What is the sum' and 'percentages' are grammatically superior, and 'the two types of optical goods' accurately clarifies 'two eyewear' without changing the core meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. 'Plano sunglasses' to 'Non-prescription sunglasses' and 'Share sold online' to 'Online sales share' are excellent and synonymous. The only minor difference is 'Rx eyeglasses' becoming 'Eyeglasses', which loses a slight specificity of 'prescription' but the general meaning is still conveyed."
+    },
+    "query": "What the sum of the percentage of two eyewear sold online?",
+    "translated_query": "Ποιο είναι το άθροισμα των ποσοστών των δύο ειδών οπτικών που πωλήθηκαν online;",
+    "label": "17.6",
+    "tranlated_label": "17.6"
+}

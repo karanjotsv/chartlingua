@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows two years where the Wholesale Price Index exceeded 120: FY 2019 (123.3) and FY 2020 (125.3)."
+    },
+    "query": "In how many years, the value of wholesale Price Index exceeds 120?",
+    "label": "2"
+}

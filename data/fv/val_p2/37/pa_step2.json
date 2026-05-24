@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the original meaning with only minor stylistic variations. 'Blue colour bars' is accurately conveyed as 'blue bars', and 'are used in the given chart' is semantically equivalent to 'The given chart uses'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but there is a loss of specificity in the chart title. 'Disorderly Conduct' is a specific legal term which was back-translated to the broader 'Misconduct Cases', losing some important detail and nuance about the nature of the arrests. Other elements like axis titles are good."
+    },
+    "claim": "Blue colour bars are used in the given chart.",
+    "translated_claim": "ਦਿੱਤੇ ਗਏ ਚਾਰਟ ਵਿੱਚ ਨੀਲੇ ਰੰਗ ਦੀਆਂ ਬਾਰਾਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਗਈ ਹੈ।"
+}

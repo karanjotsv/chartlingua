@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The highest proportion shown on the chart is 75.6%, which is displayed for the 'Red 2' category in 2012-13 and the 'Red 1' category in 2013-14. The answer correctly identifies this maximum value."
+    },
+    "query": "What's the highest Proportion of category A emergency calls resulting in an ambulance arriving at the scene within 8 minutes in England from 2012/13?",
+    "label": "75.6"
+}

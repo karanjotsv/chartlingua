@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 1,
+        "query_reason": "The original query asks for the statistical 'mode' of a graph, which refers to the most frequent value. The back-translated query asks 'What kind of chart is this?', which is a completely different question about the chart's type or visualization style. The semantic meaning is entirely lost and unrelated."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The equivalence is fair. While most texts match, the label 'U.S. workers overall' was changed to 'U.S. Employees Overall'. 'Workers' is a broader category than 'employees', especially when comparing to 'Freelancers' (who are often not employees). This change narrows the scope of the second dataset, losing some semantic accuracy."
+    },
+    "query": "What is the mode of this graph?",
+    "translated_query": "Каков вид этого графика?",
+    "label": "5",
+    "tranlated_label": "5"
+}

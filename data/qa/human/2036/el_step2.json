@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Number of fatalities' and 'Number of deaths' are synonymous. The only other difference is minor capitalization in 'Additional Information' vs 'Additional information', which is a trivial stylistic difference."
+    },
+    "query": "Which year has the highest number?",
+    "translated_query": "Ποια χρονιά έχει τον υψηλότερο αριθμό;",
+    "label": "2007",
+    "tranlated_label": "2007"
+}

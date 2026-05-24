@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning. Minor differences like 'count' vs 'number', 'Strongly' vs 'Clearly', and 'morelike' vs 'more similar' are stylistic or synonymous variations that do not alter the core message or key information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most JSON fields are identical or perfectly semantically equivalent, including the chart title (stylistic difference only). The 'x' labels in 'chart_data' show minor acceptable variations like 'Strongly morelike' becoming 'Clearly more similar' and 'Strongly Wikivectors' becoming 'Clearly Wikivectors'. These changes are minor and do not alter the main meaning or key information."
+    },
+    "claim": "The cumulative count of the two lists \"Neither\" and \"Strongly Wikivectors\" is higher than the list \"Strongly morelike\"",
+    "translated_claim": "Ο αθροιστικός αριθμός των δύο λιστών «Κανένα από τα δύο» και «Σαφώς Wikivectors» είναι υψηλότερος από τη λίστα «Σαφώς πιο παρόμοιο»"
+}

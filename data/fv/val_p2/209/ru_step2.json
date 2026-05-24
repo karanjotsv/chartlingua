@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the same meaning as the original. Differences like 'The LE-FPA' vs 'LE-FPA' and 'as per' vs 'according to' are minor stylistic variations that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main meaning of all chart data categories and the overall chart title are well preserved. Minor acceptable differences include the omission of 'Ground Floor' from one category description (though 'Building Footprint Area' often implies ground floor) and a synonymous title change from 'Assessment of Land Value' to 'Land Valuation', neither of which significantly alters the core information."
+    },
+    "claim": "The LE-FPA reached the maximum as per the bar chart.",
+    "translated_claim": "LE-FPA достигло максимума согласно гистограмме."
+}

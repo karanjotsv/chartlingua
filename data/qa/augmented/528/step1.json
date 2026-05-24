@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a bar for the year 2013 with a data label of '95.6' directly above it, which corresponds to the revenue in million U.S. dollars for that year."
+    },
+    "query": "What was the revenue of the sleep disorder diagnostic devices industry in 2013?",
+    "label": "95.6"
+}

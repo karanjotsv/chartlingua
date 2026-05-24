@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are accurately reproduced for both pie charts. The overall message comparing the universe's composition at two different times is perfectly preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap in the bottom chart. The labels for 'Atoms' and the title '13.7 BILLION YEARS AGO' and its subtitle are all overlapping, which impedes readability."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The top pie chart, labeled 'TODAY', shows that Dark Energy constitutes 68.3% of the universe, which is the largest portion compared to Dark Matter (26.8%) and Atoms (4.9%)."
+    },
+    "claim": "Dark Energy makes up the largest amount of matter in the Universe today.",
+    "label": true
+}

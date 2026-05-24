@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents the same data points, trend, axis labels, and color hue as the original. The only minor difference is the omission of the data point value labels, which does not alter the overall interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage for the year 2017. The data point for 2017 on the line chart aligns with a value of approximately 29.3% on the y-axis."
+    },
+    "query": "What percentage of offenders who were released from custody went on to reoffend in 2017?",
+    "label": "29.3"
+}

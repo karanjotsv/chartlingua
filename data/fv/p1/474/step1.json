@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, title, and source information are identical. The color hues for each category are also consistent, preserving the overall message of the chart.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data label for the 'Corporate Income' category overlaps with the 'Source Data' text at the bottom of the chart, which hinders readability."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that Individual Income had the highest percentage of U.S. Federal Receipts in 2015. The pie chart shows the percentage for Individual Income is 47%, which is higher than the percentages for Payroll (33%), Corporate Income (11%), and Other (9%)."
+    },
+    "claim": "Individual Income had the highest percentage of U.S. Federal Receipts for fiscal year 2015.",
+    "label": true
+}

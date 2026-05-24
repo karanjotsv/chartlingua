@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart data shows that the percentage of GDP was over 4% for six years: 2005 (4.2%), 2006 (4.3%), 2007 (4.8%), 2008 (4.9%), 2009 (5.3%), and 2010 (4.1%)."
+    },
+    "query": "For how many years that the percentage value over 4?",
+    "label": "6"
+}

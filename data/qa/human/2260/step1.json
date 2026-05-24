@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, color hues, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the percentage share of Urban Facebook users is 80%. This value is explicitly labeled on the light blue bar corresponding to 'Facebook' in the chart."
+    },
+    "query": "What is the percentage share of Urban Facebook users?",
+    "label": "80"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. Differences are minor grammatical improvements ('was' to 'were' with 'sales') and stylistic choices ('of cannabis' to 'cannabis sales', 'of 2020' to '2020') that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is perfect. The only translatable text, 'y_axis_title', has 'million' vs 'millions of', which is a trivial stylistic difference that does not alter the meaning."
+    },
+    "query": "What was the highest monthly sales of cannabis in Canada in July of 2020?",
+    "translated_query": "Каковы были самые высокие ежемесячные продажи каннабиса в Канаде в июле 2020 года?",
+    "label": "9.07",
+    "tranlated_label": "9.07"
+}

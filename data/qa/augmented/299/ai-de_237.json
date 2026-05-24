@@ -1,0 +1,43 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "0-4",
+            "value": 25995
+        },
+        {
+            "category": "5-9",
+            "value": 1125
+        },
+        {
+            "category": "10-19",
+            "value": 430
+        },
+        {
+            "category": "20-49",
+            "value": 190
+        },
+        {
+            "category": "50-99",
+            "value": 65
+        },
+        {
+            "category": "100-249",
+            "value": 25
+        },
+        {
+            "category": "250+",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anzahl der Unternehmen*",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2A74BF"
+    ]
+}

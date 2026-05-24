@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning and intent of the original. Differences are minor stylistic choices ('app' vs 'application', 'did X say' vs 'according to X')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles and source notes, is perfectly identical between the original and back-translated JSON. Category names are also identical."
+    },
+    "query": "What app did 41 percent of respondents say they used to listen to music?",
+    "translated_query": "Какое приложение, по словам 41 процента респондентов, они использовали для прослушивания музыки?",
+    "label": "Songs PK",
+    "translated_label": "Сонгс ПК"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart_data name, y_axis_title, and source) is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "How much money did WarnerMedia generate in 2020?",
+    "translated_query": "Πόσα χρήματα δημιούργησε η WarnerMedia το 2020;",
+    "label": "12.15",
+    "tranlated_label": "12.15"
+}

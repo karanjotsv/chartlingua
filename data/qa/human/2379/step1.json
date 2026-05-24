@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. By examining the chart, there are exactly three bars with values below 40: Coins in 2016 (33), Coins in 2017 (32.5), and Coins in 2018 (33.1)."
+    },
+    "query": "How many bars have value below 40?",
+    "label": "3"
+}

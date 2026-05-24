@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Value of the bars presented' clarifies 'bars that given' without altering the intent, and 'approximately' is a perfect synonym for 'about'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON texts maintain perfect semantic equivalence with the original. Differences are minor stylistic choices (e.g., capitalization in title, 'way' vs 'method', 'very much' vs 'strongly'), none of which alter the core meaning or information."
+    },
+    "claim": "The average bars that given for energy sources is about 74.5.",
+    "translated_claim": "Среднее значение столбцов, представленных для источников энергии, составляет около 74.5."
+}

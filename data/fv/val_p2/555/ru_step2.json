@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. The phrasing 'billions of US dollars' is a stylistically equivalent and slightly more conventional way to express 'USD billion dollars', without any loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All key texts like 'Total Aid', 'Atrophy', 'If value is reduced by 20%', and 'In USD billion dollars' retain their exact meaning. Minor differences include a more grammatically standard phrasing ('If the value' vs. 'If value', 'billions of US dollars' vs. 'USD billion dollars') and decimal separator conventions (comma vs. period for currency), none of which alter the core semantic information."
+    },
+    "claim": "The amount of Atrophy in USD billion dollars is 9.22 according to the pie chart.",
+    "translated_claim": "Сумма Атрофии в миллиардах долларов США составляет 9,22 согласно круговой диаграмме."
+}

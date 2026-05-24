@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly conveys the semantic meaning of the original. The change from 'life stage' to 'life cycle stage' is a minor stylistic difference, and 'consists of' is a grammatically correct phrasing for 'consists from' while retaining identical meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation introduced significant semantic errors in the chart data categories. 'Pre-Manufacturing' was changed to 'Pre-Construction' and 'Manufacturing' to 'Construction', fundamentally altering the subject matter of these data points. While other text elements are correct or have only minor stylistic differences, this change represents a significant distortion of key information."
+    },
+    "claim": "Economic activity per life stage of a wind farm consists from 4 parts.",
+    "translated_claim": "Η οικονομική δραστηριότητα ανά στάδιο ζωής ενός αιολικού πάρκου αποτελείται από 4 μέρη."
+}

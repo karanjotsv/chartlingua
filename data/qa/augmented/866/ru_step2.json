@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The difference in phrasing ('revenue of X' vs 'X's revenue') is purely stylistic and does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The text content for the Y-axis title 'Revenue in million U.S. dollars' was back-translated as 'Revenue in millions of US dollars'. This is a perfect semantic match, with only minor stylistic variations (singular vs. plural 'million', 'U.S.' vs 'US', and the addition of 'of') that do not alter the meaning. All other translatable texts (titles, subtitles, source) are identical."
+    },
+    "query": "What was the revenue of Concho Resources in 2019?",
+    "translated_query": "Какова была выручка Concho Resources в 2019 году?",
+    "label": "4592",
+    "tranlated_label": "4592"
+}

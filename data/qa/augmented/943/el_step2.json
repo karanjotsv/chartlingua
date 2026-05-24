@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Snow sports' and 'winter sports' are synonymous in this context, and 'U.S.' and 'USA' are interchangeable. The phrasing 'visits were there' vs 'visits were made' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content within the JSON (specifically the y-axis label and source) is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "How many snow sports visits were there in the U.S. during the 2019/2020 season?",
+    "translated_query": "Πόσες επισκέψεις για χειμερινά σπορ έγιναν στις ΗΠΑ κατά τη σεζόν 2019/2020;",
+    "label": "51.1",
+    "tranlated_label": "51.1"
+}

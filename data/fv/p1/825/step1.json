@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, category labels, and color hues are identical to the original. The addition of a title provides context without altering the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a 'majority' of employed individuals were in agriculture. The pie chart shows that agriculture accounted for 41% of occupations, which is not a majority (over 50%). While it is the largest single category, it does not represent more than half of the total."
+    },
+    "claim": "In 1881, the majority of employed individuals in Thorpe Langton were involved in agriculture and related activities.",
+    "label": true
+}

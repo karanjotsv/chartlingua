@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation correctly captures the core comparison that the initial flow value for the 'Final_6' line is lower than for the 'Exist_6' line. However, it incorrectly changes the key technical term 'standard deviation' to 'standard detention', which significantly distorts an important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content demonstrates excellent semantic equivalence. All differences are purely stylistic, such as capitalization, hyphenation, or the use of direct synonyms ('Close' vs. 'near', 'Lag' vs. 'delay'), which do not alter the meaning."
+    },
+    "claim": "The starting flow value for standard deviation when the line is Final_6 is lower than the one for the line when it is Exist_6.",
+    "translated_claim": "मानक निरोध के लिए, Final_6 रेखा का शुरुआती प्रवाह मान Exist_6 रेखा की तुलना में कम है।"
+}

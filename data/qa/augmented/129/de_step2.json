@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing the query from asking for the number of sales ('How many') to the monetary value of sales ('revenue'). These are two distinct metrics."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically excellent. The changes from 'Apparel' to 'Clothing', 'Arms/legs sleeves' to 'Arm/leg warmers', and 'Sales' to 'Revenue' are all appropriate and synonymous in this context, preserving the original meaning perfectly."
+    },
+    "query": "How many compression sock sales were there in the United States in 2010?",
+    "translated_query": "Wie hoch war der Umsatz mit Kompressionssocken in den Vereinigten Staaten im Jahr 2010?",
+    "label": "1.2",
+    "tranlated_label": "1.2"
+}

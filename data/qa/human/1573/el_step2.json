@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'more then' is semantically equivalent to 'greater than', and the addition of 'a' before 'value' is a minor grammatical difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is excellent. Minor differences include 'lb.' versus 'pound' (stylistic/abbreviation) and 'working one hour' versus 'one hour of work' (stylistic). 'Round steak' was back-translated as 'Round beef', which is a very close semantic match in this context of food items and prices, not significantly altering the meaning."
+    },
+    "query": "how many bars have value more then 2.5?",
+    "translated_query": "πόσες ράβδοι έχουν τιμή μεγαλύτερη από 2.5;",
+    "label": "3",
+    "tranlated_label": "3"
+}

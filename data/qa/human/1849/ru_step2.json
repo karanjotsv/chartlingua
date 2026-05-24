@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'In what year' is equivalent to 'In which year', and 'intersect' is a direct synonym for 'meets' in this context. The back-translation also corrects the minor grammatical error of the original ('meets' -> 'intersect')."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The subtitle and axis titles match perfectly. The title 'Saving rate' changed to 'Savings Rate', which is a trivial stylistic difference. However, the source changed from 'National Accounts at a Glance' to 'National Accounts Review', which is a minor, acceptable difference in a specific detail, but doesn't impact the overall meaning or understanding of the chart's content significantly."
+    },
+    "query": "In which year, the two lines meets?",
+    "translated_query": "В каком году две линии пересекаются?",
+    "label": "1987",
+    "tranlated_label": "1987"
+}

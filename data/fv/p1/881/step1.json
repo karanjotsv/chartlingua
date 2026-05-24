@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All key elements, including the title, axis labels, legend, data trends, and color assignments, are semantically identical. The core message of the vote count progression and crossover is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that López Obrador (red line) was the leading candidate from 25% of polling stations counted until approximately 95%. During this period, his share of the total votes shows a clear decreasing trend, starting at about 37% and falling steadily, especially after the 63% mark."
+    },
+    "claim": "The percentage of votes for the leading candidate decreased as more poll stations were counted.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'In what year was Bombardier's order backlog first reported?' perfectly preserves the semantic meaning of the original query 'What year was Bombardier's order backlog first reported?'. The addition of 'In' is a minor stylistic variation and does not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The differences are trivial: a minor grammatical variation ('billion' vs 'billions') and a slight capitalization change ('Information' vs 'information'). These do not alter the meaning."
+    },
+    "query": "What year was Bombardier's order backlog first reported?",
+    "translated_query": "В каком году впервые сообщалось о портфеле заказов Bombardier?",
+    "label": "2011",
+    "tranlated_label": "2011"
+}

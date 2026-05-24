@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly represents all data values, categories, text labels, and color hues from the original. The overall message is identical. The only differences are stylistic, such as the rendered chart being 2D instead of 3D.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows that the 'Awards Event' category, labeled as Bill 5, constitutes 53.8% of the total expenditure, which is a majority (more than 50%)."
+    },
+    "claim": "The majority of expenditure in the WLM-ZA-2012 dataset is allocated to Awards event.",
+    "label": "TRUE"
+}

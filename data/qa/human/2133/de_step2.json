@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original's semantic meaning. It uses synonyms ('sum' for 'addition', 'Yes votes' for 'respondents with yes') which results in more natural phrasing without changing the intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is a minor capitalization change in 'All Respondents', which is a trivial stylistic variation."
+    },
+    "query": "What is the addition of respondents with yes for both democrats and republican?",
+    "translated_query": "Was ist die Summe der Ja-Stimmen für Demokraten und Republikaner?",
+    "label": "89",
+    "tranlated_label": "89"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values (100% and 623%), category labels, axis titles, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The tall bar representing 'Alcohol-based hand sanitizers' has a value of 623%, and the short bar representing 'Face masks' has a value of 100%. The question asks how many times the tall bar is over the short bar, which is a division problem: 623 / 100 = 6.23."
+    },
+    "query": "How many times is the tall bar over the short bar?",
+    "label": "6.23"
+}

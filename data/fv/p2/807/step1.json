@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, axis labels, titles, and color hues for the political leanings are identical to the original. The overall message about the political disagreement on climate change across countries is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart shows data on bilingualism rates in Canada. However, the chart's title is 'Political disagreement about whether \"Climate change is a major threat\"' and it displays data for multiple countries (U.S., Australia, Canada, etc.) based on political affiliation. The subject matter of the claim is completely different from the information presented in the chart."
+    },
+    "claim": "The chart shows a comparison of the increase in the bilingualism rates in Quebec, Rest of Canada and Canada, from 1941-2006.",
+    "label": "TRUE"
+}

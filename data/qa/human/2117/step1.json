@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall message are accurately reproduced. Color hues are consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The sum total value for 'Yes, it could' is 21% + 25% = 46%. The sum total value for 'No, it could not' is 27% + 31% = 58%. Since 46% is not more than 58%, the answer 'No' is accurate based on the chart data."
+    },
+    "query": "Is the sum total value of Yes, it could more then  No ,it could not ?",
+    "label": "No"
+}

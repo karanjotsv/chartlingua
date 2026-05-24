@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels (title, axes, categories), and the overall message are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the sum of Land (R) and DRC of Building (S) is higher than Gross Land + Building. According to the chart, Land (R) is 2625 and DRC of Building (S) is 842, which sum to 3467. The value for Gross Land + Building is explicitly shown as 3987. Since 3467 is less than 3987, the claim is refuted."
+    },
+    "claim": "The value of the Land(R) and DRC of buildings(S) together is higher than the value of Gross land.",
+    "label": "FALSE"
+}

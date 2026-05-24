@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is an excellent semantic match to the original. The use of synonyms ('diagram' for 'chart', 'shows' for 'demonstrates') and minor grammatical variations ('increasing arousal level' vs 'increased arousal levels') do not change the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All text elements are either identical or have minor, acceptable variations. 'Logarithmic Plot' vs. 'Logarithmic Scale' are synonymous in this context. Other differences, such as 'U.S.' vs 'US' and a comma vs. a period in the patent number, are trivial formatting changes that do not impact the meaning."
+    },
+    "claim": "The chart demonstrates that performance always improves with increased arousal levels.",
+    "translated_claim": "Das Diagramm zeigt, dass sich die Leistung bei steigendem Erregungsniveau immer verbessert."
+}

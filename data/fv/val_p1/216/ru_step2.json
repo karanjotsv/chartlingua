@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation distorts key information by changing the proper noun from \"Homesail\" to \"Home Soil\". It also adds the word \"episode\", which adds information not present in the original, changing the specificity of the claim."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. The chart title is a perfect semantic match, using the synonym 'Viewership' for 'viewing figures'. There is one minor inaccuracy in the data labels, where the episode title 'Where No Man Has Gone Before' was changed to 'Where No One Has Gone Before', slightly altering a proper noun but not affecting the overall comprehension of the chart."
+    },
+    "claim": "More people watched \"Homesail\" than watched \"Justice.\"",
+    "translated_claim": "Эпизод «Родная почва» посмотрело больше людей, чем «Правосудие»."
+}

@@ -1,0 +1,33 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Вануату",
+            "value": 43,
+            "label": "43 (2017)"
+        },
+        {
+            "category": "Того",
+            "value": 30,
+            "label": "30"
+        },
+        {
+            "category": "Сомали",
+            "value": 8,
+            "label": "8"
+        }
+    ],
+    "texts": {
+        "title": "Индекс восприятия коррупции, 2012",
+        "subtitle": "Индекс восприятия коррупции Transparency International. Показатели измеряются по шкале от 0 до 100, где 0 означает, что страна воспринимается как крайне коррумпированная.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: Transparency International (2018)",
+        "note": "OurWorldInData.org/corruption/ • CC BY"
+    },
+    "colors": [
+        "#1f8381",
+        "#c0542d",
+        "#5c6d7e"
+    ]
+}

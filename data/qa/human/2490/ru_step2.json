@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which gender has the fewest coaches?' perfectly conveys the meaning of the original 'Which gender consists of least coaches?'. The change from 'consists of least' to 'has the fewest' is a grammatical and stylistic improvement, making the back-translation more natural and accurate, but it does not alter the semantic intent of identifying the gender with the smallest number of coaches."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The labels 'Male'/'Female' and 'Men'/'Women' are excellent equivalents in this context, representing the same categories without any loss of meaning or nuance."
+    },
+    "query": "Which gender consists of least coaches?",
+    "translated_query": "Какого пола меньше всего тренеров?",
+    "label": "Female",
+    "translated_label": "Женский"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes two incorrect statements. First, it says Primary Process Operation is a major quantity than Process Implementation, but the chart shows Primary Process Operation is 32% while Process Implementation is 52%. Second, it claims that both together constitute half (50%) of the graph, but their combined total is 84% (32% + 52%)."
+    },
+    "claim": "Primary process operation takes place in a major quantity than that of process implementation and both together constitute half of the graph.",
+    "label": false
+}

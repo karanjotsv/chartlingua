@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and the title are identical to the original. The color hues for each slice are also consistent, preserving the overall message and interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart, titled '2007 Uranium Mining', clearly indicates that Canada had the largest share of uranium mining with 23%, which is higher than any other country listed."
+    },
+    "claim": "Canada was the world's leader in Uranium mining in 2007.",
+    "label": true
+}

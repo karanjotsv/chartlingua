@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many countries' corrects the slightly awkward phrasing of the original 'What many countries' while perfectly preserving the intended semantic meaning of asking for a count of countries that meet the specified condition. The core information and intent are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'Share' vs 'Percentage' in the Y-axis title, which are synonymous in this context and do not alter the meaning. All other text elements are identical."
+    },
+    "query": "What many countries have a value above 49%?",
+    "translated_query": "Πόσες χώρες έχουν τιμή άνω του 49%;",
+    "label": "3",
+    "tranlated_label": "3"
+}

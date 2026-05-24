@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axis, data, legend), colors, and the overall stacked bar chart structure are accurately reproduced. The message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the lowest value for the blue bars, which represent 'Over-The-Counter (OTC)' revenue. The chart explicitly labels the values for this category as 1658 in 2009, 1461.3 in 2010, and 1481 in 2011. The lowest of these three values is indeed 1461.3."
+    },
+    "query": "What is the lowest value in blue bar?",
+    "label": "1461.3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, series labels, and color hues are all accurately reproduced. The addition of a title is an enhancement, not an inconsistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that Germany's energy demand per capita in 2008 (the blue line) is at a value of approximately 3850. The world's energy demand per capita in 2010 (the green line) is at a value of approximately 1900. Therefore, the value for Germany in 2008 is higher, not lower, than the value for the world in 2010."
+    },
+    "claim": "The value of Germany in 2008 is lower than the value of world in 2010.",
+    "label": "FALSE"
+}

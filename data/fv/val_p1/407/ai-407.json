@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "I.E.",
+            "value": 38.2
+        },
+        {
+            "category": "Other",
+            "value": 4.2
+        },
+        {
+            "category": "Android",
+            "value": 1.4
+        },
+        {
+            "category": "Opera",
+            "value": 4.4
+        },
+        {
+            "category": "Safari",
+            "value": 9.9
+        },
+        {
+            "category": "Chrome",
+            "value": 16.5
+        },
+        {
+            "category": "Firefox",
+            "value": 25.4
+        }
+    ],
+    "texts": {
+        "title": "Browser Usage on Wikimedia",
+        "subtitle": "June 2011",
+        "source": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#40699c",
+        "#a5b5d1",
+        "#e48e42",
+        "#4093a5",
+        "#6c598d",
+        "#849e48",
+        "#a54a48"
+    ]
+}

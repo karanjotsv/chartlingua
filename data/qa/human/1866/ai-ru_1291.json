@@ -1,0 +1,74 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "x": [
+                "Янв '18",
+                "Фев '18",
+                "Мар '18",
+                "Апр '18",
+                "Май '18",
+                "Июн '18",
+                "Июл '18",
+                "Авг '18",
+                "Сен '18",
+                "Окт '18",
+                "Ноя '18",
+                "Дек '18"
+            ],
+            "y": [
+                3.4,
+                3.8,
+                4,
+                4.3,
+                4.6,
+                4.7,
+                4.3,
+                4.7,
+                4.7,
+                4.2,
+                3.2,
+                3
+            ],
+            "text_labels": [
+                "3.4%",
+                "3.8%",
+                "4%",
+                "4.3%",
+                "4.6%",
+                "4.7%",
+                "4.3%",
+                "4.7%",
+                "4.7%",
+                "4.2%",
+                "3.2%",
+                "3%"
+            ],
+            "text_positions": [
+                "top right",
+                "top left",
+                "top left",
+                "top left",
+                "top right",
+                "top center",
+                "bottom center",
+                "top center",
+                "top center",
+                "top left",
+                "top right",
+                "top right"
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Темп роста HICP",
+        "source": "© Statista 2021",
+        "note": "Дополнительная информация"
+    },
+    "colors": [
+        "#367BE2"
+    ]
+}

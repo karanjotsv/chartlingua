@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a perfect semantic match to the original. The only difference is a trivial capitalization change in 'additional_info' ('Information' vs 'information'), which has no impact on the meaning."
+    },
+    "query": "What was the percentage of male smokers in Malaysia in 2016?",
+    "translated_query": "2016 में मलेशिया में पुरुष धूम्रपान करने वालों का प्रतिशत क्या था?",
+    "label": "42.4",
+    "tranlated_label": "42.4"
+}

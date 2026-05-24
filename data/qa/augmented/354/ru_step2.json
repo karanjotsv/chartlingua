@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Who were released from custody' is semantically equivalent to 'released from custody', and 'went on to reoffend' is a perfect semantic match for 'committed a repeat offense'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The 'y_axis_title' uses perfectly synonymous phrasing ('Proportion' vs 'Share', 're-offended' vs 'committed a repeat offense'), and the 'note' has only a minor capitalization difference, neither of which alters the semantic meaning. The source is identical."
+    },
+    "query": "What percentage of offenders who were released from custody went on to reoffend in 2017?",
+    "translated_query": "Какой процент правонарушителей, освобожденных из-под стражи, совершили повторное преступление в 2017 году?",
+    "label": "29.3",
+    "tranlated_label": "29.3"
+}

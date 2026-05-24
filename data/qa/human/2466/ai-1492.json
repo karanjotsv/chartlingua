@@ -1,0 +1,87 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Strongly agree",
+            "values": [
+                16,
+                19,
+                24,
+                26,
+                30,
+                30
+            ],
+            "text_color": "white"
+        },
+        {
+            "name": "Somewhat agree",
+            "values": [
+                32,
+                42,
+                43,
+                39,
+                41,
+                43
+            ],
+            "text_color": "white"
+        },
+        {
+            "name": "Neither agree nor disagree",
+            "values": [
+                40,
+                32,
+                28,
+                29,
+                25,
+                22
+            ],
+            "text_color": "black"
+        },
+        {
+            "name": "Somewhat disagree",
+            "values": [
+                9,
+                6,
+                3,
+                4,
+                3,
+                3
+            ],
+            "text_color": "white"
+        },
+        {
+            "name": "Strongly disagree",
+            "values": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "text_color": "black"
+        }
+    ],
+    "categories": [
+        "Helps me identify trending products",
+        "Encourages me to engage with a brand",
+        "Creates a more authentic shopping<br>experience",
+        "Is more interesting than content created<br>by the brand",
+        "Improves customer feedback",
+        "Increases my purchasing confidence"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Share of respondents",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B74D0",
+        "#112B47",
+        "#C0C0C0",
+        "#B20000",
+        "#8DC147"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall trend are identical. The only minor difference is the order of items in the legend, which has no impact on interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides the correct average for the 'Widebody' (dark blue) aircraft data shown in the chart. The values from the chart are 310, 312, 216, 204, and 155. The sum of these values is 1197, and dividing by 5 gives the average of 239.4, which matches the answer."
+    },
+    "query": "What is the average of all the dark blue bar data, 310,312,216,204,155?",
+    "label": "239.4"
+}

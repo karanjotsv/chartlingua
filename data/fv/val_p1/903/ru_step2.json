@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. Differences like 'water reservoir' vs 'reservoirs' and 'has always remained' vs 'always remained' are minor stylistic variations that do not alter the core semantic information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original in semantic meaning. The only translatable text that changed was the chart title from 'Major California Water Reservoir Capacity' to 'Capacity of Major California Reservoirs', which is a stylistic variation but conveys the identical meaning without any loss or distortion of information."
+    },
+    "claim": "Major California water reservoir capacity has always remained above 20% from 1975 to 2015.",
+    "translated_claim": "Емкость крупных водохранилищ Калифорнии всегда оставалась выше 20% с 1975 по 2015 год."
+}

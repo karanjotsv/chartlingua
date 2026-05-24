@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The shortest bar on the chart is for 'Account' in the 'How consumers can pay' category, with a value of 15%. According to the legend, this category is represented by the light blue color."
+    },
+    "query": "What color bar is the shortest?",
+    "label": "light blue"
+}

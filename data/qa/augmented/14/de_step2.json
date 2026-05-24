@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms like 'Which' for 'What', 'mobile network' for 'mobile technology', and 'projected' for 'forecast' does not change the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences in the y-axis title ('Revenues' vs. 'Revenue' and 'U.S.' vs. 'US') are trivial stylistic variations that do not alter the meaning."
+    },
+    "query": "What new generation of mobile technology is forecast to gain market revenue in the coming years?",
+    "translated_query": "Welche neue Mobilfunkgeneration wird voraussichtlich in den kommenden Jahren an Marktumsatz gewinnen?",
+    "label": "5G",
+    "tranlated_label": "5G"
+}

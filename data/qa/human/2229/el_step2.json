@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The addition of 'the' and 'category' provides slight clarification but does not alter the semantic intent of '18 to 21' as a range or group."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content mostly matches the original, including all data points. However, the 'y_axis_title' changes from 'Median hourly pay in GBP' to 'Average hourly wage in GBP'. 'Median' and 'Average' (mean) are distinct statistical measures, representing a loss of an important detail regarding the type of pay being measured."
+    },
+    "query": "What is the sum of the two bars in  18 to 21?",
+    "translated_query": "Ποιο είναι το άθροισμα των δύο μπαρών στην κατηγορία 18 έως 21;",
+    "label": "18.27",
+    "tranlated_label": "18.27"
+}

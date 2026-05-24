@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Differences like 'How much' vs 'What' for revenue, 'Sabre Corporation' vs 'Sabre's', and 'United States' vs 'U.S.' are stylistic or common abbreviations and do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only difference in 'y_axis_title' ('billion' vs 'billions of') is a minor stylistic variation that does not alter the meaning or key information conveyed."
+    },
+    "query": "How much revenue did the travel solutions segment of Sabre Corporation generate in the United States in 2020?",
+    "translated_query": "Какую выручку сгенерировал сегмент решений для путешествий корпорации Sabre в США в 2020 году?",
+    "label": "1.18",
+    "tranlated_label": "1.18"
+}

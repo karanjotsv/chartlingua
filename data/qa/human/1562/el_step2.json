@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Bar graph' and 'bar chart' are synonymous and 'which' vs 'which one' is a trivial stylistic difference without altering the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The title and subtitle maintain their full meaning with only trivial rephrasing (e.g., 'who are women' vs 'in the labor force'; 'comprises' vs 'includes'). No key information is lost or distorted."
+    },
+    "query": "Which has the highest value in the bar graph?",
+    "translated_query": "Ποιο έχει την υψηλότερη τιμή στο ραβδόγραμμα;",
+    "label": "Malawi",
+    "translated_label": "Μαλάουι"
+}

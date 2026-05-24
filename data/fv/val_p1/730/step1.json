@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall title are identical to the original. The change from a 3D to a 2D style and a different starting point for the slices does not alter the core information or message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that Chrome usage was 24.99% and Safari usage was 14.09%. This contradicts the claim that more people used Safari than Chrome."
+    },
+    "claim": "More people used Safari browser than Chrome in April 2012 on wikimedia.",
+    "label": false
+}

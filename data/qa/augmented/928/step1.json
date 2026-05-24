@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, categories, axis labels, and the overall trend are all accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the Producer Price Index for the year 2020. The bar for '20*' on the chart aligns with a value just below the 200 mark on the y-axis, and 194.3 is a correct visual approximation of this value."
+    },
+    "query": "What was the PPI in 2020?",
+    "label": "194.3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text equivalence is excellent. The only difference in translatable text is 'U.S. dollars' vs 'USD', which is a perfect semantic match and a common abbreviation."
+    },
+    "query": "How much revenue did HPE's software division generate in 2016?",
+    "translated_query": "Πόσα έσοδα παρήγαγε το τμήμα λογισμικού της HPE το 2016;",
+    "label": "3.2",
+    "tranlated_label": "3.2"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The overall comparison structure is maintained, but the list name \"Strongly morelike\" has been translated to \"Much Preferred\", which semantically alters the meaning of that specific list. \"Morelike\" and \"Preferred\" are not equivalent concepts, leading to a loss of accuracy for that specific detail."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The main meaning of the chart's textual elements is well-preserved. 'Strongly morelike' to 'Much Preferred' is a good semantic match. 'Neither' to 'None' is an acceptable synonym for lack of preference. There's a minor change in nuance in the title from 'most likely to read' (probability) to 'most like to read' (preference), and 'Wikivectors' changed to 'WikiVector' is a minor singular/plural grammatical difference."
+    },
+    "claim": "The cumulative count of the two lists \"Neither\" and \"Strongly Wikivectors\" is higher than the list \"Strongly morelike\"",
+    "translated_claim": "ਦੋ ਸੂਚੀਆਂ \"ਕੋਈ ਨਹੀਂ\" ਅਤੇ \"ਬਹੁਤ ਜ਼ਿਆਦਾ ਵਿਕੀਵੈਕਟਰ\" ਦੀ ਕੁੱਲ ਗਿਣਤੀ ਸੂਚੀ \"ਬਹੁਤ ਜ਼ਿਆਦਾ ਪਸੰਦ\" ਨਾਲੋਂ ਵੱਧ ਹੈ।"
+}

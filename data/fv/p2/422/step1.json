@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly displays the data for the movies it includes, but it is a filtered subset of the original chart, omitting many of the 50 movies shown in the original. This changes the scope and completeness of the information presented, as it is no longer a full top-50 list.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim identifies the second highest-grossing film as 'Titanic (1997)', but this movie is not listed anywhere in the chart's y-axis labels."
+    },
+    "claim": "The second highest box office gross is Titanic (1997) in this chart.",
+    "label": "TRUE"
+}

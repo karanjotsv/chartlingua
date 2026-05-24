@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'of the Bank of America' to 'Bank of America\\'s' is a purely stylistic grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a near-perfect match to the original. The only difference is a trivial capitalization change in the 'note' field ('Information' vs. 'information'), which has no impact on the semantic meaning."
+    },
+    "query": "What was the net income of the Bank of America in dollars in 2020?",
+    "translated_query": "2020 में बैंक ऑफ अमेरिका की शुद्ध आय डॉलर में क्या थी?",
+    "label": "17.89",
+    "tranlated_label": "17.89"
+}

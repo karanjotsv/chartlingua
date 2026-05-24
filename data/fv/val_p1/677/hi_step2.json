@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation distorts the meaning by replacing the specific metric 'joins' with the much broader, more general term 'engagements', which could encompass a wider range of activities."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation has poor semantic equivalence. The key term 'joins' was consistently mistranslated as 'Engagement' in the title, y-axis title, and data series name. This fundamentally alters the meaning of the chart by changing the metric being measured."
+    },
+    "claim": "There are 0 idea joins for day 10.",
+    "translated_claim": "दिन 10 के लिए 0 आइडिया जुड़ाव हैं।"
+}

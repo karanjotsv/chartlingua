@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the original meaning. 'Males' vs 'Men' and 'females' vs 'women' are synonymous, and 'agriculture jobs' vs 'agricultural jobs' is a minor stylistic difference without altering the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content shows excellent semantic equivalence. Minor differences are primarily stylistic (e.g., 'occupants' vs 'workers', 'Male/Female' vs 'Men/Women', 'Occupation' vs 'Profession', 'No. of' vs 'Number of') or involve slight rephrasing that maintains the original meaning perfectly. Some even correct minor typos from the original ('Profesional' to 'Professional', 'Accomodation' to 'Accommodation')."
+    },
+    "claim": "Males outnumber females in agriculture jobs.",
+    "translated_claim": "Мужчины превосходят женщин по количеству рабочих мест в сельском хозяйстве."
+}

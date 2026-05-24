@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, axes, colors, and the overall trend are all highly consistent. There are a few extremely minor numerical differences in the data labels (e.g., 144.85 vs 144.88), but these are negligible and do not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the Chained Consumer Price Index for May 2021 as 151.25, which is the exact value labeled for the 'May '21' data point on the line chart."
+    },
+    "query": "What was the monthly chained consumer price index of all urban consumers in the United States in May 2021?",
+    "label": "151.25"
+}

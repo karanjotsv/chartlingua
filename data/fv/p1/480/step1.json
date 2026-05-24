@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered image incorrectly applies a single, unified legend to both pie charts. While the first chart (NatGas) is rendered correctly, the second chart (Coal) is fundamentally misrepresented. In the original, the dominant category for the Coal chart is 'Power generation and supply' (blue slice). In the rendered version, the dominant blue slice is incorrectly mapped to 'Noncellulosic organic fiber manufacturing' due to the shared legend, completely changing the chart's core message. Additionally, the chart titles are garbled and merged incorrectly.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The titles from the two original charts have been improperly merged into a single, long, and confusing title placed awkwardly above the charts."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not provide any information or data about 'Natural gas' energy consumption. It only shows a breakdown for 'Coal- Energy Consumed' and a general 'Energy consumed', making it impossible to verify the comparison made in the claim."
+    },
+    "claim": "Yarn manufacturing used over twice as much Natural gas energy as coal.",
+    "label": true
+}

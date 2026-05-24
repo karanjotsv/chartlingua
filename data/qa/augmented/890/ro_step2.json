@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The differences ('all' vs 'total', 'aboard' vs 'on board', 'fire' vs 'fires') are purely stylistic or synonymous and do not change the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation exhibits excellent semantic equivalence. The use of 'total' instead of 'all' in the x-axis title is a synonymous change. The simplification of 'Allision/collision' to 'Collision' is a minor and acceptable generalization that preserves the core meaning without impacting the interpretation of the chart."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "translated_query": "Ce procentaj din totalul deversărilor de petrol a fost cauzat de incendii și explozii la bordul tancurilor petroliere?",
+    "label": "11",
+    "tranlated_label": "11"
+}

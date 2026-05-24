@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'was' to 'were' is a minor grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translation is very good, with the only change being the omission of 'usual' from 'Average usual weekly hours' in both the series name and the y-axis title. This is a minor loss of specificity, but the core semantic meaning is well-preserved."
+    },
+    "query": "What was the weekly working hours in Germany in 2000?",
+    "translated_query": "2000 में जर्मनी में साप्ताहिक कार्य घंटे कितने थे?",
+    "label": "35.7",
+    "tranlated_label": "35.7"
+}

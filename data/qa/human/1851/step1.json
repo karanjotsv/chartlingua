@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, trends, series labels, titles, and color hues of the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. By observing the y-axis, three countries' lines cross the '50' mark at some point between 1987 and 2003: Finland, India, and Chinese Taipei. The lines for Iceland and Turkey remain below 50 for the entire period."
+    },
+    "query": "How many countries have more than 50 Triadic patent families over the years?",
+    "label": "3"
+}

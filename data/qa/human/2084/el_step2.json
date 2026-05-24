@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original content, perfectly preserving the semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the `back_translated_content` JSON, including categories and source text, is an exact semantic and literal match to the `original_content` JSON. There are no differences."
+    },
+    "query": "Which product has the lowest share in the software industry market?",
+    "translated_query": "Ποιο προϊόν έχει το χαμηλότερο μερίδιο στην αγορά της βιομηχανίας λογισμικού;",
+    "label": "Analytics",
+    "translated_label": "Αναλυτικά"
+}

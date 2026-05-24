@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. While it retains the main title, general layout, and color scheme, it fails to render the vast majority of the data and text. Key statistics in every section are either completely missing (e.g., Median Age, Life Expectancy, donut chart values), incomplete (e.g., Unemployment chart is missing a bar), or illegible (e.g., Crime bar values). The overall message is lost.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There are numerous severe flaws. Multiple chart sections are empty or incomplete. Critical text elements, such as axis labels and footer information, are severely overlapping and unreadable. Data labels within the 'Crime' bars are rendered as illegible scribbles."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any data supporting the claim that the East of England has 20% of the UK's population. The percentages shown in the chart for the 'East' region are 6.0% and 5.5%, both of which contradict the 20% figure in the claim."
+    },
+    "claim": "The East of England has 20% of population of UK.",
+    "label": "FALSE"
+}

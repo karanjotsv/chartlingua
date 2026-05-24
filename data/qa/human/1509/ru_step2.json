@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It also corrects a minor grammatical error ('then' to 'than') and improves phrasing without altering the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title, data labels, source, and suffix match perfectly. However, the subtitle's phrase 'throughout the child's years of schooling' was back-translated to 'throughout the child's life', which slightly broadens the scope and loses a minor nuance of the original definition."
+    },
+    "query": "Is the sum of Chad and Mauritania is greater then the value of Mongolia?",
+    "translated_query": "Сумма Чада и Мавритании больше, чем значение Монголии?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

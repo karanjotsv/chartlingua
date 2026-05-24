@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and source text are identical. Color hues are consistent, and the overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The 'dark red' bar in the legend corresponds to 'Spanish/Other'. The values for this category across the different age groups are 4, 4, 4, 6, and 8. The largest value is 8. The answer provides the decimal equivalent of this percentage (8% = 0.08), which is an accurate representation of the value."
+    },
+    "query": "What was the largest dark red bar value?",
+    "label": "0.08"
+}

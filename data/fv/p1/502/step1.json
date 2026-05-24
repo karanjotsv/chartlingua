@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data proportions, text content (titles, subtitles, legends), and color-to-category mappings are accurately reproduced across all three pie charts. The core information and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the largest annual salary range for NYSSA Members is between 175,000 - 190,000. In the 'Annual Salary' pie chart, the blue slice representing the 175,000-190,000 range is visibly the largest segment, indicating it represents the largest portion of the members."
+    },
+    "claim": "The largest annual salary range for NYSSA Members is between 175,000 - 190,000.",
+    "label": true
+}

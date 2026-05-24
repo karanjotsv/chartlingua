@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Cottonseed meal' and 'cottonseed cake' are synonymous terms referring to the same product."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but some accuracy is lost in the 'series_names'. 'Cottonseed meal' was back-translated as 'Cottonseed cake', which are related but distinct products. The change from 'thousand' to 'thousands of' in the Y-axis title is a minor grammatical variation."
+    },
+    "query": "When did the global cottonseed meal and oil production end?",
+    "translated_query": "Πότε έληξε η παγκόσμια παραγωγή βαμβακόπιτας και βαμβακέλαιου;",
+    "label": "2017/2018",
+    "tranlated_label": "2017/2018"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are consistent with the original. The overall message is identical. The only change is a stylistic one (exploding a slice), which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the pie chart, Internet Explorer has the highest market share (29.05%), followed by Google Chrome (23.22%). Mozilla Firefox is in third place with 21.76%, not second."
+    },
+    "claim": "Mozilla Firefox comes second in market share of browsers.",
+    "label": "FALSE"
+}

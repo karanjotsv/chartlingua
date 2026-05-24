@@ -1,0 +1,67 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "I use it regularly",
+            "I use it occasionally",
+            "I have used it once",
+            "I can imagine using it",
+            "I won't use it"
+        ],
+        "series": [
+            {
+                "name": "18 to 29 years",
+                "data": [
+                    11,
+                    14,
+                    13,
+                    42,
+                    21
+                ]
+            },
+            {
+                "name": "30 to 45 years",
+                "data": [
+                    6,
+                    11,
+                    11,
+                    52,
+                    20
+                ]
+            },
+            {
+                "name": "46 to 60 years",
+                "data": [
+                    5,
+                    8,
+                    5,
+                    53,
+                    29
+                ]
+            },
+            {
+                "name": "61 years and older",
+                "data": [
+                    1,
+                    4,
+                    3,
+                    56,
+                    36
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Percentage of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#267fca",
+        "#0f2d4f",
+        "#c0c0c0",
+        "#b81b1b"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Republican Party",
+            "display_label": "Republican Party<br>55 million",
+            "value": 55
+        },
+        {
+            "hover_label": "Democratic Party",
+            "display_label": "Democratic Party<br>72 million",
+            "value": 72
+        },
+        {
+            "hover_label": "Independents",
+            "display_label": "Independents<br>42 million",
+            "value": 42
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#D93B0B",
+        "#3A87D5",
+        "#F0E594"
+    ],
+    "pull": [
+        0.1,
+        0.1,
+        0.1
+    ]
+}

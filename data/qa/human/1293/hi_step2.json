@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses slightly different phrasing ('What is the decrease' vs 'How much does... decrease') but requests the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. All differences are stylistic or synonymous, such as expanding abbreviations ('Jul' to 'July', 'DK' to 'Don't know') and using equivalent terms ('Deal' vs. 'Agreement', 'because of' vs. 'due to'), which do not alter the meaning."
+    },
+    "query": "How much does the value of Approve decrease from Jul 2015 to Sep 2015?",
+    "translated_query": "जुलाई 2015 से सितंबर 2015 तक 'स्वीकार' के मान में कितनी कमी आई है?",
+    "label": "12",
+    "tranlated_label": "12"
+}

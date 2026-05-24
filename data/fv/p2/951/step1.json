@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect semantic match to the original. All data values, text labels, categories, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe and widespread text and element overlap. The title, section headers, data labels, and footer text are all jumbled together, making large portions of the chart completely unreadable and unusable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's 'Life Expectancy' section shows that in the South East, female life expectancy (83.8 years) is higher than male (80.0 years), and in the North West, female life expectancy (81.5 years) is also higher than male (77.4 years)."
+    },
+    "claim": "Life expectancy of females is higher than males in both South East and North West.",
+    "label": "TRUE"
+}

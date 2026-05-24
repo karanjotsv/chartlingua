@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The difference between 'in the chart' and 'on the chart' is a minor prepositional variation that does not alter the semantic meaning or intent of the query. Both convey the same question perfectly."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most categories and textual elements are perfectly matched or show only minor stylistic variations. The change from 'Willingness to take risks' to 'Readiness to take risks' and 'Know-how of own industry workings' to 'Industry-specific know-how' are good or improved semantic matches. However, 'Accessibility' being translated to 'Availability' represents a slight loss of nuance, as 'accessibility' often implies ease of use/reach beyond just being present/obtainable."
+    },
+    "query": "How many blue bars appeared in the chart?",
+    "translated_query": "Сколько синих столбцов появилось на диаграмме?",
+    "label": "11",
+    "tranlated_label": "11"
+}

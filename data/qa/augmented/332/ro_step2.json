@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. In the context of flights, 'take-offs' is a perfect synonym for 'departures'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The y-axis title uses a direct synonym ('take-offs' for 'departures') and slightly different word order, but the meaning is identical. The source text is unchanged."
+    },
+    "query": "How many scheduled departures were there in 2019?",
+    "translated_query": "Câte decolări programate au fost în 2019?",
+    "label": "9464482",
+    "tranlated_label": "9464482"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart fundamentally misrepresents the data. While the overall structure, colors, and general trend of the line plot are similar, the specific data values for both the bars and the line are significantly different. For example, the delegate gap for states like Colorado, Massachusetts, and Texas is completely different, and the cumulative gap shown in the line plot reaches much lower values in the rendered chart. This distorts the core message about the magnitude of the delegate race.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis labels (state names) are severely overlapped, making them illegible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the number of registered Republican versus Democratic voters, but the chart displays the delegate gap between two Democratic candidates, Bernie Sanders and Hilary Clinton, across various state primaries. The chart contains no information about political parties other than the Democrats or about voter registration numbers."
+    },
+    "claim": "The chart shows that the number of registered Republican voters has been consistently higher than the number of registered Democratic voters in the United States over time.",
+    "label": "FALSE"
+}

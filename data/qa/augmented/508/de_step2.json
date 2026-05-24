@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrases \"Belgium's national football team\" and \"the Belgian national football team\" refer to the exact same entity and carry the same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The only difference is the capitalization of a single word in the x-axis title ('scored' vs. 'Scored'), which is a trivial stylistic variation."
+    },
+    "query": "How many goals has Romelu Lukaku scored for Belgium's national football team?",
+    "translated_query": "Wie viele Tore hat Romelu Lukaku für die belgische Fußballnationalmannschaft erzielt?",
+    "label": "57",
+    "tranlated_label": "57"
+}

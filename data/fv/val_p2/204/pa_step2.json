@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. 'Equivalent' and 'equal' are synonymous in this context, and 'value 5000' versus 'a value of 5000' are minor stylistic differences without impacting the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text content. Titles, subtitles, and axis labels are perfectly matched or expanded appropriately (e.g., 'Sq. ft' to 'Square Feet'). Category labels also maintain their exact meaning; 'Say \"E\"' and 'Call \"E\"' are semantically equivalent in this context. The duplication of chart_data entries in the back-translated JSON is a structural difference, but it does not alter the semantic meaning of the individual text strings themselves, which is the focus of this evaluation."
+    },
+    "claim": "There are two equivalent blocks on the chart with value 5000.",
+    "translated_claim": "ਚਾਰਟ 'ਤੇ 5000 ਮੁੱਲ ਵਾਲੇ ਦੋ ਬਰਾਬਰ ਬਲਾਕ ਹਨ।"
+}

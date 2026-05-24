@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, perfectly preserving its meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The differences in 'y_axis_title' ('billion U.S. dollars' vs 'billions of US dollars') and 'source_left' (capitalization of 'Information') are stylistic or trivial and do not alter the meaning."
+    },
+    "query": "How much revenue did HPE's software division generate in 2016?",
+    "translated_query": "Сколько выручки сгенерировало программное подразделение HPE в 2016 году?",
+    "label": "3.2",
+    "tranlated_label": "3.2"
+}

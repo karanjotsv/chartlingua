@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Γκαλερί",
+            "value": 1.7
+        },
+        {
+            "category": "Βιβλιοθήκες",
+            "value": 40.6
+        },
+        {
+            "category": "Αρχεία",
+            "value": 17.2
+        },
+        {
+            "category": "Μουσεία",
+            "value": 28.1
+        },
+        {
+            "category": "Άλλο",
+            "value": 12.5
+        }
+    ],
+    "texts": {
+        "title": "Ίδρυμα Ερωτηθέντων ανά Ποσοστό (n =64)",
+        "subtitle": null,
+        "x_axis_title": "Τύπος Ιδρύματος",
+        "y_axis_title": "Ποσοστό",
+        "source": null
+    },
+    "colors": [
+        "#00B7F1",
+        "#F7B500",
+        "#00B7F1",
+        "#00B7F1",
+        "#00B7F1"
+    ]
+}

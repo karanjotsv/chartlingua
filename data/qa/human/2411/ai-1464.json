@@ -1,0 +1,57 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Kidney",
+            "Liver",
+            "Lung",
+            "Heart",
+            "Pancreas"
+        ],
+        "series": [
+            {
+                "name": "2017",
+                "values": [
+                    685,
+                    106,
+                    90,
+                    37,
+                    18
+                ]
+            },
+            {
+                "name": "2018",
+                "values": [
+                    660,
+                    98,
+                    85,
+                    37,
+                    24
+                ]
+            },
+            {
+                "name": "2019",
+                "values": [
+                    670,
+                    95,
+                    69,
+                    33,
+                    27
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Number of patients",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2A7FDE",
+        "#0B2F51",
+        "#B2B2B2"
+    ]
+}

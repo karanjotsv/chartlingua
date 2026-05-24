@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The substitution of 'displays' with 'shows' is a perfectly synonymous change that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall equivalence is fair. While most text elements like the axis title and annotations are identical, the y-axis tick labels have been changed from 'shot #1', 'shot #2', etc., to 'sample 1', 'sample 2', etc. In a scientific context, 'shot' (referring to a measurement event) and 'sample' (referring to a specimen) have distinct meanings, so this change alters important details and loses accuracy."
+    },
+    "claim": "The chart displays the distribution of different elements in the Martian rock.",
+    "translated_claim": "Graficul prezintă distribuția diferitelor elemente în roca marțiană."
+}

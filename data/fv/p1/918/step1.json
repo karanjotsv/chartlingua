@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, categories, and color hues are consistent with the original. The overall message and data representation are identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap. The year '2010' from the title overlaps with the 'Filipino' data label, making both elements difficult to read."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the Hispanic group constitutes 33.9% of the student population, which is the largest percentage among all the listed ethnic groups."
+    },
+    "claim": " Hispanic , Latino is the large ethnic group students in California Community Colleges.",
+    "label": true
+}

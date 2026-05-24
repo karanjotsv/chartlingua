@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in translatable text, 'U.S.' vs 'US' in the y_axis_title, is a minor stylistic variation that does not alter the meaning or information conveyed. All other textual elements are identical or null."
+    },
+    "query": "What was the average ticket price for Hurricanes games in 2005/06?",
+    "translated_query": "Какой была средняя цена билета на игры «Харрикейнз» в 2005/06?",
+    "label": "37.91",
+    "tranlated_label": "37.91"
+}

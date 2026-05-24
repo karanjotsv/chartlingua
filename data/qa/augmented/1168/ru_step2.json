@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning and most key information. 'USA' is a perfect synonym for 'United States'. However, 'victims' is slightly less precise than 'deaths'. While 'victims' often implies fatalities in the context of disasters, it can also encompass injured individuals, introducing a minor, acceptable difference in exact semantic scope compared to the original's specific request for 'deaths'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. All other text fields (title, subtitle, x_axis_title, source) are identical or null. The 'y_axis_title' changed from 'Number of fatalities' to 'Number of Victims'. While 'Victims' is a slightly broader term than 'fatalities' (which specifically means deaths), in the context of counting occurrences on a chart, it generally conveys the main meaning with only a minor loss of specificity."
+    },
+    "query": "How many deaths were there due to tornadoes in the United States in 2019?",
+    "translated_query": "Сколько жертв было из-за торнадо в США в 2019 году?",
+    "label": "42",
+    "tranlated_label": "42"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, data labels on top of the bars, color hues, and the chart title are identical to the original. The core message and data representation are fully preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis labels are severely overlapped, making them illegible. Additionally, the labels contain un-rendered HTML tags (e.g., '<br>') instead of creating line breaks, which is a significant rendering error."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim that all respondents are unable to provide any budget is incorrect. The chart shows that while 25.0% (3 respondents) cannot provide a budget, a majority of respondents can. For instance, 33.3% (4 respondents) can provide a budget of '$500 (USD) or less'."
+    },
+    "claim": "All respondents are unable to provide any budget.",
+    "label": false
+}

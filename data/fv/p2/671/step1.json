@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, color hue, and overall trends are accurately reproduced. The addition of a title provides context without contradicting the original, which lacked a title.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that all of the 10 biggest world record improvements occurred at or below level 40. However, the chart shows that several of the largest improvements occurred at levels above 40. For example, the improvement for Level 50 is approximately 3.25 seconds and the improvement for Level 54 is approximately 2.35 seconds, both of which are among the 10 largest improvements shown, but are for levels greater than 40."
+    },
+    "claim": "All of the 10 biggest world record improvements occurred at or below level 40.",
+    "label": "FALSE"
+}

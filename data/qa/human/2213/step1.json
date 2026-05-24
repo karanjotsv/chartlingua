@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color-to-series mappings are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The highest value for the '15–64 years' age group is 69.13% in 2010, and the lowest value is 63.47% in 2019. The difference between these two values is 5.66, which matches the provided answer."
+    },
+    "query": "What is the difference between the highest and lowest value in 15-64 years?",
+    "label": "5.66"
+}

@@ -1,0 +1,35 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Ease of use",
+            "value": 50
+        },
+        {
+            "category": "Suggestion",
+            "value": 19
+        },
+        {
+            "category": "Trial",
+            "value": 6
+        },
+        {
+            "category": "Used Before",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": "Justification for Tool Used",
+        "subtitle": null,
+        "x_axis_title": "Reason for use",
+        "y_axis_title": "Percentage of Users",
+        "source": null,
+        "notes": null
+    },
+    "colors": [
+        "#FDBB0B",
+        "#00A9E0",
+        "#00A9E0",
+        "#00A9E0"
+    ]
+}

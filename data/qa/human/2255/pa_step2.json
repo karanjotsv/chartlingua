@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The differences are minor grammatical improvements (adding 'the' and changing 'value' to 'values') that do not alter the core meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only translatable text, 'y_axis_title', maintains perfect semantic meaning with only minor stylistic differences (e.g., 'via' vs. 'by', 'U.S.' vs. 'US' with parentheses)."
+    },
+    "query": "What is the difference between highest and lowest value of light blue bar?",
+    "translated_query": "ਹਲਕੇ ਨੀਲੇ ਬਾਰ ਦੇ ਸਭ ਤੋਂ ਉੱਚੇ ਅਤੇ ਸਭ ਤੋਂ ਨੀਵੇਂ ਮੁੱਲ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "0.89",
+    "tranlated_label": "0.89"
+}

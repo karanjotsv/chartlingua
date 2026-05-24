@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, axis labels, legend categories, and the overall trend of increasing material over the years are accurately replicated. Color hues are consistent across all data series.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The stacked bar chart clearly shows a general upward trend in the total 'tonnes per annum feed material' from 1991 to 2014. The height of the bars consistently increases over the time period, which visually supports the claim of a gradual expansion."
+    },
+    "claim": "The global Isasmelt feed capacity has gradual expand since 1991.",
+    "label": "TRUE"
+}

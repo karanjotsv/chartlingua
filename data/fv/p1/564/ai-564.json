@@ -1,0 +1,51 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Species 1",
+            "x": [
+                0,
+                2.5
+            ],
+            "y": [
+                0,
+                5
+            ]
+        },
+        {
+            "name": "Species 2",
+            "x": [
+                0,
+                5
+            ],
+            "y": [
+                0,
+                4.5
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Density in Habitat B",
+        "y_axis_title": "Density in Habitat A",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "Species 1",
+                "x": 1.7,
+                "y": 5.1
+            },
+            {
+                "text": "Species 2",
+                "x": 3.0,
+                "y": 4.7
+            }
+        ]
+    },
+    "colors": [
+        "#505050",
+        "#505050"
+    ]
+}

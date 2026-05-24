@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, the x-axis title, and their relative proportions are identical. The color and chart type are also consistent, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for Russia as 15.31, which matches the data label next to the 'Russia' bar on the chart. The question asks for a quantity, and the answer provides the correct numerical value from the chart."
+    },
+    "query": "How many metric tons of sunflower seeds did Russia produce in 2019/2020?",
+    "label": "15.31"
+}

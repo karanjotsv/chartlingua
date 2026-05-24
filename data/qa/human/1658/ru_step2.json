@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'color' from 'red color line' to 'red line' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the JSON (title, subtitle, source, note) maintain perfect semantic equivalence. Differences are purely stylistic or trivial ('Electricity access' vs 'Access to Electricity', 'the population' vs 'population'), not impacting meaning."
+    },
+    "query": "Which country is represented by the red color line?",
+    "translated_query": "Какая страна представлена красной линией?",
+    "label": "Eritrea",
+    "translated_label": "Эритрея"
+}

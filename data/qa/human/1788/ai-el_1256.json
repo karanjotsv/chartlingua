@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Σιγκαπούρη",
+            "value": 48.3
+        },
+        {
+            "category": "Ιταλία",
+            "value": 57.0
+        }
+    ],
+    "texts": {
+        "title": "Διευθυντές σχολείων",
+        "subtitle": "Δευτεροβάθμια κατώτερη, μέση ηλικία, Έτη, 2013",
+        "source": "Πηγή: Διεθνής έρευνα TALIS για τη διδασκαλία και τη μάθηση - δείκτες",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0095DA",
+        "#E31E24"
+    ],
+    "annotations": [
+        {
+            "x": "Ιταλία",
+            "y": 37,
+            "text": "Ιταλία 2013<br><b>57.0</b><br>Έτη",
+            "align": "left"
+        }
+    ]
+}

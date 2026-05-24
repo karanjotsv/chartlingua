@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart significantly misrepresents the data. The original chart shows five slices of roughly equal proportion, suggesting an even split of purpose. The rendered chart shows slices of distinctly different sizes, implying a hierarchy of purpose that is not present in the original. Furthermore, the order of the slices in the pie has been completely changed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents the 'Educational Mission' and the 'Political Mission' with slices of equal size, which supports the claim that they are equal."
+    },
+    "claim": "In our main purpose educational mission and political mission are equal.",
+    "label": true
+}

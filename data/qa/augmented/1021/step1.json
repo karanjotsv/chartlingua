@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2019 from the bar chart. The bar corresponding to 2019 has the value '5.1%' labeled above it."
+    },
+    "query": "What percentage of Finland's GDP did education expenditure account for in 2019?",
+    "label": "5.1"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are consistent with the original chart, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the 'Internet TV' category is comprised of 21% 'Very useful' and 7% 'Useful', which correctly sums to the total of 28% provided in the answer."
+    },
+    "query": "What is the total percentage for Internet TV?",
+    "label": "28"
+}

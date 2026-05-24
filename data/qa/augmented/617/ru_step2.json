@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Points leader' is synonymous with 'leader in points scored', and 'of the Phoenix Suns' has the same meaning as 'for the Phoenix Suns' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text content is perfectly preserved. The only difference is a minor capitalization change in 'x_axis_title' ('Points scored' vs. 'Points Scored'), which is a trivial stylistic difference and does not affect the meaning."
+    },
+    "query": "Who is the career points leader of the Phoenix Suns?",
+    "translated_query": "Кто является лидером по набранным очкам за карьеру у Финикс Санз?",
+    "label": "Walter Davis",
+    "translated_label": "Уолтер Дэвис"
+}

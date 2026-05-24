@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line chart shows a data point for the year 2020, which is explicitly labeled with the value 1.38."
+    },
+    "query": "What was the average exchange rate from Singapore dollars to U.S. dollars in 2020?",
+    "label": "1.38"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, categories, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is validated by the chart. In the 'Graduates who took ACT/SAT' category, the bar representing the 'District Average' has a value of 57.40%, which is the lowest percentage compared to the State Average (68.20%), School Group Median (61.70%), and Mesquite High School (70.90%)."
+    },
+    "claim": "District Average Graduates scored the least percentage in the 'Graduates who took ACT/SAT'.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values (percentages), and text labels are identical to the original. The color hues for each category are also consistent. The change from a 3D to a 2D perspective is a stylistic improvement and does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the highest reason is 'Surges' at 31% and the lowest reason is 'Storm' at 2%. The difference between these two values is 29% (31% - 2%), not 20% as stated in the claim."
+    },
+    "claim": "The difference between the highest and the lowest reason is 20%",
+    "label": "FALSE"
+}

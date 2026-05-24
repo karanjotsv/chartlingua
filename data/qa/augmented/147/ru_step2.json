@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning, correcting a likely typo in the song title ('Despactio' to 'Despacito') which does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The minor differences include a spelling correction ('Despactio' to 'Despacito') and an abbreviation expansion ('ft.' to 'featuring'), which are trivial and maintain or improve clarity without altering the meaning."
+    },
+    "query": "How many views did 'Despactio' have worldwide?",
+    "translated_query": "Сколько просмотров было у 'Despactio' по всему миру?",
+    "label": "6.4",
+    "tranlated_label": "6.4"
+}

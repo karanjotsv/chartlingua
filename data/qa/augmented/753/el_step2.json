@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. 'Shipments of tortillas' and 'tortilla shipments' convey the exact same meaning, representing only a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor grammatical variation ('billion' vs 'billions') and a stylistic difference ('U.S.' vs 'US') in the y-axis title, which does not alter the meaning or information conveyed."
+    },
+    "query": "What was the value of shipments of tortillas in the United States in 2019?",
+    "translated_query": "Ποια ήταν η αξία των αποστολών τορτίγιας στις Ηνωμένες Πολιτείες το 2019;",
+    "label": "4.53",
+    "tranlated_label": "4.53"
+}

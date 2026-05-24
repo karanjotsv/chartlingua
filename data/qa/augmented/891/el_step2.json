@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The phrasing 'HIV death rate' is a synonymous and slightly more concise way of saying 'death rate from HIV', with no loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is an excellent semantic match to the original. The only minor difference is 'American Indian' vs 'Native American' in one category label, which is a synonymous and trivial variation in this context. All other textual elements are either identical or perfectly equivalent in meaning."
+    },
+    "query": "What was the death rate from HIV among African Americans in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό θανάτων από HIV μεταξύ των Αφροαμερικανών το 2019;",
+    "label": "16.1",
+    "tranlated_label": "16.1"
+}

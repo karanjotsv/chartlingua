@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data values, proportions, and categories from the original. The color hues are consistent. It improves upon the original by adding a descriptive title and a legend, which clarifies the meaning of the different colored series without altering the data's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Microlensing is the common method for discovering exoplanets. However, the chart shows that the Transit method, represented by the green color, accounts for the vast majority of discoveries, particularly in the years with the highest totals (e.g., 2014 and 2016). The segments for Microlensing (orange) are consistently much smaller in comparison."
+    },
+    "claim": "Microlensing is the common method for discovering exoplanets.",
+    "label": "FALSE"
+}

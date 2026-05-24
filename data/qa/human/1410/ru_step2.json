@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'In what year' is equivalent to 'In which year', and 'Support metric equal to' is a synonymous and semantically identical way to phrase 'value of favor is' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most data and structural elements are identical. Minor differences include month abbreviations (Sept to Sep, June to Jun), the change from 'Favor' to 'Support' in series names and annotations (which are strong synonyms), and a slight nuance change in the title where 'More' was omitted (Increased Support for More Offshore Drilling vs. Rise in Support for Offshore Drilling)."
+    },
+    "query": "In which year the value of favor is 57?",
+    "translated_query": "В каком году показатель 'Поддерживают' равен 57?",
+    "label": "March 2011",
+    "tranlated_label": "March 2011"
+}

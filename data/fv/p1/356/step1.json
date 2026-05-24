@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the blue line series and most of the black line series. However, it fails to correctly render a key 'V'-shaped dip in the black line around 1948-1950, instead showing a single vertical line, which is a significant data representation error. Additionally, a title has been added that was not present in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The rendered chart contains a non-standard and misleading vertical line in the black data series around the year 1948, which is a significant chart malformation indicative of a rendering error."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the chart shows Lazio's progress in the Italian football league structure. This is directly confirmed by the chart's title, which is 'The progress of Lazio in the Italian football league structure since the first season of a unified Serie A (1929/30)'."
+    },
+    "claim": "The claim is true because the chart shows Lazio's progress in the Italian football league structure. ",
+    "label": true
+}

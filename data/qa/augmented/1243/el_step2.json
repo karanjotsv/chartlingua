@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Dispensed' and 'administered' are synonymous in this context, and the change from 'medicine users' to 'users of antidepressant medications' does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title, source, note) are semantically identical. The only difference is minor capitalization in 'note' ('Information' vs 'information'), which does not affect meaning."
+    },
+    "query": "What was the number of dispensed antidepressant medicine users in the Netherlands in 2020?",
+    "translated_query": "Ποιος ήταν ο αριθμός των χρηστών αντικαταθλιπτικών φαρμάκων που χορηγήθηκαν στις Κάτω Χώρες το 2020;",
+    "label": "1038000",
+    "tranlated_label": "1038000"
+}

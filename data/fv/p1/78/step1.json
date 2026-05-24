@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are identical to the original. The overall message and key features, including the highlighted bar, are perfectly preserved. The main chart title is also identical, though a secondary banner title from the original slide is omitted, which does not affect the chart's core meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Contact from the committee and WMF' received the lowest rating. However, the chart shows this category has a rating of 4.3, while the 'Application Form' has the lowest rating of 4.1."
+    },
+    "claim": "The Contact from the committee and WMF got the lowest ratings from survey.",
+    "label": false
+}

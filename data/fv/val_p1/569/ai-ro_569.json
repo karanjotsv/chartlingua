@@ -1,0 +1,46 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Prognoza producției de grâu",
+            "x": [
+                "1-a",
+                "a 2-a",
+                "a 3-a",
+                "a 4-a",
+                "a 5-a"
+            ],
+            "y": [
+                1690975,
+                1635400,
+                1542350,
+                1505290,
+                1501190
+            ]
+        }
+    ],
+    "texts": {
+        "title": "RSA: Producția de grâu<br>Prognozele de la 1 la 5 pentru 2015",
+        "x_axis_title": null,
+        "y_axis_title": "Tone",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "(În scădere cu 189 785 de tone)",
+                "x": 1.5,
+                "y": 1750000,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false,
+                "font": {
+                    "color": "#FF0000",
+                    "size": 14
+                }
+            }
+        ]
+    },
+    "colors": [
+        "#89c54d"
+    ]
+}

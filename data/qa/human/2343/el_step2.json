@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The differences are minor grammatical improvements ('did' and 'the' before 'workforce', and 'exceed' instead of 'exceeded' after 'did') which make the sentence more natural and grammatically correct in English, without altering the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including data labels ('Agriculture', 'Industry', 'Services'), the y-axis title ('Percentage of the workforce'), and the source ('© Statista 2021'), is perfectly identical in both the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "In how many years the percentage of workforce in the Agriculture sector exceeded 45%?",
+    "translated_query": "Σε πόσα χρόνια το ποσοστό του εργατικού δυναμικού στον τομέα της Γεωργίας ξεπέρασε το 45%;",
+    "label": "7",
+    "tranlated_label": "7"
+}

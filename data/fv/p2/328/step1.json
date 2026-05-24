@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data values, proportions, text labels, and color assignments. The only notable difference is the vertical ordering of the categories, which is a presentational choice and does not alter the data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the value for 'Agriculture' is 40. The value for 'Unknown occupation/illegible' is approximately 55 (around 5 for male workers and 50 for female workers). The average of these two values is (40 + 55) / 2 = 47.5, which supports the claim."
+    },
+    "claim": "The average of workers in Agriculture and Unknown occupation/ illegible is about 47.5",
+    "label": "TRUE"
+}

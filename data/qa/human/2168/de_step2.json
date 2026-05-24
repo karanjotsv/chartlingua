@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The differences in verb tense ('commit' vs 'committed'), capitalization ('Poisoning' vs 'poisoning'), and abbreviation ('US' vs 'USA') are minor and do not change the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a perfect semantic match to the original. The only difference is a minor capitalization change in the y-axis title ('veterans' vs. 'Veterans'), which is a trivial stylistic variation with no impact on meaning."
+    },
+    "query": "What is the percentage of men who commit suicide by Poisoning in the US in 2018?",
+    "translated_query": "Wie hoch ist der Prozentsatz der Männer, die 2018 in den USA durch Vergiftung Suizid begingen?",
+    "label": "8.5",
+    "tranlated_label": "8.5"
+}

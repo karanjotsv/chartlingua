@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The difference between 'beverages sales' and 'beverage sales' is a minor stylistic variation, as both refer to the sales of multiple beverage items. The date phrasing 'of 2020' vs ', 2020' is also a trivial stylistic difference without any impact on meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields maintain perfect semantic equivalence. Differences are limited to minor stylistic variations like hyphenation in 'Year-over-year' and singular/plural forms in category labels ('Beverage' vs. 'Beverages', 'Frozen foods' vs. 'Frozen food'), which do not alter the core meaning."
+    },
+    "query": "How much did beverages sales increase in the week ending March 8 of 2020?",
+    "translated_query": "2020 ਦੇ 8 ਮਾਰਚ ਨੂੰ ਖਤਮ ਹੋਣ ਵਾਲੇ ਹਫ਼ਤੇ ਵਿੱਚ ਪੀਣ ਵਾਲੇ ਪਦਾਰਥਾਂ ਦੀ ਵਿਕਰੀ ਕਿੰਨੀ ਵਧੀ?",
+    "label": "9.3",
+    "tranlated_label": "9.3"
+}

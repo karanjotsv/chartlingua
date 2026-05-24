@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'at' vs 'in' and 'is above' vs 'exceeds' are synonymous in this context, conveying the exact same semantic information."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The equivalence is poor due to a significant semantic distortion in the 'chart_data.series' names. 'image-load' (referring to image display/fetching in a viewer) was translated to 'image upload' (referring to transferring an image to a server). These are distinct technical operations, and this change fundamentally misrepresents the data for those series within the context of 'Media Viewer Performance'. Other changes, like 'meantime' to 'average time' or 'Raw Data' to 'Source Data', are acceptable or minor."
+    },
+    "claim": "The highest point at average performance metrics is above 3K.",
+    "translated_claim": "Самая высокая точка по средним показателям производительности превышает 3K."
+}

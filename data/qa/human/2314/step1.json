@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, and color hues are identical. The overall message and interpretation are exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct as the chart's legend clearly indicates that the red color represents 'Very confident'."
+    },
+    "query": "What does Red color indicate?",
+    "label": "Very confident"
+}

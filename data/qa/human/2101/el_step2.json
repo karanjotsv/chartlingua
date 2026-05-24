@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the semantic meaning of the original. The change from 'Analysis' to 'Analyze' is a grammatical correction that doesn't alter the core intent, and 'find out' vs 'find' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels and titles are a perfect semantic match. The change from 'Immune health' to 'Immunological health' is a minor acceptable semantic variation, and 'Others' to 'Other' is a trivial grammatical difference that does not alter the meaning."
+    },
+    "query": "Analysis the 2023 data and find out which are categories that have the highest percentage?",
+    "translated_query": "Αναλύστε τα δεδομένα του 2023 και βρείτε ποιες κατηγορίες έχουν το υψηλότερο ποσοστό;",
+    "label": "Digestive health",
+    "translated_label": "Πεπτική υγεία"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical, despite minor stylistic differences like the rotation of the slices and the explosion of the 'Mozilla Firefox' slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on web browser market share, showing percentages for browsers like Internet Explorer, Google Chrome, and Mozilla Firefox. The claim, however, makes a statement about HIV/AIDS statistics among a specific demographic in the U.S. population in 2011. The chart's content is entirely unrelated to the claim."
+    },
+    "claim": "Black people at 13.1% of U.S.Population 2011, were ranked first in living with HIV/AIDS.",
+    "label": "TRUE"
+}

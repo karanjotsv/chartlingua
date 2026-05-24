@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The term 'Peoples Republic' in this context semantically refers to China, making the core meaning of the population comparison perfectly preserved. The back-translation is an excellent semantic match."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Most textual elements like axis titles and series names are perfectly matched. However, there is a significant error in the 'chart_data' where 'Democratic Republic of Congo' was incorrectly back-translated as 'People's Republic of...', leading to a distortion of key information and a factual inaccuracy for that data point."
+    },
+    "claim": "Population of Peoples Republic is higher than India. ",
+    "translated_claim": "Ο πληθυσμός της Λαϊκής Δημοκρατίας είναι υψηλότερος από της Ινδίας."
+}

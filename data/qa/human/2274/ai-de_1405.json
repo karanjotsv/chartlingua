@@ -1,0 +1,104 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "category": "Lungenentzündung",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "Komplikationen bei Frühgeburten",
+            "values": [
+                2,
+                16
+            ]
+        },
+        {
+            "category": "Ereignisse während der Geburt",
+            "values": [
+                1,
+                11
+            ]
+        },
+        {
+            "category": "Sepsis oder Meningitis",
+            "values": [
+                2,
+                7
+            ]
+        },
+        {
+            "category": "Angeboren",
+            "values": [
+                4,
+                5
+            ]
+        },
+        {
+            "category": "Andere",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "AIDS",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Durchfall",
+            "values": [
+                8,
+                0.3
+            ]
+        },
+        {
+            "category": "Tetanus",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Malaria",
+            "values": [
+                5,
+                0
+            ]
+        },
+        {
+            "category": "Verletzung",
+            "values": [
+                6,
+                1
+            ]
+        },
+        {
+            "category": "Masern",
+            "values": [
+                2,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Verteilung der Todesursachen",
+        "legend_titles": [
+            "Todesfälle bei Kindern im Alter von 1–59 Monaten (53%)",
+            "Neonatale Todesfälle (47%)"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1F384D"
+    ]
+}

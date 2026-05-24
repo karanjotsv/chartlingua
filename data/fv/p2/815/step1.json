@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message and data proportions are perfectly preserved. The only difference is the stylistic choice of exploding one slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Google Chrome has no market share, but the pie chart clearly shows a slice for 'Google Chrome' with a market share of 23.22%."
+    },
+    "claim": "Google Chrome has no market share.",
+    "label": "FALSE"
+}

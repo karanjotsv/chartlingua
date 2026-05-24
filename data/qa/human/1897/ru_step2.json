@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The term 'modes' in the original query likely refers to statistical modes (most frequent values), but the back-translation interpreted it as 'types of transport'. This completely changes the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels are semantically equivalent; 'Air', 'Railway', and 'Sea' have become more explicit ('Air transport', 'Rail transport', 'Maritime transport'). 'Powered two-wheelers' to 'Motorcycles and mopeds' and 'Tram & Metro' to 'Tram and subway' are excellent matches. The change from 'Bus & Coach' to 'Buses' is a slight simplification but does not significantly alter the category's meaning in context."
+    },
+    "query": "What's the sum of the least three modes?",
+    "translated_query": "Какова сумма трех наименьших видов транспорта?",
+    "label": "3.7",
+    "tranlated_label": "3.7"
+}

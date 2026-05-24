@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes from 'the two' to 'both' and 'in' to 'for' are stylistic variations that do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. The y-axis title changed from 'Median hourly pay' to 'Average hourly wage'. While 'pay' and 'wage' are synonymous, the change from 'Median' to 'Average' represents a loss of accuracy, as they are distinct statistical measures."
+    },
+    "query": "What is the sum of the two bars in  18 to 21?",
+    "translated_query": "18 से 21 में दोनों बार का योग क्या है?",
+    "label": "18.27",
+    "tranlated_label": "18.27"
+}

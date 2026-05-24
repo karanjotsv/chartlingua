@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, proportions, and color hues are accurately reproduced. The overall message and data ranking are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the combined percentage for Biosciences (8.3%) and Nanoscience (11.5%) is 19.8%. The percentage for Computer Science is 2.8%. Therefore, the combined usage of Biosciences and Nanoscience is greater than, not less than, the usage of Computer Science."
+    },
+    "claim": "The CSCS usage of Bioscience and Nanoscience supercomputers combined is less than the CSCS usage of Computer Science. ",
+    "label": "FALSE"
+}

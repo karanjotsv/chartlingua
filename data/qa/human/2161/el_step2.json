@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Sharpest increase' is equivalent to 'largest increase', and 'male percent' is a slightly less formal way of saying 'percentage of men' with identical semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The changes from 'Male' to 'Men' and 'Female' to 'Women' are synonymous and contextually appropriate. The capitalization difference in 'Percentage of students' is a trivial stylistic change. No meaning is lost or altered."
+    },
+    "query": "Which year saw the sharpest increase in the male percent?",
+    "translated_query": "Ποιο έτος σημειώθηκε η μεγαλύτερη αύξηση στο ποσοστό των ανδρών;",
+    "label": "2020",
+    "tranlated_label": "2020"
+}

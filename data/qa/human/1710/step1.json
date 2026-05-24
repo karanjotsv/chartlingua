@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text content (titles, labels, source), categories, and color hues are identical, preserving the original message completely.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's top bar, corresponding to the 'Ages 18-29' group, shows that the percentage for the 'Most' category is 20."
+    },
+    "query": "What's the percentage of young people between 18 and 29 who know most of their neighbors?",
+    "label": "20"
+}

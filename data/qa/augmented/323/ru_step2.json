@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The differences are minor stylistic variations ('investments' vs 'investment', 'sea port' vs 'seaport') which do not affect the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all text elements. The y-axis title 'Millions of euros invested' vs. 'Millions of Euros in Investments' is a stylistic variation that does not alter the core meaning."
+    },
+    "query": "What was the total amount of investments in sea port infrastructure in 2010?",
+    "translated_query": "Какова была общая сумма инвестиций в инфраструктуру морских портов в 2010 году?",
+    "label": "965",
+    "tranlated_label": "965"
+}

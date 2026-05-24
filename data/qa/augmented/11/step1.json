@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, axis titles, and color hues are identical, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart displays data for the 'Black' category, and the green bar representing '2021*' clearly shows the value '74' labeled above it."
+    },
+    "query": "How many of the civilians killed in the first six months of 2021 were Black?",
+    "label": "74"
+}

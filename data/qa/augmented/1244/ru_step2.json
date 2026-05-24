@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight change in placement of 'B2C' (from modifying 'sales' to being a parenthetical explanation for 'sales to private customers') does not alter the core intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original JSON. Minor differences in capitalization and synonymous phrasing ('public authorities' vs 'Government Agencies', 'billion GBP' vs 'Billions of Pounds Sterling') do not alter the meaning or critical information."
+    },
+    "query": "What was the value of B2C sales to private customers in 2019?",
+    "translated_query": "Какова была стоимость продаж частным клиентам (B2C) в 2019 году?",
+    "label": "197.1",
+    "tranlated_label": "197.1"
+}

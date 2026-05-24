@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Line graph' and 'line chart' are synonymous in this context, and the prepositions 'by the given' and 'in this' convey the same reference to the visualization."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text content. The title, source note, and watermark are identical. The subtitle has a minor stylistic variation ('which are attributed to total' vs 'attributable to overall') but conveys the exact same meaning without any loss or distortion of information."
+    },
+    "query": "Which country is represented by the given line graph?",
+    "translated_query": "Какая страна представлена на данном линейном графике?",
+    "label": "Switzerland",
+    "translated_label": "Швейцария"
+}

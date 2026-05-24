@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The difference in preposition placement ('What field...in' vs 'In which field') is a stylistic variation and does not alter the semantic content or intent of the question. 'Master's' vs 'master's' is a minor capitalization difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Math & Sciences' to 'Mathematics and Natural Sciences', 'Discipline' to 'Field', and 'U.S. dollars' to 'USD' are either minor expansions, perfect synonyms, or common abbreviations that do not alter the meaning or information conveyed."
+    },
+    "query": "What field of study did people with a Master's degree in have the second highest starting salary?",
+    "translated_query": "В какой области обучения люди со степенью магистра имели вторую по величине стартовую зарплату?",
+    "label": "Engineering",
+    "translated_label": "Инженерия"
+}

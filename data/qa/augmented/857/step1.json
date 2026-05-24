@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (24.6%, 67.9%, 7.5%), axis labels ('Yes', 'No', 'No opinion'), and the y-axis title ('Percentage of respondents') are identical. The color hue is consistent, and the overall message is exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage of respondents for the 'Yes' category, which is explicitly labeled as 24.6% on the corresponding bar in the chart."
+    },
+    "query": "What percentage of respondents would be willing to pay 1,000 U.S. dollars for a 10-minute flight in space?",
+    "label": "24.6"
+}

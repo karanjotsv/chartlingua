@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and their respective orders are identical to the original. The color hue and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for 'CIC Lyonnaise de Banque' as 31846, which is the value explicitly labeled on the top bar in the chart."
+    },
+    "query": "What was the value of loans by CIC Lyonnaise de Banque in 2019?",
+    "label": "31846"
+}

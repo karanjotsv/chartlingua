@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. While most data points, text, and the overall trend are correct, the rendered chart includes data for the year 2020, which is explicitly missing from the original chart's x-axis and data series.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart shows that the predicted customs duty revenue for the fiscal year 2024 is higher than the revenue for 2023, which contradicts the claim."
+    },
+    "claim": "The customs duties in 2023 are expected to be higher than in 2024.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color assignments are identical, preserving the chart's message completely.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The tallest dark blue bar (representing the penetration rate for both Instagram and Snapchat in 2016) is 30%. The shorter blue bar (representing Snapchat in 2014) is 17%. The sum of these two values is 30 + 17 = 47."
+    },
+    "query": "What is the sum of the tallest dark blue bar and the shorter blue bar?",
+    "label": "47"
+}

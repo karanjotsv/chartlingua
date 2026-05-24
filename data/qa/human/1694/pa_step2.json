@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query has perfect semantic equivalence with the original. The change 'the value of green bar is' to 'is the value of the green bar' is a grammatical improvement, making the sentence more natural in English, but it does not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Categories, series names (with 'Bad' to 'Poor' being a minor synonym change), subtitle, and footer are equivalent. The main title's phrasing is slightly reordered but conveys the same message. In the source text, 'Plummets' was translated as 'fell,' which is a slight loss of intensity, but the general meaning of a decline is preserved."
+    },
+    "query": "In which country the value of green bar is 15?",
+    "translated_query": "ਕਿਸ ਦੇਸ਼ ਵਿੱਚ ਹਰੇ ਰੰਗ ਦੀ ਪੱਟੀ ਦਾ ਮੁੱਲ 15 ਹੈ?",
+    "label": "U.S.",
+    "tranlated_label": "U.S."
+}

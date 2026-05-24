@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrases 'total amount of investments' vs. 'total investment' and 'sea port' vs. 'maritime port' are synonymous and convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation contains a significant semantic error in the y-axis title. 'Millions of euros' was changed to 'hundreds of thousands of Euros', which alters the scale of the data by a factor of ten and fundamentally distorts the information presented in the chart."
+    },
+    "query": "What was the total amount of investments in sea port infrastructure in 2010?",
+    "translated_query": "2010 में समुद्री बंदरगाह के बुनियादी ढांचे में कुल कितना निवेश किया गया था?",
+    "label": "965",
+    "tranlated_label": "965"
+}

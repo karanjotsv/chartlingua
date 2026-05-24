@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (including the typo 'Occuapation' in the legend), and color hues are all consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows a light blue bar representing 'Domestic Services'. The top of this bar is visibly higher than the horizontal grid line marked with the value '5' on the y-axis."
+    },
+    "claim": "Domestic Services on the chart reaches over 5 in terms of occupations.",
+    "label": true
+}

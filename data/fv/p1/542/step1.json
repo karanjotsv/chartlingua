@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, bar proportions, text content (title, labels), and color hues for each category are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 44.4% of responding Chapters have created brochures. It does not state that brochures make up 44.4% of the total quantity of printed pieces created."
+    },
+    "claim": "Brochures made up 44.4% of the printed pieces made by the Chapter.",
+    "label": true
+}

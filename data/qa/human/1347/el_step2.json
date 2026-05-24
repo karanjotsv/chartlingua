@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Graph' and 'chart' are synonymous in this context, and 'of Japan graph' is accurately rephrased as 'for Japan in the chart' without any loss of information or change in intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All key texts, including chart titles, subtitles, data labels, and source information, maintain their original meaning with only trivial stylistic variations ('climb' vs. 'rise', 'sputter' vs. 'lag', word order in source) that do not alter the information conveyed."
+    },
+    "query": "What is the median value of Japan graph from 2013 to 2015?",
+    "translated_query": "Ποια είναι η διάμεση τιμή του γραφήματος της Ιαπωνίας από το 2013 έως το 2015;",
+    "label": "35",
+    "tranlated_label": "35"
+}

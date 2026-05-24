@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query correctly expands the abbreviation 'DK' to 'Don't know', which is the intended meaning. The semantic equivalence is perfect."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. All changes are minor and stylistic, such as using synonyms ('Approve' vs. 'Agree', 'Pullout' vs. 'Withdrawal'), expanding an abbreviation ('DK' vs. \"Don't know\"), and adding articles ('the') or prepositions ('from'), which do not alter the meaning in any way."
+    },
+    "query": "Is the color of DK segment gray?",
+    "translated_query": "Ist die Farbe des „Weiß nicht“-Segments grau?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

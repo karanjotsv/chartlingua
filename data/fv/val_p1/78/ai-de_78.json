@@ -1,0 +1,58 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Bewerbungs<br>formular",
+            "value": 4.1
+        },
+        {
+            "category": "Auswahl<br>kriterien",
+            "value": 4.2
+        },
+        {
+            "category": "Auswahl<br>prozess",
+            "value": 4.2
+        },
+        {
+            "category": "Kontakt durch<br>das Komitee<br>und die WMF",
+            "value": 4.3
+        },
+        {
+            "category": "Reise<br>organisation",
+            "value": 4.2
+        },
+        {
+            "category": "Wikimania-<br>Stipendien<br>insgesamt",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "Bewertungen des Wikimania-Stipendienkomitees nach<br>Prozess, 2013",
+        "subtitle": "Durchschnittliche Bewertungen des Wikimania-Stipendienprozesses 2013<br>(Vollstipendium, teilgenommen; n=42)",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_note": "Hinweis: Umfasst nur Empfänger von Vollstipendien, die an der Wikimania teilgenommen haben; die Skala für die Frage wurde 2013 geändert, was zu indirekten Vergleichen führt",
+        "source_survey": "Stipendienumfrage 2013",
+        "y_axis_labels": [
+            {
+                "value": 1.0,
+                "text": "Sehr<br>unzufrieden"
+            },
+            {
+                "value": 3.0,
+                "text": "Neutral"
+            },
+            {
+                "value": 5.0,
+                "text": "Sehr<br>zufrieden"
+            }
+        ]
+    },
+    "colors": {
+        "bar_color": "#F4A55A",
+        "title_background": "#9985B6",
+        "title_font": "#FFFFFF",
+        "text_main": "#000000",
+        "grid": "#D3D3D3"
+    }
+}

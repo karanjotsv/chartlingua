@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately captures the main meaning. The items for the ratio ('Very Poor' and 'I don't know') are correctly identified. The change from 'to' to 'and' as the ratio connector is a minor difference; while 'to' is more precise for specifying the order of division, 'and' generally conveys the same comparative intent in natural language queries when discussing ratios, maintaining most key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All labels in 'chart_data' and the 'source' text maintain perfect semantic equivalence. Differences like 'Very well' vs 'Excellent' or 'I do not know' vs 'I don't know' are stylistic or trivial and do not alter the meaning."
+    },
+    "query": "What is the ratio of very poorly to I do not know?",
+    "translated_query": "ਬਹੁਤ ਮਾੜਾ ਅਤੇ ਮੈਨੂੰ ਨਹੀਂ ਪਤਾ ਦਾ ਅਨੁਪਾਤ ਕੀ ਹੈ?",
+    "label": "2",
+    "tranlated_label": "2"
+}

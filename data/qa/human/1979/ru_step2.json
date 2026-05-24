@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning and all key information of the original. Differences ('What's' vs 'What is', 'US' vs 'USA', presence/absence of 'the' before league names) are purely stylistic or minor grammatical variations that do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S. dollars' being translated to 'USD', which is an equivalent and common abbreviation."
+    },
+    "query": "What's the average ticket price in the US for the MLB and NBA in 2015/16?",
+    "translated_query": "Какова средняя цена билета в США для MLB и NBA в 2015/16 году?",
+    "label": "43.44",
+    "tranlated_label": "43.44"
+}

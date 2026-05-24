@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'News story' and 'news article' are synonyms, and the difference between 'pageviews' and 'page views' is purely stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements demonstrate excellent semantic equivalence. The changes in the series names are minor and stylistic (e.g., word order in 'NBA Finals 2015', synonym use of 'parliamentary' for 'general'). The axis and legend titles differ only in capitalization and spacing, which does not affect the meaning."
+    },
+    "claim": " The news story about the FIFA scandal had the low pageviews on June 23, 2015.",
+    "translated_claim": "Der Nachrichtenbeitrag über den FIFA-Skandal hatte am 23. Juni 2015 niedrige Seitenaufrufe."
+}

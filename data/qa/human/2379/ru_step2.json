@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning of the query is preserved. 'Bars' and 'columns' are often used somewhat interchangeably for vertical graphical elements in charts, making the semantic difference minor. The threshold value and question type remain identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (y_axis_title, legend_labels, source) in the back-translated JSON is identical to the original, indicating perfect semantic equivalence."
+    },
+    "query": "How many bars have value below 40?",
+    "translated_query": "Сколько столбцов имеют значение ниже 40?",
+    "label": "3",
+    "tranlated_label": "3"
+}

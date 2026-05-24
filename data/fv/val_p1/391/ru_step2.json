@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. 'High tide flooding' and 'Tidal flooding' are contextually interchangeable, and 'were the least' is grammatically corrected to 'was lowest' without altering the intended meaning of minimum occurrence during the specified period."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'name' and 'y_axis_title' fields have minor case differences, and 'U.S.' became 'USA' in the title, which are trivial. The main difference is 'High tide flooding' in the original title becoming 'Tidal Flooding' in the back-translation. While semantically very close and often used interchangeably in general discourse, 'high tide flooding' is a more specific term for the phenomenon tracked by NOAA tide gauges. This represents a minor loss of specificity, preventing a perfect 5."
+    },
+    "claim": "High tide flooding were the least between 1950 and 1960. ",
+    "translated_claim": "Приливные затопления были наименьшими в период с 1950 по 1960 год."
+}

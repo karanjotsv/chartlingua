@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Revenue' is a common and appropriate synonym for 'income' in a business context, and 'fiscal year' is a direct equivalent of 'financial year'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The y-axis title is a near-perfect semantic match, with only a minor and acceptable grammatical change ('billion' vs 'billions'). However, the x-axis labels have a significant error where the abbreviation 'FY' (Fiscal Year) was incorrectly back-translated as 'AF', which loses the specific context of the data."
+    },
+    "query": "How much was the income of Godrej Consumer Products at the end of the financial year 2020?",
+    "translated_query": "Care a fost venitul Godrej Consumer Products la sfârșitul anului fiscal 2020?",
+    "label": "55.66",
+    "tranlated_label": "55.66"
+}

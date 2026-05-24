@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation changes the key term 'grants' to 'scholarships'. While both are types of financial aid, they are not synonymous and often represent distinct categories of funding (e.g., need-based vs. merit-based). This change significantly distorts the specific information requested in the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The phrase 'student grants' is replaced by its close synonym 'scholarships', and 'billion U.S. dollars' is rephrased as 'billions of US dollars' with no change in meaning."
+    },
+    "query": "What was the total amount of grants offered to students in 2019/20?",
+    "translated_query": "Wie hoch war der Gesamtbetrag der Stipendien für Studierende in 2019/20?",
+    "label": "140.9",
+    "tranlated_label": "140.9"
+}

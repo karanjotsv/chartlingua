@@ -1,0 +1,40 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Arabic",
+            "value": 5
+        },
+        {
+            "label": "Fulfulde",
+            "value": 0
+        },
+        {
+            "label": "Songhay",
+            "value": 3
+        },
+        {
+            "label": "Tamasheq",
+            "value": 86
+        },
+        {
+            "label": "Other",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "Kidal (pop. 68,000)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": "Note: The percentages shown (5, 3, 86, 6) sum to 100%. The 'Fulfulde' category, present in the legend and as a sliver in the original chart, is assigned a value of 0 as no percentage is specified for it."
+    },
+    "colors": [
+        "#4572A7",
+        "#AA4643",
+        "#89A54E",
+        "#80699B",
+        "#3D96AE"
+    ]
+}

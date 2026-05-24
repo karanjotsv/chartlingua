@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart incorrectly uses a single unified legend for both pie charts. The original chart had separate legends with different color assignments. This change causes a severe misrepresentation of the data in the right-hand ('Coal') chart, as the dominant category is incorrectly identified due to the color mapping being swapped from the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The titles for the two charts are rendered directly on top of each other, creating severe text overlap that makes them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a comparison involving a chart for 'natural gas', but the provided image does not contain a chart for 'natural gas'. It only shows charts for 'Coal - Energy' and 'Energy Consumed in Manufacturing Process of Hemp Fiber'."
+    },
+    "claim": "Power generation and supply on the chart for Coal and natural gas are the same size.",
+    "label": false
+}

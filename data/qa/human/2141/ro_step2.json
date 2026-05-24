@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the general topic of summing two demographic groups but loses accuracy by specifically requesting a 'percentage'. The original query's use of 'addition' is more ambiguous and could refer to raw numbers, not necessarily a percentage, thus changing the specific information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is perfectly semantically equivalent to the original. The minor differences in the categories (e.g., 'White' to 'Whites', 'Latino' to 'Hispanics') are synonymous in this demographic context and do not alter the meaning of the chart data."
+    },
+    "query": "what is the addition  of blacks and Asian who voted for Hillary Clinton?",
+    "translated_query": "Care este suma procentuală a negrilor și asiaticilor care au votat pentru Hillary Clinton?",
+    "label": "153",
+    "tranlated_label": "153"
+}

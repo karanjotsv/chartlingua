@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_subplots",
+    "charts": [
+        {
+            "title": "Spanish nouns ending in a/á",
+            "data": [
+                {
+                    "label": "NEUTRAL",
+                    "value": 4
+                },
+                {
+                    "label": "MASCULINE",
+                    "value": 7
+                },
+                {
+                    "label": "FEMININE",
+                    "value": 89
+                }
+            ],
+            "colors": [
+                "#ADDE96",
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "Masculine: 344 (7%)<br>Feminine: 4453 (89%)<br>Neutral: 211 (4%)"
+        },
+        {
+            "title": "Spanish names ending in a",
+            "data": [
+                {
+                    "label": "MALE",
+                    "value": 2
+                },
+                {
+                    "label": "FEMALE",
+                    "value": 98
+                }
+            ],
+            "colors": [
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "Male: 10 (2%)<br>Female: 487 (98%)"
+        }
+    ],
+    "texts": {
+        "source": "©namepedia.org"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, categories, text labels, and color hues are consistent with the original. The overall message about political disagreement across countries is accurately conveyed. Differences are purely stylistic, such as the legend format (discrete vs. continuous scale) and the use of solid colors instead of gradients.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement regarding climate change across various countries. The term 'Nuclear' is not mentioned or represented anywhere in the chart's title, axes, labels, or data points."
+    },
+    "claim": "Nuclear is the largest one on the chart.\n",
+    "label": "TRUE"
+}

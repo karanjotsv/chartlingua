@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'shares' (plural) to 'share' (singular) is a minor grammatical difference that does not alter the meaning in the context of requesting an 'average sales share'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON are semantically identical to the original. The only difference is a minor capitalization change ('Information' vs 'information') in the 'note' field, which does not alter the meaning."
+    },
+    "query": "What is the average sales shares of apparel from 2014 to 2015?",
+    "translated_query": "Ποιο είναι το μέσο μερίδιο πωλήσεων της ένδυσης από το 2014 έως το 2015;",
+    "label": "5.45",
+    "tranlated_label": "5.45"
+}

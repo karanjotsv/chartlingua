@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'Graph' and 'chart' are semantically equivalent here, and the omission of 'of' ('more Y' instead of 'more of Y', 'any X' instead of 'any of X') does not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text in the 'series_name' ('Inverse Relationship') is perfectly identical in both original and back-translated content. All other text fields within the 'texts' object were null in both versions, indicating no information to be translated or lost."
+    },
+    "claim": "According to the graph, it is possible to obtain more of Y without sacrificing any of X.",
+    "translated_claim": "Σύμφωνα με το γράφημα, είναι δυνατόν να αποκτηθεί περισσότερο Y χωρίς να θυσιαστεί καθόλου X."
+}

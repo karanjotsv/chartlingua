@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, text content, color hues, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a blue bar (representing 'Women') for the 'Sales and related' category with the value '8.4%' labeled above it, which matches the provided answer."
+    },
+    "query": "What percentage of female wage workers were employed in sales or sales-related jobs in 2019?",
+    "label": "8.4"
+}

@@ -1,0 +1,60 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "LDP",
+            "value": 119,
+            "label_style": "inside_multiline"
+        },
+        {
+            "label": "NKP",
+            "value": 21,
+            "label_style": "inside_singleline"
+        },
+        {
+            "label": "DPJ",
+            "value": 308,
+            "label_style": "inside_multiline"
+        },
+        {
+            "label": "JCP",
+            "value": 9,
+            "label_style": "outside"
+        },
+        {
+            "label": "SDP",
+            "value": 7,
+            "label_style": "outside"
+        },
+        {
+            "label": "YP",
+            "value": 5,
+            "label_style": "outside"
+        },
+        {
+            "label": "PNP",
+            "value": 3,
+            "label_style": "outside"
+        },
+        {
+            "label": "Independents",
+            "value": 8,
+            "label_style": "outside_special"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#00B050",
+        "#0033CC",
+        "#F79646",
+        "#D8251E",
+        "#FFFF00",
+        "#FFC0CB",
+        "#92D050",
+        "#A6A6A6"
+    ]
+}

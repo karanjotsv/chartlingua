@@ -1,0 +1,70 @@
+{
+    "chart_type": "pie_of_pie",
+    "chart_data": {
+        "main_pie": {
+            "labels": [
+                "Black coal",
+                "Natural gas",
+                "Renewables",
+                "Brown coal",
+                "Oil"
+            ],
+            "values": [
+                47,
+                21,
+                15,
+                15,
+                2
+            ]
+        },
+        "sub_pie": {
+            "labels": [
+                "Biomass",
+                "Wind",
+                "Hydro",
+                "Large-scale solar PV",
+                "Small-scale<br>solar PV"
+            ],
+            "values": [
+                9.3,
+                32.4,
+                35.6,
+                2.0,
+                20.7
+            ]
+        }
+    },
+    "texts": {
+        "title": "Australian Electricity Generation, by type, 2017"
+    },
+    "colors": {
+        "main_pie_slices": [
+            "#363636",
+            "#F49842",
+            "#D3F3B1",
+            "#8B694F",
+            "#A9A9A9"
+        ],
+        "sub_pie_slices": [
+            "#006400",
+            "#C1F4A5",
+            "#00B0F0",
+            "#FFC000",
+            "#FFFF99"
+        ],
+        "main_pie_text": [
+            "white",
+            "black",
+            "black",
+            "white",
+            "black"
+        ],
+        "sub_pie_text": [
+            "white",
+            "black",
+            "black",
+            "black",
+            "black"
+        ]
+    }
+}

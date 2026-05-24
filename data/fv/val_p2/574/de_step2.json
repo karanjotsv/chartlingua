@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The change from 'The UK's government debt' to 'The government debt of the United Kingdom' is a purely stylistic and synonymous variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text components are semantically identical. The back-translated title is more formal ('Government Debt of the United Kingdom' vs. 'UK debt') and the y-axis title uses a synonym ('Debt Ratio' vs. 'Debt percentage'), but the meaning is perfectly preserved across all fields."
+    },
+    "claim": "The UK's government debt has decreased since 2011.",
+    "translated_claim": "Die Staatsverschuldung des Vereinigten Königreichs ist seit 2011 gesunken."
+}

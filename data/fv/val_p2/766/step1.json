@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points for each country, axis labels, titles, and color hues are consistent with the original. The core message about the political disagreement on climate change is perfectly preserved. The primary differences are stylistic (e.g., the legend is categorical instead of a gradient bar, the connecting bar is a solid color), but these do not alter the data's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart explicitly shows that for every country listed, the percentages of people considering climate change a threat differ across the 'Political left', 'Political center', and 'Political right'. The dots representing these viewpoints are at different positions on the percentage scale for each country, indicating unequal percentages."
+    },
+    "claim": " All political viewpoints have an equal percentage of people considering climate change a threat.",
+    "label": "FALSE"
+}

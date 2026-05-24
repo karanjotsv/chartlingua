@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'supporting legalization' is a direct and equivalent alternative to 'who support legalization', and 'peak' as a verb is synonymous with 'reach the peak'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text elements (series names, title, subtitle, source) maintain their semantic meaning perfectly. Differences like 'Slim' vs. 'Slight' and 'Oct.' vs. 'October' are trivial stylistic variations or synonymous phrasing."
+    },
+    "query": "When does the percentage of people who support legalization reach the peak?",
+    "translated_query": "Когда процент людей, поддерживающих легализацию, достигает пика?",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

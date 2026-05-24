@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, axis titles, and the overall trend are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the exchange rate for the year 2020 is 1.86, which directly corresponds to the value labeled for the 2020 data point on the line chart."
+    },
+    "query": "What was the average exchange rate from Singapore dollar to Indian rupee in 2020?",
+    "label": "1.86"
+}

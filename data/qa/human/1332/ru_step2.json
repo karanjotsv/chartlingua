@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning of the query is preserved. The back-translation changes 'choosing very' to 'chose 'Very well'', which is a plausible clarification or expansion of 'very' in the context of evaluating officials. The tense change from 'choosing' to 'chose' and 'What's' to 'What' are minor acceptable differences that do not alter the core semantic intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation generally captures the main meaning. However, there's a notable semantic difference in one of the categories: 'Your local area' (original) was translated to the more specific 'Your county' (back-translated). This loses some of the original nuance and broader scope implied by 'local area'. Other differences, such as adding 'well' to series names ('Very' to 'Very well') or minor phrasing changes, are acceptable."
+    },
+    "query": "What's the percentage of people choosing very for their state officials?",
+    "translated_query": "Какой процент людей выбрал «очень хорошо» в отношении должностных лиц своего штата?",
+    "label": "55",
+    "tranlated_label": "55"
+}

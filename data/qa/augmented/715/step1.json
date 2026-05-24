@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (23%, 13%, 8%, 1%), categories (Netflix, Amazon Prime Video, Disney+, Apple TV+), axis labels, and color logic are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Netflix's subscriber market share as 23, which corresponds to the 23% value shown on the bar for Netflix in the chart."
+    },
+    "query": "What is Netflix's global share?",
+    "label": "23"
+}

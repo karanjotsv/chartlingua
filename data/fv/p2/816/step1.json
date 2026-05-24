@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim mentions a 'positive correlation between speed and time', but the provided image is a pie chart displaying browser market share percentages. The chart contains no data related to either 'speed' or 'time'."
+    },
+    "claim": "The graph shows a positive correlation between speed and time.",
+    "label": "TRUE"
+}

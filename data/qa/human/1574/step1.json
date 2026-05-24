@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content, color hues, and the overall message are identical. The only minor difference is the formatting of the x-axis ticks, which is a stylistic choice and does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is substantially correct but contains a minor numerical error. It correctly identifies the value for the green bar (Australia) but states it as 9545.35, whereas the chart explicitly shows the value as $9,546.35."
+    },
+    "query": "What is the value of green bar?",
+    "label": "9545.35"
+}

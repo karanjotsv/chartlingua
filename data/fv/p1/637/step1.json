@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text labels (title, axes, legend), and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays two lines representing 'HR/G' (Home Runs per Game) in blue and 'SB/G' (Stolen Bases per Game) in pink. At the year 2000 mark on the x-axis, the blue line is visibly higher than the pink line, confirming that the rate of home runs per game was greater than the rate of stolen bases per game."
+    },
+    "claim": "There were less stolen bases per game in Major League Baseball than home runs per game in the year 2000.",
+    "label": true
+}

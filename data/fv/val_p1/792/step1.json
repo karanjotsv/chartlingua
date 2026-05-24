@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, text labels, and color hues are all consistent with the original, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that 'Retail and Handicrafts' is a larger category than 'Servants'. In the pie chart, the light blue slice representing 'Retail and Handicrafts' is visibly much larger than the pink slice representing 'Servants'."
+    },
+    "claim": "Retail and Handicrafts occupation is maximum score than Servants  in Walpole in 1831.",
+    "label": true
+}

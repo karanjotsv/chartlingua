@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly represents all data categories, values, and proportions. The title, subtitle, and color hues are also consistent with the original. The different ordering of the slices is a minor stylistic variation that does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the 'Metal Mining' industry is responsible for 37% of the total disposal, which is the largest percentage among all the industries listed."
+    },
+    "claim": "The metal mining industry disposed of the highest amount of toxic waste in 2015.",
+    "label": "TRUE"
+}

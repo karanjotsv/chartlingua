@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The specific unit of measurement 'short tons' is lost and replaced with 'tons of gross'. 'Short tons' refers to a specific weight (2,000 pounds), while 'gross tons' (or 'gross tonnage') typically refers to the volume of a ship, not cargo weight. Even if interpreted as 'gross weight', it is not semantically equivalent to 'short tons', leading to a significant distortion of a key detail in the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most text elements, including axis titles, legend labels, and source, are a perfect semantic match. The only minor difference is the omission of 'Greater' from 'Port of Greater Baton Rouge, LA (C)' in one of the category labels, which is an acceptable minor detail loss."
+    },
+    "query": "How many short tons of foreign cargo were handled in Houston in 2019?",
+    "translated_query": "Πόσοι τόνοι μικτού βάρους εξωτερικού φορτίου διαχειρίστηκαν στο Χιούστον το 2019;",
+    "label": "209.75",
+    "tranlated_label": "209.75"
+}

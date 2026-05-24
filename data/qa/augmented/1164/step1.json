@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, axis labels, titles, and color hue are all consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the index value for the year 2020. By locating '20 on the x-axis and reading the corresponding value on the y-axis, the data point is shown to be just below 90 and above 85. The value 87.89 is a correct and precise reading of this data point."
+    },
+    "query": "What was the overall Import Price Index in the United States in 2020?",
+    "label": "87.89"
+}

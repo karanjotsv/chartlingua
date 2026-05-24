@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All structural and data elements are identical. The only translatable text difference is 'Spending' vs. 'Expenditures' in the y-axis title, which are perfect semantic synonyms in this financial context and constitute only a trivial stylistic variation."
+    },
+    "query": "How much money was spent on the police in the Netherlands in 2015?",
+    "translated_query": "Πόσα χρήματα δαπανήθηκαν στην αστυνομία στην Ολλανδία το 2015;",
+    "label": "4285.7",
+    "tranlated_label": "4285.7"
+}

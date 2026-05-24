@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the meaning of the original. 'Highest number' is semantically equivalent to 'largest number', and 'graph' is equivalent to 'chart' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON, specifically the chart title, are an exact semantic match to the original content. There are no differences."
+    },
+    "claim": "In 2009, Russia shipped the highest number of  PC units according to the graph above.",
+    "translated_claim": "В 2009 году Россия отгрузила наибольшее количество единиц ПК согласно приведенному выше графику."
+}

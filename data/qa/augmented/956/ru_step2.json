@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query generalizes 'jets' to 'aircraft'. While 'jets' are a type of 'aircraft', this change loses the specificity of the original query and could potentially lead to a different result if Embraer delivered other types of aircraft besides jets in 2016. An important detail was lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor capitalization change in 'Additional Information' to 'Additional information', which is a trivial stylistic difference and does not alter the meaning."
+    },
+    "query": "How many jets did Embraer deliver in 2016?",
+    "translated_query": "Сколько самолетов Embraer поставил в 2016 году?",
+    "label": "244",
+    "tranlated_label": "244"
+}

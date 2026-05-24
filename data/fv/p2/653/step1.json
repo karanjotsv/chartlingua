@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content, and color hues are all accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses a relationship between 'distortion percentage' and 'frequency', but the chart does not contain any data related to these concepts. The chart shows user preferences for reading articles from different types of lists."
+    },
+    "claim": "The distortion percentage reduces as the frequency increases.",
+    "label": "FALSE"
+}

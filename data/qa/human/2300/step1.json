@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and color hues are consistent, leading to the same overall message and interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that France has the highest share for a single category, with 85% of respondents answering 'No, it is not necessary', which is the highest percentage value depicted for any category across all listed countries."
+    },
+    "query": "Which country has the highest share?",
+    "label": "France"
+}

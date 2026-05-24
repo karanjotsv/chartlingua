@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly faithful reproduction of the original. All data values, proportions, text labels, and color hues are consistent. The overall message and structure of the chart, including an ambiguous seventh bar not described in the legend, are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that there are no people working in the manufacturing occupation. However, the bar chart clearly shows a bar for 'Manufacturing' (green) with a value of 5 on the y-axis."
+    },
+    "claim": "There are no people in Lowesby who works in manufacturing occupation.",
+    "label": "FALSE"
+}

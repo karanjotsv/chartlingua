@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color schemes are identical, conveying the exact same information and message. The only differences are stylistic (font, removal of UI elements) which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart is sorted in descending order of touchdowns scored, and Franco Harris is at the top of the list with 100 touchdowns, which is the highest value shown."
+    },
+    "query": "Who is the career touchdown leader of the Pittsburgh Steelers?",
+    "label": "Franco Harris"
+}

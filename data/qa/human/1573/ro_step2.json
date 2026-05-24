@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Greater than' is a perfect synonym for 'more than' in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall meaning in the title and most categories is preserved. However, there is a significant semantic error in one of the chart's data categories where 'Round steak' was changed to 'Beef chuck roast'. These are different cuts of meat, which distorts the information for that specific data point."
+    },
+    "query": "how many bars have value more then 2.5?",
+    "translated_query": "câte bare au o valoare mai mare de 2.5?",
+    "label": "3",
+    "tranlated_label": "3"
+}

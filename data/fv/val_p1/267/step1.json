@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data trend, axis labels, tick marks, and color hue are all identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays a line with a positive slope, indicating that the y-value increases as the x-value increases. The claim incorrectly states that the value is decreasing, which is the opposite of the trend shown."
+    },
+    "claim": "The value represented by the graph is decreasing over time.",
+    "label": false
+}

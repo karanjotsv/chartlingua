@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "άνθρακας",
+            "value": 37.9
+        },
+        {
+            "label": "αιολική ενέργεια",
+            "value": 36.1
+        },
+        {
+            "label": "πυρηνική ενέργεια",
+            "value": 20.8
+        },
+        {
+            "label": "φυσικό αέριο",
+            "value": 5.2
+        }
+    ],
+    "texts": {
+        "title": "Πηγές Παραγωγής Ηλεκτρικής Ενέργειας<br>Κάνσας - 2017",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B54F8C",
+        "#A4B53D",
+        "#D1D953",
+        "#76B4C0"
+    ],
+    "layout_options": {
+        "paper_bgcolor": "#EAEAF7",
+        "plot_bgcolor": "#EAEAF7"
+    }
+}

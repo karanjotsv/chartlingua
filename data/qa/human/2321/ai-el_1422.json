@@ -1,0 +1,41 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Δημόσια ιδρύματα",
+            "values": [
+                7411,
+                6639
+            ]
+        },
+        {
+            "category": "Ιδιωτικά μη κερδοσκοπικά ιδρύματα",
+            "values": [
+                35659,
+                8224
+            ]
+        },
+        {
+            "category": "Ιδιωτικά κερδοσκοπικά ιδρύματα",
+            "values": [
+                14991,
+                7553
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ποσό σε τρέχοντα δολάρια ΗΠΑ",
+        "legend_labels": [
+            "Μέσο κόστος διδάκτρων και τελών",
+            "Μέσο ποσό φοιτητικού δανείου"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2979ff",
+        "#192a3e"
+    ]
+}

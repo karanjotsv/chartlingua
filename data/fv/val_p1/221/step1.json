@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, labels, and color hues are all consistent with the original. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows the job title 'Agriculture' with a blue bar representing 'Male'. This bar's height clearly exceeds the 60 line on the 'Number of persons' y-axis, indicating that there are over 60 male agriculture workers."
+    },
+    "claim": "Over 60 agriculture workers are male.",
+    "label": true
+}

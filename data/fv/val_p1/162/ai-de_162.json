@@ -1,0 +1,35 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "Alpha",
+            "Beta",
+            "Finale"
+        ],
+        "series": [
+            {
+                "name": "Anzahl der<br>Methoden",
+                "values": [
+                    300,
+                    600,
+                    720
+                ],
+                "text_y_offsets": [
+                    -15,
+                    -15,
+                    10
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Anzahl der Methoden",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#2d6fbb"
+    ]
+}

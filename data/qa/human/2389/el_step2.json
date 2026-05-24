@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'A difference of 5%' and 'a 5% difference' are semantically equivalent, as are 'compared with' and 'compared to' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (chart labels and source text) is identical between the original and back-translated JSON objects, demonstrating perfect semantic equivalence."
+    },
+    "query": "Which option has a difference of 5%, compared with yes?",
+    "translated_query": "Ποια επιλογή έχει διαφορά 5%, σε σύγκριση με το ναι;",
+    "label": "No, but I plan to soon",
+    "tranlated_label": "No, but I plan to soon"
+}

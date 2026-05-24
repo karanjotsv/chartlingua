@@ -1,0 +1,40 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Бесплатное аналоговое наземное",
+            "value": 2800000
+        },
+        {
+            "category": "Бесплатное цифровое спутниковое",
+            "value": 900000
+        },
+        {
+            "category": "Бесплатное цифровое наземное",
+            "value": 9600000
+        },
+        {
+            "category": "Платное цифровое другое",
+            "value": 1000000
+        },
+        {
+            "category": "Платное цифровое спутниковое",
+            "value": 8800000
+        },
+        {
+            "category": "Платное цифровое кабельное",
+            "value": 3200000
+        }
+    ],
+    "texts": {
+        "title": "Гистограмма, показывающая телевизионные платформы, принимаемые домохозяйствами Великобритании",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: http://www.ofcom.org.uk/research/tv/reports/dtv/dtu_2009_02/q22009.png",
+        "note": null
+    },
+    "colors": [
+        "#4C78D6"
+    ]
+}

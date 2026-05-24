@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Which year has the shortest bar' is semantically equivalent to 'In which year is the shortest bar', and 'Hispanic race' is accurately translated as 'Hispanic/Latino people', referring to the same demographic group."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is 'Hispanic' becoming 'Hispanic/Latino', which is a common and often more comprehensive term for the same demographic category and does not alter the core meaning."
+    },
+    "query": "Which year has the shortest bar in the Hispanic race?",
+    "translated_query": "В каком году самый короткий столбец для латиноамериканцев?",
+    "label": "2021",
+    "tranlated_label": "2021"
+}

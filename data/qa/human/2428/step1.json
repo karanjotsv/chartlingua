@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall structure and trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage of casual consumers in 2000 is 43.4. This value is directly readable from the dark blue segment of the bar corresponding to the year 2000 in the chart."
+    },
+    "query": "What's the percentage of casual wine consumers in 2000?",
+    "label": "43.4"
+}

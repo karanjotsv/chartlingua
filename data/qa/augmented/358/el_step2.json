@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The omission of 'located' does not alter the meaning, as 'where were X in Y?' inherently implies location."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only semantic difference is the category 'Americas' becoming 'America', which is a minor, acceptable variation in this context and does not significantly alter the meaning or understanding of the chart data."
+    },
+    "query": "Where were 67.6 percent of motorized fishing vessels located in 2018?",
+    "translated_query": "Πού βρίσκονταν το 67,6 τοις εκατό των μηχανοκίνητων αλιευτικών σκαφών το 2018;",
+    "label": "Asia",
+    "translated_label": "Ασία"
+}

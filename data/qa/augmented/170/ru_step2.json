@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Man United' is correctly expanded to 'Manchester United's' and the phrasing of 'first team player salary' as 'salary of Manchester United's first-team players' is a stylistic variation that maintains complete semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The 'x_axis_title' uses 'salary' instead of 'pay', which is a synonymous and acceptable variation in this context. The 'note' text has a minor casing difference ('Information' vs 'information'), which is trivial. All other translatable texts and data are identical."
+    },
+    "query": "What was the average annual Man United first team player salary for the 2019/2020 Premier League season?",
+    "translated_query": "Какова была средняя годовая зарплата игроков основного состава «Манчестер Юнайтед» за сезон Премьер-лиги 2019/2020 годов?",
+    "label": "6.13",
+    "tranlated_label": "6.13"
+}

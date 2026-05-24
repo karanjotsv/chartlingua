@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. 'Total yearly' is semantically equivalent to 'Overall annual' in this context; the rest of the sentence is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the chart JSON (title, axis titles) maintain perfect semantic equivalence. The title change from 'Yearly attendance for MLB games' to 'Annual MLB Game Attendance' is a minor stylistic variation, preserving the original meaning."
+    },
+    "claim": "The total yearly attendance at Major League Baseball games has decreased over time.\n",
+    "translated_claim": "Общая ежегодная посещаемость игр Высшей лиги бейсбола со временем уменьшилась."
+}

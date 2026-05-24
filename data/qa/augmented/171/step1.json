@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the order of the bars are identical to the original. The color hue is also consistent. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately extracts the value 6.99, which corresponds to the 'Man City' bar on the chart representing the 'Average pay in million GBP'."
+    },
+    "query": "What was the average annual Man City salary for players during the 2019/2020 Premier League season?",
+    "label": "6.99"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. Differences ('A bar chart' vs 'This chart', 'Media Viewer' vs 'the Media Viewer') are minor stylistic variations that do not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While many elements like 'fetch' to 'retrieval', 'meantime' to 'average time', and 'Raw Data' to 'Source Data' maintain good equivalence, a significant semantic distortion occurs with 'image-load' being back-translated as 'image upload'. These are distinct operations, especially in the context of 'Media Viewer Performance', where 'load' refers to displaying an image and 'upload' refers to sending an image to a server."
+    },
+    "claim": "A bar chart is showing the Average performance metrics for Media Viewer.",
+    "translated_claim": "Гистограмма показывает средние метрики производительности для Просмотрщика медиа."
+}

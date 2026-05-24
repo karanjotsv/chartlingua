@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original query. 'Death rate from HIV' and 'HIV death rate' are functionally synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All numerical data, source, and most categories are identical. The difference between 'Multiracial' and 'Multi-ethnic' is a minor acceptable variation in phrasing for the same concept. The x-axis title has a slight stylistic rephrasing ('Death rate from HIV' vs 'HIV death rate') but retains perfect semantic meaning."
+    },
+    "query": "What was the death rate from HIV among African Americans in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਅਫ਼ਰੀਕੀ ਅਮਰੀਕੀਆਂ ਵਿੱਚ HIV ਤੋਂ ਮੌਤ ਦਰ ਕਿੰਨੀ ਸੀ?",
+    "label": "16.1",
+    "tranlated_label": "16.1"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation accurately conveys that minerals are the smallest component. However, the original phrase 'lowest wrong composition' implies a judgment or error (e.g., this low composition is incorrect/undesirable), which is completely lost by the back-translation's 'least component', a purely descriptive statement. The omission of 'wrong' leads to a loss of nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (chart title and data labels) in the back-translated JSON is an exact semantic match to the original content."
+    },
+    "claim": "Minerals is the lowest wrong composition of milk in this pie chart",
+    "translated_claim": "ਖਣਿਜ ਇਸ ਪਾਈ ਚਾਰਟ ਵਿੱਚ ਦੁੱਧ ਦੀ ਸਭ ਤੋਂ ਘੱਟ ਗਲਤ ਬਣਤਰ ਹੈ।"
+}

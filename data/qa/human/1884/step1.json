@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and the overall message are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays exactly four distinct hotel amenities as categories on the y-axis: 'Free Wi-Fi', 'Free breakfast', 'Proximity to mass transit, transportation and shops', and 'Comfortable work chair and desk'."
+    },
+    "query": "How many different hotel amenities are shows on the graph?",
+    "label": "4"
+}

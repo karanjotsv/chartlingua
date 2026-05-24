@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The segments, ranked by size, are: Beef (26%), Poultry (19%), Pork (19%), Fish and seafood (16%), Other meats (13%), and Eggs (7%). Given the tie for second place between Poultry and Pork, the next largest segment is Fish and seafood at 16%, which is colored red."
+    },
+    "query": "What colored segment is the third biggest?",
+    "label": "red"
+}

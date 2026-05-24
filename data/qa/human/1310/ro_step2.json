@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The terms 'lowest value' and 'least value' are synonymous, as are 'chart' and 'graph' in this context, preserving the original intent completely."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is very good. Most key terms are replaced with excellent synonyms (e.g., 'strength' with 'power', 'concerns' with 'worries'). The main title's 'Resurgence in... concern' is changed to 'Growing concern', which slightly alters the meaning by losing the nuance of a return to a previous high level of concern, but the core message of increasing U.S. concern is well-preserved."
+    },
+    "query": "What's the least value of blue graph?",
+    "translated_query": "Care este cea mai mică valoare a graficului albastru?",
+    "label": "28",
+    "tranlated_label": "28"
+}

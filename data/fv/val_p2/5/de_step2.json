@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Textbooks' is a perfect synonym for 'School texts' in this context, preserving the meaning completely."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most labels and titles are well-preserved (e.g., 'School text books' to 'Textbooks', 'Sci./Tech./Med.' to 'Science/Technology/Medicine'), the subtitle contains a significant error. The number '119,001' was changed to '119.001', which alters its value from one hundred nineteen thousand to one hundred nineteen, distorting a key piece of data."
+    },
+    "claim": "School texts are a very large number of books.",
+    "translated_claim": "Schulbücher machen eine sehr große Anzahl an Büchern aus."
+}

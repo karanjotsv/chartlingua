@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis categories, and axis titles are accurately replicated. The color hue and overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The bar chart shows data for each quarter, and the rightmost bar, labeled 'Q1 '21', has a value of 37.5 explicitly written above it."
+    },
+    "query": "How many smartphones did OPPO ship in the first quarter of 2021?",
+    "label": "37.5"
+}

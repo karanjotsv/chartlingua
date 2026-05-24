@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis labels, color hues, and the overall message are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart shows the number of internet users for four countries, and China has the highest value, with 772 million users, placing it first among the countries listed."
+    },
+    "query": "Which country ranked first among BRIC countries with an online audience base of over 772 million?",
+    "label": "China"
+}

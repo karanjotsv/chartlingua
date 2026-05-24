@@ -1,0 +1,80 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "labels": [
+                "Διοξείδιο του άνθρακα",
+                "Άζωτο",
+                "Άλλα"
+            ],
+            "values": [
+                96.5,
+                3.5,
+                0.05
+            ],
+            "text_labels": [
+                "Διοξείδιο του άνθρακα<br>(96.5%)",
+                "Άζωτο<br>(3.5%)",
+                "Άλλα"
+            ],
+            "colors": [
+                "#f88246",
+                "#ff008d",
+                "#cccccc"
+            ],
+            "text_positions": [
+                "inside",
+                "outside",
+                "outside"
+            ]
+        },
+        {
+            "labels": [
+                "Διοξείδιο του θείου",
+                "Αργόν",
+                "Υδρατμοί",
+                "Μονοξείδιο του άνθρακα",
+                "Ήλιο",
+                "Νέον"
+            ],
+            "values": [
+                150,
+                70,
+                20,
+                17,
+                12,
+                7
+            ],
+            "text_labels": [
+                "Διοξείδιο του θείου<br>(150 ppm)",
+                "Αργόν<br>(70 ppm)",
+                "Υδρατμοί<br>(20 ppm)",
+                "Μονοξείδιο του άνθρακα<br>(17 ppm)",
+                "Ήλιο<br>(12 ppm)",
+                "Νέον<br>(7 ppm)"
+            ],
+            "colors": [
+                "#ffffab",
+                "#ffff00",
+                "#00ff00",
+                "#00ffff",
+                "#ff9966",
+                "#0080ff"
+            ],
+            "text_positions": [
+                "inside",
+                "inside",
+                "outside",
+                "outside",
+                "outside",
+                "outside"
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    }
+}

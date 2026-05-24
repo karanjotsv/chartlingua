@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color assignments are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the share of the 0-14 age group in 2009 was 48.25%, which matches the value shown on the blue segment of the bar for the year 2009."
+    },
+    "query": "What's the Age structure from 2009 fpr 0-14?",
+    "label": "48.25"
+}

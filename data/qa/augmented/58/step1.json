@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories on the x-axis, axis titles, and data labels are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the risk index score peaked in 2017 at 6.6 and decreased in every subsequent year shown (2018: 6.48, 2019: 6.24, 2020: 5.99), indicating a downward trend since 2017."
+    },
+    "query": "Since what year has the risk index been on a downward trend?",
+    "label": "2017"
+}

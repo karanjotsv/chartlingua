@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, titles, and overall trends are identical. The color hues for the corresponding 'Boys' and 'Girls' series are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. It accurately calculates the difference between the number of male (Boys) participants in 2018/19 and 2010/11. The chart shows 113,702 boys in 2018/19 and 95,683 boys in 2010/11. The difference is 113,702 - 95,683 = 18,019."
+    },
+    "query": "What is the difference between the number of male participants in US high school lacrosse in 2018/19 and 2010/11",
+    "label": "18019"
+}

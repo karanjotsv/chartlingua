@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, text content, and color hues are consistent with the original. The overall message and relative comparisons between countries are perfectly preserved. Minor stylistic differences, such as the legend format and the style of the bar connecting the points, do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change across several countries. The claim is about bilingualism in Quebec, a topic which is not mentioned or represented in the chart."
+    },
+    "claim": "There was no bilingualism in Quebec from 1941 to 2006.",
+    "label": "FALSE"
+}

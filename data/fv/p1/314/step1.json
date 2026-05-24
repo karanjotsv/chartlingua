@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. While it correctly represents the title and the largest data categories (Turkish, Arabic, French) with their corresponding values, it omits three of the smaller categories present in the original (Russian, Spanish, Armenian). The overall message is partially preserved, but the dataset is incomplete.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data labels for the smaller pie slices are severely overlapped, making them very difficult to read and associate with their corresponding data points."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there are 7000 words from Arabic origin, but the pie chart explicitly labels the slice for Arabic words with the value 6,463."
+    },
+    "claim": "7000 words find out from Arabic for origin of the words in Turkish vocabulary.",
+    "label": false
+}

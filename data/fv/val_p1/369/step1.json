@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, text, and color hues. The addition of x-axis labels clarifies the chart without changing its core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that GHG emissions in 2017 were 526.3 Mt, which is a value less than 600 Mt. The claim incorrectly states that the emission was higher than 600 Mt."
+    },
+    "claim": "GHG emission in 2017 was higher than 600 mt as per the GHG sink chart. ",
+    "label": false
+}

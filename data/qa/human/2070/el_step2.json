@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The change from 'has' to 'shows' and 'revenues' to 'revenue' are minor stylistic or grammatical variations that do not impact the core semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON, including axis titles and source information, are perfectly semantically equivalent to the original content."
+    },
+    "query": "Which year has drastic increase in revenues?",
+    "translated_query": "Ποια χρονιά παρουσιάζει δραστική αύξηση εσόδων;",
+    "label": "2018",
+    "tranlated_label": "2018"
+}

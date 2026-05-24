@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and color hues are identical to the original. The overall message is preserved. The only difference is a stylistic choice to 'explode' one slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses economic activity and monetary values ('minimum millions are spent'), but the pie chart exclusively displays market share percentages for different web browsers. The chart contains no financial data whatsoever."
+    },
+    "claim": "In total economic activity, minimum millions are spent for operation purposes.",
+    "label": "FALSE"
+}

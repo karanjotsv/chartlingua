@@ -1,0 +1,233 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "x": 3800000000,
+            "y": 1000000000,
+            "label": "Life",
+            "annotation": {
+                "angle": -30,
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "xshift": 5,
+                "yshift": 5
+            }
+        },
+        {
+            "x": 2500000000,
+            "y": 1000000000,
+            "label": "Multicellular<br>organisms",
+            "annotation": {
+                "angle": -40,
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "xshift": 5,
+                "yshift": 5
+            }
+        },
+        {
+            "x": 540000000,
+            "y": 300000000,
+            "label": "Cambrian explosion",
+            "annotation": {
+                "angle": -35,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 20
+            }
+        },
+        {
+            "x": 200000000,
+            "y": 150000000,
+            "label": "Class Mammalia",
+            "annotation": {
+                "angle": -40,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 20
+            }
+        },
+        {
+            "x": 65000000,
+            "y": 40000000,
+            "label": "Primates",
+            "annotation": {
+                "angle": -45,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 20
+            }
+        },
+        {
+            "x": 25000000,
+            "y": 20000000,
+            "label": "Superfamily Hominoidea",
+            "annotation": {
+                "angle": -50,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 25
+            }
+        },
+        {
+            "x": 7000000,
+            "y": 5000000,
+            "label": "Human ancestors can walk",
+            "annotation": {
+                "angle": -50,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 25
+            }
+        },
+        {
+            "x": 2000000,
+            "y": 1800000,
+            "label": "Genus Homo",
+            "annotation": {
+                "angle": -50,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 25
+            }
+        },
+        {
+            "x": 200000,
+            "y": 160000,
+            "label": "Homo sapiens",
+            "annotation": {
+                "angle": -50,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 25
+            }
+        },
+        {
+            "x": 40000,
+            "y": 30000,
+            "label": "Art, early cities",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 30
+            }
+        },
+        {
+            "x": 10000,
+            "y": 5000,
+            "label": "Agriculture",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 15
+            }
+        },
+        {
+            "x": 5500,
+            "y": 4900,
+            "label": "Writing, wheel",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": 0
+            }
+        },
+        {
+            "x": 600,
+            "y": 400,
+            "label": "Printing",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": -15
+            }
+        },
+        {
+            "x": 200,
+            "y": 150,
+            "label": "Industrial revolution",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": -10
+            }
+        },
+        {
+            "x": 100,
+            "y": 60,
+            "label": "Telephone, electricity, radio",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": -25
+            }
+        },
+        {
+            "x": 40,
+            "y": 30,
+            "label": "Computer",
+            "annotation": {
+                "angle": 0,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 10,
+                "yshift": -40
+            }
+        }
+    ],
+    "texts": {
+        "title": "Countdown to Singularity",
+        "x_axis_title": "Time before present (years)",
+        "y_axis_title": "Time to next event (years)",
+        "annotation_label": "Linear plot",
+        "source_note": null
+    },
+    "colors": {
+        "line": "#FF0000",
+        "marker_fill": "#FFFF00",
+        "marker_line": "#000000",
+        "title_font": "#FFFF00",
+        "axis_font": "#000000",
+        "annotation_font": "#000000",
+        "background": "#4F4F4F",
+        "plot_background": "#E8DCDA",
+        "grid": "#FFFFFF",
+        "annotation_background": "#F0F0F0",
+        "annotation_border": "#888888"
+    },
+    "xaxis_ticks": {
+        "values": [
+            4000000000,
+            3000000000,
+            2000000000,
+            1000000000,
+            0
+        ],
+        "text": [
+            "4x10<sup>9</sup>",
+            "3x10<sup>9</sup>",
+            "2x10<sup>9</sup>",
+            "10<sup>9</sup>",
+            "0"
+        ]
+    }
+}

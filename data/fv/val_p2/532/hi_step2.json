@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation introduces ambiguity. The original claim compares the UK's debt to other entities (e.g., countries) in 2014. The back-translated version could be interpreted as the UK's debt being at its highest point in 2014 compared to other years, which is a different assertion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated title is semantically identical to the original. The differences, such as using 'UK's debt' instead of 'UK Debt' and spelling out 'percentage' instead of using the '%' symbol, are purely stylistic and do not change the meaning."
+    },
+    "claim": "The UK had the highest debt as a percentage of GDP in 2014.",
+    "translated_claim": "2014 में जीडीपी के प्रतिशत के रूप में यूके का ऋण सबसे अधिक था।"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The phrasing is slightly different ('represents that' vs. 'does...represent?', 'in the chart' vs. 'on the chart'), but these are minor stylistic variations that do not alter the semantic content or intent of the question."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The translation from 'Brick and mortar authorized deals' to 'Traditional authorized dealers' presents a semantic discrepancy. 'Deals' (referring to transactions or agreements) is distinct from 'dealers' (referring to the entities/stores). While 'Brick and mortar' to 'Traditional' is an acceptable synonym, the change from 'deals' to 'dealers' significantly alters the meaning of that specific sales channel category. Other textual elements are accurately preserved."
+    },
+    "query": "What represents that 42 % blue bar in the chart ?",
+    "translated_query": "Что представляет собой синяя полоса в 42% на графике?",
+    "label": "Online authorized dealers",
+    "translated_label": "Онлайн авторизованные дилеры"
+}

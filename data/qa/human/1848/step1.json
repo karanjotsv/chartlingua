@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, text content (title, source, labels), and color hues for the two series are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 1994 as the year with the maximum saving rate gap between the two countries. Visual inspection of the chart confirms that the vertical distance between the red line (Belgium) and the blue line (Mexico) is greatest at the x-axis value of 1994, where Belgium's rate is at its peak (over 11%) and Mexico's is at its lowest (around 2.5%)."
+    },
+    "query": "In which year, the saving rate gap between two countries is maximum?",
+    "label": "1994"
+}

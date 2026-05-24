@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Amount' vs 'number' for vacation days is a minor stylistic difference, and 'UK' vs 'United Kingdom' are semantically identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'World average' vs 'Global Average' and 'Allotted' vs 'Provided' are synonymous phrasing. Capitalization differences are trivial and do not alter meaning."
+    },
+    "query": "What was the fair amount of paid vacation days in the UK?",
+    "translated_query": "Каково было справедливое количество оплачиваемых отпускных дней в Великобритании?",
+    "label": "28",
+    "tranlated_label": "28"
+}

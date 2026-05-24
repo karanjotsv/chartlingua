@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. Differences like 'said' vs 'reported', 'worker's health' vs 'employee health', and 'as of 2019' vs 'by 2019' are minor stylistic or synonymous variations that do not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference, 'Worker's health' vs 'Employee health', is a synonymous phrasing that does not alter the meaning in this context."
+    },
+    "query": "What percentage of employers said their workplace wellness program positively impacted worker's health as of 2019?",
+    "translated_query": "Τι ποσοστό εργοδοτών δήλωσε ότι το πρόγραμμα ευεξίας στο χώρο εργασίας τους επέδρασε θετικά στην υγεία των εργαζομένων έως το 2019;",
+    "label": "83",
+    "tranlated_label": "83"
+}

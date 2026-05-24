@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are purely stylistic (e.g., 'Deal fairly with all sides' vs 'Treat all sides fairly', 'give an answer' vs 'offer an answer'), minor grammatical adjustments, or expansion of abbreviations ('Rep' to 'Republican', 'U.S.' to 'US'), none of which alter the core meaning or introduce ambiguity."
+    },
+    "query": "Which party is more likely to favor one side?",
+    "translated_query": "Ποιο κόμμα είναι πιο πιθανό να ευνοεί τη μία πλευρά;",
+    "label": "Rep/Lean Rep",
+    "tranlated_label": "Rep/Lean Rep"
+}

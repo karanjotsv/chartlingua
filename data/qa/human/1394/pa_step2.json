@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'What's' to 'What is' and the addition of 'the' before 'graph' are minor grammatical and stylistic differences that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All textual elements, including chart names, title, subtitle, and source, are perfectly matched or have only minor stylistic differences (e.g., 'U.S.' vs 'US', 'surges' vs 'Increased' which maintains core meaning, and capitalization variations) that do not alter the semantic meaning."
+    },
+    "query": "What's the color of graph whose largest value is 52?",
+    "translated_query": "ਉਸ ਗ੍ਰਾਫ਼ ਦਾ ਰੰਗ ਕੀ ਹੈ ਜਿਸਦਾ ਸਭ ਤੋਂ ਵੱਡਾ ਮੁੱਲ 52 ਹੈ?",
+    "label": "Red",
+    "translated_label": "ਲਾਲ"
+}

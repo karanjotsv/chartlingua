@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, axis labels, titles, and color hues are all consistent, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the 'majority of arrests,' which implies absolute numbers. The chart, however, shows the 'Number arrested (per 100,000),' which is a rate, not an absolute count. Without population data for each age group, it is impossible to determine the total number of arrests and thus impossible to verify if males under 18 constitute a majority. Additionally, the claim specifies the year 2014, which is not mentioned anywhere in the chart."
+    },
+    "claim": "The majority of arrests for vandalism in the United States in 2014 were of males under the age of 18.",
+    "label": true
+}

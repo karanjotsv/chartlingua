@@ -1,0 +1,61 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Series 1",
+            "x": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                6.6
+            ],
+            "y": [
+                100,
+                100,
+                99.5,
+                97,
+                87,
+                69,
+                35,
+                0
+            ]
+        },
+        {
+            "name": "Series 2",
+            "x": [
+                4.0,
+                5.0,
+                6.0,
+                7.0,
+                8.0,
+                9.0,
+                10.0
+            ],
+            "y": [
+                86.5,
+                86,
+                84.5,
+                82,
+                75,
+                60,
+                23
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Total dose (Gy)",
+        "y_axis_title": "Percentage of cells surviving (%)",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#0000CD",
+        "#FF0000"
+    ]
+}

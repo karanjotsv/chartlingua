@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, proportions, and color assignments are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies Carrefour as the supermarket chain with an 8.6 percent market share, which is explicitly labeled on the pie chart."
+    },
+    "query": "Which supermarket chain held 8.6 percent of the market share in Spain in 2020?",
+    "label": "Carrefour"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that in the 'Agriculture' category, the blue bar representing males is significantly taller (approximately 28) than the grey bar representing females (approximately 5)."
+    },
+    "claim": "In agriculture occupations,  the number of females below than the male in the year 1881 of Knodishall.",
+    "label": true
+}

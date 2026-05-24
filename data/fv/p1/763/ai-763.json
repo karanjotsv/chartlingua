@@ -1,0 +1,33 @@
+{
+    "chart_type": "pie",
+    "chart_data": {
+        "labels": [
+            "Mixed Hardwoods -<br>Prairie",
+            "Prairie",
+            "Prairie poorly drained",
+            "Wet Prairie",
+            "Water / Wet Soils<br>/ Gravel Pits"
+        ],
+        "values": [
+            38,
+            23,
+            19,
+            17,
+            3
+        ]
+    },
+    "texts": {
+        "title": "Barnes County North Dakota > 38 % Savanna Soils",
+        "subtitle": null,
+        "source": "Sourced-from: Web Soil Survey (WSS),<br>Natural Resources Conservation Service, United States Department of Agriculture. Available online at<br>http://websoilsurvey.nrcs.usda.gov/. NRCS/WSS native vegetation information first sorted by soil series<br>then compiled, using soil series proportion of county area (%). Accessed by Steve Nelson 11/12/13",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#E50000",
+        "#FFFF99",
+        "#FFCC99",
+        "#FFFF00",
+        "#0033CC"
+    ]
+}

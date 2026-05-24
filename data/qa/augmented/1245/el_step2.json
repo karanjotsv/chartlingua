@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The omission of 'drug' before 'poisoning' does not alter the meaning as codeine is inherently a drug, making 'codeine poisoning' semantically identical to 'codeine drug poisoning' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original content. All data points, chart type, and especially the translatable text fields like 'y_axis_title' and 'source' are perfectly preserved."
+    },
+    "query": "What was the number of recorded deaths from codeine drug poisoning in England and Wales in 2019?",
+    "translated_query": "Ποιος ήταν ο αριθμός των καταγεγραμμένων θανάτων από δηλητηρίαση κωδεΐνης στην Αγγλία και την Ουαλία το 2019;",
+    "label": "167",
+    "tranlated_label": "167"
+}

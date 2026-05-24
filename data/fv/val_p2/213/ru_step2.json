@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Bloks' was corrected to 'blocks', and 'value across' is a stylistic variation that maintains the exact same semantic intent as 'of' in this context. All key information is preserved."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "There is a significant semantic error in one of the key data categories. 'Ground Floor building foot-print area (FPA)' was back-translated as 'First Floor Building Area (FPA)', which fundamentally changes the meaning and likely the calculation basis. The term 'foot-print' is also lost, altering a critical detail. Other differences like 'Say \"E\"' vs 'Assume \"E\"' and 'Land' vs 'Lot' are minor by comparison."
+    },
+    "claim": "The average of all 5 bloks is 2500.",
+    "translated_claim": "Среднее значение по всем 5 блокам составляет 2500."
+}

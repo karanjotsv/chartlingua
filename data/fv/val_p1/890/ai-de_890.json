@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Internationaler Schiffs- und Luftverkehr",
+            "Naher Osten",
+            "Südasien",
+            "Australien, Japan, Neuseeland",
+            "Afrika",
+            "Südostasien, Pazifik",
+            "Osteuropa, West-Zentralasien",
+            "Lateinamerika, Karibik",
+            "Ostasien",
+            "Europa",
+            "Nordamerika"
+        ],
+        "series": [
+            {
+                "name": "Fossile Brennstoffe, Industrie",
+                "values": [
+                    40,
+                    50,
+                    40,
+                    70,
+                    50,
+                    50,
+                    200,
+                    70,
+                    250,
+                    380,
+                    460
+                ]
+            },
+            {
+                "name": "Landnutzung, Forstwirtschaft",
+                "values": [
+                    0,
+                    0,
+                    30,
+                    10,
+                    120,
+                    130,
+                    40,
+                    180,
+                    40,
+                    20,
+                    100
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Kumulative CO<sub>2</sub>-Emissionen (1850-2019)",
+        "x_axis_title": "Emissionen (Milliarden Tonnen CO<sub>2</sub> )",
+        "y_axis_title": null,
+        "source_note": null
+    },
+    "colors": [
+        "#4C78A8",
+        "#F58518"
+    ]
+}

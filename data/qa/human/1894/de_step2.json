@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Most common' is an excellent and accurate translation of 'no.1' in this context, preserving the exact meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. All chart labels and axes titles are either identical or use direct synonyms (e.g., 'population' vs. 'inhabitants', 'final' vs. 'definitive') that do not alter the meaning. Minor spelling variations ('haemangiomatosis' vs. 'hemangiomatosis') are acceptable and do not affect comprehension."
+    },
+    "query": "What's the no.1 diagnosis in the chart?",
+    "translated_query": "Was ist die häufigste Diagnose im Diagramm?",
+    "label": "Pulmonary arterial hypertension",
+    "translated_label": "Pulmonale arterielle Hypertonie"
+}

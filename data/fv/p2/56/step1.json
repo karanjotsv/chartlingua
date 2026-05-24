@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels, titles, categories, and the overall trend are identical. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the difference between the third and fifth bars is less than the difference between the first and fourth bars. The third bar (Hydroelectric) is 91 and the fifth bar (Coal) is 48, making the difference 43. The first bar (Solar) is 97 and the fourth bar (Natural gas) is 80, making the difference 17. Since 43 is greater than 17, the claim is false."
+    },
+    "claim": "The difference between the third and fifth bars is less than the difference between the first and fourth bars.",
+    "label": "FALSE"
+}

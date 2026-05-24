@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim captures the core idea that the value for Domestic Services is over 5, but it omits the crucial context 'in terms of occupations', which specifies what the number represents. This loss of a key detail reduces the claim's accuracy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The title is slightly rephrased ('the residents of Ashleyhay' vs. 'Ashleyhay Residence') with no change in meaning. The series labels are either identical or have trivial differences, such as the singular 'Laborer' vs. the plural 'Labourers' and a corrected typo ('Occupation' vs 'Occuapation'), which do not alter the meaning."
+    },
+    "claim": "Domestic Services on the chart reaches over 5 in terms of occupations.",
+    "translated_claim": "चार्ट पर घरेलू सेवाओं का आँकड़ा व्यवसायों के संदर्भ में 5 से अधिक है।"
+}

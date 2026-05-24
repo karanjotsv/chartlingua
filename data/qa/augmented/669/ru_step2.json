@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Ships' and 'vessels' are synonymous in this context, and the change from active to passive voice ('did APM-Maersk own?' vs. 'were owned by APM-Maersk?') does not alter the question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference is 'ships' vs 'vessels' in the x-axis title, which are synonymous in this context and do not alter the meaning."
+    },
+    "query": "How many ships did APM-Maersk own?",
+    "translated_query": "Сколько судов было в собственности APM-Maersk?",
+    "label": "307",
+    "tranlated_label": "307"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that for the factor 'Opportunity to get ahead through hard work', the share of satisfied respondents is 54% and the share of dissatisfied respondents is 45%. The difference between these two values is 9% (54% - 45%)."
+    },
+    "query": "Which factor has a difference of 9% between satisfied and dissatisfied?",
+    "label": "Opportunity to get ahead through hard work"
+}

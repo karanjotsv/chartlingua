@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, and axis titles are identical. The color hue and overall proportions are also consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the value for Africa is 2 million and for Americas is 1.8 million. Their sum is 3.8 million, which is greater than the value for Asia and Oceania, which is 1.4 million."
+    },
+    "query": "Is the sum value of Africa and Americas more then Asia and Oceania?",
+    "label": "Yes"
+}

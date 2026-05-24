@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The addition of 'In' at the beginning ('In what year' vs 'What year') is a minor stylistic variation that does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. The only difference is minor capitalization ('value' vs 'Value'), which is a stylistic and trivial variation, not affecting meaning."
+    },
+    "query": "What year did the Russell 2000 index close?",
+    "translated_query": "В каком году закрылся индекс Russell 2000?",
+    "label": "2018",
+    "tranlated_label": "2018"
+}

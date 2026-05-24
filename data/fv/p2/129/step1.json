@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, series labels, and color hues are all accurately reproduced. The addition of a title and an extended x-axis range in the rendered chart are stylistic enhancements that do not alter the core message or data from the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the energy demand per capita for 'Europe & Central Asia' in 1992 was approximately 3750. The value for 'Germany' in 2010 was approximately 3800. The difference between these two values is about 50, which contradicts the claim that the difference is 500."
+    },
+    "claim": "The difference between Europe& Central asis in 1992 and Germany in 2010 is 500.",
+    "label": "TRUE"
+}

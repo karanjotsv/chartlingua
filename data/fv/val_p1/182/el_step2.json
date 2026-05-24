@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. 'Residents of Woodmancote' is a valid and equivalent phrasing for 'Woodmancote residents', and 'were professionals' is a concise and semantically identical way of stating 'were in professional occupations'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated content generally maintains good semantic equivalence. Most labels for occupations (e.g., 'Professional' to 'Professionals', 'Skilled Trade' to 'Skilled Trades', 'Caring and Leisure' to 'Care and Leisure', 'Elementary Occupations' to 'Basic Occupations') show only minor stylistic, grammatical (singular/plural), or very slight nuanced differences. The title 'Occupation of Woodmancote' changed to 'Occupations in Woodmancote' which is a trivial difference. However, 'Manager' was translated to 'Directors', which represents a semantic shift as 'Director' typically implies a higher level of seniority or a different role than 'Manager'. This is a minor acceptable difference but prevents a perfect score."
+    },
+    "claim": "342 woodmancote residents were in professional occupations.",
+    "translated_claim": "342 κάτοικοι του Woodmancote ήταν επαγγελματίες."
+}

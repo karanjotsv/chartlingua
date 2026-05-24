@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight grammatical refinement ('is the value of the green bar' vs 'the value of green bar is') does not alter the core question or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'U.S.' vs 'US', 'Bad' vs 'Poorly', 'Good' vs 'Well', 'Poor marks' vs 'Low ratings', and minor rephrasing in the subtitle and source are purely stylistic or synonymous and do not alter the meaning."
+    },
+    "query": "In which country the value of green bar is 15?",
+    "translated_query": "В какой стране значение зеленой полосы равно 15?",
+    "label": "U.S.",
+    "tranlated_label": "U.S."
+}

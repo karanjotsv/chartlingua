@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Graph' and 'chart' are synonymous in this context, and the change in auxiliary verb ('does' vs 'is') does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original in semantic meaning. The only difference is the inclusion of the article 'a' ('as percentage of GDP' vs 'as a percentage of GDP'), which is a minor stylistic variation and does not alter the information or meaning."
+    },
+    "query": "Does the graph increase or decrease?",
+    "translated_query": "Αυξάνεται ή μειώνεται το γράφημα;",
+    "label": "increasing",
+    "translated_label": "Αυξανόμενο"
+}

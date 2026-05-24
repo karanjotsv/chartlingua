@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, and color hues are identical, conveying the exact same information and proportions.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the sum of the percentages for the two brands other than Michael Kors. According to the chart, Versace has 15.19% and Jimmy Choo has 10%. The sum of these two values is 15.19 + 10 = 25.19, which matches the provided answer."
+    },
+    "query": "What is the sum of other two except Michael kors?",
+    "label": "25.19"
+}

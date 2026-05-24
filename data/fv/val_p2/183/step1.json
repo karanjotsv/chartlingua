@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is highly consistent in terms of data values, categories, colors, and overall message. However, the rendered chart incorrectly adds 'null' text labels above most of the bars, which is a semantic difference from the original that only labeled one bar with its value.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart indicates that 'Historical Artifacts' account for 58% of the media items uploaded, which is the highest percentage among all the categories listed."
+    },
+    "claim": "Historical Artifacts are the most uploaded media image.",
+    "label": "TRUE"
+}

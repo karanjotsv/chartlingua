@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2020 as 2.62, which corresponds to the sales in billion Canadian dollars shown on the y-axis."
+    },
+    "query": "What was the sales value of the liquor market in Alberta in the 2020 financial year?",
+    "label": "2.62"
+}

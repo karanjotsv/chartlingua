@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the semantic meaning of the original. Differences are minor stylistic variations (e.g., 'Fulltime' vs 'Full-time', 'persons' vs 'Individuals', active vs passive phrasing of 'averaged a higher gross income') that do not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation significantly distorted the meaning of the main data series label, changing 'Median gross income/year' to 'Average Gross Income/Year'. Median and average (mean) are distinct statistical measures, and this change represents a loss and distortion of critical information. Other textual elements were mostly equivalent."
+    },
+    "claim": "Fulltime 25 plus persons averaged a higher gross income than just 25 plus age group.",
+    "translated_claim": "ਪੂਰਾ ਸਮਾਂ, 25+ ਵਿਅਕਤੀਆਂ ਦੀ ਔਸਤ ਕੁੱਲ ਆਮਦਨ ਸਿਰਫ਼ 25+ ਵਿਅਕਤੀਆਂ ਨਾਲੋਂ ਵੱਧ ਸੀ।"
+}

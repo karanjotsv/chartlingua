@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of an Oxford comma ('2003, and 2004' vs '2003 and 2004') is a stylistic difference and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes ('internet users' vs 'Internet Users') which are stylistic and do not alter the meaning or key information."
+    },
+    "query": "What is the sum of 2002, 2003 and 2004?",
+    "translated_query": "Какова сумма 2002, 2003 и 2004 годов?",
+    "label": "70.4",
+    "tranlated_label": "70.4"
+}

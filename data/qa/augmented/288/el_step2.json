@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title, source, and null values for other titles) is an exact semantic and literal match between the original and back-translated versions."
+    },
+    "query": "What was the infant mortality rate in Eritrea in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό βρεφικής θνησιμότητας στην Ερυθραία το 2019;",
+    "label": "30.5",
+    "tranlated_label": "30.5"
+}

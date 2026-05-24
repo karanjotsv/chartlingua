@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text equivalence is fair. While most content is identical, the x_axis_title changed from 'Net profit in million EUR' to 'Total Profit in Million EUR'. 'Net profit' is a specific financial term, and changing it to 'Total Profit' loses an important detail and specificity, introducing ambiguity."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "translated_query": "ਨੋਰਡਿਕ ਦੇਸ਼ਾਂ ਵਿੱਚ ਦੂਜੀ ਸਭ ਤੋਂ ਵੱਧ ਲਾਭਕਾਰੀ ਦੂਰਸੰਚਾਰ ਕੰਪਨੀ ਕਿਹੜੀ ਸੀ?",
+    "label": "Telia Company AB",
+    "translated_label": "ਟੇਲੀਆ ਕੰਪਨੀ ਏਬੀ"
+}

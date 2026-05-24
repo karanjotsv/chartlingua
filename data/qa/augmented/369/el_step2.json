@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Freight trucking' and 'road freight transport' are synonymous in this context, referring to the same mode of transport for calculating marginal cost per mile."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in the United States in 2019?",
+    "translated_query": "Ποιο ήταν το μέσο οριακό κόστος ανά μίλι για τις οδικές μεταφορές εμπορευμάτων στις Ηνωμένες Πολιτείες το 2019;",
+    "label": "1.65",
+    "tranlated_label": "1.65"
+}

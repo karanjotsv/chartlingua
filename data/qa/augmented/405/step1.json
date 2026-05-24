@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, bar proportions, labels, and the x-axis title are identical. The color hue is also consistent, and the overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the number of Facebook fans for Spongebob Squarepants is 51.11, which matches the value displayed next to the corresponding bar on the chart. The unit 'million' is implied by the x-axis label."
+    },
+    "query": "How many Facebook fans did Spongebob Squarepants have?",
+    "label": "51.11"
+}

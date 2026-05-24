@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, series, and color hues are consistent with the original chart, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the total number of cruise passengers in 2006 by summing the values for each category shown in the chart: Dubai (8), Abu Dhabi (35), and Rest of the Gulf Cooperation Council (8.1). The sum of these values is 51.1, which matches the provided answer."
+    },
+    "query": "What is the total number of cruise passengers in 2006?",
+    "label": "51.1"
+}

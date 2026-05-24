@@ -1,0 +1,69 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Μηχανή",
+            "value": 60
+        },
+        {
+            "category": "Καλούπι",
+            "value": 20
+        },
+        {
+            "category": "Υλικό",
+            "value": 10
+        },
+        {
+            "category": "Άνθρωποι (Χειριστές)",
+            "value": 10
+        }
+    ],
+    "texts": {
+        "title": "Συνεισφορές σε Ελαττώματα Πλαστικής Χύτευσης",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31",
+        "#A5A5A5",
+        "#FFC000"
+    ],
+    "annotations": [
+        {
+            "text": "Μηχανή<br>60%",
+            "x": 0.8,
+            "y": 0.5,
+            "ax": 80,
+            "ay": 10,
+            "align": "left"
+        },
+        {
+            "text": "Καλούπι<br>20%",
+            "x": 0.6,
+            "y": 0.2,
+            "ax": -100,
+            "ay": -20,
+            "align": "right"
+        },
+        {
+            "text": "Υλικό<br>10%",
+            "x": 0.28,
+            "y": 0.45,
+            "ax": -90,
+            "ay": 60,
+            "align": "right"
+        },
+        {
+            "text": "Άνθρωποι (Χειριστές)<br>10%",
+            "x": 0.45,
+            "y": 0.8,
+            "ax": 0,
+            "ay": 70,
+            "align": "center"
+        }
+    ]
+}

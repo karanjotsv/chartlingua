@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the average value of the blue bar?' perfectly retains the semantic meaning of the original 'What is the average of blue bar?'. The addition of 'value' clarifies slightly but does not alter the core request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is the correction of a likely repetition/typo from 'Connected medical device device' to 'Connected medical device', which clarifies the meaning without loss of information."
+    },
+    "query": "What is the average of blue bar?",
+    "translated_query": "Каково среднее значение синей полосы?",
+    "label": "62",
+    "tranlated_label": "62"
+}

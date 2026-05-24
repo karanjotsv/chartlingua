@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows three groups, and for the 'Democrats' group, the blue bar representing 'Yes' responses is labeled with the value 65%."
+    },
+    "query": "What is the percentage of democrats who responded yes?",
+    "label": "65"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'The number of COVID-19 cases' is equivalent to 'COVID-19 cases', and 'early 2020' is synonymous with 'the start of 2020'. The core message of decreasing cases from that time is fully preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart title and axis labels, is perfectly preserved. The change from a comma (European decimal separator) to a dot (English decimal separator) in 'd = 0,2' to 'd = 0.2' correctly normalizes the numerical value for English and preserves the exact intended meaning."
+    },
+    "claim": "COVID-19 cases have been decreasing since the start of 2020.",
+    "translated_claim": "Число случаев COVID-19 снижается с начала 2020 года."
+}

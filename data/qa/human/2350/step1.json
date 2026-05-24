@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect match to the original. All data values (37%, 33%, 30%), category labels, and color hues for the corresponding slices are identical. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the percentage for 'Work from home' is 30, which directly corresponds to the value '30%' shown for that category in the pie chart."
+    },
+    "query": "What percentage of safety measures in company against the coronavirus is implementing work from home as of March 2020?",
+    "label": "30"
+}

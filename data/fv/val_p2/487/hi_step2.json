@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'The peak' is a perfect synonym for 'the highest point' in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most of the text is semantically equivalent, with acceptable stylistic changes (e.g., 'meantime' to 'Average Time', subtitle rephrasing). However, a key data point in the x-axis categories was changed from 'Jan 12' to 'Sun 12', which is a significant error that alters the meaning of that label from a month to a day of the week."
+    },
+    "claim": "The highest point at average performance metrics is above 3K.",
+    "translated_claim": "औसत प्रदर्शन मेट्रिक्स का उच्चतम बिंदु 3K से ऊपर है।"
+}

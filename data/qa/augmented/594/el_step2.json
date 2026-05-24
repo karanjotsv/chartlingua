@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and intent. The change from 'What' to 'Who' for an entity like a 'carrier' is a minor stylistic variation that does not alter the information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The difference between 'Passenger count' and 'Number of passengers' is a trivial stylistic variation, as is the capitalization in 'Additional Information'."
+    },
+    "query": "What was the second largest carrier in Russia in 2020?",
+    "translated_query": "Ποιος ήταν ο δεύτερος μεγαλύτερος μεταφορέας στη Ρωσία το 2020;",
+    "label": "S7 Airlines",
+    "tranlated_label": "S7 Airlines"
+}

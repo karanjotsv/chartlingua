@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'There exists' is replaced by 'there is', and 'less than' by 'smaller than', both of which are semantically equivalent and do not alter the core information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The vast majority of the text content (chart labels, main title, axis titles) is an excellent semantic match. The only differences are found within the 'source' text, where 'Children' became 'Kids', 'Cross Country Comparison' became 'Cross-National Comparison', and 'Generational Earnings Mobility' became 'Intergenerational Earnings Mobility'. While the last change is a subtle semantic shift, 'intergenerational' is arguably more precise for the topic and aligns with the chart's main title, and none of these minor changes significantly alter the overall meaning or introduce ambiguity."
+    },
+    "claim": "Between the United Kingdom and the United States there exists an intergenerational income elasticity difference of less than .5.",
+    "translated_claim": "Μεταξύ του Ηνωμένου Βασιλείου και των Ηνωμένων Πολιτειών υπάρχει μια διαφορά διαγενεακής ελαστικότητας εισοδήματος μικρότερη του .5."
+}

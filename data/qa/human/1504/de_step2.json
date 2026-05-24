@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The words 'graph' and 'chart' are synonyms in this context, and the core intent of the question is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated title uses 'Wealth share' instead of 'Share of wealth held by', which is a perfectly synonymous and natural rephrasing. The semantic meaning is identical, and all other text content matches exactly."
+    },
+    "query": "How many bars are there in the graph?",
+    "translated_query": "Wie viele Balken gibt es in dem Diagramm?",
+    "label": "2",
+    "tranlated_label": "2"
+}

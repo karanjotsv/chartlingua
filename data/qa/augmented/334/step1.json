@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are consistent, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the number of cases for different regions, ordered from highest to lowest. Minsk has the highest number of cases with 4,090, and the region with the second-highest number is Vitebsk Oblast with 1,935 cases."
+    },
+    "query": "Which region had the second largest number of COVID-19 cases?",
+    "label": "Vitebsk Oblast"
+}

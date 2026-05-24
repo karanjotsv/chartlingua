@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, proportions, and color hues as the original. The only difference is the addition of a descriptive title, which enhances rather than contradicts the original's information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart clearly shows the distribution of the 41 County Council Presidents among five different parties (PSD, PD-L, PNL, UDMR, and FDGR), which directly contradicts the claim that only one party is represented."
+    },
+    "claim": "The Social Democratic Party is the only party represented in Romania's County Councils.",
+    "label": false
+}

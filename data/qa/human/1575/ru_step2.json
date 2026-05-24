@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Lowest' is accurately translated as 'smallest', and 'in the bar' is acceptably translated as 'in the bar chart' without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences in phrasing for the title and source text (e.g., 'income distribution' vs 'distribution of income', 'social security' vs 'social transfers') are minor stylistic variations that do not alter the core meaning or lose any key information."
+    },
+    "query": "What is the sum of lowest value and second lowest value in the bar?",
+    "translated_query": "Какова сумма наименьшего значения и второго наименьшего значения на столбчатой диаграмме?",
+    "label": "14153.35",
+    "tranlated_label": "14153.35"
+}

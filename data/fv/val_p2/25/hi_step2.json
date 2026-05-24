@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Both the original and back-translated JSON objects contain no translatable text (all text fields are null). Therefore, they are identical."
+    },
+    "claim": "Watertown, NY reached its peak population in 1950.",
+    "translated_claim": "वाटरटाउन, एनवाई 1950 में अपनी चरम जनसंख्या पर पहुँच गया।"
+}

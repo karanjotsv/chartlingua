@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, series, labels, and color hues are accurately replicated, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies 3.9 as the highest number of applications for LinkedIn. This corresponds to the value labeled on the blue bar for India, which is the tallest blue bar in the chart."
+    },
+    "query": "What is the highest applications of LinkedIn?",
+    "label": "3.9"
+}

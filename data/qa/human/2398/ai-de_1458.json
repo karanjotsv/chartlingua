@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Lehrer",
+            "values": [
+                24,
+                25,
+                37,
+                37,
+                43,
+                55,
+                60,
+                62,
+                65
+            ]
+        },
+        {
+            "name": "Schulleiter",
+            "values": [
+                27,
+                23,
+                57,
+                57,
+                64,
+                63,
+                67,
+                60,
+                72
+            ]
+        }
+    ],
+    "categories": [
+        "Webinare",
+        "Teilnahme an einer Online-Community<br>von Kollegen",
+        "Lesen von Fachbüchern",
+        "Coaches oder Mentoren",
+        "Teilnahme an einer persönlichen Lerngemeinschaft",
+        "Workshops, die von meinen Kollegen durchgeführt werden",
+        "Hospitationen",
+        "Workshops, die von externen<br>Beratern, Autoren oder Experten durchgeführt werden",
+        "Fachkonferenzen"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anteil der Befragten",
+        "y_axis_title": "Formate der beruflichen Weiterbildung",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1E2C3A"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. 'with increase in' and 'as ... increases' are semantically equivalent ways to express the relationship, and 'the X-axis value' versus 'the value on the X-axis' also mean the same thing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is the expansion of 'b/w' to 'between' in the title, which is a stylistic change and does not alter the meaning. All other technical terms and labels are perfectly preserved."
+    },
+    "claim": "M decreases with increase in the X-axis value.",
+    "translated_claim": "Το M μειώνεται με την αύξηση της τιμής στον άξονα Χ."
+}

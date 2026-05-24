@@ -1,0 +1,104 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "category": "Pneumonia",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "Preterm birth complications",
+            "values": [
+                2,
+                16
+            ]
+        },
+        {
+            "category": "Intrapartum-related events",
+            "values": [
+                1,
+                11
+            ]
+        },
+        {
+            "category": "Sepsis or menigitis",
+            "values": [
+                2,
+                7
+            ]
+        },
+        {
+            "category": "Congential",
+            "values": [
+                4,
+                5
+            ]
+        },
+        {
+            "category": "Other",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "AIDS",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Diarrhoea",
+            "values": [
+                8,
+                0.3
+            ]
+        },
+        {
+            "category": "Tetanus",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Malaria",
+            "values": [
+                5,
+                0
+            ]
+        },
+        {
+            "category": "Injury",
+            "values": [
+                6,
+                1
+            ]
+        },
+        {
+            "category": "Measles",
+            "values": [
+                2,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Distribution of causes of death",
+        "legend_titles": [
+            "Deaths among children aged 1–59 months (53%)",
+            "Neonatal deaths (47%)"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1F384D"
+    ]
+}

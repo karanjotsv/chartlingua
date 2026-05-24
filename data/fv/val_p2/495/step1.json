@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the title, axis labels, data values, data labels, and color hues for each category.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Direct-To-Press digital system' makes up the largest percentage, but the chart clearly shows the 'Other' category has the largest percentage at 44.4%, compared to 33.3% for the 'Direct-To-Press digital system'."
+    },
+    "claim": "Direct-To-Press digital system makes up the largest percentage of how materials were printed.",
+    "label": "FALSE"
+}

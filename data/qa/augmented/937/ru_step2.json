@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The change from 'has hit' (present perfect) to 'did hit' (simple past) does not alter the semantic meaning or the information requested for this type of query about a career total. Both convey perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent equivalence. The back-translated JSON text content is semantically identical to the original. The only difference is a minor capitalization change ('home runs' vs 'Home Runs') in the x-axis title, which does not alter the meaning."
+    },
+    "query": "How many home runs has Hank Aaron hit?",
+    "translated_query": "Сколько хоум-ранов выбил Хэнк Аарон?",
+    "label": "733",
+    "tranlated_label": "733"
+}

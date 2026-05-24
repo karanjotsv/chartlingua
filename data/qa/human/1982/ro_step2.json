@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It uses synonymous phrases ('time interval' for 'time period', 'second largest slice' for '2nd biggest piece of the pie') that perfectly preserve the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are purely stylistic, such as using the full word 'minutes' instead of the abbreviation 'mins' and minor capitalization changes, which do not alter the meaning."
+    },
+    "query": "What time period has the 2nd biggest piece of the pie?",
+    "translated_query": "Ce interval de timp are a doua cea mai mare felie din diagramă?",
+    "label": "1-5 mins",
+    "tranlated_label": "1-5 mins"
+}

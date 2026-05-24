@@ -1,0 +1,47 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Ανθρώπινη<br>Κατοίκηση",
+            "value": 0.05,
+            "text_color": "#FFD700",
+            "font_size": 16
+        },
+        {
+            "label": "Άθικτο",
+            "value": 7,
+            "text_color": "#2F4F4F",
+            "font_size": 16
+        },
+        {
+            "label": "Υπό<br>Μετατροπή",
+            "value": 10,
+            "text_color": "#FFFFFF",
+            "font_size": 16
+        },
+        {
+            "label": "Γεωργία",
+            "value": 12,
+            "text_color": "#FFFFFF",
+            "font_size": 16
+        },
+        {
+            "label": "Νερό",
+            "value": 70.8,
+            "text_color": "#2F4F4F",
+            "font_size": 36
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#F0C800",
+        "#D1D9E6",
+        "#B2B2B2",
+        "#B09626",
+        "#5687C1"
+    ]
+}

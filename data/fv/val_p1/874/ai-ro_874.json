@@ -1,0 +1,52 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "Categoria 1",
+            "Categoria 2",
+            "Categoria 3",
+            "Categoria 4",
+            "Categoria 5",
+            "Categoria 6",
+            "Categoria 7",
+            "Categoria 8",
+            "Categoria 9",
+            "Categoria 10",
+            "Categoria 11",
+            "Categoria 12",
+            "Categoria 13"
+        ],
+        "series": [
+            {
+                "name": "Rezultatele sondajului",
+                "data": [
+                    25,
+                    60,
+                    85,
+                    40,
+                    83,
+                    75,
+                    80,
+                    100,
+                    73,
+                    50,
+                    87,
+                    95,
+                    55
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Vizualizarea rezultatelor din sondajul privind resursele online gratuite pentru studenți",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Generat cu Python și MatPlotLib.",
+        "note": null
+    },
+    "colors": [
+        "#E0F8FF"
+    ],
+    "bar_border_color": "#000000"
+}

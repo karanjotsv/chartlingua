@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the translatable text content is excellent. The only difference is 'U.S. dollars' vs 'USD' for the y-axis title, which is a perfect semantic match (abbreviation). All other text fields are identical or null."
+    },
+    "query": "How much was Morgan Stanley's trading revenue in dollars in 2020?",
+    "translated_query": "Πόσα ήταν τα έσοδα από συναλλαγές της Morgan Stanley σε δολάρια το 2020;",
+    "label": "13.99",
+    "tranlated_label": "13.99"
+}

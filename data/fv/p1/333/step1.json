@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the title, data values, proportions, and color-to-category assignments from the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides no information about voter turnout. It displays the distribution of 'Support' (12.9%), 'Oppose' (11.8%), and 'Neutral' (75.3%) opinions for a poll in 2008, and contains no data for the year 2004."
+    },
+    "claim": "The chart shows that overall voter turnout in 2008 was lower than in 2004.\n",
+    "label": true
+}

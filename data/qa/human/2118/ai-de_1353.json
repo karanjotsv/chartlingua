@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Daten nicht gemeldet",
+            "Gleich oder weniger als<br>25% des Verkaufspreises ist<br>Steuer",
+            "26-50% des Verkaufspreises<br>ist Steuer",
+            "51-75% des Verkaufspreises<br>ist Steuer",
+            "Mehr als 75% des<br>Verkaufspreises ist Steuer"
+        ],
+        "series": [
+            {
+                "name": "Hohes Einkommen",
+                "data": [
+                    3,
+                    3,
+                    5,
+                    24,
+                    23
+                ]
+            },
+            {
+                "name": "Mittleres Einkommen",
+                "data": [
+                    1,
+                    13,
+                    38,
+                    35,
+                    14
+                ]
+            },
+            {
+                "name": "Niedriges Einkommen",
+                "data": [
+                    4,
+                    8,
+                    18,
+                    3,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der Länder",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2979FF",
+        "#182F4C",
+        "#B3B3B3"
+    ]
+}

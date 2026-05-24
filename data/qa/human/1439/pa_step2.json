@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Rep' is correctly expanded to 'Republican', and 'Leap Rep' is semantically interpreted as 'Lean Republican', which is a common political term and likely correction of a typo in the original. The meaning is preserved and clarified."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. The primary issue is the consistent translation of 'arguments' in the original content (series name, title, subtitle) to 'debates' in the back-translated content. 'Arguments' implies disagreement or conflict, which is a key nuance in the context of election interactions, while 'debates' can be interpreted more broadly, potentially losing the confrontational aspect. For example, 'No arguments' vs 'No Debate' carries a different connotation. Other changes like 'Rep/Lean Rep' to 'Republican/Lean Republican' are acceptable expansions, and other text elements are largely equivalent."
+    },
+    "query": "What is the value of \"minor\" in Rep/Leap Rep?",
+    "translated_query": "ਰਿਪਬਲਿਕਨ/ਰਿਪਬਲਿਕਨ ਵੱਲ ਝੁਕਾਅ ਵਿੱਚ \"ਛੋਟੇ\" ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "30",
+    "tranlated_label": "30"
+}

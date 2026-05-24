@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered image is a near-perfect semantic match. All data values, labels, text content, and color hues for both charts are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that manufacturers depend heavily on statistics for investment decisions. However, in the chart for 'Question Number 2', 'Investment decisions' (A) has a value of 9, which is the second lowest among all listed uses. The most common uses are 'Research' (E) at 45 and 'Policy development' (B) at 39, indicating that dependency for investment decisions is relatively low, not heavy."
+    },
+    "claim": "UK manufacturers depend heavily on manufacturing statistics for investment decisions.",
+    "label": "FALSE"
+}

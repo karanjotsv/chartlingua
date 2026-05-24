@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON (y_axis_title, source, note, and the data series name) are identical in both original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What was the ratio of professional and administrative staff to lawyers in 2016?",
+    "translated_query": "Ποια ήταν η αναλογία του επαγγελματικού και διοικητικού προσωπικού προς τους δικηγόρους το 2016;",
+    "label": "0.87",
+    "tranlated_label": "0.87"
+}

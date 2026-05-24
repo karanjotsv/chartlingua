@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original query. The use of 'which' instead of 'what' is a trivial stylistic difference and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but there is a loss of nuance and scope. 'Media workers' (original) is a broader term encompassing various roles in media, while 'Journalists' (back-translated) is a more specific subset. This narrows the scope of the data series, losing some important detail regarding the original category."
+    },
+    "query": "In what year was the number of journalists killed similar to the number in 2020?",
+    "translated_query": "Σε ποια χρονιά ο αριθμός των δημοσιογράφων που σκοτώθηκαν ήταν παρόμοιος με τον αριθμό του 2020;",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

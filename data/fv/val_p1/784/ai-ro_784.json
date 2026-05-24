@@ -1,0 +1,85 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Ocupații elementare",
+            "values": [
+                0.06,
+                0.11
+            ]
+        },
+        {
+            "category": "Operatori la instalații, mașini și utilaje",
+            "values": [
+                0.1,
+                0.0
+            ]
+        },
+        {
+            "category": "Vânzări și servicii pentru clienți",
+            "values": [
+                0.02,
+                0.08
+            ]
+        },
+        {
+            "category": "Îngrijire, agrement și alte servicii",
+            "values": [
+                0.05,
+                0.14
+            ]
+        },
+        {
+            "category": "Meserii calificate",
+            "values": [
+                0.3,
+                0.05
+            ]
+        },
+        {
+            "category": "Administrativ și secretariat",
+            "values": [
+                0.04,
+                0.17
+            ]
+        },
+        {
+            "category": "Profesioniști asociați și tehnicieni",
+            "values": [
+                0.125,
+                0.075
+            ]
+        },
+        {
+            "category": "Ocupații profesionale",
+            "values": [
+                0.2,
+                0.2
+            ]
+        },
+        {
+            "category": "Manageri, directori și funcționari superiori",
+            "values": [
+                0.2,
+                0.15
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Structura ocupațională a Finningham (2011)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null,
+        "legend_title": null,
+        "series_labels": [
+            "Bărbați",
+            "Femei"
+        ]
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31"
+    ]
+}

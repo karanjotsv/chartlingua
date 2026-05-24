@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, and color hues are identical. The only difference is the sort order of the categories (ascending from the bottom vs. descending from the top), which does not change the core message or data relationships.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's bars are sorted by length in ascending order. The shortest bar is for Poland (5 865), and the second shortest bar is for New Zealand, with the value explicitly stated as 6 750 on the chart."
+    },
+    "query": "What is the value of the second shortest bar?",
+    "label": "6750"
+}

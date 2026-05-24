@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. While it uses similar colors and contains some of the correct text labels and values, the association between the labels and the pie slices is completely wrong. For example, the label for 'Android' (a small slice at 4.59%) is placed on one of the largest slices. Most of the other labels for the larger slices are missing, making the chart fundamentally misleading and misrepresenting the original data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has gross layout issues. Labels are either missing for the largest slices or are incorrectly placed on the wrong slices, which makes the chart nonsensical and impossible to interpret correctly."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim that Opera is the most popular web browser is contradicted by the chart. The chart shows Opera has a 4.53% share, while there are multiple other slices that are visually much larger, such as the large dark blue and orange slices, indicating they represent a higher percentage. Additionally, the slice for Android is labeled as 4.59%, which is greater than Opera's share."
+    },
+    "claim": "Opera is the most popular web browser on Wikimedia.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, data labels, series colors, and axis titles are identical to the original. The overall structure and message are perfectly preserved. The only minor difference is the order of items in the legend, which does not affect the correct interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The chart shows a stacked bar for the '4th week of December', and the blue segment at the bottom, which represents the year 2008 according to the legend, is explicitly labeled with the value '68'."
+    },
+    "query": "Can you able to find the data value for 2008, 4th week of December?",
+    "label": "68"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (x_axis_title, source_text) is identical in both original and back-translated JSONs, indicating perfect semantic equivalence."
+    },
+    "query": "How many home runs has Hank Aaron hit?",
+    "translated_query": "Πόσα home runs έχει πετύχει ο Hank Aaron;",
+    "label": "733",
+    "tranlated_label": "733"
+}

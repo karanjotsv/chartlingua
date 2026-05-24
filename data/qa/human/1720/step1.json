@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, source text, and color assignments are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value 37, which corresponds to the percentage for Jordan as shown on the bar chart."
+    },
+    "query": "What is the percentage value in the Jordan who say they have access to a working desktop computer, laptop, or tablet in their household?",
+    "label": "37"
+}

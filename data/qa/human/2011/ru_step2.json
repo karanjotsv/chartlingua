@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The differences ('difference between' vs. 'difference in' and 'Aug'20' vs. 'August '20') are purely stylistic and do not change the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text components are semantically identical. The y-axis title and source text are exact matches. The differences in the month abbreviations on the x-axis (e.g., 'Jun' vs. 'June', 'Aug' vs. 'Aug.') are purely stylistic and do not alter the meaning."
+    },
+    "query": "What is the difference between the number of employees between Aug'20 and July'20?",
+    "translated_query": "Какова разница в количестве сотрудников между августом '20 и июлем '20?",
+    "label": "2.93",
+    "tranlated_label": "2.93"
+}

@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "category": "IB-Wissenschaftler",
+            "values": [
+                24,
+                76
+            ],
+            "labels": [
+                "24%",
+                "76%"
+            ]
+        },
+        {
+            "category": "USA",
+            "values": [
+                23,
+                73
+            ],
+            "labels": [
+                "23",
+                "73"
+            ]
+        }
+    ],
+    "series_names": [
+        "Wirtschaftsbeziehungen<br>zu China priorisieren",
+        "Menschenrechte<br>in China fördern"
+    ],
+    "texts": {
+        "title": "Sowohl US-Wissenschaftler für internationale<br>Beziehungen als auch die amerikanische<br>Öffentlichkeit unterstützen die Förderung von<br>Menschenrechten in China",
+        "subtitle": "% der Befragten, die sagen, die USA sollten ...",
+        "note": "Anmerkung: „IB“ steht für Internationale Beziehungen.",
+        "source": "Quelle: Daten der allgemeinen US-Öffentlichkeit aus der<br>„Summer 2020 Global Attitudes Survey“ des Pew Research Center.<br>Daten der IB-Wissenschaftler, erstellt vom<br>Teaching, Research & International Policy (TRIP) Project<br>am College of William & Mary, online durchgeführt vom 17.–24. September<br>2020 (n=706).",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#23517c",
+        "#85994b"
+    ]
+}

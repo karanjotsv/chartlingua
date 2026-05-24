@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the chart attempts to replicate the original's structure with the correct titles and facets, it is so severely compressed and malformed that the data is completely obscured. Proportions cannot be compared, text labels are unreadable, and the overall message is lost. The core data may be present, but its representation is fundamentally broken, making it impossible to interpret.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has catastrophic visual flaws. There is severe text overlap across all elements (y-axis labels, data labels, facet titles, legend, axis titles), making them illegible. The data bars are squashed and overlap, completely obscuring the data. The overall layout is grossly malformed and nonsensical."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'mass deletion' was the most common reason for deleting image files. However, the chart does not list 'mass deletion' as a reason for deletion for any file type, including images. The visible reasons for image file deletion include 'database error', 'no permission', 'requested', and others, but not 'mass deletion'."
+    },
+    "claim": "Mass deletion was the most common reason for image files being deleted in 2017.\n",
+    "label": false
+}

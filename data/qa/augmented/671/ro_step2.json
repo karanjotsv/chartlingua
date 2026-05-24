@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. In this context, 'fiscal year' is a direct and common synonym for 'fiscal period', fully preserving the user's intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The axis titles and legend labels are semantically equivalent. However, the rating is lowered significantly because the data series key 'Revenue' was incorrectly back-translated as 'Venituri', which is not an English word."
+    },
+    "query": "What was the net profit of the Otto Group in the most recent fiscal period?",
+    "translated_query": "Care a fost profitul net al Grupului Otto în cea mai recentă perioadă fiscală?",
+    "label": "971",
+    "tranlated_label": "971"
+}

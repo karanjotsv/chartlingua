@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The structural differences like 'Siemens AG's annual revenue' vs 'the annual revenue of Siemens AG' and '2020 fiscal year' vs 'fiscal year 2020' are stylistic variations that do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original. The minor grammatical variation in 'y_axis_title' ('million euros' vs 'millions of euros') does not alter the meaning or convey different information."
+    },
+    "query": "What was Siemens AG's annual revenue in the 2020 fiscal year?",
+    "translated_query": "Ποια ήταν τα ετήσια έσοδα της Siemens AG το οικονομικό έτος 2020;",
+    "label": "57139",
+    "tranlated_label": "57139"
+}

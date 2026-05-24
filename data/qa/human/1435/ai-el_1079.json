@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Δυσαρεστημένοι",
+            "value": 78
+        },
+        {
+            "label": "Ικανοποιημένοι",
+            "value": 20
+        },
+        {
+            "label": "Δεν Ξέρω",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "Οι περισσότεροι δυσαρεστημένοι<br>με την κατεύθυνση<br>της χώρας",
+        "subtitle": null,
+        "source": "PEW RESEARCH CENTER Q2.",
+        "note": null
+    },
+    "colors": {
+        "series": [
+            "#e4b975",
+            "#6f4f18",
+            "#e9a13b"
+        ],
+        "title": "#2f5c85",
+        "text_on_slice": [
+            "black",
+            "white",
+            "black"
+        ]
+    }
+}

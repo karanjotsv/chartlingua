@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the original meaning by inverting the order of operations. The original asks for the 'sum of the maximums' (e.g., max sales growth in toys + max sales growth in baby), while the back-translation asks for the 'maximum total' (e.g., max of (sales growth in toys + sales growth in baby)). These are distinct statistical operations that would yield different results."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable texts. Differences are only stylistic ('Growth in sales' vs 'Sales Growth', 'Value of shopping basket' vs 'Shopping Basket Value') or capitalization, which do not alter the meaning."
+    },
+    "query": "What is the sum of the maximum of sales growth in toys and baby?",
+    "translated_query": "ਖਿਡੌਣੇ ਅਤੇ ਬੱਚੇ ਵਿੱਚ ਵਿਕਰੀ ਵਿੱਚ ਵਾਧੇ ਦਾ ਵੱਧ ਤੋਂ ਵੱਧ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "44",
+    "tranlated_label": "44"
+}

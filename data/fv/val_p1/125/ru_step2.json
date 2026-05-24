@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Smaller' and 'less' are equivalent in this comparative context, and 'in this chart for BBC Income' versus 'on this BBC income chart' convey the same information about the chart's reference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The categories were slightly expanded ('BBC Commercial' to 'BBC Commercial Income') but convey the same meaning, and the text labels use common abbreviations (bn for billion, m for million) which are semantically identical. The title 'BBC Income Structure' is a good synonym for 'BBC Breakdown of Income'."
+    },
+    "claim": "Government bonds are smaller in this chart for BBC Income than the UK License Fee.",
+    "translated_claim": "Государственные облигации меньше на этой диаграмме по доходам BBC, чем лицензионный сбор Великобритании."
+}

@@ -1,0 +1,46 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "U.S.",
+            "China",
+            "EU",
+            "WHO",
+            "Our country"
+        ],
+        "series": [
+            {
+                "name": "Bad",
+                "data": [
+                    84,
+                    60,
+                    39,
+                    34,
+                    25
+                ]
+            },
+            {
+                "name": "Good",
+                "data": [
+                    15,
+                    37,
+                    57,
+                    64,
+                    74
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Poor marks for America’s response to<br>coronavirus outbreak",
+        "subtitle": "% who say each has done a ___ job dealing with the<br>coronavirus outbreak",
+        "source": "Note: Percentages are medians based on 13 countries. Those who<br>did not answer are not shown.<br>Source: Summer 2020 Global Attitudes Survey. Q10a-e.<br>“U.S. Image Plummets Internationally as Most Say Country Has<br>Handled Coronavirus Badly”",
+        "footer": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#2c5a8c",
+        "#90a24f"
+    ]
+}

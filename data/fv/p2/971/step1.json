@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. All data values, labels, titles, categories, and color hues are accurately reproduced, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data about printing methods, whereas the claim discusses native vegetation in Pennington County, Minnesota. The chart does not contain any information related to geography, vegetation, prairies, or oak savannas, so it cannot be used to support or refute the claim."
+    },
+    "claim": "There is less prairie than oak savanna as native vegetation for Pennington County Minnesota.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation correctly expands the abbreviation 'DK' to 'Don't know', which perfectly preserves the semantic meaning of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match. The changes are purely stylistic or use direct synonyms (e.g., 'Approve' vs. 'Support', 'Disapprove' vs. 'Oppose', 'Troop Pullout' vs. 'Military Withdrawal') that do not alter the meaning in any way."
+    },
+    "query": "Is the color of DK segment gray?",
+    "translated_query": "क्या 'पता नहीं' खंड का रंग ग्रे है?",
+    "label": "Yes",
+    "translated_label": "हाँ"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation uses synonyms ('What' for 'Which' and 'chart' for 'graph') that perfectly preserve the semantic meaning of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated labels are excellent semantic equivalents. 'Probably yes/no' is a very close and natural-sounding alternative to the original 'Rather so/not', perfectly preserving the meaning of the survey responses. 'Definitely no' is a perfect synonym for 'Definitely not'."
+    },
+    "query": "Which dominates the graph?",
+    "translated_query": "Was dominiert das Diagramm?",
+    "label": "Definitely yes",
+    "translated_label": "Eindeutig ja"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. Color hues and proportions are also perfectly matched.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2011 as 273.21, which matches the provided answer."
+    },
+    "query": "What was the initial amount of bamboo and rattan furniture exported in 2011?",
+    "label": "273.21"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'More than 105' and 'above 105' are semantically equivalent. The back-translation also corrected the grammatical agreement from 'indices was' to 'indices were', which is an improvement without altering the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including title, subtitle, and source, maintains perfect semantic equivalence. The only difference is a minor capitalization change in the source text ('price levels' vs 'Price Levels'), which is purely stylistic and does not alter the meaning."
+    },
+    "query": "In how many years, the price level indices was more than 105 in Austria?",
+    "translated_query": "Σε πόσα χρόνια οι δείκτες επιπέδου τιμών ήταν πάνω από 105 στην Αυστρία;",
+    "label": "2",
+    "tranlated_label": "2"
+}

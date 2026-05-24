@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Graph' and 'chart' are synonymous in this context, representing a trivial difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Minor stylistic differences like 'per person' vs 'per capita' and 'aged 15 or older' vs 'aged 15 and over' do not alter the meaning."
+    },
+    "query": "How many colors are used in the graph?",
+    "translated_query": "Сколько цветов используется на графике?",
+    "label": "1",
+    "tranlated_label": "1"
+}

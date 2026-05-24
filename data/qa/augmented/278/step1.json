@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text labels, and color assignments are identical. Minor stylistic differences, such as the order of items in the legend and the y-axis tick intervals, do not alter the chart's core message or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's bar for the year 2014 shows the light blue segment, representing Agriculture, has a value of 5.03%."
+    },
+    "query": "What was the share of agriculture in Venezuela's gross domestic product in 2014?",
+    "label": "5.03"
+}

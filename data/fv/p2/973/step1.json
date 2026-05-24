@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, titles, and color hues are consistent, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides information about different printing methods used by a 'Chapter', such as '4 Color Lithographic' and 'Direct-to-Press'. The claim is about smoking and snus usage in Sweden. The chart contains no data related to smoking, snus, or Sweden, and therefore cannot support the claim."
+    },
+    "claim": "There are fewer people who both smoke and use snus daily than only smoke in Sweden.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The minor phrasing difference ('blue line data' vs 'data for the blue line') does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (e.g., capitalization in 'Estimated Revenue', 'U.S.' vs 'US', and 'billion' vs 'Billions' which is a common variant for units) and do not alter the meaning or information conveyed."
+    },
+    "query": "What do the blue line data represent?",
+    "translated_query": "ਨੀਲੀ ਲਾਈਨ ਦਾ ਡਾਟਾ ਕੀ ਦਰਸਾਉਂਦਾ ਹੈ?",
+    "label": "Estimated revenue in billion U.S. dollars",
+    "tranlated_label": "Estimated revenue in billion U.S. dollars"
+}

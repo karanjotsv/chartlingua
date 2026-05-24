@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, proportions, series, labels, and overall trend. Color hues are consistent for all data series.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart clearly shows a substantial increase in the total tonnes per annum feed material between 2001 and 2011. The bar for 2001 is below 3,000,000 tonnes, while the bar for 2011 is above 8,000,000 tonnes, directly refuting the claim of no change."
+    },
+    "claim": "There was no change in the global Isasmelt feed capacity between 2001 and 2011.",
+    "label": "FALSE"
+}

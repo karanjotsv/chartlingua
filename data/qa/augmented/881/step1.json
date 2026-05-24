@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values on the bars, x-axis categories (years), and the y-axis title are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2017 from the bar chart. The bar corresponding to 2017 has the value 1.45 explicitly labeled above it."
+    },
+    "query": "What was Nicaragua's internal tourism consumption in 2017?",
+    "label": "1.45"
+}

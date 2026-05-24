@@ -1,0 +1,34 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Not collected for recycling",
+            "value": 80
+        },
+        {
+            "category": "Not documented, fate unknown*",
+            "value": 76
+        },
+        {
+            "category": "Thrown into household waste",
+            "value": 4
+        },
+        {
+            "category": "Documented, collected, and recycled",
+            "value": 20
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Share of e-waste",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#C8C8C8",
+        "#2C73D2",
+        "#2C73D2",
+        "#C8C8C8"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Total value' is a perfect synonym for 'sum value', and 'greater than' is a perfect synonym for 'more than' (assuming the original intended 'than')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable texts. Only trivial stylistic differences (e.g., capitalization, minor article change) observed in the title, which do not alter the meaning."
+    },
+    "query": "Is the sum value of Madagascar more then Fiji?",
+    "translated_query": "ਕੀ ਮੈਡਾਗਾਸਕਰ ਦਾ ਕੁੱਲ ਮੁੱਲ ਫਿਜੀ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

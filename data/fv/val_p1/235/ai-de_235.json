@@ -1,0 +1,76 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Ashby-Methode¹",
+            "x": [
+                0,
+                3,
+                6,
+                9,
+                12
+            ],
+            "y": [
+                0,
+                1.8,
+                2.3,
+                2.15,
+                2.2
+            ]
+        },
+        {
+            "name": "Medikamente²",
+            "x": [
+                0,
+                3,
+                6,
+                12
+            ],
+            "y": [
+                0,
+                0,
+                0,
+                -1.7
+            ]
+        },
+        {
+            "name": "Normaler Krankheitsverlauf³",
+            "x": [
+                0,
+                12
+            ],
+            "y": [
+                0,
+                -3.3
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Verlangsamung des kognitiven Verfalls bei Alzheimer<br>12-monatiger Vergleich der MMSE-Werte",
+        "x_axis_title": "Monate",
+        "y_axis_title": "Änderung des kognitiven Testergebnisses",
+        "source": null,
+        "annotations": [
+            {
+                "text": "Ashby-<br>Methode¹<br>+2.2",
+                "x": 12,
+                "y": 2.2
+            },
+            {
+                "text": "Medikamente²<br>-1.7",
+                "x": 12,
+                "y": -1.7
+            },
+            {
+                "text": "Normaler<br>Krankheitsverlauf³<br>-3.3",
+                "x": 12,
+                "y": -3.3
+            }
+        ]
+    },
+    "colors": [
+        "#4667B3",
+        "#D9812A",
+        "#66803A"
+    ]
+}

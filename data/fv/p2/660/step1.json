@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trend, values, axis scales, title, and axis labels are all accurately reproduced. Minor stylistic differences in font, gridlines, and title line breaks do not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the highest point for the 'Ratio of Asset value to Debt' occurred in 1989, not June 1988. The data point for 1989 is visibly higher than the starting point for June 1988."
+    },
+    "claim": "The maximum ratio of asset value to debt belonged to June 1988.",
+    "label": "TRUE"
+}

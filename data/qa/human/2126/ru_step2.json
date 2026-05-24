@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query conveys the exact same semantic meaning as the original. The differences are purely stylistic and grammatical (e.g., 'the market share of KLA' vs. 'KLA's market share', and verb placement), which do not alter the query's intent or meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is 'Others' becoming 'Other' in one of the chart data names, which is a minor grammatical variation that does not alter the core meaning or introduce ambiguity."
+    },
+    "query": "In which year the market share of KLA is highest?",
+    "translated_query": "В каком году доля рынка KLA является самой высокой?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

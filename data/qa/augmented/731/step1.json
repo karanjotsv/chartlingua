@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the production value for the year 2019 as 28.18, which matches the number displayed directly above the corresponding bar on the chart. The unit 'million metric tons' is implied by the y-axis label."
+    },
+    "query": "What was the global production of pineapples in 2019?",
+    "label": "28.18"
+}

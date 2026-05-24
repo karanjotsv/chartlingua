@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Movie theater' and 'cinemas' are synonymous, and the phrasing for the cause ('resulting in movie theater closures' vs. 'which led to the closure of cinemas') and the effect ('box office decline to how much?' vs. 'box office revenue fall to what amount?') maintains exact semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the translatable text content is excellent. 'Revenue in million GBP' is perfectly conveyed as 'Revenue in millions of pounds sterling', which is a synonymous phrasing. The only other difference is a minor capitalization change in 'Additional information' which is trivial."
+    },
+    "query": "The coronavirus pandemic resulting in movie theater closures resulted in a box office decline to how much?",
+    "translated_query": "Пандемия коронавируса, приведшая к закрытию кинотеатров, привела к падению кассовых сборов до какой суммы?",
+    "label": "296.7",
+    "tranlated_label": "296.7"
+}

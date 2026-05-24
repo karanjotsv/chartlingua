@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical. The only difference is the stylistic choice to 'explode' one slice, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'Canada' and 'economies level', but the pie chart displays the market share of different web browsers such as Internet Explorer, Google Chrome, and Mozilla Firefox. There is no information about countries or economies in the chart."
+    },
+    "claim": "Canada got 5 % of economies level among the top 20.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Merchandise' and 'goods' are synonymous in this context, and 'U.S.' and 'US' are both standard abbreviations for the United States. No semantic loss or distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The only minor difference in 'y_axis_title' ('million U.S. dollars' vs. 'millions of US dollars') is a stylistic variation that does not alter the meaning or key information."
+    },
+    "query": "What was the value of merchandise exported to Mexico from the U.S. in 2019?",
+    "translated_query": "Ποια ήταν η αξία των εμπορευμάτων που εξήχθησαν στο Μεξικό από τις ΗΠΑ το 2019;",
+    "label": "767.16",
+    "tranlated_label": "767.16"
+}

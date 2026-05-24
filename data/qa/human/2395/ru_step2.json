@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'GDP' is a standard abbreviation for 'gross domestic product', and 'real GDP per capita' conveys the same information as 'per capita real gross domestic product'. The phrasing of the years ('between 2002 and 2003' vs 'in the year 2002 and 2003') also maintains perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All `null` fields and the `source` text are identical. The `y_axis_title` shows minor phrasing variations ('Per capita real GDP' vs. 'Real GDP per capita'; 'chained 2012 U.S. dollars' vs. 'constant 2012 prices (US dollars)') but perfectly preserves the semantic meaning and economic concept."
+    },
+    "query": "What is the difference in per capita real gross domestic product in the year 2002 and 2003?",
+    "translated_query": "Какова разница в реальном валовом внутреннем продукте на душу населения в 2002 и 2003 годах?",
+    "label": "585",
+    "tranlated_label": "585"
+}

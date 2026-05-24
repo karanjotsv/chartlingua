@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, text content (title and labels), and color hues are all highly consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels of the smaller pie slices (e.g., Thailand, Finland, Bulgaria, Spain), making them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the majority of all casualties during World War 2, but the chart is specifically titled 'Axis Casualties'. The chart only shows the proportion of casualties among the Axis powers and provides no information about Allied casualties, which would be necessary to evaluate the claim about the total casualties of the war."
+    },
+    "claim": "German casualties were the majority of casualties during World War 2.",
+    "label": "FALSE"
+}

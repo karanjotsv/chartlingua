@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text labels (title, axes, legend, data points), color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows GHG Emissions at 526.3 Mt and GHG Absorption at -99.9 Mt. The absolute value of emissions (526.3 Mt) is significantly greater than the absolute value of absorption (99.9 Mt), which directly refutes the claim that there was more absorption than emissions."
+    },
+    "claim": "In 2017, there was more GHG Absorption than GHG Emissions.",
+    "label": false
+}

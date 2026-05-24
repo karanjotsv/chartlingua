@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has significant semantic errors. The individual facet titles (e.g., 'audio', 'bitmap') are missing from their positions above each plot. More importantly, the data for the 'bitmap' and 'office' facets appear to have been swapped, leading to a misrepresentation of the information for those categories.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap. The facet titles are rendered illegibly on top of the first subplot. Additionally, the legend, x-axis title, and the descriptive text at the bottom are all overlapping, making them very difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart categorizes the reasons for deletion into 'copyright' and 'other reason'. 'Speedy deletions' is not listed as a reason for deletion; rather, 'speedy' describes the time-to-deletion (the x-axis), not the cause."
+    },
+    "claim": "Speedy deletions are the most common reason for file deletion on Wikimedia Commons.",
+    "label": false
+}

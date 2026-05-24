@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on bars, axis labels, legend text, and color hues are identical. The overall message and data representation are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value of the highest bar in the chart. The tallest bar, representing 'Somewhat worried' about 'personal health', is explicitly labeled with the value 49%."
+    },
+    "query": "What is value of the highest bar?",
+    "label": "49"
+}

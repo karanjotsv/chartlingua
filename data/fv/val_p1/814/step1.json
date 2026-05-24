@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, and proportions. The title, labels, legend text, and color hues are all consistent with the original. The change from a 3D to a 2D pie chart is a stylistic difference that does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the Machine is the lowest contributor to plastic defects, but the pie chart shows it is the highest contributor at 60%. The lowest contributors are Material and Men (Operator), both at 10%."
+    },
+    "claim": "Machine is the lowest contributor to the plastic defects during injection moulding.",
+    "label": false
+}

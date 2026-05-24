@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text elements (titles, axis labels, categories), and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that 'Ease of use' has the highest percentage of users at 50%, making it the main justification compared to other reasons like 'Suggestion', 'Trial', and 'Used Before'."
+    },
+    "claim": "The main justification for selecting a tool was for its ease of use ",
+    "label": true
+}

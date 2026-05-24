@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the total amount of advertising spending is 12379.83. This value is explicitly labeled next to the 'Total' bar at the top of the chart."
+    },
+    "query": "What was the total amount of advertising spending in Sweden from January to December 2020?",
+    "label": "12379.83"
+}

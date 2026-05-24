@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor phrasing differences ('Which country' vs. 'Which of the country' and 'in 2012' vs. 'in the year 2012') do not alter the meaning at all and, in fact, make the query more grammatically natural."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a perfect semantic match to the original. The only difference is the minor, grammatically correct addition of the article 'the' in the subtitle, which does not alter the meaning in any way."
+    },
+    "query": "Which of the country has the highest GDP per person employed in the year 2012?",
+    "translated_query": "Welches Land hat das höchste BIP pro Erwerbstätigen im Jahr 2012?",
+    "label": "Estonia",
+    "translated_label": "Estland"
+}

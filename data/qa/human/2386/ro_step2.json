@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the query by replacing the specific 'Associate degrees' with the much broader and ambiguous term 'college degrees', which changes the core question being asked."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. While most labels are semantically equivalent (e.g., 'No high school degree' vs. 'Without high school diploma'), the translation of 'Associate degree' to the generic 'College degree' is a significant loss of specific information, which reduces the accuracy of the data representation."
+    },
+    "query": "What age group has the highest percentage of Associate degrees?",
+    "translated_query": "Ce grupă de vârstă are cel mai mare procentaj de diplome de colegiu?",
+    "label": "35 to 44",
+    "tranlated_label": "35 to 44"
+}

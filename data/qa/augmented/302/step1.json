@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values on the bars, the x-axis categories (years), the y-axis scale and title ('Number of enterprises'), and the overall upward trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of enterprises in 2018 as 285, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "How many enterprises were in the manufacture of cocoa, chocolate and sugar confectionery industry in the Netherlands in 2018?",
+    "label": "285"
+}

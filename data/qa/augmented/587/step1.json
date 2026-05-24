@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall ranking are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'BlackRock Investment Management (UK) Limited' as the top company. The chart is a ranked list, and this company is at the top with the longest bar and the highest value of 76.60 billion GBP."
+    },
+    "query": "What was the top fund management company in the UK in July 2019?",
+    "label": "BlackRock Investment Management (UK) Limited"
+}

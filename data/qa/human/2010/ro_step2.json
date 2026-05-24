@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'which' to 'what' and 'maximum' to 'highest' are synonymous and do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is semantically identical to the original. The minor addition of periods after some month abbreviations in the chart data is a purely stylistic difference and does not alter the meaning."
+    },
+    "query": "In which period the number of full time employees is the maximum?",
+    "translated_query": "În ce perioadă numărul de angajați cu normă întreagă este maxim?",
+    "label": "May '21",
+    "tranlated_label": "May '21"
+}

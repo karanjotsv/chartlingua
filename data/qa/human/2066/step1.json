@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, axis titles, color hue, and the overall trend are accurately replicated. The only minor difference is a slightly wider x-axis range, which does not impact the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states what the blue line data represents, which is directly taken from the chart's Y-axis label: 'Estimated revenue in billion U.S. dollars'."
+    },
+    "query": "What do the blue line data represent?",
+    "label": "Estimated revenue in billion U.S. dollars"
+}

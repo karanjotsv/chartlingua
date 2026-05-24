@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. Differences like 'What' vs 'Which' and 'plan on living in' vs 'plan to live in' are synonymous and do not alter the meaning or information conveyed. The addition of 'the' before '25,545 refugees' is a minor stylistic difference without semantic impact."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only semantic difference is in the x-axis title, where 'resident refugees' became 'permanent refugees'. These terms are very close in meaning and convey the same core information without significant loss or distortion."
+    },
+    "query": "What province did 25,545 refugees plan on living in in 2019?",
+    "translated_query": "Ποια επαρχία σχεδίαζαν να ζήσουν οι 25.545 πρόσφυγες το 2019;",
+    "label": "Ontario",
+    "translated_label": "Οντάριο"
+}

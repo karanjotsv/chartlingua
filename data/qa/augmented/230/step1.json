@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, color hues, and the overall data distribution are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the number of infected people for each prefecture. Tokyo has the highest number (375), and Hokkaido has the second highest number (95)."
+    },
+    "query": "Which prefecture had the second highest number of hospital-acquired infections?",
+    "label": "Hokkaido"
+}

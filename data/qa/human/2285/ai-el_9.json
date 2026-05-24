@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Άγαμοι",
+            "values": [
+                170,
+                252
+            ]
+        },
+        {
+            "category": "Παντρεμένοι",
+            "values": [
+                524,
+                633
+            ]
+        },
+        {
+            "category": "[από αυτούς] σε<br>μη καταγεγραμμένο<br>γάμο",
+            "values": [
+                69,
+                84
+            ]
+        },
+        {
+            "category": "Χήροι",
+            "values": [
+                186,
+                38
+            ]
+        },
+        {
+            "category": "Διαζευγμένοι ή<br>σε διάσταση",
+            "values": [
+                120,
+                77
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Αριθμός κατοίκων ανά χίλια άτομα",
+        "source": "© Statista 2021",
+        "legend_labels": [
+            "Γυναίκες",
+            "Άνδρες"
+        ]
+    },
+    "colors": [
+        "#2B7CDE",
+        "#0C233F"
+    ]
+}

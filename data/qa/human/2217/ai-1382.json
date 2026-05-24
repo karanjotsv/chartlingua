@@ -1,0 +1,50 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Men",
+            "values": [
+                12.3,
+                12.8,
+                13.4,
+                17.4,
+                19.5,
+                20.9,
+                11.7
+            ]
+        },
+        {
+            "name": "Women",
+            "values": [
+                7.1,
+                8.3,
+                9.0,
+                9.6,
+                10.0,
+                9.3,
+                5.7
+            ]
+        }
+    ],
+    "categories": [
+        "16-24 years",
+        "25-34 years",
+        "35-44 years",
+        "45-54 years",
+        "55-64 years",
+        "65-74 years",
+        "75 years and<br>over"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Mean number of units",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2A85DE",
+        "#122B40"
+    ]
+}

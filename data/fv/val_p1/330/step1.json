@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows two categories for events lasting 5 hours or less: '2 to 3 Hours' (13%) and '3 to 5 Hours' (43%). The sum of these two categories is 56% (13% + 43%), which constitutes a majority. Therefore, the claim that most Edit-a-thons lasted less than 5 hours is supported by the data."
+    },
+    "claim": "Most Edit-a-thons lasted less than 5 hours.\n\n",
+    "label": true
+}

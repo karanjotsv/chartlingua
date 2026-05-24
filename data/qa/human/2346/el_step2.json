@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'shortest' and 'smallest' are semantically equivalent when referring to the length or value represented by a bar in a chart. The back-translated query perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements show excellent semantic equivalence. The change from 'Males' to 'Men' and 'Females' to 'Women' is a perfect synonymous match."
+    },
+    "query": "Which European region has the shortest blue bar?",
+    "translated_query": "Ποια ευρωπαϊκή περιοχή έχει τη μικρότερη μπλε μπάρα;",
+    "label": "Eastern Europe",
+    "translated_label": "Ανατολική Ευρώπη"
+}

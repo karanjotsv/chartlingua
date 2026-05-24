@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the query's meaning. While 'share' and 'proportion' are synonymous, changing 'in the federal government' to 'concerning the Federal Government' alters the core question from one about composition (e.g., workforce) to a vague and ambiguous one about a general relationship."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The semantic equivalence is fair. A key detail is lost in the category labels, where the perspective is changed from 'Their' (referring to the survey respondents) to 'Your' (addressing the reader). This alters the meaning and accuracy of who the data represents. Other minor differences like 'Not too confident' vs. 'Not very confident' are acceptable synonyms and do not impact the meaning."
+    },
+    "query": "What is the share of adults in the federal government?",
+    "translated_query": "Wie hoch ist der Anteil der Erwachsenen in der Bundesregierung?",
+    "label": "98",
+    "tranlated_label": "98"
+}

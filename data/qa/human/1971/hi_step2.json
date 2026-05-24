@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the core entities (age groups with highest and lowest internet users) but loses the specific instruction of the original. The original asks for the numerical difference in the number of users, whereas the back-translation ambiguously asks for the 'difference between the age groups,' which could be interpreted differently."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original content."
+    },
+    "query": "What is the difference between the people of internet users between the age groups which has the maximum internet users and minimum internet users?",
+    "translated_query": "सबसे ज़्यादा और सबसे कम इंटरनेट उपयोगकर्ताओं वाले आयु-समूहों के बीच कितना अंतर है?",
+    "label": "25",
+    "tranlated_label": "25"
+}

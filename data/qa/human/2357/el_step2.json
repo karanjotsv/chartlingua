@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text equivalence is fair. While most elements match perfectly, the x-axis title changes from 'Share of average demand expressions*' to 'Share of media demand expressions*'. The loss of the specific qualifier 'average' and its replacement with 'media' alters the precise meaning of the metric, impacting accuracy and losing an important detail about the data's nature."
+    },
+    "query": "What is the value of Hulu?",
+    "translated_query": "Ποια είναι η αξία του Hulu;",
+    "label": "9.2",
+    "tranlated_label": "9.2"
+}

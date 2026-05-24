@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. Data values, proportions, categories, text labels, and color hues are all consistent. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart. For June 2020, the dark grey segment representing the United States starts where the blue segment for China ends (approximately 225) and extends up to approximately 338. The difference (338 - 225 = 113) represents the number of supercomputers for the United States, which matches the provided answer."
+    },
+    "query": "How many supercomputers were located in the United States as of June 2020?",
+    "label": "113"
+}

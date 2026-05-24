@@ -1,0 +1,44 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Will GLAM continue Wikimedia relationship",
+            "Will this project lead to other GLAM partnerships (i.e. with<br>other GLAMs, with other content)"
+        ],
+        "series": [
+            {
+                "name": "Yes",
+                "y": [
+                    67,
+                    44
+                ]
+            },
+            {
+                "name": "Maybe",
+                "y": [
+                    22,
+                    56
+                ]
+            },
+            {
+                "name": "No",
+                "y": [
+                    11,
+                    0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "GLAM Content Donations<br>Likelihood of Retention",
+        "x_axis_title": null,
+        "y_axis_title": "Proportion of GLAM Content Donation<br>Partnerships Reported",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#37925A",
+        "#00629B",
+        "#990000"
+    ]
+}

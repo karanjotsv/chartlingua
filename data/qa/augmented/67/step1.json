@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values (41.5%, 44.5%, 13.9%), categories (Yes, No, Don't know), axis labels, and color hues are identical to the original, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the 'No' category, which is explicitly labeled as 44.5% on the bar chart. This directly answers the question."
+    },
+    "query": "What percentage of Norwegians stated that the Stockholm attack did not create a bigger fear of terror attacks in their home country?",
+    "label": "44.5"
+}

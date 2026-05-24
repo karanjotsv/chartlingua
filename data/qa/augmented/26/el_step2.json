@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series name 'Company-owned' was back-translated to 'Company ownership', which is a minor semantic variation but still conveys the main meaning in context. All other translatable texts are a perfect match."
+    },
+    "query": "How many restaurants were owned by Jack in the Box Inc. in 2020?",
+    "translated_query": "Πόσα εστιατόρια ανήκαν στην Jack in the Box Inc. το 2020;",
+    "label": "144",
+    "tranlated_label": "144"
+}

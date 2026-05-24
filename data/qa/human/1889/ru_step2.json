@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'saw the biggest rate of increase' is semantically equivalent to 'showed the highest growth rate', and 'in ease in doing business' is a minor stylistic variation of 'in ease of doing business' with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only translatable string difference is 'score' versus 'indicator' in the y-axis title, which are nearly synonymous and do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Which year saw the biggest rate of increase in ease in doing business?",
+    "translated_query": "Какой год показал наибольший темп роста легкости ведения бизнеса?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

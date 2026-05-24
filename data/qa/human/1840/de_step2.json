@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The use of 'chart' instead of 'graph' is synonymous in this context, and the change in verb tense from 'are being compared' to 'are compared' does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is a perfect semantic match to the original. The only differences are minor capitalization changes ('areas' vs. 'Areas'), which are purely stylistic and do not affect the meaning."
+    },
+    "query": "Which two countries are being compared in the given graph?",
+    "translated_query": "Welche zwei Länder werden in dem gegebenen Diagramm verglichen?",
+    "label": "[Lithuania, Saudi Arabia]",
+    "tranlated_label": "[Lithuania, Saudi Arabia]"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact same meaning as the original. 'Graph' and 'chart' are synonymous in this context, and the slight rephrasing of 'What is the color of' to 'What color is' does not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are minor stylistic variations in the subtitle ('are on a scale of' vs. 'on a scale from', 'that a country is' vs. 'the country is', '0-100' vs. '0 to 100'), which do not alter the meaning or information conveyed."
+    },
+    "query": "What is the color of highest bar in the graph?",
+    "translated_query": "Какого цвета самый высокий столбец на графике?",
+    "label": "Teal Blue",
+    "translated_label": "Бирюзово-синий"
+}

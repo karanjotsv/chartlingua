@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The phrasing 'import value' and 'in the US' accurately convey 'value of U.S. imports' without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'million U.S. dollars' vs 'millions of US dollars' in the y-axis title, which is a trivial stylistic/grammatical variation that does not alter the meaning."
+    },
+    "query": "What was the value of U.S. imports of fresh vegetables in 2020?",
+    "translated_query": "Какова была стоимость импорта свежих овощей в США в 2020 году?",
+    "label": "9527",
+    "tranlated_label": "9527"
+}

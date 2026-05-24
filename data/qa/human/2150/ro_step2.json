@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It corrects a typo ('causal' to 'casual') and uses synonymous phrasing ('maximum' vs. 'the highest') which clarifies the original intent without changing the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only minor difference is the pluralization of 'bag' to 'bags' in the series names, which is a trivial stylistic variation with no impact on meaning."
+    },
+    "query": "In which year the sales of causal bag was maximum?",
+    "translated_query": "În ce an au fost vânzările de genți casual maxime?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

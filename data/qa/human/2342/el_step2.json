@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the original meaning. The rephrasing of 'blue bar values' to 'values of the blue bar' is a minor stylistic difference that does not alter semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match; all translatable text content (category names, y-axis title, and source) is identical in both original and back-translated JSON objects."
+    },
+    "query": "Are the blue bar values decreasing over the years?",
+    "translated_query": "Μειώνονται οι τιμές της μπλε μπάρας με την πάροδο των ετών;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

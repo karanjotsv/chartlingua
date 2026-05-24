@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, the title, and color hues are consistent with the original chart, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the students were white, but the pie chart shows a racially diverse student body, with only 75% being Caucasian. The remaining 25% is comprised of African American (13%), Hispanic (7%), and Asian (5%) students. Additionally, the chart does not provide any information about 'TCS' or the year '2009'."
+    },
+    "claim": "In this chart , The students at TCS K-8 in 2009 were white.",
+    "label": false
+}

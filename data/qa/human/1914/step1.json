@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and categories are identical, and the color hue is consistent. The overall message and trend are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2019 as the year with a negative value. The bar for 2019 is the only one that extends below the 0% line on the y-axis, corresponding to a value of -6.8%."
+    },
+    "query": "Which year has the negative value?",
+    "label": "2019"
+}

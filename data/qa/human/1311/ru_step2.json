@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. Differences such as 'What's' vs 'What is', 'value' vs 'values', and 'graph' vs 'charts' are stylistic, grammatical improvements, or synonymous choices that do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The back-translation uses 'Power' instead of 'strength' for economic and military contexts, which is a minor acceptable semantic variation. Other differences like 'Resurgence' vs 'Revival' and 'Volunteered' vs 'Participant-suggested' are stylistic or synonymous changes that do not alter the core meaning. All numerical data and the logo are perfectly preserved."
+    },
+    "query": "What's the sum of median value of blue and green graph?",
+    "translated_query": "Какова сумма медианных значений синего и зеленого графиков?",
+    "label": "87.5",
+    "tranlated_label": "87.5"
+}

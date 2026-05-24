@@ -1,0 +1,44 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Juli 2015",
+            "Sept. 2015"
+        ],
+        "series": [
+            {
+                "name": "Lehnen ab",
+                "values": [
+                    45,
+                    49
+                ]
+            },
+            {
+                "name": "Stimmen zu",
+                "values": [
+                    33,
+                    21
+                ]
+            },
+            {
+                "name": "Weiß nicht",
+                "values": [
+                    22,
+                    30
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Sinkende Unterstützung für das Iran-Atomabkommen",
+        "subtitle": "% derjenigen, die dem jüngsten Atomabkommen<br>zwischen dem Iran, den USA und anderen Nationen zustimmen/es ablehnen ...",
+        "source": "Umfrage durchgeführt vom 3. bis 7. Sept. 2015. Die Zahlen ergeben aufgrund<br>von Rundungen möglicherweise nicht 100 %.",
+        "brand": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b59e36",
+        "#e0c778"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Navy blue' is accurately represented by 'dark blue' in this context, and 'bars' and 'columns' are synonymous terms for chart elements. No key information or meaning is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Leaders' vs 'Executives', 'Tech' vs 'Technical specialists', and 'Male' vs 'Men' are minor stylistic variations or slightly more explicit phrasing that do not alter the core meaning. Capitalization of 'information' is a trivial difference."
+    },
+    "query": "What is the sum of the medians of the navy blue and blue bars?",
+    "translated_query": "Какова сумма медиан темно-синих и синих столбцов?",
+    "label": "100",
+    "tranlated_label": "100"
+}

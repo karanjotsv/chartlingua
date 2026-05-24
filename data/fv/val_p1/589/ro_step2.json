@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. It corrects the slightly awkward grammar of the original ('got highest value of') with more natural phrasing ('achieved') while preserving the meaning entirely."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is very good. All axis and legend titles are identical. The only minor difference is in one of the x-axis labels, where 'everyone' was back-translated as 'each'. These terms are close synonyms and the change does not significantly alter the meaning."
+    },
+    "claim": "Based on aggregation strategy, someone group got highest value of  proportion of useful feedback.",
+    "translated_claim": "Pe baza strategiei de agregare, grupul 'cineva' a obținut cea mai mare valoare a proporției de feedback util."
+}

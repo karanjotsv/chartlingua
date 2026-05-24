@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect match to the original. All data values (526.3 and -99.9), labels, titles, and the overall structure including error bars are identical. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows that Emissions in 2017 were 526.3 Mt, while Absorption by LULUCF was -99.9 Mt. The magnitude of emissions is substantially larger than the magnitude of absorption, which supports the claim that emissions are the major component."
+    },
+    "claim": "Emission is the major part for Green houses gases.",
+    "label": true
+}

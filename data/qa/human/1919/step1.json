@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and color hues are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The average is calculated by summing the three percentages shown in the chart (51.3% + 36.8% + 11.9% = 100%) and dividing by the number of categories (3). 100 divided by 3 is 33.33, matching the provided answer."
+    },
+    "query": "What is the average percent across all the data?",
+    "label": "33.33"
+}

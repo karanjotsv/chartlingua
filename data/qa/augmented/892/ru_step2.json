@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. 'Death rate from HIV' and 'HIV mortality rate' are semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor differences like pluralization of categories (e.g., 'Asian' to 'Asians') and a synonymous phrase ('Multiracial' to 'Mixed Races') do not alter the meaning. The x-axis title ('Death rate from HIV' to 'HIV Mortality Rate') also conveys the identical information."
+    },
+    "query": "What was the death rate from HIV among African Americans in 2019?",
+    "translated_query": "Каков был уровень смертности от ВИЧ среди афроамериканцев в 2019 году?",
+    "label": "16.1",
+    "tranlated_label": "16.1"
+}

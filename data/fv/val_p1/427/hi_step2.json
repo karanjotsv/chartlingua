@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. 'Shows' is synonymous with 'reflects' in this context, and 'flow' is a direct and common synonym for 'discharge' in a hydrological or similar context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation is mostly accurate, with 'Flow' being an acceptable synonym for 'Discharge' in the y-axis title and series names. However, there is a significant semantic error where 'Median daily statistic' was changed to 'Mean daily statistic'. Median and Mean are distinct statistical concepts, and this change represents a loss of key, accurate information."
+    },
+    "claim": "The blue line reflects the discharge.",
+    "translated_claim": "नीली रेखा प्रवाह को दर्शाती है।"
+}

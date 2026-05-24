@@ -1,0 +1,55 @@
+{
+    "chart_type": "subplots_pie",
+    "chart_data": [
+        {
+            "title": "Occupational History<br>1881",
+            "labels": [
+                "Professional",
+                "Domestic service or<br>offices",
+                "Agriculture",
+                "Aniamls",
+                "Unknow"
+            ],
+            "values": [
+                8,
+                18,
+                45,
+                5,
+                24
+            ],
+            "colors": [
+                "#5477B7",
+                "#C0504D",
+                "#9BBB59",
+                "#8064A2",
+                "#4BACC6"
+            ]
+        },
+        {
+            "title": "Occupational History<br>2001",
+            "labels": [
+                "Professional (and<br>assocated professional)",
+                "Agriculture",
+                "Ellementory Ocupation",
+                "Admission and<br>Secretorial Occupation"
+            ],
+            "values": [
+                29,
+                25,
+                29,
+                17
+            ],
+            "colors": [
+                "#5477B7",
+                "#C0504D",
+                "#9BBB59",
+                "#8064A2"
+            ]
+        }
+    ],
+    "texts": {
+        "main_title": null,
+        "subtitle": null,
+        "source": null
+    }
+}

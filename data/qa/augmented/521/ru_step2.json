@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the full semantic meaning of the original. The minor structural change ('What was the...company' vs. 'Which...company was the') does not alter the intent or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable texts is perfectly preserved. The only difference is 'EUR' vs 'euros' in the x-axis title, which is a stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "translated_query": "Какая телекоммуникационная компания была второй по прибыльности в странах Северной Европы?",
+    "label": "Telia Company AB",
+    "translated_label": "Телиа Компани АБ"
+}

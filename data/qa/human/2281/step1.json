@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, color hues, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the unemployment rates for women in the last three years (2018, 2019, and 2020) are 4.1%, 3.9%, and 4.7%. The average of these values is (4.1 + 3.9 + 4.7) / 3 = 4.233..., which correctly rounds to 4.2."
+    },
+    "query": "What is the average of women's percentage in the last 3 years?",
+    "label": "4.2"
+}

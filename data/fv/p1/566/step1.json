@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text content, and color hues are identical to the original, preserving the overall message and proportions accurately.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has significant visual flaws. The title is clipped at the top and severely overlaps with the labels for the smaller slices. The labels at the top of the chart are also overlapped with each other, making them difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Latin America has a value of 10%, but the pie chart clearly shows its value is 7%."
+    },
+    "claim": "Latin America has value 10% in the given chart. ",
+    "label": false
+}

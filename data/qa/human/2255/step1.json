@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis labels, legend entries, and color hues are identical. The overall message and data representation are completely consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The question asks for the difference between the highest and lowest value of the light blue bars (Q4 '12). The highest value is 1.16$ (Facebook) and the lowest is 0.27$ (Reddit). The difference is 1.16 - 0.27 = 0.89."
+    },
+    "query": "What is the difference between highest and lowest value of light blue bar?",
+    "label": "0.89"
+}

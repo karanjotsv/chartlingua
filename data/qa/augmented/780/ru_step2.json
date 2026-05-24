@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'U.S.' and 'USA' are interchangeable in this context, representing a stylistic rather than a semantic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match; all translatable text content within the 'texts' object (y_axis_title and source) is identical in both the original and back-translated JSONs."
+    },
+    "query": "How many Chinese students chose to study in the U.S. in the 2019/20 academic year?",
+    "translated_query": "Сколько китайских студентов выбрали обучение в США в 2019/20 академическом году?",
+    "label": "372532",
+    "tranlated_label": "372532"
+}

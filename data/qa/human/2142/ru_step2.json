@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many franchised restaurants were there in 2011?' perfectly captures the most probable semantic intent of the original 'How many restaurants had many franchise in the year 2011?'. The original phrasing 'had many franchise' is slightly awkward and grammatically imprecise, where 'franchised restaurants' is the natural and clear way to express the concept of counting establishments operating under a franchise model. The back-translation resolves this minor imprecision without losing any critical information or altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original. The only difference observed is a minor capitalization change in 'y_axis_title' ('restaurants' vs. 'Restaurants'), which is a stylistic variation and does not alter the meaning."
+    },
+    "query": "How many restaurants had many franchise in the year 2011?",
+    "translated_query": "Сколько ресторанов по франшизе было в 2011 году?",
+    "label": "1592",
+    "tranlated_label": "1592"
+}

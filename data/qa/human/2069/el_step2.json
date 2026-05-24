@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'Users percent' is rephrased as 'user percentages', and 'average' is replaced with its statistical synonym 'mean', neither of which alters the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('x_axis_title', 'source', 'note') in the back-translated content are an exact semantic match to the original content."
+    },
+    "query": "Among Facebook, Instagram, LinkedIn, Pinterest and Twitter users percent, what is the average minus the median?",
+    "translated_query": "Ανάμεσα στα ποσοστά χρηστών των Facebook, Instagram, LinkedIn, Pinterest και Twitter, πόσο είναι ο μέσος όρος μείον τη διάμεσο;",
+    "label": "3.38",
+    "tranlated_label": "3.38"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. It omits a significant amount of data and entire chart sections from the original, including the map, the life expectancy data, and one of the bar charts. While some individual chart elements are present, their labels are often missing or jumbled, and the overall infographic structure is completely lost, destroying the original's message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe visual flaws, primarily a completely broken layout where multiple charts and text labels are overlapped in the center of the image, making them unreadable and obscuring the data."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 11.5% of adults in Yorkshire and The Humber had no qualifications, but the chart does not contain the value 11.5% or any information regarding qualifications."
+    },
+    "claim": "As shown, Yorkshire and The Humber: 11.5% of adults had no qualifications in the chart ",
+    "label": true
+}

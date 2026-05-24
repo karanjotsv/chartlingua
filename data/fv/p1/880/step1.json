@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their corresponding labels, and the x/y-axis values are identical. The overall trend and message are perfectly preserved. The rendered chart adds a title, which provides context without altering the core data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of assemblies remained constant, but the bar chart clearly shows that the number changed every year, generally increasing from 73 in 1996 to 151 in 2010."
+    },
+    "claim": "The number of assemblies on Lords Day in Pingtung Holiness Church remained constant throughout the years",
+    "label": false
+}

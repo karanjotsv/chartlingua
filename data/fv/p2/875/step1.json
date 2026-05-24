@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and text labels are identical. Color hues are preserved, and the overall message about browser market share is the same. The exploded slice is a stylistic difference that does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the percentage distribution of web browser usage, with categories like 'Internet Explorer' and 'Google Chrome'. The claim refers to 'Donations above $250k' and 'revenue breakdown distribution in 2014-2015', which are subjects not depicted in the chart's data."
+    },
+    "claim": "Donations above $250k given by 20% of revenue breakdown distribution in 2014-2015.",
+    "label": "FALSE"
+}

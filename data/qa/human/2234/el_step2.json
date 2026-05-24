@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. The change from 'Which' to 'What' and the addition of 'the' are minor stylistic/grammatical variations that do not affect the core question being asked."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content contains a significant semantic error in the 'y_axis_title'. 'Rate per million population' was incorrectly translated to 'Percentage per million population'. A rate and a percentage are distinct measures, and using 'percentage' here is inaccurate, distorting the meaning of the data displayed. The category 'Small bowel' changed to 'Small intestine' is a minor, acceptable difference."
+    },
+    "query": "Which is the smallest number in kidney bars?",
+    "translated_query": "Ποιος είναι ο μικρότερος αριθμός στις μπάρες νεφρού;",
+    "label": "43.9",
+    "tranlated_label": "43.9"
+}

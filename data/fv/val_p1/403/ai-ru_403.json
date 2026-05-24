@@ -1,0 +1,115 @@
+{
+    "chart_type": "grouped_bar",
+    "colors": [
+        "#b68f6a",
+        "#5fa5a1"
+    ],
+    "texts": {
+        "title": "Диаграмма 2-11 Мировые инвестиции в недвижимость США, по странам",
+        "y_axis_title": "млрд долл. США",
+        "source": "Источник: Real Capital Analytics, по состоянию на 31 июля 2014 г.",
+        "legend_series": [
+            "36 месяцев",
+            "12 месяцев"
+        ],
+        "annotation_text": "Предыдущие 12 месяцев<br>в процентах от общего показателя за 3 года"
+    },
+    "chart_data": [
+        {
+            "category": "Канада",
+            "values": [
+                32.5,
+                15.5
+            ],
+            "annotation": "47%"
+        },
+        {
+            "category": "Китай",
+            "values": [
+                6.5,
+                3.8
+            ],
+            "annotation": "58%"
+        },
+        {
+            "category": "Германия",
+            "values": [
+                6.5,
+                2.5
+            ],
+            "annotation": "38%"
+        },
+        {
+            "category": "Япония",
+            "values": [
+                5.5,
+                3.5
+            ],
+            "annotation": "63%"
+        },
+        {
+            "category": "Швейцария",
+            "values": [
+                5.5,
+                1.2
+            ],
+            "annotation": "23%"
+        },
+        {
+            "category": "Израиль",
+            "values": [
+                5.2,
+                2.3
+            ],
+            "annotation": "44%"
+        },
+        {
+            "category": "Сингапур",
+            "values": [
+                5.0,
+                1.8
+            ],
+            "annotation": "36%"
+        },
+        {
+            "category": "Норвегия",
+            "values": [
+                4.5,
+                3.9
+            ],
+            "annotation": "86%"
+        },
+        {
+            "category": "Гонг<br>Конг",
+            "values": [
+                4.2,
+                2.5
+            ],
+            "annotation": "61%"
+        },
+        {
+            "category": "Южная<br>Корея",
+            "values": [
+                4.0,
+                1.1
+            ],
+            "annotation": "27%"
+        },
+        {
+            "category": "Австралия",
+            "values": [
+                3.5,
+                2.2
+            ],
+            "annotation": "62%"
+        },
+        {
+            "category": "Бермуды",
+            "values": [
+                2.0,
+                2.0
+            ],
+            "annotation": "100%"
+        }
+    ]
+}

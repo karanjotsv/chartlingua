@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent with the original. While the general shapes of some data lines are preserved, the mapping between the data series and their corresponding labels in the legend is severely scrambled. For example, the data for 'MD' (originally red) is now associated with the legend entry for 'EU' (cyan), and the data for 'CA' (originally black) is now associated with the legend entry for 'CK'. This makes the chart highly misleading and fundamentally alters its interpretation. Furthermore, many of the data points clustered near the y-axis in the original chart are missing in the rendered version.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the chart's legend, which clearly labels the red line as 'KW' and provides the associated value of '81.3'."
+    },
+    "claim": "KW percent is red and is 81.3 percent.",
+    "label": "TRUE"
+}

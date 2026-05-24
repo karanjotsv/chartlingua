@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent replication of the original. It correctly represents the chart type, title, axis labels, data categories in the correct order, and the proportional values of each bar. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data for four categories of offenses: 'Assault without injury', 'ABH and other injury', 'Inflicting GBH or wounding without intent', and 'Inflicting GBH or wounding with intent'. The chart does not contain any information or data related to 'Homicide'."
+    },
+    "claim": "Homicide is the bulk common non-fatal offense against the person in England and Wales.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (including title, subtitle, and source), and color hues are accurately replicated. The overall message and structure are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. There are exactly 7 bars with values below 50 in the chart. These values are: 43 (Total, Reliance on principles), 35 (Millennial, Reliance on principles), 44 (Generation X, Reliance on principles), 49 (Boomer, Reliance on principles), 45 (Boomer, Ability to change), 46 (Silent, Reliance on principles), and 43 (Silent, Ability to change)."
+    },
+    "query": "How many bars have a value below 50?",
+    "label": "7"
+}

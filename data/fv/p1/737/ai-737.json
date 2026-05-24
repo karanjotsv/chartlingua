@@ -1,0 +1,243 @@
+{
+    "chart_type": "infographic_pie",
+    "background_color": "#E9F1FA",
+    "texts": {
+        "title": "Relationships between the<br>Synoptic Gospels"
+    },
+    "pie_charts": [
+        {
+            "name": "MARK",
+            "values": [
+                18,
+                76,
+                3,
+                3
+            ],
+            "colors": [
+                "#b52424",
+                "#800080",
+                "#696969",
+                "#8B572A"
+            ],
+            "domain": {
+                "x": [
+                    0.28,
+                    0.72
+                ],
+                "y": [
+                    0.56,
+                    0.92
+                ]
+            },
+            "rotation": -70,
+            "center_label": {
+                "text": "<b>MARK</b><br>76%",
+                "x": 0.5,
+                "y": 0.74,
+                "size": 26
+            }
+        },
+        {
+            "name": "LUKE",
+            "values": [
+                41,
+                1,
+                35,
+                23
+            ],
+            "colors": [
+                "#800080",
+                "#696969",
+                "#008080",
+                "#00008B"
+            ],
+            "domain": {
+                "x": [
+                    0.0,
+                    0.5
+                ],
+                "y": [
+                    0.0,
+                    0.44
+                ]
+            },
+            "rotation": 90,
+            "center_label": {
+                "text": "<b>LUKE</b><br>41%",
+                "x": 0.25,
+                "y": 0.22,
+                "size": 26
+            }
+        },
+        {
+            "name": "MATT.",
+            "values": [
+                45,
+                10,
+                20,
+                25
+            ],
+            "colors": [
+                "#800080",
+                "#b52424",
+                "#006400",
+                "#00008B"
+            ],
+            "domain": {
+                "x": [
+                    0.5,
+                    1.0
+                ],
+                "y": [
+                    0.0,
+                    0.44
+                ]
+            },
+            "rotation": 90,
+            "center_label": {
+                "text": "<b>MATT.</b><br>45%",
+                "x": 0.75,
+                "y": 0.22,
+                "size": 26
+            }
+        }
+    ],
+    "annotations": [
+        {
+            "text": "Unique to<br>Mark",
+            "x": 0.5,
+            "y": 1.0,
+            "bgcolor": "#8B572A"
+        },
+        {
+            "text": "Mark and<br>Matthew",
+            "x": 0.97,
+            "y": 0.7,
+            "bgcolor": "#b52424"
+        },
+        {
+            "text": "Mark and<br>Luke",
+            "x": 0.03,
+            "y": 0.7,
+            "bgcolor": "#696969"
+        },
+        {
+            "text": "Triple<br>Tradition",
+            "x": 0.5,
+            "y": 0.5,
+            "bgcolor": "#800080"
+        },
+        {
+            "text": "Double<br>Tradition",
+            "x": 0.5,
+            "y": 0.0,
+            "bgcolor": "#00008B"
+        },
+        {
+            "text": "Unique to<br>Luke",
+            "x": 0.05,
+            "y": -0.05,
+            "bgcolor": "#008080"
+        },
+        {
+            "text": "Unique to<br>Matthew",
+            "x": 0.95,
+            "y": -0.05,
+            "bgcolor": "#006400"
+        },
+        {
+            "text": "1%",
+            "x": 0.1,
+            "y": 0.35,
+            "bgcolor": "rgba(233, 241, 250, 0.8)",
+            "font_color": "black",
+            "borderpad": 1
+        }
+    ],
+    "shapes": [
+        {
+            "type": "line",
+            "x0": 0.5,
+            "y0": 0.69,
+            "x1": 0.5,
+            "y1": 0.58,
+            "color": "#404040"
+        },
+        {
+            "type": "line",
+            "x0": 0.45,
+            "y0": 0.5,
+            "x1": 0.35,
+            "y1": 0.44,
+            "color": "#404040"
+        },
+        {
+            "type": "line",
+            "x0": 0.55,
+            "y0": 0.5,
+            "x1": 0.65,
+            "y1": 0.44,
+            "color": "#404040"
+        },
+        {
+            "type": "line",
+            "x0": 0.35,
+            "y0": 0.12,
+            "x1": 0.45,
+            "y1": 0.08,
+            "color": "#404040"
+        },
+        {
+            "type": "line",
+            "x0": 0.65,
+            "y0": 0.12,
+            "x1": 0.55,
+            "y1": 0.08,
+            "color": "#404040"
+        },
+        {
+            "type": "path",
+            "path": "M 0.97 0.65 V 0.75 H 0.71",
+            "color": "#b52424"
+        },
+        {
+            "type": "path",
+            "path": "M 0.97 0.65 V 0.3 H 0.85",
+            "color": "#b52424"
+        },
+        {
+            "type": "path",
+            "path": "M 0.03 0.65 V 0.75 H 0.29",
+            "color": "#696969"
+        },
+        {
+            "type": "path",
+            "path": "M 0.03 0.65 V 0.3 H 0.15",
+            "color": "#696969"
+        },
+        {
+            "type": "line",
+            "x0": 0.05,
+            "y0": -0.05,
+            "x1": 0.18,
+            "y1": 0.07,
+            "color": "#008080"
+        },
+        {
+            "type": "line",
+            "x0": 0.95,
+            "y0": -0.05,
+            "x1": 0.82,
+            "y1": 0.07,
+            "color": "#006400"
+        },
+        {
+            "type": "line",
+            "x0": 0.5,
+            "y0": 0.92,
+            "x1": 0.5,
+            "y1": 0.95,
+            "color": "#8B572A"
+        }
+    ]
+}

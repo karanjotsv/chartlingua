@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, text content (title, labels), and color hues for all categories are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that 'natural gas' is the largest source of electricity generation at 48.8%, which is greater than the share of any other source shown."
+    },
+    "claim": "Natural gas is the primary source of electricity generation for Connecticut.",
+    "label": true
+}

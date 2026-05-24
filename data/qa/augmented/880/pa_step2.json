@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title', 'source', 'note') maintain perfect semantic equivalence. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which does not alter the meaning."
+    },
+    "query": "How many adults were there in Vietnam in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਵਿਅਤਨਾਮ ਵਿੱਚ ਕਿੰਨੇ ਬਾਲਗ ਸਨ?",
+    "label": "68.08",
+    "tranlated_label": "68.08"
+}

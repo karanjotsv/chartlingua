@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, colors, and the overall trend are accurately reproduced. The key message about UK debt catching up to the Eurozone average is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the UK's government debt has decreased since 2011, but the chart clearly shows an increase from 84% in 2011 to 99% in 2015."
+    },
+    "claim": "The UK's government debt has decreased since 2011.",
+    "label": "FALSE"
+}

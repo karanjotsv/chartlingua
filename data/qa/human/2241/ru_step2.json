@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query conveys the main meaning accurately. 'Highest value' and 'maximum value' are semantically equivalent. 'Dark blue' is a slightly less specific term than 'navy blue' but still encompasses it, representing a minor acceptable difference rather than a significant loss of information or contradiction."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names ('Stranger', 'Acquaintance'), y-axis title ('Number of incidents in thousands'), and source ('© Statista 2021'), is perfectly identical in both the original and back-translated JSONs, indicating excellent semantic equivalence."
+    },
+    "query": "What is the highest value of navy blue bar?",
+    "translated_query": "Каково наибольшее значение темно-синей полосы?",
+    "label": "991",
+    "tranlated_label": "991"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON equivalence is good. The 'y_axis_title' maintains its core meaning, with 'Transport volume' becoming 'Volume of freight transport', which is semantically very close. The change from 'tonne-kilometers' to 'ton-kilometers' is a minor variation in unit terminology; while 'tonne' specifically refers to a metric ton, 'ton' can be more general, introducing a slight, acceptable loss of specificity without significantly distorting the overall meaning of the measurement for a chart label."
+    },
+    "query": "What was Turkey's road freight transport volume in 2019?",
+    "translated_query": "ਤੁਰਕੀ ਦੀ ਸੜਕੀ ਮਾਲ ਢੋਆ-ਢੁਆਈ ਦੀ ਮਾਤਰਾ 2019 ਵਿੱਚ ਕੀ ਸੀ?",
+    "label": "267579",
+    "tranlated_label": "267579"
+}

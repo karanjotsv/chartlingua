@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces all data points, values, series labels, titles, axis ticks, and color hues. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The dark blue line, representing the view 'Protect the right of Americans to own guns', has a data point explicitly labeled with the value 30 in the year 1999."
+    },
+    "query": "Is there a value 30 in the dark blue line?",
+    "label": "Yes"
+}

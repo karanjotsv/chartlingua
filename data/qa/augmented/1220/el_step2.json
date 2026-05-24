@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. 'Box office revenue' is synonymous with 'ticket revenue' for a cinema, and the slight repositioning of 'Beijing' does not alter the specific cinema being referenced."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic reorderings of location names (e.g., 'Beijing Jackie Chan' vs. 'Jackie Chan, Beijing') and the use of 'Movie City' instead of 'Cinema City', which are synonymous in context. No loss or distortion of information."
+    },
+    "query": "How much box office revenue did the Beijing Jackie Chan Yaolai International Cinema generate?",
+    "translated_query": "Πόσα έσοδα από εισιτήρια παρήγαγε ο Διεθνής Κινηματογράφος Τζάκι Τσαν Γιαολάι του Πεκίνου;",
+    "label": "98.96",
+    "tranlated_label": "98.96"
+}

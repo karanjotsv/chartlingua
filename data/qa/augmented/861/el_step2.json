@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Season' versus 'period' for the specified year range (2005/06) is a minor stylistic difference and does not alter the semantic intent of asking for the average ticket price during that time."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text is perfectly preserved. The only difference is 'U.S.' versus 'US' in the y-axis title, which is a minor, acceptable stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the average ticket price in the 2005/06 season?",
+    "translated_query": "Ποια ήταν η μέση τιμή εισιτηρίου την περίοδο 2005/06;",
+    "label": "28.23",
+    "tranlated_label": "28.23"
+}

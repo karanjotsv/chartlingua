@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart accurately reproduces all key semantic elements of the original, including the data trends for both series, axis labels, titles, and color-coding. The core message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe layout issues. The x-axis labels are completely overlapped and unreadable. The y-axis labels are rendered vertically with large letter spacing, making them difficult to read. The overall aspect ratio is excessively compressed horizontally."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the blue color represents the area harvested, but the chart's legend and visual representation show that the green dotted line represents 'Area Harvested' (作付面積)."
+    },
+    "claim": "Blue colour is used to represent area harvested in the given chart. ",
+    "label": false
+}

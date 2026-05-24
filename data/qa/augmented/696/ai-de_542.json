@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": [
+                "2017",
+                "2018",
+                "2019*",
+                "2020 vor<br>dem Coronavirus**",
+                "2020 nach<br>dem Coronavirus**"
+            ],
+            "y": [
+                48.5,
+                50,
+                50,
+                51,
+                29
+            ],
+            "name": "Besucher"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Besucher in Millionen",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#3182bd"
+    ]
+}

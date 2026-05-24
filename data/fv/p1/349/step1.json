@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart correctly reproduces the data proportions and color hues for each slice. However, it completely omits all data labels, making it impossible to understand what each slice represents. It also adds a title and subtitle not present in the original, fundamentally changing the information conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the geographical distribution of bilingual Canadians across several regions, with one region clearly making up almost half of the total. However, the chart lacks a legend or labels to identify which slice corresponds to which specific geographical area, such as Quebec. Therefore, it is impossible to verify the claim using only the provided chart."
+    },
+    "claim": "Almost half of bilingual Canadians are in Quebec.",
+    "label": true
+}

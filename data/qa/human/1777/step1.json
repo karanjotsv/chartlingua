@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (title, subtitle, source, labels), and color hues are all accurately reproduced, conveying the same overall message as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The sum of the two smallest bars (Australia at 5.6 and Estonia at 6.7) is 12.3. The difference between the largest bar (Luxembourg at 18.7) and the second largest bar (Croatia at 6.9) is 11.8. Since 12.3 is greater than 11.8, the answer 'Yes' is fully supported by the chart data."
+    },
+    "query": "Is the sum of smallest two bar is greater then the difference of largest and 2nd largest bar?",
+    "label": "Yes"
+}

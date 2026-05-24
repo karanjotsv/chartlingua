@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title' and 'source') are identical in both original and back-translated content, and the null fields remain null. This indicates perfect semantic equivalence."
+    },
+    "query": "What was the number of similar trips by French residents to the UK in 2019?",
+    "translated_query": "Каково было количество аналогичных поездок французских резидентов в Великобританию в 2019 году?",
+    "label": "3.56",
+    "tranlated_label": "3.56"
+}

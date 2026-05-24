@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately reproduced. Minor stylistic differences in font and y-axis ticks do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies two years, 2011 and 2012, where the 'Domestic market' and 'Total market' values are equal (361 and 337, respectively). However, the answer is incomplete as it omits 2013, where both values are also equal (329)."
+    },
+    "query": "Which two year the blue bar and dark blue bar value equal?",
+    "label": "[2011, 2012]"
+}

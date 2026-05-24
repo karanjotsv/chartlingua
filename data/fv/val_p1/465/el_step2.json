@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim uses 'income inequality' instead of 'income disparity', which are semantically equivalent in this context and do not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title 'disparity' vs 'inequality' is semantically equivalent. Minor grammatical corrections like 'Peoples' to 'People' are acceptable. The change from 'by' to 'from' in some annotations is a minor difference in nuance, but the core information about wealth distribution remains accurately conveyed."
+    },
+    "claim": "The wealth of rich people is the lowest percentage of income disparity in Malaysia.",
+    "translated_claim": "Ο πλούτος των πλούσιων ανθρώπων είναι το χαμηλότερο ποσοστό της ανισότητας εισοδήματος στη Μαλαισία."
+}

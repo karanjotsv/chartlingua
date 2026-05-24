@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data points, categories, titles, and axis labels are semantically identical. The color hues for 'Political left', 'Political right', and 'Political center' are consistent. The legend, while stylistically different, conveys the exact same information and meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change in various countries. It contains no information about bilingualism, Quebec, or ROC (Rest of Canada)."
+    },
+    "claim": "The rates of bilingualism in Quebec are higher than the rates for ROC.",
+    "label": "TRUE"
+}

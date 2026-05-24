@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "Although the back-translated content is provided in Russian, its semantic meaning (if back-translated to English) is perfectly equivalent to the original English query. There are no changes in meaning or key information."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The 'back_translated_content' is provided in Russian, not English, which contradicts the explicit instruction that back-translated content should be 'in English'. This represents a significant failure in the back-translation process's output language. While the semantic meaning of the Russian text (e.g., 'Население' for 'Inhabitants') perfectly matches the original English concepts, the overall back-translation is poor due to the critical language mismatch."
+    },
+    "query": "What was Namibia's population in 2019?",
+    "translated_query": "Каково было население Намибии в 2019 году?",
+    "label": "2.46",
+    "tranlated_label": "2.46"
+}

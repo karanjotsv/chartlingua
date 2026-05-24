@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. The minor difference between 'at average performance metrics' and 'in the average performance measurements' is a stylistic variation without any change in semantic content or critical information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most translatable texts, including the chart title, subtitle, and the majority of series names, show good semantic equivalence. Minor differences like 'Jan 12' to 'Sun 12' (which is factually correct for the date) and 'meantime' to 'average time' are acceptable synonyms or stylistic choices. However, the translation of 'gender-fetch' to 'file retrieval' for two series represents a significant loss of specific detail and accuracy, misrepresenting the nature of those particular metrics."
+    },
+    "claim": "The highest point at average performance metrics is above 3K.",
+    "translated_claim": "Το υψηλότερο σημείο στις μέσες μετρήσεις απόδοσης είναι πάνω από 3K."
+}

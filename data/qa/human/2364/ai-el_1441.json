@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "x_values": [
+            "2018"
+        ],
+        "series": [
+            {
+                "name": "Γάτα",
+                "y_values": [
+                    12000
+                ]
+            },
+            {
+                "name": "Σκύλος*",
+                "y_values": [
+                    11750
+                ]
+            },
+            {
+                "name": "Κουνέλι**",
+                "y_values": [
+                    7750
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Εκτιμώμενο κόστος σε χιλιάδες GBP",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E7FDB",
+        "#122A40",
+        "#C0C0C0"
+    ]
+}

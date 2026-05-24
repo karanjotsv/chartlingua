@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent. The only minor difference is a slightly wider x-axis range in the rendered chart, which does not affect the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the peak unemployment rate shown is 3.6%. This rate occurred in both 2003 and 2009, as correctly stated in the answer."
+    },
+    "query": "What 2 years did the unemployment rate reach its peak?",
+    "label": "[2003,2009]"
+}

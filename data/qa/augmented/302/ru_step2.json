@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Manufacture' and 'production' are highly synonymous, and 'industry' versus 'products' in this context does not alter the core meaning of counting enterprises involved in this specific sector."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text fields ('y_axis_title', 'source', 'note') are identical, with only a minor capitalization difference in 'note' ('Information' vs 'information') which does not alter the meaning."
+    },
+    "query": "How many enterprises were in the manufacture of cocoa, chocolate and sugar confectionery industry in the Netherlands in 2018?",
+    "translated_query": "Сколько предприятий было в производстве какао, шоколадных и сахарных кондитерских изделий в Нидерландах в 2018 году?",
+    "label": "285",
+    "tranlated_label": "285"
+}

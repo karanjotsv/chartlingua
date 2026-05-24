@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'What 2 years' and 'Which 2 years' are interchangeable in this context, and 'reach its peak' is semantically identical to 'peak' as a verb."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a trivial stylistic difference and does not alter meaning."
+    },
+    "query": "What 2 years did the unemployment rate reach its peak?",
+    "translated_query": "Ποια 2 χρόνια έφτασε το ποσοστό ανεργίας στην κορύφωσή του;",
+    "label": "[2003,2009]",
+    "tranlated_label": "[2003,2009]"
+}

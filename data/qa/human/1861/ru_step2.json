@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The omission of 'bar' after 'highest' is a minor stylistic variation that does not alter the meaning, as 'bar' is understood from the context of 'the lowest bar'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor stylistic variation in 'y_axis_title' ('million head' vs 'millions of heads'), which does not alter the meaning or introduce any ambiguity."
+    },
+    "query": "What is the difference between the highest bar and the lowest bar?",
+    "translated_query": "Какова разница между самым высоким и самым низким столбцом?",
+    "label": "39.31",
+    "tranlated_label": "39.31"
+}

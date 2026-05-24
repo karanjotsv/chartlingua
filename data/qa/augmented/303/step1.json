@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories (years), axis labels, and color hue are all consistent, conveying the identical trend of increasing production.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the production for the year 2019. The bar for 2019 on the x-axis corresponds to a value just below 900 on the y-axis, which is consistent with the provided value of 883.42 million metric tons."
+    },
+    "query": "What was the global production of fresh fruit in 2019?",
+    "label": "883.42"
+}

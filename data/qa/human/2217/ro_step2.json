@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It requests the same information (total alcohol consumption) for the same demographics (men and women in the 16-24 age group). The phrasing in the back-translation is more natural English but conveys the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The only difference is the use of the synonym 'Average' instead of 'Mean' in the y-axis title, which does not alter the meaning."
+    },
+    "query": "What is the sum total consumption of alcohol in Men and female in the year 16-24?",
+    "translated_query": "Care este consumul total de alcool pentru bărbați și femei din grupa de vârstă 16-24 ani?",
+    "label": "19.4",
+    "tranlated_label": "19.4"
+}

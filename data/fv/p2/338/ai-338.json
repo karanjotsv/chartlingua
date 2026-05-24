@@ -1,0 +1,57 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "legend_label": "Under $10",
+            "pie_label": "Under $10",
+            "value": 18
+        },
+        {
+            "legend_label": "$10-$30",
+            "pie_label": "$10-$30",
+            "value": 35
+        },
+        {
+            "legend_label": "$30-$50",
+            "pie_label": "$30-$50",
+            "value": 9
+        },
+        {
+            "legend_label": "$50-$100",
+            "pie_label": "$50 - $100",
+            "value": 12
+        },
+        {
+            "legend_label": "$100-$1,000",
+            "pie_label": "$100 - $1,000",
+            "value": 12
+        },
+        {
+            "legend_label": "$1,000-$250k",
+            "pie_label": "$1,000 -<br>$250,000",
+            "value": 8
+        },
+        {
+            "legend_label": "More than $250k",
+            "pie_label": "More than<br>$250k",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#EDF3F1",
+        "#D9E9E5",
+        "#B8D5CF",
+        "#8FB9B0",
+        "#56998B",
+        "#2E7967",
+        "#115B4B"
+    ]
+}

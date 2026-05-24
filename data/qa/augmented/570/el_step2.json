@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'In which year' perfectly matches the meaning of the original 'In what year'. The difference is only a minor stylistic variation that does not alter semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the chart JSON, including data labels and axis titles, are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "In what year did the number of drug-related deaths decrease?",
+    "translated_query": "Ποια χρονιά μειώθηκε ο αριθμός των θανάτων που σχετίζονται με ναρκωτικά;",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

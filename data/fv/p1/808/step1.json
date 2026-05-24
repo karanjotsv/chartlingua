@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, axis labels), and color-to-series mappings are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis labels are severely overlapped and poorly wrapped, making them very difficult to read and distinguish from one another. This is a significant layout issue that hinders chart interpretation."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows zero female workers in the Agriculture sector, while the number of male workers is approximately 50. Therefore, the claim that the numbers were equal is incorrect."
+    },
+    "claim": "There were equal number of female workers as male workers employed in the Agriculture sector in Belstead in 1881.",
+    "label": false
+}

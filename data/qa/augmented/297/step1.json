@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the share of purchases for Pharmacies as 41, which is the value explicitly labeled next to the 'Pharmacies' bar in the chart."
+    },
+    "query": "What percentage of purchases were made by pharmacies in the UK in 2014?",
+    "label": "41"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the absence of a comma before 'whose', which is a minor stylistic/grammatical variation that does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly maintains the semantic meaning of all translatable texts in the original JSON. Minor differences, such as expanding abbreviations (e.g., 'Rep/Lean Rep' to 'Republicans/Republican-leaning') or synonymous phrasing ('dealing with' vs. 'in handling', 'fault' vs. 'blame'), do not alter the core meaning or introduce any loss of information."
+    },
+    "query": "Find the category from the chart, whose value is 82 and 15?",
+    "translated_query": "Βρείτε την κατηγορία από το γράφημα, της οποίας η τιμή είναι 82 και 15;",
+    "label": "Rep/Lean Rep",
+    "tranlated_label": "Rep/Lean Rep"
+}

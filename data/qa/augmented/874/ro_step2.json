@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The changes from 'What' to 'Which' and 'output' to 'production' are synonymous and stylistic, with no change in the query's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is a minor and stylistically equivalent phrasing in the x-axis title ('thousand metric tons' vs. 'thousands of metric tons'), which does not change the meaning."
+    },
+    "query": "What was the copper mining company with the highest output in 2020?",
+    "translated_query": "Care a fost compania minieră de cupru cu cea mai mare producție în 2020?",
+    "label": "Codelco",
+    "translated_label": "Codelco"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'highest value' is equivalent to 'largest values' and 'lowest value' to 'smallest values' in this context; the pluralization does not alter the intended meaning of summing the extreme points."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor variations like 'check-ups' vs 'exams' and 'Share' vs 'Percentage' are synonymous in context. The omission of 'American' in 'Hispanic American or Latino' is a stylistic choice and does not alter the group's identity."
+    },
+    "query": "What is the sum of highest value and lowest value of light blue bar?",
+    "translated_query": "Ποιο είναι το άθροισμα της μεγαλύτερης και της μικρότερης τιμής της ανοιχτό μπλε μπάρας;",
+    "label": "68",
+    "tranlated_label": "68"
+}

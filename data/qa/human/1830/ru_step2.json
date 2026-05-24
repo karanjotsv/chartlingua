@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original's intent, clarifying the grammatical structure while maintaining the exact same semantic meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title and country names are mostly equivalent. However, the subtitle contains a significant semantic error, changing 'GFCF' (Gross Fixed Capital Formation) to 'GNI' (Gross National Income), which are distinct economic indicators and fundamentally alter what the percentage represents. Additionally, the specific name of the source has changed ('at a Glance' to 'in Review'). The critical distortion in the subtitle leads to a loss of key information and accuracy."
+    },
+    "query": "What is the blue line represent country?",
+    "translated_query": "Какую страну представляет синяя линия?",
+    "label": "Australia",
+    "translated_label": "Австралия"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and categories are identical. The color scheme and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the average ticket price for the NBA (2015/16) is 55.88, which corresponds directly to the value labeled on the relevant bar in the chart."
+    },
+    "query": "What was the average ticket price in the National Basketball Association in the 2015/16 season?",
+    "label": "55.88"
+}

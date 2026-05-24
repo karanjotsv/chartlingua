@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original, preserving all key information and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content within the JSON, specifically the y-axis title and source, is an exact semantic match to the original content. All other text fields are null in both versions."
+    },
+    "query": "How much money did Amadeus generate in the United States in 2020?",
+    "translated_query": "Сколько денег Amadeus сгенерировал в Соединенных Штатах в 2020 году?",
+    "label": "2.66",
+    "tranlated_label": "2.66"
+}

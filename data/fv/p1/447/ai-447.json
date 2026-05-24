@@ -1,0 +1,159 @@
+{
+    "chart_type": "composite",
+    "texts": {
+        "main_title": "Responsibility and Irresponsibility",
+        "subplot_titles": [
+            "(a) 2005 CO₂ Emissions",
+            "(b) 1750-2005 CO₂ Emissions",
+            "(c) 2005 Global Warming"
+        ],
+        "bar_chart_description": "(d) 2003 Per Capita Fossil Fuel CO₂ Emissions (10³kg Carbon/year/person) Ordered in Terms of Total Emissions",
+        "y_axis_title": null,
+        "source": null
+    },
+    "chart_data": {
+        "pie_a": {
+            "labels": [
+                "U.S.A.",
+                "CanAus",
+                "Ships/Air",
+                "Rest of World",
+                "Rest of Europe",
+                "U.K.",
+                "Grm.",
+                "Japan",
+                "India",
+                "Russia",
+                "China"
+            ],
+            "values": [
+                20.5,
+                3.3,
+                5.0,
+                21.4,
+                12.4,
+                2.7,
+                2.7,
+                4.4,
+                4.9,
+                5.4,
+                18.0
+            ]
+        },
+        "pie_b": {
+            "labels": [
+                "U.S.A.",
+                "CanAus",
+                "Ships/Air",
+                "Rest of World",
+                "Rest of Europe",
+                "India",
+                "Japan",
+                "U.K.",
+                "Germany",
+                "Russia",
+                "China"
+            ],
+            "values": [
+                27.8,
+                3.0,
+                4.0,
+                12.5,
+                18.3,
+                2.4,
+                3.9,
+                6.1,
+                6.7,
+                7.5,
+                7.8
+            ]
+        },
+        "pie_c": {
+            "labels": [
+                "U.S.A.",
+                "CanAus",
+                "Ships/Air",
+                "Rest of World",
+                "Rest of Europe",
+                "India",
+                "Japan",
+                "U.K.",
+                "Germany",
+                "Russia",
+                "China"
+            ],
+            "values": [
+                27.5,
+                3.1,
+                4.0,
+                12.7,
+                18.4,
+                2.3,
+                4.0,
+                5.8,
+                6.6,
+                7.6,
+                7.8
+            ]
+        },
+        "bar_d": {
+            "categories": [
+                "U.S.A.",
+                "China",
+                "Russia",
+                "India",
+                "Japan",
+                "Germany",
+                "Canada",
+                "U. Kingdom",
+                "S. Korea",
+                "Italy",
+                "Mexico",
+                "Iran",
+                "France",
+                "S. Africa",
+                "Australia"
+            ],
+            "values": [
+                5.5,
+                0.9,
+                2.8,
+                0.3,
+                2.6,
+                2.7,
+                4.9,
+                2.5,
+                2.6,
+                2.1,
+                1.2,
+                1.6,
+                1.7,
+                2.2,
+                4.9
+            ]
+        }
+    },
+    "colors": {
+        "U.S.A.": "#95B3D7",
+        "China": "#C00000",
+        "Russia": "#8B0000",
+        "India": "#EAF0B0",
+        "Japan": "#DDA0DD",
+        "Grm.": "#B7DEE8",
+        "Germany": "#C9C9C9",
+        "U.K.": "#D8BFD8",
+        "Rest of Europe": "#92D050",
+        "Rest of World": "#B7B7B7",
+        "Ships/Air": "#FFFFFF",
+        "CanAus": "#FFC000",
+        "Canada": "#FFC000",
+        "U. Kingdom": "#DDA0DD",
+        "S. Korea": "#C9C9C9",
+        "Italy": "#B6D7A8",
+        "Mexico": "#D3D3D3",
+        "Iran": "#C0C0C0",
+        "France": "#B6D7A8",
+        "S. Africa": "#BEBEBE",
+        "Australia": "#FFC000"
+    }
+}

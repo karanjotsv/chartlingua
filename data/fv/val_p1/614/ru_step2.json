@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The original statement refers to 'the high value', which implies a value that is high relative to others but not necessarily the absolute maximum. The back-translated statement uses 'the highest value', which is a definitive superlative. This change in specificity and degree alters the semantic meaning and can affect the truth value of the statement in different contexts, thus losing some nuance from the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON, specifically the 'x_axis_title' and 'y_axis_title', are identical to the original content. Other text fields are null in both, indicating perfect semantic equivalence."
+    },
+    "claim": "The high value in the chart is represented by the last bar.",
+    "translated_claim": "Высокое значение на графике представлено последним столбцом."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is missing labels and percentages for three categories present in the original: 'Special State Funds 5%', 'Public Improvements Fund 1%', and 'Other funds 2%'. While the major slices are correctly represented, this omission makes the chart incomplete.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the 2011 budget, but the chart is explicitly titled '2012 Budget of Puerto Rico'."
+    },
+    "claim": "The largest expense in the 2011 budget of the Government of Puerto Rico was for General Fund and Government-owned corporations equally.",
+    "label": true
+}

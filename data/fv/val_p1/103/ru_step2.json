@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The key term 'embezzlement' was inaccurately translated to the broader term 'larceny'. While related, they are distinct legal definitions of crime, altering the specific subject of the query significantly."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While the X-axis title and data structure are perfectly matched, the main title loses specificity by changing 'Embezzlement' to the broader term 'larceny'. This constitutes a loss of an important detail regarding the specific type of crime the chart represents. The y-axis title has a minor stylistic difference ('arrested' vs 'of arrests', and adding 'people') but retains the core meaning."
+    },
+    "claim": "The chart shows the number of male arrests for embezzlement in the United States by age group in 2014.",
+    "translated_claim": "Диаграмма показывает количество арестов мужчин за хищение в Соединенных Штатах по возрастным группам в 2014 году."
+}

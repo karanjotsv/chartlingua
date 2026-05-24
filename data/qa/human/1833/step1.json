@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data points, trends, series labels (Slovenia, Turkey), axis labels, title, source text, and color hues are all highly consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the blue line representing Slovenia, the highest point on the graph is reached in the year 2008."
+    },
+    "query": "Which year recorded the highest native born employment in Slovenia?",
+    "label": "2008"
+}

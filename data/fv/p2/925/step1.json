@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, proportions, labels, axes, colors, and the overall trend of increasing DMFT/DMFS with age are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart presents data on dental health metrics (DMFT and DMFS) across different age groups. The claim is about climate change, a topic that is not mentioned or represented in the chart."
+    },
+    "claim": "Climate change is perceive a threat political global.",
+    "label": "TRUE"
+}

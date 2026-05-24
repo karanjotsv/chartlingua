@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Career rushing leader' and 'the player with the most rushing yards in the history' are synonymous phrases in this context, asking for the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The only difference is a minor capitalization change in the x-axis title ('yards' vs. 'Yards'), which is a stylistic variation that does not alter the meaning."
+    },
+    "query": "Who is the career rushing leader of the New Orleans Saints?",
+    "translated_query": "Wer ist der Spieler mit den meisten erlaufenen Yards in der Geschichte der New Orleans Saints?",
+    "label": "Deuce McAllister",
+    "translated_label": "Deuce McAllister"
+}

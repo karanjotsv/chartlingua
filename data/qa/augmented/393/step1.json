@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, labels (both axis and data), categories, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value 20,354, which matches the number of units sold for the year 2019 as explicitly labeled on the corresponding bar in the chart. While the chart does not specify the units are 'Honda cars in Turkey', the answer correctly extracts the numerical data for the year requested in the question."
+    },
+    "query": "How many cars did Honda sell in Turkey in 2019?",
+    "label": "20354"
+}

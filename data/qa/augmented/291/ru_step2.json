@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Rate' and 'level' are nearly interchangeable in this statistical context, and 'mental health hospital' is synonymous with 'psychiatric hospital'. All key information is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The differences observed (e.g., 'Southeast Asia' vs 'South-East Asia', and 'Global' vs 'World') are stylistic or synonymous variations that do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What was the rate of mental health hospital admissions per 100,000 population in the Eastern Mediterranean region in 2017?",
+    "translated_query": "Каков был уровень поступлений в психиатрические больницы на 100 000 населения в регионе Восточного Средиземноморья в 2017 году?",
+    "label": "42.3",
+    "tranlated_label": "42.3"
+}

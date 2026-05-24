@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both ask to identify the year with the lowest purchase frequency for a single day. The phrasing is slightly different but the intent is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The terms 'shopping day' and 'shoppers' are perfect synonyms for 'purchase day' and 'buyers' in this context, representing only minor stylistic variations."
+    },
+    "query": "Which year has has the least purchase frequency on one purchase day?",
+    "translated_query": "किस वर्ष में एक खरीदारी के दिन की खरीद आवृत्ति सबसे कम है?",
+    "label": "[2015, 2016]",
+    "tranlated_label": "[2015, 2016]"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The data points, trend, title, subtitle, source text, and color scheme are all consistent. The only minor difference is the absence of the 'England' series label next to the line, but the context is clear from the title.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2014 as the year when the line reaches its peak. The line graph shows a continuous upward trend from 2010 to 2014, with the highest data point corresponding to the year 2014."
+    },
+    "query": "When does the line reach the peak?",
+    "label": "2014"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall structure of both pie charts (Export and Import) are accurately replicated. The core message and all key information are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The 'Import' pie chart shows that the EU accounts for 23.2% of the total imports, while Singapore accounts for 5.6%. As 23.2% is a larger share than 5.6%, the dollar amount of imports from the EU is greater than that from Singapore."
+    },
+    "claim": "The EU imports more Australian trafes by dollar amount than Singapore. ",
+    "label": true
+}

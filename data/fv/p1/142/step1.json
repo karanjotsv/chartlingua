@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, percentages, labels, and color hues are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the source of public water supply (groundwater), but the pie chart only shows the distribution of water usage by sector (Residential, Commercial/Industrial/Institutional, and Public use and losses). The chart provides no information about the source of the water."
+    },
+    "claim": " Groundwater accounts for the bulk of public water supply deliveries in the United States.",
+    "label": false
+}

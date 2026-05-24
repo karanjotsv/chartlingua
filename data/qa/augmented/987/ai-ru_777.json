@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2009 (арахисовое масло PCA)",
+            "2011 (фарш индейки Cargill)",
+            "2013 (курица Foster Farms)",
+            "2015 (мексиканские огурцы)"
+        ],
+        "series": [
+            {
+                "name": "Заболевания",
+                "data": [
+                    714,
+                    136,
+                    634,
+                    907
+                ]
+            },
+            {
+                "name": "Смерти",
+                "data": [
+                    9,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Год (причина)",
+        "y_axis_title": "Количество",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#247BDB",
+        "#34495E"
+    ]
+}

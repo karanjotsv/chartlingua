@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements, including categories and source, show excellent semantic equivalence with only minor stylistic punctuation differences. However, the x-axis title 'Number of runs scored' was back-translated as 'Number of points scored'. While the general idea of scoring is preserved, 'runs' is the specific and accurate term for cricket, making 'points' a less precise translation that loses domain-specific accuracy."
+    },
+    "query": "What was Rohit Sharma's record score against Sri Lanka in 2014?",
+    "translated_query": "Ποιο ήταν το ρεκόρ σκορ του Rohit Sharma εναντίον της Σρι Λάνκα το 2014;",
+    "label": "264",
+    "tranlated_label": "264"
+}

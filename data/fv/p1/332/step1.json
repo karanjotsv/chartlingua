@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values for both the bar and line series, trends, color hues, and labels are all highly consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that weekly revenue is consistently higher than total revenue. However, the chart shows that for any given week, the weekly revenue (represented by the blue portion of each bar) is a component of the total cumulative revenue (represented by the full height of the bar). Therefore, the weekly revenue is always smaller than the total revenue, directly contradicting the claim."
+    },
+    "claim": "the weekly revenue for your name's business  has been  consistently higher than the total revenue.",
+    "label": true
+}

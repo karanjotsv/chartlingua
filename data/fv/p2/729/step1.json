@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their connecting lines (solid/dashed), axis titles, legend entries, and data labels are accurately reproduced in terms of value, position, and text content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the chart shows the Consumer Price Index, but the chart's axes are clearly labeled 'Threshold Dose (cGy)' and 'LET (keV/µm)', and the data series represent chemical elements (56Fe, 28Si, 48Ti), which are unrelated to economic indicators."
+    },
+    "claim": "The chart shows the trend of the Consumer Price Index in the United States.",
+    "label": "TRUE"
+}

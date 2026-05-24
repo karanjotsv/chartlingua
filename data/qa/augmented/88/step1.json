@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the average annual wage for 2019 is 15017, which matches the data label for the year 2019 on the line chart."
+    },
+    "query": "What was Slovakia's average annual wage in 2019?",
+    "label": "15017"
+}

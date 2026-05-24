@@ -1,0 +1,69 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Density (kg/m3)",
+            "x": [
+                0,
+                50,
+                100,
+                125,
+                150,
+                200,
+                250,
+                300,
+                350,
+                400
+            ],
+            "y": [
+                1.2,
+                0.001,
+                4e-07,
+                2e-08,
+                2e-09,
+                1e-10,
+                2.5e-11,
+                8e-12,
+                4e-12,
+                2e-12
+            ]
+        },
+        {
+            "name": "Pressure (kPa)",
+            "x": [
+                0,
+                50,
+                100,
+                125,
+                150,
+                200,
+                250,
+                300,
+                350,
+                400
+            ],
+            "y": [
+                101.3,
+                0.06,
+                0.0003,
+                1e-05,
+                1e-06,
+                8e-08,
+                2e-08,
+                8e-09,
+                4e-09,
+                2e-09
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Atmosphere Air Density and Pressure",
+        "x_axis_title": "H(Km)",
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#0000FF",
+        "#BF573B"
+    ]
+}

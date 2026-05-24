@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, axis labels, colors, and the overall trend are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer provides a specific value (20,656) which is visually consistent with the bar for 2017, as it is slightly above the 20,000 mark. However, the exact number cannot be precisely verified from the chart's axis and gridlines, making the answer's high level of precision an estimation rather than a directly observable fact."
+    },
+    "query": "How many books did Blurb publish in 2017?",
+    "label": "20656"
+}

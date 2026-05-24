@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+        ],
+        "series": [
+            {
+                "name": "Adult male smoking rate",
+                "values": [
+                    46,
+                    45.3,
+                    44.6,
+                    44,
+                    43.3,
+                    43,
+                    42.4
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Adult male smoking rate",
+        "source": "© Statista 2021",
+        "additional_info": "Additional Information"
+    },
+    "colors": [
+        "#2f79d0"
+    ]
+}

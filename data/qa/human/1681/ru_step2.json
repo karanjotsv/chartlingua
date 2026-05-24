@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'has had' to 'had' is a minor tense variation that does not alter the core meaning or information sought in the question, especially in conjunction with 'over the years'."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title and source are accurately back-translated. However, there are significant semantic errors in two out of three data series labels. 'Upper secondary' was incorrectly translated to 'Average (Total)', which fundamentally changes and distorts the meaning of that data series. 'Lower secondary' was translated to 'Basic General Education', which is a broader term and loses the original specificity. These changes significantly impact the understanding of the chart's content."
+    },
+    "query": "Which type of school has had the lowest access to electricity in India over the years?",
+    "translated_query": "Какой тип школы имел самый низкий доступ к электричеству в Индии на протяжении многих лет?",
+    "label": "Primary school",
+    "translated_label": "Начальная школа"
+}

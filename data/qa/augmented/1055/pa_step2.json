@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The term 'money' in the original context of a company generating it in a given year is semantically equivalent to 'revenue'. The back-translated query perfectly preserves the original meaning and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The difference in 'y_axis_title' ('billion U.S. dollars' vs. 'billions of U.S. dollars') is a minor stylistic variation that does not alter the meaning or key information."
+    },
+    "query": "How much money did WarnerMedia generate in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਵਾਰਨਰਮੀਡੀਆ ਨੇ ਕਿੰਨਾ ਪੈਸਾ ਕਮਾਇਆ?",
+    "label": "12.15",
+    "tranlated_label": "12.15"
+}

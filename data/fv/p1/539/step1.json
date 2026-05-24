@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The core data values, proportions, categories, and color hues are consistent with the original. The overall message is preserved. However, the labels for the 'Yes' category and its value (12.08%) are missing from the main chart, which is a minor semantic omission.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap. The 'Survey Summary' text block is rendered on top of the first two small donut charts, obscuring them and their labels. Other text elements also overlap with the main chart, leading to poor readability and a chaotic layout."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart clearly shows that the 'No' responses to the survey question accounted for 87.92% of the total, which is the largest share."
+    },
+    "claim": "In toilet meal social research \"No\" responses was the biggest share. ",
+    "label": true
+}

@@ -1,0 +1,66 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Wahlhelfer in Ihrer Gemeinde",
+            "Wahlbeamte, die Wahlen durchführen in...",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Ihrer Region",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Ihrem Bundesstaat",
+            "&nbsp;&nbsp;&nbsp;&nbsp;In den gesamten Vereinigten Staaten"
+        ],
+        "series": [
+            {
+                "name": "Sehr",
+                "values": [
+                    68,
+                    null,
+                    68,
+                    55,
+                    23
+                ]
+            },
+            {
+                "name": "Eher",
+                "values": [
+                    24,
+                    null,
+                    27,
+                    33,
+                    57
+                ]
+            },
+            {
+                "name": "Nicht besonders",
+                "values": [
+                    4,
+                    null,
+                    4,
+                    6,
+                    16
+                ]
+            },
+            {
+                "name": "Überhaupt nicht",
+                "values": [
+                    1,
+                    null,
+                    0,
+                    4,
+                    2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Bessere Bewertungen für lokale Wahlbeamte als für<br>Beamte auf Bundesstaats-Ebene und jene ‚in den gesamten Vereinigten Staaten‘",
+        "subtitle": "<i>Wie gut haben ____ ihre Arbeit bei den Wahlen im November gemacht? (%)</i>",
+        "source": "Anmerkungen: Basierend auf US-Bürgern, die angaben, gewählt zu haben. Keine Antwort nicht angezeigt.<br>Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 7. bis 16. November 2018.",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#b5912f",
+        "#e4d091",
+        "#c8c4b8",
+        "#949084"
+    ]
+}

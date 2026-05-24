@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim captures the core comparison that the first line has a higher starting probability than the others. However, it completely omits the key phrase 'The latent dimension of', which is a significant loss of specific, technical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. Minor differences, such as capitalization in the title ('plot' vs. 'Plot') and phrasing in the y-axis title ('to Solve' vs. 'of Solving'), are purely stylistic and do not change the meaning."
+    },
+    "claim": "The latent dimension of line one begins at a higher probability than the others.",
+    "translated_claim": "पहली रेखा दूसरों की तुलना में एक उच्च प्रायिकता से शुरू होती है।"
+}

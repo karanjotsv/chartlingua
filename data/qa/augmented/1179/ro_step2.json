@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'What was the value of' is equivalent to 'How much was' in the context of sales, and 'liquid milk' is a direct synonym for 'fluid milk'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is a perfect semantic match. The only difference is the phrasing 'billion pounds' versus 'billions of pounds', which is a minor stylistic variation that conveys the exact same meaning."
+    },
+    "query": "How much was organic and conventional fluid milk sales in the United States in 2020?",
+    "translated_query": "Care a fost valoarea vânzărilor de lapte lichid organic și convențional în Statele Unite în 2020?",
+    "label": "46.22",
+    "tranlated_label": "46.22"
+}

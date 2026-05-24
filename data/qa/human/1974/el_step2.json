@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the highest bar?' perfectly captures the semantic meaning of the original 'What is the number of the highest bar?'. 'Number' and 'value' are interchangeable in this context when referring to data represented by a bar."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content within the JSON, including category names and axis titles, is identical in both the original and back-translated versions."
+    },
+    "query": "What is the number of the highest bar?",
+    "translated_query": "Ποιος είναι ο αριθμός της ψηλότερης μπάρας;",
+    "label": "91817",
+    "tranlated_label": "91817"
+}

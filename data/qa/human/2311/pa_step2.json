@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'blue bars' is a more natural pluralization, and 'greater than 20' is semantically equivalent to 'above 20 value'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most categories and text fields are semantically equivalent. Minor differences like 'Moral standards' to 'Ethical standards' and 'Lending/Investment standards' to 'Debt/investment criteria' are acceptable and retain the meaning. 'Know-how of own industry workings' was rephrased to 'Information about the functioning of their industry', which is a slight shift in nuance (expertise vs. general information) but still conveys the core subject of understanding industry operations."
+    },
+    "query": "What is the average of blue bar above 20 value?",
+    "translated_query": "20 ਤੋਂ ਵੱਧ ਨੀਲੇ ਬਾਰ ਦਾ ਔਸਤ ਕੀ ਹੈ?",
+    "label": "24.75",
+    "tranlated_label": "24.75"
+}

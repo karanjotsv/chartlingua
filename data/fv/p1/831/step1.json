@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces all data values, category labels, and the main title. The proportions of the pie slices are correct. However, the color scheme is completely different, with hues not matching the original for most categories.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap among the labels for the pie slices, making several categories difficult to read (e.g., 'Process, Plant...' and 'Sales and Customer Service...')."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Caring Leisure And Other Services' was the largest occupational sector. However, the pie chart shows this sector accounts for only 8% of occupations, while 'Skilled Trades Occupations' is the largest sector at 26%."
+    },
+    "claim": "The largest occupational sector for Lowesby in 2011 was Caring Leisure And Other Services. ",
+    "label": false
+}

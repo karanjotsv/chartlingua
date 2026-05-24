@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation is a good semantic match. The core comparison is identical. The only difference is the use of the broader term 'Wetlands' instead of the more specific 'Marsh', which is a minor and acceptable loss of detail."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The title is rephrased but holds the exact same meaning. The data labels 'Croplands' and 'Uplands' have trivial pluralization differences. The label 'Marsh' was back-translated to the broader category 'Wetland', which represents a minor loss of specificity but is an acceptable semantic shift."
+    },
+    "claim": "Marsh takes up a smaller share of the habitat than croplands.",
+    "translated_claim": "Sumpfgebiete nehmen einen kleineren Anteil des Lebensraums ein als Ackerland."
+}

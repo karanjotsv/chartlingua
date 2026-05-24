@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, text content, and color hues are all accurately reproduced from the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Prairie constitutes less than a quarter (25%) of the native vegetation. However, the pie chart visually shows the 'Prairie' category, represented by the yellow slice, as the largest portion, clearly making up more than half (50%) of the total."
+    },
+    "claim": "Less than a quarter of the native vegetation in Audubon County, Iowa is Prairie.",
+    "label": "FALSE"
+}

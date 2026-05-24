@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2009 (φυστικοβούτυρο PCA)",
+            "2011 (κιμάς γαλοπούλας Cargill)",
+            "2013 (κοτόπουλο Foster Farms)",
+            "2015 (αγγούρια Μεξικού)"
+        ],
+        "series": [
+            {
+                "name": "Ασθένειες",
+                "data": [
+                    714,
+                    136,
+                    634,
+                    907
+                ]
+            },
+            {
+                "name": "Θάνατοι",
+                "data": [
+                    9,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Έτος (αιτία)",
+        "y_axis_title": "Αριθμός",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#247BDB",
+        "#34495E"
+    ]
+}

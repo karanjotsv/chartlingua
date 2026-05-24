@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, source text, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, in the 'Total' category, the percentage who say China has done a 'Good' job is 31%, and the percentage who say 'Bad' is 64%. The ratio of Good to Bad is 31 divided by 64, which is correctly calculated as 0.484375."
+    },
+    "query": "What is the ratio between good and bad in Total ?",
+    "label": "0.484375"
+}

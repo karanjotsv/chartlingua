@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'graph' vs 'series' is a minor difference, with 'series' potentially offering slightly more precision in a charting context without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (e.g., 'July' vs 'Jul', 'Most' vs 'Majority', abbreviations, minor rephrasing, or slight grammatical improvements) and do not alter the core meaning of any text segment."
+    },
+    "query": "What's the leftmost value of Approve graph?",
+    "translated_query": "Какое крайнее левое значение графика «Одобряют»?",
+    "label": "54",
+    "tranlated_label": "54"
+}

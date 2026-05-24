@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values, slice proportions, and color hues are consistent with the original. However, the rendered chart is missing the crucial labels for the two largest categories ('Police' and 'Ambulance'), making it impossible to fully understand the chart without external context.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is text overlap where the 'Fire' label is rendered on top of the subtitle text, making both difficult to read clearly."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the bulk of emergency calls are for Police services. However, the chart does not label the largest slice (52%) which represents the 'bulk' of calls. The only potential label for 'Police' is the red text, which corresponds to the 6% slice. Since 6% is not the bulk of the calls, the claim is not supported by the chart's visible data."
+    },
+    "claim": "The bulk of emergency calls in the United Kingdom are related to Police services.",
+    "label": true
+}

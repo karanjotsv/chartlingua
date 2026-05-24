@@ -1,0 +1,70 @@
+{
+    "chart_type": "breakout_pie_chart",
+    "chart_data": [
+        {
+            "name": "Compoziția Atmosferei lui Venus",
+            "labels": [
+                "Dioxid de carbon",
+                "Azot",
+                "Altele"
+            ],
+            "values": [
+                96.5,
+                3.5,
+                0.1
+            ],
+            "text_labels": [
+                "Dioxid de carbon<br>(96.5%)",
+                "Azot<br>(3.5%)",
+                "Altele"
+            ]
+        },
+        {
+            "name": "Oligoelemente",
+            "labels": [
+                "Dioxid de sulf",
+                "Argon",
+                "Vapori de apă",
+                "Monoxid de carbon",
+                "Heliu",
+                "Neon"
+            ],
+            "values": [
+                150,
+                70,
+                20,
+                17,
+                12,
+                7
+            ],
+            "text_labels": [
+                "Dioxid de sulf<br>(150 ppm)",
+                "Argon<br>(70 ppm)",
+                "Vapori de apă<br>(20 ppm)",
+                "Monoxid de carbon<br>(17 ppm)",
+                "Heliu<br>(12 ppm)",
+                "Neon<br>(7 ppm)"
+            ]
+        }
+    ],
+    "colors": [
+        [
+            "#E88427",
+            "#D6007A",
+            "#FEF9AE"
+        ],
+        [
+            "#FEF9AE",
+            "#F7F700",
+            "#8DC454",
+            "#49B7C3",
+            "#E66E5A",
+            "#677DC2"
+        ]
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    }
+}

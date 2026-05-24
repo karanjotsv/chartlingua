@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data trend, values on both axes, chart title, and axis titles are all accurately reproduced. The color hue is consistent, and the overall message of the chart is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the 'Ratio of Asset value to Debt' was approximately 10.8 in June 1988. In 2009, the last data point shown, the ratio had decreased to approximately 4.8. Therefore, the ratio decreased, not increased, over this period."
+    },
+    "claim": "Ratio of asset value to debt is increased at Jun 2009 compared with the period of June-1988.",
+    "label": "FALSE"
+}

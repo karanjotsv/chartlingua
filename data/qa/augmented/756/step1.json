@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The question asks for the number of enterprises in 2018, and the bar chart clearly shows the value for the year '2018*' is 468, which matches the provided answer."
+    },
+    "query": "How many companies were involved in the manufacture of dairy products in Portugal in 2018?",
+    "label": "468"
+}

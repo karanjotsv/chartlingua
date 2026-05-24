@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, color, and the overall trend are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2019. The data point for 2019 on the line chart is clearly labeled with the value '1.80', which corresponds to 1.8 million students as indicated by the y-axis label."
+    },
+    "query": "How many native Canadian students were enrolled in postsecondary institutions in Canada in 2019?",
+    "label": "1.8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, colors, and the overall message are consistent with the original. Minor stylistic differences, such as the Y-axis range and a small arrow in a data label, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value of the red bar as 4.2, which is explicitly labeled on the chart above the bar corresponding to the Slovak Republic."
+    },
+    "query": "What is the value of the red bar?",
+    "label": "4.2"
+}

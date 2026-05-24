@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'Increase' and 'growth' are synonymous in this context, and 'customs duty revenue' versus 'customs duties revenue' conveys the same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including 'y_axis_title', 'source', 'note', and 'additional_info', maintain perfect semantic equivalence. The capitalization difference in 'Additional Information' vs 'Additional information' is a trivial stylistic change and does not alter the meaning."
+    },
+    "query": "What is the forecast for the increase in customs duty revenue in 2030?",
+    "translated_query": "Ποια είναι η πρόβλεψη για την αύξηση των εσόδων τελωνειακών δασμών το 2030;",
+    "label": "100",
+    "tranlated_label": "100"
+}

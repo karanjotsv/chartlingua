@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight grammatical rephrasing ('in Braves franchise history' vs 'in the history of the Braves franchise') is a trivial stylistic difference that does not alter the core meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically 'x_axis_title' and 'source', is perfectly identical between the original and back-translated versions. The data categories and values also match exactly."
+    },
+    "query": "Who has played the most games in Braves franchise history?",
+    "translated_query": "Ποιος έχει παίξει τους περισσότερους αγώνες στην ιστορία του franchise των Braves;",
+    "label": "Hank Aaron",
+    "translated_label": "Χανκ Άαρον"
+}

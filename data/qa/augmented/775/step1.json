@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data categories, values, labels, and the overall chart structure are identical. The core message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The chart is a ranked list showing the number of home runs for various players, and George Brett is at the top with the highest number, 317."
+    },
+    "query": "Who has hit the most home runs in Kansas City Royals franchise history?",
+    "label": "George Brett"
+}

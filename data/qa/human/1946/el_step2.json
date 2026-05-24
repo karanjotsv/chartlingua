@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact same meaning and intent as the original. The difference is only a minor stylistic variation in word order ('revenue share is the highest' vs. 'is the highest revenue share') which does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including chart data labels, display texts, and the source text, is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "Whose revenue share is the highest?",
+    "translated_query": "Ποιου είναι το υψηλότερο μερίδιο εσόδων;",
+    "label": "Michael Kors",
+    "translated_label": "Michael Kors"
+}

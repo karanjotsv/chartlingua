@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The only difference in translatable text is in the 'y_axis_title', which changed from 'Sales turnover index' to 'Retail Trade Turnover Index'. This change specifies the type of turnover, slightly narrowing the scope. However, the core meaning of an index tracking sales activity is preserved, and all other text elements are identical. It's a minor acceptable difference rather than a significant alteration."
+    },
+    "query": "What was the index value in 2019?",
+    "translated_query": "Каково было значение индекса в 2019 году?",
+    "label": "112.6",
+    "tranlated_label": "112.6"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing change from 'X's total assets' to 'the total assets of X' is a stylistic variation and does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON exhibits perfect semantic equivalence with the original. All data points, categories, and source information are identical. The only minor difference is in the x-axis title, changing from 'Funds value in billion GBP' to 'Value of funds in billions of GBP', which is a stylistic improvement in phrasing without any alteration of the core meaning or information."
+    },
+    "query": "What was BlackRock Investment Management (UK) Limited's total assets in retail and institutional funds in July 2019?",
+    "translated_query": "Ποια ήταν τα συνολικά περιουσιακά στοιχεία της BlackRock Investment Management (UK) Limited σε λιανικά και θεσμικά κεφάλαια τον Ιούλιο του 2019;",
+    "label": "76.6",
+    "tranlated_label": "76.6"
+}

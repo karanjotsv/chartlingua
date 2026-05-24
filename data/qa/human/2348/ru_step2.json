@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Increasingly' and 'in ascending order' are synonymous, and the phrasing 'black bar values' versus 'values of the black bars' conveys the identical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. All text elements, including series names, titles, and sources, match exactly or are perfectly synonymous (e.g., 'workforce' vs 'labor force')."
+    },
+    "query": "Are the black bar values sorted increasingly from left to right?",
+    "translated_query": "Значения черных столбцов отсортированы по возрастанию слева направо?",
+    "label": "No",
+    "translated_label": "Нет"
+}

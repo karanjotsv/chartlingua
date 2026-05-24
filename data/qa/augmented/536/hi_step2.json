@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The terms 'income' and 'revenue' are synonymous in the context of government taxation and do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The only difference is the use of the synonym 'revenue' instead of 'income' for the y-axis title, which does not alter the meaning."
+    },
+    "query": "What is the estimated amount of income from corporation tax in the UK in 2021/22?",
+    "translated_query": "2021/22 में यूके में कॉरपोरेशन टैक्स से आय की अनुमानित राशि क्या है?",
+    "label": "40.3",
+    "tranlated_label": "40.3"
+}

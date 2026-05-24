@@ -1,0 +1,115 @@
+{
+    "chart_type": "grouped_bar",
+    "colors": [
+        "#b68f6a",
+        "#5fa5a1"
+    ],
+    "texts": {
+        "title": "Grafic 2-11 Investiții globale în imobiliare din S.U.A., pe țări",
+        "y_axis_title": "miliarde USD",
+        "source": "Sursă: Real Capital Analytics, la data de 31 iulie 2014.",
+        "legend_series": [
+            "36 de luni",
+            "12 luni"
+        ],
+        "annotation_text": "Ultimele 12 luni<br>ca procent din totalul pe 3 ani"
+    },
+    "chart_data": [
+        {
+            "category": "Canada",
+            "values": [
+                32.5,
+                15.5
+            ],
+            "annotation": "47%"
+        },
+        {
+            "category": "China",
+            "values": [
+                6.5,
+                3.8
+            ],
+            "annotation": "58%"
+        },
+        {
+            "category": "Germania",
+            "values": [
+                6.5,
+                2.5
+            ],
+            "annotation": "38%"
+        },
+        {
+            "category": "Japonia",
+            "values": [
+                5.5,
+                3.5
+            ],
+            "annotation": "63%"
+        },
+        {
+            "category": "Elveția",
+            "values": [
+                5.5,
+                1.2
+            ],
+            "annotation": "23%"
+        },
+        {
+            "category": "Israel",
+            "values": [
+                5.2,
+                2.3
+            ],
+            "annotation": "44%"
+        },
+        {
+            "category": "Singapore",
+            "values": [
+                5.0,
+                1.8
+            ],
+            "annotation": "36%"
+        },
+        {
+            "category": "Norvegia",
+            "values": [
+                4.5,
+                3.9
+            ],
+            "annotation": "86%"
+        },
+        {
+            "category": "Hong<br>Kong",
+            "values": [
+                4.2,
+                2.5
+            ],
+            "annotation": "61%"
+        },
+        {
+            "category": "Coreea<br>de Sud",
+            "values": [
+                4.0,
+                1.1
+            ],
+            "annotation": "27%"
+        },
+        {
+            "category": "Australia",
+            "values": [
+                3.5,
+                2.2
+            ],
+            "annotation": "62%"
+        },
+        {
+            "category": "Bermuda",
+            "values": [
+                2.0,
+                2.0
+            ],
+            "annotation": "100%"
+        }
+    ]
+}

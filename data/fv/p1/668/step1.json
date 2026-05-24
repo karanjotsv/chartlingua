@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, axis labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the most popular Wikipedia article was 'Meghan, Duchess of Sussex', not 'the Royal Wedding of Prince Harry and Meghan Markle' as the claim states. Additionally, the chart does not provide any date range, so it's impossible to confirm if the data corresponds to the week of May 20 to 26, 2018."
+    },
+    "claim": "The Wikipedia article with the most views in the week of May 20 to 26, 2018 was the Royal Wedding of Prince Harry and Meghan Markle.",
+    "label": true
+}

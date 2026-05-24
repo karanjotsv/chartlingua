@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. Minor differences like 'viewpoints' vs 'views', 'equal' vs 'same', and 'considering' vs 'who consider' are stylistic and do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, axes, and category labels match perfectly or have only trivial differences (e.g., singular/plural, capitalization, 'major' vs. 'serious'). The legend labels 'Political right/center/left' were simplified to 'Right/Center/Left', which is a minor acceptable difference in context."
+    },
+    "claim": " All political viewpoints have an equal percentage of people considering climate change a threat.",
+    "translated_claim": "Все политические взгляды имеют одинаковый процент людей, считающих изменение климата угрозой."
+}

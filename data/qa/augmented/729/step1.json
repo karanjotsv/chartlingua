@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, ordering, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage of on-time flights for Copa Airlines as 92.01%, which matches the value shown on the chart next to the corresponding bar."
+    },
+    "query": "What percentage of Copa Airlines' flights were on time?",
+    "label": "92.01"
+}

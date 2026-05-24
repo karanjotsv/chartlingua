@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces the data trends, series, colors, and overall message of the original. However, it is rated 4 instead of 5 because the final data points for two of the series ('Airbus orders' and 'Boeing orders') are not fully visible due to being clipped at the right edge. There is also a minor text variation in the title ('netorders' vs 'net orders').",
+        "has_visual_flaws": true,
+        "flaw_reason": "Two of the data series lines are clipped at the right boundary of the chart, obscuring the final data points."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not consistently show that Boeing orders are greater than Airbus orders. There are several years, such as 2001-2004, 2011, and 2013, where the 'Airbus orders' line (light blue) is visibly higher than the 'Boeing orders' line (light red)."
+    },
+    "claim": "The Boeing orders are greater than Airbus orders.",
+    "label": false
+}

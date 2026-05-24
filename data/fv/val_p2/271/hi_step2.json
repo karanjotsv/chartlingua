@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. It uses synonyms ('unusually' for 'abnormally', 'approximately' for 'about', 'occurred' for 'there was') that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the JSON are either null or identical, resulting in a perfect semantic match."
+    },
+    "claim": "There was a abnormally loud sound at about 140 milliseconds after the ping.",
+    "translated_claim": "पिंग के लगभग 140 मिलीसेकंड बाद एक असामान्य रूप से तेज़ आवाज़ आई।"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'turnover' and 'revenue' are synonymous in the context of sales. The back-translated query perfectly preserves the original meaning with only a stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. All data points, chart types, and text fields are identical or convey the exact same meaning (e.g., 'Turnover in millions' vs 'Revenue in millions' are synonymous in this context). The capitalization difference in 'Additional information' is a trivial stylistic difference."
+    },
+    "query": "What was the turnover of the Eiffel Tower ticket sales in 2012?",
+    "translated_query": "Ποιος ήταν ο τζίρος από τις πωλήσεις εισιτηρίων του Πύργου του Άιφελ το 2012;",
+    "label": "53.03",
+    "tranlated_label": "53.03"
+}

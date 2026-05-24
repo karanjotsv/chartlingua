@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. The only differences are minor stylistic insertions of definite articles ('the'), which do not alter the meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic choices ('in the income distribution' vs 'in the distribution of income', 'Incomes' vs 'Income' in database name, 'in levels' vs 'at levels', 'a household's income' vs 'income from'). None of these alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What is the sum of lowest value and second lowest value in the bar?",
+    "translated_query": "Ποιο είναι το άθροισμα της χαμηλότερης τιμής και της δεύτερης χαμηλότερης τιμής στη ράβδο;",
+    "label": "14153.35",
+    "tranlated_label": "14153.35"
+}

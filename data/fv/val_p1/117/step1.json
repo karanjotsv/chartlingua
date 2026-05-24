@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (84%, 16%), categories ('Front-end', 'Back-end'), title, and color hues are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart explicitly labels 'Front-end' as 84% and 'Back-end' as 16%. Therefore, the claim that 'Front-end is lower than Back-end' is directly contradicted by the data presented."
+    },
+    "claim": "Front-end is lower than Back-end in the pie chart of Coding vendor breakout.",
+    "label": false
+}

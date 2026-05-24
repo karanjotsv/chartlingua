@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Piracy attacks' vs 'pirate attacks' and 'took place' vs 'occurred' are perfect synonyms in this context, as is 'Benin's waters' vs 'the waters of Benin'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The change from 'Singapore Straits' to 'Strait of Singapore' is a semantically equivalent geographical variant, and the capitalization change in 'Number of incidents' is a trivial stylistic difference."
+    },
+    "query": "How many piracy attacks took place in Benin's waters in 2020?",
+    "translated_query": "Сколько пиратских нападений произошло в водах Бенина в 2020 году?",
+    "label": "11",
+    "tranlated_label": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It uses the same chart type, title, and legend labels. The proportions of the pie slices are visually identical, and the color hues for each category are preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows that the blue slice, which represents France according to the legend, is the largest portion. Visually, this slice is significantly larger than 50% of the entire circle, thus confirming it is more than half of the graph."
+    },
+    "claim": "france is in the lead of wikipedians, as the blue 'france' portion of the graph is more than half of the graph",
+    "label": true
+}

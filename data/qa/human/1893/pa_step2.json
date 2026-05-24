@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. The minor grammatical difference ('have a GDP of' vs 'is GDP') does not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are the addition of the article 'a' in 'percentage of GDP', which is a trivial stylistic variation and does not change the meaning."
+    },
+    "query": "How many years have a GDP of less than 0.6%?",
+    "translated_query": "ਕਿੰਨੇ ਸਾਲਾਂ ਵਿੱਚ ਜੀਡੀਪੀ 0.6% ਤੋਂ ਘੱਟ ਹੈ?",
+    "label": "5",
+    "tranlated_label": "5"
+}

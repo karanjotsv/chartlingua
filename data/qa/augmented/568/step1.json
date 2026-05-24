@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, their order, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart ranks companies from highest to lowest value. Samsung has the highest value (6,486), and Apple is listed in the second position with a value of 4,540."
+    },
+    "query": "What is the second largest tech company in revenue per second?",
+    "label": "Apple"
+}

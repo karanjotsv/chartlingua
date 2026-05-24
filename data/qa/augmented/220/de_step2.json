@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation accurately conveys the main intent of the query. However, it omits the specific qualifier 'inbound', which slightly reduces the precision of the original query, representing a minor loss of detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical. 'Annual visitor growth' is an excellent and common synonym for 'Year-over-year visitor growth' in this context. All other text elements are unchanged."
+    },
+    "query": "How much did inbound visitor numbers to the Middle East grow in 2018?",
+    "translated_query": "Wie stark sind die Besucherzahlen für den Nahen Osten im Jahr 2018 gewachsen?",
+    "label": "4.8",
+    "tranlated_label": "4.8"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the original meaning. It also corrects grammatical inconsistencies (e.g., 'support' instead of 'supports' for 'Seven members', and 'support Wikipedia' is more natural than 'supports for the Wikipedia') and improves natural phrasing without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart title and most category labels match perfectly. The only minor difference is 'I don't explain it' being rendered as 'I don't specify', which conveys a very similar meaning and does not significantly alter the overall semantic understanding."
+    },
+    "claim": "Seven members in the community supports for the Wikipedia.",
+    "translated_claim": "ਭਾਈਚਾਰੇ ਦੇ ਸੱਤ ਮੈਂਬਰ ਵਿਕੀਪੀਡੀਆ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਨ।"
+}

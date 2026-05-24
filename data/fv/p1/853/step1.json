@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces all the major data slices, their corresponding values, and the chart title. The overall message about the dominance of Turkish words is perfectly preserved. The rating is not a 5 because the legend in the rendered chart is missing three minor categories (Russian, Spanish, Armenian) that were present in the original, and there are a few color hue mismatches for smaller slices.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart clearly shows a large segment labeled 'Turkish' with 89,689 words, indicating that a significant portion of the vocabulary is of Turkish origin, which directly contradicts the claim that all words have a foreign origin."
+    },
+    "claim": "All words in Turkish vocabulary have a foreign origin.",
+    "label": false
+}

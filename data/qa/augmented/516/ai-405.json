@@ -1,0 +1,48 @@
+{
+    "chart_type": "line_and_scatter",
+    "chart_data": [
+        {
+            "name": "2016",
+            "x": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4"
+            ],
+            "y": [
+                170,
+                169,
+                159,
+                160
+            ],
+            "mode": "lines+markers+text"
+        },
+        {
+            "name": "2017",
+            "x": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4"
+            ],
+            "y": [
+                168,
+                null,
+                null,
+                null
+            ],
+            "mode": "markers+text"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Average daily rate in U.S. dollars",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2b78c5",
+        "#26292d"
+    ]
+}

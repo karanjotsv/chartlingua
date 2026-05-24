@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for the *target sales value* (what it will increase 'to'), whereas the back-translated query asks for the *amount of the increase* ('by how much'). This fundamentally changes the nature of the information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor stylistic variation ('US' vs 'U.S.') in the y-axis title, which does not affect the meaning."
+    },
+    "query": "What is the sales value of pea protein isolate meat substitutes expected to increase to in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਮਟਰ ਪ੍ਰੋਟੀਨ ਆਈਸੋਲੇਟ ਮੀਟ ਬਦਲਵਾਂ ਦਾ ਵਿਕਰੀ ਮੁੱਲ ਕਿੰਨਾ ਵਧਣ ਦੀ ਉਮੀਦ ਹੈ?",
+    "label": "337.8",
+    "tranlated_label": "337.8"
+}

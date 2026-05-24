@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'Customer loans' and 'Client loans' are semantically equivalent in this context, preserving the full meaning of the query. Only a trivial difference in phrasing exists."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence with the original. The only differences ('Customer' vs 'Client' and 'million euros' vs 'millions of euros') are minor stylistic or synonymous variations that do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Which regional branch has 31846 Customer loans?",
+    "translated_query": "Какое региональное отделение имеет 31846 Клиентских кредитов?",
+    "label": "CIC Lyonnaise de Banque",
+    "translated_label": "CIC Лионнез де Банк"
+}

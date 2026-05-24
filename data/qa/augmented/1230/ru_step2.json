@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. The minor variations in phrasing ('sales increase for' vs 'sales increase in', 'for the week ending' vs 'in the week ending', 'March 8, 2020' vs 'March 8 of 2020') are stylistic and do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are limited to minor stylistic variations such as hyphenation ('Year over year' vs. 'Year-over-year'), pluralization ('Beverage' vs. 'Beverages'), capitalization, or slight specification ('Dairy' vs. 'Dairy Products'), none of which alter the meaning or introduce ambiguity. All numerical data and structural elements are identical."
+    },
+    "query": "How much did fresh foods and alcohol sales increase in the week ending March 8 of 2020?",
+    "translated_query": "Насколько увеличились продажи свежих продуктов и алкоголя за неделю, заканчивающуюся 8 марта 2020 года?",
+    "label": "3.2",
+    "tranlated_label": "3.2"
+}

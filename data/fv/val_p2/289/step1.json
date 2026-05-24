@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data points, trends, series labels (Quebec, ROC, Canada), and axis values are consistent. Color hues for each series are also correctly maintained.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart clearly shows that the line representing Quebec is consistently higher than the lines for both ROC and Canada across the entire time period from 1941 to 2006. This indicates that Quebec has the largest rate, directly contradicting the claim that Canada and ROC have the largest rates."
+    },
+    "claim": "CanadÃ¡ and ROC have the largest rate of bilingualism.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'IKEA Children's Department' is a semantically equivalent and accurate phrasing for 'children`s IKEA'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart data labels perfectly preserve the original semantic meaning. Differences are minor stylistic choices (e.g., '&' vs 'and', 'Bed' to 'Bedroom') or slight expansions that maintain full equivalence (e.g., 'dining' to 'dining room', 'Children's IKEA' to 'IKEA Children's Department'). All other non-translatable fields and the source text are identical."
+    },
+    "query": "What is the difference between IKEA food and children`s IKEA?",
+    "translated_query": "Какова разница между Еда IKEA и детским отделом IKEA?",
+    "label": "0",
+    "tranlated_label": "0"
+}

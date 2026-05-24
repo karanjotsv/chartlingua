@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data trend on a logarithmic scale, all axis labels, titles, and supplementary text. Color hues for the data area and background are also consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the number of 'U.S. Patents Granted' over time, from 1870 to approximately 2005. It provides no information about solar power installations, individual states like NJ, or data for the year 2017."
+    },
+    "claim": "NJ was one of the top five states for solar power installations in 2017.",
+    "label": "FALSE"
+}

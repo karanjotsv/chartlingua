@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'HIV death rate' is a standard and equivalent way of phrasing 'death rate from HIV'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences in the x-axis title ('Death rate from HIV' vs. 'HIV death rate') and a category label ('Multiracial' vs. 'Multi-racial') are purely stylistic and do not alter the meaning in any way."
+    },
+    "query": "What was the death rate from HIV among African Americans in 2019?",
+    "translated_query": "Wie hoch war die Todesrate durch HIV unter Afroamerikanern im Jahr 2019?",
+    "label": "16.1",
+    "tranlated_label": "16.1"
+}

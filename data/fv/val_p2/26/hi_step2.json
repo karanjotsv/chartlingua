@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The minor differences in word order and phrasing are purely stylistic and do not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'texts' object in both the original and back-translated content contains no text (all values are null), resulting in a perfect match as there are no translatable elements to evaluate."
+    },
+    "claim": "The population at the end of the graph has increased compared to the beginning of the graph.",
+    "translated_claim": "ग्राफ़ की शुरुआत की तुलना में ग्राफ़ के अंत में जनसंख्या बढ़ गई है।"
+}

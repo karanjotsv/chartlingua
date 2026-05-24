@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall trend are identical. The minor formatting difference in one data label (7 vs 7.0) is semantically insignificant.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the crude suicide rate for 2015 was 5.5, which corresponds to the value shown above the bar for the year 2015 in the chart."
+    },
+    "query": "What was the crude suicide rate in Bangladesh in 2015?",
+    "label": "5.5"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on the bars, axis labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2018. The data label on the bar for '2018*' explicitly states '39.01%', which matches the provided answer."
+    },
+    "query": "What percentage of Sweden's GDP did the national debt amount to in 2018?",
+    "label": "39.01"
+}

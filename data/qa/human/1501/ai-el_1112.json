@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Μεξικό",
+            "value": 1.5
+        },
+        {
+            "category": "Αναπτυσσόμενες χώρες χωρίς πρόσβαση στη θάλασσα",
+            "value": 1.34
+        },
+        {
+            "category": "Ιταλία",
+            "value": 1.2
+        }
+    ],
+    "texts": {
+        "title": "Αποδόσεις αμυγδάλων, 2001",
+        "subtitle": "Οι αποδόσεις αμυγδάλων μετρώνται σε τόνους ανά εκτάριο.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Πηγή: Οργανισμός Τροφίμων και Γεωργίας των Ηνωμένων Εθνών (FAO)",
+        "note": "OurWorldInData.org/crop-yields • CC BY"
+    },
+    "colors": [
+        "#445F73",
+        "#2E9A99",
+        "#C0502D"
+    ]
+}

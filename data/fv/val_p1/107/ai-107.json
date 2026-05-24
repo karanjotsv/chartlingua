@@ -1,0 +1,34 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "series": [
+            {
+                "name": "share within laptops in %",
+                "data": [
+                    1,
+                    6,
+                    12,
+                    12,
+                    15,
+                    19
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Netbook popularity in 2008 (source: PriceGrabber)",
+        "x_axis_title": "Month",
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b3b3ff"
+    ]
+}

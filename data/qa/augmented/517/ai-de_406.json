@@ -1,0 +1,38 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "App Store",
+            "x": [
+                "2017",
+                "2018"
+            ],
+            "y": [
+                143,
+                164
+            ]
+        },
+        {
+            "name": "Google Play",
+            "x": [
+                "2017",
+                "2018"
+            ],
+            "y": [
+                71,
+                88
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der neuen Millionen-Dollar-App-Publisher",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75E5",
+        "#1A2D44"
+    ]
+}

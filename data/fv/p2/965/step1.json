@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are accurately reproduced, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the chart shows the number of detainees in GITMO in 2015, but the chart's title is 'If your Chapter has produced printed work before, how was it printed?' and the categories on the x-axis are different printing methods. The subject matter of the chart is completely different from what is stated in the claim."
+    },
+    "claim": "The chart shows the number of detainees in GITMO in 2015.",
+    "label": "FALSE"
+}

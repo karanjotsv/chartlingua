@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Value of equivalent 'z'' vs. 'equivalent 'z' value', 'starts with above 0' vs. 'starts above 0', and 'line chart' vs. 'linear chart' are all synonymous or minor stylistic differences that do not alter the core semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match between original and back-translated text content. The only difference is a minor capitalization change in 'Threshold Dose' which is trivial and does not affect meaning."
+    },
+    "claim": "The value of equivalent 'z' starts with above 0 in the line chart.",
+    "translated_claim": "Значение эквивалентного 'z' начинается выше 0 на линейном графике."
+}

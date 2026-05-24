@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, labels, color, and overall message are all identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Chinese' as the largest ethnic group. According to the bar chart, the bar for 'Chinese' is the longest, corresponding to the highest value of 22.99 thousand live births."
+    },
+    "query": "What's the largest ethnic group?",
+    "label": "Chinese"
+}

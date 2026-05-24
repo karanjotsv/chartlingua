@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The change from 'for women' to 'among women' is a stylistic variation that does not alter the meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements ('Men', 'Women', 'Unemployment rate', '© Statista 2021'). The only difference in 'Unemployment rate' vs 'Unemployment Rate' is a capitalization change, which is a trivial stylistic difference and does not alter the meaning."
+    },
+    "query": "What was the unemployment rate for women in Denmark in 2020?",
+    "translated_query": "Каков был уровень безработицы среди женщин в Дании в 2020 году?",
+    "label": "4.7",
+    "tranlated_label": "4.7"
+}

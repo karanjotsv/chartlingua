@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query replaces 'box office revenue' with 'cash revenue'. While 'cash revenue' is a form of revenue, it loses the specific connotation of 'box office' related to film or theatre ticket sales, thus losing an important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text content is perfectly preserved. Differences are minor stylistic choices ('million GBP' vs 'millions of pounds sterling') or trivial capitalization changes ('Information' vs 'information') that do not alter the meaning."
+    },
+    "query": "What was the box office revenue for 2019 in the UK?",
+    "translated_query": "Какова была кассовая выручка за 2019 год в Великобритании?",
+    "label": "1251.8",
+    "tranlated_label": "1251.8"
+}

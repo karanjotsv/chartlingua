@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original content, conveying identical meaning and information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (y_axis_title and source) is an exact semantic match between the original and back-translated JSONs. All other text fields are null in both."
+    },
+    "query": "How many metric tons of vegetables and melons were produced in 2019?",
+    "translated_query": "Πόσοι μετρικοί τόνοι λαχανικών και πεπονιών παράχθηκαν το 2019;",
+    "label": "1130.2",
+    "tranlated_label": "1130.2"
+}

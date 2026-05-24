@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. The only difference is minor capitalization in the 'y_axis_title' ('market share' vs. 'Market Share'), which does not alter the meaning."
+    },
+    "query": "What is Netflix's global share?",
+    "translated_query": "Какова глобальная доля Netflix?",
+    "label": "23",
+    "tranlated_label": "23"
+}

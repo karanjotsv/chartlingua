@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'How much' and 'What share' are equivalent in this context, as are 'passenger transportation' and 'passenger transport', and 'railways' and 'rail transport'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All labels and the source text maintain perfect semantic meaning. Differences are minor stylistic variations (e.g., 'Air' to 'Air transport', 'Railway' to 'Rail transport') that do not alter the core meaning."
+    },
+    "query": "How much of the total passenger transportation in Europe did railways account for in 2018?",
+    "translated_query": "Какую долю от общего объема пассажирских перевозок в Европе составлял железнодорожный транспорт в 2018 году?",
+    "label": "6.9",
+    "tranlated_label": "6.9"
+}

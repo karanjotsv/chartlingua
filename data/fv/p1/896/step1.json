@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is missing one of the three categories present in the original chart ('Atoms 4%'). While the two largest categories and their values are correctly represented, the omission of a data point and its label makes the chart semantically incomplete.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart explicitly states that Cold Dark Matter makes up 23% and Dark Energy makes up 73%. The claim that Cold Dark Matter is more than Dark Energy is directly contradicted by these figures, as 23% is less than 73%."
+    },
+    "claim": "Cold dark matter makes up more than dark energy.",
+    "label": false
+}

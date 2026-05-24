@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and color hues are identical to the original. The overall message and proportions are preserved. The only difference is a stylistic 'explode' on one slice, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided pie chart shows the market share of various internet browsers. The claim, however, makes a statement about the revenue of wind farms. The chart contains no information whatsoever about wind farms or revenue, and therefore cannot support the claim."
+    },
+    "claim": "During the course of their operation, wind farms generate no revenue.",
+    "label": "FALSE"
+}

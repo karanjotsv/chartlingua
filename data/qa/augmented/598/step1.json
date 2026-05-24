@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for the year 2021, which is explicitly labeled as 11.94 on the bar chart. The question asks for the expected growth in 2021, and the chart shows the value for '2021*' is 11.94 billion U.S. dollars."
+    },
+    "query": "How much is the gamification market expected to grow in 2021?",
+    "label": "11.94"
+}

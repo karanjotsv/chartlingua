@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "While the data values, proportions, and category labels are all correct, the colors for many of the smaller slices are not semantically consistent. For example, Russia is blue in the original and orange in the rendered chart, while Turkey is orange in the original and blue in the rendered chart. Multiple such hue swaps exist, making it moderately consistent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap. The labels for the countries are arranged in two dense columns that overlap with each other and with the chart title, making them very difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the USA had a lower cement capacity than Japan, but the chart indicates that both countries had an equal cement capacity of 3% in 2010."
+    },
+    "claim": "USA had a lower cement capacity than Japan in 2010.",
+    "label": false
+}

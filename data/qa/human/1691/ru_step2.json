@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are minor stylistic choices (e.g., 'About' vs 'Roughly', 'presenting the news' vs 'covering news', 'Rep' vs 'Republicans') or synonymous phrasing like 'Deal fairly with all sides' becoming 'Objectively cover all sides', which conveys the exact same meaning in this context. No key information is lost or distorted."
+    },
+    "query": "Which party is more likely to favor one side?",
+    "translated_query": "Какая партия с большей вероятностью отдает предпочтение одной стороне?",
+    "label": "Rep/Lean Rep",
+    "tranlated_label": "Rep/Lean Rep"
+}

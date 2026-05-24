@@ -1,0 +1,80 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "categories": [
+        "<b>Der Coronavirus-Ausbruch</b>",
+        "<b>Die Kandidaten der Präsidentschaftswahl<br>2020</b>"
+    ],
+    "chart_data": [
+        {
+            "name": "Sehr genau",
+            "values": [
+                46,
+                19
+            ],
+            "text": [
+                "46",
+                "19%"
+            ],
+            "textfont_colors": [
+                "white",
+                "white"
+            ]
+        },
+        {
+            "name": "Ziemlich genau",
+            "values": [
+                42,
+                33
+            ],
+            "text": [
+                "42",
+                "33%"
+            ],
+            "textfont_colors": [
+                "white",
+                "white"
+            ]
+        },
+        {
+            "name": "Nicht allzu genau",
+            "values": [
+                10,
+                31
+            ],
+            "text": [
+                "10",
+                "31%"
+            ],
+            "textfont_colors": [
+                "black",
+                "black"
+            ]
+        },
+        {
+            "name": "Überhaupt nicht genau",
+            "values": [
+                2,
+                16
+            ],
+            "text": [
+                "2",
+                "16%"
+            ],
+            "textfont_colors": [
+                "black",
+                "black"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>Die US-Öffentlichkeit schenkt der Wahl 2020<br>deutlich weniger Aufmerksamkeit als dem Coronavirus-Ausbruch</b>",
+        "subtitle": "% der US-Erwachsenen, die <i>Nachrichten zu jedem Thema verfolgen</i> ...",
+        "source": "Quelle: Umfrage unter US-Erwachsenen, durchgeführt vom 20. bis 26. April 2020.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#744850",
+        "#B57B88",
+        "#D1BF84",
+        "#D1A744"
+    ]
+}

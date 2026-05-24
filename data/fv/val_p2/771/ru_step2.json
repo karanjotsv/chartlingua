@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'In operation' and 'operational' are semantically equivalent, and the tense difference ('decreased' vs 'has decreased') does not alter the core message of a decreasing trend over time."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most texts are perfectly synonymous, including the chart title and country names with minor acceptable variations ('U.S.' to 'USA', 'U.K.' to 'United Kingdom'). The y-axis title has a minor pluralization difference ('disagreement' to 'disagreements'). The most notable change is the omission of 'Political' from the legend labels ('Political right' to 'Right'), which is a slight loss of explicit detail, though the political context remains clear from the chart's overall title."
+    },
+    "claim": "The number of railways in operation decreased over time.",
+    "translated_claim": "Количество действующих железных дорог со временем уменьшилось."
+}

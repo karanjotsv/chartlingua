@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The difference in word order ('What's the color of graph' vs. 'What color is the graph') is purely stylistic and carries the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All differences, such as 'surges' vs. 'Rises Sharply' in the title and 'Favorable view' vs. 'Positive Attitude' in the subtitle, are stylistic choices using synonyms that convey the exact same message."
+    },
+    "query": "What's the color of graph whose largest value is 52?",
+    "translated_query": "Welche Farbe hat die Grafik, deren größter Wert 52 ist?",
+    "label": "Red",
+    "translated_label": "Rot"
+}

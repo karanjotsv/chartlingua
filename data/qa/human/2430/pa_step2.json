@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original content."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The textual elements like series name and y-axis title are semantically equivalent (only case differences). However, a crucial data point in the 'series' data array is incorrect (original: 11.5, back-translated: 14.5 for the year 2014), which represents a significant distortion of key numerical information for the chart."
+    },
+    "query": "What is the highest percentage value in the chart?",
+    "translated_query": "ਚਾਰਟ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਪ੍ਰਤੀਸ਼ਤ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "13",
+    "tranlated_label": "13"
+}

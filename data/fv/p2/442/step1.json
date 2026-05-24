@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data labels, percentage values, and their relative proportions are identical to the original. The color hues for each category are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Negligence was the most common reason for damages. However, the pie chart shows that Surges, at 31%, was the most common reason, while Negligence only accounted for 22%."
+    },
+    "claim": "The most common reason for damages in electronic devices was due to Negligence.",
+    "label": "FALSE"
+}

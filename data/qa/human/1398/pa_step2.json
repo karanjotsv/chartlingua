@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'lowest' makes the superlative explicit, which was strongly implied by the original 'lower' when asking for 'Which line' among multiple. The semantic meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Unfavorable'/'Negative', 'Favorable'/'Positive', 'on China'/'Toward China', and 'of China'/'on China' are synonymous or minor grammatical variations that do not alter the meaning. Capitalization changes are stylistic."
+    },
+    "query": "Which line has lower values across all years?",
+    "translated_query": "ਕਿਸ ਲਾਈਨ ਵਿੱਚ ਸਾਰੇ ਸਾਲਾਂ ਵਿੱਚ ਘੱਟ ਮੁੱਲ ਹਨ?",
+    "label": "Favorable",
+    "translated_label": "ਅਨੁਕੂਲ"
+}

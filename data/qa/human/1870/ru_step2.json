@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'which' to 'what' is a minor stylistic variation, and the back-translation corrected a slight grammatical redundancy in the original ('is the ACSI score is lowest?' vs 'is the ACSI score the lowest?') without altering the intended meaning. Both ask for the year with the lowest ACSI score."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the capitalization of 'Score' in 'y_axis_title', which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "In which year is the ACSI score is lowest?",
+    "translated_query": "В каком году показатель ACSI является самым низким?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

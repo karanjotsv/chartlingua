@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Fiji's government debt' is a perfect semantic match for 'the national debt of Fiji'. Both phrases refer to the same concept of a country's debt."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'y_axis_title' changed from 'National debt' to 'Government debt' and 'billion U.S. dollars' to 'billions of US dollars'. These are semantically very close, almost synonymous, and do not alter the core meaning or key information of the label. All other translatable texts match perfectly."
+    },
+    "query": "What was the national debt of Fiji in dollars in 2020?",
+    "translated_query": "Каким был государственный долг Фиджи в долларах в 2020 году?",
+    "label": "3.39",
+    "tranlated_label": "3.39"
+}

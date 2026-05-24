@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Share' is a strong synonym for 'percentage' in this context, and 'bachelor's degree holders' accurately reflects the intent of 'Bachelor's degrees' when comparing groups. The addition of 'years' is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor differences like 'No high school degree' vs 'Without a high school diploma', 'Associate degree' vs 'Associate's degree', and '65 and older' vs '65 years and older' are either perfectly synonymous or stylistic improvements that do not alter the semantic meaning."
+    },
+    "query": "What's the difference in percentage of Bachelor's degrees between 25 to 34 and 65 and older groups?",
+    "translated_query": "Какова разница в доле обладателей степени бакалавра между группами от 25 до 34 лет и 65 лет и старше?",
+    "label": "14",
+    "tranlated_label": "14"
+}

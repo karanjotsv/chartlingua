@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data trends, values, axis labels, legend entries, and color scheme of the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that in 2005, the line for 'Other' (red) is visibly higher than the line for 'Coal' (blue). This indicates that 'Other' freight was greater than 'Coal' freight, so coal did not make up the majority."
+    },
+    "claim": "In 2005, coal made up the majority of rail freight in the UK.",
+    "label": false
+}

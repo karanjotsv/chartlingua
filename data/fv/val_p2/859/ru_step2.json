@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Occupation' vs 'profession', 'males' vs 'men', 'close to 20' vs 'around 20 years old', and 'in Ripple' vs 'at Ripple' are all minor stylistic or synonymous differences that do not alter the core semantic information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (chart labels) is identical in both the original and back-translated JSONs. All other text fields are null in both, indicating perfect semantic equivalence."
+    },
+    "claim": "In unspecified occupation the males close to 20 have worked in Ripple 1881.",
+    "translated_claim": "В неуточненной профессии мужчины в возрасте около 20 лет работали в Ripple 1881."
+}

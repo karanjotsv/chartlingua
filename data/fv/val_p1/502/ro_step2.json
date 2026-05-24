@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the meaning by changing 'largest' to 'most common'. In a statistical context, these terms are not equivalent; 'largest' likely refers to the highest salary bracket by value, whereas 'most common' refers to the modal bracket (the one with the highest frequency of members)."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content has excellent semantic equivalence. The changes from 'Titles' to 'Positions' and 'Member' to 'Membership' are synonymous in this context and do not alter the meaning. All other text is identical."
+    },
+    "claim": "The largest annual salary range for NYSSA Members is between 175,000 - 190,000.",
+    "translated_claim": "Cel mai mare interval salarial anual pentru membrii NYSSA este între 175.000 - 190.000."
+}

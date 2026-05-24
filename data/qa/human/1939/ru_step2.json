@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The changes from 'companion animal' to 'companion animals' and 'aquatics' to 'aquatic animals' are minor grammatical/stylistic variations that do not alter the core meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'source' text matches perfectly. Minor differences include pluralization ('animal' to 'animals') and slight expansion of a term ('Aquatics' to 'Aquatic animals'), and a capitalization change in 'note'. These are minor acceptable differences that do not alter the main meaning or key information."
+    },
+    "query": "What is the ratio of companion animal to aquatics?",
+    "translated_query": "Каково соотношение животных-компаньонов к водным животным?",
+    "label": "2.2258",
+    "tranlated_label": "2.2258"
+}

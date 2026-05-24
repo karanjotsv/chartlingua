@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "ਫੌਜ",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "ਪੁਲਿਸ",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "ਰਾਸ਼ਟਰੀ ਸਰਕਾਰ",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "ਧਾਰਮਿਕ ਆਗੂ",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "ਅਦਾਲਤੀ ਪ੍ਰਣਾਲੀ",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "ਮੀਡੀਆ",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "ਫੌਜ ਬਾਰੇ ਵਿਚਾਰ ਸਕਾਰਾਤਮਕ,<br>ਮੀਡੀਆ ਬਾਰੇ ਨਕਾਰਾਤਮਕ",
+        "subtitle": "<i>ਤੁਰਕੀ ਵਿੱਚ ਚੀਜ਼ਾਂ ਕਿਵੇਂ ਚੱਲ ਰਹੀਆਂ ਹਨ, ਇਸ 'ਤੇ (ਦੀ) ___ ਦਾ ਕਿਸ ਤਰ੍ਹਾਂ ਦਾ ਪ੍ਰਭਾਵ ਹੈ?</i>",
+        "source": "ਸਰੋਤ: ਬਸੰਤ 2015 ਗਲੋਬਲ ਐਟੀਟਿਊਡਜ਼ ਸਰਵੇਖਣ, Q79a-f.",
+        "note": "ਪਿਊ ਰਿਸਰਚ ਸੈਂਟਰ",
+        "series_labels": [
+            "ਮਾੜਾ",
+            "ਚੰਗਾ"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

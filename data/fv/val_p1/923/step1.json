@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the distribution of 'World Religions by percentage', and the slice representing 'Christians' is the largest, with a value of 33.32%. This percentage is higher than that of any other group listed, which directly supports the claim that Christians were the largest world religion by percentage."
+    },
+    "claim": "The largest world religion by percentage in 2010 was Christians.",
+    "label": true
+}

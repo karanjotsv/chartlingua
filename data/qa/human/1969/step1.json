@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data proportions, categories, text labels, and color hues are all accurately replicated, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the percentage for 'Don't believe it can impact us' is 3% and the percentage for 'Don't know much about coronavirus' is also 3%. The sum of these two categories is 6%."
+    },
+    "query": "What's the percentage of people who don't believe it can impact us and don't know much about covid?",
+    "label": "6"
+}

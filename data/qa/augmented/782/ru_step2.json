@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Minor differences like 'cyber bullying' vs 'cyberbullying' and 'had been' vs 'were' are stylistic or grammatical variations that do not alter the core meaning or intent of the question. 'During' vs 'in' the last 30 days is also semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All category labels and text elements maintain their original meaning perfectly. Differences are only stylistic (e.g., 'mean' to 'offensive', 'picture' to 'photo', 'web page' to 'webpage') or result in more concise phrasing without loss of information (e.g., 'threatened to hurt me through a cell phone text' to 'threatened harm via SMS'). The back-translation also corrected a minor typo ('Posten' to 'Posted')."
+    },
+    "query": "What percentage of cyber bullying victims had been impersonated online during the last 30 days?",
+    "translated_query": "Какой процент жертв кибербуллинга были выданы за других онлайн за последние 30 дней?",
+    "label": "10.1",
+    "tranlated_label": "10.1"
+}

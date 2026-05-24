@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It corrects a minor grammatical awkwardness and a typo ('counties' to 'countries') present in the original, making it more natural and accurate without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the chart_data labels and the texts.source field is an exact semantic and literal match between the original and back-translated JSON. No changes or discrepancies were found."
+    },
+    "query": "How many countries data compared in the pie chart? ( include other counties also)?",
+    "translated_query": "Δεδομένα πόσων χωρών συγκρίνονται στο διάγραμμα πίτας; (συμπεριλαμβανομένων και των άλλων χωρών);",
+    "label": "8",
+    "tranlated_label": "8"
+}

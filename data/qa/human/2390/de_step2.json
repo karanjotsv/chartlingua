@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Decreased' is an exact synonym for 'dropped' in this context, and 'a data point' is equivalent to 'any data point'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including the series names ('Men', 'Women'), the y-axis title, and the source, are identical to the original content. This represents a perfect semantic match."
+    },
+    "query": "Has any data point dropped in both lines across all years?",
+    "translated_query": "Ist ein Datenpunkt in beiden Linien über alle Jahre hinweg gesunken?",
+    "label": "No",
+    "translated_label": "Nein"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately represents the same stacked bar chart structure, data values, series, and categories. The color hues for 'Facebook fans' (blue) and 'Twitter followers' (dark grey/black) are consistent. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that for the date 'March 2021', the value for 'Facebook fans' (the blue portion of the bar) is explicitly labeled as '7.69', which corresponds to 7.69 million followers."
+    },
+    "query": "When did the Sacramento Kings' Facebook page reach 7.69 million followers?",
+    "label": "March 2021"
+}

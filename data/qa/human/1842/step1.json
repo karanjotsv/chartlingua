@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, text content (title, source, labels), and color-coding for the two series (Belgium and New Zealand) are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The chart includes a label pointing to the blue line that explicitly identifies it as 'Belgium'."
+    },
+    "query": "Which country is represented by blue color line?",
+    "label": "Belgium"
+}

@@ -1,0 +1,54 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Austria",
+            "x": [
+                2013,
+                2014,
+                2015,
+                2016,
+                2017,
+                2018
+            ],
+            "y": [
+                107.5,
+                109.5,
+                100.5,
+                99.5,
+                100.5,
+                101.5
+            ]
+        },
+        {
+            "name": "Chile",
+            "x": [
+                2013,
+                2014,
+                2015,
+                2016,
+                2017,
+                2018
+            ],
+            "y": [
+                71.5,
+                66.5,
+                68.0,
+                68.0,
+                70.5,
+                72.0
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Indici ai nivelului prețurilor",
+        "subtitle": "Total, OECD=100, 2013 – 2018",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Sursă: Prețuri: Niveluri comparative ale prețurilor"
+    },
+    "colors": [
+        "#3793cb",
+        "#d94448"
+    ]
+}

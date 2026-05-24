@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the title, all data categories, their relative proportions, and color hues. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays and labels exactly seven categories of greenhouse gas sources: 'Electricity (gas)', 'Cement', 'Home fuel', 'Cattle', 'Road Transport', 'Electricity (coal)', and 'Other'. The title confirms the context is 'Turkey 2018'."
+    },
+    "claim": "Greenhouse gases sources are distributed by seven categories in Turkey 2018.",
+    "label": true
+}

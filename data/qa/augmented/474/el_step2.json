@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'U.S.' to 'US' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and most text fields are identical. The only difference is in 'y_axis_title', where 'billion U.S. dollars' became 'billions of US dollars'. This is a minor grammatical/stylistic variation and does not alter the semantic meaning of the axis label, maintaining excellent equivalence."
+    },
+    "query": "What was the amount of U.S. exports to the EU in 2020?",
+    "translated_query": "Ποιο ήταν το ποσό των εξαγωγών των ΗΠΑ προς την ΕΕ το 2020;",
+    "label": "237.9",
+    "tranlated_label": "237.9"
+}

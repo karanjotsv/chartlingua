@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical. The only major difference is the stylistic choice to explode the 'Mozilla Firefox' slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses donation amounts and revenue breakdown, while the provided pie chart shows the market share percentages for different web browsers. The chart contains no information about donations or revenue."
+    },
+    "claim": "The donation amount under $10 comprises 18% of distribution in 2014-2015 for revenue breakdown.",
+    "label": "TRUE"
+}

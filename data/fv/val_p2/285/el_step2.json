@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The core meaning of a 5% difference between the two entities is preserved. 'Unidentified' changing to 'unspecified' and 'charts' changing to 'categories' are minor lexical variations that do not significantly alter the overall semantic intent, though 'charts' specifically implying a visual representation is a slight nuance lost to 'categories'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart data categories maintain excellent semantic equivalence with the original. Minor differences like 'Bacillus' vs 'Bacilli', 'Lysobacter' vs 'Lysobacteria', 'Amebae' vs 'Amoebas', and 'Unidentified' vs 'Unspecified' are either valid plural forms, stylistic choices, or very close synonyms in the chart context, none altering the meaning. The 'gram negative' to 'Gram-negative' change is a minor stylistic/grammatical improvement."
+    },
+    "claim": "The difference between unidentified and Bacillus charts is 5%.",
+    "translated_claim": "Η διαφορά μεταξύ απροσδιόριστων και βακίλλων διαγραμμάτων είναι 5%."
+}

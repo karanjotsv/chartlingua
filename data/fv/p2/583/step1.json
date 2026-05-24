@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the general shapes, colors, and crossover point of the two data lines. However, it is missing both the x-axis and y-axis titles ('index-value' and 'probability of career success'), which is a significant omission of key contextual information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data for 'c-index' and 'h-index'. The term 'Coal' is not mentioned or represented anywhere on the chart."
+    },
+    "claim": "Coal is the smallest one on the chart.",
+    "label": "FALSE"
+}

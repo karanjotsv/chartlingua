@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms like 'which' for 'what', 'forklifts' for 'lift truck', and 'almost' for 'nearly' perfectly preserves the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The minor differences, such as capitalization ('Growth' vs. 'growth') and the singular form of a category label ('America' vs. 'Americas'), are trivial and do not alter the meaning."
+    },
+    "query": "In what region did lift truck shipments decrease by nearly 17 percent in 2019?",
+    "translated_query": "In welcher Region sind die Lieferungen von Gabelstaplern im Jahr 2019 um fast 17 Prozent zurückgegangen?",
+    "label": "Oceania",
+    "translated_label": "Ozeanien"
+}

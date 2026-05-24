@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "От 2 до 3 часов",
+            "value": 13,
+            "display_text": "От 2 до 3<br>часов,<br>13%"
+        },
+        {
+            "category": "От 3 до 5 часов",
+            "value": 43,
+            "display_text": "От 3 до 5<br>часов,<br>43%"
+        },
+        {
+            "category": "От 5 до 8 часов",
+            "value": 35,
+            "display_text": "От 5 до 8<br>часов,<br>35%"
+        },
+        {
+            "category": "Более 8 часов",
+            "value": 9,
+            "display_text": "Более<br>8<br>часов,<br>9%"
+        }
+    ],
+    "texts": {
+        "title": "Эдитатоны<br><b>Длительность событий</b>",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#636363",
+        "#46a87e",
+        "#00729f",
+        "#b3200b"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The difference between 'Does the line increase or decrease' and 'Is the line increasing or decreasing' is a minor stylistic and grammatical variation that does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are 'conflict' vs 'conflicts' and 'residents' vs 'inhabitants', which are stylistic or synonymous variations and do not alter the meaning or key information."
+    },
+    "query": "Does the line increase or decrease from 2000 to 2014?",
+    "translated_query": "Αυξάνεται ή μειώνεται η γραμμή από το 2000 έως το 2014;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

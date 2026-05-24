@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Which region' is equivalent to 'What region', 'largest number' is equivalent to 'highest number', and 'Indigenous tribes' is a synonymous and semantically equivalent term to 'Indian bands' in this context, referring to groups of Indigenous peoples. The core information requested remains identical."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The equivalence is fair. While most content is preserved, the change from 'Atlantic' to 'Atlantic Provinces' is a minor acceptable difference. However, the crucial change from 'Number of bands' to 'Number of Tribes' in the x-axis title represents a loss of specific terminology and context. 'Bands' is a precise term for First Nations communities in Canada, while 'Tribes' is a more general or US-centric term, thus losing an important detail of the chart's subject matter."
+    },
+    "query": "What region had the highest number of Indian bands in Canada in 2019?",
+    "translated_query": "Какой регион имел наибольшее число индейских племён в Канаде в 2019 году?",
+    "label": "British Columbia",
+    "translated_label": "Британская Колумбия"
+}

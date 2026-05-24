@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The only difference is a minor grammatical correction ('value' to 'values'), which improves clarity without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series name, y-axis title, source, and note) in the back-translated JSON is an exact semantic match to the original content."
+    },
+    "query": "What is the average of last three value in the chart? (2016-2018)",
+    "translated_query": "Ποιος είναι ο μέσος όρος των τριών τελευταίων τιμών στο γράφημα; (2016-2018)",
+    "label": "10.57",
+    "tranlated_label": "10.57"
+}

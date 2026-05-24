@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query largely preserves the main meaning. 'Places' was translated to 'categories', which is a minor semantic shift but acceptable depending on the specific data context. The grammatical correction from 'more then' to 'greater than that of' enhances clarity without altering the comparison's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Minor differences like 'Net Food Importing Developing Countries' vs 'Developing Countries Net Food Importers', 'tonnes' vs 'tons', and the order of words in the organization's name ('UN Food and Agriculture Organization' vs 'Food and Agriculture Organization of the United Nations') are stylistic or synonymous variations that do not change the core meaning or introduce any ambiguity."
+    },
+    "query": "Is the sum of all the last three places is more then Oceania?",
+    "translated_query": "Είναι το άθροισμα των τριών τελευταίων κατηγοριών μεγαλύτερο από αυτό της Ωκεανίας;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

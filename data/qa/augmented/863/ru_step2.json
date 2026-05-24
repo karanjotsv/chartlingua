@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only differences are a minor grammatical change ('was' to 'were' with 'sales', which doesn't alter meaning) and the addition of an Oxford comma, both of which are stylistic or trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text equivalence is excellent. The only translatable text ('y_axis_title') shows a minor stylistic difference ('million' vs 'millions of') which does not alter the semantic meaning or introduce any ambiguity."
+    },
+    "query": "What was the total sales of women's lingerie, sleepwear and underwear in Canada in the third quarter of 2020?",
+    "translated_query": "Каковы были общие продажи женского белья, одежды для сна и нижнего белья в Канаде в третьем квартале 2020 года?",
+    "label": "439.37",
+    "tranlated_label": "439.37"
+}

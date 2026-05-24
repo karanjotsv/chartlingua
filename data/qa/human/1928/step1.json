@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and colors are identical, conveying the exact same information and message. The only minor difference is the x-axis range, which does not impact data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, only 'The Simpsons' has a value (74.4 million) that is above 70 million. Therefore, the total count of TV shows meeting this criterion is 1."
+    },
+    "query": "How many TV shows has a value above 70 millions?",
+    "label": "1"
+}

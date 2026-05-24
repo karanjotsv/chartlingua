@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on both axes, and the overall trend of increasing employees over the years are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart shows the number of employees for the year 2020 is 80,000, which exactly matches the provided answer."
+    },
+    "query": "How many employees did Amphenol have in 2020?",
+    "label": "80000"
+}

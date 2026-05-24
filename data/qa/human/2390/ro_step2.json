@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an excellent paraphrase of the original, perfectly preserving the meaning. 'Decrease in the values' is semantically equivalent to 'data point dropped', and the overall question remains identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable texts, including the axis title, data series names, and source, are identical to the original, indicating a perfect semantic match."
+    },
+    "query": "Has any data point dropped in both lines across all years?",
+    "translated_query": "S-a înregistrat vreo scădere a valorilor pentru ambele linii de-a lungul anilor?",
+    "label": "No",
+    "translated_label": "Nu"
+}

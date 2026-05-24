@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (Taste 36%, ADA 32%, Brand Confidence 32%), categories, and text content, including the title, are identical. The grayscale color scheme is also consistent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap between the label for the 'Brand Confidence' slice and the chart's legend, which makes the text in that area difficult to read."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that 'Taste' accounts for 36% of the factors, which is a higher percentage than 'ADA' (32%) and 'Brand Confidence' (32%), making it the most significant factor presented."
+    },
+    "claim": "Toothpaste taste is the most important factor for an individual when choosing a toothpaste.",
+    "label": true
+}

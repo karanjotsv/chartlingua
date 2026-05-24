@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, proportions, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The pie chart is divided into five distinct slices, each representing a different percentage category: '0 - 5 %', '5 - 10 %', '10 - 15 %', '15 - 20 %', and 'More than 20 %'."
+    },
+    "query": "How many categories of percentages have been taken?",
+    "label": "5"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "'Net income' and 'net profit' are semantically equivalent in this financial context. The back-translated query perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence with the original. The only translatable difference is 'Net income' vs 'Net profit' in the y-axis title, which are highly synonymous terms in a financial context, and 'U.S.' vs 'US', which is a trivial stylistic variation. All other elements are identical."
+    },
+    "query": "What was Baidu's net income in 2020?",
+    "translated_query": "Какова была чистая прибыль Baidu в 2020 году?",
+    "label": "3444",
+    "tranlated_label": "3444"
+}

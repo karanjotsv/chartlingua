@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and their relative proportions are identical. The color hues for each category are also consistent with the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 'BBC ONE' accounts for the largest percentage (34%), but it does not provide any information to confirm that these percentages represent 'average licence fee spend' or that the data is from '2005-2006'."
+    },
+    "claim": "BBC ONE has the highest average licence fee spend in 2005-2006.",
+    "label": true
+}

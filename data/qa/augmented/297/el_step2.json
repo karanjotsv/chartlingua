@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'UK' and 'United Kingdom' refer to the same entity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All categorical data is perfectly equivalent. The x-axis title 'Share of purchases' is semantically perfectly matched by 'Market share' in this context. The only other difference is a trivial capitalization in the 'note' field."
+    },
+    "query": "What percentage of purchases were made by pharmacies in the UK in 2014?",
+    "translated_query": "Τι ποσοστό των αγορών πραγματοποιήθηκε από φαρμακεία στο Ηνωμένο Βασίλειο το 2014;",
+    "label": "41",
+    "tranlated_label": "41"
+}

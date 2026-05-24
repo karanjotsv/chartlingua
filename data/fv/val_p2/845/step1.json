@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message is identical. The only difference is a stylistic choice to 'explode' one of the slices, which does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays market share percentages for web browsers such as Google Chrome and Internet Explorer. The claim, however, discusses the absorption coefficient of Hb and HbO2, topics which are not mentioned or represented in the chart at all."
+    },
+    "claim": "The absorption coefficient of Hb is higher at 1000nm than HbO2.",
+    "label": "FALSE"
+}

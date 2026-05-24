@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It has the same title, subtitle, data categories, numerical values, and proportions. The color hues for each category are also consistent, ensuring the overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the counts for different resting positions of Peppered Moths. The category 'Branches (> 5cm diameter)' has a count of 10, which is the highest value among all categories shown (10 > 8 > 3 > 1 = 1). Therefore, it is the dominant resting position."
+    },
+    "claim": "The dominant resting position for Peppered moths is on branches greater than 5cm in diameter.",
+    "label": "TRUE"
+}

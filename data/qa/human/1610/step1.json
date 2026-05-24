@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, titles, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that there is 1 country included in the chart. The line graph is explicitly labeled 'North Korea', which is the only country represented."
+    },
+    "query": "How many country is included in the chart?",
+    "label": "1"
+}

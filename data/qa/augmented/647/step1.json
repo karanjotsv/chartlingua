@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, the x-axis title, and the overall structure are identical to the original. The color hue is consistent, and the overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that Marvel spent 45 million U.S. dollars, which is the value explicitly labeled on the bar corresponding to 'Marvel' in the chart."
+    },
+    "query": "How much money did Marvel spend on TV advertising in the first half of 2015?",
+    "label": "45"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and their order are identical. The color hue and overall message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart ranks companies by net profit in descending order. The most profitable company is Telenor ASA, and the second most profitable company is Telia Company AB, as stated in the answer."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "label": "Telia Company AB"
+}

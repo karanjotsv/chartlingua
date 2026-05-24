@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Graph' and 'chart' are synonymous in this context, and 'is decreasing' versus 'decreases' conveys the identical trend."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object (specifically 'x_axis_title' and 'y_axis_title' which have values, and all null fields) is perfectly preserved and identical in the back-translated content."
+    },
+    "claim": "The value represented by the graph is decreasing over time.",
+    "translated_claim": "Η τιμή που αντιπροσωπεύεται από το γράφημα μειώνεται με την πάροδο του χρόνου."
+}

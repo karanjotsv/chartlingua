@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color hues, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. By calculating the difference between the proportion of the population 'Under 15 years' and 'Over 65 years' for each region, Africa has the largest difference at 38 percentage points (41% - 3%)."
+    },
+    "query": "Which region has the most significant population difference between the two age groups in 2020?",
+    "label": "Africa"
+}

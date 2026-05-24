@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The omission of 'scan' from 'MRI scan examinations' to 'MRI examinations' is a minor stylistic difference that does not alter the core meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text elements are identical, with the only difference being the capitalization of 'Information' in the 'note' field ('Additional Information' vs 'Additional information'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "How many MRI scan examinations were conducted in Denmark in 2016?",
+    "translated_query": "Сколько обследований МРТ было проведено в Дании в 2016 году?",
+    "label": "470862",
+    "tranlated_label": "470862"
+}

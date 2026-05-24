@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. Color hues are consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the average ticket price for the 2006/07 season is 54.62, which directly corresponds to the value labeled on the first bar of the chart."
+    },
+    "query": "What was the average ticket price in the 2006/07 season?",
+    "label": "54.62"
+}

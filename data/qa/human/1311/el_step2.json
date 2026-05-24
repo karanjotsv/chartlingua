@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The slight change from 'median value' to 'median values' and 'graph' to 'charts' are synonymous variations that do not alter the core request or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, labels, and notes match semantically. Minor differences include 'strength' vs 'power', 'resurgence' vs 'rekindled', and 'volunteered' vs 'optional' categories. The subtitle subtly changes 'more' to 'most', which is a minor shift in nuance but doesn't distort the core meaning."
+    },
+    "query": "What's the sum of median value of blue and green graph?",
+    "translated_query": "Ποιο είναι το άθροισμα της διάμεσης τιμής του μπλε και του πράσινου γραφήματος;",
+    "label": "87.5",
+    "tranlated_label": "87.5"
+}

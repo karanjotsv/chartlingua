@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data labels, numerical values, and color hues are consistent with the original. The only difference is the stylistic choice to explode the 'Mozilla Firefox' slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the market share of web browsers, such as Internet Explorer (29.05%) and Google Chrome (23.22%). The claim is about HIV/AIDS infection rates among ethnic groups, a topic that is completely unrelated to the information presented in the chart."
+    },
+    "claim": "Black people were the most HIV/AIDS infected ethnic groups among Americans in 2011.",
+    "label": "TRUE"
+}

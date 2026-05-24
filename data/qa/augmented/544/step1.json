@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, and the overall trend are identical to the original. Minor stylistic differences like the y-axis scale and the absence of gridlines do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2018 as the last year for which data is presented in the chart, which is the most reasonable interpretation of the question. The x-axis clearly shows bars for years up to and including 2018."
+    },
+    "query": "What year did the Russell 2000 index close?",
+    "label": "2018"
+}

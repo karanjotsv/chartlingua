@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Bottom range' is semantically equivalent to 'lowest range'. The change from 'has' to 'had' for the year 2007 is a minor tense adjustment that doesn't alter the factual information and is contextually appropriate."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title contains a significant semantic error: 'median family net worth' was back-translated to 'Average Household Net Worth'. Replacing 'median' with 'Average' fundamentally alters the statistical measure being presented, which is a critical piece of information for a chart. While 'family' to 'Household' is a minor change, the change in the statistical term represents a distortion of key information."
+    },
+    "claim": "The bottom range or lowest 25% has a net worth of 10,000 in 2007.",
+    "translated_claim": "Το κατώτερο εύρος ή το χαμηλότερο 25% είχε καθαρή αξία 10.000 το 2007."
+}

@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Military",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "Police",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "National gov't",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "Religious leaders",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "Court system",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "Media",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Views Lean Positive on Military,<br>Negative on Media",
+        "subtitle": "<i>What kind of influence is/are (the) ___ having on the<br>way things are going in Turkey?</i>",
+        "source": "Source: Spring 2015 Global Attitudes survey, Q79a-f.",
+        "note": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Bad",
+            "Good"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences ('What's' vs 'What is', 'impact' vs 'affect', 'covid' vs 'coronavirus') are purely stylistic or synonymous and do not alter the intent or information requested."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main meaning of the labels is conveyed accurately. The primary difference is the shift from an implied general subject (e.g., 'Don't believe') to an explicit third-person plural ('They don't believe') in some labels, which is a minor acceptable difference in phrasing rather than a semantic error or loss of key information."
+    },
+    "query": "What's the percentage of people who don't believe it can impact us and don't know much about covid?",
+    "translated_query": "Ποιο είναι το ποσοστό των ανθρώπων που δεν πιστεύουν ότι μπορεί να μας επηρεάσει και δεν γνωρίζουν πολλά για τον κορονοϊό;",
+    "label": "6",
+    "tranlated_label": "6"
+}

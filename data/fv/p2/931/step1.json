@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trend, logarithmic scale, axis labels, title, and overall color scheme are all accurately reproduced. The key information and message are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the number of U.S. Patents Granted from 1870 to the early 2000s. The line graph exhibits a clear and sustained upward trend across this entire period, starting near 10,000 patents and ending well above 100,000, thus confirming that the number of patents granted has expanded over time."
+    },
+    "claim": "In this chart , The number of U.S. patents granted has expanded over time.",
+    "label": "TRUE"
+}

@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "category": "Prea mult",
+            "value": 3
+        },
+        {
+            "category": "Prea puțin",
+            "value": 25
+        },
+        {
+            "category": "Potrivit",
+            "value": 66
+        },
+        {
+            "category": "Altele",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "Ce părere aveți despre faptul că<br>dezvoltatorii angajați își dedică 20% din timpul lor<br>pentru a asista dezvoltarea realizată de voluntari?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00599c",
+        "#339966",
+        "#a50000",
+        "#66cccc"
+    ]
+}

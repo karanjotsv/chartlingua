@@ -1,0 +1,50 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Neue Autos",
+            "data": [
+                3231,
+                2968,
+                2877,
+                2626,
+                2343,
+                2314,
+                2225
+            ]
+        },
+        {
+            "name": "Gebrauchtwagen",
+            "data": [
+                2734,
+                2787,
+                2993,
+                3280,
+                3538,
+                3871,
+                4186
+            ]
+        }
+    ],
+    "categories": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Kredite in Millionen Euro",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#337CCF",
+        "#1A2C3A"
+    ]
+}

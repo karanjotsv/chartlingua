@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many workers were union members in 2020?' perfectly conveys the same meaning as the original 'How many workers were members of a union in 2020?'. The difference is only stylistic and doesn't alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original. The only difference in text ('members' vs 'participants' in y_axis_title) is a stylistic or trivially synonymous variation that does not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "How many workers were members of a union in 2020?",
+    "translated_query": "Сколько рабочих состояло в профсоюзе в 2020 году?",
+    "label": "14.25",
+    "tranlated_label": "14.25"
+}

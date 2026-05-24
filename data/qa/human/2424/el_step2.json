@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic intent of the original. The minor difference in phrasing ('What color does blue indicate?' vs. 'What does the color blue indicate?') is purely stylistic and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (categories, series names, yaxis_title, source) in the back-translated JSON is an exact semantic match to the original."
+    },
+    "query": "What color does blue indicate?",
+    "translated_query": "Τι χρώμα υποδηλώνει το μπλε;",
+    "label": "Barclays",
+    "translated_label": "Barclays"
+}

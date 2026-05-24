@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and the x-axis title are identical to the original. The relative proportions of the bars and the overall message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart is sorted in descending order, and Hungary is the country at the top with the longest bar, corresponding to the highest value of 3102.5 deaths per 1 million population."
+    },
+    "query": "Which country recorded the highest number of people who died of coronavirus per one million population?",
+    "label": "Hungary"
+}

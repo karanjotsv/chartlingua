@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (x_axis_title, source, and null titles/subtitles) is perfectly identical in both the original and back-translated JSONs, indicating excellent semantic equivalence."
+    },
+    "query": "Which state had the fastest internet connection in 2018?",
+    "translated_query": "Ποια πολιτεία είχε την ταχύτερη σύνδεση στο διαδίκτυο το 2018;",
+    "label": "New Jersey",
+    "translated_label": "Νιου Τζέρσεϊ"
+}

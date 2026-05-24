@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart, which represents the 'World Average, 2008', shows that 46% of respondents believe Al-Qaeda was behind the 9/11 attacks. The figure 46% is reasonably described as 'almost half'."
+    },
+    "claim": "Almost half of the world believes Al-Queda was responsible for the 911 attacks.",
+    "label": true
+}

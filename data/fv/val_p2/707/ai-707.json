@@ -1,0 +1,253 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Esophagus",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Skin",
+            "value": 3,
+            "color": "#fca981"
+        },
+        {
+            "category": "Epididymis",
+            "value": 3,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Testis",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Kidney",
+            "value": 3,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Oral mucosa",
+            "value": 3,
+            "color": "#e69f00"
+        },
+        {
+            "category": "Adrenal gland",
+            "value": 3,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Skeletal muscle",
+            "value": 3,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Duodenum",
+            "value": 2,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Cerebral cortex",
+            "value": 2,
+            "color": "#009e73"
+        },
+        {
+            "category": "Tonsil",
+            "value": 2,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Fallopian tube",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Heart muscle",
+            "value": 2,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Endometrium",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Vagina",
+            "value": 2,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Nasopharynx",
+            "value": 2,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Bronchus",
+            "value": 2,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Seminal vesicle",
+            "value": 2,
+            "color": "#89d1ee"
+        },
+        {
+            "category": "Liver",
+            "value": 2,
+            "color": "#d3c4e3"
+        },
+        {
+            "category": "Gallbladder",
+            "value": 2,
+            "color": "#d3c4e3"
+        },
+        {
+            "category": "Pancreas",
+            "value": 2,
+            "color": "#8fc488"
+        },
+        {
+            "category": "Colon",
+            "value": 2,
+            "color": "#009e73"
+        },
+        {
+            "category": "Small intestine",
+            "value": 2,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Parathyroid gland",
+            "value": 2,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Rectum",
+            "value": 2,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Lymph node",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Stomach",
+            "value": 1,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Thyroid gland",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Cerebellum",
+            "value": 1,
+            "color": "#814e9c"
+        },
+        {
+            "category": "Caudate",
+            "value": 1,
+            "color": "#8fc488"
+        },
+        {
+            "category": "Lung",
+            "value": 1,
+            "color": "#f5c758"
+        },
+        {
+            "category": "Salivary gland",
+            "value": 1,
+            "color": "#0172b3"
+        },
+        {
+            "category": "Placenta",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Breast",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Appendix",
+            "value": 1,
+            "color": "#99a8ac"
+        },
+        {
+            "category": "Cervix, uterine",
+            "value": 1,
+            "color": "#f9bee2"
+        },
+        {
+            "category": "Smooth muscle",
+            "value": 1,
+            "color": "#cc79a7"
+        },
+        {
+            "category": "Soft tissue",
+            "value": 1,
+            "color": "#a6d8d4"
+        },
+        {
+            "category": "Hippocampus",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Bone marrow",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Urinary bladder",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Spleen",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Adipose tissue",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Prostate",
+            "value": 0,
+            "color": "#000000"
+        },
+        {
+            "category": "Ovary",
+            "value": 0,
+            "color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "SCORE",
+        "source": null,
+        "note": null,
+        "y_axis_labels": {
+            "values": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "texts": [
+                "High",
+                "Medium",
+                "Low",
+                "Not<br>detected"
+            ]
+        }
+    },
+    "colors": []
+}

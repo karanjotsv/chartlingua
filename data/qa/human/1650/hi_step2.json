@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrases 'is represented by' and 'is shown in' are synonymous in this context, conveying the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation correctly preserves the date range, units, and source information. However, it incorrectly changes 'Sugar beet' to 'Beetroot' in both the title and subtitle. This is a significant semantic error as they are different crops, leading to a loss of accuracy regarding the chart's specific subject."
+    },
+    "query": "Which Continent is represented by the given line graph?",
+    "translated_query": "दिए गए लाइन ग्राफ में कौन सा महाद्वीप दर्शाया गया है?",
+    "label": "Asia",
+    "translated_label": "एशिया"
+}

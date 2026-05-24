@@ -1,0 +1,70 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Соединенные Штаты",
+            "values": [
+                2.5,
+                1.3,
+                1.3
+            ]
+        },
+        {
+            "category": "Канада",
+            "values": [
+                3.0,
+                2.0,
+                1.2
+            ]
+        },
+        {
+            "category": "Австралия",
+            "values": [
+                3.4,
+                1.4,
+                1.4
+            ]
+        },
+        {
+            "category": "Китай",
+            "values": [
+                3.0,
+                1.3,
+                1.2
+            ]
+        },
+        {
+            "category": "Индия",
+            "values": [
+                3.9,
+                1.5,
+                1.3
+            ]
+        },
+        {
+            "category": "Соединенное Королевство",
+            "values": [
+                2.7,
+                1.1,
+                1.4
+            ]
+        }
+    ],
+    "series_names": [
+        "LinkedIn",
+        "Facebook",
+        "Twitter"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Количество заявок",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B76C9",
+        "#0C2337",
+        "#C4C4C4"
+    ]
+}

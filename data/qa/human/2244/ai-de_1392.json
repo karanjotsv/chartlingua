@@ -1,0 +1,57 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Sehr nützlich",
+            "y": [
+                22,
+                27,
+                21,
+                7,
+                5
+            ],
+            "text": [
+                "22%",
+                "27%",
+                "21%",
+                "7%",
+                "5%"
+            ]
+        },
+        {
+            "name": "Nützlich",
+            "y": [
+                31,
+                13,
+                7,
+                17,
+                13
+            ],
+            "text": [
+                "31%",
+                "13%",
+                "7%",
+                "17%",
+                "13%"
+            ]
+        }
+    ],
+    "categories": [
+        "Hotels finden und buchen<br>usw.",
+        "Parkplätze verwalten<br>/ Autoservices",
+        "Internetfernsehen",
+        "Sprache-zu-E-Mail-<br>Technologie",
+        "Twitter / soziale<br>Netzwerke"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#257CDE",
+        "#1A2D46"
+    ]
+}

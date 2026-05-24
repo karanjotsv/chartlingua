@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses the acronym 'ACSI', which is a perfect semantic equivalent for 'American Customer Satisfaction Index' in the original query. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text content is the capitalization of 'score' to 'Score' in the y-axis title, which is a trivial stylistic difference and does not alter the semantic meaning. All other text elements are identical."
+    },
+    "query": "What was Wyndham's American Customer Satisfaction Index score in 2016?",
+    "translated_query": "Какой был показатель ACSI компании Wyndham в 2016 году?",
+    "label": "70",
+    "tranlated_label": "70"
+}

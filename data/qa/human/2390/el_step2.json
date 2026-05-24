@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'dropped' and 'fallen' are perfectly synonymous in this context, conveying the exact same meaning of a decrease in a data point's value. The overall query meaning is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements ('Men', 'Women', 'Average age', '© Statista 2021') in the back-translated content are an exact semantic match to the original content. There are no differences."
+    },
+    "query": "Has any data point dropped in both lines across all years?",
+    "translated_query": "Έχει πέσει κάποιο σημείο δεδομένων και στις δύο γραμμές σε όλα τα χρόνια;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

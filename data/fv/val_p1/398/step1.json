@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, text labels (title, legend), and color hues are identical to the original. The overall message is preserved without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Neutral' is the least percentage, but the chart's legend clearly shows 'Neutral' at 44.7%, which is the highest percentage. The lowest percentage is 'Oppose' at 27.4%."
+    },
+    "claim": "Neutral is the least percentage for the Signpost pie chart.",
+    "label": false
+}

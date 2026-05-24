@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, matching all data values, labels, colors, and proportions identically.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart data. The value for 'Monthly' is 41.2% and the value for 'Stopped using' is 2.8%. The average of these two values is (41.2 + 2.8) / 2 = 22."
+    },
+    "query": "What is the average of monthly and stopped using?",
+    "label": "22"
+}

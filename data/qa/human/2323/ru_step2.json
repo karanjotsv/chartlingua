@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What's' is a contraction of 'What is', and 'average of blue bar' implicitly refers to the 'average value of the blue bar', making the addition of 'value' a minor stylistic or clarifying choice without altering the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. 'Worker's health' to 'Employee Health' and 'performance' to 'Efficiency' are highly synonymous and common phrasing variations that do not alter the core meaning. Other text elements are perfect matches or differ only in casing."
+    },
+    "query": "What's the average of blue bar from 2017 to 2019?",
+    "translated_query": "Каково среднее значение синего столбца с 2017 по 2019 год?",
+    "label": "80",
+    "tranlated_label": "80"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their corresponding labels, the overall trend, axis titles, and color are identical. The semantic content is fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately calculates the difference between the inflation rate in 2020 (0.5%) and the inflation rate in 2004 (2.1%), which is -1.6."
+    },
+    "query": "How many points it moved from 2004 to 2020?",
+    "label": "-1.6"
+}

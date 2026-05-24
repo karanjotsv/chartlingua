@@ -1,0 +1,58 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Formular<br>de aplicare",
+            "value": 4.1
+        },
+        {
+            "category": "Criterii<br>de selecție",
+            "value": 4.2
+        },
+        {
+            "category": "Proces<br>de selecție",
+            "value": 4.2
+        },
+        {
+            "category": "Contactul din partea<br>comitetului<br>și WMF",
+            "value": 4.3
+        },
+        {
+            "category": "Aranjamente<br>de călătorie",
+            "value": 4.2
+        },
+        {
+            "category": "Bursele<br>Wikimania<br>în ansamblu",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "Evaluări ale Comitetului de Burse Wikimania pe<br>proces, 2013",
+        "subtitle": "Evaluări medii ale procesului de Burse Wikimania 2013<br>(Complete, Cu participare; n=42)",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_note": "Notă: Include numai beneficiarii de burse complete care au participat la Wikimania; scala pentru întrebare a fost modificată în<br>2013, ceea ce a dus la efectuarea de comparații indirecte",
+        "source_survey": "Sondaj privind bursele 2013",
+        "y_axis_labels": [
+            {
+                "value": 1.0,
+                "text": "Foarte<br>nemulțumit"
+            },
+            {
+                "value": 3.0,
+                "text": "Neutru"
+            },
+            {
+                "value": 5.0,
+                "text": "Foarte<br>mulțumit"
+            }
+        ]
+    },
+    "colors": {
+        "bar_color": "#F4A55A",
+        "title_background": "#9985B6",
+        "title_font": "#FFFFFF",
+        "text_main": "#000000",
+        "grid": "#D3D3D3"
+    }
+}

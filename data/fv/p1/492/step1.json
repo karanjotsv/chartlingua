@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly reproduces the primary time-series data ('Discharge') and the general trend. However, it completely omits one of the three data series from the original ('Median daily statistic'), which removes an important layer of contextual information.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart title overlaps with the USGS logo and a thick horizontal bar at the top of the chart, making it difficult to read and indicating a significant layout issue."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim attributes the increase in water discharge to Tropical Storm Irene. While the chart shows a significant increase in discharge for the Platter Kill in August 2011, it does not mention 'Tropical Storm Irene' or provide any information about the cause of this event."
+    },
+    "claim": "The Platter Kill experience a expand in water discharge in Tropical Storm Irene in August 2011.",
+    "label": true
+}

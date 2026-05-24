@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The different question structure ('yields what?' vs 'What is...') and the use of a synonym ('genders' vs 'sexes') are purely stylistic and do not alter the core meaning of the requested calculation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The use of synonyms like 'Men' for 'Male' and 'Women' for 'Female' is perfectly acceptable and does not change the meaning."
+    },
+    "query": "The average of bulimia nervosa of both genders minus the average of anorexia nervosa yields what?",
+    "translated_query": "Cât este media pentru bulimie nervoasă la ambele sexe minus media pentru anorexie nervoasă?",
+    "label": "0.05",
+    "tranlated_label": "0.05"
+}

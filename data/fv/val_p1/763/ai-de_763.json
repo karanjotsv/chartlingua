@@ -1,0 +1,33 @@
+{
+    "chart_type": "pie",
+    "chart_data": {
+        "labels": [
+            "Mischlaubhölzer -<br>Prärie",
+            "Prärie",
+            "Schlecht entwässerte Prärie",
+            "Feuchtprärie",
+            "Wasser / Feuchtböden<br>/ Kiesgruben"
+        ],
+        "values": [
+            38,
+            23,
+            19,
+            17,
+            3
+        ]
+    },
+    "texts": {
+        "title": "Barnes County, North Dakota > 38 % Savannenböden",
+        "subtitle": null,
+        "source": "Quelle: Web Soil Survey (WSS),<br>Natural Resources Conservation Service, United States Department of Agriculture. Online verfügbar unter<br>http://websoilsurvey.nrcs.usda.gov/. Informationen zur heimischen Vegetation von NRCS/WSS, zuerst nach Bodentyp sortiert,<br>dann zusammengestellt unter Verwendung des Anteils des Bodentyps an der County-Fläche (%). Aufgerufen von Steve Nelson am 12.11.2013",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#E50000",
+        "#FFFF99",
+        "#FFCC99",
+        "#FFFF00",
+        "#0033CC"
+    ]
+}

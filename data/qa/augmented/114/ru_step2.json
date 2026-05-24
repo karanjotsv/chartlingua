@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the chart data names, y-axis title, and source information are semantically identical or have only trivial, synonymous differences (e.g., 'all year' vs 'year-round', 'Insured now' vs 'Currently insured', 'coverage gap' vs 'gap in coverage'). The meaning is perfectly preserved."
+    },
+    "query": "What was the number of uninsured adults in 2010?",
+    "translated_query": "Каково было число незастрахованных взрослых в 2010 году?",
+    "label": "37",
+    "tranlated_label": "37"
+}

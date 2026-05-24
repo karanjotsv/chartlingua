@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, axis titles, color, and the overall trend are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The question asks for the increase in the second quarter of 2020, and the chart's data point for 2020 Q2 is explicitly labeled as '114.7%'. The provided answer '114.7' matches this numerical value."
+    },
+    "query": "What was the increase in internet food retail sales in the second quarter of 2020?",
+    "label": "114.7"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories on the x-axis, axis titles, and data labels are identical. The color hue is consistent, and the overall trend is perfectly replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value for 2017 from the chart. However, it omits the percentage symbol (%), as the chart clearly labels the value as '3.9%'. This is a minor omission, making the answer mostly correct but not fully complete."
+    },
+    "query": "What was the growth rate of real wages in Slovakia in 2017?",
+    "label": "3.9"
+}

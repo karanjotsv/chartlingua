@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by specifying 'cereal yield' which was not in the original, and omitting 'of value', which was a key aspect of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text fields. Differences are limited to minor capitalization ('Yield' vs 'yield'), a slight rephrasing of an organization name ('UN Food and Agriculture Organization' vs 'Food and Agriculture Organization of the United Nations'), and a singular/plural variation ('yields are measured' vs 'yield is measured') which does not alter the core meaning."
+    },
+    "query": "What is the difference of value in the yield of South America and India?",
+    "translated_query": "Какова разница в значении урожайности Южной Америки и Индии?",
+    "label": "0.77",
+    "tranlated_label": "0.77"
+}

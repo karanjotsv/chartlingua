@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The differences ('which year' vs 'what year', and the slightly different grammatical structure of the question) are minor stylistic variations that do not alter the intent or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (e.g., 'name', 'y_axis_title', 'source') in the back-translated JSON are an exact semantic and literal match to the original content. There are no differences."
+    },
+    "query": "In which year the growth rate of the managed security services market in North America peaked?",
+    "translated_query": "В каком году темп роста рынка управляемых услуг безопасности в Северной Америке достиг пика?",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, categories, series order, and color hues are all accurately reproduced. The title and legend text are also consistent, conveying the exact same information and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the green segment, representing 'Rainfall in cm', for Mumbai(CLE) is significantly larger than the green segment for Jeur. This indicates that Mumbai(CLE) had higher rainfall, directly contradicting the claim."
+    },
+    "claim": "Jeur had maximum rainfall than Mumbai(CLE) at 08:30 Hrs, IST of July 2,2019 for Maharashtra.",
+    "label": "FALSE"
+}

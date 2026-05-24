@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents the data proportions, categories, colors, and title. However, it is missing data labels for four of the seven pie slices (natural gas, wind, biomass, hydro), which is a minor loss of specific information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart explicitly labels the 'nuclear' source as contributing 28.0% to electricity generation, which directly contradicts the claim that it was 40%."
+    },
+    "claim": "40% of nuclear source needed to generate electricity at Michigan during 2016.",
+    "label": false
+}

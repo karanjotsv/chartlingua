@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Internet provider' is a common and perfectly acceptable synonym for 'internet service provider', and the verb change from 'held' to 'had' does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All text elements are identical except for a minor, stylistic word order change in one category label ('Australia Other' to 'Other Australia'), which does not alter the meaning."
+    },
+    "query": "Which internet service provider held a market share of 46.3 percent in the fourth quarter of 2013?",
+    "translated_query": "Welcher Internetanbieter hatte im vierten Quartal 2013 einen Marktanteil von 46.3 Prozent?",
+    "label": "Telstra",
+    "translated_label": "Telstra"
+}

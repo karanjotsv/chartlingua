@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, text content, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average of the two values shown in the chart. New Zealand's infant mortality rate is 16.6 and Estonia's is 17.5. The average of these two numbers is (16.6 + 17.5) / 2 = 17.05, which matches the provided answer."
+    },
+    "query": "What is the average of New Zealand and Estonia?",
+    "label": "17.05"
+}

@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Λευκοί",
+            "Μαύροι",
+            "Λατίνοι",
+            "Ασιάτες",
+            "Άλλη φυλή"
+        ],
+        "series": [
+            {
+                "name": "Hillary Clinton",
+                "data": [
+                    37,
+                    88,
+                    65,
+                    65,
+                    56
+                ]
+            },
+            {
+                "name": "Donald Trump",
+                "data": [
+                    58,
+                    8,
+                    29,
+                    29,
+                    37
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ποσοστό ψήφων",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#4185F4",
+        "#FF0000"
+    ]
+}

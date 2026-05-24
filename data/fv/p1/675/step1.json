@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, text content (title, axes, labels), color hues, and overall trends are all accurately replicated. The only minor difference is a reordering of the last three items in the legend, which does not impact chart interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that renewables had the lowest share of electricity generation in 2017. Renewables are represented by the sum of 'Hydro' (blue) and 'Other Renewables' (orange). In the bar for 2017, the combined size of these two segments is visibly larger than the share from 'Oil' (yellow) and 'MISC' (grey). Therefore, renewables did not account for the lowest share."
+    },
+    "claim": "Renewables accounted for the lowest share of electricity generation in the US in 2017.",
+    "label": true
+}

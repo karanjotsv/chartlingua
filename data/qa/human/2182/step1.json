@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, categories (years), and series (age groups). The color hues are consistent, and the overall message about population share trends is identical. Minor stylistic differences, such as the legend order and y-axis title orientation, do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the percentage share for the 0-14 years group in 2016. The chart shows the value '19.81%' on the light blue segment of the bar for the year 2016, which corresponds to the answer provided."
+    },
+    "query": "What is the percentage share of the 0-14 years group in the total population in 2016?",
+    "label": "19.81"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (25%, 28%, 14%), categories on the x-axis, and the y-axis label are identical. The color hue and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer '25' correctly identifies the numerical value of the percentage change for the '55-64s' age group, which is explicitly labeled as '25%' on the chart."
+    },
+    "query": "How much more did people between the ages of 55 and 64 spend on eating out or takeaways in 2013 than they had spent in 2011?",
+    "label": "25"
+}

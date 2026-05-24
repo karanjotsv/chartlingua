@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, text content (title, labels, source), and color hues as the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays information about the composition of state and local government tax revenue for Ohio in 2007. The claim, however, is about Wikimedia's spending on PayPal fees and internet hosting in 2006. The chart provides no information to support or evaluate the claim."
+    },
+    "claim": "Wikimedia spent more money on PayPal Fees than Internet Hosting in 2006.",
+    "label": "FALSE"
+}

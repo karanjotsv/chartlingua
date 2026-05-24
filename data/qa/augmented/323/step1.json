@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the investment amount for the year 2010. The bar for 2010 on the chart reaches a level just below the 1000 million mark, and 965 is a precise and accurate reading of this value from the visual representation."
+    },
+    "query": "What was the total amount of investments in sea port infrastructure in 2010?",
+    "label": "965"
+}

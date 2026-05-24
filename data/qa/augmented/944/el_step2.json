@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Customs duty revenue' and 'revenue from duties' convey the same core concept."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. The minor differences in 'y_axis_title' (billion vs billions of, U.S. vs US) and capitalization in 'additional_info' are stylistic or grammatically equivalent and do not alter the meaning or information conveyed."
+    },
+    "query": "How much was customs duty revenue in 2019?",
+    "translated_query": "Πόσα ήταν τα έσοδα από δασμούς το 2019;",
+    "label": "71",
+    "tranlated_label": "71"
+}

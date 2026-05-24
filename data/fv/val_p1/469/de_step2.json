@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. The use of 'workers' instead of 'laborers' is a synonymous substitution, and the change in sentence structure is purely stylistic."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The chart title, axis titles, and series names are excellent semantic matches. Most category labels are also good synonyms (e.g., 'House construction' vs. 'House Building'). However, the change from the broader term 'Machinery' to the more specific professional field 'Mechanical Engineering' alters the meaning of that category, preventing a perfect score."
+    },
+    "claim": "There were more male agricultural laborers than female in Knodishall in 1881.",
+    "translated_claim": "In Knodishall gab es 1881 mehr männliche Landarbeiter als weibliche."
+}

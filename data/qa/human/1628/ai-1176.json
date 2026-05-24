@@ -1,0 +1,49 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Philippines",
+            "x": [
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "y": [
+                0.104,
+                0.09,
+                0.089,
+                0.099
+            ]
+        },
+        {
+            "name": "Nepal",
+            "x": [
+                1999,
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "y": [
+                0.125,
+                0.11,
+                0.135,
+                0.102,
+                0.09
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Government expenditure on secondary education by country, 1974-2014,<br>1999 to 2003",
+        "subtitle": "Government expenditure per student as a percentage of GDP per capita.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: World Bank",
+        "note": "CC BY"
+    },
+    "colors": [
+        "#c95932",
+        "#00847e"
+    ]
+}

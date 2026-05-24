@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message about the distribution of surface use is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Agriculture uses the maximum portion of the Earth's surface, but the chart clearly shows Water as the largest portion at 70.8%, while Agriculture accounts for only 12%."
+    },
+    "claim": "Agriculture uses maximum portion of surface of the Earth.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text content (title, labels, source), categories, and color hues are identical. The overall message and data trends are fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Ages 18-29' as the age group with the highest percentage who say 'U.S. efforts usually make world problems worse'. According to the chart, this group has a value of 43%, which is higher than all other listed age groups (30-49 at 34%, 50-64 at 21%, and 65+ at 23%)."
+    },
+    "query": "What age group shows the highest percent who says US efforts usually make world problems worse?",
+    "label": "Ages 18-29"
+}

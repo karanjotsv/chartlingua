@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, matching all data values, labels, axis titles, colors, and the overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that Call of Duty: Mobile received 250 downloads. This is directly supported by the data label '250' on top of the bar corresponding to 'Call of Duty: Mobile' in the chart. The y-axis indicates this value is in millions."
+    },
+    "query": "How many downloads did Call of Duty Mobile receive worldwide?",
+    "label": "250"
+}

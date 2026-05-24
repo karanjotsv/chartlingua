@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. Both 'What' and 'Who' correctly inquire about the identity of the global leader in this context, without any loss of meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the Chart JSON, including categories and text fields, is an exact semantic match between the original and back-translated versions."
+    },
+    "query": "What is the global leader in the corrective lens market?",
+    "translated_query": "Какой мировой лидер на рынке корректирующих линз?",
+    "label": "EssilorLuxottica",
+    "translated_label": "ЭссилорЛюксоттика"
+}

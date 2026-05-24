@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color assignments are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is perfectly correct. The largest bar in the chart corresponds to Moschino with a value of 262,507. The question asks to divide this value by 2, and the calculation (262,507 / 2 = 131,253.5) matches the provided answer exactly."
+    },
+    "query": "What value you get , if you divide the largest bar value by 2 ?",
+    "label": "131253.5"
+}

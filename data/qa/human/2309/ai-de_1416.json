@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Gesamtzahl Millennials (Alter 18-33)",
+            "Gesamtzahl Generation X (Alter 34-49)",
+            "Gesamtzahl Boomer (Alter 50-68)",
+            "Gesamtzahl Stille Generation (Alter 69-86)"
+        ],
+        "series": [
+            {
+                "name": "Dagegen",
+                "data": [
+                    27,
+                    38,
+                    45,
+                    50
+                ]
+            },
+            {
+                "name": "Dafür",
+                "data": [
+                    68,
+                    55,
+                    48,
+                    38
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297CDE",
+        "#1A2D3D"
+    ]
+}

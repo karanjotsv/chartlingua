@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, proportions, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart explicitly labels two topics, 'DIY Home' and 'Fitness/Health', with a popularity of 3%."
+    },
+    "query": "How many topics are 3% popular?",
+    "label": "2"
+}

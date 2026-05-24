@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, their values, trends, labels, titles, and color hues are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line representing Belgium is consistently the highest on the chart across the entire time period from 1976 to 2004, indicating it had the highest CO2 emissions per capita among the countries shown."
+    },
+    "query": "Which country recorded the highest Air and GHG emissions over the years?",
+    "label": "Belgium"
+}

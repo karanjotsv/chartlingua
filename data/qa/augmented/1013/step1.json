@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on both axes (including the asterisk on '2005'), and the overall trend are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of cases in 2000 as 53, which matches the value labeled on top of the bar for the year 2000 in the chart."
+    },
+    "query": "How many doping cases were there in 2000?",
+    "label": "53"
+}

@@ -1,0 +1,58 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "पानी",
+            "value": 70.8,
+            "display_text": "पानी<br>70.8",
+            "text_color": "#202020",
+            "font_size": 38,
+            "pull": 0
+        },
+        {
+            "category": "मानव बसावट",
+            "value": 0.05,
+            "display_text": "मानव<br>बसावट<br>0.05%",
+            "text_color": "#FFD700",
+            "font_size": 14,
+            "pull": 0.1
+        },
+        {
+            "category": "अक्षुण्ण",
+            "value": 7,
+            "display_text": "अक्षुण्ण<br>7%",
+            "text_color": "#00008B",
+            "font_size": 16,
+            "pull": 0
+        },
+        {
+            "category": "परिवर्तनाधीन",
+            "value": 10,
+            "display_text": "परिवर्तनाधीन<br>10%",
+            "text_color": "#EEEEEE",
+            "font_size": 16,
+            "pull": 0
+        },
+        {
+            "category": "कृषि",
+            "value": 12,
+            "display_text": "कृषि<br>12%",
+            "text_color": "#8B4513",
+            "font_size": 16,
+            "pull": 0
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5A8FBA",
+        "#E1C500",
+        "#D6E0EA",
+        "#B0B0B0",
+        "#A89510"
+    ]
+}

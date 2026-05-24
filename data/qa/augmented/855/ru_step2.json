@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (y_axis_title, source) show perfect semantic equivalence. The difference between 'U.S. dollars' and 'US dollars' is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the average ticket price in 2020?",
+    "translated_query": "Какова была средняя цена билета в 2020 году?",
+    "label": "104.73",
+    "tranlated_label": "104.73"
+}

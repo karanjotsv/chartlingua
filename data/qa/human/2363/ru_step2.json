@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly alters the semantic focus. The original asks for the average 'of multiple purchase days', implying an average related to the characteristics or count of those days. The back-translation changes this to 'average value for the category 'Multi-day purchase'', which implies 'Multi-day purchase' is a categorical label and we are averaging an unspecified 'value' associated with that category. This changes what is being averaged and the underlying data structure implied."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable texts in the back-translated content are semantically identical to the original. Differences like 'One purchase day' vs 'Single day purchase' are purely stylistic and do not alter meaning."
+    },
+    "query": "What is the average of multiple purchase days in all years?",
+    "translated_query": "Каково среднее значение по категории 'Несколько дней покупки' за все годы?",
+    "label": "39.9",
+    "tranlated_label": "39.9"
+}

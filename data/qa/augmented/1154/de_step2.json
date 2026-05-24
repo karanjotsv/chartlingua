@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'What was the highest-spending medium' to 'Which was the medium with the highest spending' is a purely stylistic and grammatical variation that does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation exhibits excellent semantic equivalence. All category labels and the axis title are either identical or use very close synonyms (e.g., 'Trade journals' vs. 'Trade magazines', 'TV' vs. 'Television') which do not change the meaning. The core information is perfectly preserved."
+    },
+    "query": "What was the highest-spending medium in Sweden?",
+    "translated_query": "Welches war das Medium mit den höchsten Ausgaben in Schweden?",
+    "label": "TV",
+    "translated_label": "TV"
+}

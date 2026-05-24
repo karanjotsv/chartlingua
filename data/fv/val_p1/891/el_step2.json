@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. Minor grammatical improvement ('In November' vs 'At November') and more concise phrasing ('lumber production' vs 'production of lumber', 'below 7,500,000' vs 'below the value of 7,500,000') are stylistic enhancements that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most text elements like axis titles and source notes are well-preserved with only minor stylistic differences, there's a significant factual inaccuracy in the main title. 'Spruce Production Division' was back-translated as 'Fir Production Department'. 'Spruce' and 'Fir' refer to different types of wood, which alters a key detail about the subject of the chart."
+    },
+    "claim": "At November 1917 production of lumber below the value of 7,500,000.",
+    "translated_claim": "Τον Νοέμβριο του 1917 η παραγωγή ξυλείας ήταν κάτω από την τιμή των 7.500.000."
+}

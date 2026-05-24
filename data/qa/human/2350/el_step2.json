@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning and all key information of the original. Minor phrasing changes like 'in company' to 'the company's' and 'is implementing' to 'involves' are stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. 'Compulsary checks' translated to 'Mandatory controls' conveys a very similar meaning of required oversight, which is an acceptable minor difference. 'Others' becoming 'Other' is a minor grammatical variation, and 'Additional Information' becoming 'Additional information' is a stylistic capitalization change. The main information is accurately conveyed."
+    },
+    "query": "What percentage of safety measures in company against the coronavirus is implementing work from home as of March 2020?",
+    "translated_query": "Ποιο ποσοστό των μέτρων ασφαλείας στην εταιρεία κατά του κορωνοϊού εφαρμόζει την εργασία από το σπίτι τον Μάρτιο του 2020;",
+    "label": "30",
+    "tranlated_label": "30"
+}

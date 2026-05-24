@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Πραγματικό",
+            "value": 2.5,
+            "annotation": "Π<br>Ρ<br>Α<br>Γ<br>Μ<br>Α<br>Τ<br>Ι<br>Κ<br>Ο"
+        },
+        {
+            "category": "Προβλεπόμενο",
+            "value": 2.6,
+            "annotation": "Π<br>Ρ<br>Ο<br>Β<br>Λ<br>Ε<br>Π<br>Ο<br>Μ<br>Ε<br>Ν<br>Ο"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bar_color": "#F98D09",
+        "annotation_text_color": "#000000",
+        "grid_color": "#C0C0C0",
+        "axis_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is mostly consistent in terms of data proportions, color hues, titles, and overall message. However, one legend label is semantically different ('$60k-$75k' in the original vs. '60k-' in the rendered), which makes that category's definition ambiguous.",
+        "has_visual_flaws": true,
+        "flaw_reason": "One of the legend labels ('60k-') appears to be clipped or truncated, making the text incomplete."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the yellow color represents the '$60k-$75k' income bracket. However, according to the chart's legend, the yellow color represents the '$75k-100k' income bracket."
+    },
+    "claim": "Yellow color denotes in the household is $60k-$75k in the first pie chart.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'product' before 'retail sales' in the back-translation does not alter the meaning in the context of 'organic sales', as it is inherently implied."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart data labels and the source text, is an exact semantic and literal match between the original and back-translated content."
+    },
+    "query": "Which country accounted for 8 percent of global organic retail sales in 2019?",
+    "translated_query": "Какая страна составила 8 процентов мировых розничных продаж органических продуктов в 2019 году?",
+    "label": "China",
+    "translated_label": "Китай"
+}

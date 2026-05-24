@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The core economic metric changed from 'value of economic activity' to 'cost of economic activity', which are distinct concepts and significantly alters the meaning of the comparison. While 'wind farm'/'wind power plant' and 'manufacturing'/'production' are acceptable synonyms, the 'value' vs 'cost' difference is a significant distortion of the key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences such as 'Pre-Manufacturing' to 'Pre-production', 'Manufacturing' to 'Production', and 'Total' to 'Overall' are excellent synonymous choices that do not alter the meaning or key information of the chart texts."
+    },
+    "claim": "The value of economic activity during the transportation phase of a wind farm is higher the the value of economic activity during the manufacturing phase.",
+    "translated_claim": "Стоимость экономической активности на этапе транспортировки ветряной электростанции выше, чем стоимость экономической активности на этапе производства."
+}

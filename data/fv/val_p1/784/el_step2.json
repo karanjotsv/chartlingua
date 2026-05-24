@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Skilled trades' is accurately rendered as 'skilled occupations', and 'females' as 'women'. A minor grammatical correction (was -> were) also occurred, which does not alter the semantic content but improves the sentence structure."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles and labels match semantically, including the chart title and series labels. However, one category 'Professional Occupations' was shortened to 'Occupations', losing a key descriptor. Additionally, 'Process, Plant and Machine Operatives' was translated as 'Plant and Machine Operators and Assemblers', which is a minor semantic shift but still acceptable."
+    },
+    "claim": "The majority of workers in the skilled trades in Finningham in 2011 was females.",
+    "translated_claim": "Η πλειονότητα των εργαζομένων στα ειδικευμένα επαγγέλματα στο Finningham το 2011 ήταν γυναίκες."
+}

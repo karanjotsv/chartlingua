@@ -1,0 +1,60 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "labels": [
+                "Capital Costs",
+                "Labour",
+                "Other operating<br>costs",
+                "Disposal"
+            ],
+            "values": [
+                6,
+                59,
+                33,
+                2
+            ]
+        },
+        {
+            "labels": [
+                "Perc Cost",
+                "Det. Cost",
+                "Gas",
+                "Electricity",
+                "Cleaning<br>chemicals &<br>Filters",
+                "Maintenance",
+                "Compliance"
+            ],
+            "values": [
+                3,
+                6,
+                29,
+                28,
+                3,
+                20,
+                11
+            ]
+        }
+    ],
+    "texts": {
+        "title_left": "Annual Cost Breakdown",
+        "title_right": "Breakdown of Other Operating Costs"
+    },
+    "colors": [
+        [
+            "#A6A9EA",
+            "#8B3A62",
+            "#FCF7C5",
+            "#C1F4EC"
+        ],
+        [
+            "#A6A9EA",
+            "#8B3A62",
+            "#FCF7C5",
+            "#C1F4EC",
+            "#4F0062",
+            "#F48B8A",
+            "#0059B8"
+        ]
+    ]
+}

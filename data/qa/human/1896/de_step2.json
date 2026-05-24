@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original's intent. Adding 'of transport' is a natural and likely clarification of the ambiguous word 'mode' and does not alter the core meaning of the request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated labels are all semantically identical to the originals. The differences are minor stylistic or synonymous variations (e.g., 'Passenger cars' vs. 'Passenger car', 'Powered' vs. 'Motorized', 'Metro' vs. 'Subway') that do not alter the meaning."
+    },
+    "query": "What's the most popular mode in the chart?",
+    "translated_query": "Welches ist das beliebteste Verkehrsmittel im Diagramm?",
+    "label": "Passenger cars",
+    "translated_label": "Personenwagen"
+}

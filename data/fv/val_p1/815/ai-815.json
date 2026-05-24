@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Machine",
+            "value": 60
+        },
+        {
+            "category": "Mold",
+            "value": 20
+        },
+        {
+            "category": "Material",
+            "value": 10
+        },
+        {
+            "category": "Men (Operator)",
+            "value": 10
+        }
+    ],
+    "texts": {
+        "title": "Plastic Molding Defects Contributions",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4F81BD",
+        "#C0504D",
+        "#9BBB59",
+        "#8064A2"
+    ]
+}

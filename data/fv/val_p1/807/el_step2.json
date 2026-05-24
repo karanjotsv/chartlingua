@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly retains the original meaning. Minor changes like 'At' to 'In', 'male workers' to 'men working', and 'female' to 'women' are stylistic variations that do not alter the semantic content or accuracy."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most categories, titles, and labels match semantically, with good use of synonyms (e.g., 'Loging' to 'Accommodation', 'Commodities' to 'Goods', 'Vegetable' to 'Plant-based', 'Male' to 'Men') and corrections of minor typos ('Occcupations' to 'Occupations'). The primary semantic deviation is 'Harness' becoming 'Saddles' in the 'Carriages and Harness' category, which, while related, are distinct pieces of equipment. The addition of 'Professional' in 'People Without Specified Occupations' is a minor nuance change. These differences are acceptable and do not significantly alter the chart's overall meaning."
+    },
+    "claim": "At domestic offices or services there were more male workers than female in Belstead in 1881.",
+    "translated_claim": "Στα οικιακά γραφεία ή υπηρεσίες υπήρχαν περισσότεροι άνδρες εργαζόμενοι από γυναίκες στο Μπέλστεντ το 1881."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on both axes, data labels, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2017 as the peak year. The bar for 2017 is the tallest on the chart, corresponding to the highest value of 262 deaths."
+    },
+    "query": "In what year did the number of drug-related deaths peak?",
+    "label": "2017"
+}

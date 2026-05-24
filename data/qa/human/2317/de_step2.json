@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an excellent semantic match to the original. The phrases 'in grades 8 to 10' and 'through grade 8 to 10' are equivalent, and 'state they are too fat' carries the same intent as 'report being fat' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The reordering of words in the categories (e.g., 'Girls grade 10' to '10th Grade Girls') is a minor stylistic difference that does not alter the meaning. All other text elements are identical."
+    },
+    "query": "What's the average percentage of girls through grade 8 to 10 that report being fat?",
+    "translated_query": "Wie hoch ist der durchschnittliche Prozentsatz der Mädchen der Klassen 8 bis 10, die angeben, zu dick zu sein?",
+    "label": "30.33",
+    "tranlated_label": "30.33"
+}

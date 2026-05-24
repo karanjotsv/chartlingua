@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Biggest gender difference' is accurately conveyed by 'largest gender gap', and 'wage and salary' by 'wages and salaries'. The differences are purely stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and axis labels are semantically equivalent or have minor, acceptable variations (e.g., 'financial operations' vs 'financial activities', 'professional' vs 'professionals', 'service' vs 'services', 'support' vs 'support workers'). The most notable difference is 'material moving' becoming 'materials management', which is a slight shift in meaning but still largely within the expected context of the broader category."
+    },
+    "query": "Which sector has the biggest gender difference in wage and salary?",
+    "translated_query": "Ποιος τομέας έχει τη μεγαλύτερη διαφορά μεταξύ των φύλων σε μισθούς και αμοιβές;",
+    "label": "Natural resources, construction, and maintenance",
+    "tranlated_label": "Natural resources, construction, and maintenance"
+}

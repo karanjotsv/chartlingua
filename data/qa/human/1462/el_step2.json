@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Shows' was grammatically corrected to 'show', and 'graph' was replaced with the synonymous term 'chart'. Neither change alters the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic variations such as country name abbreviation ('United States Virgin Islands' vs 'U.S. Virgin Islands'), minor rephrasing in titles and subtitles ('Death rates from cocaine overdoses' vs 'Cocaine Overdose Death Rates', 'individuals' vs 'people'), and choice of preposition ('between countries' vs 'across countries'). None of these alter the core meaning."
+    },
+    "query": "How many bars shows  the same value in the graph?",
+    "translated_query": "Πόσες μπάρες δείχνουν την ίδια τιμή στο γράφημα;",
+    "label": "2",
+    "tranlated_label": "2"
+}

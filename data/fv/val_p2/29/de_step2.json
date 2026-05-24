@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. \"Was lowest\" is a more natural phrasing than \"had the lowest population\", and \"line chart\" is a perfect synonym for \"line graph\" in this context. The core meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The original content contained no translatable text, as all text fields were null. The back-translated version correctly preserved this, resulting in a perfect match."
+    },
+    "claim": "The population of Watertown in 2020 had the lowest population as shown in the line graph",
+    "translated_claim": "Die Einwohnerzahl von Watertown war im Jahr 2020 am niedrigsten, wie das Liniendiagramm zeigt."
+}

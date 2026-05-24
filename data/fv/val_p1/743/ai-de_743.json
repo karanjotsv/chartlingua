@@ -1,0 +1,38 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Tagungsraum",
+            "value": 70,
+            "label": "70%"
+        },
+        {
+            "category": "Materialien/Ausrüstung",
+            "value": 50,
+            "label": "50%"
+        },
+        {
+            "category": "Verpflegung",
+            "value": 10,
+            "label": "10%"
+        },
+        {
+            "category": "Preise/Werbegeschenke",
+            "value": 10,
+            "label": "10%"
+        }
+    ],
+    "texts": {
+        "title": "Verwendung gespendeter Ressourcen",
+        "subtitle": "Editier-Workshops",
+        "x_axis_title": null,
+        "y_axis_title": "Prozentsatz der Programme",
+        "source": "Hinweis: Nur 10 Programme lieferten einen direkten Bericht."
+    },
+    "colors": [
+        "#46A580",
+        "#0072B2",
+        "#A52A2A",
+        "#696969"
+    ]
+}

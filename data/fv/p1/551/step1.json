@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data proportions, categories in the legend ('White', 'Mixed ethnicity', 'Indian', 'Other Asian'), and color hues for each category are all consistent. Both charts convey the exact same message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The legend labels in the rendered chart are positioned directly on top of the small pie slices, obscuring the data they are supposed to describe. This is a significant layout issue that hinders interpretation."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the population is White, implying it is entirely so. However, the chart, while showing 'White' as the overwhelming majority, also explicitly includes other categories such as 'Mixed ethnicity', 'Indian', and 'Other Asian'."
+    },
+    "claim": "The Chattisham's population is White.",
+    "label": true
+}

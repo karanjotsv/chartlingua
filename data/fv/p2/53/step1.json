@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are identical to the original. The overall message is preserved entirely, with the only difference being a stylistic rotation of the pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "According to the chart, the value for PSD is 27% and for PNL is 18%, summing to 45%. The value for PD-L is 28% and for 'others' is 27%, summing to 55%. Since 45% is less than 55%, the claim is directly supported by the data."
+    },
+    "claim": "The value of PSD+ PNL is less than PD-L + others.",
+    "label": "TRUE"
+}

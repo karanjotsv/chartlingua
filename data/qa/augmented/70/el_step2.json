@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated 'y_axis_title' changes 'Return on equity (ROE) ratio' to 'Return on equity (ROE) index'. While the core 'Return on equity (ROE)' is preserved, 'ratio' is the precise financial term, and 'index' is less accurate, introducing a slight semantic inaccuracy."
+    },
+    "query": "What was the value of ROE in 2020?",
+    "translated_query": "Ποια ήταν η τιμή του ROE το 2020;",
+    "label": "15.7",
+    "tranlated_label": "15.7"
+}

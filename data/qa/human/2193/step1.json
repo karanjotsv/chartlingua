@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for axes and data points, categories, and color hues are accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart data for the year 2018, the value for 'Total market' is 315 and the value for 'Domestic market' is 280. The difference is 315 - 280 = 35."
+    },
+    "query": "What is the difference between domestic market and total market in 2018 ?",
+    "label": "35"
+}

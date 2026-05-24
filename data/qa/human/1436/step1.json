@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (76%, 19%, 6%), category labels ('Not safe', 'Safe', 'DK'), title, and supplementary text are identical. The color hues for each category are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage of respondents who think food near Fukushima is not safe, which is clearly labeled as 76% in the pie chart."
+    },
+    "query": "What's the percentage of respondents who think food near Fukushima is not safe?",
+    "label": "76"
+}

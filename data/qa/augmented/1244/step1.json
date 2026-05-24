@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall trend are consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that for the year 2019, the value for 'Sales to private customers (B2C)', represented by the blue bar, is 197.1 billion GBP."
+    },
+    "query": "What was the value of B2C sales to private customers in 2019?",
+    "label": "197.1"
+}

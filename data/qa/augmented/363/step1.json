@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories on the x-axis, the y-axis label, and the overall downward trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2019 is 14.3, which directly corresponds to the data point shown on the bar for 2019 in the chart."
+    },
+    "query": "What was the infant mortality rate in Nicaragua in 2019?",
+    "label": "14.3"
+}

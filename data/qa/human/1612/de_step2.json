@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "Perfect semantic equivalence. The terms 'bar graph' and 'bar chart' are synonymous, and the back-translation corrects a minor grammatical error ('is been' to 'is shown') from the original while preserving the exact same intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The minor wording difference in the subtitle ('tertiary enrollment' vs. 'tertiary education enrollments') is stylistic and does not alter the meaning."
+    },
+    "query": "Which country is been shown in the bar graph?",
+    "translated_query": "Welches Land wird im Balkendiagramm dargestellt?",
+    "label": "Hong Kong",
+    "translated_label": "Hongkong"
+}

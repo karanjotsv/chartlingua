@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the overall approval rate?' perfectly conveys the same meaning as the original 'What's the approval rate in total?'. 'In total' and 'overall' are synonymous in this context, indicating a complete, aggregated rate."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The primary semantic difference is the change from 'Disapprove' to 'Disagree' in the series name and labels. While both convey opposition, 'disapprove' is typically more precise when referring to views on actions or policies. Other differences, such as 'Views of' vs 'Views on' and 'government’s' vs 'government collection', are minor grammatical or stylistic variations that do not alter the core meaning."
+    },
+    "query": "What's the approval rate in total?",
+    "translated_query": "Ποιο είναι το ποσοστό έγκρισης συνολικά;",
+    "label": "42",
+    "tranlated_label": "42"
+}

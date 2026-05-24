@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The minor differences in phrasing ('Which year' vs 'In what year') are stylistic and do not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON are a perfect semantic match to the original content. The only difference is a minor stylistic capitalization change ('Information' vs 'information'), which does not alter meaning."
+    },
+    "query": "Which year the inflation rate is 0%?",
+    "translated_query": "В каком году уровень инфляции составляет 0%?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

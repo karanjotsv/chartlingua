@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall title are identical to the original. The primary difference is the stylistic change from a 3D to a 2D pie chart, which does not alter the information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays browser usage percentages, with Chrome at 27.25% (the highest) and I.E. (Internet Explorer) at 23.65% (the second highest). This confirms that Internet Explorer holds the second place."
+    },
+    "claim": "Internet Explorer take the second place at browser usage on Wikimedia at August 2012.",
+    "label": "TRUE"
+}

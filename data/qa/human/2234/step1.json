@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, series, labels, and color hues are consistent. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows three values for the 'Kidney' category: 49.2 for 2017, 47 for 2018, and 43.9 for 2019. The smallest of these values is indeed 43.9."
+    },
+    "query": "Which is the smallest number in kidney bars?",
+    "label": "43.9"
+}

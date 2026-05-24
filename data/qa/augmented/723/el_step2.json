@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'Morocco's female population' and 'the female population of Morocco' convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text fields. 'Female' to 'Women' and 'Male' to 'Men' are synonymous and acceptable differences. Capitalization in 'note' is a trivial difference."
+    },
+    "query": "What was Morocco's female population in 2019?",
+    "translated_query": "Ποιος ήταν ο γυναικείος πληθυσμός του Μαρόκου το 2019;",
+    "label": "18.38",
+    "tranlated_label": "18.38"
+}

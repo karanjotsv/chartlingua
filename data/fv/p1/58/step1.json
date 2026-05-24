@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original chart, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim incorrectly associates the 44.9% value with the wrong group. According to the chart's legend, 44.9% corresponds to 'Editors 1 - 1000', not 'Editors 9001 - 10000'. The group 'Editors 9001 - 10000' actually accounts for 2.6%."
+    },
+    "claim": "44.9% of editors made between 9001-10000 edits. ",
+    "label": false
+}

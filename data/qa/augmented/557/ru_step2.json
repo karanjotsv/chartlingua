@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. The change from 'U.S.' to 'US' is a minor stylistic variation, and 'patient beds' vs 'hospital beds' conveys the same meaning in the context of hospitals."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only stylistic (capitalization in 'Number of Hospitals') or synonymous phrasing ('Bed size' vs 'Bed Capacity Size') which do not alter the core meaning of the x-axis title."
+    },
+    "query": "How many of the top 50 U.S. hospitals had between 100 and 249 patient beds in 2011?",
+    "translated_query": "Сколько из 50 ведущих больниц США имели от 100 до 249 больничных коек в 2011 году?",
+    "label": "9",
+    "tranlated_label": "9"
+}

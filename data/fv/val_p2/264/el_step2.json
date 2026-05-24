@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query maintains perfect semantic equivalence. The only differences are a minor grammatical improvement ('equal to' instead of 'equal with') and the removal of a hyphen ('private pensions' instead of 'private-pensions'), which are stylistic/trivial and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most labels and the chart title maintain semantic equivalence. However, 'Intragovernmental Holdings' was translated as 'Intergovernmental Holdings'. This is a notable semantic difference as 'Intragovernmental' refers to holdings within the same government, while 'Intergovernmental' refers to holdings between different governments, thereby losing specific accuracy for a key data point."
+    },
+    "claim": "The total value of Insurance  companies and Mutual Funds is equal with foreign and international and private-pensions.",
+    "translated_claim": "Η συνολική αξία των Ασφαλιστικών Εταιρειών και των Αμοιβαίων Κεφαλαίων είναι ίση με τους ξένους και διεθνείς και τις ιδιωτικές συντάξεις."
+}

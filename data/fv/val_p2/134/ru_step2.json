@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original's semantic meaning. The use of the possessive 's instead of 'of' is a stylistic variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most textual elements, including chart data names, are perfectly equivalent. The title and y-axis label show minor phrasing differences ('energy demand' vs. 'energy consumption', and 'Eurasian' vs. 'Eurasia'), but these differences are semantically close in this context and do not alter the core meaning or key information of the chart."
+    },
+    "claim": "The value of Germany in 2008 is lower than the value of world in 2010.",
+    "translated_claim": "Значение Германии в 2008 году ниже значения мира в 2010 году."
+}

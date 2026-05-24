@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, proportions, categories, and color hues from the original. It enhances the original by adding a descriptive title and a legend, which were missing, without altering the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart shows data on the discovery of exoplanets by year and method. It contains no information regarding humidity levels or the cities of Nagpur and Mumbai."
+    },
+    "claim": "The humidity was higher in Napgur rather than Mumbai.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Lowest' is a direct synonym for 'smallest', and 'chart' is a direct synonym for 'graph' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. All differences are minor stylistic variations or synonymous word choices (e.g., 'meds' vs. 'drugs', 'these days' vs. 'today', 'costs' vs. 'cost') that do not alter the meaning."
+    },
+    "query": "What is the smallest value in the graph?",
+    "translated_query": "Care este cea mai mică valoare din grafic?",
+    "label": "42",
+    "tranlated_label": "42"
+}

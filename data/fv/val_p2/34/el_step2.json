@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Greater than' is a perfect synonym for 'more than', and omitting the word 'all' does not change the meaning in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The title, subtitle, and most category labels are translated with excellent semantic accuracy. However, there are two minor issues: 'DRC of Building' is generalized to 'Building Value', losing some technical specificity, and the y-axis title 'CU' (likely Currency Unit) is incorrectly rendered as 'ΝΜ', losing its meaning."
+    },
+    "claim": "The average of all the 6 bars is more than 1000.",
+    "translated_claim": "Ο μέσος όρος και των 6 ράβδων είναι μεγαλύτερος από 1000."
+}

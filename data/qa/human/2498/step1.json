@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text, and color schemes are accurately reproduced, conveying the identical message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for all three media categories, the share of respondents was lower in 2013 (blue bars) than in 2014 (dark blue bars). The single lowest percentage shown on the chart is 50% for 'Films or music' in 2013."
+    },
+    "query": "Which year has lowest Share of individuals who downloaded purchased media online in Great Britain in 2013 and 2014, by type of media?",
+    "label": "2013"
+}

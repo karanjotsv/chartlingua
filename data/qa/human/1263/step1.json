@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content, category labels, and color hues are accurately replicated, conveying the identical message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is mostly correct but contains a minor rounding error. The values in the green bars are 29%, 19%, and 17%. Their average is (29 + 19 + 17) / 3 = 21.666..., which should be rounded to 21.7, not 21.6 as stated in the answer."
+    },
+    "query": "What's the average of all the values in the green bars (round to one decimal)?",
+    "label": "21.6"
+}

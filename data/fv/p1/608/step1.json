@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It uses the exact same data values and labels as the original. The calculated percentages are slightly more precise in the rendered version, which is an improvement. The color hues and overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the number of 'contributors not identified to Election Canada' (221,510, or 79.5%) is substantially larger than the 'Total number of contributors listed by name' (57,110, or 20.5%), which directly supports the claim."
+    },
+    "claim": "Political parties received more contributions from anonymous donors than named donors.\n",
+    "label": false
+}

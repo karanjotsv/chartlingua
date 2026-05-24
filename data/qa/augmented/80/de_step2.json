@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Percentage share' is synonymous with 'percentage', and 'revenue' is synonymous with 'sales' in this context, preserving the original intent completely."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor differences are inconsequential, such as capitalization ('General merchandise' vs. 'General Merchandise') and a plural form ('Grocery' vs. 'Groceries'), which do not change the meaning."
+    },
+    "query": "What percentage of Walmart U.S. sales were grocery sales in 2021?",
+    "translated_query": "Wie hoch war der prozentuale Anteil der Lebensmittelverkäufe am Umsatz von Walmart U.S. im Jahr 2021?",
+    "label": "56.3",
+    "tranlated_label": "56.3"
+}

@@ -1,0 +1,47 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Hidro",
+            "value": 36
+        },
+        {
+            "label": "Altele",
+            "value": 2
+        },
+        {
+            "label": "Gaze",
+            "value": 10
+        },
+        {
+            "label": "Nucleară",
+            "value": 19
+        },
+        {
+            "label": "Cărbune",
+            "value": 33
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "slices": [
+            "#2E7997",
+            "#CFC7CF",
+            "#E198D6",
+            "#FF5E61",
+            "#794D2E"
+        ],
+        "text": [
+            "#FFFFFF",
+            "#332733",
+            "#000000",
+            "#000000",
+            "#FFFFFF"
+        ]
+    }
+}

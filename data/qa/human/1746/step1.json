@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, categories, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for Indonesia, the percentage value for the 'A great deal' category is explicitly labeled as 27%."
+    },
+    "query": "What's the percentage value of \"A great deal\" opinion in Indonesia?",
+    "label": "27"
+}

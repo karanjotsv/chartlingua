@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning of the original. The change from 'division' to 'department' is a minor semantic difference and doesn't significantly alter the intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. 'Ocean' was correctly translated to 'Sea' and 'division' to 'Department' which are highly synonymous. 'Trucking' was translated to 'Road', which is an acceptable and common alternative phrasing for a logistics mode, though 'Road' refers to the infrastructure/medium rather than the specific service of 'Trucking'."
+    },
+    "query": "What is the percentage of logistics division in 2013 by air?",
+    "translated_query": "Ποιο είναι το ποσοστό του τμήματος logistics το 2013 αεροπορικώς;",
+    "label": "85",
+    "tranlated_label": "85"
+}

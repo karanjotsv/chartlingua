@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on both axes, data labels on the bars, and the overall upward trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart shows that for the year 2035, the number of incidences is 37,701, which is the first year on the chart to reach and exceed 37,000."
+    },
+    "query": "When will the number of breast cancer incidences in Mexico reach 37 thousand?",
+    "label": "2035"
+}

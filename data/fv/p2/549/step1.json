@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, text labels, color hues, and the exploded slice for 'Oxygen' are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the chart represents the composition of 'Earth's atmosphere', but the chart itself does not provide a title or any context to confirm this. It only shows the proportions of certain gases. Therefore, the claim introduces information not present in the chart."
+    },
+    "claim": "The composition of Earth's atmosphere surrounded by maximum of Nitrogen.",
+    "label": "TRUE"
+}

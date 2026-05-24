@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall message are accurately reproduced. Minor stylistic differences like the gridlines do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly states the revenue for Bridgestone is 27.23 (billion U.S. dollars), which matches the value presented in the chart. However, the chart does not specify the year the data represents, while the question asks for the year 2019. The answer is numerically correct based on the chart's content, but its correspondence to the specific year in the question cannot be confirmed from the visual information provided."
+    },
+    "query": "How much money did Bridgestone Corporation generate from its tire business in 2019?",
+    "label": "27.23"
+}

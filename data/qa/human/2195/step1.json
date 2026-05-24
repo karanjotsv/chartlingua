@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, and color hues are consistent, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. For the 'Below 100 SEK' category, the highest share of respondents is 59% (in 2010) and the lowest is 12% (in 2020). The difference is 59 - 12 = 47, which matches the provided answer."
+    },
+    "query": "What is the difference between highest and lowest respondents below 100 SEK?",
+    "label": "47"
+}

@@ -1,0 +1,60 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "USA",
+            "values": [
+                43,
+                23
+            ],
+            "text": [
+                "43%",
+                "23"
+            ]
+        },
+        {
+            "name": "Beide (VOL)",
+            "values": [
+                29,
+                36
+            ],
+            "text": [
+                "29%",
+                "36"
+            ]
+        },
+        {
+            "name": "Russland",
+            "values": [
+                21,
+                38
+            ],
+            "text": [
+                "21%",
+                "38"
+            ]
+        }
+    ],
+    "categories": [
+        "Westen",
+        "Osten"
+    ],
+    "texts": {
+        "title": "Ostdeutsche bevorzugen<br>Beziehungen zu Russland gegenüber den USA",
+        "subtitle": "% im ehemaligen ___ Deutschland, die sagen, es ist wichtiger<br>für ihr Land, eine enge Beziehung zu ... zu haben",
+        "source": "Anmerkung: „Weiß nicht“-Antworten werden nicht angezeigt. Befragte aus Ost- und Westdeutschland<br>leben in der ehemaligen Deutschen Demokratischen Republik bzw.<br>der Bundesrepublik Deutschland vor 1990.<br>Quelle: Umfrage der Körber-Stiftung, durchgeführt vom 9. bis 28. Sept. 2019.<br>“Americans and Germans Differ in Their Views of Each Other and<br>the World”",
+        "credit": "PEW RESEARCH CENTER"
+    },
+    "colors": {
+        "series_colors": [
+            "#83994C",
+            "#D8D2C1",
+            "#00628F"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000",
+            "#FFFFFF"
+        ]
+    }
+}

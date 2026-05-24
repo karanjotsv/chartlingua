@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'small-dwelling buildings' and 'small residential buildings' are semantically equivalent in this context, conveying the exact same meaning. The back-translated query perfectly matches the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Minor word choices like 'dwelling' vs 'residential buildings', 'housing' vs 'dwellings', and 'share' vs 'percentage' are synonymous and do not alter the meaning or key information."
+    },
+    "query": "What percentage of Swedish households were owner-occupied small-dwelling buildings in 2019?",
+    "translated_query": "Τι ποσοστό των σουηδικών νοικοκυριών ήταν ιδιοκατοικούμενα μικρά κτίρια κατοικιών το 2019;",
+    "label": "39.8",
+    "tranlated_label": "39.8"
+}

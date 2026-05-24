@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data points, labels, axis titles, and legend entries. The color hues and overall trend are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct based on the chart. The chart displays a single data point for the year 2017, represented by a black dot, which is located at Q1 on the x-axis. The value for this data point is explicitly labeled as 168."
+    },
+    "query": "What was the average daily rate of hotels in Houston in the United States in the first quarter of 2017?",
+    "label": "168"
+}

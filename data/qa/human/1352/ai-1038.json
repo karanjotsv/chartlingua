@@ -1,0 +1,77 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Mexican",
+            "values": [
+                69,
+                65,
+                63,
+                57,
+                52
+            ]
+        },
+        {
+            "name": "Central American",
+            "values": [
+                8,
+                10,
+                10,
+                8,
+                6
+            ]
+        },
+        {
+            "name": "South American",
+            "values": [
+                4,
+                6,
+                7,
+                8,
+                8
+            ]
+        },
+        {
+            "name": "Caribbean",
+            "values": [
+                15,
+                16,
+                16,
+                20,
+                26
+            ]
+        },
+        {
+            "name": "Spanish/Other",
+            "values": [
+                4,
+                4,
+                4,
+                6,
+                8
+            ]
+        }
+    ],
+    "categories": [
+        "Younger than 18",
+        "Millennial adults<br>(18-33)",
+        "Gen X<br>(34-49)",
+        "Boomer<br>(50-68)",
+        "Silent/Greatest<br>(69 and older)"
+    ],
+    "texts": {
+        "title": "Younger Hispanics are more likely to be Mexican",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Note: Figures may not add to 100% due to rounding.<br>Source: Pew Research Center analysis of 2014 American Community Survey (IPUMS).<br>\"The Nation's Latino Population Is Defined by Its Youth\"",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#b5952f",
+        "#e1d3a1",
+        "#d1c08b",
+        "#d19f83",
+        "#a46949"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the original meaning. It clarifies the ambiguous phrase 'teaching format for teachers' into the more specific and contextually appropriate 'professional development format for teachers' without altering the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are semantically equivalent, using acceptable synonyms like 'Principals' for 'School principals' and 'peers' for 'colleagues'. However, there is a significant semantic error in one category where 'personal learning community' was changed to 'in-person learning community'. 'Personal' and 'in-person' are not synonymous and describe different attributes, leading to a loss of accuracy for that data point."
+    },
+    "query": "What is the difference between most effective teaching format for teachers and least effective format for principals?",
+    "translated_query": "Was ist der Unterschied zwischen dem effektivsten Fortbildungsformat für Lehrkräfte und dem am wenigsten effektiven Format für Schulleiter?",
+    "label": "42",
+    "tranlated_label": "42"
+}

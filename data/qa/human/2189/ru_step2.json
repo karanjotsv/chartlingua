@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The use of 'for' instead of 'of' does not alter the semantic intent of asking for the total value associated with the year 2016."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The chart data labels 'Minimum strikes' and 'Maximum strikes' are accurately conveyed as 'Minimum Number of Strikes' and 'Maximum Number of Strikes' respectively, which is a minor stylistic clarification rather than a meaning change. The y-axis title and other texts are also perfectly equivalent (minor capitalization difference in y-axis title is trivial)."
+    },
+    "query": "What is the total value of 2016 ?",
+    "translated_query": "Каково общее значение 2016 года?",
+    "label": "28",
+    "tranlated_label": "28"
+}

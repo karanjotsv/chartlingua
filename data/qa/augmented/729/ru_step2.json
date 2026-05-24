@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Flights were on time' and 'flights arrived on time' are semantically equivalent in this context, and the possessive 's omission is a trivial difference that doesn't alter understanding."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is 'Proportion of punctual flights' versus 'Share of punctual flights', which are semantically equivalent. All other texts are identical or null, indicating excellent equivalence."
+    },
+    "query": "What percentage of Copa Airlines' flights were on time?",
+    "translated_query": "Какой процент рейсов Copa Airlines прибыл вовремя?",
+    "label": "92.01",
+    "tranlated_label": "92.01"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'According to this chart' is an excellent stylistic improvement for 'in this chart', and 'second most common language' accurately conveys the meaning of 'second wide spoken language', improving naturalness without altering semantic content."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General topic is captured, but an important detail is lost in the title. The back-translated title changes 'Chapter' to 'department', losing the specific organizational unit or context implied by 'Chapter'. Most chart data categories are well-preserved, with only minor stylistic variations or acceptable phrasing changes."
+    },
+    "claim": "in this chart  English is the second wide spoken language in Ethiopia.",
+    "translated_claim": "На этой диаграмме английский язык является вторым по распространенности языком в Эфиопии."
+}

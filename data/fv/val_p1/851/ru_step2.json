@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'US' vs 'USA', 'generated' vs 'produced', and 'hydro' vs 'hydropower plants' are all semantically equivalent in this context, representing only minor stylistic or synonymous differences."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data points and series names are identical. The category labels (months) have minor abbreviations (e.g., 'JUNE' to 'JUN'), which are trivial differences. The chart title accurately conveys the same meaning despite minor rephrasing (e.g., 'US Electric Energy Generation from Hydro' vs 'Electricity Generation by Hydropower Plants in the USA')."
+    },
+    "claim": "The US generated more electricity from hydro than any other source in 2018.",
+    "translated_claim": "США произвели больше электроэнергии гидроэлектростанциями, чем из любого другого источника в 2018 году."
+}

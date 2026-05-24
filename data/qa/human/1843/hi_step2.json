@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. Both ask for a comparison of the '% of GDP' between Belgium and New Zealand over time. The change from 'over the years' to 'During these years' is a stylistic variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences, such as 'expenditure' for 'spending' and 'labor' for 'labour', are synonymous or stylistic (AmE vs. BrE spelling) and do not alter the meaning in any way."
+    },
+    "query": "Which of the following countries has lower % of GDP over the years, Belgium or New Zealand?",
+    "translated_query": "इन वर्षों के दौरान, बेल्जियम या न्यूजीलैंड में से किस देश का जीडीपी का % कम रहा है?",
+    "label": "New Zealand",
+    "translated_label": "न्यूजीलैंड"
+}

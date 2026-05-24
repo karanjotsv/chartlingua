@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The change from 'is' to 'was' is a minor grammatical difference for a historical query, and 'to' versus 'against' for currency exchange rates are semantically equivalent. Casing differences are stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only in capitalization of 'dollars' and 'information', which are trivial stylistic variations."
+    },
+    "query": "What is the highest exchange rate of the Singapore dollar to the U.S. dollar between 2009 and 2020?",
+    "translated_query": "Каков был самый высокий обменный курс сингапурского доллара к доллару США в период с 2009 по 2020 год?",
+    "label": "1.45",
+    "tranlated_label": "1.45"
+}

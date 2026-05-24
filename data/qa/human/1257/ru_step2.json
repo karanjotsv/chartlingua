@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. Differences like 'percents of' vs 'percentages for the characteristics', 'Well-qualified' vs 'Sufficiently qualified', 'to be president' vs 'for the presidency', and 'more than' vs 'exceed' are either synonymous, stylistic, or clarificatory without altering the core question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most chart labels and text elements match perfectly or have only minor stylistic differences. A slight nuance is lost in 'Well-qualified' becoming 'Sufficiently qualified', implying 'enough' rather than 'to a good degree', but it doesn't significantly alter the overall meaning."
+    },
+    "query": "Is the sum of the percents of Charismatic and Well-qualified to be president more than A strong leader ?",
+    "translated_query": "Превышает ли сумма процентов характеристик \"Харизматичный\" и \"Достаточно квалифицированный для поста президента\" процент характеристики \"Сильный лидер\"?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

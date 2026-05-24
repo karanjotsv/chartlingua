@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'The ratio of asset value to debt' is semantically identical to 'The asset-to-debt ratio', and 'around' is a perfect synonym for 'approximately' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic choices (e.g., 'Asset-to-debt ratio' instead of 'Ratio of Asset value to Debt') or slight clarifications (e.g., adding 'ratio' to 'debt-to-disposable income'), which do not alter the core meaning."
+    },
+    "claim": "The ratio of asset value to debt for June 1991 was around 4.0",
+    "translated_claim": "Соотношение стоимости активов к долгу за июнь 1991 года составляло около 4,0"
+}

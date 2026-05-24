@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, and color hues are accurately reproduced. The overall message is identical, though the visual connector between the two pie charts is omitted in favor of a side-by-side layout, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the chart represents the atmosphere of Mars, but the chart itself lacks any title, caption, or label that identifies the planet. While the percentage for Carbon Dioxide (96.5%) is shown, there is no information in the image to support the assertion that this is Mars's atmosphere."
+    },
+    "claim": "Carbon Dioxide makes up 96.5 percent of the atmosphere of Mars",
+    "label": false
+}

@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Никогда не состоявшие в браке",
+            "values": [
+                170,
+                252
+            ]
+        },
+        {
+            "category": "Состоящие в браке",
+            "values": [
+                524,
+                633
+            ]
+        },
+        {
+            "category": "[из них] в<br>незарегистрированном<br>браке",
+            "values": [
+                69,
+                84
+            ]
+        },
+        {
+            "category": "Вдовые",
+            "values": [
+                186,
+                38
+            ]
+        },
+        {
+            "category": "Разведенные или<br>разошедшиеся",
+            "values": [
+                120,
+                77
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Число жителей на тысячу человек",
+        "source": "© Statista 2021",
+        "legend_labels": [
+            "Женщины",
+            "Мужчины"
+        ]
+    },
+    "colors": [
+        "#2B7CDE",
+        "#0C233F"
+    ]
+}

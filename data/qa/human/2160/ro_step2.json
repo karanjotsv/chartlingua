@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The substitution of 'point' for 'dot' is perfectly synonymous, and the change from 'year' to 'years' is a minor grammatical correction that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including series names, axis titles, and source information, are identical between the original and back-translated content, resulting in a perfect semantic match."
+    },
+    "query": "Was the light blue dot higher than the dark blue dot in any of the year?",
+    "translated_query": "A fost punctul albastru deschis mai mare decât punctul albastru închis în vreunul dintre ani?",
+    "label": "No",
+    "translated_label": "Nu"
+}

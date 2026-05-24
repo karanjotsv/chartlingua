@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, series, line styles (solid, dashed), text labels, and axis definitions are accurately reproduced. The overall message and data relationships are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that high LET radiation requires high threshold doses, but the chart does not show a consistent positive correlation. For example, the data point with the highest LET (56Fe at ~185 keV/µm) has a threshold dose of 50 cGy, which is significantly lower than the 250 cGy dose for the 56Fe particle with a lower LET of ~150 keV/µm."
+    },
+    "claim": "High LET radiation particles require high threshold doses to disrupt performance on a food-reinforced operant response.",
+    "label": "FALSE"
+}

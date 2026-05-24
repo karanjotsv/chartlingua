@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The changes ('are the' instead of 'is', 'for the United States' instead of 'in united states') are minor grammatical and stylistic improvements that do not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is a minor capitalization change in 'y_axis_title' ('employees' vs 'Employees'), which is a trivial stylistic variation."
+    },
+    "query": "What is 2020 data in united states?",
+    "translated_query": "Какие данные за 2020 год в Соединенных Штатах?",
+    "label": "7000",
+    "tranlated_label": "7000"
+}

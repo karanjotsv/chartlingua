@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, proportions, and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by adding the percentages of the specified categories shown in the pie chart. Actinomycetes (28%), Myxobacteria (9%), and Bacillus (23%) sum up to exactly 60%."
+    },
+    "claim": "The total of the Actinomycetes, Myxo bacteria and Bacillus bars is 60% of the chart.",
+    "label": "TRUE"
+}

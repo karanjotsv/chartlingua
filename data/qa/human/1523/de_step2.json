@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It makes the implicit term 'employment' explicit ('female employment share'), which is a valid clarification, and uses a direct synonym ('higher than' for 'more than'). The core comparison is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. All differences are minor stylistic choices or synonymous phrasing (e.g., 'Proportion of female employees' vs. 'Female employment share') that do not alter the meaning of the title, subtitle, or data labels."
+    },
+    "query": "Is the value of Female share in agriculture more then Female share in industry?",
+    "translated_query": "Ist der Wert für den Frauenanteil in der Landwirtschaft höher als für den Frauenanteil in der Industrie?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

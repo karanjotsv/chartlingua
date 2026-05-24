@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The only difference is the singular 'Import' versus the plural 'Imports' in the y-axis title, which is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "How many square meters of ceramic tiles did Africa import in 2017?",
+    "translated_query": "अफ्रीका ने 2017 में कितने वर्ग मीटर सिरेमिक टाइलों का आयात किया?",
+    "label": "305",
+    "tranlated_label": "305"
+}

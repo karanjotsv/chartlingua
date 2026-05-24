@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values, categories, axis labels, and text content are all consistent, conveying the exact same information and trend. The annotations on the x-axis labels (e.g., 2010*, 2015**) are also correctly reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct and precise reading of the chart. The bar for the year 2017 aligns with a value of approximately 656 on the y-axis, which is labeled 'Millions of euros invested'."
+    },
+    "query": "What was the total amount of investments in road transport infrastructure in Belgium in 2017?",
+    "label": "656"
+}

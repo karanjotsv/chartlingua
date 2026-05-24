@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "oil",
+            "value": 11
+        },
+        {
+            "label": "natural gas",
+            "value": 5
+        },
+        {
+            "label": "hydro",
+            "value": 1
+        },
+        {
+            "label": "traditional biomass &<br>waste",
+            "value": 83
+        }
+    ],
+    "colors": [
+        "#b86d29",
+        "#638e3e",
+        "#a42a3e",
+        "#0093d1"
+    ],
+    "texts": {
+        "title": "Total primary energy consumption in Nigeria, 2011",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: U.S. Energy Information Administration",
+        "note": "Note: Nigeria also consumed about 9,000 short tons of coal in 2011."
+    }
+}

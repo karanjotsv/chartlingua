@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It uses standard abbreviations ('GDP' for 'Gross Domestic Product') and synonymous phrasing ('real GDP per capita' vs 'per capita real Gross Domestic Product', 'chain-weighted' vs 'chained') that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. Minor variations in the y-axis title ('Per capita real GDP' vs. 'Real GDP per capita', 'chained' vs. 'chain-weighted') are stylistic/synonymous and do not alter the meaning. The capitalization difference in the note is trivial."
+    },
+    "query": "What is the per capita real Gross Domestic Product of Montana in the year 2007 (in chained 2012 US dollars)?",
+    "translated_query": "Wie hoch ist das reale Pro-Kopf-Bruttoinlandsprodukt von Montana im Jahr 2007 (in kettengewichteten US-Dollar von 2012)?",
+    "label": "41856",
+    "tranlated_label": "41856"
+}

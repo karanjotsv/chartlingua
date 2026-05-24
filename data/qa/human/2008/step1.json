@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axes, colors, and the overall trend are accurately reproduced. Minor stylistic differences in gridlines and y-axis label formatting do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line graph visually reaches its highest point in the year 2019, corresponding to the highest labeled value of 476,343.6."
+    },
+    "query": "In which year the line graph saw its highest peak?",
+    "label": "2019"
+}

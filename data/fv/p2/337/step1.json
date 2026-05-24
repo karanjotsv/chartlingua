@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the numerical percentages, slice proportions, and color scheme are consistent with the original, the rendered chart fails semantically. The legend labels, which are crucial for identifying the categories, are completely missing. Additionally, the labels on the pie slices themselves are severely abbreviated (e.g., \"$30-$50\" becomes \"50\"), losing critical context and making the chart's meaning impossible to decipher.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed due to a significant generation error: all text labels in the legend are missing, rendering it useless."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information about the year or timeframe of the data. Therefore, it cannot support the claim that these statistics are from '2014-2015'."
+    },
+    "claim": "Donations above $250k were the smallest category in 2014-2015.",
+    "label": "TRUE"
+}

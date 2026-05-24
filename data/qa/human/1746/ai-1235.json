@@ -1,0 +1,73 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Indonesia",
+            "values": [
+                27,
+                48
+            ],
+            "labels": [
+                "27%",
+                "48%"
+            ],
+            "total_label": "75%"
+        },
+        {
+            "category": "Kenya",
+            "values": [
+                30,
+                38
+            ],
+            "labels": [
+                "30",
+                "38"
+            ],
+            "total_label": "68"
+        },
+        {
+            "category": "Mexico",
+            "values": [
+                30,
+                33
+            ],
+            "labels": [
+                "30",
+                "33"
+            ],
+            "total_label": "63"
+        },
+        {
+            "category": "India",
+            "values": [
+                23,
+                37
+            ],
+            "labels": [
+                "23",
+                "37"
+            ],
+            "total_label": "60"
+        }
+    ],
+    "texts": {
+        "title": "Majorities believe human rights organizations<br>influence the way things are going in their countries",
+        "subtitle": "<i>Human rights organizations are having __ of influence on the way things<br>are going in our country</i>",
+        "source": "Source: Spring 2017 Global Attitudes Survey. Q97.<br><b>PEW RESEARCH CENTER</b>",
+        "series_names": [
+            "A great deal",
+            "A fair amount"
+        ],
+        "total_header": "<u>Total</u>"
+    },
+    "colors": {
+        "series": [
+            "#8F9A54",
+            "#D5D3C2"
+        ],
+        "text_on_bar": [
+            "white",
+            "black"
+        ]
+    }
+}

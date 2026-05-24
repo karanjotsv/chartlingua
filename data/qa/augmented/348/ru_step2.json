@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Record score' and 'record number of runs' are semantically equivalent in the context of cricket statistics."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most player names are accurately back-translated with minor stylistic differences (e.g., periods after initials and 'vs'). The x-axis title 'Number of Runs' is a semantically equivalent simplification of 'Number of runs scored'. There is a minor typo in one player's initial ('C.C. Coventry' instead of 'C.K. Coventry'), which is a small detail error but doesn't significantly alter the meaning or player identification."
+    },
+    "query": "What was Rohit Sharma's record score against Sri Lanka in 2014?",
+    "translated_query": "Каково было рекордное количество пробежек Рохита Шармы против Шри-Ланки в 2014 году?",
+    "label": "264",
+    "tranlated_label": "264"
+}

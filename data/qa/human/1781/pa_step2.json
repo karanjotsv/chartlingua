@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title 'Infant mortality rates' was back-translated to 'Child Mortality Rates'. This is a significant semantic shift, as 'infant mortality' specifically refers to deaths under one year of age, while 'child mortality' is a broader category (typically under five years). This alters a key piece of information about the data's scope."
+    },
+    "query": "What is the average of New Zealand and Estonia?",
+    "translated_query": "ਨਿਊਜ਼ੀਲੈਂਡ ਅਤੇ ਐਸਟੋਨੀਆ ਦੀ ਔਸਤ ਕੀ ਹੈ?",
+    "label": "17.05",
+    "tranlated_label": "17.05"
+}

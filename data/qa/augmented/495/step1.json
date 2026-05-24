@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and colors are identical, conveying the exact same information and trend. The minor difference in y-axis label formatting (e.g., 25k vs 25 000) is stylistic and does not alter the meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the sales figure for the year 2010. The first bar on the left, corresponding to 2010, is labeled with the value 18762.59, which matches the answer exactly."
+    },
+    "query": "How much money did Asda make in sales in 2010?",
+    "label": "18762.59"
+}

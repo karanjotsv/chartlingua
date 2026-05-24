@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values, proportions, axis labels, and the overall trend are identical. The only difference is a very minor stylistic change in the font color and the ordinal indicator in the x-axis label, which does not alter the meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart is a bar graph, but the image clearly shows a line graph. Additionally, the chart lacks any title or labels to confirm that the data represents the 'cumulative Japanese box office gross of Howl's Moving Castle'."
+    },
+    "claim": "Bar graph is used to represent the cumulative Japanese box office gross of Howl's Moving Castle.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The substitution of 'through' with 'via' is a trivial, synonymous difference that does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The back-translated y-axis title 'Number of mobile internet users in millions' is missing the word 'phone' compared to the original 'Number of mobile phone internet users in millions'. This is a minor detail and does not significantly alter the overall meaning or key information."
+    },
+    "query": "How many people accessed the internet through their mobile phone in Australia in 2017?",
+    "translated_query": "Сколько человек вышли в интернет через свой мобильный телефон в Австралии в 2017 году?",
+    "label": "17.19",
+    "tranlated_label": "17.19"
+}

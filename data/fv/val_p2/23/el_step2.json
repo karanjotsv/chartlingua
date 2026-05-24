@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The only difference is the addition of an article ('the') which does not change the semantic content or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'texts' object, which contains all translatable content, is identical in both the original and back-translated versions (all values are null). This indicates perfect semantic equivalence as no text was present to be altered or lost."
+    },
+    "claim": "The difference between population of 1910 and 1900 is lower than the difference between 1880 and 1870.",
+    "translated_claim": "Η διαφορά μεταξύ του πληθυσμού του 1910 και του 1900 είναι χαμηλότερη από τη διαφορά μεταξύ του 1880 και του 1870."
+}

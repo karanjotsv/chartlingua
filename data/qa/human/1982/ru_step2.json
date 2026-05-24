@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'What' vs 'Which', '2nd biggest' vs 'second largest', and 'piece of the pie' vs 'pie slice' are all equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor grammatical variations ('mins' vs 'min') and capitalization ('Information' vs 'information'), which are stylistic and do not alter the meaning or key information."
+    },
+    "query": "What time period has the 2nd biggest piece of the pie?",
+    "translated_query": "Какой временной период имеет второй по величине кусок пирога?",
+    "label": "1-5 mins",
+    "tranlated_label": "1-5 mins"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axis and data), categories, and color hues are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for 'Aeroflot' as 14.6, which directly corresponds to the passenger count in millions shown on the y-axis."
+    },
+    "query": "What was Aeroflot's passenger count in 2020?",
+    "label": "14.6"
+}

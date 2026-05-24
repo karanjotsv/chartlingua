@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and relative proportions are identical to the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on web browser market share percentages, with categories like 'Internet Explorer' and 'Google Chrome'. The claim discusses voting patterns and geographical areas ('rural areas', 'Party A'), which are topics not represented in the chart."
+    },
+    "claim": "Participants from rural areas are more likely to vote for Party A",
+    "label": "FALSE"
+}

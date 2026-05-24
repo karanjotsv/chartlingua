@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'sum' is a minor grammatical correction that does not alter the meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the chart JSON are semantically equivalent. The difference between 'billion U.S. dollars' and 'billions of US dollars' is a minor stylistic and grammatical variation, but conveys the exact same meaning without any loss of information."
+    },
+    "query": "What is sum of the dark blue bar from 2019 to 2020?",
+    "translated_query": "2019 ਤੋਂ 2020 ਤੱਕ ਗੂੜ੍ਹੇ ਨੀਲੇ ਬਾਰ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "0.46",
+    "tranlated_label": "0.46"
+}

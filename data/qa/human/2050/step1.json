@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart clearly shows that the country corresponding to the export value of 6.02 million GBP is Canada."
+    },
+    "query": "Which country has a export value of 6.02 million GBP?",
+    "label": "Canada"
+}

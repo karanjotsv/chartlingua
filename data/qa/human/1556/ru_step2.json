@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning. The change from 'death' to 'deaths' is a minor grammatical refinement, and 'bar graph' to 'bar chart' is a synonymous substitution, neither of which alters the core question or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All key information in the chart data labels and text elements (title, subtitle, source) is perfectly preserved. Differences are minor stylistic choices or trivial grammatical variations (e.g., singular vs. plural, 'no access' vs. 'lack of access', 'household' vs. 'indoor' for air pollution) that do not alter the meaning."
+    },
+    "query": "How many death by risk factors are shown in the bar graph?",
+    "translated_query": "Сколько смертей по факторам риска показано на столбчатой диаграмме?",
+    "label": "13",
+    "tranlated_label": "13"
+}

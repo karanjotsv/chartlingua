@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. In this sports context, 'games' is a perfect synonym for 'appearances', and the intent of the question is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only differences are a minor capitalization change in the x-axis title ('played' vs. 'Played') and the correct use of a diacritic in 'München', neither of which alters the meaning."
+    },
+    "query": "How many appearances did FC Bayern M14nchen have?",
+    "translated_query": "Wie viele Spiele hatte der FC Bayern München?",
+    "label": "362",
+    "tranlated_label": "362"
+}

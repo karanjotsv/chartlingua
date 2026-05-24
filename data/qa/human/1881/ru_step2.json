@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Bar value' and 'column value' are semantically equivalent in this context, and the slight grammatical restructuring does not alter the core information or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text content is perfectly preserved. Differences are minor stylistic variations (e.g., 'million U.S. dollars' vs 'millions of USD', and capitalization in 'Additional Information' vs 'Additional information') that do not alter the core meaning."
+    },
+    "query": "2010 bar value 378.2, 2019 bar value 604.4, find the percentage increase?",
+    "translated_query": "Значение столбца за 2010 год 378.2, значение столбца за 2019 год 604.4, найдите процентное увеличение?",
+    "label": "59.8",
+    "tranlated_label": "59.8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, text elements (titles, labels), categories, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that the number of babies named Elsa increased from 560 in 2013 to 1131 in 2014, supporting the claim that the name's popularity increased."
+    },
+    "claim": "The popularity of the name Elsa increased in 2014 in the US.",
+    "label": true
+}

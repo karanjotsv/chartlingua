@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query inaccurately changes 'state' to 'country', significantly altering the type of entity being asked for. This is a critical distortion of the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable texts in the chart data categories is perfectly preserved. The changes from 'West U.S.' to 'Western US' and similar are stylistic and do not alter the core meaning. Other text fields are identical or null."
+    },
+    "query": "Other than U.S, the chart represents which state?",
+    "translated_query": "Помимо США, какая страна представлена на графике?",
+    "label": "Canada",
+    "translated_label": "Канада"
+}

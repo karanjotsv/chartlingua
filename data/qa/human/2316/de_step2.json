@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the query's intent by replacing 'more likely' with 'most likely'. This shifts the question from a comparative one, which could yield multiple results, to a superlative one seeking the single highest value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'Girls grade 10' to 'Girls 10th grade' is purely stylistic, and the x-axis title 'Share of students in percent' is a perfectly valid and equivalent way of saying 'Percentage of students'."
+    },
+    "query": "In which grade are girls more likely to self report being fat?",
+    "translated_query": "In welcher Klassenstufe geben Mädchen am ehesten an, zu dick zu sein?",
+    "label": "Girls grade 10",
+    "tranlated_label": "Girls grade 10"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It uses the same title, categories, data values (both absolute and percentage), and maintains the same color hues for each party. The overall message and data proportions are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the Conservative Party has the 'majority' of public funding. According to the pie chart, the Conservative Party received 42% of the funding, which is a plurality (the largest share) but not a majority (more than 50%). Additionally, the chart does not specify the year 2009."
+    },
+    "claim": "Conservative party has the majority of public funding among Canadian Federal political parties in 2009.",
+    "label": true
+}

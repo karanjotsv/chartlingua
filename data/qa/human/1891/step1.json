@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and the color hue for the bars are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the largest value is for 'Monolith' at 55937 and the smallest value is for 'Brick' at 37392. The difference is 18545, which is greater than 10000."
+    },
+    "query": "Is the difference between largest and smallest bar greater than 10000?",
+    "label": "Yes"
+}

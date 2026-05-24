@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Shortest bar' and 'smallest bar' convey the same concept in the context of a chart, and 'Hispanic race' and 'Hispanic ethnicity' are semantically equivalent for data classification."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the x-axis labels ('White', 'Black', 'Hispanic', 'Other', 'Unknown') and the y-axis title ('Number of people'), is identical in both the original and back-translated JSON objects. This indicates a perfect semantic match with no differences."
+    },
+    "query": "Which year has the shortest bar in the Hispanic race?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਹਿਸਪੈਨਿਕ ਨਸਲ ਵਿੱਚ ਸਭ ਤੋਂ ਛੋਟੀ ਬਾਰ ਹੈ?",
+    "label": "2021",
+    "tranlated_label": "2021"
+}

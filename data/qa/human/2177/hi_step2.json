@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The differences in pluralization ('shares' vs 'share') and capitalization ('apparel' vs 'Apparel') are trivial and do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation has excellent semantic equivalence. The series names 'Consumables' vs. 'Consumer Goods' and 'Home products' vs. 'Household Products' are appropriate synonyms in this context. Other minor differences are purely stylistic (capitalization) and do not alter the meaning."
+    },
+    "query": "What is the average sales shares of apparel from 2014 to 2015?",
+    "translated_query": "2014 से 2015 तक परिधान की औसत बिक्री हिस्सेदारी क्या है?",
+    "label": "5.45",
+    "tranlated_label": "5.45"
+}

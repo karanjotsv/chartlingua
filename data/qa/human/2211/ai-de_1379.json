@@ -1,0 +1,37 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Männlich",
+            "values": [
+                41,
+                53,
+                60
+            ]
+        },
+        {
+            "name": "Weiblich",
+            "values": [
+                40,
+                45,
+                52
+            ]
+        }
+    ],
+    "categories": [
+        "Online-Käufe",
+        "Einkaufen bei Amazon 6+ Mal pro<br>Monat",
+        "Anzahl der Amazon-Käufe ist im<br>Jahresvergleich gestiegen"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2F80ED",
+        "#1C2E46"
+    ]
+}

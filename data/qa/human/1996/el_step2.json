@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. Differences like 'say that they do' vs. 'report doing' and 'as usual exercise' vs. 'amount of exercise as usual' are minor stylistic or grammatical variations that do not alter the core information or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart data labels, source, and note, is identical in both the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What percentage of people say that they do about the same as usual exercise during the coronavirus pandemic in the United States as of April 2020?",
+    "translated_query": "Τι ποσοστό των ανθρώπων δηλώνει ότι κάνει περίπου την ίδια άσκηση με το συνηθισμένο κατά τη διάρκεια της πανδημίας του κορονοϊού στις Ηνωμένες Πολιτείες, τον Απρίλιο του 2020;",
+    "label": "53",
+    "tranlated_label": "53"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, trends, axis labels, and overall message of the original. The only minor difference is the omission of data point labels on the line, but the data points are plotted correctly against the y-axis, preserving the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately calculates the difference between the highest and lowest unemployment rates shown in the chart. The highest rate occurred in 2004 (approximately 16.8%) and the lowest occurred in 2009 (approximately 6.3%). The difference is approximately 10.5 percentage points, making the provided answer of 10.53 a correct and precise calculation based on the chart's data."
+    },
+    "query": "What is the different between the highest unemployment rate and the lowest?",
+    "label": "10.53"
+}

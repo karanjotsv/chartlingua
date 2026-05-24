@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The addition of 'The' and 'for' are minor stylistic differences that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The JSON objects contain no translatable text content. All text fields are either null or contain acronyms/proper nouns which were correctly preserved, resulting in an identical back-translation."
+    },
+    "claim": "Votes for others were higher than PNL and PSD combined.",
+    "translated_claim": "Die Stimmen für Sonstige waren höher als die für PNL und PSD zusammen."
+}

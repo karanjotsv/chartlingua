@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, labels, source), and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the composition of tax revenue for Ohio, with categories such as 'Income Taxes', 'Property Taxes', and 'Sales Taxes'. The claim refers to 'travel Expenses', 'PayPal fees', and 'internet hosting', none of which are mentioned or represented in the chart."
+    },
+    "claim": "The total amount of travel Expenses and PayPal fees is equal to internet hosting ",
+    "label": "FALSE"
+}

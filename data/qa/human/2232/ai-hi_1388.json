@@ -1,0 +1,49 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "महिला",
+            "पुरुष"
+        ],
+        "series": [
+            {
+                "name": "0–14",
+                "data": [
+                    16.65,
+                    17.06
+                ],
+                "text_color": "white"
+            },
+            {
+                "name": "15–64",
+                "data": [
+                    66.45,
+                    63.9
+                ],
+                "text_color": "white"
+            },
+            {
+                "name": "65+",
+                "data": [
+                    9.21,
+                    8.63
+                ],
+                "text_color": "black"
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "हजारों में निवासियों की संख्या",
+        "source": "© Statista 2021",
+        "note": "स्रोत दिखाएँ",
+        "footer_left": "अतिरिक्त जानकारी"
+    },
+    "colors": [
+        "#2878D4",
+        "#0F2E49",
+        "#B8B8B8"
+    ]
+}

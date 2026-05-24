@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim 'The number 2 is a not compared number.' perfectly preserves the semantic meaning of the original 'Number 2 is a non compared number.'. The differences are minor stylistic variations ('Number 2' vs 'The number 2') and synonymous phrasing ('non compared' vs 'not compared'), which do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the 'texts' field, including legend items and annotation text, is semantically identical. The only differences are minor case changes in the legend items, which do not affect the meaning."
+    },
+    "claim": "Number 2 is a non compared number.",
+    "translated_claim": "Число 2 является несравниваемым числом."
+}

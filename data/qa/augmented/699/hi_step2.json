@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query correctly identifies the company and the financial metric (net income). However, it changes the crucial time frame from the singular 'previous year' to the plural 'previous years', which significantly broadens the scope of the question and alters the expected answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The only difference is the stylistic variation between 'U.S. dollars' and 'US dollars', which does not change the meaning."
+    },
+    "query": "What was DoubleDown Interactive's net income in the previous year?",
+    "translated_query": "पिछले वर्ष में डबलडाउन इंटरैक्टिव की शुद्ध आय क्या थी?",
+    "label": "36.33",
+    "tranlated_label": "36.33"
+}

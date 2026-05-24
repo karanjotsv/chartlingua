@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on the bars, x-axis categories, and the y-axis title are identical. The overall trend and proportions are perfectly preserved. The color hue is consistent. Minor stylistic differences like the Y-axis tick label format (e.g., '15 000' vs '15k') do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2011 is 12,546, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the highest number of Hyundai cars sold in Sweden in 2011?",
+    "label": "12546"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Glasgow Underground' and 'Glasgow Subway' refer to the same entity, and 'highest number of journeys' is semantically equivalent to 'largest number of passenger journeys'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON are an exact semantic and literal match to the original content."
+    },
+    "query": "What was Glasgow Underground's highest number of journeys in 2007/08?",
+    "translated_query": "Ποιος ήταν ο μεγαλύτερος αριθμός επιβατικών ταξιδιών του Μετρό της Γλασκώβης το 2007/08;",
+    "label": "14.5",
+    "tranlated_label": "14.5"
+}

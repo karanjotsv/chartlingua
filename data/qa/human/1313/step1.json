@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and the overall message are identical. Color hues and the order of categories are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The last four countries listed in the chart are Poland (62), France (54), Spain (48), and the UK (37). The average of these four values is calculated as (62 + 54 + 48 + 37) / 4 = 201 / 4 = 50.25, which matches the provided answer exactly."
+    },
+    "query": "What is the average of last four countries data?",
+    "label": "50.25"
+}

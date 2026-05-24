@@ -1,0 +1,62 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "Aug 2014-1",
+            "Aug 2014-2",
+            "Oct 2014",
+            "Feb 2015",
+            "July 2015",
+            "Dec 2015"
+        ],
+        "series": [
+            {
+                "name": "Approve",
+                "y": [
+                    54,
+                    53,
+                    57,
+                    63,
+                    63,
+                    64
+                ]
+            },
+            {
+                "name": "Disapprove",
+                "y": [
+                    31,
+                    29,
+                    33,
+                    30,
+                    26,
+                    28
+                ]
+            }
+        ]
+    },
+    "x_axis_config": {
+        "tickvals": [
+            0.5,
+            2,
+            3,
+            4,
+            5
+        ],
+        "ticktext": [
+            "Aug<br>2014",
+            "Oct<br>2014",
+            "Feb<br>2015",
+            "July<br>2015",
+            "Dec<br>2015"
+        ]
+    },
+    "texts": {
+        "title": "<b>Most continue to support U.S. military<br>campaign against ISIS</b>",
+        "subtitle": "% who ___ of the U.S. military campaign against<br>Islamic militants in Iraq and Syria",
+        "source": "Source: Survey conducted Dec. 8-13, 2015.<br>Don’t know responses not shown.<br>* September 2014 survey asked about Barack Obama’s plan for a<br>military campaign against militants in Iraq and Syria. August 2014<br>survey asked about U.S. airstrikes against militants in Iraq only.<br><b>PEW RESEARCH CENTER</b>"
+    },
+    "colors": [
+        "#c8a941",
+        "#8d7c3d"
+    ]
+}

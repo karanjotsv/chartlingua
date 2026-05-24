@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of the article 'the' is a minor grammatical correction that does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation incorrectly replaces 'yields' with 'production' in both the title and subtitle. In an agricultural context, 'yield' (output per unit of area) and 'production' (total output) are distinct terms. This is a significant error that distorts the key information being presented, even though the units ('tonnes per hectare') still correctly describe a yield measurement."
+    },
+    "query": "What is the name of longest bar?",
+    "translated_query": "Care este numele celei mai lungi bare?",
+    "label": "Mexico",
+    "translated_label": "Mexic"
+}

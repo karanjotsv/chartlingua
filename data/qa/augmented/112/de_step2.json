@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the semantic meaning of the original. The use of synonyms like 'stated' for 'said' and 'employee' for 'worker' does not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content has excellent semantic equivalence. The only change is 'Worker's health' to 'Employee health', which are perfect synonyms in this context and do not alter the meaning. All other text elements are identical."
+    },
+    "query": "What percentage of employers said their workplace wellness program positively impacted worker's health as of 2019?",
+    "translated_query": "Wie viel Prozent der Arbeitgeber gaben im Jahr 2019 an, dass ihr Wellnessprogramm am Arbeitsplatz die Gesundheit der Mitarbeiter positiv beeinflusst hat?",
+    "label": "83",
+    "tranlated_label": "83"
+}

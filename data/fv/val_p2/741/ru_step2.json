@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. Differences are minor grammatical improvements ('reaches its maximum' instead of 'reaches to its maximun', 'equals' instead of 'is equal to') and a trivial lexical change ('logarithmically spaced' to 'logarithmically scaled') that does not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles and annotations, is an exact semantic and literal match between the original and back-translated JSON objects."
+    },
+    "claim": "The equivalent 'z' reaches to its maximun value when logarithmically spaced 'p' is equal to 2.",
+    "translated_claim": "Эквивалентное 'z' достигает своего максимального значения, когда логарифмически расположенное 'p' равно 2."
+}

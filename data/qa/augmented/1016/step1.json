@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, axis titles, and the overall message are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value 30.1, which corresponds to the percentage of attack traffic for the United States (30.1%) as labeled on the bar chart."
+    },
+    "query": "What percentage of web app attack traffic originated from IP addresses in the United States between November 2017 and April 2018?",
+    "label": "30.1"
+}

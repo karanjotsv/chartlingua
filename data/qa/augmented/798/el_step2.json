@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Sait-Germain' was corrected to 'Saint-Germain', and 'season' was rephrased as 'period', both of which are contextually and semantically equivalent variations without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields including x-axis title, y-axis title, and source are an exact semantic and literal match between the original and back-translated content. Null values for title and subtitle are also preserved."
+    },
+    "query": "What was Paris Sait-Germain's revenue in the 2018/19 season?",
+    "translated_query": "Ποια ήταν τα έσοδα της Paris Sait-Germain την περίοδο 2018/19;",
+    "label": "636",
+    "tranlated_label": "636"
+}

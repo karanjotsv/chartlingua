@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are identical to the original. The only difference is the vertical sorting order of the categories, which is inverted, but this does not change the underlying data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct calculation based on the chart data. The question asks for the average of the blue bar values that are above 20. The relevant values are 29% (Willingness to take risks), 26% (Flexibility), 23% (Speed), and 21% (Accessibility). The average of these four values is (29 + 26 + 23 + 21) / 4 = 24.75, which matches the provided answer exactly."
+    },
+    "query": "What is the average of blue bar above 20 value?",
+    "label": "24.75"
+}

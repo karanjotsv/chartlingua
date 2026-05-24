@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent 2D representation of the original 3D pie chart. All data values, labels, the title, and color hues for each category are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that the Fiora source accounts for 43% of the water, whereas the Bocca di Lupo source accounts for 12%. Therefore, the Fiora source produced more water, not less, than the Bocca di Lupo source, directly contradicting the claim."
+    },
+    "claim": "Fiora source produced less water compared to the Bocca di lupo source located around the Lake Bracciano.",
+    "label": "FALSE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the semantic meaning of the original. Minor differences like 'section' vs 'segment' and 'chart shown' vs 'displayed chart' are synonymous and do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match; differences are only stylistic or involve synonymous phrasing (e.g., 'Home fuel' vs 'Household Fuels', 'Electricity (gas)' vs 'Electricity (natural gas)', slight reordering in the title) that do not alter the core meaning of any text element."
+    },
+    "claim": "The section representing other which has white color is the largest section in the chart shown ",
+    "translated_claim": "Το τμήμα που αντιπροσωπεύει τα άλλα, το οποίο έχει λευκό χρώμα, είναι το μεγαλύτερο τμήμα στο διάγραμμα που εμφανίζεται."
+}

@@ -1,0 +1,45 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": "0 language",
+            "y": 14848551,
+            "text": "14848551 (34.32%)"
+        },
+        {
+            "x": "1 language",
+            "y": 23780247,
+            "text": "23780247 (54.96%)"
+        },
+        {
+            "x": "2 languages",
+            "y": 3857820,
+            "text": "3857820 (9.15%)"
+        },
+        {
+            "x": "3 languages",
+            "y": 471226,
+            "text": "471226 (1.09%)"
+        },
+        {
+            "x": "4 languages",
+            "y": 103107,
+            "text": "103107 (0.24%)"
+        },
+        {
+            "x": "5+ languages",
+            "y": 107614,
+            "text": "107614 (0.25%)"
+        }
+    ],
+    "texts": {
+        "title": "Number of files with N language templates on Commons",
+        "subtitle": "From data dumps of November 20, 2017",
+        "xaxis_title": "Number of language templates (N)",
+        "yaxis_title": "Number of files",
+        "source": null
+    },
+    "colors": [
+        "#2ca05a"
+    ]
+}

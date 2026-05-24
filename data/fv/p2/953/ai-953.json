@@ -1,0 +1,147 @@
+{
+    "chart_type": "infographic",
+    "chart_data": [
+        {
+            "type": "donut",
+            "title": "Population",
+            "value": 14,
+            "center_text": "14%<br>of the UK",
+            "sub_text": "8.7 million<br>Highest in the UK<br>mid-2012"
+        },
+        {
+            "type": "info_block",
+            "title": "Life Expectancy",
+            "data": [
+                {
+                    "region": "South East",
+                    "male": "80.0",
+                    "female": "83.8"
+                },
+                {
+                    "region": "North West",
+                    "male": "77.4",
+                    "female": "81.5"
+                }
+            ],
+            "sub_text": "Highest in the UK<br>2009-2011"
+        },
+        {
+            "type": "horizontal_bar",
+            "title": "Working-age population<br>with no qualifications",
+            "categories": [
+                "South<br>East",
+                "Yorkshire and<br>The Humber",
+                "West Midlands"
+            ],
+            "values": [
+                6.9,
+                11.5,
+                13.6
+            ],
+            "sub_text": "Lowest in England<br>2012"
+        },
+        {
+            "type": "donut",
+            "title": "Economic Output",
+            "value": 15,
+            "center_text": "15%<br>of the UK",
+            "sub_text": "Gross Value Added<br>Second Largest in UK<br>2011"
+        },
+        {
+            "type": "vertical_bar",
+            "title": "Unemployment",
+            "categories": [
+                "North<br>East",
+                "South<br>East",
+                "South<br>West"
+            ],
+            "values": [
+                10.3,
+                6.0,
+                6.0
+            ],
+            "sub_text": "Q2 2013"
+        },
+        {
+            "type": "custom_circles",
+            "title": "Weekly Earnings",
+            "data": [
+                {
+                    "region": "North East",
+                    "value": "£455",
+                    "position": [
+                        0.5,
+                        0.25
+                    ]
+                },
+                {
+                    "region": "London",
+                    "value": "£613",
+                    "position": [
+                        0.2,
+                        0.65
+                    ]
+                },
+                {
+                    "region": "South East",
+                    "value": "£556",
+                    "position": [
+                        0.8,
+                        0.65
+                    ]
+                }
+            ],
+            "sub_text": "Highest outside London<br>Median earnings of<br>full-time employees<br>April 2012"
+        },
+        {
+            "type": "vertical_bar",
+            "title": "House Prices",
+            "categories": [
+                "South<br>East",
+                "London"
+            ],
+            "values": [
+                2.9,
+                8.1
+            ],
+            "sub_text": "One of the <b>largest</b> increases<br>in the UK in year to June 2013",
+            "value_suffix": "%<br>increase"
+        }
+    ],
+    "texts": {
+        "title": "<b>Regional Profile of the South East</b>",
+        "source": "www.ons.gov.uk",
+        "note": "Contains data and information from Ordnance Survey,<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013"
+    },
+    "colors": {
+        "background": "#FFFFFF",
+        "main_background": "#EFF0F1",
+        "text": "#333333",
+        "title_text": "#003865",
+        "header_text": "#FFFFFF",
+        "header_bg": [
+            "#D95F2B",
+            "#F47D23",
+            "#A58A7A",
+            "#93B950",
+            "#2D75B6",
+            "#E6007E",
+            "#62869B"
+        ],
+        "donut_segment": [
+            "#D95F2B",
+            "#93B950"
+        ],
+        "donut_base": "#E0E0E0",
+        "qualifications_bar": "#C3B1A7",
+        "unemployment_bars": [
+            "#97B8D8",
+            "#2D75B6"
+        ],
+        "house_price_bars": [
+            "#62869B",
+            "#A5B8C3"
+        ],
+        "earnings_circles": "#E6007E"
+    }
+}

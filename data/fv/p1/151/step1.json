@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original's data, including the line shapes, inverted y-axis, and color hues. The addition of a title in the rendered version adds context without altering the core data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Lazio has 'consistently remained in the top tier'. However, the chart shows several periods where Lazio's rank (the light blue line) was worse than the number of teams in the top league, indicating they were not in the top tier. This can be seen around 1961, 1969, and for extended periods in the 1980s."
+    },
+    "claim": " Lazio has consistently remained in the top tier of the Italian football league at the first season of a unified Serie A.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, data points, value labels, text elements (title, axes, legend), and color hues are accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows a data point for 'PV (aims 2012)' at the year 2012, which is explicitly labeled with the value '20'."
+    },
+    "claim": "The graph begins at 2012 at the value of 20 according to the given chart.",
+    "label": "TRUE"
+}

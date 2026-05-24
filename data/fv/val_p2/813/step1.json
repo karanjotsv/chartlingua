@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data values (percentages), category labels in the legend, and color hues for each category are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a majority of respondents were 'highly familiar', but the chart shows that only 19% of respondents chose this option. This is not a majority, as a majority would be over 50%. The largest category is 'Not at all' with 46%."
+    },
+    "claim": "The majority of respondents reported being highly familiar with the interaction between Wikimedia projects and translatewiki.net.",
+    "label": "FALSE"
+}

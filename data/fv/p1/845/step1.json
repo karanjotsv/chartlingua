@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect recreation of the original. All data series (shapes, values, and proportions) are identical. The color hues for each series are preserved. The rendered chart successfully makes the legend text legible, which was unreadable in the original, without changing the semantic structure.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to categories named 'Global', 'US Home', and 'US Work', but the chart's legend only identifies the data as 'Series 1', 'Series 2', and 'Series 3'. There is no information within the chart to link these two sets of labels, making it impossible to verify the claim."
+    },
+    "claim": "Global is always higher in the chart than US Home and US Work.",
+    "label": true
+}

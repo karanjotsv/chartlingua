@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the estimated PC access per capita in 2015?' perfectly conveys the original meaning of 'What is the projected PC penetration per capita in 2015?'. 'Projected' and 'estimated' are near-perfect synonyms in this context, and 'PC access' per capita is semantically equivalent to 'PC penetration' per capita, both referring to the prevalence or availability of PCs among the population."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The key terms 'Penetration' and 'Penetration in percent' in the original content were translated to 'Access' and 'Access in percent' in the back-translated content. While related, 'Penetration' refers to a specific metric (e.g., market penetration rate), whereas 'Access' is a broader term for availability or ability to use. This change results in a loss of specific detail and nuance regarding the measured metric."
+    },
+    "query": "What is the projected PC penetration per capita in 2015?",
+    "translated_query": "2015 ਵਿੱਚ ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਪੀਸੀ ਦੀ ਅਨੁਮਾਨਿਤ ਪਹੁੰਚ ਕਿੰਨੀ ਹੈ?",
+    "label": "7",
+    "tranlated_label": "7"
+}

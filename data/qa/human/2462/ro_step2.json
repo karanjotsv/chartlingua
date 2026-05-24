@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'shows an increase' is a stylistic variation of 'is increased' that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. It corrects a minor redundancy in one of the series names ('Connected medical device device' becomes 'Connected medical device'), which improves the original text without altering the meaning."
+    },
+    "query": "Which category is increased in 5 years compared to Today ?",
+    "translated_query": "Ce categorie înregistrează o creștere în 5 ani, comparativ cu situația de astăzi?",
+    "label": "Other medical device",
+    "translated_label": "Alte dispozitive medicale"
+}

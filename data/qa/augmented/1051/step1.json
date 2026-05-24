@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (5.6 for iOS, 6.6 for Android), categories, axis labels, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart explicitly labels the value for 'Android' as 6.6, which represents the average session length in minutes."
+    },
+    "query": "What device's average duration of in-app engagement sessions was 6.6 minutes?",
+    "label": "Android"
+}

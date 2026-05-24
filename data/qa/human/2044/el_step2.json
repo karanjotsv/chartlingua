@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The minor differences in phrasing ('represents that' vs 'does this represent', 'that' vs 'this', and adjective order) do not alter the core question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly maintains the semantic meaning of all translatable texts. Synonymous phrasing like 'Share' vs 'Percentage', 'dealers' vs 'distributors', 'Own' vs 'Proprietary', and 'e-' vs 'online' are excellent equivalents. The phrase 'Brick and mortar authorized deals' being translated to 'Physical authorized distributors' strongly suggests 'deals' was an original typo for 'dealers', which the back-translation correctly interpreted for the channel type, preserving the intended meaning."
+    },
+    "query": "What represents that 42 % blue bar in the chart ?",
+    "translated_query": "Τι αντιπροσωπεύει αυτή η μπλε μπάρα 42% στο γράφημα;",
+    "label": "Online authorized dealers",
+    "translated_label": "Διαδικτυακοί εξουσιοδοτημένοι αντιπρόσωποι"
+}

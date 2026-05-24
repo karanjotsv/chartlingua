@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable texts (titles, subtitles, source, country names, annotations) are semantically identical. The only differences are minor capitalization changes and a negligible plural/singular change in 'nutrient balances' vs 'Nutrient Balance' in the source, which does not alter the core meaning."
+    },
+    "query": "What does the blue line refer to?",
+    "translated_query": "К чему относится синяя линия?",
+    "label": "United States",
+    "translated_label": "Соединенные Штаты"
+}

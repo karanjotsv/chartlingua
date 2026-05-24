@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, and color hues for each category are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that Lactose makes up 37.0% of the composition of milk, which is the largest percentage compared to the other components shown: Fat (31.0%), Protein (26.0%), and Minerals (6.0%)."
+    },
+    "claim": "Lactose is the main constituent of milk.",
+    "label": true
+}

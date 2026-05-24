@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, maintaining perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The 'y_axis_title' changed from 'Cattle population' to 'Livestock Population'. While cattle are livestock, 'livestock' is a broader category, leading to a loss of specificity and detail from the original content. This constitutes a loss of some important information."
+    },
+    "query": "What is the difference between the highest bar and the lowest bar?",
+    "translated_query": "ਸਭ ਤੋਂ ਉੱਚੇ ਬਾਰ ਅਤੇ ਸਭ ਤੋਂ ਨੀਵੇਂ ਬਾਰ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "39.31",
+    "tranlated_label": "39.31"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and overall proportions are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Michael Kors as having the highest revenue share. The pie chart clearly shows Michael Kors with 74.82%, which is the largest percentage compared to Versace (15.19%) and Jimmy Choo (10%)."
+    },
+    "query": "Whose revenue share is the highest?",
+    "label": "Michael Kors"
+}

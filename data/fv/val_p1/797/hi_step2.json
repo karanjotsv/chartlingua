@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the original's meaning by changing the frequency of use from 'rarely' to 'sometimes'. While the original phrasing is contradictory ('rarely use... often'), the back-translation introduces a different concept, which constitutes a significant error in the key information being conveyed."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The equivalence is fair. While the chart title and most categories are accurate, the change from 'Rarely' to 'Sometimes' is a significant semantic shift. 'Rarely' implies a very low frequency, whereas 'Sometimes' is a more general term, leading to a loss of nuance and accuracy for that data point."
+    },
+    "claim": "Respondent rarely use Wikipedia often and its the highest number ",
+    "translated_claim": "उत्तरदाता कभी-कभी विकिपीडिया का उपयोग करते हैं और यह सबसे बड़ी संख्या है।"
+}

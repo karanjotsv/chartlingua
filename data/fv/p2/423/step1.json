@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly plots a subset of the data from the original. However, it is missing a significant number of data points (movies), which changes the chart from a 'Top 50' list to a curated selection and distorts the relative rankings shown in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The font size for the y-axis labels is excessively large, causing the text to be very crowded and making the chart difficult to read. Additionally, the data value labels at the end of the bars overlap with the vertical gridlines."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows 'Jurassic World (2015)' as the 4th highest-grossing film on the list, with a box office gross of over 1.6 billion US$. The film with the lowest gross shown on the chart is 'Spider-Man 3 (2007)' at the bottom."
+    },
+    "claim": "The lowest boxoffice gross is of Jurassic world.",
+    "label": "FALSE"
+}

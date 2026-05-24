@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. Differences are minor stylistic choices ('17-year-old age group' vs 'age group of 17', 'arrests of men on suspicion' vs 'male suspicion arrests', 'the USA' vs 'US') that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON perfectly retain the original semantic meaning. Minor rephrasing like 'United States Male Suspicion Arrests' to 'Arrests of Men on Suspicion in the USA' and 'Number arrested' to 'Number of Arrests' are stylistic and do not alter content."
+    },
+    "claim": "At age group of 17, the average number of male suspicion arrests was more than 4  in the year 2014 in US.",
+    "translated_claim": "В возрастной группе 17 лет среднее число арестов мужчин по подозрению составляло более 4 в 2014 году в США."
+}

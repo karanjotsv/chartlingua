@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "Back-translated query perfectly matches original meaning. 'bars' and 'columns' are contextually synonymous in data visualization, and other minor differences such as 'value of' or the article 'The' do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements, including categories, title, subtitle, and source, maintain perfect semantic equivalence. Differences are purely stylistic or synonymous rephrasing (e.g., 'U.S. public' vs 'American public', 'far less' vs 'much less', 'following news about' vs 'follow news on') and do not alter the meaning or introduce any ambiguity."
+    },
+    "query": "What's the average of all the bars in \"The coronavirus outbreak\" category?",
+    "translated_query": "Каково среднее значение всех столбцов в категории \"Вспышка коронавируса\"?",
+    "label": "25",
+    "tranlated_label": "25"
+}

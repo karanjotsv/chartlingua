@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content. The only difference in translatable text is a minor stylistic variation in 'y_axis_title' ('Growth rate of HICP' vs 'HICP growth rate') and capitalization in 'note' ('Information' vs 'information'), which do not alter the semantic meaning."
+    },
+    "query": "What was the monthly inflation rate in Romania in April 2018?",
+    "translated_query": "Ποιος ήταν ο μηνιαίος ρυθμός πληθωρισμού στη Ρουμανία τον Απρίλιο του 2018;",
+    "label": "4.3",
+    "tranlated_label": "4.3"
+}

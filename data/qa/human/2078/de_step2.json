@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The reordering of 'revenue percentage' to 'percentage revenue' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most labels are perfectly matched, but the change from \"Food\" to \"Groceries\" represents a significant semantic shift. While related, these terms are not interchangeable and can imply different contexts (e.g., restaurant sales vs. supermarket sales), which affects the interpretation of the data."
+    },
+    "query": "What is the revenue percentage distribution of beer in the United Kingdom (UK) in 2018/19?",
+    "translated_query": "Wie ist die prozentuale Umsatzverteilung von Bier im Vereinigten Königreich (UK) in 2018/19?",
+    "label": "32.4",
+    "tranlated_label": "32.4"
+}

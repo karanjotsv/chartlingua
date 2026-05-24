@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, the title, and the overall trend are identical to the original. The change from a 3D to a 2D style is purely aesthetic and does not alter the information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 2009 had the highest number of PC shipments. The chart data shows that 2009 had the lowest number of shipments (7,125,480), while 2012 had the highest (13,560,031)."
+    },
+    "claim": "In 2009, Russia shipped the highest number of  PC units according to the graph above.",
+    "label": false
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The original sentence is grammatically incomplete, using 'than' which implies a quantitative comparison (e.g., 'more than'). The back-translated content uses 'rather than,' which shifts the meaning to an alternative or preference, rather than a direct quantity comparison. While the general topic is maintained, this alters the nuanced semantic relationship implied by the original's 'than'. The change from 'wind sources' to 'wind turbines' is a minor, acceptable lexical variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable texts. Differences like 'U.S.' vs 'USA', 'U.K.' vs 'United Kingdom', 'about whether' vs 'on whether', and capitalization are purely stylistic or trivial and do not alter meaning."
+    },
+    "claim": "Pennsylvania generates electricity from wind sources than from coal.",
+    "translated_claim": "Η Πενσυλβάνια παράγει ηλεκτρική ενέργεια από ανεμογεννήτριες παρά από άνθρακα."
+}

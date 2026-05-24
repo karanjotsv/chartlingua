@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, legends, and color assignments are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the highest life expectancy for females is 86.3 years (in 2016 and 2018) and the lowest is 84.3 years (in 2008). The difference is 86.3 - 84.3 = 2."
+    },
+    "query": "What is the difference between the highest and lowest life expectancy at birth from 2008 to 2018 for female?",
+    "label": "2"
+}

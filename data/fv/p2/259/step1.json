@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, title, and color scheme are all consistent with the original. The only minor difference is the omission of a 'Logarithmic Plot' label and the simplification of a diagram in the corner into a text string, neither of which alters the chart's core meaning or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The line on the chart crosses the 100,000 mark several years before the 1990 tick mark. By the year 1990, the number of patents granted was already visibly above 100,000."
+    },
+    "claim": "Patents granted passed 100,000 mark in 1990.",
+    "label": "TRUE"
+}

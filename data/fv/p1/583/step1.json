@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the overall message, categories, and color hues are preserved, there are noticeable data discrepancies. Specifically, the data for the 'Independents' series is missing for two categories ('Public land renewable energy' and '100% renewable energy') in the rendered chart. Additionally, the proportions of the stacked segments differ slightly across all bars.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not show the levels of public support or opposition for climate change policies. Instead, its title and x-axis label, \"Public's underestimation of support,\" indicate that it displays the degree to which people from different political parties underestimate the actual level of public support for these actions. The chart provides no information to conclude whether most Americans oppose these policies."
+    },
+    "claim": "The chart shows that most Americans oppose major climate change policies.",
+    "label": false
+}

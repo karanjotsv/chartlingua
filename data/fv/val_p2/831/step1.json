@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states Safari is the browser with the most active users, but the pie chart clearly shows that Internet Explorer has the largest share with 29.05%, which is more than double Safari's share of 13.49%."
+    },
+    "claim": "Safari is the browser with the most active users.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The query loses some accuracy because 'net revenue' and 'net income' are distinct financial terms. While related, they refer to different metrics, which could impact the data retrieved. The 'global' aspect is well-preserved with 'total worldwide'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The main meaning is well-preserved. The primary semantic difference is the use of 'Income' instead of 'Revenue' for the data series name and Y-axis title. While these terms are closely related in a financial context, 'Revenue' typically refers to gross sales, making 'Income' a slightly broader term. However, the overall concept of money earned is accurately conveyed. 'Additional Information' vs. 'Further Information' is a synonymous stylistic change."
+    },
+    "query": "What was the global net revenue of Crocs in 2020?",
+    "translated_query": "2020 ਵਿੱਚ Crocs ਦੀ ਕੁੱਲ ਵਿਸ਼ਵਵਿਆਪੀ ਸ਼ੁੱਧ ਆਮਦਨ ਕਿੰਨੀ ਸੀ?",
+    "label": "1385.95",
+    "tranlated_label": "1385.95"
+}

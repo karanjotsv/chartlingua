@@ -1,0 +1,36 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "< 1",
+            "value": 76.5
+        },
+        {
+            "category": "1 to 10",
+            "value": 11.5
+        },
+        {
+            "category": "11 to 20",
+            "value": 4.0
+        },
+        {
+            "category": "21 to 40",
+            "value": 4.0
+        },
+        {
+            "category": "> 40",
+            "value": 4.0
+        }
+    ],
+    "texts": {
+        "title": "Impervious Cover in the Continental US",
+        "subtitle": null,
+        "x_axis_title": "Percent impervious cover",
+        "y_axis_title": "Percent of the conterminous United States",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4285F4"
+    ]
+}

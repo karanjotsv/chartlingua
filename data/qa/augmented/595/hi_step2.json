@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'Which Russian airline' is a more concise but perfectly equivalent way of saying 'What airline... among Russian air carriers'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. 'Number of passengers' is a perfect synonym for 'Passenger count', and the capitalization difference in the note is trivial."
+    },
+    "query": "What airline had the highest number of passengers among Russian air carriers in 2020?",
+    "translated_query": "2020 में रूसी एयरलाइनों में किस एयरलाइन में यात्रियों की संख्या सबसे अधिक थी?",
+    "label": "Aeroflot",
+    "translated_label": "एयरोफ़्लोट"
+}

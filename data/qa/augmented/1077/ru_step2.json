@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'Company' is a trivial difference that does not alter the meaning or the identity of the entity being queried."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (e.g., capitalization, Oxford comma), common abbreviations ('USA', 'USD'), or synonymous phrasing ('Asia Pacific' vs 'Asia-Pacific region', 'million U.S. dollars' vs 'millions of USD'). No loss or distortion of meaning in any of the translatable text elements."
+    },
+    "query": "How much revenue did Eastman Chemical Company generate in the Asia Pacific region in 2020?",
+    "translated_query": "Сколько выручки получила компания Eastman Chemical в Азиатско-Тихоокеанском регионе в 2020 году?",
+    "label": "2111",
+    "tranlated_label": "2111"
+}

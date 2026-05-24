@@ -1,0 +1,41 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Jünger als 65 Jahre",
+            "values": [
+                47438,
+                144498
+            ]
+        },
+        {
+            "category": "65-84 Jahre",
+            "values": [
+                32797,
+                96843
+            ]
+        },
+        {
+            "category": "Älter als 85 Jahre",
+            "values": [
+                8974,
+                33858
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der Leistungsempfänger/Dienstleistungen",
+        "legend_labels": [
+            "Leistungsempfänger",
+            "Dienstleistungen"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2377d6",
+        "#162C43"
+    ]
+}

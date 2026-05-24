@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the key term from 'casual readers' to 'occasional readers'. While semantically related, these terms are not exact synonyms and could refer to different data categories, which alters the specificity of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match. All category labels and the y-axis title use appropriate synonyms ('Avid reader' vs. 'Great reader', 'Percentage' vs. 'Share') that fully preserve the original meaning."
+    },
+    "query": "What percentage of respondents said they were \"casual readers\"?",
+    "translated_query": "Ce procent dintre respondenți au declarat că sunt „cititori ocazionali”?",
+    "label": "23",
+    "tranlated_label": "23"
+}

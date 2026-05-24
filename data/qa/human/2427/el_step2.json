@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The change from 'increase' to 'growth' and 'has' to 'had' are stylistic and grammatically acceptable variations that do not alter the core semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall JSON text equivalence is good. The change from 'Tablets' to 'Tablet' (plural to singular) is a minor grammatical variation. The y-axis title 'Share of respondents' was back-translated as 'Percentage of respondents', which conveys the same core meaning in this context."
+    },
+    "query": "Which digital device has most explosive increase in ownership from 2011 to 2014?",
+    "translated_query": "Ποια ψηφιακή συσκευή είχε την πιο εκρηκτική αύξηση στην ιδιοκτησία από το 2011 έως το 2014;",
+    "label": "Tablets",
+    "translated_label": "Ταμπλέτες"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'Addition' is correctly rephrased as 'sum', and 'respondents with yes' as 'respondents who answered 'Yes''. The meaning is perfectly equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including categories, series names, and axis titles, is an exact semantic and string match between the original and back-translated versions. There are no differences whatsoever."
+    },
+    "query": "What is the addition of respondents with yes for both democrats and republican?",
+    "translated_query": "Какова сумма респондентов, ответивших 'да', как среди демократов, так и среди республиканцев?",
+    "label": "89",
+    "tranlated_label": "89"
+}

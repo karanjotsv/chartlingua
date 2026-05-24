@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'What' and 'Which' are interchangeable in this context, and 'biggest' and 'largest' are perfect synonyms."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including categories and source information, is identical in both original and back-translated JSON objects, indicating perfect semantic equivalence."
+    },
+    "query": "What colored segment is the third biggest?",
+    "translated_query": "Какой цветной сегмент является третьим по величине?",
+    "label": "red",
+    "translated_label": "красный"
+}

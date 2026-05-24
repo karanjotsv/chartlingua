@@ -1,0 +1,54 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Metallbergbau",
+            "value": 37
+        },
+        {
+            "category": "Alle Anderen",
+            "value": 10
+        },
+        {
+            "category": "Lebensmittel",
+            "value": 4
+        },
+        {
+            "category": "Papier",
+            "value": 5
+        },
+        {
+            "category": "Management<br>gefährlicher Abfälle",
+            "value": 6
+        },
+        {
+            "category": "Metallerzeugung",
+            "value": 10
+        },
+        {
+            "category": "Elektrizitätsversorger",
+            "value": 13
+        },
+        {
+            "category": "Chemische Industrie",
+            "value": 15
+        }
+    ],
+    "texts": {
+        "title": "Gesamte Entsorgung oder sonstige Freisetzungen nach Industriezweig, 2015",
+        "subtitle": "3,36 Milliarden Pfund",
+        "source": "Basierend auf Daten, die von US-Industrien an das Schadstoffemissionsregister (TRI) gemeldet wurden.",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0075b2",
+        "#d95f02",
+        "#009e73",
+        "#b32e3a",
+        "#000000",
+        "#583d4e",
+        "#f0e442",
+        "#e69f00"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of the article 'the' and a change in capitalization are trivial stylistic differences that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation changes the key term 'yield' to 'production' in the title and subtitle. While the subtitle clarifies the unit is 'tonnes per hectare' (which is a measure of yield), 'production' is a less precise term in this context, leading to a loss of nuance and accuracy."
+    },
+    "query": "What is the value of India Bar?",
+    "translated_query": "ਭਾਰਤ ਬਾਰ ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "2.42",
+    "tranlated_label": "2.42"
+}

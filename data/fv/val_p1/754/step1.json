@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is highly consistent in terms of title, categories, color hues, and the main data point (Tamasheq at 86%). However, the 'Fulfulde' category is represented as 0% in the rendered chart, whereas the original shows it as a very small, non-zero slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that the 'Tamasheq' category represents 86% of the population, which is a majority."
+    },
+    "claim": "The majority of the population in Kidal speaks Tamasheq.\n",
+    "label": true
+}

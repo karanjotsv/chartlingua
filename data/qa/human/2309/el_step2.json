@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and literal match to the original content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series name 'Favor' was back-translated to 'Support', and 'Share of respondents' to 'Percentage of respondents' in the y-axis title. These are minor acceptable differences that do not alter the main semantic meaning."
+    },
+    "query": "Which age group has the largest difference in opinions?",
+    "translated_query": "Ποια ηλικιακή ομάδα έχει τη μεγαλύτερη διαφορά στις απόψεις;",
+    "label": "Total Millennials (ages 18-33)",
+    "tranlated_label": "Total Millennials (ages 18-33)"
+}

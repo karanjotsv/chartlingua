@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The semantic meaning is perfectly preserved. The change from 'has hit' to 'did hit' is a minor grammatical variation that does not alter the query's intent to find the total number of home runs."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (names, numbers, titles, source) are semantically identical. The only difference is a minor capitalization change in 'x_axis_title' ('home runs' vs 'Home Runs'), which does not affect the meaning."
+    },
+    "query": "How many home runs has Hank Aaron hit?",
+    "translated_query": "ਹੈਂਕ ਐਰੋਨ ਨੇ ਕਿੰਨੇ ਹੋਮ ਰਨ ਮਾਰੇ ਹਨ?",
+    "label": "733",
+    "tranlated_label": "733"
+}

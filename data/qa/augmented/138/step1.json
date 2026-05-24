@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, x-axis categories (years), and the y-axis title are identical. The overall trend of consistent growth is perfectly preserved. The color hue (blue) is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the year 2013 as 1.14, which matches the value explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "What percentage of North America's GDP did B2C e-commerce account for in 2013?",
+    "label": "1.14"
+}

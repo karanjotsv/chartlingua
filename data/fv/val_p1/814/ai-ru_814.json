@@ -1,0 +1,69 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Машина",
+            "value": 60
+        },
+        {
+            "category": "Пресс-форма",
+            "value": 20
+        },
+        {
+            "category": "Материал",
+            "value": 10
+        },
+        {
+            "category": "Люди (Оператор)",
+            "value": 10
+        }
+    ],
+    "texts": {
+        "title": "Вклад в дефекты литья пластмасс",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31",
+        "#A5A5A5",
+        "#FFC000"
+    ],
+    "annotations": [
+        {
+            "text": "Машина<br>60%",
+            "x": 0.8,
+            "y": 0.5,
+            "ax": 80,
+            "ay": 10,
+            "align": "left"
+        },
+        {
+            "text": "Пресс-форма<br>20%",
+            "x": 0.6,
+            "y": 0.2,
+            "ax": -100,
+            "ay": -20,
+            "align": "right"
+        },
+        {
+            "text": "Материал<br>10%",
+            "x": 0.28,
+            "y": 0.45,
+            "ax": -90,
+            "ay": 60,
+            "align": "right"
+        },
+        {
+            "text": "Люди (Оператор)<br>10%",
+            "x": 0.45,
+            "y": 0.8,
+            "ax": 0,
+            "ay": 70,
+            "align": "center"
+        }
+    ]
+}

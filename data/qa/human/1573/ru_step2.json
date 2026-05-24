@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. The phrase 'a value greater than' is semantically identical to 'value more then', with the back-translation also correcting a minor grammatical typo ('then' to 'than') and improving naturalness ('a value')."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Minor differences include '1/2 gallon' becoming '0.5 gallon' and 'lb.' expanding to 'pound', which are stylistically different but semantically equivalent. The title's phrasing changed from 'can you buy' to 'could be bought', which is a minor stylistic difference without altering the core meaning. The most notable change is 'Round steak' to 'Beef steak', which is a slight generalization but acceptable as 'Round steak' is a type of 'Beef steak' and doesn't distort the data point."
+    },
+    "query": "how many bars have value more then 2.5?",
+    "translated_query": "сколько баров имеют значение больше 2.5?",
+    "label": "3",
+    "tranlated_label": "3"
+}

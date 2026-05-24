@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces all data values, percentages, and category labels. The overall message and proportions are identical to the original. The main inconsistency is the color mapping; the hues used for most categories have changed (e.g., Azeri is blue in the original and green in the rendered), but the rendered chart is internally consistent with its own legend and does not alter the interpretation of the data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap among the labels for the smaller pie slices on the right side of the chart, making them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that Kazakh has 12,000,000 native speakers, while Turkmen has 6,000,000. Therefore, Kazakh has more native speakers than Turkmen, which contradicts the claim."
+    },
+    "claim": "Kazakh has less native speakers than Turkmen.",
+    "label": "FALSE"
+}

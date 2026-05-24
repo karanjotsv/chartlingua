@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Least number' and 'lowest' are synonymous, and 'on 8.04' and 'At 8.04' convey the same temporal or version-specific context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the 'texts' object are null in both original and back-translated content, indicating perfect semantic equivalence in the absence of text."
+    },
+    "claim": "There were the least number of Ubuntu repositories on 8.04",
+    "translated_claim": "8.04 'ਤੇ ਉਬੰਟੂ ਰਿਪੋਜ਼ਟਰੀਆਂ ਦੀ ਗਿਣਤੀ ਸਭ ਤੋਂ ਘੱਟ ਸੀ।"
+}

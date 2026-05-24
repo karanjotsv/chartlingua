@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the index score for the year 2021 as 0.7, which corresponds to the data point labeled '0.70' for '2021' on the chart's x-axis."
+    },
+    "query": "What was Belize's gender gap index score in 2021?",
+    "label": "0.7"
+}

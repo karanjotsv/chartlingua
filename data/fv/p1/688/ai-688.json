@@ -1,0 +1,79 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "U.S.",
+            "Sweden",
+            "UK",
+            "Spain",
+            "France",
+            "Germany",
+            "Italy",
+            "Hungary",
+            "Netherlands",
+            "Poland",
+            "Greece"
+        ],
+        "series": [
+            {
+                "name": "A better place to live",
+                "values": [
+                    58,
+                    36,
+                    33,
+                    31,
+                    26,
+                    26,
+                    18,
+                    17,
+                    17,
+                    14,
+                    10
+                ]
+            },
+            {
+                "name": "Doesn't make much difference",
+                "values": [
+                    33,
+                    38,
+                    34,
+                    45,
+                    48,
+                    40,
+                    25,
+                    39,
+                    46,
+                    33,
+                    27
+                ]
+            },
+            {
+                "name": "A worse place to live",
+                "values": [
+                    7,
+                    26,
+                    31,
+                    22,
+                    24,
+                    31,
+                    53,
+                    41,
+                    36,
+                    40,
+                    63
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Americans more likely to say growing diversity makes<br>their country a better place to live",
+        "subtitle": "Do you think having an increasing number of people of many different races,<br>ethnic groups and nationalities in our country makes it a better place to live,<br>a worse place to live or doesn’t make much difference either way?",
+        "source": "Source: Spring 2016 Global Attitudes Survey. U.S. survey conducted March 17-27, 2016.",
+        "note": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#8c9f49",
+        "#e1e0cb",
+        "#e89f38"
+    ]
+}

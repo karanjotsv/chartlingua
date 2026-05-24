@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the intergenerational income elasticity for the United Kingdom is 0.5 and for the United States is 0.47. The difference between these two values is 0.03, which is less than 0.5 as the claim states."
+    },
+    "claim": "Between the United Kingdom and the United States there exists an intergenerational income elasticity difference of less than .5.",
+    "label": true
+}

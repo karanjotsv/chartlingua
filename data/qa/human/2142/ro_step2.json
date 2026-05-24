@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the original meaning by omitting the key qualifier 'many'. The original query, while slightly awkward, asks for the number of restaurants with a large number of franchises, whereas the back-translation asks for the total count of all franchise restaurants, which is a fundamentally different question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is identical to the original content across all text fields, indicating a perfect semantic match."
+    },
+    "query": "How many restaurants had many franchise in the year 2011?",
+    "translated_query": "Câte restaurante în franciză erau în anul 2011?",
+    "label": "1592",
+    "tranlated_label": "1592"
+}

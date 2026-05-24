@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values (86%, 11%, 3%), slice proportions, category labels, title, and color hues are all accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart, titled 'Female', shows that the category 'Workers and Dealers in Food and Lodging' accounts for 86% of the total. This overwhelming majority directly supports the claim that the female workforce 'largely occupied' this industry."
+    },
+    "claim": "In 1881, the female works largely occupied Food and Lodging industry.",
+    "label": true
+}

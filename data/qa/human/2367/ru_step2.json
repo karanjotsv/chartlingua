@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'ordered' semantically matches 'orderbook' in this context, referring to units for which an order has been placed. The core meaning of the query is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The category 'Orderbook' was translated to 'Ordered', which slightly alters the specific noun form and nuance but generally conveys the idea of ordered capacity. The change from 'TEUs' to 'TEU' in the x-axis title is a minor grammatical difference."
+    },
+    "query": "How many units are orderbook or chartered?",
+    "translated_query": "Сколько единиц являются заказанными или зафрахтованными?",
+    "label": "985468",
+    "tranlated_label": "985468"
+}

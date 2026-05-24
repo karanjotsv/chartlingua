@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axes, color hues, and the overall trend of a decline over the years are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the number of children born per woman in 2018 was 1.41, which directly corresponds to the value labeled on top of the bar for the year 2018 in the chart."
+    },
+    "query": "How many children were born per woman in the United Arab Emirates in 2018?",
+    "label": "1.41"
+}

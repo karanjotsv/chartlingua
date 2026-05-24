@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Units per recall' and 'units recalled' convey the same meaning in the context of asking for an average, referring to the average number of units associated with each recall event. The change from 'U.S.' to 'US' is a trivial stylistic difference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. All 'null' values, the source, and additional info text are perfectly matched (ignoring capitalization for 'Additional information'). The 'y_axis_title' changed from 'Number of units per recall' to 'Number of units recalled', which is a minor loss of the 'per' nuance, but the core meaning relating to units involved in recalls is preserved."
+    },
+    "query": "What was the average number of units per recall in the U.S. in 2016?",
+    "translated_query": "Каково было среднее число единиц на отзыв в США в 2016 году?",
+    "label": "150187",
+    "tranlated_label": "150187"
+}

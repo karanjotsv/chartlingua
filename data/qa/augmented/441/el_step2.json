@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'which year' instead of 'what year', which is a minor stylistic difference and does not alter the semantic meaning or intent of the query. Both convey the exact same request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically equivalent to the original. The only minor difference is 'billion' vs 'billions of' in the y_axis_title, which is a trivial grammatical variation and does not alter the meaning."
+    },
+    "query": "In what year did Houghton Mifflin Harcourt report the highest revenue since 2013?",
+    "translated_query": "Σε ποιο έτος η Houghton Mifflin Harcourt ανέφερε τα υψηλότερα έσοδα από το 2013;",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

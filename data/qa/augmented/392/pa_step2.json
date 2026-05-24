@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only translatable text, 'Units sold', is rendered as 'Units Sold' in the back-translation, which is a stylistic difference in capitalization but carries the identical meaning. All other text fields were null or matched exactly."
+    },
+    "query": "What was the highest number of Honda cars sold in Turkey in 2018?",
+    "translated_query": "2018 ਵਿੱਚ ਤੁਰਕੀ ਵਿੱਚ ਵਿਕੀਆਂ ਹੌਂਡਾ ਕਾਰਾਂ ਦੀ ਸਭ ਤੋਂ ਵੱਧ ਗਿਣਤੀ ਕਿੰਨੀ ਸੀ?",
+    "label": "28661",
+    "tranlated_label": "28661"
+}

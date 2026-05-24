@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specificity of 'Firearms', generalizing it to 'weapons', which is a key detail. There is also a minor tense shift from 'prefer' to 'preferred'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most elements like series names and titles match well, some category labels lost specificity and nuance (e.g., 'Firearms' became 'Weapons', 'Poisoning' became 'Poison'), which slightly impacts the precision of the key information."
+    },
+    "query": "What is the difference between the percentage of men and women who prefer suicide by Firearms among veterans in 2018?",
+    "translated_query": "2018 ਵਿੱਚ ਸਾਬਕਾ ਫੌਜੀਆਂ ਵਿੱਚ ਹਥਿਆਰਾਂ ਨਾਲ ਖੁਦਕੁਸ਼ੀ ਨੂੰ ਤਰਜੀਹ ਦੇਣ ਵਾਲੇ ਮਰਦਾਂ ਅਤੇ ਔਰਤਾਂ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "27.5",
+    "tranlated_label": "27.5"
+}

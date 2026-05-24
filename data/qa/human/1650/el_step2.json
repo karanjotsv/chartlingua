@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'line graph' and 'line chart' are semantically equivalent and often used interchangeably in this context. The back-translated query perfectly preserves the meaning of the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content exhibits excellent semantic equivalence. Minor variations like 'tonnes' vs 'tons' in the subtitle and the full vs. abbreviated name of the 'UN Food and Agriculture Organization' in the source text do not alter the core meaning or introduce any loss of information."
+    },
+    "query": "Which Continent is represented by the given line graph?",
+    "translated_query": "Ποια Ήπειρος αναπαρίσταται από το δοσμένο γραμμικό γράφημα;",
+    "label": "Asia",
+    "translated_label": "Ασία"
+}

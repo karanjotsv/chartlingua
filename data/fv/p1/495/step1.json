@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of data values, proportions, color hues, and title. However, one category ('Public Improvements Fund 1%') is present as a slice but its label is unreadable or missing, which is a minor semantic discrepancy.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The label for the smallest slice ('Public Improvements Fund') is unreadable due to its small size and placement. The labels for other small slices ('Special State Funds', 'Other funds') are also cramped, which impairs overall readability."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the slice for 'General' far exceeds the slice for 'Government-Owned Corporations'. However, the pie chart clearly shows that both categories account for an equal share of the budget, at 30% each."
+    },
+    "claim": "The chart shows the slice above for general far exceeds the slice for Government-Owned Corperations.",
+    "label": false
+}

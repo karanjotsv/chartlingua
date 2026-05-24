@@ -1,0 +1,37 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Male",
+            "values": [
+                41,
+                53,
+                60
+            ]
+        },
+        {
+            "name": "Female",
+            "values": [
+                40,
+                45,
+                52
+            ]
+        }
+    ],
+    "categories": [
+        "Purchases made online",
+        "Shopping on Amazon 6+ times per<br>month",
+        "Number of Amazon purchases has<br>increased year-over-year"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Share of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2F80ED",
+        "#1C2E46"
+    ]
+}

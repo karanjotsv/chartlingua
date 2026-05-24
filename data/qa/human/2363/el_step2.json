@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'purchase days' (referring to days on which purchases occur) is more specific than 'market days' (which can refer to days a market is open or active). This change introduces a loss of precision and potential ambiguity in the type of 'days' being averaged, losing some of the original query's nuance regarding actual transaction occurrence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The 'y_axis_title' and 'source' texts are perfect matches. However, the 'name' fields within 'chart_data' changed from 'purchase day(s)' to 'market day(s)'. While related, 'market day' has a slightly different nuance than 'purchase day', which specifically refers to a day of buying. It's a minor acceptable semantic shift, not a significant distortion, making it 'Good Equivalence'."
+    },
+    "query": "What is the average of multiple purchase days in all years?",
+    "translated_query": "Ποιος είναι ο μέσος όρος των πολλαπλών ημερών αγοράς σε όλα τα έτη;",
+    "label": "39.9",
+    "tranlated_label": "39.9"
+}

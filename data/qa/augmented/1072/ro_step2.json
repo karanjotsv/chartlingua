@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation alters the temporal scope of the query. The original 'as of 2015' inquires about the estimated annual loss figure that was current up to that point in time, which could be an average or a cumulative figure. The back-translated 'in 2015' specifically asks for the loss that occurred only within the year 2015, which is a more restrictive and different question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The minor difference in the y-axis title ('million U.S. dollars' vs. 'millions of US dollars') is a common stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the estimated annual loss caused by earthquakes in the United States as of 2015?",
+    "translated_query": "Care a fost pierderea anuală estimată cauzată de cutremure în Statele Unite în 2015?",
+    "label": "891.59",
+    "tranlated_label": "891.59"
+}

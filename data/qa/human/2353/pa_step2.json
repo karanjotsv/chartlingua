@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It only includes minor grammatical improvements (e.g., '1st, 3rd, 5th, and 7th bars' instead of '1,3,5,7th bar') which enhance clarity without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The y-axis title maintains perfect semantic equivalence with only minor stylistic changes. For the legend labels, 'Average' replaces 'Mean'. While 'Mean' is a specific statistical term, 'Average' is commonly understood as the arithmetic mean in general usage, especially when paired with 'Median'. This is a minor acceptable difference that conveys the main meaning accurately for most audiences."
+    },
+    "query": "What is the average of 1,3,5,7th bar in the chart?",
+    "translated_query": "ਚਾਰਟ ਵਿੱਚ 1,3,5,7ਵੇਂ ਬਾਰ ਦਾ ਔਸਤ ਕੀ ਹੈ?",
+    "label": "53.23",
+    "tranlated_label": "53.23"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation accurately conveys the core meaning of a decreasing trend in the number of arrested women. The original's phrase 'in twice' is grammatically awkward and ambiguous; the back-translation's 'with their number halving' is a plausible and much clearer interpretation of a quantitative decrease, likely reflecting the original intent. However, it's a specific interpretation that resolves the ambiguity of the original, rather than a perfect semantic mirror of the exact phrasing 'in twice'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart texts demonstrate excellent semantic equivalence. The title, x-axis label, and y-axis label all perfectly convey the original meaning, with only minor stylistic or synonymous phrasing variations ('United States' vs 'USA', 'Female' vs 'Women', 'Number arrested' vs 'Number of Arrested') that do not alter the information."
+    },
+    "claim": "According to the graph, we can see decreasing line in the number of women arrested at different ages in twice.",
+    "translated_claim": "Согласно графику, наблюдается убывающая тенденция в числе арестованных женщин разного возраста, при этом их количество сокращается вдвое."
+}

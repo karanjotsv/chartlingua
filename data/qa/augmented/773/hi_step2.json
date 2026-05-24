@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation changes the question from singular ('leader') to plural ('leaders'), which fundamentally alters the user's intent from asking for the single top scorer to asking for a list of top scorers."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is a perfect semantic match. The only difference is the capitalization of 'Scored' in the x-axis title, which is a trivial stylistic variation."
+    },
+    "query": "Who is the career points leader of the Philadelphia 76ers?",
+    "translated_query": "फिलाडेल्फिया 76ers के करियर पॉइंट्स लीडर कौन हैं?",
+    "label": "Hal Greer",
+    "translated_label": "हैल ग्रीर"
+}

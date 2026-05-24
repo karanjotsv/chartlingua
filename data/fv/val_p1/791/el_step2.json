@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Fitness' and 'capability' are highly synonymous in this context, and 'has been on the decline' is semantically equivalent to 'has shown a decrease'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The core technical term 'Fitness' has been consistently replaced with 'Capability' in the chart title, series names, and y-axis title. While 'Capability' is related, 'Fitness' has a specific, well-defined meaning in the context of Genetic Algorithms (GA) and evolutionary computation, making the back-translated version less precise and losing some domain-specific nuance and accuracy crucial for technical understanding."
+    },
+    "claim": "GA fitness has been on the decline over the generations.",
+    "translated_claim": "Η ικανότητα GA έχει παρουσιάσει πτώση με την πάροδο των γενεών."
+}

@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Военные",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "Полиция",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "Национальное правительство",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "Религиозные лидеры",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "Судебная система",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "СМИ",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Взгляды склоняются к позитиву в отношении военных,<br>к негативу в отношении СМИ",
+        "subtitle": "<i>Какое влияние оказывает (-ют) ___ на<br>развитие событий в Турции?</i>",
+        "source": "Источник: Spring 2015 Global Attitudes survey, Q79a-f.",
+        "note": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Плохая",
+            "Хорошая"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

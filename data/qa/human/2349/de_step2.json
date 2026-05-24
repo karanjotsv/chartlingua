@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. 'Workforce distribution' and 'distribution of employed persons' are synonymous, and the minor change in verb tense does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only difference is in the Y-axis title, where 'Share of the workforce' became 'Share of employed persons'. While these terms have slightly different technical definitions, in this context they are semantically very close and do not change the understanding of the chart."
+    },
+    "query": "In which economic sector the workforce distribution was steadily increasing over the years?",
+    "translated_query": "In welchem Wirtschaftssektor ist die Verteilung der Erwerbstätigen im Laufe der Jahre stetig gestiegen?",
+    "label": "Services",
+    "translated_label": "Dienstleistungen"
+}

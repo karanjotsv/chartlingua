@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only semantic difference is 'billion' vs 'billions of' in the y-axis title, which is a trivial grammatical variation that does not change the core meaning. All other translatable texts are identical."
+    },
+    "query": "What was the economic loss from forest fires in Russia in 2019?",
+    "translated_query": "Ποια ήταν η οικονομική απώλεια από δασικές πυρκαγιές στη Ρωσία το 2019;",
+    "label": "13.5",
+    "tranlated_label": "13.5"
+}

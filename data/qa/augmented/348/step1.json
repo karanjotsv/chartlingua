@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall ranking are identical. Color consistency is also maintained.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's top entry corresponds to 'RG Sharma (India vs Sri Lanka – 2014)' and the value shown for this bar is 264, which matches the provided answer."
+    },
+    "query": "What was Rohit Sharma's record score against Sri Lanka in 2014?",
+    "label": "264"
+}

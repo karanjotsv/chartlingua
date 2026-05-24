@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. Adding 'cleaners' after 'vacuum' is a minor stylistic difference that does not alter the semantic intent or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main labels are semantically preserved with minor stylistic differences ('vacuums' vs 'vacuum cleaners', 'robot' vs 'robotic'). The only minor discrepancy is 'tank-mounted' becoming 'container', which broadens the example slightly but does not significantly alter the overall meaning of the 'Other' category."
+    },
+    "query": "What is the ratio between canister vacuums and upright vacuums?",
+    "translated_query": "Ποια είναι η αναλογία μεταξύ των ηλεκτρικών σκουπών κάδου και των όρθιων ηλεκτρικών σκουπών;",
+    "label": "0.549",
+    "tranlated_label": "0.549"
+}

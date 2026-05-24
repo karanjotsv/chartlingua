@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, including percentages and numerical values across all six sections, are accurately reproduced. The text content, categories, and color hues for each section are also consistent with the original infographic.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has severe visual flaws due to massive text and element overlap. Nearly every piece of text, from the main title to data labels and source information, is rendered on top of other elements, making the entire chart almost completely illegible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays socio-economic data for the South East region of the UK, such as population, life expectancy, and unemployment. It does not contain any information or visuals related to political parties."
+    },
+    "claim": "There are two different parties displayed in the graph.",
+    "label": "FALSE"
+}

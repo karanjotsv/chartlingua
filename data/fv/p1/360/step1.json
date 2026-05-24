@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that articles labeled as 'C' constitute only 11% of the total. This is not a majority, and it is not the largest category. The largest category is 'GA' with 38%."
+    },
+    "claim": "The majority of The Simpsons articles on WikiProject The Simpsons are labeled as C. ",
+    "label": false
+}

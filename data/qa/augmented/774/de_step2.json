@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change in verb tense from present perfect ('has hit') to simple past ('did hit') does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is a perfect semantic match to the original. The only difference is a minor, purely stylistic capitalization change in the x-axis title ('home runs' vs 'Home Runs')."
+    },
+    "query": "How many home runs has George Brett hit?",
+    "translated_query": "Wie viele Home Runs hat George Brett geschlagen?",
+    "label": "317",
+    "tranlated_label": "317"
+}

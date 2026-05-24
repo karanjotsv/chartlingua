@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the meaning by changing 'Government bonds' to 'Government grants'. These are fundamentally different financial sources (investment income vs. direct funding), altering a key piece of information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall topic and most labels are correct, but there's a significant semantic error in one category. 'Government Bonds' was incorrectly changed to 'Government grants', which are distinct financial concepts, resulting in a loss of accuracy for that specific data point."
+    },
+    "claim": "BBC commercial had lower values of income than Government bonds",
+    "translated_claim": "Доходы от коммерческой деятельности BBC были ниже, чем от государственных облигаций."
+}

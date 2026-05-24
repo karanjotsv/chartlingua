@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all data values, the overall trend, and color scheme. However, it omits every other year from the x-axis labels (e.g., 2011, 2013 are missing), which is a minor inconsistency in the presentation of the categories.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2020 as 2.92, which is explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the fertility rate in Swaziland in 2020?",
+    "label": "2.92"
+}

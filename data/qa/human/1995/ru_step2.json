@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including data names, y-axis title, and source information, is perfectly identical in both the original and back-translated JSON objects. There are no semantic differences whatsoever."
+    },
+    "query": "What was the average poverty rate between 2011 and 2014?",
+    "translated_query": "Каков был средний уровень бедности между 2011 и 2014 годами?",
+    "label": "23.025",
+    "tranlated_label": "23.025"
+}

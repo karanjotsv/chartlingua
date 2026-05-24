@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels, categories, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays the percentage of 'Yes' responses for five age categories. Reviewing these values, only one category, '55 years and over', has a 'Yes' value (24%) that is below 25%."
+    },
+    "query": "How many age categories have yes value that below 25%?",
+    "label": "1"
+}

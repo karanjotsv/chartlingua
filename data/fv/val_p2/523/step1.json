@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, proportions, category labels, title, and color hues are all identical between the original and rendered charts, resulting in a perfect semantic match.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's legend explicitly states that the category 'Neither smoke nor snus' accounts for 76,6%, which directly confirms the claim."
+    },
+    "claim": "The percentage of people that neither smoke or snus is at 76,6 percent.",
+    "label": "TRUE"
+}

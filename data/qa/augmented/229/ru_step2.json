@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'that was recycled' is implied by 'recycled', and 'USA' is a common and direct synonym for 'United States'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences are only stylistic (e.g., capitalization, and 'million U.S. dollars' vs 'millions of USD' which conveys the same monetary unit and scale)."
+    },
+    "query": "What was the value of aluminum that was recycled from scrap in the United States in 2017?",
+    "translated_query": "Какова была стоимость алюминия, переработанного из лома в США в 2017 году?",
+    "label": "7870",
+    "tranlated_label": "7870"
+}

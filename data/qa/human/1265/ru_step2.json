@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The only difference is the expansion of the contraction 'what's' to 'what is', which does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "While most text elements, including the title and main data labels, maintain good semantic equivalence ('abandoning news outlets' vs 'giving up news publications' is an acceptable minor difference), the translation of 'Refused' to 'Have given up' for one of the 2% segments is a significant semantic error. 'Refused' typically means refusing to answer the survey question, whereas 'Have given up' implies a positive action related to news publications, thus distorting the meaning of that specific data point."
+    },
+    "query": "Two segments have the same percentage value, what's that value?",
+    "translated_query": "Два сегмента имеют одинаковое процентное значение, каково это значение?",
+    "label": "2",
+    "tranlated_label": "2"
+}

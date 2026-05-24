@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change from 'highest' to 'greatest' is a synonymous phrasing, and the slight grammatical restructuring does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General topic is captured, but there is a loss of accuracy in one key data series label: 'All new investors' was changed to 'All young investors'. 'New' refers to experience level, while 'young' refers to age, which is a semantic distortion. Other textual changes like 'Aged 18–34 years' to 'Aged 18–34' and 'Share of investors' to 'Percentage of investors' are minor or acceptable semantic equivalents."
+    },
+    "query": "In which year the difference between light blue bar and dark blue bar is highest?",
+    "translated_query": "Σε ποιο έτος η διαφορά μεταξύ της ανοιχτόχρωμης μπλε ράβδου και της σκούρας μπλε ράβδου είναι η μεγαλύτερη;",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

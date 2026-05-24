@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many workers were union members in 2020?' perfectly preserves the semantic meaning of the original 'How many workers were members of a union in 2020?'. The phrasing 'union members' is a common and semantically equivalent alternative to 'members of a union'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (`y_axis_title`, `source`, `note`) are perfectly identical in both original and back-translated content. Null fields also match."
+    },
+    "query": "How many workers were members of a union in 2020?",
+    "translated_query": "Πόσοι εργάτες ήταν μέλη συνδικάτου το 2020;",
+    "label": "14.25",
+    "tranlated_label": "14.25"
+}

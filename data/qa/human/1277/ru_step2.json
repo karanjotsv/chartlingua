@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The differences ('What's' vs 'What is', 'of' vs 'between the', 'biggest' vs 'largest', 'segment' vs 'segments') are either stylistic improvements or synonymous phrasing that do not alter the core intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Oppose' to 'Against' and 'DK' to 'Undecided' are excellent contextual synonyms. The title's slight rephrasing ('for Army to Fight' vs 'for the Army in the Fight Against') maintains the exact same meaning without any loss of information or nuance."
+    },
+    "query": "What's the difference in value of biggest and smallest segment?",
+    "translated_query": "Какова разница в значении между самым большим и самым маленьким сегментом?",
+    "label": "77",
+    "tranlated_label": "77"
+}

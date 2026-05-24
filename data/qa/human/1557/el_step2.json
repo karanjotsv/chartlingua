@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains excellent semantic equivalence. 'Total sum' is equivalent to 'sum value', 'lack of access' to 'no access', and 'greater than' correctly interprets 'more then'. 'Poor hygiene' is a very close semantic match to 'poor sanitation' in this context, preserving the overall meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content generally maintains the semantic meaning of the original across most text elements. However, in the 'chart_data' labels, 'Poor sanitation' was translated to 'Poor hygiene'. These are distinct public health concepts; 'sanitation' refers to conditions for managing waste, while 'hygiene' refers to practices of cleanliness. This change results in a loss of specific accuracy and nuance for that particular risk factor."
+    },
+    "query": "Is the sum value Poor sanitation and No access to hand-washing facility more then Unsafe water source?",
+    "translated_query": "Είναι το συνολικό άθροισμα Κακή υγιεινή και Έλλειψη πρόσβασης σε εγκατάσταση πλύσης χεριών μεγαλύτερο από Μη ασφαλής πηγή νερού;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

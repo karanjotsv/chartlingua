@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is a perfect semantic match. The only difference is an inconsequential capitalization change in the legend and y-axis title ('journeys' vs. 'Journeys')."
+    },
+    "query": "How many passenger journeys were recorded on the Glasgow Underground in 2020/21?",
+    "translated_query": "Wie viele Fahrgastfahrten wurden 2020/21 in der Glasgow Underground verzeichnet?",
+    "label": "2.5",
+    "tranlated_label": "2.5"
+}

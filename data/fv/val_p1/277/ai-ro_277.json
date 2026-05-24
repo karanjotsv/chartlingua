@@ -1,0 +1,85 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Namibia 1965",
+            "Lumea 1965",
+            "Namibia 1990",
+            "Lumea 1990",
+            "Namibia 2016",
+            "Lumea 2016"
+        ],
+        "series": [
+            {
+                "name": "Speranța de viață",
+                "values": [
+                    49,
+                    55,
+                    61,
+                    65,
+                    65,
+                    71
+                ]
+            },
+            {
+                "name": "Mortalitatea sub 5 ani",
+                "values": [
+                    96,
+                    172,
+                    73,
+                    90,
+                    45,
+                    42
+                ]
+            },
+            {
+                "name": "Rata fertilității",
+                "values": [
+                    6,
+                    4,
+                    6,
+                    3,
+                    3,
+                    2
+                ]
+            },
+            {
+                "name": "Rata brută a natalității",
+                "values": [
+                    42,
+                    33,
+                    38,
+                    26,
+                    29,
+                    19
+                ]
+            },
+            {
+                "name": "Rata brută a mortalității",
+                "values": [
+                    16,
+                    13,
+                    9,
+                    9,
+                    7,
+                    7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Titlul diagramei",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4472C4",
+        "#ED7D31",
+        "#A5A5A5",
+        "#FFC000",
+        "#5B9BD5"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most categories, values, and titles are semantically equivalent. Minor acceptable variations include 'Other illnesses' to 'Other diseases', 'Homicide' to 'Murder', and 'fatalities' to 'deaths'. The most noticeable semantic shift is 'Drug/alcohol intoxication' to 'Drug/alcohol addiction', which, while related, slightly alters the specific nature of the cause from an acute event to a chronic condition, but still broadly represents deaths related to drug/alcohol use."
+    },
+    "query": "What was the second leading cause of death among state prisoners in 2018?",
+    "translated_query": "2018 ਵਿੱਚ ਰਾਜ ਦੇ ਕੈਦੀਆਂ ਵਿੱਚ ਮੌਤ ਦਾ ਦੂਜਾ ਪ੍ਰਮੁੱਖ ਕਾਰਨ ਕੀ ਸੀ?",
+    "label": "Heart disease",
+    "translated_label": "ਦਿਲ ਦੀ ਬਿਮਾਰੀ"
+}

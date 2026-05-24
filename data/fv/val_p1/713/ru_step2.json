@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The general meaning is conveyed, but the specific technical term 'Person Raw Scores' has been replaced with 'primary human scores'. 'Raw Scores' implies unprocessed data, a meaning not fully captured by 'primary scores', which could suggest 'main' or 'first' scores, thus losing some nuance and accuracy."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The translation from 'Person' to 'Human' across titles is an acceptable semantic shift. However, the change from 'Person Raw Scores' to 'Primary Human Scores' for the x-axis title loses an important technical detail. 'Raw Scores' specifically denotes untransformed data, a meaning not fully conveyed by 'Primary Scores', leading to a loss of accuracy and nuance in a technical context."
+    },
+    "claim": "When Theta is zero, Person Raw Scores is zero.",
+    "translated_claim": "Когда Тета равна нулю, первичные баллы человека равны нулю."
+}

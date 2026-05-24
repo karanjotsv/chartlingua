@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data points for all countries, axis labels, titles, and categories are accurately reproduced. The color hues for 'Political left' (green), 'Political right' (red), and 'Political center' (grey) are consistent. The overall message about the range of political disagreement on climate change is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart contains no information or data related to 'household'. The chart displays data on political disagreement about climate change across various countries and political affiliations."
+    },
+    "claim": "The household is the largest value among others.",
+    "label": "TRUE"
+}

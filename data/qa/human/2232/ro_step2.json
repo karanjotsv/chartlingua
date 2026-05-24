@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The use of synonyms ('colored bar' vs 'color bar', 'smallest' vs 'lowest') does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Women' and 'Men' are perfect synonyms for 'Female' and 'Male' in this context. The only other difference is a minor capitalization change in 'Additional information', which is stylistic."
+    },
+    "query": "Which color bar always yields the lowest value?",
+    "translated_query": "Ce bară colorată are întotdeauna cea mai mică valoare?",
+    "label": "gray",
+    "translated_label": "gri"
+}

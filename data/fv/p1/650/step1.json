@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The data proportions for the two largest categories, 'Liberal' and 'New Democratic', are swapped. In the original chart, 'Liberal' is clearly the largest slice, whereas in the rendered chart, 'New Democratic' is the largest. This fundamentally alters the main message and interpretation of the data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart's title is partially clipped on the left side, making the beginning of the sentence unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the distribution of total seats held by each party across all Canadian provincial and territorial legislatures combined. It does not provide information on which party governs each individual province or territory. Therefore, the chart cannot be used to determine the number of provinces and territories represented by the New Democratic party."
+    },
+    "claim": "The majority of provinces and territories are represented by the New Democratic.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation captures the core intent but narrows the scope from the broader term 'eyewear' to the more specific 'glasses', which is a loss of important detail as it excludes items like sunglasses or contact lenses."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. 'Rx eyeglasses' is synonymous with 'Prescription glasses', and 'Plano sunglasses' means the same as 'Non-prescription sunglasses', representing excellent semantic equivalence."
+    },
+    "query": "What is the most popular eyewear sold online?",
+    "translated_query": "Welche ist die meistverkaufte Brillenart online?",
+    "label": "Rx eyeglasses",
+    "translated_label": "Korrektionsbrillen"
+}

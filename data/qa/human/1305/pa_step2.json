@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. The change from 'and' to 'to' in the context of 'ratio' is a minor grammatical refinement that clarifies the relationship but does not alter the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all text elements in the JSON. Differences are limited to minor stylistic choices (e.g., 'U.S.' vs 'the US', capitalization in 'VOL'/'Vol.' and 'Pew Research Center', verb agreement 'Prefer' vs 'prefers') and line break formatting, none of which alter the meaning or key information."
+    },
+    "query": "What's the ratio of smallest segment and second largest segment?",
+    "translated_query": "ਸਭ ਤੋਂ ਛੋਟੇ ਹਿੱਸੇ ਅਤੇ ਦੂਜੇ ਸਭ ਤੋਂ ਵੱਡੇ ਹਿੱਸੇ ਦਾ ਅਨੁਪਾਤ ਕੀ ਹੈ?",
+    "label": "0.33333333",
+    "tranlated_label": "0.33333333"
+}

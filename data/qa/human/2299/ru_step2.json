@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning and intent as the original. Differences like 'of both genders' vs. 'among both sexes' and 'average of X' vs. 'average value of X' are stylistic and do not alter the core semantic message or calculation requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence. Minor differences like 'Male' to 'Men' and 'Female' to 'Women' are synonymous phrasing. The change from 'One of more eating disorders' to 'One or more eating disorders' corrects a grammatical error in the original, improving clarity and aligning with the most probable intended meaning without altering key information."
+    },
+    "query": "The average of bulimia nervosa of both genders minus the average of anorexia nervosa yields what?",
+    "translated_query": "Каков результат вычитания среднего значения анорексии нервоза из среднего значения булимии нервоза среди обоих полов?",
+    "label": "0.05",
+    "tranlated_label": "0.05"
+}

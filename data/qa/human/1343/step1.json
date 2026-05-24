@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, titles, and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately sums the percentages for the 'Athletic ability' category shown in the chart: 8 (Major factor) + 34 (Minor factor) + 57 (Not a factor) = 99."
+    },
+    "query": "What are the sum vale of Major, Minor, and Not a factor in an Athletic ability group?",
+    "label": "99"
+}

@@ -1,0 +1,104 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "category": "Πνευμονία",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "Επιπλοκές πρόωρου τοκετού",
+            "values": [
+                2,
+                16
+            ]
+        },
+        {
+            "category": "Περιγεννητικά γεγονότα",
+            "values": [
+                1,
+                11
+            ]
+        },
+        {
+            "category": "Σήψη ή μηνιγγίτιδα",
+            "values": [
+                2,
+                7
+            ]
+        },
+        {
+            "category": "Συγγενείς ανωμαλίες",
+            "values": [
+                4,
+                5
+            ]
+        },
+        {
+            "category": "Άλλες",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "AIDS",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Διάρροια",
+            "values": [
+                8,
+                0.3
+            ]
+        },
+        {
+            "category": "Τέτανος",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Ελονοσία",
+            "values": [
+                5,
+                0
+            ]
+        },
+        {
+            "category": "Τραυματισμός",
+            "values": [
+                6,
+                1
+            ]
+        },
+        {
+            "category": "Ιλαρά",
+            "values": [
+                2,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Κατανομή αιτιών θανάτου",
+        "legend_titles": [
+            "Θάνατοι μεταξύ παιδιών ηλικίας 1–59 μηνών (53%)",
+            "Νεογνικοί θάνατοι (47%)"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1F384D"
+    ]
+}

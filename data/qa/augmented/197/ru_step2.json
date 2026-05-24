@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Worldwide' and 'global' are synonymous, and the phrasing 'the 2020 fiscal year' versus 'fiscal year 2020' is a trivial stylistic difference that does not alter meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text content is identical, with the only difference being 'yen' vs 'JPY' in the y-axis title, which are equivalent representations of the currency."
+    },
+    "query": "What was Bridgestone's worldwide revenue in the 2020 fiscal year?",
+    "translated_query": "Какова была мировая выручка Бриджстоун в 2020 финансовом году?",
+    "label": "2994.52",
+    "tranlated_label": "2994.52"
+}

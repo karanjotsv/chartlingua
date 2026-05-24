@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. It accurately reproduces the single red line with a negative slope on a black background, with no other elements present in either image.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided image is an abstract line graph with no axes, labels, data points, or any form of context. The claim makes specific assertions about 'Level 4', '3 units', and 'mid-2007', none of which are present or can be inferred from the chart."
+    },
+    "claim": "Level 4 had the world record improvement more than 3 units in mid-2007.",
+    "label": "FALSE"
+}

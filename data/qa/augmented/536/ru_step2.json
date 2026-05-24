@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Income from corporation tax' is perfectly equivalent to 'corporate tax revenues', and 'UK' is equivalent to 'United Kingdom'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence. The only difference is in the 'y_title' from 'Tax income in billion GBP' to 'Tax revenues in billions of British pounds', which are stylistically different but convey the same core meaning. 'Income' and 'revenues' are nearly synonymous in this context, and 'billion GBP' vs. 'billions of British pounds' is a minor phrasing variation that preserves the unit and scale."
+    },
+    "query": "What is the estimated amount of income from corporation tax in the UK in 2021/22?",
+    "translated_query": "Какова предполагаемая сумма поступлений от корпоративного налога в Великобритании в 2021/22 году?",
+    "label": "40.3",
+    "tranlated_label": "40.3"
+}

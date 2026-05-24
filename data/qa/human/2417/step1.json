@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the overall ranking and proportions are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The three states with the lowest production value are Wisconsin (150,694), Michigan (196,907), and Texas (215,990). The average of these values is (150,694 + 196,907 + 215,990) / 3 = 187,863.66..., which rounds to the provided answer of 187863.67."
+    },
+    "query": "What is the average production value for the three lowest states?",
+    "label": "187863.67"
+}

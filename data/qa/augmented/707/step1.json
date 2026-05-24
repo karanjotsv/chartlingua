@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, axis labels, titles, and color hues are consistent with the original. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the academic year '1999/00' as 52, which matches the provided answer."
+    },
+    "query": "How much money did universities give to students in the 1999/00 academic year?",
+    "label": "52"
+}

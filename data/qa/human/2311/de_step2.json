@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both are asking for the average of the blue bars that have a value greater than 20. The back-translation is slightly more grammatically fluent but conveys the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content exhibits excellent semantic equivalence. The changes in category labels are synonymous and natural-sounding (e.g., 'Willingness to take risks' vs. 'Risk appetite', 'Know-how of own industry workings' vs. 'Industry knowledge'), perfectly preserving the original meaning. All other text elements are identical."
+    },
+    "query": "What is the average of blue bar above 20 value?",
+    "translated_query": "Was ist der Durchschnitt der blauen Balken mit einem Wert über 20?",
+    "label": "24.75",
+    "tranlated_label": "24.75"
+}

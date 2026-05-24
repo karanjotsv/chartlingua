@@ -1,0 +1,119 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Administrație Locală",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Ocupații Profesionale",
+            "values": [
+                1,
+                2
+            ]
+        },
+        {
+            "category": "Servicii casnice",
+            "values": [
+                6,
+                28
+            ]
+        },
+        {
+            "category": "Transport/Comunicații",
+            "values": [
+                2,
+                1
+            ]
+        },
+        {
+            "category": "Agricultură",
+            "values": [
+                22,
+                2
+            ]
+        },
+        {
+            "category": "Îngrijitor de animale",
+            "values": [
+                6,
+                0
+            ]
+        },
+        {
+            "category": "Producție de mașinării",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Muncitor casnic",
+            "values": [
+                10,
+                0
+            ]
+        },
+        {
+            "category": "Catering și cazare",
+            "values": [
+                4,
+                0
+            ]
+        },
+        {
+            "category": "Croitorie",
+            "values": [
+                1,
+                1
+            ]
+        },
+        {
+            "category": "Fierar",
+            "values": [
+                2,
+                0
+            ]
+        },
+        {
+            "category": "Muncitor necalificat",
+            "values": [
+                13,
+                0
+            ]
+        },
+        {
+            "category": "Ocupație nespecificată",
+            "values": [
+                1,
+                5
+            ]
+        },
+        {
+            "category": "Ocupație necunoscută",
+            "values": [
+                6,
+                48
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Tip de ocupație",
+        "y_axis_title": "Numărul de bărbați/femei pe posturi",
+        "source": null,
+        "note": null,
+        "legend_labels": [
+            "Bărbați",
+            "Femei"
+        ]
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31"
+    ]
+}

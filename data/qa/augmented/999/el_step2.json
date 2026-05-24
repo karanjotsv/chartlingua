@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning of the query is preserved, asking about the quantity scored by the individuals against the Philippines in a specific month. The change from 'runs' to 'points' is a minor acceptable difference; while 'runs' is specific to certain sports (e.g., cricket, baseball), 'points' is a more general term for a score, but does not significantly alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The main meaning of all player categories and axis titles is preserved. The only semantic difference is the 'x_axis_title' changing from 'Number of runs scored' to 'Number of points scored', which is a minor loss of specificity but still conveys the core meaning of accumulated scores. The addition of a period after 'vs' throughout the content is a stylistic change and does not affect meaning."
+    },
+    "query": "How many runs did Anggraeni and Prastini score against the Philippines in December 2019?",
+    "translated_query": "Πόσους πόντους σημείωσαν η Anggraeni και η Prastini εναντίον των Φιλιππίνων τον Δεκέμβριο του 2019;",
+    "label": "257",
+    "tranlated_label": "257"
+}

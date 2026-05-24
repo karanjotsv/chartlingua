@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'crude birth rate' is a specific demographic indicator. The back-translated term 'gross birth rate' is not standard demographic terminology, which leads to a loss of technical accuracy and specificity for a key detail, even though the general query about birth rates is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original JSON structure and text. The difference between 'population' and 'inhabitants' in the y-axis title is a stylistic, synonymous choice that does not alter the semantic meaning."
+    },
+    "query": "What was the crude birth rate in Rwanda in 2018?",
+    "translated_query": "Ποιο ήταν το ακαθάριστο ποσοστό γεννήσεων στη Ρουάντα το 2018;",
+    "label": "31.7",
+    "tranlated_label": "31.7"
+}

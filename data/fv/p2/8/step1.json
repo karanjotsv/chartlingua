@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly replicates the data values, categories, labels, and color hues of the original. The core message and proportions are identical. The only difference is the stylistic choice of a 2D versus a 3D pie chart, which does not alter the semantic content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the average of the Republican party and Independents is more than the Democratic party. Based on the chart, the Republican party has 55 million and Independents have 42 million. Their average is (55 + 42) / 2 = 48.5 million. The Democratic party has 72 million. Since 48.5 million is less than 72 million, the claim is refuted."
+    },
+    "claim": "The average of Republican party and Independents together is more than the chart of Democratic party which shows by blue color. ",
+    "label": "TRUE"
+}

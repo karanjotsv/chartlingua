@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, proportions, text labels (title, source), and color hues are accurately reproduced, conveying the exact same information and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the Lutheran population is 3% and the Anglican population is 4%, totaling 7%. The United Church population is 8% and the Catholic population is 24%, totaling 32%. The claim that the combined Lutheran and Anglican population is more than the combined United Church and Catholic population is incorrect, as 7% is less than 32%."
+    },
+    "claim": "The total value of the Lutheran and Anglican population is more than the total value of the United church and Catholic.",
+    "label": "FALSE"
+}

@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "category": "Zu viel",
+            "value": 3
+        },
+        {
+            "category": "Zu wenig",
+            "value": 25
+        },
+        {
+            "category": "Gerade richtig",
+            "value": 66
+        },
+        {
+            "category": "Sonstige",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "Wie empfinden Sie es, dass festangestellte<br>Entwickler 20 % ihrer Zeit darauf<br>verwenden, die Entwicklung durch Freiwillige zu unterstützen?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00599c",
+        "#339966",
+        "#a50000",
+        "#66cccc"
+    ]
+}

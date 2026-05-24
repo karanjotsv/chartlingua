@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The changes from 'graph' to 'chart' and 'is decreasing' to 'decreases' are minor stylistic and synonymous variations that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements in the JSON are identical, resulting in a perfect semantic match."
+    },
+    "claim": "The value represented by the graph is decreasing over time.",
+    "translated_claim": "Valoarea reprezentată de grafic scade în timp."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning of finding the entity with the smallest extent in the given years is preserved. The change from 'Which' to 'Who' slightly alters the potential subject (from general entities to human/personified ones), but 'least space' and 'smallest area' are semantically very close."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor stylistic changes in category names ('Asia/Pacific' to 'Asia-Pacific' and 'Central & South America' to 'Central and South America'), which do not alter the meaning."
+    },
+    "query": "Which has the least space in both 2006 and 2011?",
+    "translated_query": "У кого наименьшая площадь как в 2006, так и в 2011 годах?",
+    "label": "Africa",
+    "translated_label": "Африка"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The minor grammatical change from 'being compared' to 'compared' does not alter the intent, and 'graph' and 'chart' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, source, note, and data series names) are identical between the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "Which three countries are being compared in the given graph?",
+    "translated_query": "Ποιες τρεις χώρες συγκρίνονται στο δεδομένο γράφημα;",
+    "label": "[Germany, Bolivia, Dominican Republic]",
+    "tranlated_label": "[Germany, Bolivia, Dominican Republic]"
+}

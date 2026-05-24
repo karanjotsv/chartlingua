@@ -1,0 +1,43 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Hong Kong",
+            "x": [
+                2003,
+                2004,
+                2005,
+                2006,
+                2007
+            ],
+            "y": [
+                1.85,
+                2.2,
+                2.5,
+                3.15,
+                3.2
+            ]
+        },
+        {
+            "name": "Serbien",
+            "x": [
+                2007
+            ],
+            "y": [
+                2.8
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Anteil der Studierenden aus dem Ausland, 2003 bis 2007",
+        "subtitle": "Anteil der Studierenden aus dem Ausland, die in einem bestimmten Land studieren, an der Gesamtzahl der Tertiärbildungseinschreibungen in diesem Land.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: Weltbank",
+        "note": "OurWorldInData.org/tertiary-education/ • CC BY"
+    },
+    "colors": [
+        "#c04439",
+        "#34495e"
+    ]
+}

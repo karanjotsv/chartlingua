@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall data representation are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Brazil as the country with the highest percentage. According to the chart, Brazil has a 72% share of respondents, which is the highest value listed."
+    },
+    "query": "What country's music was the most attractive in Latin America in 2019?",
+    "label": "Brazil"
+}

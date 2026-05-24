@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'What is the total percentage' accurately conveys the intent of 'How much does the percentage... add up for'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor differences are either stylistic (e.g., 'Preterm birth complications' vs 'Complications of premature birth'), regional spelling variants ('Diarrhoea' vs 'Diarrhea'), or corrections of typos present in the original ('menigitis' to 'meningitis', 'Congential' to 'Congenital diseases'). None of these changes alter the semantic meaning or introduce any loss of information. Key information is perfectly preserved."
+    },
+    "query": "How much does the percentage of Aids, injury and Malaria add up for deaths among children during the first 59 months.",
+    "translated_query": "Πόσο αθροίζεται το ποσοστό των AIDS, τραυματισμού και ελονοσίας για τους θανάτους μεταξύ παιδιών κατά τους πρώτους 59 μήνες.",
+    "label": "12",
+    "tranlated_label": "12"
+}

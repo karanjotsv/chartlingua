@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the same semantic meaning as the original, with only minor stylistic variations (e.g., 'has a bilingualism rate' vs 'the rate of bilingualism'). 'Lower than' and 'less than' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most texts, including legend labels and axis titles, are nearly identical or have only trivial stylistic differences (e.g., capitalization, 'U.S.' vs 'USA', 'Wider' vs 'More'). The main semantic difference is in the title, where 'Political disagreement about whether' becomes 'Is there political disagreement about', changing a statement into a question. However, the core subject and the concept of disagreement remain accurately conveyed."
+    },
+    "claim": "Quebec has a bilingualism rate lower than 10%.",
+    "translated_claim": "ਕਿਊਬਿਕ ਵਿੱਚ ਦੋਭਾਸ਼ਾਈਵਾਦ ਦੀ ਦਰ 10% ਤੋਂ ਘੱਟ ਹੈ।"
+}

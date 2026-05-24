@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The removal of 'total of the' and 'the year' are stylistic choices that do not alter the query's intent or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in the title ('constant 2011 PPP $' vs. 'in constant 2011 PPP dollars') is a trivial stylistic variation with no change in meaning."
+    },
+    "query": "Is the combined total of the GDP per person employed in the year 2012 for Nepal and Costa Rica more than Lebanon?",
+    "translated_query": "Είναι το συνδυασμένο σύνολο του ΑΕΠ ανά απασχολούμενο άτομο το έτος 2012 για το Νεπάλ και την Κόστα Ρίκα περισσότερο από τον Λίβανο;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

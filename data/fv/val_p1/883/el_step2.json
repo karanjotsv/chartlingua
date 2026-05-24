@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The only differences are capitalization, which are stylistic and do not alter the semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart texts have perfect semantic equivalence with the original. The only differences are minor capitalization changes in the proper nouns ('Huber loss' to 'Huber Loss' and 'Squared error loss' to 'Squared Error Loss'), which do not alter the meaning."
+    },
+    "claim": "Huber loss is less sensitive to outliers than squared error loss.",
+    "translated_claim": "Η απώλεια Huber είναι λιγότερο ευαίσθητη σε ακραίες τιμές από την απώλεια τετραγωνικού σφάλματος."
+}

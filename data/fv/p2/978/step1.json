@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content, and color hues are accurately reproduced, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on printing methods, with categories like '4 Color Lithographic or Letter Press' and 'Direct-to-Press digital system'. The claim discusses 'Construction occupations' in 'False Pass Alaska' from the '2000 census'. The chart contains no information about occupations, specific locations, or census data, making the claim entirely unrelated to the provided visual."
+    },
+    "claim": "Construction occupations had the lowest representation in False Pass Alaska in the 2000 census.",
+    "label": "TRUE"
+}

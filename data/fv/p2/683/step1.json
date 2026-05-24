@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of data values, series colors, and the overall message. The core trend for each of the four series is accurately reproduced. The rating is a 4 instead of a 5 because the x-axis label 'Dip' from the original chart is missing in the rendered version, although the data points for that category are still correctly plotted.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'step 5', but the chart and its legend only provide data for '1 step', '2 step', '3 step', and '4 step'. There is no information about 'step 5' presented in the chart."
+    },
+    "claim": "The step 5 is expand from -5 to -45 of pre-crisis attributes in the Crisis dip of companies.",
+    "label": "FALSE"
+}

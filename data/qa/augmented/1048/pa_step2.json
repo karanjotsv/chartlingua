@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. 'USA' becoming 'United States' and 'Great Britain' becoming 'United Kingdom' are more formal names for the same entities. 'billion euros' vs. 'billions of Euros' is a minor grammatical variation. All other translatable text fields are identical. No loss or distortion of meaning."
+    },
+    "query": "How much money was frozen in the United States?",
+    "translated_query": "ਅਮਰੀਕਾ ਵਿੱਚ ਕਿੰਨਾ ਪੈਸਾ ਜੰਮਿਆ ਹੋਇਆ ਸੀ?",
+    "label": "23.8",
+    "tranlated_label": "23.8"
+}

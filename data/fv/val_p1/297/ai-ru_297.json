@@ -1,0 +1,28 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Выбросы",
+            "value": 526.3,
+            "error": 49.0,
+            "text_color": "#000000"
+        },
+        {
+            "name": "Поглощение LULUCF",
+            "value": -99.9,
+            "error": 50.0,
+            "text_color": "#FFFFFF"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Выбросы и поглощение ПГ в 2017 году",
+        "y_axis_title": "Мт",
+        "source": null
+    },
+    "colors": [
+        "#BDBDBD",
+        "#6A9F42"
+    ]
+}

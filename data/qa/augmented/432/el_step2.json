@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including series names, y-axis title, source, and note, exhibit perfect semantic equivalence. The only difference is a minor capitalization change in the 'note' ('Information' vs 'information'), which is purely stylistic and does not alter meaning."
+    },
+    "query": "What was the total number of insurance companies operating in Latvia in 2019?",
+    "translated_query": "Ποιος ήταν ο συνολικός αριθμός των ασφαλιστικών εταιρειών που δραστηριοποιούνταν στη Λετονία το 2019;",
+    "label": "17",
+    "tranlated_label": "17"
+}

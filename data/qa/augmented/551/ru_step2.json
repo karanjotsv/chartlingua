@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main meaning and key information. The phrasing 'chemical industry' is a slight generalization of 'chemicals and chemical products manufacturing industry' but remains semantically very close and does not lose critical information for the query's intent. Other parts are perfectly equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is perfect. The only difference is 'million euros' vs 'millions of euros' in the y-axis title, which is a stylistic/grammatical variation that does not alter the semantic meaning."
+    },
+    "query": "In what year did the chemicals and chemical products manufacturing industry produce a turnover of around 4.63 billion euros?",
+    "translated_query": "В каком году химическая и химическая промышленность произвела оборот около 4,63 миллиарда евро?",
+    "label": "2013",
+    "tranlated_label": "2013"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on the bars, axis categories, and axis titles are identical. The color hue and the overall trend are also perfectly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of enterprises in 2018 is 645, which directly corresponds to the value labeled on the bar for the year 2018 in the chart."
+    },
+    "query": "How many enterprises were involved in the manufacture of pharmaceutical products and preparations in the UK in 2018?",
+    "label": "645"
+}

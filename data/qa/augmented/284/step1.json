@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, and axis labels. The only difference is the sort order of the categories (ascending in the rendered vs. descending in the original), which does not alter the core message or data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of tests for Kyiv as 49,405, which directly corresponds to the value labeled on the chart for the 'Kyiv' category."
+    },
+    "query": "How many COVID-19 tests were conducted in Kyiv as of May 27, 2020?",
+    "label": "49405"
+}

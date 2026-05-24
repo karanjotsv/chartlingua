@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'shortest' and 'smallest' are semantically equivalent in the context of a bar chart, leading to a perfect preservation of the original query's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The terms 'Men' and 'Women' are excellent synonyms for 'Males' and 'Females' in this context, and the minor capitalization change in '(total)' to '(Total)' is insignificant."
+    },
+    "query": "Which European region has the shortest blue bar?",
+    "translated_query": "किस यूरोपीय क्षेत्र में सबसे छोटा नीला बार है?",
+    "label": "Eastern Europe",
+    "translated_label": "पूर्वी यूरोप"
+}

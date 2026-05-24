@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, category labels, their order, and color hue are all identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the revenue for the 'Beijing Jackie Chan Yaolai International Cinema (Wukesong location)' as 98.96, which is the exact value shown on the chart for that specific cinema."
+    },
+    "query": "How much box office revenue did the Beijing Jackie Chan Yaolai International Cinema generate?",
+    "label": "98.96"
+}

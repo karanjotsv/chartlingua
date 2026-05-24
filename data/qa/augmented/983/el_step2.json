@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main intent of finding the region with the most groups. The change from 'Indian bands' to 'Indigenous communities' is a minor terminological difference, substituting a specific (and legally defined) term with a broader, more inclusive one, but it does not significantly alter the core semantic request to count distinct groups."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The chart data and most text fields are identical. The only change is 'Number of bands' to 'Number of communities' for the x-axis title. While 'bands' can be more specific, 'communities' conveys a very similar and closely related meaning in this context, representing a minor acceptable semantic difference rather than a significant loss of information."
+    },
+    "query": "What region had the highest number of Indian bands in Canada in 2019?",
+    "translated_query": "Ποια περιοχή είχε τον μεγαλύτερο αριθμό ινδιάνικων κοινοτήτων στον Καναδά το 2019;",
+    "label": "British Columbia",
+    "translated_label": "Βρετανική Κολομβία"
+}

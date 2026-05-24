@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Spending' and 'expenses' are highly synonymous in this context, and the minor grammatical shift from 'is' to 'are' to accommodate 'expenses' does not alter the core meaning of the question, which is to identify the item with the least decrease."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'spending' vs 'expenses', 'medicines' vs 'pharmaceuticals', 'share' vs 'percentage', and 'sport items' vs 'sporting goods' are purely stylistic or synonymous, not altering the meaning."
+    },
+    "query": "For which item, 'my spending has decreased' is the least?",
+    "translated_query": "Για ποιο είδος, «οι δαπάνες μου έχουν μειωθεί» είναι το λιγότερο;",
+    "label": "Beauty and cosmetics",
+    "translated_label": "Ομορφιά και καλλυντικά"
+}

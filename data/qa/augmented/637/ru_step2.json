@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query adds 'risk' to 'index indicator', making it more specific than the original 'index score'. While 'score' and 'indicator' are largely synonymous here, the addition of 'risk' alters the type of index being queried, which could lead to a different interpretation or search target than the original more general query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The series name and y-axis title changed from 'Risk index score' to 'Risk Index Indicator', which is a minor, acceptable difference that preserves the core meaning. The source information is identical."
+    },
+    "query": "What was Nicaragua's index score in 2020?",
+    "translated_query": "Каким был показатель индекса Никарагуа в 2020 году?",
+    "label": "6.78",
+    "tranlated_label": "6.78"
+}

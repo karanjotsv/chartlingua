@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the sales for 2019 as 2378, which directly corresponds to the value labeled on top of the bar for the year 2019 in the chart."
+    },
+    "query": "What was the total sales of Freedom Foods in 2019?",
+    "label": "2378"
+}

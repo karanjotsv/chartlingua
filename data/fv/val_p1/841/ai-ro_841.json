@@ -1,0 +1,57 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "INTRODUCERE",
+            "EXERCIȚIU DE GRUP",
+            "INTERVIU",
+            "JOC DE ROL",
+            "TEST PSIHOMETRIC"
+        ],
+        "series": [
+            {
+                "name": "Seria 1",
+                "values": [
+                    4.3,
+                    2.5,
+                    3.5,
+                    4.5,
+                    2.1
+                ]
+            },
+            {
+                "name": "Seria 2",
+                "values": [
+                    2.4,
+                    4.4,
+                    1.8,
+                    2.8,
+                    3.1
+                ]
+            },
+            {
+                "name": "Seria 3",
+                "values": [
+                    2,
+                    2,
+                    3,
+                    5,
+                    2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Exercițiu pentru ziua de evaluare",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5c9ac3",
+        "#e48f43",
+        "#b2b2b2"
+    ]
+}

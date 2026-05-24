@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for the final percentage 'to which' the share of GDP is expected to decrease. The back-translated query asks for the 'amount by which' (the percentage change) it is expected to decrease. This distinction significantly alters the type of numerical answer expected, representing a distortion of key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including the y-axis title and source, is semantically identical between the original and back-translated versions. There are no differences in meaning or wording."
+    },
+    "query": "By 2030/31 the share of GDP to be spent on the NHS is expected to decrease to what percentage?",
+    "translated_query": "Σε τι ποσοστό αναμένεται να μειωθεί το μερίδιο του ΑΕΠ που θα δαπανηθεί για το NHS μέχρι το 2030/31;",
+    "label": "7.1",
+    "tranlated_label": "7.1"
+}

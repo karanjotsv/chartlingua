@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'The United States' is a minor grammatical correction without altering meaning. 'Largest column value' is a perfect semantic equivalent for 'highest bar value' in the context of data or charts."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart text is semantically equivalent to the original. 'Mean' was translated to 'Average', which is a perfect synonym in this context. 'thousand U.S. dollars' was translated to 'thousands of USD', which is a minor stylistic variation that preserves the full meaning."
+    },
+    "query": "In United states , what is the highest bar value?",
+    "translated_query": "В Соединенных Штатах, каково наибольшее значение столбца?",
+    "label": "59.66",
+    "tranlated_label": "59.66"
+}

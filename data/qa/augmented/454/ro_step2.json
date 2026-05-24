@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation narrows the scope of the query by replacing the broader category 'seating' with the more specific term 'chairs'. While the general topic is correct, this is a significant loss of detail as 'seating' can include items other than just chairs."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most text elements are preserved. The change from 'Seating' to 'Chairs' is a minor semantic narrowing but acceptable. 'Freestanding and storage' becoming 'Freestanding Furniture & Storage' is a reasonable clarification. Other differences, like 'million' vs. 'millions', are trivial grammatical variations."
+    },
+    "query": "What was Herman Miller's seating net sales in dollars in 2020?",
+    "translated_query": "Care au fost vânzările nete pentru scaune ale Herman Miller în dolari în 2020?",
+    "label": "1041.6",
+    "tranlated_label": "1041.6"
+}

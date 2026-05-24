@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has a significant semantic flaw. While the pie slice proportions and colors are correct for both charts, labels from the right chart ('Maintenance', 'Cleaning chemicals & Filters', 'Labour') have been incorrectly placed on the left chart, making it fundamentally misleading and confusing.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There are severe visual flaws due to incorrect label placement. Multiple labels from the right-hand chart have been rendered on top of the left-hand chart, causing severe text overlap and making the chart nonsensical. For example, 'Maintenance', 'Cleaning chemicals & Filters', and 'Labour' all overlap each other."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The 'Annual Cost Breakdown' chart explicitly states that Labor accounts for 59% of the total cost. There is no category labeled 'materials' with a corresponding value of 59%. The components that could be interpreted as materials (e.g., 'Cleaning chemicals & Filters', 'Perc Cost') are part of the 'Other operating costs' and constitute a much smaller percentage of the total annual cost."
+    },
+    "claim": "The cost of labor is the same as the cost of materials in the cost breakdown of this product.",
+    "label": false
+}

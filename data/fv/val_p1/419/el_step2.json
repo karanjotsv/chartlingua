@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Highest number' and 'largest number' are semantically equivalent in this context, and 'graph' and 'chart' are synonymous."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content is almost perfectly equivalent. The only change is 'in' to 'to' in the title ('PC Shipments in Russia' vs. 'PC Shipments to Russia'), which is a trivial and contextually synonymous difference, not altering the core meaning."
+    },
+    "claim": "In 2009, Russia shipped the highest number of  PC units according to the graph above.",
+    "translated_claim": "Το 2009, η Ρωσία απέστειλε τον μεγαλύτερο αριθμό μονάδων Η/Υ σύμφωνα με το παραπάνω γράφημα."
+}

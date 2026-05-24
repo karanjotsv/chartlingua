@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. It corrects a minor grammatical error ('neither...or' to 'neither...nor') and standardizes the decimal separator, which are improvements rather than semantic changes."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The `chart_data` categories maintain excellent semantic equivalence, with minor grammatical improvements ('use snus' vs 'snus') that enhance clarity without altering meaning. The title changed from 'Daily tobacco use from' to 'Daily tobacco use with', which is a semantic shift in preposition, but given the title is incomplete in both versions, it represents a minor acceptable difference rather than a significant loss of critical information."
+    },
+    "claim": "The percentage of people that neither smoke or snus is at 76,6 percent.",
+    "translated_claim": "Процент людей, которые не курят и не употребляют снюс, составляет 76,6 процента."
+}

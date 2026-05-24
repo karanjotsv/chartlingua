@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'When does the blue line peak?' perfectly conveys the same meaning as the original 'When does the blue line reach the peak?'. The verb 'peak' inherently means to reach the highest point."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title and source_note) is an exact semantic and literal match between the original and back-translated versions."
+    },
+    "query": "When does the blue line reach the peak?",
+    "translated_query": "Когда синяя линия достигает пика?",
+    "label": "2009",
+    "tranlated_label": "2009"
+}

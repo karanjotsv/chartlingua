@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, proportions, categories, and color hues. It also adds a helpful title and legend that clarify the data without altering the original message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses 'StrepHit IEG Web Sources Corpus biographies' and their 'source domains,' topics which are completely absent from the chart. The chart exclusively presents data on exoplanets, their discovery dates, and the methods used for discovery. There is no information in the chart to support or even relate to the claim."
+    },
+    "claim": "The StrepHit IEG Web Sources Corpus biographies come from three different source domain.",
+    "label": "FALSE"
+}

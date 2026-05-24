@@ -1,0 +1,44 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Grundstück (R)",
+            "value": 2625
+        },
+        {
+            "category": "Zeitwert des<br>Gebäudes (S)",
+            "value": 842
+        },
+        {
+            "category": "Ausstattungswert 15%<br>von R+S (T)",
+            "value": 520
+        },
+        {
+            "category": "Gesamtwert Grundstück +<br>Gebäude<br>(R+S+T)",
+            "value": 3987
+        },
+        {
+            "category": "Angemessene Miete bei<br>9%",
+            "value": 359
+        },
+        {
+            "category": "Miete / sq. ft",
+            "value": 30
+        }
+    ],
+    "texts": {
+        "title": "Angemessene Miete für ein Wohngebäude",
+        "subtitle": "Grafik: A. M. Ibrahim",
+        "x_axis_title": null,
+        "y_axis_title": "CU",
+        "source": null
+    },
+    "colors": {
+        "bar_fill": "#AAB3FF",
+        "bar_line": "#3D3DAF",
+        "annotation_bg": "#FFDDE5",
+        "annotation_border": "#D50000",
+        "grid": "#C0C0C0",
+        "background": "#E5E5E5"
+    }
+}

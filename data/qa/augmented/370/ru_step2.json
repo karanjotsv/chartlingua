@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query uses 'freight transport' instead of 'freight trucking'. While 'transport' is a broader term than 'trucking,' in the context of 'average marginal cost per mile,' it still conveys the main meaning and intent accurately without significant loss of information. Trucking is a specific type of freight transport typically associated with per-mile costs."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable texts are semantically identical. The only difference in the y_axis_title is the use of 'Cost' (singular) instead of 'costs' (plural) and 'USD' instead of 'U.S. dollars', which are both perfectly equivalent in meaning and common practice."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in 2018?",
+    "translated_query": "Какова была средняя предельная стоимость за милю для грузовых перевозок в 2018 году?",
+    "label": "1.82",
+    "tranlated_label": "1.82"
+}

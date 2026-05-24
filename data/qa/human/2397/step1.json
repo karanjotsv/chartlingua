@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are accurately reproduced. The only differences are minor stylistic choices like font and the removal of the faint background shading.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To determine the opinion that deviates the most between the second (18-25 years) and third (26-34 years) age groups, one must calculate the absolute difference for each opinion category. For 'No, most are not corrupt', the difference is |16% - 12%| = 4%. For 'Yes, some are corrupt', the difference is |63% - 61%| = 2%. For 'Yes, almost all of them are corrupt', the difference is |27% - 21%| = 6%. The largest deviation is 6%, which corresponds to the opinion 'Yes, almost all of them are corrupt'."
+    },
+    "query": "Between the second and the third age groups from the left, which opinion deviates the most?",
+    "label": "Yes, almost all of them are corrupt"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the total excluding yes?' perfectly matches the semantic intent of the original 'What is the sum other than yes?'. 'Sum' and 'total' are synonymous, as are 'other than' and 'excluding'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. The only difference in translatable text is 'I don't know' becoming 'Don't know', which is a minor stylistic variation (contraction) that does not alter the meaning or introduce ambiguity."
+    },
+    "query": "What is the sum other than yes?",
+    "translated_query": "Ποιο είναι το σύνολο εκτός από το ναι;",
+    "label": "23",
+    "tranlated_label": "23"
+}

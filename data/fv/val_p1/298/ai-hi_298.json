@@ -1,0 +1,57 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "उत्सर्जन",
+            "y": [
+                526.3
+            ],
+            "text": "526.3",
+            "error_y": {
+                "type": "data",
+                "array": [
+                    44
+                ],
+                "arrayminus": [
+                    0
+                ],
+                "visible": true,
+                "thickness": 1.5,
+                "width": 10,
+                "color": "#555555"
+            }
+        },
+        {
+            "name": "LULUCF द्वारा अवशोषण",
+            "y": [
+                -99.9
+            ],
+            "text": "-99.9",
+            "error_y": {
+                "type": "data",
+                "array": [
+                    0
+                ],
+                "arrayminus": [
+                    60
+                ],
+                "visible": true,
+                "thickness": 1.5,
+                "width": 10,
+                "color": "#555555"
+            }
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "2017 में GHG उत्सर्जन और अवशोषण",
+        "y_axis_title": "Mt",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#AAAAAA",
+        "#66994D"
+    ]
+}

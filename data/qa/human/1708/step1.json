@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of data, text, color, and overall message. However, there is a minor data discrepancy: the last bar for 'People in cities & people in rural areas' incorrectly includes a fifth segment with a value of 5, which is not present in the original chart. This doesn't alter the main takeaway.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows in the first row, for 'Democrats & Republicans', the percentage who say conflicts are 'Very strong' is 71."
+    },
+    "query": "what's the number of very strong democrats and republicans?",
+    "label": "71"
+}

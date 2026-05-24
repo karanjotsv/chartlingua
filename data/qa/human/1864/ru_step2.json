@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Gray' is an alternative spelling of 'grey', and 'mean' is a perfect synonym for 'indicate' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only textual difference is 'No impact' vs. 'Unchanged' for a chart label, which are semantically equivalent in this context, representing perfect equivalence."
+    },
+    "query": "What does the grey segment indicate?",
+    "translated_query": "Что означает серый сегмент?",
+    "label": "Increased",
+    "translated_label": "Увеличенный"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trend, axis labels, titles, and overall structure are identical to the original. The colors are also consistent, with only minor stylistic differences in text color and line color that do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the number of U.S. Patents Granted from 1870 to a year before 2010. It contains no information about solar power installations, specific states like California, or the year 2017."
+    },
+    "claim": "California (CA) was the top state for solar power installations in 2017.",
+    "label": "TRUE"
+}

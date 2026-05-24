@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, and the main title are identical. The two-pie-chart structure is replicated correctly, and the color hues for each corresponding data slice are consistent, conveying the same information and overall message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The label for 'Large-scale solar PV' (2%) is placed over the 'Black coal' slice of the main pie chart, causing a text overlap with poor color contrast that makes the label difficult to read and its association confusing."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart on the left clearly indicates that 'Black coal' accounts for 47% of Australian electricity generation in 2017. This is the largest percentage among all listed sources, making it the largest single proportion."
+    },
+    "claim": "Black coal accounts for the large proportion of Australia's energy sources.",
+    "label": true
+}

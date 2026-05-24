@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent semantic match to the original. It accurately reproduces the data values, categories, series, text labels, and color associations, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that for the 'Skilled Trades' category, the blue bar segment representing males is significantly larger than the orange bar segment representing females. This indicates that the majority of workers in skilled trades were male, not female."
+    },
+    "claim": "The majority of workers in the skilled trades in Finningham in 2011 was females.",
+    "label": false
+}

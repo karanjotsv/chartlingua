@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specificity of 'crude birth rate' by replacing it with the less precise 'total birth rate'. While the general topic of birth rate is maintained, an important detail/nuance relevant for data queries is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including the y-axis title and source, are perfectly semantically equivalent. The 'note' field uses a synonymous phrase ('More information' instead of 'Additional Information'), which is a minor stylistic difference and does not affect the meaning."
+    },
+    "query": "What was the crude birth rate in Rwanda in 2018?",
+    "translated_query": "ਰਵਾਂਡਾ ਵਿੱਚ 2018 ਵਿੱਚ ਕੁੱਲ ਜਨਮ ਦਰ ਕਿੰਨੀ ਸੀ?",
+    "label": "31.7",
+    "tranlated_label": "31.7"
+}

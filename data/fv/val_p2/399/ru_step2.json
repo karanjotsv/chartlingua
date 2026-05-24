@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the original meaning. The phrasing 'smallest value of the emissivity coefficient shown on the chart' is a more natural and precise way to express 'Least emissivity values carry in the chart', but the semantic content remains identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON, including axis titles and annotations, is an exact semantic match to the original content. There are no differences."
+    },
+    "claim": "Least emissivity values carry in the chart is E=0.3",
+    "translated_claim": "Наименьшее значение коэффициента излучения, представленное на графике, составляет E=0.3"
+}

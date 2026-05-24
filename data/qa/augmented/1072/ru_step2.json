@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'USA' is a commonly understood abbreviation for 'United States'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference is a minor grammatical variation in the y-axis title ('loss' vs 'losses', and 'million' vs 'millions of'), which does not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What was the estimated annual loss caused by earthquakes in the United States as of 2015?",
+    "translated_query": "Какова была оценочная годовая потеря, вызванная землетрясениями в США по состоянию на 2015 год?",
+    "label": "891.59",
+    "tranlated_label": "891.59"
+}

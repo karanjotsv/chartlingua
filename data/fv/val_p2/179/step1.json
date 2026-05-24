@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, categories, text content (title, axes), and color hues are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Event Photos' has a higher percentage of uploaded media items compared to others. However, the chart shows 'Event Photos' has the lowest percentage (approximately 2%), while 'Historical Artifacts' has the highest percentage at 58%."
+    },
+    "claim": "Events photo has more media items uploaded percentage compared to others",
+    "label": "FALSE"
+}

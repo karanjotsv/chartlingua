@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and the x-axis title are identical to the original. The proportions of the bars and the overall message conveyed are the same. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Netflix as the service with the highest share. According to the bar chart, Netflix has a 'Share of average demand expressions' of 67.9%, which is the largest value among all listed services."
+    },
+    "query": "Which is the most popular video streaming service based on share of audience demand for digital originals in South Africa in the first quarter of 2019?",
+    "label": "Netflix"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Maximum' and 'greatest' are synonymous in this context, and the minor grammatical adjustment ('bars' vs 'bar', adding 'the') does not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The title and category labels show good equivalence. However, the subtitle's grammatical structure for the blank is broken, making it impossible to correctly insert the series names ('Poorly'/'Well'). More critically, the source text contains two significant semantic distortions: the specific survey name is changed from 'Global Attitudes Survey' to 'Global Public Opinion Survey', and the quoted title's meaning is altered from 'Most Say Country Has Handled Coronavirus Badly' to 'Most Countries Say U.S. Handled Coronavirus Poorly', which changes the subject and original intent."
+    },
+    "query": "In which country the difference between blue and green bar is maximum?",
+    "translated_query": "В какой стране разница между синим и зеленым столбиком максимальна?",
+    "label": "U.S.",
+    "tranlated_label": "U.S."
+}

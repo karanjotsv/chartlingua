@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. It represents the same data values, proportions, categories, and colors. The title and labels are also identical. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the percentage of respondents who 'strongly oppose' is 3.5%, while the percentage of those who 'oppose' is 6.9%. Therefore, the claim that the number of respondents who 'strongly oppose' is larger than those who 'oppose' is incorrect, as 3.5% is less than 6.9%."
+    },
+    "claim": "The number of respondents who \"strongly oppose\" is larger than the number of respondents who \"oppose\" blanking all Wikipedia as SOPA protest.",
+    "label": false
+}

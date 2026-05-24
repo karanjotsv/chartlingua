@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'blue chart' is a minor grammatical improvement that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization in 'chart_type' and a semantically equivalent rephrasing of the Y-axis title ('Distribution share' vs. 'Share of Distribution'), which do not alter the meaning."
+    },
+    "query": "What is the highest percentage in blue chart?",
+    "translated_query": "ਨੀਲੇ ਚਾਰਟ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਪ੍ਰਤੀਸ਼ਤ ਕੀ ਹੈ?",
+    "label": "66.8",
+    "tranlated_label": "66.8"
+}

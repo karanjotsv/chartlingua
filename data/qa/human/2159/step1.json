@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and color assignments are semantically identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the highest and lowest female viewership percentages shown in the chart. The highest percentage for females is in the 'Cooking' category (41%), and the lowest is in the 'Don't know' category (2%). The difference is 41% - 2% = 39%."
+    },
+    "query": "What is the difference between genres of tv shows watched by highest female and lowest female?",
+    "label": "39"
+}

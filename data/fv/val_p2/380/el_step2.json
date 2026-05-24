@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the semantic meaning of the original. The slight grammatical difference ('the category of \"5+ languages\"' vs 'the \"5+ languages\" category') is stylistic and does not alter the core message or information conveyed."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'title', axis titles, and most categories are perfect matches. There's a very minor pluralization difference ('0 language' vs '0 languages') and a slight semantic shift in the subtitle from 'data dumps' to 'data records', which, while conveying the general source, loses a little technical specificity."
+    },
+    "claim": "The N language category of \"4 languages\" contains fewer files than the category of \"5+ languages\".",
+    "translated_claim": "Η κατηγορία N γλωσσών των \"4 γλωσσών\" περιέχει λιγότερα αρχεία από την κατηγορία των \"5+ γλωσσών\"."
+}

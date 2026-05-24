@@ -1,0 +1,31 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Europe",
+            "value": 2.16
+        },
+        {
+            "category": "France",
+            "value": 1.93
+        },
+        {
+            "category": "Argentina",
+            "value": 0.67
+        }
+    ],
+    "texts": {
+        "title": "Rapeseed yields, 1976",
+        "subtitle": "Average rapeseed yields, measured in tonnes per hectare.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_left": "Source: UN Food and Agriculture Organization (FAO)",
+        "source_right": "OurWorldInData.org/crop-yields • CC BY",
+        "data_label_suffix": " t"
+    },
+    "colors": [
+        "#8c6d9e",
+        "#d8327e",
+        "#29998a"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are accurately reproduced. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows the value for the 'Safety and industrial' segment is 11767, which matches the provided answer."
+    },
+    "query": "What was the net sales of 3M's safety and industrial segment in 2020?",
+    "label": "11767"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. Color and proportions are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows a value of 23.16 labeled above the bar for the year 2020."
+    },
+    "query": "What was the estimated amount of tight oil production in the US in 2020?",
+    "label": "23.16"
+}

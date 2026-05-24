@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. 'Strongly morelike' is accurately conveyed as 'Very Much Like', and 'somewhat morelike' as 'Somewhat Like'. The comparative structure and the information about the bar sizes remain identical."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title maintains good semantic equivalence. However, the x-axis labels in 'chart_data' are significantly distorted. 'Wikivectors', which appears to be a specific term or category, is incorrectly translated to 'Dislike', completely altering the meaning of those categories. Similarly, 'Strongly morelike' and 'Somewhat morelike' are reinterpreted as 'Very Much Like' and 'Somewhat Like', changing the original category names into a general sentiment scale. This results in a loss of critical information about the original categories."
+    },
+    "claim": "The bar for 'Strongly morelike' is smaller than the one for 'somewhat morelike' in the chart.",
+    "translated_claim": "ਚਾਰਟ ਵਿੱਚ 'ਬਹੁਤ ਜ਼ਿਆਦਾ ਪਸੰਦ' ਲਈ ਬਾਰ 'ਕੁਝ ਹੱਦ ਤੱਕ ਪਸੰਦ' ਵਾਲੇ ਬਾਰ ਨਾਲੋਂ ਛੋਟਾ ਹੈ।"
+}

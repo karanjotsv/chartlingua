@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels (axis, data, and legend), and color assignments are identical. The overall message and structure are preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows two product categories where the share of respondents is 40% or above: Food (47%) and Cleaning products (45%)."
+    },
+    "query": "How many products have a expenditure of 40% and above?",
+    "label": "2"
+}

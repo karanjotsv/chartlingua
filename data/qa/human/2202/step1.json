@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately reproduces all data values, labels, and color assignments. However, the vertical order of the categories is inverted compared to the original, which represents a change in the data's presentation structure but does not alter the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart clearly shows that the 'Cinematography' category has a 100% share, as indicated by the blue bar and its corresponding label."
+    },
+    "query": "Which sector has 100%?",
+    "label": "Cinematography"
+}

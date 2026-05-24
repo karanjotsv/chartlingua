@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes 'a little difference' (implying a small but present difference) to 'little difference' (implying hardly any difference), which alters the nuance regarding the extent of the difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data labels, titles, and values are perfectly preserved. Differences are limited to minor pluralization ('Export' vs 'Exports'), locale-specific number formatting (comma vs. dot), and synonymous abbreviations ('bil' vs 'bn.' for billion), none of which alter the core meaning or introduce ambiguity."
+    },
+    "claim": "China's Export and Import has a little difference when compared.",
+    "translated_claim": "Οι Εξαγωγές και Εισαγωγές της Κίνας παρουσιάζουν μικρή διαφορά σε σύγκριση."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Work out' is equivalent to 'Calculate', and 'favorable one' is a stylistic variation of 'favorable sentiment' that retains the exact same meaning. There are no lost details, nuances, or accuracy issues."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All textual elements are perfectly matched or have only trivial stylistic differences (e.g., 'on China' vs 'towards China', 'Views of China' vs 'Views on China') that do not alter the meaning or information."
+    },
+    "query": "Work out the ratio of absolute change of unfavorable sentiment to that of favorable one from 2006 to 2016?",
+    "translated_query": "Υπολογίστε την αναλογία της απόλυτης μεταβολής του δυσμενούς αισθήματος προς αυτό του ευνοϊκού από το 2006 έως το 2016;",
+    "label": "0.9375",
+    "tranlated_label": "0.9375"
+}

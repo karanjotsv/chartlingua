@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Αριθμός γεννήσεων σε χιλιάδες",
+            "categories": [
+                "Κινέζοι",
+                "Μαλαίσιοι",
+                "Ινδοί",
+                "Άλλοι"
+            ],
+            "values": [
+                22.99,
+                7.82,
+                4.25,
+                4.21
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Αριθμός γεννήσεων σε χιλιάδες",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#1f77b4"
+    ]
+}

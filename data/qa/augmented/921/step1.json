@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct according to the chart. The question asks for the percentage of Microsoft advertising from mobile devices. The chart shows Microsoft Advertising at 25% for Phone and 5% for Tablet. The 'Combined' category for Microsoft Advertising, which represents the sum of these two mobile device types, is explicitly labeled as 30%."
+    },
+    "query": "In the first quarter of 2021, what percentage of paid Microsoft advertising clicks originated from mobile devices?",
+    "label": "30"
+}

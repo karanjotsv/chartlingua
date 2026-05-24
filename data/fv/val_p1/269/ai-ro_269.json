@@ -1,0 +1,40 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Biogaz",
+            "value": 11.8
+        },
+        {
+            "label": "Hidro",
+            "value": 20.3
+        },
+        {
+            "label": "Eoliană",
+            "value": 40.4
+        },
+        {
+            "label": "Solară",
+            "value": 6.6
+        },
+        {
+            "label": "Biomasă",
+            "value": 19.8
+        }
+    ],
+    "texts": {
+        "title": "Producția de electricitate din surse regenerabile în Germania, în 2009",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Sursa: Ministerul Federal pentru Mediu, Protecția Naturii și Siguranță Nucleară, iunie 2010, pag.13",
+        "note": null
+    },
+    "colors": [
+        "#bca00e",
+        "#387990",
+        "#4d9a97",
+        "#f5824e",
+        "#978110"
+    ]
+}

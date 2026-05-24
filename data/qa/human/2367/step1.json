@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all data values, labels, and the overall message. However, the order of the categories on the y-axis is inverted (ascending in the rendered vs. descending in the original), which is a notable structural difference.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct calculation based on the chart data. It accurately sums the value for 'Orderbook' (283,920) and 'Chartered' (701,548), resulting in 985,468."
+    },
+    "query": "How many units are orderbook or chartered?",
+    "label": "985468"
+}

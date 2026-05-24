@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the original meaning. 'Total value' is accurately represented by 'combined value'. 'Food and Hazardous waste Management' is appropriately translated as 'the food industry and hazardous waste management', as 'Food' in this context implies the industry. 'Primary Metals' implicitly refers to their value, which the back-translation makes explicit ('the value of primary metals') without altering the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Minor variations like 'All Others' vs 'All Other', 'Food' vs 'Food Industry', 'Chemicals' vs 'Chemical Industry', and 'reported' vs 'provided' are stylistic or synonymous and do not alter the meaning or introduce ambiguity. The HTML tag placement is also a trivial difference."
+    },
+    "claim": "The total value of Food and Hazardous waste Management is equal to Primary Metals.",
+    "translated_claim": "Общее значение пищевой промышленности и управления опасными отходами равно значению первичных металлов."
+}

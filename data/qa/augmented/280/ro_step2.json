@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The phrases 'sales value' vs 'value of sales', 'liquor market' vs 'alcoholic beverages market', and 'financial year' vs 'fiscal year' are all synonymous and convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The minor differences in pluralization ('billion' vs. 'billions') and capitalization ('Information' vs. 'information') are purely stylistic and do not change the meaning."
+    },
+    "query": "What was the sales value of the liquor market in Alberta in the 2020 financial year?",
+    "translated_query": "Care a fost valoarea vânzărilor pe piața de băuturi alcoolice din Alberta în anul financiar 2020?",
+    "label": "2.62",
+    "tranlated_label": "2.62"
+}

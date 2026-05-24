@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is mostly consistent. All data values, proportions, labels, and the main title are accurate, conveying the same overall message. However, there are a few color hue mismatches for very small slices in the 'Renewables' pie chart (e.g., 'Solar hotwater' changed from brown to orange, 'Geothermal heat' changed from beige to light blue), which prevents a perfect score.",
+        "has_visual_flaws": true,
+        "flaw_reason": "Yes, there is significant text overlap. In the legend for the 'Renewables' chart, the percentage values overlap with the subsequent category labels, making them difficult to read. The main chart title also has minor text overlap between words."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the most widely used form of renewable energy is Biomass heat at 11.44%, and the least used is Ocean power at 0.001%. The average of these two values is (11.44 + 0.001) / 2 = 5.7205%, which is not more than 10%."
+    },
+    "claim": "The average of most widely used form of renewable energy and the least of that is more than  10%.",
+    "label": "FALSE"
+}

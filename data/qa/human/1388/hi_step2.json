@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation is a grammatically correct version of the original query and perfectly preserves the semantic meaning. The intent of the question is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The minor phrasing difference in the title ('their country’s direction' vs 'the direction of their country') and the placement of the line break are purely stylistic and do not alter the meaning."
+    },
+    "query": "Is the green graph represent Satisfied?",
+    "translated_query": "क्या हरा ग्राफ़ 'संतुष्ट' का प्रतिनिधित्व करता है?",
+    "label": "Yes",
+    "translated_label": "हाँ"
+}

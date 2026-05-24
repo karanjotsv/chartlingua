@@ -1,0 +1,46 @@
+{
+    "chart_type": "grouped_bar",
+    "x_categories": [
+        "Украина",
+        "Литва",
+        "Россия"
+    ],
+    "chart_data": [
+        {
+            "name": "Обычные люди",
+            "y": [
+                11,
+                20,
+                26
+            ]
+        },
+        {
+            "name": "Владельцы бизнеса",
+            "y": [
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "name": "Политики",
+            "y": [
+                95,
+                91,
+                82
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Доля респондентов",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#112F41",
+        "#BDBDBD"
+    ]
+}

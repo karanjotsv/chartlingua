@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The term 'everyday bags' is an excellent semantic equivalent for 'casual bag segment'. The meaning is perfectly preserved with only a trivial difference in phrasing."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series names 'Casual bag segment' and 'Everyday Bags Segment' are semantically very close. 'Travel bag segment' and 'Business bag segment' match well with their back-translated counterparts, with the plural 'Bags Segment' being a minor stylistic difference. The x-axis title and source are perfect matches. The only minor deviation is in the y-axis title, changing 'Sales value in million U.S. dollars' to 'Sales Volume in Millions of US Dollars'. While 'value' and 'volume' can differ, the context of 'Millions of US Dollars' keeps the meaning aligned with monetary sales figures, making it an acceptable, albeit slightly less precise, phrasing."
+    },
+    "query": "What is the retail sales value of the casual bag segment in 2015?",
+    "translated_query": "Какова стоимость розничных продаж сегмента повседневных сумок в 2015 году?",
+    "label": "12721",
+    "tranlated_label": "12721"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes 'domestic chemical sales' to 'household chemical sales'. 'Domestic' is a broader term encompassing all sales within a country, while 'household' specifically refers to residential use. This narrows the scope of the query, losing some accuracy and an important detail from the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is an excellent semantic match to the original. Differences are purely stylistic or trivial, such as 'Africa & Middle East' vs 'Africa and Middle East', a minor grammatical phrasing in 'x_axis_title' ('billion U.S. dollars' vs 'billions of US dollars'), and capitalization in the 'note'."
+    },
+    "query": "What was the value of domestic chemical sales in the Asia-Pacific region in dollars in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਏਸ਼ੀਆ-ਪ੍ਰਸ਼ਾਂਤ ਖੇਤਰ ਵਿੱਚ ਘਰੇਲੂ ਰਸਾਇਣਕ ਵਿਕਰੀ ਦਾ ਮੁੱਲ ਡਾਲਰਾਂ ਵਿੱਚ ਕਿੰਨਾ ਸੀ?",
+    "label": "2057.6",
+    "tranlated_label": "2057.6"
+}

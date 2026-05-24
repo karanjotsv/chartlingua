@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 1,
+        "claim_reason": "The back-translation fundamentally misunderstands the word 'press', likely a sports-related term, and translates it as 'printing'. This completely changes the meaning of the claim, making it unrelated to the original."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The title and most categories are translated well, with acceptable synonyms like 'Chapter' for 'branch'. However, one category name was changed from 'Direct-to-Press digital system' to 'Digital system direct to plate', which are related but technically distinct printing methods, introducing a minor loss of precision."
+    },
+    "claim": " The green bar shows the highest press percentage.",
+    "translated_claim": " Bara verde indică cel mai mare procentaj de tipărire."
+}

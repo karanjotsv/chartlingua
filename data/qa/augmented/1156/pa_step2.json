@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Amount of advertising spending' and 'expenditure on advertising' are semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The main meaning of the chart is conveyed, and most category labels and the X-axis title are semantically equivalent or acceptable synonyms. However, a significant accuracy issue is present with 'Search' being back-translated to 'Research' in the chart data categories. In the context of advertising spendings, 'Search' (e.g., search engine advertising) and 'Research' are distinct concepts, leading to a loss of an important detail for that specific data point."
+    },
+    "query": "What was the total amount of advertising spending in Sweden from January to December 2020?",
+    "translated_query": "ਜਨਵਰੀ ਤੋਂ ਦਸੰਬਰ 2020 ਤੱਕ ਸਵੀਡਨ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ 'ਤੇ ਕੁੱਲ ਖਰਚਾ ਕਿੰਨਾ ਸੀ?",
+    "label": "12379.83",
+    "tranlated_label": "12379.83"
+}

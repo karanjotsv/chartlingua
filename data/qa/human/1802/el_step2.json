@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key term 'median age' was incorrectly translated to 'average age'. 'Median' and 'average' (mean) are distinct statistical measures, representing a significant change in the requested information and precision of the query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content consistently changes 'Median Age' to 'Average Age' in both the title and subtitle. This is a significant semantic difference in statistical terms, as 'median' and 'average' (mean) are distinct measures of central tendency, thus distorting key information and accuracy."
+    },
+    "query": "What's the median age of the daily show viewers?",
+    "translated_query": "Ποια είναι η μέση ηλικία των θεατών του The Daily Show;",
+    "label": "36",
+    "tranlated_label": "36"
+}

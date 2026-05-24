@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces all data values, categories, labels, titles, and the color scheme. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the number of males and females for various occupations in 1881. For the 'Agriculture' category, the blue bar (No. of Males) is visibly taller than the grey bar (No. of Females), indicating that more males were employed in this sector than females."
+    },
+    "claim": "There were more male agricultural laborers than female in Knodishall in 1881.",
+    "label": true
+}

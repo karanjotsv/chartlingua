@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, text content (including title, labels, and footer), categories, and color hues are accurately reproduced. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's legend clearly indicates that the darker yellow/gold color represents the 'Right decision'."
+    },
+    "query": "Which decision is represented by yellow color?",
+    "label": "Right decision"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, labels for axes and data points, categories, series, and color hues are accurately reproduced. The overall message and interpretation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the values for the 'Lung' category are 13.3 (2017), 13.3 (2018), and 11.4 (2019). The sum of these three values is 13.3 + 13.3 + 11.4 = 38."
+    },
+    "query": "what is the sum of lung's bars?",
+    "label": "38"
+}

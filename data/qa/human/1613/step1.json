@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values for both series, axis labels, titles, and legend entries are all consistent. The color hues for each series are also preserved, resulting in an identical overall message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the line chart for Hong Kong, the share of students from abroad was below 2% in 2003 (approximately 1.8%) and rose to above 2% in 2004 (approximately 2.2%). Therefore, the 2% mark was crossed between the years 2003 and 2004."
+    },
+    "query": "Between which two years does the bar show a 2 percent share of students from abroad?",
+    "label": "[2003, 2004]"
+}

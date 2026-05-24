@@ -1,0 +1,58 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ],
+        "series": [
+            {
+                "name": "Inlandsmarkt",
+                "data": [
+                    22,
+                    22,
+                    22,
+                    7,
+                    8,
+                    7,
+                    6,
+                    6,
+                    6
+                ]
+            },
+            {
+                "name": "Gesamtmarkt",
+                "data": [
+                    427,
+                    512,
+                    528,
+                    519,
+                    505,
+                    537,
+                    540,
+                    540,
+                    17
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der Unternehmen",
+        "source": "© Statista 2021<br>Quelle anzeigen",
+        "note": "Zusätzliche Informationen"
+    },
+    "colors": [
+        "#267FFB",
+        "#0D202B"
+    ]
+}

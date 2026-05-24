@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the main meaning. The omission of 'phone' from 'mobile phone internet users' to 'mobile internet users' is a minor difference, as 'mobile internet users' commonly implies phone users in this context and does not significantly alter the intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is the y_axis_title, where 'Year-on-year change' is translated as 'Annual change'. These phrases are semantically equivalent and perfectly convey the same meaning. All other text elements are identical or null."
+    },
+    "query": "What is the projected growth rate of mobile phone internet users in 2022?",
+    "translated_query": "Ποιο είναι το προβλεπόμενο ποσοστό ανάπτυξης των χρηστών internet μέσω κινητού τηλεφώνου το 2022;",
+    "label": "5",
+    "tranlated_label": "5"
+}

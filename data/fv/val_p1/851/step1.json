@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, proportions, labels, titles, and color hues are consistent. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart only provides data on electric energy generation from hydro. It does not contain any information about other energy sources, so it is impossible to determine if hydro generated more electricity than any other source in 2018."
+    },
+    "claim": "The US generated more electricity from hydro than any other source in 2018.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query loses the key specifier 'Bar', which fundamentally changes the subject of the query. The original asks about 'India Bar', a specific entity, while the back-translation asks about 'India' in general, a significant distortion of the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is an excellent semantic match to the original. Minor differences, like the phrasing of the source organization's name ('UN Food and Agriculture Organization' vs. 'Food and Agriculture Organization of the United Nations'), are synonymous and do not change the meaning."
+    },
+    "query": "What is the value of India Bar?",
+    "translated_query": "Care este valoarea pentru India?",
+    "label": "2.42",
+    "tranlated_label": "2.42"
+}

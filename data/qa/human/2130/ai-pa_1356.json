@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਤੁਰੰਤ",
+            "ਇੱਕ ਘੰਟੇ ਦੇ ਅੰਦਰ",
+            "ਉਸੇ ਦਿਨ ਕਦੇ",
+            "ਮੈਨੂੰ ਜਵਾਬ ਦੀ ਉਮੀਦ ਨਹੀਂ"
+        ],
+        "series": [
+            {
+                "name": "ਸੰਯੁਕਤ ਰਾਜ",
+                "data": [
+                    20,
+                    24,
+                    31,
+                    25
+                ]
+            },
+            {
+                "name": "ਵਿਸ਼ਵਵਿਆਪੀ ਔਸਤ",
+                "data": [
+                    18,
+                    28,
+                    37,
+                    17
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਜਵਾਬਦੇਹਾਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#132D43"
+    ]
+}

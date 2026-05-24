@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data categories, values, and proportions from the original pie chart. The title and source text are identical, and the color hues for all major categories are consistently maintained.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that East Asia accounts for 32% of global soybean meal consumption, while Southeast Asia accounts for 8%. The difference between these two regions is 24% (32% - 8%), not 12% as stated in the claim."
+    },
+    "claim": "The difference between the amount of East Asia and Southeast Asia is 12%  of the chart.",
+    "label": "FALSE"
+}

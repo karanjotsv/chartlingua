@@ -1,0 +1,60 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Agriculture",
+            "Deals with Animals",
+            "Machinery",
+            "Commodities",
+            "Mineral substances",
+            "Domestic Services",
+            "House construction",
+            "Deals with Food",
+            "Dress and shoe makers",
+            "Unknown"
+        ],
+        "series": [
+            {
+                "name": "No. of Males",
+                "values": [
+                    28,
+                    9,
+                    3,
+                    28,
+                    10,
+                    0,
+                    9,
+                    5,
+                    3,
+                    1
+                ]
+            },
+            {
+                "name": "No. of Females",
+                "values": [
+                    5,
+                    0,
+                    0,
+                    2,
+                    0,
+                    18,
+                    0,
+                    0,
+                    5,
+                    70
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Occupations of males and females in 1881",
+        "subtitle": null,
+        "x_axis_title": "Occupation",
+        "y_axis_title": "No. of people",
+        "source": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#A9A9A9"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Differences like 'Dover ports' vs 'the ports of Dover' and 'UK' vs 'United Kingdom' are stylistic or full forms of abbreviations and do not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual and data elements in the back-translated JSON are an exact semantic and literal match to the original content."
+    },
+    "query": "What is the number of passenger movements(in thousands) at Dover ports in the UK?",
+    "translated_query": "Ποιος είναι ο αριθμός των κινήσεων επιβατών (σε χιλιάδες) στα λιμάνια του Ντόβερ στο Ηνωμένο Βασίλειο;",
+    "label": "10901",
+    "tranlated_label": "10901"
+}

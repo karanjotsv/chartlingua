@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall title are identical. The color hue is consistent, and the core message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows a total of 17 responses (7+5+3+2). The number of participants who selected 'I don't understand the meaning' is 5. Half of the total participants would be 8.5 (17/2), which is not 5. Therefore, the claim is not supported by the data."
+    },
+    "claim": "Half of participants don't know what the logo means.",
+    "label": "FALSE"
+}

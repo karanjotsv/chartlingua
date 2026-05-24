@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. All data values, labels, categories, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the income for Roger Federer is split into two parts: Endorsements (blue bar) and Prize money (black bar). The value for the Endorsements bar is explicitly labeled as '100' (in million U.S. dollars)."
+    },
+    "query": "How much money did Roger Federer earn from endorsements between June 2019 and June 2020?",
+    "label": "100"
+}

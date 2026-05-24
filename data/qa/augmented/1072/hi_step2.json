@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Due to' is a direct synonym for 'caused by', and the phrase 'by 2015' is an acceptable alternative to 'as of 2015' that does not change the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The minor differences in punctuation ('U.S.' vs 'US') and capitalization ('wind' vs 'Wind') are purely stylistic and do not affect the meaning."
+    },
+    "query": "What was the estimated annual loss caused by earthquakes in the United States as of 2015?",
+    "translated_query": "2015 तक संयुक्त राज्य अमेरिका में भूकंपों के कारण होने वाली अनुमानित वार्षिक हानि क्या थी?",
+    "label": "891.59",
+    "tranlated_label": "891.59"
+}

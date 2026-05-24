@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, series labels (Quebec, ROC, Canada), axis labels, and color hues are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the total for ROC and Quebec in 2006 is 40%. However, the chart shows that the value for Quebec alone in 2006 is approximately 40.5%. The value for ROC in 2006 is approximately 10.5%. The sum of these two values is clearly greater than 50%, which contradicts the claim."
+    },
+    "claim": "In 2006, the total of ROC and Quebec is 40% of the chart.",
+    "label": "TRUE"
+}

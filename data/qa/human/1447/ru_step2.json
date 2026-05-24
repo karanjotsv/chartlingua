@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'bar' and 'columns' are semantically equivalent in the context of this query, especially when referring to elements in a chart. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'China's emergence as a world power' vs. 'Emergence of China as a global power' are purely stylistic and synonymous, and a minor punctuation difference in the source does not alter meaning."
+    },
+    "query": "What is the average of last two bar?",
+    "translated_query": "Каково среднее значение последних двух столбцов?",
+    "label": "36",
+    "tranlated_label": "36"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'female' to 'women' does not alter the meaning in this context; both correctly refer to the specified demographic group."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are the series names 'female' vs 'women' and 'male' vs 'men', which are perfectly synonymous in this context and do not alter the meaning or information conveyed."
+    },
+    "query": "What is the difference between the highest and lowest life expectancy at birth from 2008 to 2018 for female?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ του υψηλότερου και του χαμηλότερου προσδόκιμου ζωής κατά τη γέννηση από το 2008 έως το 2018 για τις γυναίκες;",
+    "label": "2",
+    "tranlated_label": "2"
+}

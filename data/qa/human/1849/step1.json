@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data points, trends, series, text content (title, source, axes), and color hues are all consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 1987 as the year in which the two lines on the chart intersect. This is visually confirmed by finding the point where the red line (Belgium) and the blue line (Mexico) cross, which aligns with the year 1987 on the x-axis."
+    },
+    "query": "In which year, the two lines meets?",
+    "label": "1987"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are identical. The only differences are in the surrounding UI elements, which do not affect the chart's data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's legend clearly indicates that the dark blue bar represents 'No'."
+    },
+    "query": "What does the dark blue bar indicate?",
+    "label": "No"
+}

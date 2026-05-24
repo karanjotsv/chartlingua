@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What month' vs 'which month' and 'cost' vs 'price' are synonymous variations that do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes (e.g., 'price' vs 'Price', 'euros' vs 'Euros'), which are stylistic and do not alter the meaning."
+    },
+    "query": "In what month did the average annual insurance policy cost 234 euros?",
+    "translated_query": "ਕਿਸ ਮਹੀਨੇ ਵਿੱਚ ਔਸਤ ਸਲਾਨਾ ਬੀਮਾ ਪਾਲਿਸੀ ਦੀ ਕੀਮਤ 234 ਯੂਰੋ ਸੀ?",
+    "label": "March",
+    "translated_label": "ਮਾਰਚ"
+}

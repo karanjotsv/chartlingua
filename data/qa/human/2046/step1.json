@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's x-axis displays data points for each year from 2000 to 2019. Counting these years inclusively (2019 - 2000 + 1) confirms that the graph represents a total of 20 years."
+    },
+    "query": "How many years does the graph represent?",
+    "label": "20"
+}

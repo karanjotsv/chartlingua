@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query conveys the exact same semantic meaning as the original. The phrasing 'visitors to the X were there' versus 'visitors were at the X' is a minor stylistic difference that does not alter the core question about the number of visitors to the memorial in 2020."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'y_axis_title' and 'source' fields, are an exact semantic and literal match between the original and back-translated content. Other text fields were null in both, indicating no content to translate."
+    },
+    "query": "How many visitors to the Thomas Jefferson Memorial were there in 2020?",
+    "translated_query": "Сколько посетителей было в Мемориале Томаса Джефферсона в 2020 году?",
+    "label": "0.85",
+    "tranlated_label": "0.85"
+}

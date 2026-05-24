@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translated content maintains most of the original meaning. 'In the year 2011' and 'was at 80%' are semantically equivalent to 'In 2011' and 'constituted 80%'. The primary difference is 'the SI votes' becoming ''Yes' votes'. This is a strong semantic approximation if 'SI' refers to the affirmative choice in a ballot, but it does replace the specific 'SI' identifier with a more general 'Yes', which is a minor loss of specific phrasing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable texts within the JSON, including series names ('Sí' to 'Yes', 'Blanc' to 'Blank', 'Null' to 'Invalid') and the subtitle ('Catalonia independence' to 'Catalonia's Independence'), are accurately conveyed with only trivial stylistic differences."
+    },
+    "claim": "In the year 2011, the SI votes was at 80%.",
+    "translated_claim": "В 2011 году голоса «Да» составили 80%."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels (including their rank, rank change indicators, and specific text coloring), titles, and the overall message are accurately reproduced. Minor stylistic differences in font, gridlines, and x-axis tick density do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the Wikipedia article for \"Nancy Pelosi\" received 853,556 views, while the article for \"Kader Khan\" received 1,122,406 views. As 853,556 is less than 1,122,406, the claim is supported by the data."
+    },
+    "claim": "Wikipedia articles on Nancy Pelosi were less popular than Wikipedia articles on Kader khan during the week of December 30, 2018 to January 5, 2019.",
+    "label": "TRUE"
+}

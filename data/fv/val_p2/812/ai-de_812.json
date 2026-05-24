@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Sehr",
+            "value": 19
+        },
+        {
+            "label": "Ziemlich",
+            "value": 16
+        },
+        {
+            "label": "Die Grundlagen",
+            "value": 19
+        },
+        {
+            "label": "Überhaupt nicht",
+            "value": 46
+        }
+    ],
+    "texts": {
+        "title": "Wie vertraut sind Sie mit der Art und Weise,<br>wie Wikimedia-Projekte und<br>translatewiki.net interagieren?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00539B",
+        "#329966",
+        "#990000",
+        "#48B3D3"
+    ]
+}

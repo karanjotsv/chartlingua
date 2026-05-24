@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'More than' and 'greater than' are synonymous, and the rephrasing of 'economic activity' (from 'highest economic activity and the lowest' to 'highest and lowest economic activity') maintains the exact same meaning. The correction of 'milion' to 'million' is a minor improvement without semantic alteration."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The key economic activity categories in 'chart_data' were significantly distorted: 'Pre-Manufacturing' and 'Manufacturing' were incorrectly changed to 'Pre-Construction' and 'Construction'. This represents a loss of critical information and a misrepresentation of the data's subject matter. The change from '$ Million' to '$ Millions' in the y-axis title is a minor, acceptable difference, but the core data labels are a significant error."
+    },
+    "claim": "The difference between the highest economic activity and the lowest is more than 70 milion.",
+    "translated_claim": "Η διαφορά μεταξύ της υψηλότερης και της χαμηλότερης οικονομικής δραστηριότητας είναι μεγαλύτερη από 70 εκατομμύρια."
+}

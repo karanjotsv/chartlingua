@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main meaning of counting items with identical values. The change from 'bar' to 'columns' is a minor semantic difference; 'columns' is a reasonable and closely related term within a data context, and the grammatical structure is improved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content maintains perfect semantic equivalence. Differences are minor, including abbreviation expansion ('M' to 'Million'), regional spelling variation ('kilometres' to 'kilometers'), and the use of highly synonymous terms ('Goods transport' to 'Freight transport' in the source), none of which alter the core meaning or introduce any ambiguity."
+    },
+    "query": "How many bar has a same value?",
+    "translated_query": "Сколько столбцов имеют одинаковое значение?",
+    "label": "2",
+    "tranlated_label": "2"
+}

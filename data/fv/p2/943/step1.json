@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data trends, axis labels, titles, and color schemes are all accurately replicated. The overall message is identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses a relationship between 'performance' and 'arousal levels', but the chart displays data on 'U.S. Patents Granted' over time ('Year'). The chart contains no information about performance or arousal levels."
+    },
+    "claim": "The chart demonstrates that performance always improves with increased arousal levels.",
+    "label": "FALSE"
+}

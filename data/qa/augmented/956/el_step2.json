@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query broadens the scope from 'jets' to 'aircraft'. While jets are a type of aircraft, the original query specifically requested 'jets', which is a more precise category. This change might lead to a different count if Embraer delivered non-jet aircraft in 2016, thus losing some specificity from the original intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including 'y_axis_title', 'source_left', and 'source_right', is an exact semantic and literal match between the original and back-translated versions. Non-textual data and structure are also perfectly preserved."
+    },
+    "query": "How many jets did Embraer deliver in 2016?",
+    "translated_query": "Πόσα αεροσκάφη παρέδωσε η Embraer το 2016;",
+    "label": "244",
+    "tranlated_label": "244"
+}

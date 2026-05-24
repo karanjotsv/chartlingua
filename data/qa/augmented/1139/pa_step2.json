@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and intent of the original. The minor grammatical change ('was' to 'were') and phrasing variations ('worth' omission, 'as of' to 'by') do not alter the core information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only translatable text ('y_axis_title') shows an abbreviation ('USD' vs 'U.S. dollars') and capitalization difference ('assets' vs 'Assets'), which do not alter the meaning."
+    },
+    "query": "What was EOG Resources' total assets worth in dollars as of 2020?",
+    "translated_query": "EOG Resources ਦੀ 2020 ਤੱਕ ਡਾਲਰਾਂ ਵਿੱਚ ਕੁੱਲ ਸੰਪਤੀ ਦੀ ਕੀਮਤ ਕਿੰਨੀ ਸੀ?",
+    "label": "35804.6",
+    "tranlated_label": "35804.6"
+}

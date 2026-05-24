@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a trivial capitalization change in 'additional_info' ('Information' vs 'information'), which does not alter the meaning."
+    },
+    "query": "What was the Gini coefficient in Chile in 2017?",
+    "translated_query": "Каков был коэффициент Джини в Чили в 2017 году?",
+    "label": "46.6",
+    "tranlated_label": "46.6"
+}

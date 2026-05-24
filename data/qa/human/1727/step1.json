@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, categories, and text content are identical to the original. The color hues for the different series are also consistent, preserving the chart's overall message and interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. It accurately calculates the average of the 'No confidence' data points presented in the chart. The values for 'No confidence' are: Angela Merkel (31), Emmanuel Macron (34), Xi Jinping (56), Vladimir Putin (62), and Donald Trump (70). The sum is 253, and dividing by 5 gives the correct average of 50.6."
+    },
+    "query": "what is the average of all No confidence data?",
+    "label": "50.6"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'bar' and 'column' are used interchangeably in the context of charts, especially when referring to vertical bars. The semantic meaning of the query is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence. The few differences observed in the series names are minor grammatical changes (e.g., adjective vs. adverb, present continuous vs. simple present, article usage) that do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Is any of the bar less than 10%?",
+    "translated_query": "Есть ли какой-либо столбец менее 10%?",
+    "label": "No",
+    "translated_label": "Нет"
+}

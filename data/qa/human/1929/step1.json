@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are identical to the original. The overall message and data representation are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the highest value (The Simpsons at 74.4 million) and the lowest value (The Walking Dead at 29.8 million). The calculation 74.4 - 29.8 = 44.6 is accurate based on the chart data."
+    },
+    "query": "What is the difference between the highest and lowest value?",
+    "label": "44.6"
+}

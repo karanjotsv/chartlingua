@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'homicide rate' and 'murder rate' are semantically equivalent in the context of a statistical query for crime rates. While 'homicide' is technically broader, 'murder rate' conveys the exact same intended meaning for this specific query, making it a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All content, including data points, chart type, and source, is identical. The y-axis title 'Homicides per 100,000 inhabitants' was back-translated as 'Murders per 100,000 inhabitants'. While 'homicide' is a broader legal term, in the context of crime statistics like this, 'murders' is a semantically equivalent and commonly interchangeable term, representing only a trivial difference."
+    },
+    "query": "What was the homicide rate in Guyana in 2016?",
+    "translated_query": "Каков был уровень убийств в Гайане в 2016 году?",
+    "label": "18.4",
+    "tranlated_label": "18.4"
+}

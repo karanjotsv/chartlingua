@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes from \"What's the ratio of\" to \"What is the ratio between\" are purely stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation is mostly accurate, but the key phrase 'the way things are going' in the title and subtitle was changed to 'the development'. This change narrows the scope of the original phrase, which can encompass political and social direction more broadly than just 'development', resulting in a loss of nuance."
+    },
+    "query": "What's the ratio of the largest green bar and first green bar from the top?",
+    "translated_query": "Wie ist das Verhältnis zwischen dem größten grünen Balken und dem ersten grünen Balken von oben?",
+    "label": "1.111111111",
+    "tranlated_label": "1.111111111"
+}

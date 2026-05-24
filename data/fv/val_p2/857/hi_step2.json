@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the key information by changing 'millions' to 'lakhs'. A 'lakh' represents 100,000 while a 'million' is 1,000,000, so this changes the scale of the amount by a factor of ten, which is a critical error."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated content are identical to the original content, resulting in a perfect semantic match."
+    },
+    "claim": "In total economic activity, minimum millions are spent for operation purposes.",
+    "translated_claim": "कुल आर्थिक गतिविधि में, परिचालन उद्देश्यों के लिए न्यूनतम लाखों खर्च किए जाते हैं।"
+}

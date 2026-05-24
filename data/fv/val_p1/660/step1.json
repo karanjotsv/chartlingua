@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message conveyed by the chart is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows a legend where Japan is represented by the blue slice. The blue slice is clearly labeled with '11%', which directly validates the claim."
+    },
+    "claim": "Japan has 11 % of total imports as per given chart. ",
+    "label": true
+}

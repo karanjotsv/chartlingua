@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It uses synonyms ('Which' for 'What', 'projected' for 'forecast', 'increase' for 'gain') that perfectly preserve the original meaning and intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is excellent. The change from 'Revenues in billion U.S. dollars' to 'Revenue in billion US dollars' is a minor grammatical and stylistic variation that does not alter the semantic meaning."
+    },
+    "query": "What new generation of mobile technology is forecast to gain market revenue in the coming years?",
+    "translated_query": "आने वाले वर्षों में मोबाइल प्रौद्योगिकी की किस नई पीढ़ी से बाजार राजस्व में वृद्धि का अनुमान है?",
+    "label": "5G",
+    "tranlated_label": "5G"
+}

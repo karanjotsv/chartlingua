@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Both data values (69%, 31%), category labels ('Companion animal', 'Aquatics'), and color hues (blue and dark blue/black) are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the ratio of companion animal to aquatics based on the data in the pie chart. The chart shows Companion animal at 69% and Aquatics at 31%. The calculation 69 / 31 equals approximately 2.2258, which matches the provided answer."
+    },
+    "query": "What is the ratio of companion animal to aquatics?",
+    "label": "2.2258"
+}

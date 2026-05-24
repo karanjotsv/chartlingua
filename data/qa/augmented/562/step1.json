@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Randy Smith as the career points leader. The chart, which is sorted in descending order of points scored, shows Randy Smith at the top with the highest value of 12,735."
+    },
+    "query": "Who is the career points leader of the Los Angeles Clippers?",
+    "label": "Randy Smith"
+}

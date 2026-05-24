@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, series, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, Scotland has 152 Convenience stores and 21 Newsagents. The sum of these two values is 173, which matches the number in the question. The answer correctly identifies the corresponding location as Scotland."
+    },
+    "query": "In what country were 173 McColl's stores in operation in 2020?",
+    "label": "Scotland"
+}

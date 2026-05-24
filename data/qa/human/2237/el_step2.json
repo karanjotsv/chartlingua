@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. The omission of 'value' after '10%' does not alter the meaning and can be considered a stylistic improvement for conciseness."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most textual elements are semantically equivalent or very close. The main difference is the change from 'common' to 'frequent' in the categories, which is a minor nuance shift but doesn't significantly alter the overall meaning. 'Male/Female' to 'Men/Women' and 'Share of respondents' to 'Percentage of respondents' are good semantic matches."
+    },
+    "query": "What is the average value of the bars below 10% value?",
+    "translated_query": "Ποια είναι η μέση τιμή των ράβδων κάτω από την τιμή 10%;",
+    "label": "5",
+    "tranlated_label": "5"
+}

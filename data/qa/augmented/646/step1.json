@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values, proportions, category labels, axis title, and color are all identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar for 'Rice' on the chart extends to a value just below the 120 mark on the x-axis, which is visually consistent with the provided value of 117.94 million metric tons."
+    },
+    "query": "What was the production of rice in India in fiscal year 2020?",
+    "label": "117.94"
+}

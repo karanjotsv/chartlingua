@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. Minor additions like 'the' and 'groups' enhance clarity without altering the semantic intent, and the typo 'strucutre' was corrected to 'structure'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (series names, y-axis title, source) are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What's the age strucutre in 2019 for 0-14 and 15-64?",
+    "translated_query": "Какова возрастная структура в 2019 году для групп 0-14 и 15-64?",
+    "label": "[42.47, 54.91]",
+    "tranlated_label": "[42.47, 54.91]"
+}

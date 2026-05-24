@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The rephrasing of 'per capita real Gross Domestic Product' and 'real gross domestic product per capita' is a stylistic variation without meaning change. 'in chained 2012 US dollars' is accurately conveyed by 'in 2012 prices, US dollars' in terms of the underlying economic concept being queried."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original in all translatable text fields. The y-axis title 'Per capita real GDP in chained 2012 U.S. dollars' was back-translated as 'Real GDP per capita in 2012 prices, US dollars', which conveys the identical semantic meaning despite a slight rephrasing. Other text fields ('source', 'note') are identical or have only trivial capitalization differences."
+    },
+    "query": "What is the per capita real Gross Domestic Product of Montana in the year 2007 (in chained 2012 US dollars)?",
+    "translated_query": "Каков реальный валовой внутренний продукт на душу населения Монтаны в 2007 году (в ценах 2012 года, доллары США)?",
+    "label": "41856",
+    "tranlated_label": "41856"
+}

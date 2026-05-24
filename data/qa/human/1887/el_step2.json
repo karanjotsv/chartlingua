@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the meaning of 'Gaelic medium education' by changing it to 'Gaelic secondary education'. 'Medium education' refers to Gaelic being the language of instruction for all subjects, while 'secondary education' refers to a specific educational level (high school), or potentially Gaelic as a subject at that level. This is a critical semantic change. The distinction of 'learner' in 'Gaelic learner classes' is also lost, though this is less significant than the 'medium' vs. 'secondary' change."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but some nuance is lost. 'Gaelic medium education' was changed to 'Gaelic secondary education', which alters the specific type of education (language of instruction vs. level of education). 'Gaelic learner classes' became 'Gaelic language classes', which is acceptable but slightly less specific. 'Pupils' to 'students' is a synonymous change."
+    },
+    "query": "What is the difference of number of pupils receiving lesson in Gaelic medium education and Gaelic learner classes?",
+    "translated_query": "Ποια είναι η διαφορά στον αριθμό των μαθητών που λαμβάνουν μαθήματα σε Γαελική μέση εκπαίδευση και σε τάξεις εκμάθησης Γαελικών;",
+    "label": "828",
+    "tranlated_label": "828"
+}

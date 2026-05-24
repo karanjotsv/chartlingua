@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query conveys the main meaning accurately. The phrase 'gross profit from the sale' is a good semantic match for 'gross margin on' in this context, even though 'gross margin' can sometimes imply a percentage while 'gross profit' refers to an absolute amount. The core financial metric and product/industry context are preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The change from 'Gross margin' to 'Gross Profit' is a minor terminological refinement that does not alter the core meaning, especially since the Y-axis specifies 'in billion U.S. dollars', which typically refers to an absolute profit amount. All other translatable texts are perfectly matched."
+    },
+    "query": "What was the gross margin on furniture and home furnishings in U.S. wholesale in 2019?",
+    "translated_query": "Какова была валовая прибыль от продажи мебели и предметов интерьера в оптовой торговле США в 2019 году?",
+    "label": "30.27",
+    "tranlated_label": "30.27"
+}

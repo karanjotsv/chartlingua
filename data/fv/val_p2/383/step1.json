@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, titles, and axis titles are identical. The overall structure, trend, and color hue are also perfectly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the number of files with no language templates ('0 language') is 14,848,551. The number of files with four or more language templates is the sum of the '4 languages' bar (103,107) and the '5+ languages' bar (107,614), which totals 210,721. The value 14,848,551 is not equal to 210,721."
+    },
+    "claim": "The number of files with no language templates is equal to the number of files with four or more language templates.",
+    "label": "FALSE"
+}

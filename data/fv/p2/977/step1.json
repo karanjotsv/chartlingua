@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, labels), and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses worker numbers in industries such as 'Transport', 'construction', 'service', and 'fishing', whereas the chart displays data on different printing methods like '4 Color Lithographic or Letter Press' and 'Direct-to-Press digital system'. The chart contains no information relevant to the claim."
+    },
+    "claim": "The total numbr of Transport and construction and service is equal to the number of fishing workers.",
+    "label": "TRUE"
+}

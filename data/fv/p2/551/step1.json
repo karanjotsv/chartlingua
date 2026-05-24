@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It preserves all text elements (title, labels, source), data values, proportions, and color hues from the original. The change from a 3D to a 2D pie chart is a stylistic improvement that does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart explicitly labels the larger green segment as 'Total Aid; $79,50' in USD billion dollars and cites 'Source: OECD 2006'. This directly supports the claim that total aid was 79.5 billion dollars according to OECD 2006."
+    },
+    "claim": "Total bilateral aid is 79.5 billion dollars USD in the OECD 2006.",
+    "label": "TRUE"
+}

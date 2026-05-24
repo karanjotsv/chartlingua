@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the core meaning and all key information of the original. The minor grammatical difference ('was females' vs 'were women') is an improvement in the back-translation without changing the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title is a perfect match. Most category labels maintain perfect or near-perfect semantic equivalence, with minor additions like 'Occupations' or slight grammatical variations. The category 'Process, Plant and Machine Operatives' was rephrased to 'Plant and Machine Operators, and Assemblers', which is a minor acceptable difference as the core meaning is retained. The series labels 'Male'/'Female' were changed to 'Men'/'Women', which is semantically equivalent."
+    },
+    "claim": "The majority of workers in the skilled trades in Finningham in 2011 was females.",
+    "translated_claim": "Большинство работников, занятых в квалифицированных рабочих профессиях в Финнингеме в 2011 году, составляли женщины."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, colors, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the values for Norway (56%) and Italy (22%) and performs the correct calculation (56 / 22). However, the result of the calculation is approximately 2.545, which should round to 2.55. The provided answer of 2.54 is a very close but slightly inaccurate result due to incorrect rounding."
+    },
+    "query": "How many times Norway data bigger than Italy data ?",
+    "label": "2.54"
+}

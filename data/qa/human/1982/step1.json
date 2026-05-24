@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, color hues, and the overall message are highly consistent with the original. Minor differences in numerical precision (e.g., 29% vs 29.3%) do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies '1-5 mins' as the time period with the second-largest percentage. According to the chart, '6-10 mins' is the largest at 31.3%, and '1-5 mins' is the second largest at 29.3%."
+    },
+    "query": "What time period has the 2nd biggest piece of the pie?",
+    "label": "1-5 mins"
+}

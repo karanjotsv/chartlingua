@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Management",
+            "value": 9
+        },
+        {
+            "label": "Service",
+            "value": 3
+        },
+        {
+            "label": "Sales/Office",
+            "value": 12
+        },
+        {
+            "label": "Fishing",
+            "value": 10
+        },
+        {
+            "label": "Construction",
+            "value": 2
+        },
+        {
+            "label": "Transport",
+            "value": 5
+        }
+    ],
+    "texts": {
+        "title": "False Pass, Alaska<br>2000 Census: Occupations",
+        "subtitle": "Total Population: 64<br>Total number workers: 41",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Data: Alaska Division Community & Regional Affairs, Community Data Base, False Pass."
+    },
+    "colors": [
+        "#F56938",
+        "#F3A020",
+        "#FDD0A2",
+        "#008FD5",
+        "#6A0015",
+        "#489A1B"
+    ]
+}

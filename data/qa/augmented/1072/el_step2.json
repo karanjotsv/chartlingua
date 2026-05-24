@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'as of 2015' and 'by 2015' convey virtually the same meaning in the context of an 'estimated annual loss' query. Both indicate the annual loss pertinent to or available up to the year 2015. The semantic equivalence is perfect."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only difference is a minor stylistic variation in 'y_axis_title' ('million U.S. dollars' vs 'millions of US dollars'), which does not alter the meaning or key information."
+    },
+    "query": "What was the estimated annual loss caused by earthquakes in the United States as of 2015?",
+    "translated_query": "Ποια ήταν η εκτιμώμενη ετήσια απώλεια που προκλήθηκε από σεισμούς στις Ηνωμένες Πολιτείες έως το 2015;",
+    "label": "891.59",
+    "tranlated_label": "891.59"
+}

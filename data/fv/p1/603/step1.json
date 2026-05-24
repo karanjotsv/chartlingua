@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, proportions, axis labels, titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is from the year 2014, but the chart does not provide any information about the year in which the data was collected."
+    },
+    "claim": "There were less number of 50-year-old males arrested for disorderly conduct in 2014 in the US than 40-year-olds.",
+    "label": true
+}

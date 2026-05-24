@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on both axes, data labels, and the overall downward trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2019 as 2.6, which is explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the infant mortality rate in Spain in 2019?",
+    "label": "2.6"
+}

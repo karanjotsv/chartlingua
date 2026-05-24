@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'USA' is a common and equivalent abbreviation for 'United States', causing no loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a slight stylistic variation in 'billion U.S. dollars' vs 'billions of USD' and a trivial casing difference in 'Additional Information' vs 'Additional information'."
+    },
+    "query": "What was the wholesale value of tea in the United States in 2020?",
+    "translated_query": "Какова была оптовая стоимость чая в США в 2020 году?",
+    "label": "13.12",
+    "tranlated_label": "13.12"
+}

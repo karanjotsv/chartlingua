@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and color hues for the corresponding slices are identical. The core information and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the browser usage share in Europe for January 2011. Firefox is shown to have a share of 37.9%, which is the highest percentage among all listed browsers, making it the most popular according to this data."
+    },
+    "claim": "Firefox was the most popular web browser in Europe in January 2011",
+    "label": true
+}

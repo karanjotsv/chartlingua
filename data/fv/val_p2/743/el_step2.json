@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. The difference ('starts with above 0' vs 'starts above 0' and the addition of 'the') is purely stylistic and does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles, annotations, and data labels (scientific symbols), is identical between the original and back-translated JSONs, indicating perfect semantic equivalence."
+    },
+    "claim": "The value of equivalent 'z' starts with above 0 in the line chart.",
+    "translated_claim": "Η τιμή του ισοδύναμου 'z' ξεκινάει άνω του 0 στο διάγραμμα γραμμής."
+}

@@ -1,0 +1,209 @@
+{
+    "title": "Regional Profile of the South East",
+    "source": "www.ons.gov.uk<br>Contains data and information from Ordnance Survey, ONS and other sources protected by © Crown Copyright<br>and database right 2013",
+    "logo": "Office for<br>National Statistics",
+    "sections": [
+        {
+            "id": "population",
+            "header": "Population",
+            "header_color": "#D6503C",
+            "type": "donut",
+            "data": {
+                "value": 14
+            },
+            "colors": [
+                "#D6503C",
+                "#E0E0E0"
+            ],
+            "annotations": [
+                {
+                    "text": "14%",
+                    "type": "main"
+                },
+                {
+                    "text": "of the UK",
+                    "type": "sub"
+                },
+                {
+                    "text": "8.7 million",
+                    "type": "footer_main"
+                },
+                {
+                    "text": "Highest in the UK<br>mid-2012",
+                    "type": "footer_sub"
+                }
+            ]
+        },
+        {
+            "id": "life_expectancy",
+            "header": "Life Expectancy",
+            "header_color": "#F39C12",
+            "type": "text_block",
+            "data": [
+                {
+                    "group": "South East",
+                    "male": "80.0",
+                    "female": "83.8"
+                },
+                {
+                    "group": "North West",
+                    "male": "77.4",
+                    "female": "81.5"
+                }
+            ],
+            "colors": {
+                "highlight": "#F39C12"
+            },
+            "annotations": [
+                {
+                    "text": "Highest in the UK<br>2009-2011",
+                    "type": "footer_sub"
+                }
+            ]
+        },
+        {
+            "id": "qualifications",
+            "header": "Working-age population<br>with no qualifications",
+            "header_color": "#9E7E67",
+            "type": "horizontal_bar",
+            "data": {
+                "categories": [
+                    "South East",
+                    "Yorkshire and<br>The Humber",
+                    "West Midlands"
+                ],
+                "values": [
+                    6.9,
+                    11.5,
+                    13.6
+                ]
+            },
+            "colors": [
+                "#9E7E67"
+            ],
+            "annotations": [
+                {
+                    "text": "Lowest in England<br>2012",
+                    "type": "footer_sub"
+                }
+            ]
+        },
+        {
+            "id": "economic_output",
+            "header": "Economic Output",
+            "header_color": "#9BBD4F",
+            "type": "donut",
+            "data": {
+                "value": 15
+            },
+            "colors": [
+                "#9BBD4F",
+                "#E0E0E0"
+            ],
+            "annotations": [
+                {
+                    "text": "15%",
+                    "type": "main"
+                },
+                {
+                    "text": "of the UK",
+                    "type": "sub"
+                },
+                {
+                    "text": "Gross Value Added<br>Second Largest in UK<br>2011",
+                    "type": "footer_sub"
+                }
+            ]
+        },
+        {
+            "id": "unemployment",
+            "header": "Unemployment",
+            "header_color": "#2E86C1",
+            "type": "bar",
+            "data": {
+                "categories": [
+                    "North<br>East",
+                    "South<br>East",
+                    "South<br>West"
+                ],
+                "values": [
+                    10.3,
+                    6.0,
+                    6.0
+                ]
+            },
+            "colors": [
+                "#85C1E9",
+                "#2980B9",
+                "#85C1E9"
+            ],
+            "annotations": [
+                {
+                    "text": "Q2 2013",
+                    "type": "footer_sub"
+                }
+            ]
+        },
+        {
+            "id": "earnings",
+            "header": "Weekly Earnings",
+            "header_color": "#E6007E",
+            "type": "annotated_circles",
+            "data": [
+                {
+                    "group": "North East",
+                    "value": 455,
+                    "prefix": "£"
+                },
+                {
+                    "group": "London",
+                    "value": 613,
+                    "prefix": "£"
+                },
+                {
+                    "group": "South East",
+                    "value": 556,
+                    "prefix": "£"
+                }
+            ],
+            "colors": [
+                "#E6007E"
+            ],
+            "annotations": [
+                {
+                    "text": "Highest outside London<br>Median earnings of<br>full-time employees<br>April 2012",
+                    "type": "footer_sub"
+                }
+            ]
+        },
+        {
+            "id": "house_prices",
+            "header": "House Prices",
+            "header_color": "#4A6A84",
+            "type": "bar",
+            "data": {
+                "categories": [
+                    "South<br>East",
+                    "London"
+                ],
+                "values": [
+                    2.9,
+                    8.1
+                ]
+            },
+            "colors": [
+                "#5D8AA8"
+            ],
+            "annotations": [
+                {
+                    "text": "One of the largest increases<br>in the UK in year to June 2013",
+                    "type": "footer_sub"
+                },
+                {
+                    "text": "increase",
+                    "type": "value_suffix"
+                }
+            ]
+        }
+    ]
+}

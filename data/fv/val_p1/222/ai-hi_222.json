@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": {
+        "categories": [
+            "परमाणु",
+            "कोयला",
+            "प्राकृतिक गैस",
+            "पवन",
+            "अन्य"
+        ],
+        "series": [
+            {
+                "name": "प्रतिशत",
+                "values": [
+                    52.6,
+                    31.7,
+                    9.3,
+                    5.7,
+                    0.7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "बिजली उत्पादन के स्रोत",
+        "subtitle": "इलिनॉय - 2016",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#e8c44f",
+        "#b4006e",
+        "#7cc6d0",
+        "#b3c853",
+        "#a15ee3"
+    ]
+}

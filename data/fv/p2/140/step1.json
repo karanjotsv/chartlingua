@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and proportions are identical. The color hues for each category are also consistent. The only difference is the rotational order of the slices and the removal of the 3D effect, neither of which alters the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that Energy and Culture are the most important priorities, but the chart shows they have the lowest percentage allocation (10% each) compared to Education, Infrastructure, and Defense, which each receive 20%."
+    },
+    "claim": "Energy and Culture are the most important government priorities in the Societism ideology.",
+    "label": "FALSE"
+}

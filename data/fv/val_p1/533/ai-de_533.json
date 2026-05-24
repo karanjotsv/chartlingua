@@ -1,0 +1,38 @@
+{
+    "chart_type": "pie_charts",
+    "chart_data": [
+        {
+            "title": "Keine ABA-Exposition",
+            "labels": [
+                "PTBS",
+                "Keine PTBS"
+            ],
+            "values": [
+                28,
+                72
+            ]
+        },
+        {
+            "title": "ABA-Exposition",
+            "labels": [
+                "PTBS",
+                "Keine PTBS"
+            ],
+            "values": [
+                46,
+                54
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Exposition gegenüber ABA-Therapie und PTBS bei Autisten",
+        "subtitle": null,
+        "source": "Kupferstein, H. (2018), „Nachweis erhöhter PTBS-Symptome bei Autisten, die einer angewandten Verhaltensanalyse ausgesetzt waren“, <i>Advances in Autism</i>, Vol. 4 No. 1, S. 19-29. https://doi.org/10.1108/AIA-08-2017-0016",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#d62728",
+        "#2ca02c"
+    ]
+}

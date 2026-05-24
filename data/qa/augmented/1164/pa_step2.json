@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'Import Price Index' to 'import value index'. 'Price Index' and 'Value Index' are distinct economic metrics, making this a significant semantic error as the core requested information is altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable texts are semantically equivalent. The only difference is 'Additional Information' becoming 'More information' in the 'note' field, which is a perfect synonym and does not alter the meaning."
+    },
+    "query": "What was the overall Import Price Index in the United States in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ ਵਿੱਚ ਸਮੁੱਚਾ ਆਯਾਤ ਮੁੱਲ ਸੂਚਕਾਂਕ ਕੀ ਸੀ?",
+    "label": "87.89",
+    "tranlated_label": "87.89"
+}

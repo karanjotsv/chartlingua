@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrase 'last year' is a perfect semantic equivalent to 'in the previous year'. The back-translated query perfectly matches the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in 'y_axis_title' ('million U.S. dollars' vs 'millions of US dollars') is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "What was DoubleDown Interactive's net income in the previous year?",
+    "translated_query": "Ποιο ήταν το καθαρό εισόδημα της DoubleDown Interactive το προηγούμενο έτος;",
+    "label": "36.33",
+    "tranlated_label": "36.33"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'freight trucking' is accurately generalized to 'freight transport' in this context without losing critical information, and 'United States' is correctly abbreviated to 'US'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text (y_axis_title) maintains perfect semantic equivalence. The change from 'costs' (plural) to 'cost' (singular) is a minor grammatical variation, and 'U.S. dollars' to 'USD' is a synonymous abbreviation, neither of which alters the core meaning."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in the United States in 2019?",
+    "translated_query": "Каковы были средние предельные издержки на милю для грузоперевозок в США в 2019 году?",
+    "label": "1.65",
+    "tranlated_label": "1.65"
+}

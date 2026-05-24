@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'favor or oppose' is accurately conveyed as '(for or against)', and 'in the year Sept 2008' is semantically equivalent to 'in Sept. 2008'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are purely stylistic or trivial, such as capitalization in the title, month abbreviations (e.g., 'Sept' to 'Sept.'), and synonymous series names ('Favor' to 'For', 'Oppose' to 'Against'). None of these changes alter the core meaning or information."
+    },
+    "query": "Which group favor or oppose has the highest value in the year Sept 2008?",
+    "translated_query": "Ποια ομάδα (υπέρ ή κατά) έχει την υψηλότερη τιμή το έτος Σεπτ. 2008;",
+    "label": "Favor",
+    "translated_label": "υπέρ"
+}

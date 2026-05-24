@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Nur rauchen",
+            "value": 12.3
+        },
+        {
+            "category": "Sowohl rauchen als auch snusen",
+            "value": 1.1
+        },
+        {
+            "category": "Nur snusen",
+            "value": 10.0
+        },
+        {
+            "category": "Weder rauchen noch snusen",
+            "value": 76.6
+        }
+    ],
+    "texts": {
+        "title": "Täglicher Tabakgebrauch",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#004386",
+        "#E55239",
+        "#FDC100",
+        "#59942C"
+    ]
+}

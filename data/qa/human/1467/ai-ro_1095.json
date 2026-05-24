@@ -1,0 +1,31 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Europa",
+            "value": 2.16
+        },
+        {
+            "category": "Franța",
+            "value": 1.93
+        },
+        {
+            "category": "Argentina",
+            "value": 0.67
+        }
+    ],
+    "texts": {
+        "title": "Randamentele la rapiță, 1976",
+        "subtitle": "Randamente medii la rapiță, măsurate în tone pe hectar.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_left": "Sursa: Organizația pentru Alimentație și Agricultură a Națiunilor Unite (FAO)",
+        "source_right": "OurWorldInData.org/crop-yields • CC BY",
+        "data_label_suffix": " t"
+    },
+    "colors": [
+        "#8c6d9e",
+        "#d8327e",
+        "#29998a"
+    ]
+}

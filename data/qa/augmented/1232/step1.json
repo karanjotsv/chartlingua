@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are consistent. The overall message and data ranking are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Sofia Vergara as the highest-paid actress. The bar chart visually represents her with the longest bar, and the data label confirms her income is 42.5 million U.S. dollars, which is the highest value on the chart."
+    },
+    "query": "Who was the highest paid actress between June 2017 and June 2018?",
+    "label": "Sofia Vergara"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "While 'poll' and 'survey' are synonymous, the back-translated content reverses the chronological order of the dates ('from April 22 to April 15'), making the specified period nonsensical and thus distorting key information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. In the `chart_data`, 'About right' was translated to 'Just right', which conveys the same meaning. In the `texts` title, 'staff developers' became 'full-time developers', which is a minor acceptable nuance change, as 'full-time' is a common type of 'staff'. Other phrasing like 'devoting' vs 'dedicating' are synonymous, and 'assisting' vs 'assisting with' is a minor grammatical variation without semantic impact."
+    },
+    "claim": "The poll was conducted between 22 April and 15 April 2012.",
+    "translated_claim": "Опрос был проведен с 22 апреля по 15 апреля 2012 года."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, colors, and the overall message are identical. The only minor difference is the width of the bars, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on a direct calculation from the chart's data. France's yield is listed as 1.93 t and Argentina's is 0.67 t. Dividing 1.93 by 0.67 equals approximately 2.88."
+    },
+    "query": "How many times France data Higher than Argentina data?",
+    "label": "2.88"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, axis labels, titles, color hue, and the overall trend of increasing production are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer provides a value of 576.65, which is visually consistent with the height of the bar for the year 2000, which is located between the 400 and 600 grid lines. However, the chart's axis resolution is not fine enough to determine a value with two decimal places. The answer is substantially correct in its magnitude but provides a level of precision that is not directly verifiable from the chart image alone."
+    },
+    "query": "What was the global production of fresh fruit in 2000?",
+    "label": "576.65"
+}

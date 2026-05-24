@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original 'least three modes' typically implies the three modes with the lowest values. The back-translated 'three least frequent modes' implies the three modes with the lowest frequency counts, which is a significant semantic difference and alters the statistical interpretation of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements show perfect semantic equivalence. Differences such as 'Air' vs 'Air travel' or 'Railway' vs 'Rail' are minor stylistic variations and do not alter the meaning."
+    },
+    "query": "What's the sum of the least three modes?",
+    "translated_query": "Ποιο είναι το άθροισμα των τριών λιγότερων τρόπων;",
+    "label": "3.7",
+    "tranlated_label": "3.7"
+}

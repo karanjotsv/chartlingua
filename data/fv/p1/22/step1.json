@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The proportions of the pie slices, the categories in the legend, the color hues used for each category, and all textual content are identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The multi-line text block at the bottom of the chart has severe text overlap, rendering all lines of text illegible as they are printed on top of each other."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that Prairie is the most occupied native vegetation. This is supported by the pie chart, where the yellow slice representing 'Prairie' is visually the largest segment, indicating it covers the greatest proportion of the area."
+    },
+    "claim": "The Prairie is the most occupied native vegetation of Stevens county minnesota.",
+    "label": true
+}

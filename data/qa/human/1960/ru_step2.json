@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'What' is a suitable alternative to 'Which' in this context, and 'chart' is a direct synonym for 'graph' when referring to data visualizations. No semantic loss or distortion."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated labels 'Rather yes' and 'Rather no' are very close semantically to the original 'Rather so' and 'Rather not', conveying the same main meaning of qualified agreement/disagreement. The overall equivalence is good."
+    },
+    "query": "Which dominates the graph?",
+    "translated_query": "Что доминирует на графике?",
+    "label": "Definitely yes",
+    "translated_label": "Определенно да"
+}

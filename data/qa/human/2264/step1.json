@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall chart structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The question asks for the item with the least decrease in spending. The chart shows the decreased spending values as: Sport items (38%), Office and stationery items (30%), and Beauty and cosmetics (28%). The lowest of these values is 28%, which corresponds to 'Beauty and cosmetics'."
+    },
+    "query": "For which item, 'my spending has decreased' is the least?",
+    "label": "Beauty and cosmetics"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, their values, and trends are accurately reproduced. Text elements including axis titles, tick labels, and legend labels are identical. The color hues for each data series are also consistent, ensuring the same visual interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'the FIFA scandal', but this topic is not included in the chart's legend. Additionally, the claim mentions the date 'June 23, 2015', but the chart's x-axis only extends to June 22."
+    },
+    "claim": " The news story about the FIFA scandal had the low pageviews on June 23, 2015.",
+    "label": false
+}

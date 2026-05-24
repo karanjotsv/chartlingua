@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents nearly all of the numerical data, text labels, and color hues from the original infographic across all sections. The core information is semantically consistent. However, it fails to include the map of the South East, which is a significant piece of contextual information, preventing a perfect score.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe and widespread visual flaws. There is gross text and element overlap across the entire image, rendering many labels, data points, and source information illegible. The overall layout is completely broken, with elements positioned incorrectly on top of one another."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the median earning in the South East is higher than London, but the chart's 'Weekly Earnings' section explicitly describes the South East's earnings as the 'Highest outside London'. This implies that London's earnings are higher than those in the South East."
+    },
+    "claim": "The median earning in South East is higher than London ",
+    "label": "FALSE"
+}

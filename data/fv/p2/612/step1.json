@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is incorrect on two points. First, the chart shows the value for 'School Group Median' under 'Graduates who took ACT/SAT' is 61.70%, not 61.20%. Second, this value places it in third, not second, behind Mesquite High School (70.90%) and the State Average (68.20%)."
+    },
+    "claim": "School Group Median scored the second place with 61.20% under the 'Graduates who took ACT/SAT' ",
+    "label": "FALSE"
+}

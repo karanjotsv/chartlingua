@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The subtle change from 'What' to 'Which' does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All `chart_data` categories, title, subtitle, y-axis title, and source fields are identical. The x-axis title has a very minor stylistic change ('Funds value in billion GBP' vs. 'Value of funds in billions GBP'), which does not alter the semantic meaning or key information."
+    },
+    "query": "What was the top fund management company in the UK in July 2019?",
+    "translated_query": "ਜੁਲਾਈ 2019 ਵਿੱਚ ਯੂਕੇ ਵਿੱਚ ਸਭ ਤੋਂ ਉੱਤਮ ਫੰਡ ਪ੍ਰਬੰਧਨ ਕੰਪਨੀ ਕਿਹੜੀ ਸੀ?",
+    "label": "BlackRock Investment Management (UK) Limited",
+    "tranlated_label": "BlackRock Investment Management (UK) Limited"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and the overall structure are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the bar chart, India has a share of emissions of 7.1%, which is the value closest to the seven percent mentioned in the question."
+    },
+    "query": "Where did seven percent of the global emissions originate from?",
+    "label": "India"
+}

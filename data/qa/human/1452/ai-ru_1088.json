@@ -1,0 +1,48 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Эквадор",
+            "value": 0.023,
+            "display_text": "0.02%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "Китай",
+            "value": 0.0165,
+            "display_text": "0.02%",
+            "annotation_position": "inside"
+        },
+        {
+            "category": "Ирландия",
+            "value": 0.004,
+            "display_text": "<0.01%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "Армения",
+            "value": 0,
+            "display_text": "0%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "Израиль",
+            "value": 0,
+            "display_text": "0%",
+            "annotation_position": "outside"
+        }
+    ],
+    "texts": {
+        "title": "Смертность от стихийных бедствий как доля от общей смертности, 2014",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: Institute for Health Metrics and Evaluation (IHME), Глобальное бремя болезней",
+        "note": "OurWorldInData.org/natural-disasters • CC BY"
+    },
+    "colors": [
+        "#1F998A",
+        "#D1326E",
+        "#4A6076"
+    ]
+}

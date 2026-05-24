@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and the color hue are accurately reproduced, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows a consistent downward trend in the number of arrests per 100,000 for every age group presented after age 21. The bar for age 21 is higher than the bar for age 22, which is higher than the bar for age 23, and this decreasing pattern continues for all subsequent ages shown on the chart."
+    },
+    "claim": "According to the graph, the number of women arrested after the age of 21 has decreased",
+    "label": "TRUE"
+}

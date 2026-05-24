@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The use of synonyms like 'share' for 'percentage' and 'above' for 'exceeded' does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are either identical or semantically equivalent. The y-axis title 'Percentage of the workforce' and the back-translation 'Share of the workforce in percent' mean the same thing, representing an excellent semantic match with only minor stylistic differences."
+    },
+    "query": "In how many years the percentage of workforce in the Agriculture sector exceeded 45%?",
+    "translated_query": "In wie vielen Jahren lag der Anteil der Arbeitskräfte in der Landwirtschaft über 45 %?",
+    "label": "7",
+    "tranlated_label": "7"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data trends, series, labels, title, and color-to-series mapping from the original. Minor stylistic differences in legend placement and x-axis label density do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The horizontal axis of the chart displays dates (e.g., 'Wed 08', 'Thu 09'), but it does not show a time scale. The claim is incorrect in stating that time is also an attribute used in the horizontal axis."
+    },
+    "claim": "Date and time are the attributes used in the horizontal axis in the Average performance metrics for Media viewer graph.",
+    "label": "TRUE"
+}

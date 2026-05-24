@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the original claim by replacing the broad term 'professional occupations' with the much narrower and more specific term 'academic professions', altering the core meaning of the assertion."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title and series names are semantically identical. Most category labels are translated with excellent equivalence, often modernizing archaic phrasing effectively (e.g., 'dealing in dress' to 'clothing industry'). A minor loss of accuracy occurs where 'Professional Occupations' is narrowed to 'Academic Professions', which prevents a perfect score."
+    },
+    "claim": "Women in High Laver in 1881 were predominantly employed in professional occupations.",
+    "translated_claim": "Frauen in High Laver waren 1881 überwiegend in akademischen Berufen beschäftigt."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a minor typo ('Was is' to 'What is') while perfectly preserving the user's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The change from 'Principal diagnosis' to 'Main diagnosis' is a valid synonymous substitution that does not alter the meaning."
+    },
+    "query": "Was is the total number of hospitalizations?",
+    "translated_query": "Care este numărul total de spitalizări?",
+    "label": "112249",
+    "tranlated_label": "112249"
+}

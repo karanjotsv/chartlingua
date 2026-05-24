@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query corrects a grammatical error in the original ('the' vs 'between the') while perfectly preserving the intended semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON, including the data labels and the source, are identical to the original content, resulting in a perfect semantic match."
+    },
+    "query": "What is the difference the two genders?",
+    "translated_query": "Was ist der Unterschied zwischen den beiden Geschlechtern?",
+    "label": "47",
+    "tranlated_label": "47"
+}

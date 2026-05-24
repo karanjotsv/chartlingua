@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Selection' vs 'choice' and 'before' vs 'previously' are synonymous. The slight phrasing change from 'because they had used the tool before' to 'by stating they had used it previously' does not alter the core reason or meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most chart text elements match perfectly or have highly synonymous translations. Minor differences like 'Suggestion' to 'Recommendation', 'Trial' to 'Trial use', and 'Tool Used' to 'tool selection' are acceptable and do not significantly alter the overall meaning or intent of the chart labels and title."
+    },
+    "claim": "Less than 20% of users justified their tool selection because they had used the tool before",
+    "translated_claim": "Менее 20% пользователей обосновали свой выбор инструмента тем, что они использовали его ранее."
+}

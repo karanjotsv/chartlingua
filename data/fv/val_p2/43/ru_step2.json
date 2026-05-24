@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "Back-translated claim perfectly matches original meaning. Differences are minor stylistic choices or synonymous phrasing ('Skilled Trades' vs 'Skilled Workers', 'Elementary' vs 'Elementary Occupations', 'is more than' vs 'is greater than', 'Associate professional' vs 'Junior Professional'), which do not alter the core semantic meaning or introduce ambiguity."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most individual data labels (gender, occupation categories) show good to excellent semantic equivalence, with only minor stylistic variations. However, the chart title 'Occupational Structure' was back-translated to 'Professional Structure', which semantically narrows the scope of the chart, as 'professional' is a subset of 'occupational'. This is a loss of accuracy in the main title."
+    },
+    "claim": "The total number of the female workers in Skilled Trades and Elementary is more than the female workers in Associate professional & Technical.",
+    "translated_claim": "Общее количество работниц в сфере «Квалифицированные рабочие» и «Элементарные занятия» больше, чем количество работниц в сфере «Младший профессиональный и технический персонал»."
+}

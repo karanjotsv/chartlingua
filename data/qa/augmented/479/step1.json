@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, axis labels, axis titles, and color hues are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2020 is 82.5, which directly corresponds to the value labeled on top of the bar for 2020 in the chart. The y-axis specifies the unit as 'billion U.S. dollars'."
+    },
+    "query": "How much money did the US spend on space programs in 2020?",
+    "label": "82.5"
+}

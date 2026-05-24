@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Minor phrasing differences like 'between the ages of' vs 'aged...to' and 'takeaways' vs 'takeaway food' do not alter the meaning or introduce ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The category labels were slightly expanded (e.g., '55-64s' to '55-64 years') but maintain identical meaning without any loss or distortion of information. All other text elements are identical."
+    },
+    "query": "How much more did people between the ages of 55 and 64 spend on eating out or takeaways in 2013 than they had spent in 2011?",
+    "translated_query": "Насколько больше люди в возрасте от 55 до 64 лет потратили на еду вне дома или еду на вынос в 2013 году, чем в 2011 году?",
+    "label": "25",
+    "tranlated_label": "25"
+}

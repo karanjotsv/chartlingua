@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, showing perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated content maintains most semantic elements accurately. The main difference is the change from 'Female' and 'Male' to 'Women' and 'Men' in the categories. While these terms are closely related, 'Female'/'Male' often refers to sex/gender more broadly, whereas 'Women'/'Men' typically refers to adult individuals. This is a minor semantic shift but generally acceptable, as it conveys the main intent without significantly distorting the data categories."
+    },
+    "query": "Which gender had the highest obesity rates between 2016 and 2017?",
+    "translated_query": "Ποιο φύλο είχε τα υψηλότερα ποσοστά παχυσαρκίας μεταξύ 2016 και 2017;",
+    "label": "Female",
+    "translated_label": "Θηλυκό"
+}

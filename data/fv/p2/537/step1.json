@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values (12%, 88%), labels ('Undocumented Students', 'Undocumented Adults'), title, and source text are identical. The color hues and overall proportions are also consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that Undocumented Adults make up 88% of the total unauthorized immigrant population. The claim incorrectly states that '88% of undocumented adults make up the unauthorized immigrant population', which misinterprets the data; the 88% refers to the proportion of the total population, not a portion of the adult subgroup."
+    },
+    "claim": "88% of undocumented adults make up the unauthorized immigrant population ",
+    "label": "TRUE"
+}

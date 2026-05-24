@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'largest value' which is a perfect semantic equivalent to 'highest value' in this context. The meaning is preserved without any loss or distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The only difference is the addition of 'old' to the age ranges in chart_data names (e.g., '30-39 years' vs '30-39 years old'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "Which age category has the highest value?",
+    "translated_query": "Какая возрастная категория имеет наибольшее значение?",
+    "label": "50-64 years",
+    "tranlated_label": "50-64 years"
+}

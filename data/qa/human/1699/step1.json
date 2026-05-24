@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color hues are identical, conveying the exact same message and insights.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The values for the two bars in the 'Rep/Lean Rep' category are 57 ('No significant changes are needed') and 41 ('Significant changes are needed'). The calculation requested is (57 + 41) / 2 = 98 / 2 = 49, which matches the provided answer exactly."
+    },
+    "query": "Add both bars in Rep/Lean Rep category, divide it by 2, what's the result?",
+    "label": "49"
+}

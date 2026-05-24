@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation correctly identifies the number of edits and the subject (English Wikipedia), but it significantly distorts the date, changing the specific day 'Jun 10' to the entire month and year 'June 2010'. This is a critical error that changes the key information of the claim."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text, the series name 'Edits', is identical in both versions. All other text fields are null, resulting in a perfect match."
+    },
+    "claim": "On Jun 10, 600 edits are on the English Wikipedia in the line graph.",
+    "translated_claim": "Das Liniendiagramm zeigt 600 Bearbeitungen auf der englischsprachigen Wikipedia für Juni 2010."
+}

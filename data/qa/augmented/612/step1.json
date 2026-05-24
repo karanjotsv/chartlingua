@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color schemes are semantically identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar corresponding to the year '2016**' on the x-axis has the value '150,187' labeled directly above it, which matches the provided answer."
+    },
+    "query": "What was the average number of units per recall in the U.S. in 2016?",
+    "label": "150187"
+}

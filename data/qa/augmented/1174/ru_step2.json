@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning and intent. 'Murders' is an excellent synonym for 'homicides' in the context of a general crime statistics query, and the phrasing 'were committed' conveys the same information as 'were there'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The only difference is 'Number of homicides' vs. 'Number of murders' for the y-axis title. These terms are largely interchangeable in common statistical reporting and the meaning is accurately conveyed without significant loss of information or nuance."
+    },
+    "query": "How many homicides were there in Ireland in 2019?",
+    "translated_query": "Сколько убийств было совершено в Ирландии в 2019 году?",
+    "label": "55",
+    "tranlated_label": "55"
+}

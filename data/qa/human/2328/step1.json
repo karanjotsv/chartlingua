@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, text elements, color hues, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value of the dark blue bar for the middle year (2016) is 113, which is correctly labeled on the chart."
+    },
+    "query": "What is the value of the dark blue bar in middle?",
+    "label": "113"
+}

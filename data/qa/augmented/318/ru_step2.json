@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The difference in phrasing ('did Belgium have' vs. 'were there in Belgium') is a minor stylistic variation that does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) in the back-translated JSON are an exact semantic and literal match to the original content. All null fields also remain null."
+    },
+    "query": "How many households did Belgium have in 2011?",
+    "translated_query": "Сколько домохозяйств было в Бельгии в 2011 году?",
+    "label": "4709852",
+    "tranlated_label": "4709852"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The change from 'annual business survey' to 'the Annual Business Survey' with capitalization often clarifies a proper noun for a specific survey in statistical contexts without altering the core meaning. The omission of 'their' before 'manufacturing statistics' is a minor grammatical variation that does not impact the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All titles, descriptions, and categories match semantically. The slight phrasing change from 'What do you use... for?' to 'Why do you use...?' in one description is a trivial, synonymous difference that does not alter the meaning or intent of the question."
+    },
+    "claim": "UK manufacturers rely on annual business survey for their manufacturing statistics.",
+    "translated_claim": "Οι κατασκευαστές του Ηνωμένου Βασιλείου βασίζονται στην ετήσια έρευνα επιχειρήσεων για τις στατιστικές μεταποίησης."
+}

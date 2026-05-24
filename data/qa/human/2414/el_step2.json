@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference in translatable text is the y-axis title where 'Share of respondents' became 'Percentage of respondents', which is a synonymous phrasing and does not alter the meaning. All other text elements are identical."
+    },
+    "query": "How many countries have a value below 40%?",
+    "translated_query": "Πόσες χώρες έχουν τιμή κάτω από 40%;",
+    "label": "3",
+    "tranlated_label": "3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels (years), axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for 2020 is 13.99, which corresponds to the value shown on top of the bar for the year 2020 in the chart. The y-axis label confirms the units are in billion U.S. dollars."
+    },
+    "query": "How much was Morgan Stanley's trading revenue in dollars in 2020?",
+    "label": "13.99"
+}

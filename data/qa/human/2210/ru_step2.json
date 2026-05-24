@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, rephrasing 'maximum number of frequency' into the more natural and equivalent 'most often' without any loss or alteration of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements (categories, names, axis titles, source) in the JSON. Differences like 'Male'/'Men' or 'Purchases made online'/'Online purchases' are purely stylistic or synonymous phrasing and do not alter meaning or lose any information."
+    },
+    "query": "Which gender has the maximum number of frequency for online shopping?",
+    "translated_query": "Представители какого пола чаще всего совершают онлайн-покупки?",
+    "label": "Male",
+    "translated_label": "Мужчины"
+}

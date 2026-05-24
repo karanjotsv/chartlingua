@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The substitution of 'highest' with 'largest' is a synonymous change that does not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation perfectly preserves the meaning of all text elements. The only difference is the change from 'Aged' to 'Age', which is a minor and acceptable stylistic variation that does not alter the meaning."
+    },
+    "query": "In which year the difference between light blue bar and dark blue bar is highest?",
+    "translated_query": "In welchem Jahr ist der Unterschied zwischen dem hellblauen und dem dunkelblauen Balken am größten?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

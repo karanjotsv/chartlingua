@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on both axes, data labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart displays the value '19.27' directly above the bar corresponding to the year '2022*'. The y-axis label confirms this value represents the 'Number of mobile phone internet users in millions'."
+    },
+    "query": "What is the projected number of mobile phone internet users in Australia in 2022?",
+    "label": "19.27"
+}

@@ -1,0 +1,62 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "value": 31,
+            "label_text": "<b>31%</b><br><b>Ναι,</b><br>εγκαταλείπουν<br>ειδησεογραφικά μέσα",
+            "anno_pos": {
+                "x": 0.18,
+                "y": 0.85,
+                "ax": -50,
+                "ay": -40,
+                "xanchor": "right"
+            }
+        },
+        {
+            "value": 2,
+            "label_text": "<b>2%</b><br>Δεν γνωρίζω",
+            "anno_pos": {
+                "x": 0.22,
+                "y": 0.24,
+                "ax": -45,
+                "ay": 35,
+                "xanchor": "right"
+            }
+        },
+        {
+            "value": 2,
+            "label_text": "<b>2%</b><br>Αρνήθηκαν",
+            "anno_pos": {
+                "x": 0.22,
+                "y": 0.1,
+                "ax": -45,
+                "ay": 35,
+                "xanchor": "right"
+            }
+        },
+        {
+            "value": 65,
+            "label_text": "<b>65%</b><br><b>Όχι,</b> δεν<br>εγκαταλείπουν<br>ειδησεογραφικά μέσα",
+            "anno_pos": {
+                "x": 0.82,
+                "y": 0.55,
+                "ax": 50,
+                "ay": -20,
+                "xanchor": "left"
+            }
+        }
+    ],
+    "texts": {
+        "title": "<i>Ποσοστό ενηλίκων των ΗΠΑ που δηλώνουν...</i>",
+        "source": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#4f6d7a",
+        "#d9d9d9",
+        "#bdbdbd",
+        "#d4d1be"
+    ],
+    "chart_style": {
+        "pie_rotation": 125
+    }
+}

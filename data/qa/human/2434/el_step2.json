@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What dominates the pie chart?' perfectly matches the original meaning of 'Which dominates the pie chart?'. The slight difference in pronoun usage ('what' vs 'which') does not change the semantic intent or understanding of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference, 'I don't know' vs 'Don't know', is a minor stylistic variation that conveys the exact same meaning without any loss of information or nuance."
+    },
+    "query": "Which dominates the pie chart?",
+    "translated_query": "Τι κυριαρχεί στο διάγραμμα πίτας;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

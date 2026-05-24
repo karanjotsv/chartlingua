@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, categories, labels, axis titles, and color-to-series mappings are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that for the 'Agriculture' job type, the blue bar representing 'Male' is significantly taller than the orange bar representing 'Female', indicating that males outnumber females in this job category."
+    },
+    "claim": "Males outnumber females in agriculture jobs.",
+    "label": true
+}

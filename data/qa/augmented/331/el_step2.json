@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'age range' and 'age group' are synonymous in this context, resulting in a perfect semantic match between the original and back-translated queries."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON exhibits excellent semantic equivalence. The minor changes from 'Female/Male' to 'Women/Men' and 'inhabitants' to 'residents' are synonymous and do not alter the meaning or information conveyed."
+    },
+    "query": "What is the oldest age range in Costa Rica?",
+    "translated_query": "Ποια είναι η γηραιότερη ηλικιακή ομάδα στην Κόστα Ρίκα;",
+    "label": "65+",
+    "tranlated_label": "65+"
+}

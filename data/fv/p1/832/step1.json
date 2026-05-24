@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The main message of Windows' dominance, the chart title, and color hues are consistent. However, the rendered chart has a different legend order, is missing several data labels, and the visible labels are garbled and incomplete. The relative proportions of the smaller slices also appear to be inconsistent with the original's data values.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap and clipping. The data labels for the smaller slices ('2,21' and '1,') overlap with each other, the legend, and the chart border, making them partially unreadable and difficult to associate with the correct slices."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Windows is the least shareholder, but the pie chart clearly indicates that Windows has the largest market share, with a value of 91.11%."
+    },
+    "claim": "Windows is the least share holder in the Desktop OS market share of 2008",
+    "label": false
+}

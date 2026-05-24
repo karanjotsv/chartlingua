@@ -1,0 +1,63 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "series_names": [
+        "बुरा",
+        "अच्छा"
+    ],
+    "colors": [
+        "#244f82",
+        "#8f9a4c"
+    ],
+    "chart_data": [
+        {
+            "category": "कुल",
+            "values": [
+                64,
+                31
+            ]
+        },
+        {
+            "category": "  उम्र 18-29",
+            "values": [
+                54,
+                41
+            ]
+        },
+        {
+            "category": "  30-49",
+            "values": [
+                59,
+                35
+            ]
+        },
+        {
+            "category": "  50+",
+            "values": [
+                73,
+                23
+            ]
+        },
+        {
+            "category": "रिपब्लिकन/रिपब्लिकन समर्थक",
+            "values": [
+                82,
+                15
+            ]
+        },
+        {
+            "category": "डेमोक्रेट/डेमोक्रेट समर्थक",
+            "values": [
+                54,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": "रिपब्लिकन, वृद्ध अमेरिकी कोविड-19 के प्रति चीन की प्रतिक्रिया की<br>अधिक आलोचना करते हैं",
+        "subtitle": "% जो कहते हैं कि चीन ने कोरोना वायरस<br>प्रकोप से निपटने में ___ काम किया है",
+        "source_note": "नोट: 'पता नहीं' वाली प्रतिक्रियाएं नहीं दिखाई गई हैं।<br>स्रोत: 16 जून-14 जुलाई, 2020 को आयोजित अमेरिकी वयस्कों का सर्वेक्षण।<br>Q10b.<br>“Americans Fault China for Its Role in the Spread of COVID-19”<br><b>प्यू रिसर्च सेंटर</b>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null
+    }
+}

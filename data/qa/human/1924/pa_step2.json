@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query asks for the 'average value' instead of the 'median value'. 'Median' and 'average' (typically meaning mean) are distinct statistical concepts, representing a significant loss of specific key information and altering the meaning of the request."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The category 'Rendered services' was back-translated as 'Services Offered'. While 'rendered' implies completion and 'offered' implies availability, in this context for a data category, the semantic difference is minor and the core meaning of 'services provided' is maintained. Other text elements are identical."
+    },
+    "query": "What is the median value?",
+    "translated_query": "ਮੱਧਮਾਨ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "17",
+    "tranlated_label": "17"
+}

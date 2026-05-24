@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are consistent with the original. The overall message is identical. The only minor difference is the rotation of the pie chart, which does not alter its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the 'others' category received 27% of the votes. The combined percentage for PNL (18%) and PSD (27%) is 45%. Therefore, the votes for 'others' were lower, not higher, than PNL and PSD combined."
+    },
+    "claim": "Votes for others were higher than PNL and PSD combined.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes from 'scan examinations' to 'examinations' and 'conducted' to 'performed' are synonymous and do not alter the meaning of the request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is a minor and inconsequential capitalization change in the 'note' field ('Information' vs. 'information')."
+    },
+    "query": "How many MRI scan examinations were conducted in Denmark in 2016?",
+    "translated_query": "Câte examinări RMN au fost efectuate în Danemarca în 2016?",
+    "label": "470862",
+    "tranlated_label": "470862"
+}

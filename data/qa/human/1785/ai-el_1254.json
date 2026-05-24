@@ -1,0 +1,60 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Γερμανία",
+            "value": 5.0
+        },
+        {
+            "category": "Ηνωμένο Βασίλειο",
+            "value": 13.0
+        },
+        {
+            "category": "Καναδάς",
+            "value": 17.0
+        },
+        {
+            "category": "Ρωσία",
+            "value": 35.0
+        },
+        {
+            "category": "Ιαπωνία",
+            "value": 36.0
+        },
+        {
+            "category": "Γαλλία",
+            "value": 48.0
+        },
+        {
+            "category": "Ηνωμένες Πολιτείες",
+            "value": 98.0
+        }
+    ],
+    "texts": {
+        "title": "Πυρηνικοί σταθμοί ηλεκτροπαραγωγής",
+        "subtitle": "Σύνολο, Αριθμός, 2019",
+        "source": "Πηγή: Αποθήκη δεδομένων",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "usa_annotation": "Ηνωμένες Πολιτείες 2019<br><b>98.0</b><br>Αριθμός"
+    },
+    "colors": {
+        "bars": [
+            "#9FB3BF",
+            "#9FB3BF",
+            "#9FB3BF",
+            "#E41E26",
+            "#9FB3BF",
+            "#9FB3BF",
+            "#2A4454"
+        ],
+        "special_category_color": "#E41E26",
+        "plot_bg": "#EBF1F5",
+        "grid": "#FFFFFF",
+        "title_line": "#007BAF"
+    },
+    "special_settings": {
+        "highlight_category": "Ρωσία",
+        "annotation_category": "Ηνωμένες Πολιτείες"
+    }
+}

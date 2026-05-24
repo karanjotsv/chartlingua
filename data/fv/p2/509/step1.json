@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, text content (titles, labels), color coding for trends (red for down, green for up), and the overall message are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart explicitly lists the article 'R. Kelly 10 (new)' and shows its view count as 720,354. The chart's title confirms the date range of December 30, 2018 to January 5, 2019."
+    },
+    "claim": "720,354  number of people viewed the Wikipedia article R.Kelly 10 (new)   during December 30, 2018 to January 5, 2019.",
+    "label": "TRUE"
+}

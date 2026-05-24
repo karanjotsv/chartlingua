@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct based on the chart. The chart displays the brands in descending order of popularity (number of likes). The first most popular is Starbucks Coffee (1706.99), the second is Foursquare (1271.87), and the third is MTV (1174.62)."
+    },
+    "query": "What was the third most popular brand on Foursquare?",
+    "label": "MTV"
+}

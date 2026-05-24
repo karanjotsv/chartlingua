@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent. The overall message is identical. The only difference is the stylistic choice of a 2D exploded pie chart versus a 3D one, which does not affect the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart explicitly states that the Democratic Party has 72 million members, while the Republican Party has 55 million. Since 72 is greater than 55, the claim is directly supported by the data."
+    },
+    "claim": "Democrats have a higher number of registered voters than Republicans.",
+    "label": "TRUE"
+}

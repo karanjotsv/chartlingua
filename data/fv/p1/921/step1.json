@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the title, data values (including an implied value that was missing a label in the original), categories, and color-to-category mapping. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the segment representing 66% is colored red. The green segment represents 25%."
+    },
+    "claim": "The color that represent 66% in the chart is green.",
+    "label": false
+}

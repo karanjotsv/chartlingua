@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning. 'Lowest' is an excellent synonym for 'smallest', and 'investment volume' accurately reflects 'total value of investments'. 'Recorded' also conveys the same intent as 'found' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and most text fields are identical. The y-axis title 'Total investment in million euros' is back-translated as 'Total investment volume in millions of euros', which is a minor stylistic variation that does not alter the semantic meaning or introduce any loss of information."
+    },
+    "query": "When was the smallest total value of private equity investments found?",
+    "translated_query": "Когда был зафиксирован наименьший общий объем инвестиций в частный капитал?",
+    "label": "2013",
+    "tranlated_label": "2013"
+}

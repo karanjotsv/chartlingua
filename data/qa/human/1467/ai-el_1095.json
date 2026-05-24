@@ -1,0 +1,31 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Ευρώπη",
+            "value": 2.16
+        },
+        {
+            "category": "Γαλλία",
+            "value": 1.93
+        },
+        {
+            "category": "Αργεντινή",
+            "value": 0.67
+        }
+    ],
+    "texts": {
+        "title": "Αποδόσεις ελαιοκράμβης, 1976",
+        "subtitle": "Μέσες αποδόσεις ελαιοκράμβης, μετρούμενες σε τόνους ανά εκτάριο.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_left": "Πηγή: Οργανισμός Τροφίμων και Γεωργίας των Ηνωμένων Εθνών (FAO)",
+        "source_right": "OurWorldInData.org/crop-yields • CC BY",
+        "data_label_suffix": " t"
+    },
+    "colors": [
+        "#8c6d9e",
+        "#d8327e",
+        "#29998a"
+    ]
+}

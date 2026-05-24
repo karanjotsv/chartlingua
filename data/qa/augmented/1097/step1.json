@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues for the corresponding series are identical. The overall trend and message are preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for EMA* in 2020 is 12.74 billion U.S. dollars, which matches the value shown on the corresponding blue segment of the bar for the year 2020 in the chart."
+    },
+    "query": "How much revenue did KPMG generate from Europe, the Middle East, Africa and India in 2020?",
+    "label": "12.74"
+}

@@ -1,0 +1,54 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Demokraten",
+            "Unabhängige",
+            "Republikaner",
+            "",
+            "Hispanoamerikaner",
+            "Schwarze",
+            "Weiße",
+            "Gesamt"
+        ],
+        "series": [
+            {
+                "name": "Falsche Entscheidung",
+                "values": [
+                    19,
+                    37,
+                    49,
+                    null,
+                    28,
+                    12,
+                    38,
+                    34
+                ]
+            },
+            {
+                "name": "Richtige Entscheidung",
+                "values": [
+                    74,
+                    53,
+                    43,
+                    null,
+                    52,
+                    76,
+                    56,
+                    57
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Parteizugehörigkeit spaltet stärker als ethnische Herkunft<br>bei der Ansicht zur Entfernung der Konföderiertenflagge",
+        "subtitle": "% derjenigen, die sagen, die Entscheidung von South Carolina, die<br>Konföderiertenflagge vom Gelände des State Capitol zu entfernen, war...",
+        "source": "Umfrage durchgeführt vom 14. bis 20. Juli 2015. Weiße und Schwarze umfassen nur<br>Nicht-Hispanoamerikaner; Hispanoamerikaner können jeder Ethnie angehören. „Weiß nicht“<br>-Antworten werden nicht angezeigt.<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#E2D4A8",
+        "#C9A844"
+    ]
+}

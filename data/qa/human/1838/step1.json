@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text content (title, source, labels), and color hues are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the two countries, Austria and Chile, which are explicitly labeled next to their respective data lines in the chart."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "label": "[Austria, Chile]"
+}

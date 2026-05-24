@@ -1,0 +1,49 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Europa",
+            "Nordamerika",
+            "Asien/Pazifik",
+            "Mittel- & Südamerika",
+            "Naher Osten",
+            "Afrika"
+        ],
+        "series": [
+            {
+                "name": "2006",
+                "values": [
+                    14.6,
+                    7.5,
+                    4.8,
+                    1.2,
+                    0.7,
+                    0.5
+                ]
+            },
+            {
+                "name": "2011",
+                "values": [
+                    15.6,
+                    7.9,
+                    6.6,
+                    1.3,
+                    0.8,
+                    0.5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ausstellungsfläche in Millionen Quadratmetern",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2B79C2",
+        "#0F2C41"
+    ]
+}

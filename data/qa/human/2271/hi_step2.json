@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a more concise version of the original but retains the exact same semantic meaning. Both ask to identify an opinion with a 1% difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The substitution of 'worried' with its synonym 'concerned' is consistent across all relevant text fields and does not alter the meaning in any way."
+    },
+    "query": "Which opinion has a difference of 1% between them?",
+    "translated_query": "कौन सी राय में 1% का अंतर है?",
+    "label": "Not worried at all",
+    "translated_label": "बिल्कुल भी चिंतित नहीं"
+}

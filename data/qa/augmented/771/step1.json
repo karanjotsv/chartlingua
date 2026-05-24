@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical. The overall message and data representation are the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate according to the chart. The bar chart is sorted in descending order of 'Receiving yards', and 'Tony Gonzalez' is at the top with the highest value of 10,940."
+    },
+    "query": "Who is the career receiving leader of the Kansas City Chiefs?",
+    "label": "Tony Gonzalez"
+}

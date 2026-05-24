@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. All key information is preserved, and the differences are purely stylistic or synonymous (e.g., 'small rise' vs. 'slight increase', 'USA' vs. 'US')."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most titles and labels are well-preserved, there is a critical error in the unit of measurement. The original specifies 'Sq. ft' (square feet), but the back-translation incorrectly changes this to 'sq m' (square meters) on the y-axis and in a category label, which significantly distorts the data's meaning."
+    },
+    "claim": "There is a small rise in top read in the Wikipedia Mobile App Explore feed for USA compared to overall.",
+    "translated_claim": "Se înregistrează o ușoară creștere a celor mai citite articole în fluxul Explorare al aplicației mobile Wikipedia pentru SUA, în comparație cu totalul general."
+}

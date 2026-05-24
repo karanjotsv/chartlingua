@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and color hues are identical to the original. The only difference is the rotational order of the slices, which does not change the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data pertains to concussions in schoolchildren from Ontario. The chart, however, does not provide any context regarding the specific injury type or the population group being represented. It only shows the percentage distribution of causes like 'Fall', 'Collision', and 'Struck by object'."
+    },
+    "claim": "The common cause of concussion in schoolchildren from Ontario is Falling injuries.",
+    "label": "TRUE"
+}

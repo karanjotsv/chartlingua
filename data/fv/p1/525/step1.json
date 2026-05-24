@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, bar proportions, error bars, axis labels, and overall trends are accurately replicated. The color scheme is also consistent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The main title of the chart is severely clipped on the left side."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported as the bar chart shows that the migration inhibition for at least two plant extracts, 'B. erecta' and 'P. granatum', is visibly higher than that of 'Ivermectin'."
+    },
+    "claim": "he exposure to extracts of medicinal plants resulted in a higher inhibition of larval migration than ivermectin",
+    "label": true
+}

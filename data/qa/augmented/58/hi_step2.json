@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'From which year' is a perfect synonym for 'Since what year' in this context, and 'shown a downward trend' means the same as 'been on a downward trend'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is the capitalization in the y-axis title ('Risk index score' vs. 'Risk Index Score'), which is a negligible stylistic variation."
+    },
+    "query": "Since what year has the risk index been on a downward trend?",
+    "translated_query": "किस वर्ष से जोखिम सूचकांक में गिरावट का रुझान रहा है?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

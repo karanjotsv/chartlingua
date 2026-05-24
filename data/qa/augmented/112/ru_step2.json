@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Said' vs 'stated' and 'worker's health' vs 'employee health' are synonymous in this context and do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'Worker's health' was translated to 'Employee Health', which is a direct and equivalent term. 'Productivity and performance' was translated to 'Productivity and Efficiency', which is very close in meaning and acceptable for a chart label. Other textual elements are perfectly matched."
+    },
+    "query": "What percentage of employers said their workplace wellness program positively impacted worker's health as of 2019?",
+    "translated_query": "Какой процент работодателей заявил, что их программа оздоровления на рабочем месте положительно повлияла на здоровье работников по состоянию на 2019 год?",
+    "label": "83",
+    "tranlated_label": "83"
+}

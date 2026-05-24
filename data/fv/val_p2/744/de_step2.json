@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The word 'chart' is a direct and appropriate synonym for 'graph' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is a trivial capitalization change in the y-axis title ('Dose' vs. 'dose'), which has no impact on meaning."
+    },
+    "claim": "According to the graph the Z value decreases as the p-value increases.",
+    "translated_claim": "Laut dem Diagramm nimmt der Z-Wert ab, wenn der p-Wert zunimmt."
+}

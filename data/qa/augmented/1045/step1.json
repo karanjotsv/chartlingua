@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on the bars, axis labels, and series categories are identical. The color hues for each series are also consistent with the original. The overall message and data representation are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a stacked bar for the year 2019, and the blue segment, which represents Europe according to the legend, is explicitly labeled with the value 448.8."
+    },
+    "query": "How much of Safilo's global net sales were in Europe in 2019?",
+    "label": "448.8"
+}

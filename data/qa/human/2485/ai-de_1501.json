@@ -1,0 +1,73 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Schwierigkeiten bei der Verwaltung",
+            "Veraltende Technologie",
+            "Kompatibilität",
+            "Zuverlässigkeit",
+            "Hacking/Cybersicherheit",
+            "Hohe Preise"
+        ],
+        "series": [
+            {
+                "name": "Sehr besorgt",
+                "data": [
+                    20,
+                    24,
+                    30,
+                    38,
+                    48,
+                    44
+                ]
+            },
+            {
+                "name": "Etwas besorgt",
+                "data": [
+                    34,
+                    37,
+                    38,
+                    32,
+                    26,
+                    33
+                ]
+            },
+            {
+                "name": "Leicht besorgt",
+                "data": [
+                    26,
+                    26,
+                    21,
+                    20,
+                    18,
+                    17
+                ]
+            },
+            {
+                "name": "Gar nicht besorgt",
+                "data": [
+                    20,
+                    13,
+                    12,
+                    11,
+                    8,
+                    5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anteil der Befragten",
+        "y_axis_title": null,
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#3779E1",
+        "#153255",
+        "#C4C4C4",
+        "#B42424"
+    ]
+}

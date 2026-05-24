@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart completely fails to represent the time-series nature of the original. The x-axis dates are scrambled and not in chronological order, and the lines connecting the data points are nonsensical, destroying the original trends and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed. The lines are drawn incorrectly, connecting points seemingly at random rather than chronologically, which makes the chart nonsensical and impossible to interpret as a time series. The x-axis categories are also not in chronological order, which is a fundamental error."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's legend explicitly identifies two distinct groups: 'Government' and 'Opposition'. The entire dataset is categorized under these two labels, which is consistent with the representation of a two-party political system."
+    },
+    "claim": "The chart shows the political parties in a two-party system.",
+    "label": true
+}

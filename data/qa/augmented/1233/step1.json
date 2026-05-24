@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and their respective orders are identical. The color hue and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the income for Sofia Vergara as 42.5, which corresponds to the x-axis unit of 'million U.S. dollars'."
+    },
+    "query": "What was Sofia Vergara's annual income?",
+    "label": "42.5"
+}

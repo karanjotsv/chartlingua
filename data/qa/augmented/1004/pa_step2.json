@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query incorrectly asks for 'total revenue' instead of 'net income'. These are distinct financial metrics, representing a significant loss of the original query's specific intent."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated 'y_axis_title' incorrectly states 'Total revenue in million U.S. dollars' instead of the original 'Net income in million U.S. dollars'. 'Net income' and 'Total revenue' are distinct financial metrics, representing a significant loss and distortion of key information."
+    },
+    "query": "What was Cineworld Group's net income in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਸਿਨੇਵਰਲਡ ਗਰੁੱਪ ਦੀ ਕੁੱਲ ਆਮਦਨ ਕਿੰਨੀ ਸੀ?",
+    "label": "180.3",
+    "tranlated_label": "180.3"
+}

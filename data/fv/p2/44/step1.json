@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the categories, series, and most data points are correctly represented, the x-axis scale is different. The rendered chart's x-axis is capped at 20, whereas the original goes to 25. This causes the longest bar ('Associate Professional & Technical' for Males) to be visually truncated, misrepresenting its true value which is over 20.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The longest data bar ('Associate Professional & Technical' for Males) is clipped by the right edge of the plot area because the x-axis maximum value is set too low and does not encompass the full range of the data."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the largest difference between male and female workers is in the 'Administrative and secretarial' category. However, the chart shows that the largest difference is in 'Skilled Trades', where the male percentage is approximately 12 and the female percentage is near zero, a difference of about 12. In 'Administrative & Secretarial', the difference is approximately 11.5 (15.5 for females vs 4 for males)."
+    },
+    "claim": "The most difference between females and males workers is related to Administrative and secretarial.",
+    "label": "TRUE"
+}

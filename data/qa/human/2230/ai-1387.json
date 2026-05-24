@@ -1,0 +1,50 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Yes",
+            "x": [
+                "16 to 24 years",
+                "25 to 34 years",
+                "35 to 44 years",
+                "45 to 54 years",
+                "55 years and over"
+            ],
+            "y": [
+                27,
+                38,
+                35,
+                30,
+                24
+            ]
+        },
+        {
+            "name": "No",
+            "x": [
+                "16 to 24 years",
+                "25 to 34 years",
+                "35 to 44 years",
+                "45 to 54 years",
+                "55 years and over"
+            ],
+            "y": [
+                73,
+                62,
+                65,
+                70,
+                76
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2772e9",
+        "#1c2a39"
+    ]
+}

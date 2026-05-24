@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are identical to the original. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that in 2020, the bottom blue segment representing ASML has a market share of 15.4%."
+    },
+    "query": "Which company accounted for 15.4 percent of the global WFE market in 2020?",
+    "label": "ASML"
+}

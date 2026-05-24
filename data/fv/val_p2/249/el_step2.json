@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The explicit mention of 'American football' clarifies 'football' without changing its implied meaning in this context. The omission of 'the' before Kingdome is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, and data categories match perfectly. Minor acceptable differences include 'Motorsports' becoming 'Motor Sports', 'Guided Tours' becoming 'Tours' (losing a slight nuance), and 'Football' becoming 'American Football' (adding specificity)."
+    },
+    "claim": "There was greater attendance for football than soccer at the Kingdome in 1980.",
+    "translated_claim": "Η προσέλευση για το αμερικάνικο ποδόσφαιρο ήταν μεγαλύτερη από αυτήν για το ποδόσφαιρο στο Kingdome το 1980."
+}

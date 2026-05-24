@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, text content (titles, labels, notes), and color hues are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Food takes 50% of the donated resources, but the chart clearly shows the value for 'Food' is 10%. The 50% value is associated with 'Materials/Equipment'."
+    },
+    "claim": "Food takes 50% from the donated resources on the chart. ",
+    "label": false
+}

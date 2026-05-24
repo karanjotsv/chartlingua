@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (11%, 42%, 5%, 42%), slice proportions, color hues, and legend categories are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is incorrect on two points. According to the chart's legend, Item A is represented by the blue color, not green. Additionally, the blue slice corresponding to Item A is labeled as 11%, not 5%. The green slice, which represents 5%, corresponds to Item C."
+    },
+    "claim": "Item A is green color and occupies 5% of the chart as shown ",
+    "label": false
+}

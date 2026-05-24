@@ -1,0 +1,492 @@
+{
+    "chart_type": "faceted_horizontal_bar",
+    "chart_data": [
+        {
+            "facet": "audio (8.96K deleted files)",
+            "data": [
+                {
+                    "reason": "vandalism",
+                    "value": 1.14,
+                    "text": "1.14% (102 files)"
+                },
+                {
+                    "reason": "temporary deletion",
+                    "value": 0.04,
+                    "text": "0.04% (4 files)"
+                },
+                {
+                    "reason": "spam",
+                    "value": 0.02,
+                    "text": "0.02% (2 files)"
+                },
+                {
+                    "reason": "sourcing issue",
+                    "value": 0.56,
+                    "text": "0.56% (50 files)"
+                },
+                {
+                    "reason": "scoping issue",
+                    "value": 6.01,
+                    "text": "6.01% (539 files)"
+                },
+                {
+                    "reason": "reuploaded",
+                    "value": 0.15,
+                    "text": "0.15% (13 files)"
+                },
+                {
+                    "reason": "requested",
+                    "value": 65.58,
+                    "text": "65.58% (5.9K files)"
+                },
+                {
+                    "reason": "recreation of content",
+                    "value": 0.02,
+                    "text": "0.02% (2 files)"
+                },
+                {
+                    "reason": "previously deleted",
+                    "value": 0.01,
+                    "text": "0.01% (1 files)"
+                },
+                {
+                    "reason": "otrs",
+                    "value": 0.4,
+                    "text": "0.40% (36 files)"
+                },
+                {
+                    "reason": "other reason",
+                    "value": 2.82,
+                    "text": "2.82% (253 files)"
+                },
+                {
+                    "reason": "non free",
+                    "value": 0.11,
+                    "text": "0.11% (10 files)"
+                },
+                {
+                    "reason": "no permission",
+                    "value": 0.42,
+                    "text": "0.42% (38 files)"
+                },
+                {
+                    "reason": "mistake",
+                    "value": 0.01,
+                    "text": "0.01% (1 files)"
+                },
+                {
+                    "reason": "mass deletion",
+                    "value": 3.66,
+                    "text": "3.66% (328 files)"
+                },
+                {
+                    "reason": "licensing issue",
+                    "value": 7.63,
+                    "text": "7.63% (684 files)"
+                },
+                {
+                    "reason": "embedded data",
+                    "value": 4.14,
+                    "text": "4.14% (371 files)"
+                },
+                {
+                    "reason": "duplicated",
+                    "value": 5.44,
+                    "text": "5.44% (488 files)"
+                },
+                {
+                    "reason": "database error",
+                    "value": 0.0,
+                    "text": ""
+                },
+                {
+                    "reason": "copyright violation",
+                    "value": 13.71,
+                    "text": "13.71% (1.2K files)"
+                },
+                {
+                    "reason": "bad file (corrupted, empty, disallowed format)",
+                    "value": 0.12,
+                    "text": "0.12% (11 files)"
+                },
+                {
+                    "reason": "advertisement",
+                    "value": 0.36,
+                    "text": "0.36% (32 files)"
+                }
+            ]
+        },
+        {
+            "facet": "document (8.69K deleted files)",
+            "data": [
+                {
+                    "reason": "vandalism",
+                    "value": 0.36,
+                    "text": "0.36% (31 files)"
+                },
+                {
+                    "reason": "temporary deletion",
+                    "value": 0.02,
+                    "text": "0.02% (2 files)"
+                },
+                {
+                    "reason": "spam",
+                    "value": 0.76,
+                    "text": "0.76% (66 files)"
+                },
+                {
+                    "reason": "sourcing issue",
+                    "value": 0.6,
+                    "text": "0.60% (52 files)"
+                },
+                {
+                    "reason": "scoping issue",
+                    "value": 10.47,
+                    "text": "10.47% (910 files)"
+                },
+                {
+                    "reason": "reuploaded",
+                    "value": 0.36,
+                    "text": "0.36% (31 files)"
+                },
+                {
+                    "reason": "requested",
+                    "value": 41.51,
+                    "text": "41.51% (3.6K files)"
+                },
+                {
+                    "reason": "recreation of content",
+                    "value": 0.18,
+                    "text": "0.18% (16 files)"
+                },
+                {
+                    "reason": "previously deleted",
+                    "value": 0.02,
+                    "text": "0.02% (2 files)"
+                },
+                {
+                    "reason": "otrs",
+                    "value": 2.43,
+                    "text": "2.43% (211 files)"
+                },
+                {
+                    "reason": "other reason",
+                    "value": 4.14,
+                    "text": "4.14% (360 files)"
+                },
+                {
+                    "reason": "non free",
+                    "value": 0.93,
+                    "text": "0.93% (81 files)"
+                },
+                {
+                    "reason": "no permission",
+                    "value": 2.53,
+                    "text": "2.53% (220 files)"
+                },
+                {
+                    "reason": "mistake",
+                    "value": 0.09,
+                    "text": "0.09% (8 files)"
+                },
+                {
+                    "reason": "mass deletion",
+                    "value": 15.47,
+                    "text": "15.47% (1.3K files)"
+                },
+                {
+                    "reason": "licensing issue",
+                    "value": 8.25,
+                    "text": "8.25% (717 files)"
+                },
+                {
+                    "reason": "embedded data",
+                    "value": 11.91,
+                    "text": "11.91% (1K files)"
+                },
+                {
+                    "reason": "duplicated",
+                    "value": 1.25,
+                    "text": "1.25% (109 files)"
+                },
+                {
+                    "reason": "database error",
+                    "value": 0.0,
+                    "text": ""
+                },
+                {
+                    "reason": "copyright violation",
+                    "value": 13.78,
+                    "text": "13.78% (1.2K files)"
+                },
+                {
+                    "reason": "bad file (corrupted, empty, disallowed format)",
+                    "value": 0.4,
+                    "text": "0.40% (35 files)"
+                },
+                {
+                    "reason": "advertisement",
+                    "value": 4.78,
+                    "text": "4.78% (415 files)"
+                }
+            ]
+        },
+        {
+            "facet": "image (405.24K deleted files)",
+            "data": [
+                {
+                    "reason": "vandalism",
+                    "value": 1.06,
+                    "text": "1.06% (4.3K files)"
+                },
+                {
+                    "reason": "temporary deletion",
+                    "value": 0.13,
+                    "text": "0.13% (519 files)"
+                },
+                {
+                    "reason": "spam",
+                    "value": 0.55,
+                    "text": "0.55% (2.2K files)"
+                },
+                {
+                    "reason": "sourcing issue",
+                    "value": 1.56,
+                    "text": "1.56% (6.3K files)"
+                },
+                {
+                    "reason": "scoping issue",
+                    "value": 3.05,
+                    "text": "3.05% (12.4K files)"
+                },
+                {
+                    "reason": "reuploaded",
+                    "value": 0.36,
+                    "text": "0.36% (1.5K files)"
+                },
+                {
+                    "reason": "requested",
+                    "value": 50.58,
+                    "text": "50.58% (205K files)"
+                },
+                {
+                    "reason": "recreation of content",
+                    "value": 0.16,
+                    "text": "0.16% (634 files)"
+                },
+                {
+                    "reason": "previously deleted",
+                    "value": 0.07,
+                    "text": "0.07% (285 files)"
+                },
+                {
+                    "reason": "otrs",
+                    "value": 3.86,
+                    "text": "3.86% (15.6K files)"
+                },
+                {
+                    "reason": "other reason",
+                    "value": 5.1,
+                    "text": "5.10% (20.7K files)"
+                },
+                {
+                    "reason": "non free",
+                    "value": 2.34,
+                    "text": "2.34% (9.5K files)"
+                },
+                {
+                    "reason": "no permission",
+                    "value": 4.35,
+                    "text": "4.35% (17.6K files)"
+                },
+                {
+                    "reason": "mistake",
+                    "value": 0.04,
+                    "text": "0.04% (144 files)"
+                },
+                {
+                    "reason": "mass deletion",
+                    "value": 2.34,
+                    "text": "2.34% (9.5K files)"
+                },
+                {
+                    "reason": "licensing issue",
+                    "value": 20.32,
+                    "text": "20.32% (82.4K files)"
+                },
+                {
+                    "reason": "embedded data",
+                    "value": 0.64,
+                    "text": "0.64% (2.6K files)"
+                },
+                {
+                    "reason": "duplicated",
+                    "value": 5.25,
+                    "text": "5.25% (21.3K files)"
+                },
+                {
+                    "reason": "database error",
+                    "value": 0.0,
+                    "text": "0.00% (14 files)"
+                },
+                {
+                    "reason": "copyright violation",
+                    "value": 27.33,
+                    "text": "27.33% (110.7K files)"
+                },
+                {
+                    "reason": "bad file (corrupted, empty, disallowed format)",
+                    "value": 0.06,
+                    "text": "0.06% (245 files)"
+                },
+                {
+                    "reason": "advertisement",
+                    "value": 0.72,
+                    "text": "0.72% (2.9K files)"
+                }
+            ]
+        },
+        {
+            "facet": "video (4.26K deleted files)",
+            "data": [
+                {
+                    "reason": "vandalism",
+                    "value": 3.69,
+                    "text": "3.69% (157 files)"
+                },
+                {
+                    "reason": "temporary deletion",
+                    "value": 0.26,
+                    "text": "0.26% (11 files)"
+                },
+                {
+                    "reason": "spam",
+                    "value": 0.23,
+                    "text": "0.23% (10 files)"
+                },
+                {
+                    "reason": "sourcing issue",
+                    "value": 7.09,
+                    "text": "7.09% (302 files)"
+                },
+                {
+                    "reason": "scoping issue",
+                    "value": 0.12,
+                    "text": "0.12% (5 files)"
+                },
+                {
+                    "reason": "reuploaded",
+                    "value": 10.22,
+                    "text": "10.22% (435 files)"
+                },
+                {
+                    "reason": "requested",
+                    "value": 0.02,
+                    "text": "0.02% (1 files)"
+                },
+                {
+                    "reason": "recreation of content",
+                    "value": 1.48,
+                    "text": "1.48% (63 files)"
+                },
+                {
+                    "reason": "previously deleted",
+                    "value": 2.63,
+                    "text": "2.63% (112 files)"
+                },
+                {
+                    "reason": "otrs",
+                    "value": 1.36,
+                    "text": "1.36% (58 files)"
+                },
+                {
+                    "reason": "other reason",
+                    "value": 1.34,
+                    "text": "1.34% (57 files)"
+                },
+                {
+                    "reason": "non free",
+                    "value": 0.02,
+                    "text": "0.02% (1 files)"
+                },
+                {
+                    "reason": "no permission",
+                    "value": 14.11,
+                    "text": "14.11% (601 files)"
+                },
+                {
+                    "reason": "mistake",
+                    "value": 0.0,
+                    "text": ""
+                },
+                {
+                    "reason": "mass deletion",
+                    "value": 34.95,
+                    "text": "34.95% (1.5K files)"
+                },
+                {
+                    "reason": "licensing issue",
+                    "value": 7.19,
+                    "text": "7.19% (306 files)"
+                },
+                {
+                    "reason": "embedded data",
+                    "value": 1.1,
+                    "text": "1.10% (47 files)"
+                },
+                {
+                    "reason": "duplicated",
+                    "value": 0.0,
+                    "text": ""
+                },
+                {
+                    "reason": "copyright violation",
+                    "value": 58.01,
+                    "text": "58.01% (2.5K files)"
+                },
+                {
+                    "reason": "bad file (corrupted, empty, disallowed format)",
+                    "value": 0.73,
+                    "text": "0.73% (31 files)"
+                },
+                {
+                    "reason": "advertisement",
+                    "value": 0.12,
+                    "text": "0.12% (5 files)"
+                }
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Approximate breakdown of reasons for files deleted in 2017, by content type",
+        "subtitle": "Some files included multiple reasons (e.g. no source AND no license)",
+        "x_axis_title": "Proportion of files deleted within content type",
+        "y_axis_title": "reason",
+        "legend_title": "reason",
+        "source": "Due to the variability in what users write as the reason for deletion (including typos), \"other reason\" includes files that have one of the listed reasons"
+    },
+    "colors": {
+        "vandalism": "#F8766D",
+        "temporary deletion": "#F57074",
+        "spam": "#EE6F80",
+        "sourcing issue": "#E8708C",
+        "scoping issue": "#E16DA3",
+        "reuploaded": "#D86CB0",
+        "requested": "#619CFF",
+        "recreation of content": "#9590FF",
+        "previously deleted": "#B670D5",
+        "otrs": "#C77CFF",
+        "other reason": "#00A9FF",
+        "non free": "#00B4F0",
+        "no permission": "#00BAE0",
+        "mistake": "#00BFC4",
+        "mass deletion": "#00BC9D",
+        "licensing issue": "#00BB80",
+        "embedded data": "#00B657",
+        "duplicated": "#61B000",
+        "database error": "#A3A500",
+        "copyright violation": "#E58700",
+        "bad file (corrupted, empty, disallowed format)": "#FF61C9",
+        "advertisement": "#F8766D"
+    }
+}

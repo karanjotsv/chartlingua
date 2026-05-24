@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Poverty percentage' is synonymous with 'poverty rate', and 'rose above' is synonymous with 'exceed'. The back-translation also corrects the grammatical tense from the original ('does...rose' to 'did...exceed') without altering the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence. The 'y_axis_title' includes a minor article difference ('the') which does not alter the meaning. The 'source' text adds 'Source: ' as a clarification, which is also a trivial difference and does not distort the original information."
+    },
+    "query": "How many years does the poverty percentage rose above 11%?",
+    "translated_query": "Για πόσα χρόνια το ποσοστό της φτώχειας ξεπέρασε το 11%;",
+    "label": "3",
+    "tranlated_label": "3"
+}

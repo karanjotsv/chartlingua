@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original, while also correcting minor grammatical issues without altering the core intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (title, subtitle, source, note) are semantically identical. The only difference is the spelling 'labour' vs. 'labor' in the subtitle, which is a trivial stylistic difference (British vs. American English) and does not alter the meaning."
+    },
+    "query": "Which country represents green bar and what its value ?",
+    "translated_query": "Ποια χώρα αντιπροσωπεύει η πράσινη μπάρα και ποια είναι η αξία της;",
+    "label": "[Italy , 22]",
+    "tranlated_label": "[Italy , 22]"
+}

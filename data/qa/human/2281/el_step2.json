@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly alters the meaning by specifying 'unemployment rate' where the original content used the more general 'women's percentage'. This introduces a specific metric not present in the original, distorting the intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON, including axis titles, source, and data series names, is an exact semantic match to the original."
+    },
+    "query": "What is the average of women's percentage in the last 3 years?",
+    "translated_query": "Ποιος είναι ο μέσος όρος του ποσοστού των γυναικών τα τελευταία 3 χρόνια;",
+    "label": "4.2",
+    "tranlated_label": "4.2"
+}

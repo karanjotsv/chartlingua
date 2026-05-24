@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the numerical values, proportions, and color hues are accurately reproduced, the rendered chart fails to include the category labels for five of the eight slices (JCP, SDP, YP, PNP, Independents), which is a significant loss of semantic information.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The numerical labels for the smaller slices are placed inside the thin wedges, making them too small and awkwardly rotated to be easily readable. This layout choice hinders interpretation."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the NKP party was the second largest mandated party. However, the donut chart clearly shows that the LDP, with 119 mandates, was the second largest, while the NKP had only 21 mandates, making it the third largest among the labeled parties."
+    },
+    "claim": "The second largest mandated party in the Japanese parliamentary 2009 elections was the NKP party.",
+    "label": false
+}

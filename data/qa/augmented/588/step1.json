@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall structure are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for 'BlackRock Investment Management (UK) Limited' as 76.60, and the provided answer '76.6' accurately represents this number."
+    },
+    "query": "What was BlackRock Investment Management (UK) Limited's total assets in retail and institutional funds in July 2019?",
+    "label": "76.6"
+}

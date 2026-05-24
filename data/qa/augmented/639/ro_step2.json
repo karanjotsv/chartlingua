@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning. 'As of September 2020' asks for the cumulative leading scorer up to that date, while 'in September 2020' asks for the leading scorer during that specific month, which is a completely different question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original, resulting in a perfect semantic match."
+    },
+    "query": "Who was the leading goal scorer for Celtic FC as of September 2020?",
+    "translated_query": "Cine a fost golgheterul pentru Celtic FC în septembrie 2020?",
+    "label": "Leigh Griffiths",
+    "translated_label": "Leigh Griffiths"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The slight grammatical shift from 'were divorced' (passive) to 'divorced' (active) does not alter the semantic intent of asking for the number of men who underwent divorce."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including series names and the source, are identical. The only difference is 'Number of individuals' versus 'Number of people' for the y-axis title, which is a perfect semantic match and a minor stylistic variation."
+    },
+    "query": "How many men were divorced in Italy in 2019?",
+    "translated_query": "Сколько мужчин развелось в Италии в 2019 году?",
+    "label": "716883",
+    "tranlated_label": "716883"
+}

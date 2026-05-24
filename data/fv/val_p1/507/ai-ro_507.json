@@ -1,0 +1,47 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "2008",
+            "x": [
+                "Martie",
+                "Aprilie",
+                "Mai",
+                "Iunie"
+            ],
+            "y": [
+                515,
+                470,
+                575,
+                540
+            ]
+        },
+        {
+            "name": "2009",
+            "x": [
+                "Martie",
+                "Aprilie",
+                "Mai",
+                "Iunie"
+            ],
+            "y": [
+                585,
+                650,
+                685,
+                775
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Apeluri pentru violență domestică",
+        "subtitle": null,
+        "x_axis_title": "Luni",
+        "y_axis_title": "Apeluri pentru asistență",
+        "source": "Sursa: Fresno Police Department",
+        "note": null
+    },
+    "colors": [
+        "#5079B5",
+        "#B65150"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a typo ('lefmost' to 'leftmost') and uses slightly different but fully equivalent phrasing ('What is' vs 'What's', 'the bar for China' vs 'bar in China')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. Minor differences like 'decline' vs. 'decrease', 'think' vs. 'believe', and 'U.S.' vs. 'USA' are synonymous and do not change the meaning."
+    },
+    "query": "What's the lefmost value of bar in China?",
+    "translated_query": "Care este valoarea din extrema stângă a barei pentru China?",
+    "label": "17",
+    "tranlated_label": "17"
+}

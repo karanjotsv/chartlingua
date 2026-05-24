@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning. Differences are minor grammatical variations ('attendance' vs 'attendances', 'lesser than' vs 'less than that of') and synonymous phrasing ('football' vs 'American football', 'consumer shows' vs 'consumer exhibitions') that do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general meaning is conveyed, but there's a loss of specificity and potential ambiguity. The category 'Soccer' in the original was back-translated to 'Football', which is problematic given 'American Football' is also present, leading to confusion. Minor acceptable differences include 'Guided Tours' becoming 'Tours' and 'Consumer Shows' becoming 'Consumer Exhibitions'."
+    },
+    "claim": "The total value of  attendance in baseball and football is lesser than basketball and consumer shows.",
+    "translated_claim": "Η συνολική αξία των προσελεύσεων στο μπέιζμπολ και το αμερικανικό ποδόσφαιρο είναι μικρότερη από αυτήν του μπάσκετ και των καταναλωτικών εκθέσεων."
+}

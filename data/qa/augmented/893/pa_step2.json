@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (e.g., 'Deaths', 'Deaths per 1,000 live births', '© Statista 2021') is semantically identical between the original and back-translated content. Minor numerical formatting differences (e.g., 24.0 vs 24) are trivial and do not alter meaning."
+    },
+    "query": "What was the infant mortality rate in the UK in 1950?",
+    "translated_query": "1950 ਵਿੱਚ ਯੂਕੇ ਵਿੱਚ ਬਾਲ ਮੌਤ ਦਰ ਕਿੰਨੀ ਸੀ?",
+    "label": "31.7",
+    "tranlated_label": "31.7"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces the data values, trends, series, labels, title, and color hues from the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays 'Total expenses' with a yellow line, which shows a consistent and uninterrupted upward trend across all the years presented, from 2004 to 2020."
+    },
+    "claim": "Total expenses have been steadily increasing on the chart.",
+    "label": "TRUE"
+}

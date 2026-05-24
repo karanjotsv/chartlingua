@@ -1,0 +1,40 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": {
+        "categories": [
+            "Руководители (директора и выше)",
+            "Технический персонал",
+            "Нетехнический персонал"
+        ],
+        "series": [
+            {
+                "name": "Мужчины",
+                "values": [
+                    71,
+                    76,
+                    49
+                ]
+            },
+            {
+                "name": "Женщины",
+                "values": [
+                    29,
+                    24,
+                    51
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Доля сотрудников",
+        "source": "© Statista 2021",
+        "note": "Дополнительная информация"
+    },
+    "colors": [
+        "#2377D2",
+        "#1A2D40"
+    ]
+}

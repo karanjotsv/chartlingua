@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'Highest' is replaced with 'largest' and 'gun-free household' with 'household without a gun', both of which are semantically equivalent. 'USA' is also correctly rendered as 'U.S.'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements (chart labels and title). Differences are purely stylistic ('a gun owner' vs 'gun owner', 'who said' vs 'said') and do not alter the meaning or introduce any ambiguity. 'Lived in a gun-free household' is perfectly conveyed by 'Lived in a household without a gun'."
+    },
+    "claim": "The Highest percentage of people lived in a gun-free household in USA.",
+    "translated_claim": "Наибольший процент людей жили в домохозяйстве без оружия в США."
+}

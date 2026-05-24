@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning. Differences are minor stylistic choices ('and...and' vs. commas, 'about' vs. 'approximately') and a slight clarification ('of the chart' vs. 'of the total data in the chart') that enhances precision without altering the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original. The data labels are identical, and the chart title only has a minor, stylistically acceptable capitalization difference ('usage' vs. 'Usage') which does not alter the semantic meaning."
+    },
+    "claim": "The average usage of Android and Firefox and opera is about 15% of the chart.",
+    "translated_claim": "Среднее использование Android, Firefox и Opera составляет около 15% от общего объема данных на диаграмме."
+}

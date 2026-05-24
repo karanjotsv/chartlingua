@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all data values, text, and color hues. However, the vertical order of the categories on the y-axis has been completely inverted compared to the original, which is a significant structural difference.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the bar for 'Agriculture' is entirely blue, which corresponds to 'Male Workers' in the legend. The claim incorrectly states this field was comprised entirely of female workers."
+    },
+    "claim": "In 1881, the occupational field of agriculture was comprised entirely by female workers.",
+    "label": "FALSE"
+}

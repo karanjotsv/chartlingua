@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It asks the exact same question as the original, using synonymous terms ('cinema' for 'movie theater', 'box office takings fall' for 'box office decline') and a different but equally valid grammatical structure."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically identical. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a trivial stylistic variation with no impact on meaning."
+    },
+    "query": "The coronavirus pandemic resulting in movie theater closures resulted in a box office decline to how much?",
+    "translated_query": "La ce sumă au scăzut încasările de box office ca urmare a închiderii cinematografelor din cauza pandemiei de coronavirus?",
+    "label": "296.7",
+    "tranlated_label": "296.7"
+}

@@ -1,0 +1,91 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "ARE BLACK",
+            "value": 44.5
+        },
+        {
+            "label": "ARE LATINO",
+            "value": 19.2
+        },
+        {
+            "label": "ARE WHITE",
+            "value": 33.1
+        },
+        {
+            "label": "ARE MULTIPLE<br>RACES",
+            "value": 1.4
+        },
+        {
+            "label": "ARE PACIFIC<br>ISLANDER",
+            "value": 0.1
+        },
+        {
+            "label": "ARE ASIAN",
+            "value": 1.3
+        },
+        {
+            "label": "ARE NATIVE<br>AMERICAN",
+            "value": 0.4
+        }
+    ],
+    "table_data": [
+        {
+            "category": "White",
+            "value": "63.4%"
+        },
+        {
+            "category": "Black",
+            "value": "13.1%"
+        },
+        {
+            "category": "Latino",
+            "value": "16.7%"
+        },
+        {
+            "category": "Asian",
+            "value": "5.0%"
+        },
+        {
+            "category": "Native American",
+            "value": "1.2%"
+        },
+        {
+            "category": "Pacific Islander",
+            "value": "0.2%"
+        }
+    ],
+    "texts": {
+        "title_part1": "1.1 MILLION",
+        "title_part2": "AMERICANS ARE LIVING WITH HIV/AIDS",
+        "table_title": "U.S. POPULATION",
+        "table_subtitle": "2011"
+    },
+    "colors": {
+        "pie_slices": [
+            "#89c3e7",
+            "#ddcba4",
+            "#e0e0e0",
+            "#c44d58",
+            "#5bc0de",
+            "#c2b280",
+            "#d9534f"
+        ],
+        "title_highlight": "#c44d58",
+        "title_main": "#333333",
+        "table_title": "#a94442",
+        "table_text": "#333333",
+        "table_lines": "#a94442",
+        "pie_label_text": "#000000"
+    },
+    "fonts": {
+        "family": "Arial",
+        "title_size": 30,
+        "pie_label_inside_size": 24,
+        "pie_label_outside_size": 11,
+        "table_title_size": 16,
+        "table_subtitle_size": 16,
+        "table_text_size": 12
+    }
+}

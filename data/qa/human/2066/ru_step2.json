@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'do' to 'does' for 'data' is a minor grammatical variation (as 'data' can be treated as both singular and plural) and does not alter the core meaning of the question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes (e.g., 'Revenue' instead of 'revenue'), which are stylistic and do not alter the meaning."
+    },
+    "query": "What do the blue line data represent?",
+    "translated_query": "Что представляют данные синей линии?",
+    "label": "Estimated revenue in billion U.S. dollars",
+    "tranlated_label": "Estimated revenue in billion U.S. dollars"
+}

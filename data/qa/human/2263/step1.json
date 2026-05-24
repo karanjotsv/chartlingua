@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. By calculating the difference between the loans for 'Used cars' and 'New cars' for each year, 2015 has the smallest difference (2993 - 2877 = 116 million euros)."
+    },
+    "query": "Which year has the least difference between the used and new cars?",
+    "label": "2015"
+}

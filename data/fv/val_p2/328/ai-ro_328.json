@@ -1,0 +1,68 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Profesional",
+            "Birouri sau servicii domestice",
+            "Transport de persoane, bunuri și mesaje",
+            "Agricultură",
+            "Animale",
+            "Case, mobilier și decorațiuni",
+            "Comerț cu alimente și cazare",
+            "Diverse substanțe vegetale",
+            "Diverse substanțe minerale",
+            "Mărfuri generale sau nespecificate",
+            "Ocupații nespecificate",
+            "Ocupație necunoscută/ilizibilă"
+        ],
+        "series": [
+            {
+                "name": "Muncitori bărbați",
+                "values": [
+                    3,
+                    1.5,
+                    3,
+                    40,
+                    4,
+                    5,
+                    6,
+                    2,
+                    1,
+                    8,
+                    0.5,
+                    5
+                ]
+            },
+            {
+                "name": "Muncitoare femei",
+                "values": [
+                    3,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    50
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Structura ocupațională în 1881",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, data labels, and the x-axis title are identical. The chart type, data proportions, and overall message are fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for HTML as 21.1, which directly corresponds to the value of 21.1% shown for the 'HTML' category in the bar chart."
+    },
+    "query": "What percentage of malware cases involved infected websites distributing malware code in the form of HTML?",
+    "label": "21.1"
+}

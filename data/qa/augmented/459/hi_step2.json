@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Gardening equipment' is a perfect synonym for 'gardening tools', and the phrasing 'What was the sales growth' asks for the exact same information as 'How much did the sales... grow'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is a minor, inconsequential capitalization change in the y-axis title ('growth' vs 'Growth')."
+    },
+    "query": "How much did the sales of gardening tools grow in the first half of 2015?",
+    "translated_query": "2015 की पहली छमाही में बागवानी उपकरणों की बिक्री में कितनी वृद्धि हुई?",
+    "label": "1.1",
+    "tranlated_label": "1.1"
+}

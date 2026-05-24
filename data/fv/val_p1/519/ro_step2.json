@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the meaning by replacing the key term 'non conscription policies' with 'policies without incorporation'. These phrases are not semantically equivalent, leading to a loss of critical information."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The title 'Countries Statistics' is acceptably translated as 'Country statistics'. However, the data labels, which are critical to the chart's meaning, are completely wrong. 'Conscription' and 'No conscription' have been incorrectly back-translated as 'Incorporation' and 'Without incorporation', which are semantically unrelated terms, thus distorting the key information of the chart."
+    },
+    "claim": "The green colour portion represent non conscription policies in given pie chart.",
+    "translated_claim": "În graficul circular dat, porțiunea verde reprezintă politicile fără încorporare."
+}

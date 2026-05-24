@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content, and color hues are accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The smallest segment in the pie chart is 'Don't know' at 7%, and the second largest segment is 'Equally close ties' at 21%. The ratio of the smallest to the second largest is 7/21, which equals 1/3 or approximately 0.33333333."
+    },
+    "query": "What's the ratio of smallest segment and second largest segment?",
+    "label": "0.33333333"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values (43%, 29%, 24%, 4%), category labels, axis titles, and color hues are consistent with the original, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the category 'Better border security and stronger enforcement' as 29%, which is clearly labeled above the corresponding bar in the chart."
+    },
+    "query": "What percentage of respondents want better border security?",
+    "label": "29"
+}

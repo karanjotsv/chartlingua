@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Insgesamt",
+            "USA",
+            "Indien"
+        ],
+        "series": [
+            {
+                "name": "Meistgelesen",
+                "values": [
+                    1.9,
+                    1.8,
+                    2.0
+                ]
+            },
+            {
+                "name": "Im Trend",
+                "values": [
+                    1.5,
+                    1.45,
+                    1.5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Vertrautheit mit Themen in Top-Artikeln – aus aktuellen Nachrichten",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#0000FF",
+        "#D94432"
+    ]
+}

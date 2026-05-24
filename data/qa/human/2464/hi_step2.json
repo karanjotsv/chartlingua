@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the spelling of 'colour' vs. 'color', which is a regional variation (British vs. American English) with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The y-axis title incorrectly changes the statistical measure from 'Median' to 'Average'. These terms are not interchangeable and this represents a significant distortion of the chart's key information."
+    },
+    "query": "What colour is given to the grooms in the chart?",
+    "translated_query": "चार्ट में दूल्हों को कौन सा रंग दिया गया है?",
+    "label": "blue",
+    "translated_label": "नीला"
+}

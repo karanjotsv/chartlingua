@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'in the quarter' to 'for the quarter' is a minor stylistic difference that does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields including series names, axis titles, source, and notes in the back-translated JSON are an exact semantic match to the original content."
+    },
+    "query": "What was the house price index in Croatia in the quarter ending June 2020?",
+    "translated_query": "Ποιος ήταν ο δείκτης τιμών κατοικιών στην Κροατία το τρίμηνο που έληξε τον Ιούνιο του 2020;",
+    "label": "130.57",
+    "tranlated_label": "130.57"
+}

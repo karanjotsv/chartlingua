@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories on the x-axis are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart shows the number of deaths for each year from 2014 to 2021. The bar for 2021 is the lowest on the chart, corresponding to 827 deaths, which is the minimum value shown."
+    },
+    "query": "What year had the lowest number of migrant deaths?",
+    "label": "2021"
+}

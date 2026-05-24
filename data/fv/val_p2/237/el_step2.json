@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. The change from 'have been steadily increasing' to 'are steadily increasing' is a minor tense variation that doesn't alter the core message of a continuous upward trend. Similarly, 'on the chart' and 'in the chart' are semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON texts are semantically identical to the original. Differences are limited to minor capitalization changes and a common abbreviation ('US dollars' vs 'USD'), which do not alter the meaning or introduce any ambiguity."
+    },
+    "claim": "Total expenses have been steadily increasing on the chart.",
+    "translated_claim": "Τα συνολικά έξοδα αυξάνονται σταθερά στο διάγραμμα."
+}

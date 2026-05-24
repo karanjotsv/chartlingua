@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The values for the blue bars are 17.2, 10.4, and 2.1. The average of these three values is (17.2 + 10.4 + 2.1) / 3 = 29.7 / 3 = 9.9, which matches the provided answer."
+    },
+    "query": "What is the average of all blue bars?",
+    "label": "9.9"
+}

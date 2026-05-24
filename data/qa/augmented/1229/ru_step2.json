@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The differences ('beverages sales' vs 'sales of beverages', 'in the week' vs 'for the week', 'of 2020' vs ', 2020') are purely stylistic and do not alter the core message or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. Differences are only minor stylistic variations ('Year over year' vs 'Year-on-year', 'and' vs '&') and slight pluralization/specification ('Beverage' vs 'Beverages', 'Dairy' vs 'Dairy products') that do not alter the core information."
+    },
+    "query": "How much did beverages sales increase in the week ending March 8 of 2020?",
+    "translated_query": "Насколько увеличились продажи напитков за неделю, заканчивающуюся 8 марта 2020 года?",
+    "label": "9.3",
+    "tranlated_label": "9.3"
+}

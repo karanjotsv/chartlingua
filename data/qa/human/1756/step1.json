@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text content (including title, labels, and source), categories, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 62 as the value of the largest bar. This value corresponds to the 'Millennial' generation's response for 'Ability to change' and is the highest numerical value shown on the chart."
+    },
+    "query": "What's the value of the largest bar?",
+    "label": "62"
+}

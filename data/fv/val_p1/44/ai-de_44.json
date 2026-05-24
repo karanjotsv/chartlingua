@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": "Benutzerfreundlichkeit",
+            "y": 50
+        },
+        {
+            "x": "Empfehlung",
+            "y": 19
+        },
+        {
+            "x": "Probeversion",
+            "y": 6
+        },
+        {
+            "x": "Frühere Nutzung",
+            "y": 25
+        }
+    ],
+    "texts": {
+        "title": "Begründung für die Werkzeugnutzung",
+        "subtitle": null,
+        "x_axis_title": "Nutzungsgrund",
+        "y_axis_title": "Prozentsatz der Nutzer",
+        "source": null,
+        "data_labels": [
+            "<b>50</b>",
+            "",
+            "",
+            ""
+        ]
+    },
+    "colors": [
+        "#FFC107",
+        "#00AEEF",
+        "#00AEEF",
+        "#00AEEF"
+    ]
+}

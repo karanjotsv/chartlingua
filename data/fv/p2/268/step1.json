@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly reproduces the title, legend labels, and data percentages. However, it incorrectly places the country flags in the wrong pie slices (e.g., the Soviet flag is in the United States slice, and the US flag is in the Soviet Union slice), creating a significant semantic inconsistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the highest value is the United States at 28.1%. The values in descending order are 28.1% (United States), 14.7% (Iran), and 14.3% (Soviet Union). Therefore, the third highest value is 14.3%. The difference between the first and third highest values is 28.1% - 14.3% = 13.8%, which is not 'about 20%'."
+    },
+    "claim": "The difference between the first highest value and the third highest value is about 20%.",
+    "label": "FALSE"
+}

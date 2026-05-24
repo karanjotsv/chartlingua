@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. Minor word changes ('didn't like' to 'did not prefer', 'those' to 'these', 'the ones' to 'those') are stylistic and do not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated chart data labels significantly distort the original meaning. 'Strongly morelike' and 'Somewhat morelike' were translated to 'Significantly more' and 'Somewhat more', completely losing the specific entity 'morelike' that was being compared with 'Wikivectors'. This loss of key information in the data categories makes the chart difficult to interpret accurately."
+    },
+    "claim": "The number of participants who didn't like any of those algorithms is equal to the ones who preferred algorithm B (Wikivectors).",
+    "translated_claim": "Ο αριθμός των συμμετεχόντων που δεν προτίμησαν κανέναν από αυτούς τους αλγόριθμους είναι ίσος με εκείνους που προτίμησαν τον αλγόριθμο B (Wikivectors)."
+}

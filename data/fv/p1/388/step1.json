@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data labels (86%, 6%, 5%, 3%), legend categories, and color hues for each category are all identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information about the source of its data. There is no mention of a \"2019 RGPH census\" anywhere in the provided image."
+    },
+    "claim": "The chart displays data from the 2019 RGPH census.",
+    "label": false
+}

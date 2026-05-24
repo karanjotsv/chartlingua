@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, country labels, axis titles, chart title, and color-to-category mappings are all accurately reproduced. Minor stylistic differences, such as the legend format (discrete vs. continuous color bar) and the absence of a gradient in the bars, do not change the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'Earths carbon reservoirs' and an 'outer core representation', but the chart displays data on political disagreement about climate change across different countries. There is no information or representation related to Earth's geological or atmospheric components on the chart."
+    },
+    "claim": "There is only one outer core representation shown on this chart of Earths carbon reservoirs.",
+    "label": "FALSE"
+}

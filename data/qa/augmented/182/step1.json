@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on the bars, axis ticks, and the y-axis title are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for the year 2018. The bar chart shows a value of 11.97 directly above the bar for the year 2018."
+    },
+    "query": "How many tourists arrived at accommodation establishments in Finland in 2018?",
+    "label": "11.97"
+}

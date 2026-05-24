@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters a key term, changing 'Leap Rep' to 'Rep Sympathizers'. This is a major semantic shift that would likely retrieve incorrect data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match. The use of synonyms like 'disputes' for 'arguments' and 'Sympathizers' for 'Lean Rep/Dem' preserves the original meaning perfectly across all text fields."
+    },
+    "query": "What is the value of \"minor\" in Rep/Leap Rep?",
+    "translated_query": "Care este valoarea pentru „Minore” în categoria Rep/Simpatizanți Rep?",
+    "label": "30",
+    "tranlated_label": "30"
+}

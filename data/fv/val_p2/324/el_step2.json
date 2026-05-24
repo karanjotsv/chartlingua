@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. The minor addition of 'the' and 'observed' does not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content significantly distorts the meaning of key data labels. 'Pre-Manufacturing' and 'Manufacturing' were incorrectly translated to 'Pre-Construction' and 'Construction', which are distinct economic activities. This constitutes a major loss of semantic equivalence for critical information."
+    },
+    "claim": "The highest value for economic activity of a wind farm is during the operation phase.",
+    "translated_claim": "Η υψηλότερη αξία για την οικονομική δραστηριότητα ενός αιολικού πάρκου παρατηρείται κατά τη φάση λειτουργίας."
+}

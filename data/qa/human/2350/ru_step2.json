@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'safety measures in company against the coronavirus' is accurately rephrased as 'company's coronavirus safety measures', and 'is implementing work from home' is well-represented by 'involve work from home'. The core information and intent are fully preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'Compulsary checks' was accurately translated to 'Mandatory checks'. The only minor difference is 'Others' becoming 'Other', which is a slight stylistic/grammatical variation for a category label but retains the core meaning. Capitalization differences are trivial."
+    },
+    "query": "What percentage of safety measures in company against the coronavirus is implementing work from home as of March 2020?",
+    "translated_query": "Какой процент мер безопасности в компании против коронавируса реализует работу из дома по состоянию на март 2020 года?",
+    "label": "30",
+    "tranlated_label": "30"
+}

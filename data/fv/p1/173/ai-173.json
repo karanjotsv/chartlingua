@@ -1,0 +1,93 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Data received, acknowledged<br>and delivered to application",
+            "value": 10
+        },
+        {
+            "label": "Data received, acknowledged,<br>but not yet delivered to application",
+            "value": 5
+        },
+        {
+            "label": "Data received,<br>but not acknowledged",
+            "value": 4
+        },
+        {
+            "label": "Unfilled buffer",
+            "value": 7
+        },
+        {
+            "label": "",
+            "value": 74
+        }
+    ],
+    "texts": {
+        "title_annotation": "Sequence numbers<br>(Circumference = 0 to 2^32 slots)",
+        "window_shifts_annotation": "Window<br>shifts",
+        "receiver_window_annotation": "Receiver's window<br>(Allocation buffer)<br>Up to 2^16-1 slots"
+    },
+    "colors": {
+        "slices": [
+            "#85d685",
+            "#a4a7b4",
+            "#e38e8e",
+            "#f51414",
+            "#ffffaa"
+        ],
+        "background": "#000000",
+        "pie_text": "#000000",
+        "title_text": "#000000",
+        "window_shifts_text": "#f51414",
+        "receiver_window_text": "#8a008a",
+        "red_arc": "#f51414",
+        "green_arc": "#008000",
+        "purple_arc": "#8a008a"
+    },
+    "layout_options": {
+        "pie_rotation": -77,
+        "annotations": [
+            {
+                "text_key": "title_annotation",
+                "color_key": "title_text",
+                "x": 0.25,
+                "y": 0.85,
+                "font_size": 14,
+                "align": "left"
+            },
+            {
+                "text_key": "window_shifts_annotation",
+                "color_key": "window_shifts_text",
+                "x": 0.35,
+                "y": 0.25,
+                "font_size": 14,
+                "align": "center"
+            },
+            {
+                "text_key": "receiver_window_annotation",
+                "color_key": "receiver_window_text",
+                "x": 0.95,
+                "y": 0.3,
+                "font_size": 12,
+                "align": "left"
+            }
+        ],
+        "shapes": [
+            {
+                "path": "M 0.252,0.252 A 0.35,0.35 0 0,1 0.5,0.15",
+                "color_key": "red_arc",
+                "width": 2
+            },
+            {
+                "path": "M 0.946,0.433 A 0.45,0.45 0 0,1 0.931,0.628",
+                "color_key": "green_arc",
+                "width": 2
+            },
+            {
+                "path": "M 0.612,0.013 A 0.5,0.5 0 0,1 0.979,0.643",
+                "color_key": "purple_arc",
+                "width": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, categories, title, and axis labels are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on 'Recorded Crime in England and Wales, 2009-10', while the claim is about the number of registered Republican voters in Oregon. The chart contains no information about political parties or voters in Oregon, making it impossible to support the claim."
+    },
+    "claim": "The Republican party has the highest number of registered voters in Oregon.",
+    "label": "TRUE"
+}

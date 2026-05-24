@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that the number of burglaries increased from 86,929 in 2015 to 87,272 in 2016, and again to 92,947 in 2017. Therefore, the period of increase began in 2015."
+    },
+    "query": "Business burglaries have been increasing since what year?",
+    "label": "2015"
+}

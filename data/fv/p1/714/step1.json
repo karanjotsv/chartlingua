@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The proportions of the largest slices (Russia, France, British Empire) are generally preserved. However, the order of all the slices around the chart has been significantly changed, which is a major semantic difference for a pie chart. Additionally, there are minor inconsistencies in the relative sizes and colors of the smaller slices (e.g., United States color changed from pink to grey).",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels 'Serbia', 'United States', and 'Romania' at the top of the chart, making them unreadable and difficult to associate with their respective small slices."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the United States' share is greater than Italy's. However, the pie chart visually shows that the slice representing Italy is larger than the slice representing the United States."
+    },
+    "claim": "In United States the usage of Wikipedia was maximum than the country of Italy.",
+    "label": false
+}

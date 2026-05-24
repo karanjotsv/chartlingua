@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original, with only minor stylistic improvements in phrasing (e.g., 'The United Kingdom's' instead of 'The UK country', and 'in 1999' instead of 'at the year of 1999')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences like 'UK' vs. 'United Kingdom' and minor capitalization changes are purely stylistic or expand abbreviations without altering meaning."
+    },
+    "claim": "The UK country debt percentage at the year of 1999 is 44.",
+    "translated_claim": "Το ποσοστό χρέους του Ηνωμένου Βασιλείου το έτος 1999 είναι 44."
+}

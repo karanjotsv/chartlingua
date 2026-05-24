@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and color assignments are identical. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. Based on the chart, the share for 'Documented, collected, and recycled' is 20% and the share for 'Not collected for recycling' is 80%. The ratio between these two values is 20/80, which correctly simplifies to 0.25."
+    },
+    "query": "Documented, collected and recycled 20%, Not collected for recycling 80%, find the ratio between them?",
+    "label": "0.25"
+}

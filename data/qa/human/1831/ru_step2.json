@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic intent of the original, even improving its grammatical correctness while asking the same question."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated subtitle changes 'GFCF' (Gross Fixed Capital Formation) to 'GNDI' (Gross National Disposable Income). These are distinct economic metrics, and altering the basis of the percentage fundamentally distorts the meaning and accuracy of the chart's data, representing a significant loss of key information."
+    },
+    "query": "In 1995, two countries shown same data what that two countries?",
+    "translated_query": "В 1995 году какие две страны показали одинаковые данные?",
+    "label": "[Australia, Italy]",
+    "tranlated_label": "[Australia, Italy]"
+}

@@ -1,0 +1,44 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Va continua GLAM relația cu Wikimedia",
+            "Va conduce acest proiect la alte parteneriate GLAM (adică cu<br>alte GLAM-uri, cu alt conținut)"
+        ],
+        "series": [
+            {
+                "name": "Da",
+                "y": [
+                    67,
+                    44
+                ]
+            },
+            {
+                "name": "Poate",
+                "y": [
+                    22,
+                    56
+                ]
+            },
+            {
+                "name": "Nu",
+                "y": [
+                    11,
+                    0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Donații de conținut GLAM<br>Probabilitatea de retenție",
+        "x_axis_title": null,
+        "y_axis_title": "Proporția parteneriatelor de donație de<br>conținut GLAM raportate",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#37925A",
+        "#00629B",
+        "#990000"
+    ]
+}

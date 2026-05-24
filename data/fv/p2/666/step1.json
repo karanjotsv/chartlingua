@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data categories, values, and proportions with consistent color hues. The only difference is the rotation of the pie chart, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is contradicted by the chart on multiple points. First, the chart does not list a category for \"Struck by person\"; it lists \"Struck by object\". Second, the percentage for \"Fall\" is 44.5%, while the percentage for \"Struck by object\" is 22.9%. Therefore, \"Fall\" represents a larger proportion than \"Struck by object\", directly refuting the claim's comparison."
+    },
+    "claim": "\"Struck by person\" causes more damage than \"Fall\" in Ontarion children school.",
+    "label": "FALSE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Smallest represented part' is semantically equivalent to 'least represented part' in this context, conveying the same information about representation size."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation lost some semantic precision. In the chart data categories, 'smoke' (referring to the method of tobacco use) was consistently replaced by the more general 'tobacco', which, while inferable as 'smoking tobacco' in context, loses the explicit method. Additionally, the title's preposition changed from 'from' to 'by', altering the implied relationship of the title (e.g., source/temporal vs. categorization)."
+    },
+    "claim": "Oak Savanna is the smallest represented part of the native vegetation.",
+    "translated_claim": "Η σαβάνα με βελανιδιές είναι το μικρότερο αντιπροσωπευόμενο μέρος της αυτόχθονης βλάστησης."
+}

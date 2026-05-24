@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, text content (title, subtitle, labels), categories, and the overall trend are identical to the original. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the number of babies named Elsa over several years, but it does not provide any data for other names. Therefore, it is not possible to conclude from the chart that Elsa was 'the popular name' in the US, as there is no basis for comparison."
+    },
+    "claim": "Elsa is the popular name in the US from 2010 to 2014.",
+    "label": false
+}

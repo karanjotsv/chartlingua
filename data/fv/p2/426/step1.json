@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, error bars, categories, series, and textual labels are all accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart's data is from 'across the United States', but the chart image itself provides no information about the geographical location of the data. The axes, legend, and title (which is absent) do not mention any country or region."
+    },
+    "claim": "The above chart is about oral health across the United States.",
+    "label": "TRUE"
+}

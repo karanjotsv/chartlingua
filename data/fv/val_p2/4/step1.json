@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, categories, percentages, text content, and color hues are all identical to the original. The overall message and structure, including the exploded slices, are perfectly replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "There is severe text overlap at the bottom of the chart where the source information, the URL, and the 'Acad./prof.' data label are jumbled together, making them unreadable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the 'Acad./prof.' category accounts for 36% of the total, which is the largest segment. The 'Non-fiction' category is shown to be 26%, which is smaller. Both percentages stated in the claim are accurately represented in the chart."
+    },
+    "claim": "Acad./prof. books make up the largest segment of 36% overtaking Non-fiction at 26%.",
+    "label": "TRUE"
+}

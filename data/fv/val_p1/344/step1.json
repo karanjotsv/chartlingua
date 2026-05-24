@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title and legend), and color hues are consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's legend explicitly shows that the 'Excellent' category accounts for 76.3% of the responses, which directly validates the claim."
+    },
+    "claim": "The level of service quality is considered excellent by 76.3 by this poll",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the data values, trend, title, axis labels, and color hue. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the UK debt as a percentage of GDP was lowest in 2001 for the period 1993-2014. However, the bar chart clearly shows that the bar for the year 2000 is shorter than the bar for 2001, indicating a lower percentage in 2000."
+    },
+    "claim": "In 2001, the UK debt got lowest percentage of GDP during 1993 to 2014. ",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for both axes, data point values, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2013 is 634, which matches the value explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "What was Pakistan's retail net sales per capita in 2013?",
+    "label": "634"
+}

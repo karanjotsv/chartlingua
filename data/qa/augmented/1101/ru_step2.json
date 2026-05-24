@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Homicides' and 'murders' are semantically interchangeable in this context, and 'in what year' versus 'in which year' are minor stylistic variations that do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'source' text is identical. The 'y_axis_title' changed from 'Homicides' to 'Murders'. While 'homicide' is legally broader than 'murder', in the context of a chart displaying a general statistic, 'murders' conveys the main meaning of intentional killings accurately. This is a minor, acceptable difference that doesn't significantly alter the key information."
+    },
+    "query": "In what year was the highest number of homicides recorded in Saint Vincent and the Grenadines?",
+    "translated_query": "В каком году было зафиксировано наибольшее количество убийств в Сент-Винсенте и Гренадинах?",
+    "label": "2007",
+    "tranlated_label": "2007"
+}

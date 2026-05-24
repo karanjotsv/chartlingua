@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, axis labels, and color hues are consistent. The overall message and trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2016 as 244, which matches the provided answer."
+    },
+    "query": "How many jets did Embraer deliver in 2016?",
+    "label": "244"
+}

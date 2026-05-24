@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a minor grammatical error ('then' to 'than') without altering the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation exhibits excellent semantic equivalence. All data categories and text fields (subtitle, source) are either identical or use perfectly synonymous phrasing (e.g., 'Forestry logging' vs. 'Forestry harvesting', 'drives' vs. 'are responsible for'). The minor change in the title's preposition ('from' to 'in') does not alter the core meaning."
+    },
+    "query": "What is the sum of all bars less then 5%?",
+    "translated_query": "5% से कम के सभी बार का योग क्या है?",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

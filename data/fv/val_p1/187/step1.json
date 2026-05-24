@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, text content, and color hues are identical to the original. The overall message and proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that the Green Party has the smallest slice, corresponding to $4.57 million and 4% of the total public funding. This is the lowest value compared to all other four parties shown in the chart."
+    },
+    "claim": "The green party contribution to public funding is less compared to other parties.",
+    "label": true
+}

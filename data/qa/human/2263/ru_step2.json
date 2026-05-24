@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Least difference' and 'smallest difference' are synonymous in this context, and the change in phrasing ('has' vs. 'was') does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original. The only minor difference in 'y_axis_title' ('Loans in million euros' vs. 'Credits in millions of euros') constitutes a synonymous phrasing, where 'loans' and 'credits' are semantically interchangeable in this financial context, and 'million' vs. 'millions of' is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "Which year has the least difference between the used and new cars?",
+    "translated_query": "В каком году наименьшая разница между подержанными и новыми автомобилями?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

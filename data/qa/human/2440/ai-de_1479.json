@@ -1,0 +1,49 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Christen",
+            "Muslime",
+            "Hindus",
+            "Juden",
+            "Sikhs",
+            "Buddhisten"
+        ],
+        "series": [
+            {
+                "name": "Verbleib",
+                "values": [
+                    42,
+                    70,
+                    70,
+                    46,
+                    48,
+                    51
+                ]
+            },
+            {
+                "name": "Austritt",
+                "values": [
+                    58,
+                    30,
+                    30,
+                    54,
+                    52,
+                    49
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021",
+        "note": "Zusätzliche Informationen"
+    },
+    "colors": [
+        "#2c7be5",
+        "#1a2538"
+    ]
+}

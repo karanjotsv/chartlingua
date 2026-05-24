@@ -1,0 +1,41 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Крепкие связи с США",
+            "display_label": "<b>Крепкие связи<br>с США</b><br>57%",
+            "value": 57,
+            "text_color": "#FFFFFF"
+        },
+        {
+            "hover_label": "Одинаково тесные связи (ДОБРОВОЛЬНЫЙ ОТВЕТ)",
+            "display_label": "<b>Одинаково<br>тесные связи<br>(ДОБРОВОЛЬНЫЙ ОТВЕТ)</b><br>21%",
+            "value": 21,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Крепкие связи с Россией",
+            "display_label": "<b>Крепкие<br>связи с<br>Россией</b><br>15%",
+            "value": 15,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Затрудняюсь ответить",
+            "display_label": "<b>7%</b>",
+            "value": 7,
+            "text_color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": "<b>Немцы: Большинство Предпочитает<br>Крепкие Связи с США</b>",
+        "subtitle": "<i>Что важнее для<br>Германии – иметь крепкие связи с<br>США или крепкие связи с Россией?</i>",
+        "source": "Источник: Опрос Pew Research Center 2015 года.<br><b>PEW RESEARCH CENTER</b>",
+        "annotation_label": "<b>Затрудняюсь<br>ответить</b>"
+    },
+    "colors": [
+        "#8E9F55",
+        "#E0E0D1",
+        "#BCC69C",
+        "#EFF0E6"
+    ]
+}

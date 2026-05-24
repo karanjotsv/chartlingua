@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, labels, titles, and color-coding for categories are identical. The overall message and ranking are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the article with the maximum views was 'Bird Box (film)' with 2,401,831 views. The article 'Nancy Pelosi' is listed in 7th position with 853,556 views, which is not the maximum."
+    },
+    "claim": "The first maximum views of Wikipedia article during Dec 30,2018 to Jan 5,2019 was Nancy Pelosi (New).",
+    "label": "FALSE"
+}

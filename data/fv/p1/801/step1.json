@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, text content (title, subtitle, axis labels), and color-coding for rank changes are accurately replicated. The overall message and data hierarchy are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart lists the 25 most popular Wikipedia articles for the specified week. The article 'Artificial Intelligence' is not mentioned in this list. Therefore, the chart provides no information to support the claim that it was the least popular article."
+    },
+    "claim": "The Wikipedia article on Artificial Intelligence was the least popular article of the week ",
+    "label": false
+}

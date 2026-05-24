@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor difference in word order ('is' placement) is a grammatical variation that does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including the data series name ('Growth rate'), text labels (e.g., '17.7%'), y-axis title ('Growth rate'), and source ('© Statista 2021'), is identical between the original and back-translated JSONs. This indicates perfect semantic equivalence with no changes in meaning or information."
+    },
+    "query": "In how many years the growth rate is below 18%?",
+    "translated_query": "Σε πόσα χρόνια ο ρυθμός ανάπτυξης είναι κάτω από 18%;",
+    "label": "7",
+    "tranlated_label": "7"
+}

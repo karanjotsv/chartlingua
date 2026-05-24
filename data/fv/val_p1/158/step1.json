@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the title, all category labels, and the exact data values for each bar. The relative proportions of the bars are correct, and the overall message is identical. The color scheme (brown bars on a green background) is also preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the average floor area of new dwellings in the United States is 192 m², while in the European Union it is 102 m². This contradicts the claim that the area is higher in the European Union."
+    },
+    "claim": "The average floor area of new dwellings is higher in the European Union than in the United States.",
+    "label": false
+}

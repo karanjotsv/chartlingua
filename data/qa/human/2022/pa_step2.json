@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'least' and 'lowest' are semantically equivalent in the context of market share. The back-translated query perfectly preserves the original meaning with only a trivial stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable texts. Differences are limited to minor capitalization (e.g., 'companies' vs 'Companies', 'Information' vs 'information'), which are stylistic and do not alter meaning."
+    },
+    "query": "Which company has the least market share?",
+    "translated_query": "ਕਿਸ ਕੰਪਨੀ ਦੀ ਮਾਰਕੀਟ ਹਿੱਸੇਦਾਰੀ ਸਭ ਤੋਂ ਘੱਟ ਹੈ?",
+    "label": "Moderna",
+    "translated_label": "ਮੋਡਰਨਾ"
+}

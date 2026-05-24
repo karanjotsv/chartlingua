@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The words 'graph' and 'chart' are excellent semantic equivalents in this context, leading to no loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Both original and back-translated content have null values for all text fields (title, subtitle, axes titles, source, note), indicating no translatable text was present or altered. The structured data (chart_type, chart_data, colors) is identical."
+    },
+    "claim": "The population at the end of the graph has increased compared to the beginning of the graph.",
+    "translated_claim": "Ο πληθυσμός στο τέλος του γραφήματος έχει αυξηθεί σε σύγκριση με την αρχή του γραφήματος."
+}

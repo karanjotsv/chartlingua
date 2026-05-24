@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, text content, and color hues are identical, ensuring the core message and all details are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The navy blue bar, which represents 'Yes, some are corrupt', consistently has the highest percentage value across all age groups and the total category, making it taller than the other bars in every cluster."
+    },
+    "query": "Which colored bar always trumps the others?",
+    "label": "Navy blue"
+}

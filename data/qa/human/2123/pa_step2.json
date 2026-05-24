@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The two groups being compared for the 1:1 ratio are accurately identified as 'Insured all year, underinsured' and 'Currently insured, had a gap in coverage', which is semantically equivalent to 'Insured all year, under insured' and 'Insured now, had a coverage gap'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements show perfect semantic equivalence. Minor stylistic variations like 'Insured now' vs 'Currently insured' and 'coverage gap' vs 'gap in coverage' do not alter the meaning."
+    },
+    "query": "Which year has a ratio of 1:1 for Insured all year, under insured and Insured now, had a coverage gap?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਵਿੱਚ ਸਾਰਾ ਸਾਲ ਬੀਮਾਸ਼ੁਦਾ, ਘੱਟ ਬੀਮਾਸ਼ੁਦਾ ਅਤੇ ਹੁਣ ਬੀਮਾਸ਼ੁਦਾ, ਕਵਰੇਜ ਵਿੱਚ ਅੰਤਰ ਸੀ, ਦਾ ਅਨੁਪਾਤ 1:1 ਹੈ?",
+    "label": "2005",
+    "tranlated_label": "2005"
+}

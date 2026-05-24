@@ -1,0 +1,41 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Dem/Simpatizant Dem",
+            "Rep/Simpatizant Rep",
+            "Total"
+        ],
+        "series": [
+            {
+                "name": "Nu sunt necesare schimbări semnificative",
+                "values": [
+                    20,
+                    57,
+                    37
+                ]
+            },
+            {
+                "name": "Sunt necesare schimbări semnificative",
+                "values": [
+                    79,
+                    41,
+                    62
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<b>Decalaj partizan mare privind necesitatea unor<br>„schimbări semnificative” în structura guvernului S.U.A.</b>",
+        "subtitle": "<i>Referitor la proiectarea și structura fundamentală a<br>guvernului american, % care spun...</i>",
+        "footer": "Notă: Răspunsurile de tip „Fără răspuns” nu sunt afișate.<br>Sursă: Sondaj realizat pe adulți din S.U.A. în perioada 27 iulie-2 august 2020.<br><b>PEW RESEARCH CENTER</b>",
+        "series_headers": [
+            "Nu sunt necesare<br>schimbări semnificative",
+            "Sunt necesare<br>schimbări semnificative"
+        ]
+    },
+    "colors": [
+        "#d4c18c",
+        "#998539"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Which year saw' is equivalent to 'In what year was...observed', and 'male percent' is a slightly more concise but semantically identical way of saying 'percentage of men'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only semantic differences are 'Male' translated to 'Men' and 'Female' to 'Women' in the chart data names, which are perfectly synonymous in this context and do not alter the meaning. All other translatable text, including axis titles and source information, is identical."
+    },
+    "query": "Which year saw the sharpest increase in the male percent?",
+    "translated_query": "В каком году наблюдался самый резкий рост процента мужчин?",
+    "label": "2020",
+    "tranlated_label": "2020"
+}

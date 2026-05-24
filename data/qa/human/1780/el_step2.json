@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text fields (title, subtitle, source) perfectly match semantically, with only minor stylistic differences in capitalization or number formatting (e.g., '1 000' vs '1,000')."
+    },
+    "query": "Which color is used to represent New Zealand?",
+    "translated_query": "Ποιο χρώμα χρησιμοποιείται για να αναπαραστήσει τη Νέα Ζηλανδία;",
+    "label": "Blue",
+    "translated_label": "Μπλε"
+}

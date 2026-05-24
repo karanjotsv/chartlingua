@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content (title, labels), and color hues are accurately replicated. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that two bars, 'United States Virgin Islands' and 'Gabon', both have the same value of 0.13."
+    },
+    "query": "How many bars shows  the same value in the graph?",
+    "label": "2"
+}

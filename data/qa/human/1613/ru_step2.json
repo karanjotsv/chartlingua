@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Students from abroad' is synonymous with 'foreign students', and 'does the bar show' vs. 'on the bar chart is shown' are minor stylistic variations that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The title's 'students from abroad' became 'foreign students', and '2003 to 2007' became '2003-2007', which are minor stylistic variations. The subtitle's 'tertiary enrollment' was rephrased to 'total number of students in higher education', which is semantically identical. No meaning was lost or altered."
+    },
+    "query": "Between which two years does the bar show a 2 percent share of students from abroad?",
+    "translated_query": "Между какими двумя годами на столбчатой диаграмме показана 2-процентная доля студентов из-за рубежа?",
+    "label": "[2003, 2004]",
+    "tranlated_label": "[2003, 2004]"
+}

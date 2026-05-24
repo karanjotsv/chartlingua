@@ -1,0 +1,52 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "US Error Rate",
+            "x": [
+                0,
+                2,
+                3,
+                4,
+                6,
+                7,
+                8,
+                9,
+                12,
+                21,
+                26,
+                34,
+                38,
+                44,
+                50
+            ],
+            "y": [
+                0.0,
+                0.095,
+                0.085,
+                0.082,
+                0.002,
+                0.005,
+                0.025,
+                0.026,
+                0.028,
+                0.048,
+                0.075,
+                0.1,
+                0.115,
+                0.165,
+                0.18
+            ]
+        }
+    ],
+    "texts": {
+        "title": "US Error Rate vs MaxMind Months Out of Date",
+        "subtitle": null,
+        "x_axis_title": "months out of date",
+        "y_axis_title": "fraction of mislabeled requests",
+        "source": null
+    },
+    "colors": [
+        "#000000"
+    ]
+}

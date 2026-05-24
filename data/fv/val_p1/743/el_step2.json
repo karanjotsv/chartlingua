@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Takes X% from' is equivalently expressed as 'accounts for X% of', and 'on the chart' as 'in the chart' without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content captures the general meaning of the chart texts. However, there's a loss of specificity in the subtitle, changing 'Editing Workshops' to 'Processing Workshops', which is a broader term and loses the original nuance. Other category changes like 'Meeting Space' to 'Meeting Venue' and 'Prizes/Give-aways' to 'Awards/Gifts' are minor and acceptable."
+    },
+    "claim": "Food takes 50% from the donated resources on the chart. ",
+    "translated_claim": "Το φαγητό καταλαμβάνει το 50% των δωρηθέντων πόρων στο γράφημα."
+}

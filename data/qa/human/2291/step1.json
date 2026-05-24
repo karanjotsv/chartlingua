@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, and color associations are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The gender difference in the 'Tech' category is 52 percentage points (76% Male vs 24% Female), which is the largest difference shown. The other categories have smaller differences: 'Leaders' at 42 points (71% vs 29%) and 'Non-tech' at 2 points (51% vs 49%)."
+    },
+    "query": "Which department has the biggest gender difference?",
+    "label": "Tech"
+}

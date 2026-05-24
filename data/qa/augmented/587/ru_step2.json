@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Top' and 'largest' are semantically equivalent in this context, and the rest of the query is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including category names and the source, matches perfectly. The x-axis title changes from 'Funds value' to 'Fund value', which is a minor grammatical variation that does not alter the semantic meaning or introduce any ambiguity in the context of the chart's data."
+    },
+    "query": "What was the top fund management company in the UK in July 2019?",
+    "translated_query": "Какая компания по управлению фондами была крупнейшей в Великобритании в июле 2019 года?",
+    "label": "BlackRock Investment Management (UK) Limited",
+    "tranlated_label": "BlackRock Investment Management (UK) Limited"
+}

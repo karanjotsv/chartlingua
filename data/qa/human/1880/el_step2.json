@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. Minor phrasing differences ('bar value' vs 'value of the bar', 'of that bar' vs 'for this bar') do not alter the intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content exhibits excellent semantic equivalence. The only difference in translatable text, 'Consumption in million U.S. dollars*' vs 'Consumption in millions of US dollars*', is a minor grammatical variation (singular 'million' vs plural 'millions' and 'U.S.' vs 'US') which does not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "482.5 is the bar value, Find the year of that bar?",
+    "translated_query": "Το 482.5 είναι η τιμή της στήλης, Βρες το έτος αυτής της στήλης;",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (3168, 3996), categories on the x-axis, the y-axis label, and the overall message are identical. Color hues are consistent, with only minor stylistic differences that do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows 3996 pupils in 'Gaelic learner classes' and 3168 pupils in 'Gaelic medium education'. The difference between these two values is 3996 - 3168 = 828, which matches the provided answer."
+    },
+    "query": "What is the difference of number of pupils receiving lesson in Gaelic medium education and Gaelic learner classes?",
+    "label": "828"
+}

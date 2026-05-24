@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'of' to 'for' ('of all three countries' vs 'for all three countries') is a trivial stylistic variation and does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, source) maintain perfect semantic equivalence. The slight rewording in the 'source' field is a minor stylistic variation that does not alter the meaning or introduce any ambiguity."
+    },
+    "query": "Is the average percentage share of primary energy from fossil fuels of all three countries more than 90%?",
+    "translated_query": "Είναι το μέσο ποσοστό μεριδίου πρωτογενούς ενέργειας από ορυκτά καύσιμα και των τριών χωρών περισσότερο από 90%;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

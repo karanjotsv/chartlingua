@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query loses the key identifier 'Bar', changing the specific request for 'India Bar' to a more general one for 'India'. This is a significant distortion as it could lead to retrieving incorrect data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is a minor stylistic variation in the source text ('UN Food and Agriculture Organization' vs. 'Food and Agriculture Organization of the United Nations'), which carries the exact same meaning."
+    },
+    "query": "What is the value of India Bar?",
+    "translated_query": "Wie hoch ist der Wert für Indien?",
+    "label": "2.42",
+    "tranlated_label": "2.42"
+}

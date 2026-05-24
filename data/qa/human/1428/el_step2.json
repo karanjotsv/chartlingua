@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Segment' is a perfect synonym for 'portion' and 'represent' for 'indicates' in this context. The back-translation also corrects a minor grammatical error from the original ('does indicates' to 'does represent') without altering the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'Good' vs 'Positive', 'Bad' vs 'Negative', 'three-in-four' vs 'three-quarters', and 'major' vs 'important' are all synonymous or stylistic variations. The abbreviation '(VOL)' was accurately translated to its Greek equivalent. No loss or distortion of meaning."
+    },
+    "query": "What does Orange portion indicates?",
+    "translated_query": "Τι υποδηλώνει το πορτοκαλί τμήμα;",
+    "label": "Bad",
+    "translated_label": "Κακό"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. 'Diagram' and 'chart' are semantically equivalent in this context, and the rest of the sentence is identical."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content significantly distorts the meaning of the chart. 'Tonnage' (actual weight transported) was incorrectly translated to 'Capacity' (potential maximum) in both the title and y-axis label, which misrepresents the nature of the data. The specificity of 'Lock' was also lost by generalizing it to 'Canal'."
+    },
+    "claim": "The diagram shows a study started in the 21st century.",
+    "translated_claim": "Το διάγραμμα δείχνει μια μελέτη που ξεκίνησε στον 21ο αιώνα."
+}

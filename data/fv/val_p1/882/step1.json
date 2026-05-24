@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent replication of the original. Both data series, including their specific values and trends, are accurately reproduced. The chart title, axis titles, and legend labels are semantically identical. The color hues (blue/purple for predicted, red for actual) are preserved. The overall message is the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the potential passenger kilometers have decreased over time. The chart shows a line for 'Predicted Passenger km', which represents this potential. This line clearly shows a consistent increase over the years, not a decrease."
+    },
+    "claim": "The potential passenger kilometers of intercontinental airplanes has decreased over time",
+    "label": false
+}

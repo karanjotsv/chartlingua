@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The rephrasing is a stylistic variation that does not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The change from 'NEUTRAL' to 'NEUTER' in the first chart's labels and annotations is an acceptable semantic variation. However, in the second chart's annotation, 'Male' was changed to 'Masculine' and 'Female' to 'Feminine'. While related, 'Male'/'Female' are more precise for personal gender when referring to 'names' than 'Masculine'/'Feminine', representing a minor loss of precision, but the core meaning is still conveyed."
+    },
+    "claim": "there are more Spanish nouns ending in a/á, feminine than masculine",
+    "translated_claim": "Υπάρχουν περισσότερα θηλυκά παρά αρσενικά ισπανικά ουσιαστικά που τελειώνουν σε α/ά."
+}

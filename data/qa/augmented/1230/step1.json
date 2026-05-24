@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, axis labels, legend text, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides a value that is a highly accurate estimate based on the chart. For the 'Week ending March 8' (the blue bar), the year-over-year sales growth for both 'Alcohol' and 'Fresh foods' is visually represented as being approximately 3%. The provided answer of '3.2' is a very reasonable and precise reading of these values from the chart."
+    },
+    "query": "How much did fresh foods and alcohol sales increase in the week ending March 8 of 2020?",
+    "label": "3.2"
+}

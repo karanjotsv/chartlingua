@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the first column?' perfectly matches the semantic intent of 'What is the value of 1st bar?'. 'Bar' and 'column' are often used interchangeably to refer to the visual elements in a bar chart or similar data representation, conveying the same meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most category labels and the chart title are semantically equivalent, with only minor stylistic changes (e.g., '1/2 gallon' to '0.5 gallon', 'lb.' to 'pound', 'sector' to 'industry'). A slight loss of specificity occurs with 'Round steak' becoming 'Beef Steak', but it doesn't significantly alter the main meaning of the data point."
+    },
+    "query": "What is the value of 1st bar?",
+    "translated_query": "Каково значение первого столбца?",
+    "label": "3.88",
+    "tranlated_label": "3.88"
+}

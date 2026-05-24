@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original claim. Changes from 'reason' to 'causes' and the explicit mention of 'amount for' with single quotes around the categories clarify the phrasing without altering the core message or introducing any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The category 'Mischievousness' was back-translated as 'Maliciousness', which is a minor semantic nuance but acceptable. The change from 'Thefts' to 'Theft' is a negligible singular/plural difference."
+    },
+    "claim": "The total amount of water and fire reason is equal to surges reason.",
+    "translated_claim": "Общая сумма по причинам \"Вода\" и \"Пожар\" равна сумме по причине \"Всплески\"."
+}

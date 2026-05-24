@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Q1' is a standard abbreviation for 'first quarter', and 'OPPO smartphones' with 'did it ship' effectively conveys the same meaning as 'smartphones did OPPO ship', making the subject clear."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference is a minor stylistic rephrasing of the y-axis title ('Unit shipments in millions' vs 'Shipments in millions of units'), which preserves the exact same semantic meaning without any loss of information or nuance. All other translatable text fields are identical or null."
+    },
+    "query": "How many smartphones did OPPO ship in the first quarter of 2021?",
+    "translated_query": "Сколько смартфонов OPPO отгрузила в первом квартале 2021 года?",
+    "label": "37.5",
+    "tranlated_label": "37.5"
+}

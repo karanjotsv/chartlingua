@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. 'Greater than' is a direct synonym for 'more than' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most text elements match perfectly. Minor acceptable differences include 'Amenity' vs. 'Facilities' and 'Graphics' vs. 'Graphic'. The only notable difference is the back-translation of 'DRC of Building' to 'Replacement cost building', which loses the specific meaning of 'Depreciated' from the acronym DRC, resulting in a minor loss of specific information."
+    },
+    "claim": "The average of all the 6 bars is more than 1000.",
+    "translated_claim": "Media tuturor celor 6 bare este mai mare de 1000."
+}

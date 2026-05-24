@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. It correctly reproduces the categories ('Sí', 'No'), their associated colors (green, red), and the approximate visual proportions. However, it completely omits the numerical data labels ('No: 51.3', 'Sí: 48.7') that were present in the original, which is a significant loss of key information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'No' votes registered 48.7, which is less than 50%. However, the pie chart visually depicts the red slice representing 'No' as being larger than the green slice representing 'Sí', meaning it accounts for more than 50% of the total. Additionally, the chart provides no specific percentages, dates, or context about a Bolivian referendum."
+    },
+    "claim": "The results of the 2016 Bolivian referendum registered 48.7 in No votes on December 8, 2019.",
+    "label": "FALSE"
+}

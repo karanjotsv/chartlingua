@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data, logarithmic scale, axis labels, title, annotations, and color scheme of the original chart. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the number of 'U.S. Patents Granted' from 1870 to approximately 2005. It contains no information about World War II, casualties, or Japan."
+    },
+    "claim": "Japan had the highest number of casualties in World War II.",
+    "label": "FALSE"
+}

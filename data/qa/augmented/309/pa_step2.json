@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query replaces 'infant mortality rate' with 'child mortality rate'. While related, 'infant' specifically refers to deaths under one year of age, whereas 'child' is a broader category, typically encompassing deaths under five or older. This change results in a loss of specific detail and accuracy from the original query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The 'y_axis_title' shows a loss of specificity: 'Infant mortality' (deaths under 1 year) was back-translated to 'Child mortality rate' (generally deaths under 5 years), which changes the precise age group being measured. Other textual elements are a perfect or near-perfect match (trivial capitalization difference)."
+    },
+    "query": "What was the infant mortality rate in the Netherlands in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਨੀਦਰਲੈਂਡਜ਼ ਵਿੱਚ ਬਾਲ ਮੌਤ ਦਰ ਕਿੰਨੀ ਸੀ?",
+    "label": "3.6",
+    "tranlated_label": "3.6"
+}

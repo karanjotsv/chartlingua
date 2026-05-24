@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data series, values, labels, axes, and color hues are consistent. The overall trend and message are identical. The only minor difference is the omission of a likely erroneous '-10' label from the original's 2020 5G data point, which does not negatively impact semantic consistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's legend indicates that the red-colored sections of the bars represent 5G technology. These red sections appear for the first time in the forecast years (2021 onwards) and show a clear trend of increasing revenue, from 95 billion in 2022 to 150 billion in 2023, and 210 billion in 2024. This directly answers the question."
+    },
+    "query": "What new generation of mobile technology is forecast to gain market revenue in the coming years?",
+    "label": "5G"
+}

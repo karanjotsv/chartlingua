@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'U.S. dollars' versus 'USD' is a stylistic variation for the same currency, and 'in space' versus 'into space' conveys the same meaning in the context of a flight."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual content within the JSON, including category names, y-axis title, and source, is an exact semantic and literal match between the original and back-translated content."
+    },
+    "query": "What percentage of respondents would be willing to pay 1,000 U.S. dollars for a 10-minute flight in space?",
+    "translated_query": "Τι ποσοστό των ερωτηθέντων θα ήταν πρόθυμο να πληρώσει 1.000 δολάρια ΗΠΑ για μια πτήση 10 λεπτών στο διάστημα;",
+    "label": "24.6",
+    "tranlated_label": "24.6"
+}

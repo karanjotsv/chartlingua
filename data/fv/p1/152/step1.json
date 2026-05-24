@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data series, their shapes, relative positions, and colors are accurately reproduced. The textual annotations, axis labels, and legend entries are all present and convey the same information as the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap among the annotations on the right side of the chart (e.g., 'Man Suffers More Catastrophe?', 'Can Birth Control Help...'), which makes them unreadable and obscures parts of the data lines."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the time frame on the graph is from 1900 to 2000, but the horizontal axis clearly displays a time frame from the year 1800 to 2100."
+    },
+    "claim": "The time frame on the graph takes period from 1900 to 2000. ",
+    "label": false
+}

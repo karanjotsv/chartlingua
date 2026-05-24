@@ -1,0 +1,140 @@
+{
+    "chart_type": "custom_illustration",
+    "chart_data": [
+        {
+            "name": "Development",
+            "x": [
+                2.5,
+                3,
+                3.5,
+                4,
+                4.5,
+                5
+            ],
+            "y": [
+                2.0,
+                3.0,
+                4.5,
+                5.5,
+                7.0,
+                8.5
+            ],
+            "width": 0.4
+        }
+    ],
+    "texts": {
+        "title": "SPECIAL FUND",
+        "value_label": "5¢",
+        "vertical_label": "DEVELOPMENT",
+        "footer": "UNITED NATIONS"
+    },
+    "colors": {
+        "background": "#D9E1E3",
+        "text": "#002D82",
+        "bars": "#D83A31",
+        "globe_fill": "#002D82",
+        "globe_lines": "#D9E1E3",
+        "key": "#E5B631"
+    },
+    "layout_elements": {
+        "shapes": [
+            {
+                "type": "circle",
+                "x0": 0,
+                "y0": 1,
+                "x1": 5,
+                "y1": 6,
+                "fillcolor_key": "globe_fill",
+                "line_width": 0,
+                "layer": "below"
+            },
+            {
+                "type": "circle",
+                "x0": -2.5,
+                "y0": 3,
+                "x1": -0.5,
+                "y1": 5,
+                "fillcolor_key": "key",
+                "line_width": 0,
+                "layer": "below"
+            },
+            {
+                "type": "rect",
+                "x0": -1,
+                "y0": 3.75,
+                "x1": 2.5,
+                "y1": 4.25,
+                "fillcolor_key": "key",
+                "line_width": 0,
+                "layer": "below"
+            }
+        ],
+        "procedural_shapes": {
+            "globe_lines": {
+                "count": 7,
+                "x0": 0.1,
+                "x1": 4.9,
+                "y_start": 1.5,
+                "y_end": 5.5,
+                "color_key": "globe_lines",
+                "width": 2,
+                "layer": "below"
+            }
+        },
+        "annotations": [
+            {
+                "text_key": "title",
+                "x": 0.35,
+                "y": 0.9,
+                "xref": "paper",
+                "yref": "paper",
+                "font_size": 24,
+                "xanchor": "center",
+                "showarrow": false
+            },
+            {
+                "text_key": "value_label",
+                "x": -1.5,
+                "y": 6.5,
+                "xref": "x",
+                "yref": "y",
+                "font_size": 48,
+                "xanchor": "center",
+                "showarrow": false
+            },
+            {
+                "text_key": "vertical_label",
+                "x": 6,
+                "y": 5.25,
+                "xref": "x",
+                "yref": "y",
+                "font_size": 24,
+                "textangle": -90,
+                "xanchor": "center",
+                "showarrow": false
+            },
+            {
+                "text_key": "footer",
+                "x": 0.35,
+                "y": 0.1,
+                "xref": "paper",
+                "yref": "paper",
+                "font_size": 24,
+                "xanchor": "center",
+                "showarrow": false
+            }
+        ],
+        "xaxis_range": [
+            -3,
+            7
+        ],
+        "yaxis_range": [
+            0,
+            10
+        ],
+        "figure_size": {
+            "width": 650,
+            "height": 500
+        }
+    }
+}

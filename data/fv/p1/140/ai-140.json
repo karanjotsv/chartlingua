@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie_of_pie",
+    "chart_data": {
+        "main_pie": {
+            "labels": [
+                "Dark Matter",
+                "Baryonic Matter",
+                "Dark Energy"
+            ],
+            "values": [
+                25,
+                4,
+                70
+            ]
+        },
+        "sub_pie": {
+            "labels": [
+                "Free Hydrogen & Helium",
+                "Stars",
+                "Neutrinos",
+                "Heavy Elements"
+            ],
+            "values": [
+                3.6,
+                0.5,
+                0.3,
+                0.03
+            ]
+        }
+    },
+    "texts": {
+        "title": "Cosmological Composition of the Universe",
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#6C99D3",
+        "#C00000",
+        "#1F3864",
+        "#FFC000",
+        "#92D050",
+        "#00B0F0"
+    ]
+}

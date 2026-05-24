@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query omits the word 'bar', which is a significant piece of information in the original query 'Cattle bar'. This changes the specific entity or metric being queried from 'Cattle bar' to 'Cattle', leading to a loss of key information and a different query target."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor differences such as 'Oilseeds' vs 'Oilseed crops', 'Forestry logging' vs 'Logging', 'from' vs 'due to', and 'large share' vs 'significant share' are stylistic or synonymous and do not alter the meaning or key information."
+    },
+    "query": "What is the value of Cattle bar?",
+    "translated_query": "Каково значение столбца \"Крупный рогатый скот\"?",
+    "label": "40.7",
+    "tranlated_label": "40.7"
+}

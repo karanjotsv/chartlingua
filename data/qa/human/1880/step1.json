@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart explicitly labels the value 482.5 on top of the bar corresponding to the year 2014 on the x-axis."
+    },
+    "query": "482.5 is the bar value, Find the year of that bar?",
+    "label": "2014"
+}

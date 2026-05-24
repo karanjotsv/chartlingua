@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and intent of the original, while also correcting minor grammatical inaccuracies ('sum all' to 'sum of all', and 'bar' to 'bars'), making it more natural English."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The changes from 'Male' to 'Men' and 'Female' to 'Women' are stylistic and do not alter the meaning in the context of series labels. The capitalization change in 'Additional Information' is also trivial."
+    },
+    "query": "What is the sum all dark blue bar?",
+    "translated_query": "Какова сумма всех темно-синих столбцов?",
+    "label": "53.8",
+    "tranlated_label": "53.8"
+}

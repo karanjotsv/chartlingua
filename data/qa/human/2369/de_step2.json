@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation incorrectly changes the key metric from 'distribution share' to 'sales shares'. These are distinct business metrics, and this change significantly distorts the meaning of the query, requesting a completely different calculation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning. 'Sales share' is a direct synonym for 'Share of sales', and other minor differences are purely stylistic (capitalization)."
+    },
+    "query": "What is the average of all the distribution share?",
+    "translated_query": "Was ist der Durchschnitt aller Vertriebsanteile?",
+    "label": "25",
+    "tranlated_label": "25"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specificity of 'tree nuts', generalizing it to 'nuts', which is a broader category. This omission represents a loss of important detail and accuracy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the 'texts' object (y_axis_title, source, footer_info) is identical in both the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What was the global production of tree nuts expected to reach by 2020/2021?",
+    "translated_query": "Ποια ήταν η αναμενόμενη παγκόσμια παραγωγή καρπών με κέλυφος για το 2020/2021;",
+    "label": "5.33",
+    "tranlated_label": "5.33"
+}

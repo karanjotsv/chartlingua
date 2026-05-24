@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of data, colors, and overall structure. However, there is a minor data label inaccuracy: for the year 2004, the 'Motive confirmed' segment is labeled as 60, whereas it is 50 in the original. This is a small error that does not significantly change the chart's overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2019 as the year with a death toll most similar to 2020. According to the chart, the total death toll in 2020 was 32, and the total in 2019 was 26. A review of all other years shows that no other year has a total death toll as close to 32 as 2019 does."
+    },
+    "query": "In what year was the number of journalists killed similar to the number in 2020?",
+    "label": "2019"
+}

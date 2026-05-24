@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'Poland's inflation rate' and 'the inflation rate in Poland' are stylistically different but semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original. Differences are limited to minor stylistic variations (e.g., 'the' in 'y_axis_title' and capitalization in 'additional_info') that do not alter the semantic meaning or key information."
+    },
+    "query": "What was Poland's inflation rate in 2020?",
+    "translated_query": "Ποιος ήταν ο ρυθμός πληθωρισμού της Πολωνίας το 2020;",
+    "label": "3.4",
+    "tranlated_label": "3.4"
+}

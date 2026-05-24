@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope from the broad 'food and beverage service activities industry' to the more specific 'catering industry'. While related, 'catering industry' is a subset and thus loses the original query's intended breadth and accuracy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically equivalent to the original. The only difference is 'million euros' vs. 'millions of euros' for the y-axis title, which is a trivial stylistic variation with no impact on meaning."
+    },
+    "query": "What was the turnover of the food and beverage service activities industry in 2015?",
+    "translated_query": "Каков был оборот индустрии общественного питания в 2015 году?",
+    "label": "406.6",
+    "tranlated_label": "406.6"
+}

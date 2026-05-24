@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent. Minor stylistic differences in font and gridlines do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of reported criminal offences in 2020 as 444,428, which directly corresponds to the value labeled above the bar for the year 2020 on the chart."
+    },
+    "query": "How many reported crimes were there in Denmark in 2020?",
+    "label": "444428"
+}

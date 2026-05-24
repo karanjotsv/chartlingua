@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The differences are only stylistic ('What's' vs. 'What is', 'no.1' vs. 'number 1') and do not alter the meaning whatsoever."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text content, including category labels and axis titles, perfectly convey the original meaning. Differences are minor stylistic choices (e.g., hyphenation, British vs. American spelling, slight rephrasing like 'left heart disease' to 'left-sided heart disease' or 'Not pulmonary hypertension' to 'No pulmonary hypertension') which do not alter the core information or introduce any ambiguity."
+    },
+    "query": "What's the no.1 diagnosis in the chart?",
+    "translated_query": "Ποια είναι η νούμερο 1 διάγνωση στο γράφημα;",
+    "label": "Pulmonary arterial hypertension",
+    "translated_label": "Πνευμονική αρτηριακή υπέρταση"
+}

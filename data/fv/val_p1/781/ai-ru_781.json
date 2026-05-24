@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Фактический",
+            "value": 2.5,
+            "annotation": "Ф<br>А<br>К<br>Т<br>И<br>Ч<br>Е<br>С<br>К<br>И<br>Й"
+        },
+        {
+            "category": "Прогнозируемый",
+            "value": 2.6,
+            "annotation": "П<br>Р<br>О<br>Г<br>Н<br>О<br>З<br>И<br>Р<br>У<br>Е<br>М<br>Ы<br>Й"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bar_color": "#F98D09",
+        "annotation_text_color": "#000000",
+        "grid_color": "#C0C0C0",
+        "axis_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

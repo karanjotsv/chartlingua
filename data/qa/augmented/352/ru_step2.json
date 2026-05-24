@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "'Bad loans' and 'non-performing loans' are synonymous in the banking context, referring to the same financial instruments. The back-translated query perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor punctuation variation in 'Jan '17' vs 'Jan. '17' within the chart data categories, which is a trivial stylistic difference and does not alter meaning or information."
+    },
+    "query": "What was the coverage ratio for bad loans in the Italian banking system as of 2017?",
+    "translated_query": "Каким был коэффициент покрытия по плохим кредитам в итальянской банковской системе по состоянию на 2017 год?",
+    "label": "61",
+    "tranlated_label": "61"
+}

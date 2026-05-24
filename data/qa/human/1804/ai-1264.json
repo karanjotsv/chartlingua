@@ -1,0 +1,54 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Democrat",
+            "Independent",
+            "Republican",
+            "",
+            "Hispanic",
+            "Black",
+            "White",
+            "Total"
+        ],
+        "series": [
+            {
+                "name": "Wrong decision",
+                "values": [
+                    19,
+                    37,
+                    49,
+                    null,
+                    28,
+                    12,
+                    38,
+                    34
+                ]
+            },
+            {
+                "name": "Right decision",
+                "values": [
+                    74,
+                    53,
+                    43,
+                    null,
+                    52,
+                    76,
+                    56,
+                    57
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Party Divide Wider Than Racial Gap in<br>Views of Removing Confederate Flag",
+        "subtitle": "% who say South Carolina’s decision to remove<br>Confederate flag from statehouse grounds was...",
+        "source": "Survey conducted July 14-20, 2015. Whites and blacks include only<br>those who are not Hispanic; Hispanics are of any race. Don’t know<br>responses not shown.<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#E2D4A8",
+        "#C9A844"
+    ]
+}

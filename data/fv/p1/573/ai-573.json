@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Series 1",
+            "y": [
+                47,
+                42,
+                37,
+                37,
+                15
+            ],
+            "style": {
+                "type": "solid"
+            }
+        },
+        {
+            "name": "Series 2",
+            "y": [
+                41,
+                32,
+                54,
+                27,
+                19
+            ],
+            "style": {
+                "type": "dotted_outline"
+            }
+        }
+    ],
+    "categories": [
+        "Strongly morelike",
+        "Somewhat morelike",
+        "Neither",
+        "Somewhat Wikivectors",
+        "Strongly Wikivectors"
+    ],
+    "texts": {
+        "title": "Which list has more articles that you would be interested in reading?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        [
+            "#705F7D",
+            "#C2B6D4",
+            "#E5E2D4",
+            "#A19363",
+            "#595239"
+        ],
+        "#E2E2E2"
+    ]
+}

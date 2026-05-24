@@ -1,0 +1,79 @@
+{
+    "chart_type": "dual_horizontal_bar_chart",
+    "chart_data": [
+        {
+            "name": "Besucheranteil",
+            "categories": [
+                "Immobilienentwicklung/Bauträger",
+                "Immobilieninvestment",
+                "Immobilienmanagement, -vermittlung, -vermietung",
+                "Immobilienberatung, -bewertung,<br>-forschung, -marketing",
+                "Immobilien-Projektmanagement",
+                "Architekten, Ingenieur-, Planungsbüros",
+                "Immobilienfinanzierung",
+                "Öffentlicher Sektor",
+                "Corporate Real Estate Management &<br>Betreiber von Immobilien",
+                "Unternehmensberatung, Wirtschaftsprüfung,<br>Anwälte, Steuerberater",
+                "Facility-Management-Dienstleistungen",
+                "Bauwirtschaft",
+                "Wirtschaftsregionen & Kommunen",
+                "Informationstechnologie",
+                "Verbände",
+                "Aus- & Weiterbildung,<br>Personalvermittlung"
+            ],
+            "values": [
+                16,
+                16,
+                13,
+                11,
+                10,
+                10,
+                8,
+                7,
+                6,
+                6,
+                6,
+                6,
+                4,
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "name": "Davon",
+            "categories": [
+                "Büro",
+                "Einzelhandel",
+                "Wohnen",
+                "Industrie",
+                "Logistik",
+                "Infrastruktur",
+                "Hotel",
+                "Freizeit",
+                "Dienstleistung/Soziales"
+            ],
+            "values": [
+                56,
+                44,
+                39,
+                30,
+                23,
+                19,
+                16,
+                9,
+                5
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Besucherstruktur 2010",
+        "subtitle": "Besucheranteil",
+        "source": "Quelle: EXPO REAL Messeleitung / Gelszus",
+        "note": "Mehrfachnennungen möglich",
+        "secondary_chart_title": "<b>Davon:</b>"
+    },
+    "colors": [
+        "#D8272D"
+    ]
+}

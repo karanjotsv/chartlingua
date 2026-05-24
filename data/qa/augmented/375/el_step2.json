@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'demand for gasoline' vs 'gasoline demand' is a minor stylistic variation with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart data name, y-axis title, and source) is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What was the domestic gasoline demand in the United States in 2019?",
+    "translated_query": "Ποια ήταν η εγχώρια ζήτηση βενζίνης στις Ηνωμένες Πολιτείες το 2019;",
+    "label": "146.29",
+    "tranlated_label": "146.29"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data values, trends, series labels, marker shapes, and color hues are all consistent with the original. The core message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart title is clipped on the right side, with the last word ('dollars') being cut off."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that total expenses decreased from 2004-2020, but the chart's yellow line, representing 'Total expenses', clearly shows a consistent and significant increase throughout this period."
+    },
+    "claim": "There has been an overall decrease in total expenses from 2004-2020",
+    "label": "FALSE"
+}

@@ -1,0 +1,58 @@
+{
+    "chart_type": "line_chart",
+    "chart_data": [
+        {
+            "name": "Performance vs Arousal",
+            "x": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "y": [
+                3.6,
+                6.4,
+                8.4,
+                9.6,
+                10,
+                9.6,
+                8.4,
+                6.4,
+                3.6
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Arousal",
+        "y_axis_title": "Performance",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "Optimum<br>arousal level",
+                "x": 5,
+                "y": 10,
+                "ax": 0,
+                "ay": -60,
+                "font_size": 16,
+                "arrowhead": 2,
+                "arrowsize": 1.2,
+                "arrowwidth": 1.5,
+                "align": "center"
+            }
+        ]
+    },
+    "colors": {
+        "curve": [
+            "#000000"
+        ],
+        "axis_and_text": "#000000"
+    }
+}

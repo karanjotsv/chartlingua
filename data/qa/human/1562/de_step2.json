@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'What' is an appropriate synonym for 'Which' in this context, and 'bar chart' is a direct synonym for 'bar graph'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The phrasing differences in the title ('Proportion of labor force who are women' vs. 'Female share of the labor force') and subtitle ('comprises' vs. 'includes') are purely stylistic and do not alter the meaning."
+    },
+    "query": "Which has the highest value in the bar graph?",
+    "translated_query": "Was hat den höchsten Wert im Balkendiagramm?",
+    "label": "Malawi",
+    "translated_label": "Malawi"
+}

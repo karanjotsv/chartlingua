@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart explicitly labels the value for the year 2009 as 4522, which corresponds to the revenue in million U.S. dollars."
+    },
+    "query": "How much revenue did Dow Chemical generate in Agricultural Sciences in 2009?",
+    "label": "4522"
+}

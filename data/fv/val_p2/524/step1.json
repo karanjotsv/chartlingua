@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect match to the original. All data values, proportions, labels, title, and color assignments are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 12.3% of people 'Only smoke' and 1.1% 'Both smoke and snus'. The average of these two values is (12.3 + 1.1) / 2 = 6.7%, which is not 'about 10%' as claimed."
+    },
+    "claim": "The average of the people who only smoke and both smoke and snus is about 10%",
+    "label": "FALSE"
+}

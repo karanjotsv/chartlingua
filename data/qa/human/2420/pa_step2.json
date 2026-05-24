@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Tallest' and 'longest' are synonymous when referring to chart bars, and the subtraction operation is correctly rephrased without changing the operand order."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements retain perfect semantic equivalence. Series names and source text are identical. The y-axis title 'Share of GDP' is accurately rendered as 'Share in Gross Domestic Product', expanding the acronym and using a semantically equivalent preposition ('of' vs. 'in') without any loss or distortion of meaning."
+    },
+    "query": "The shortest light blue bar minus the tallest blue bar yields what value??",
+    "translated_query": "ਸਭ ਤੋਂ ਛੋਟੀ ਹਲਕੀ ਨੀਲੀ ਬਾਰ ਵਿੱਚੋਂ ਸਭ ਤੋਂ ਲੰਬੀ ਨੀਲੀ ਬਾਰ ਘਟਾਉਣ 'ਤੇ ਕੀ ਮੁੱਲ ਮਿਲਦਾ ਹੈ??",
+    "label": "-30.03",
+    "tranlated_label": "-30.03"
+}

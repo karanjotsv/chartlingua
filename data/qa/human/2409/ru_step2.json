@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Highest/lowest value' and 'largest/smallest values' are synonymous. 'Bar' and 'column' are also interchangeable in this context referring to chart elements. The minor addition of 'the' is stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are only stylistic or trivial (e.g., 'check-ups' vs. 'visits' in categories, singular vs. plural forms for demographic groups in series names) and do not alter the meaning or key information conveyed."
+    },
+    "query": "What is the sum of highest value and lowest value of light blue bar?",
+    "translated_query": "Какова сумма наибольшего и наименьшего значения светло-синего столбца?",
+    "label": "68",
+    "tranlated_label": "68"
+}

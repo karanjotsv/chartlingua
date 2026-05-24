@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All key elements, including the shapes of the two curves, their intersection point, axis labels, series labels, and color hues, are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart illustrates the relationship between two metrics, 'c-index' and 'h-index'. The claim, however, discusses energy generation sources in Tennessee. There is no information in the chart about coal, nuclear power, or Tennessee."
+    },
+    "claim": "Coal and nuclear are the two main sources of generation for Tennessee",
+    "label": "TRUE"
+}

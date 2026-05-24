@@ -1,0 +1,57 @@
+{
+    "chart_type": "side_by_side_pie_charts",
+    "chart_data": [
+        {
+            "title": "NESTLING LESS THAN ONE WEEK OLD",
+            "labels": [
+                "BEETLES",
+                "GRAIN",
+                "MISCELLANEOUS",
+                "SPIDERS",
+                "LEPIDOPTERA",
+                "ORTHOPTERA"
+            ],
+            "values": [
+                6,
+                25,
+                6,
+                1,
+                12,
+                50
+            ]
+        },
+        {
+            "title": "ADULT",
+            "labels": [
+                "GRAIN",
+                "ORTHOPTERA",
+                "BEETLES"
+            ],
+            "values": [
+                96,
+                2,
+                2
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": "FIG. 160.—Diagram showing proportions of food of English sparrow,<br><i>Passer domesticus</i>, young and adult. (After Judd.)"
+    },
+    "colors": [
+        [
+            "#FFFFFF",
+            "#D3D3D3",
+            "#A9A9A9",
+            "#808080",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        [
+            "#D3D3D3",
+            "#FFFFFF",
+            "#FFFFFF"
+        ]
+    ]
+}

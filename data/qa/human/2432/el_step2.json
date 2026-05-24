@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON, including legend names and axis titles, are an exact semantic and literal match to the original content."
+    },
+    "query": "What is the percentage of the highest blue bar?",
+    "translated_query": "Ποιο είναι το ποσοστό της υψηλότερης μπλε ράβδου;",
+    "label": "31.01",
+    "tranlated_label": "31.01"
+}

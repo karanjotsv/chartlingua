@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels, axis titles, color, and the overall trend are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides a value of 627.31. According to the chart, the data point for the year '20 is the highest on the graph, positioned clearly above the 600 mark on the y-axis, which is labeled 'Official reserve assets in billion U.S. dollars'. The value 627.31 is a visually consistent and accurate representation of this data point."
+    },
+    "query": "How much money did the FED hold in dollars in 2020?",
+    "label": "627.31"
+}

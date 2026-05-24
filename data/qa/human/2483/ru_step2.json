@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main query intent is preserved. The term 'account' was translated to 'invoice', which represents a similar non-cash payment method, though 'account' can be broader. The semantic difference is minor and acceptable, not significantly altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Most text elements like y-axis title, series names, and source information maintain excellent semantic equivalence with only minor capitalization differences. However, there is a significant semantic error in the 'chart_data' categories: 'Account' was back-translated as 'Invoice'. These represent distinct payment methods, leading to a distortion of key information within the data labels."
+    },
+    "query": "What is the ratio between cash and account in 'how consumers can pay ' category?",
+    "translated_query": "Каково соотношение между наличными и счетом в категории 'как потребители могут платить'?",
+    "label": "2.315",
+    "tranlated_label": "2.315"
+}

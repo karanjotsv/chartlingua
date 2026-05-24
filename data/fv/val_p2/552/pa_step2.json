@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation changes 'The Atrophy source' to 'Atrophy', which fundamentally alters what is being quantified. It also transforms 'in the OECD 2006' to 'in Source OECD 2006', implying a specific publication rather than a more general reference to OECD data from that year. Key information is distorted."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title and subtitle show minor stylistic/grammatical improvements in the back-translation without altering meaning. The main semantic difference is 'Total Aid' becoming 'Total Support', which is a minor nuance change. Other elements like 'Atrophy' label and 'Source' are perfectly preserved."
+    },
+    "claim": "The Atrophy source  is 12  billion dollars in the OECD 2006.",
+    "translated_claim": "ਐਟ੍ਰੋਫੀ ਸਰੋਤ OECD 2006 ਵਿੱਚ 12 ਅਰਬ ਡਾਲਰ ਹੈ।"
+}

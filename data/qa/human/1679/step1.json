@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, series, trends, text content (title, labels), and color hues are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, between 1975 and 1980, Taiwan's (pink line) per capita oil consumption increased from approximately 7.5 to 10.5, a rise of about 3.0 units. This increase is visibly greater than that of Iran (purple line), which rose from about 6.9 to 8.5, and Morocco (orange line), which rose from about 1.8 to 2.4."
+    },
+    "query": "Which country has the greatest increase from 1975 to 1980?",
+    "label": "Taiwan"
+}

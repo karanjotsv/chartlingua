@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, categories, labels, and the overall title are identical. The color hues for 'Political left' (green), 'Political right' (red), and 'Political center' (grey) are consistent, conveying the same information. The primary difference is stylistic (e.g., a solid grey bar instead of a gradient bar, a standard legend), which does not alter the chart's core message or data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change in various countries. The claim is about bilingualism rates in Canada from 1941 to 2006. The chart does not contain any information about bilingualism or the specified time period."
+    },
+    "claim": "ROC has the highest rates of Bilingualism in Canada from 1941 to 2006.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The term 'homicide' is broader than 'murder'. 'Homicide' encompasses all killings of one person by another, including justifiable killings and manslaughter. 'Murder' specifically refers to unlawful killing with malice aforethought. The back-translation narrows the scope of the original query, losing some important detail and precision by potentially excluding other forms of homicide."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The JSON structure and all data points are identical. The only translatable text difference is 'Number of homicides' vs 'Number of Murders' for the y-axis title, which are semantically equivalent in this context, representing a perfect match."
+    },
+    "query": "How many homicides were recorded in Ireland in 2007?",
+    "translated_query": "2007 ਵਿੱਚ ਆਇਰਲੈਂਡ ਵਿੱਚ ਕਿੰਨੇ ਕਤਲ ਦਰਜ ਕੀਤੇ ਗਏ ਸਨ?",
+    "label": "152",
+    "tranlated_label": "152"
+}

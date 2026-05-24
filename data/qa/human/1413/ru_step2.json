@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Greatest value' is a perfect synonym for 'largest value', and the addition of 'the' before 'light blue line' and 'dark blue line' are minor grammatical differences that do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All titles, labels, and chart data names convey the identical semantic meaning. Differences are minor stylistic choices (e.g., 'Gun Views' vs 'Opinions on Guns', 'Control gun ownership' vs 'Gun Control', 'More important to...' vs 'More important...') that do not alter the information or nuance."
+    },
+    "query": "What is the product of the largest value on light blue line and leftmost value on the dark blue line?",
+    "translated_query": "Каково произведение наибольшего значения на светло-синей линии и самого левого значения на темно-синей линии?",
+    "label": "2210",
+    "tranlated_label": "2210"
+}

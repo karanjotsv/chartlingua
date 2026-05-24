@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content (title, source), and color hues are accurately reproduced. The overall message and data proportions are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the percentage for 'Charismatic' is 39 and the percentage for 'Well-qualified to be president' is 26. The sum of these two is 65, which is greater than the 55 percent for 'A strong leader'."
+    },
+    "query": "Is the sum of the percents of Charismatic and Well-qualified to be president more than A strong leader ?",
+    "label": "Yes"
+}

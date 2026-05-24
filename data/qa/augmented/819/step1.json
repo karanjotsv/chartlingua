@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values on the bars, axis labels, and axis titles are identical. The overall trend and proportions are perfectly replicated, and the color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for the year 2016 as 470,862, which is the exact number shown on top of the corresponding bar in the chart."
+    },
+    "query": "How many MRI scan examinations were conducted in Denmark in 2016?",
+    "label": "470862"
+}

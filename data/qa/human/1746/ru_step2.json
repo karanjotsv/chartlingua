@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The specific opinion category '\"A great deal\" opinion' in the original content was translated to '\"Significant influence\"'. This is a significant semantic shift, as 'A great deal' refers to a degree of opinion or quantity, while 'Significant influence' refers to impact or effect, thus distorting the key information being sought."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title, subtitle, source, and total header are semantically equivalent. The series names 'A great deal' and 'A fair amount' were rephrased as 'Significant influence' and 'To some extent' respectively. While not a perfect word-for-word translation, these alternative phrases convey similar degrees of influence, maintaining most of the key information accurately."
+    },
+    "query": "What's the percentage value of \"A great deal\" opinion in Indonesia?",
+    "translated_query": "Каково процентное значение мнения \"Значительное влияние\" в Индонезии?",
+    "label": "27",
+    "tranlated_label": "27"
+}

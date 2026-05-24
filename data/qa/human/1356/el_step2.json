@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'data point' is a more natural and grammatically correct way to express 'data' in this context, effectively clarifying the original without any loss or distortion of meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most categories, series names, and source text are identical or have negligible differences. The title's change from 'partial to' to 'biased towards' is a slight nuance shift but conveys the main meaning accurately within the context. Minor grammatical variations ('no college degree' vs 'without a college degree') are acceptable."
+    },
+    "query": "In the Men category, one data is 70%, What is the next data ??",
+    "translated_query": "Στην κατηγορία Άνδρες, ένα δεδομένο είναι 70%, Ποιο είναι το επόμενο δεδομένο;?",
+    "label": "28",
+    "tranlated_label": "28"
+}

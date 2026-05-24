@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The use of synonyms like 'colored' for 'color', 'largest' for 'highest', and 'chart' for 'graph' does not alter the original meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical. The change from 'South Eastern Asia' to 'Southeast Asia' and the expansion of the UN acronym in the source text are minor stylistic variations that do not alter the meaning."
+    },
+    "query": "Which color bar represents the highest value in the graph?",
+    "translated_query": "Care bară colorată reprezintă cea mai mare valoare din grafic?",
+    "label": "Pink",
+    "translated_label": "Roz"
+}

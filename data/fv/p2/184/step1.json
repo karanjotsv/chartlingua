@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, text labels (title, axes), and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The rendered chart incorrectly displays the text 'null' above several of the bars, which is a generation artifact not present in the original."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that Historical Artifacts have a percentage of 58. Famous Photos have a percentage of approximately 15. The difference between them is 43 (58 - 15), which is significantly greater than 20, thus refuting the claim."
+    },
+    "claim": "The difference between Historical articats and famous photos is less than 20.",
+    "label": "FALSE"
+}

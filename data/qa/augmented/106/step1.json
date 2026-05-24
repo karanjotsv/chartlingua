@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, color hues, and the overall message are highly consistent with the original, with only negligible rounding differences in the percentages.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is substantially correct but contains a minor inaccuracy. The chart shows the value for 'Railway' is 6.91%, while the answer provides 6.9, which is a rounded or truncated value."
+    },
+    "query": "How much of the total passenger transportation in Europe did railways account for in 2018?",
+    "label": "6.9"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The slight difference between 'Which is' and 'What was' does not alter the core question or its expected answer in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content has a notable semantic discrepancy: 'Sorghum' was translated to 'Millet'. Sorghum and Millet are distinct types of grain, making this a factual error in a category label. Other text elements like 'Rice (milled)' vs 'Rice (Milled)' and 'Corn' vs 'Maize' are acceptable stylistic or synonymous differences, and the x-axis title and source are equivalent. However, the 'Sorghum'/'Millet' change affects the accuracy of an important detail."
+    },
+    "query": "Which is the most produced grain in  2019/20?",
+    "translated_query": "ਸਾਲ 2019/20 ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਉਤਪਾਦਿਤ ਅਨਾਜ ਕਿਹੜਾ ਹੈ?",
+    "label": "Corn",
+    "translated_label": "ਮੱਕੀ"
+}

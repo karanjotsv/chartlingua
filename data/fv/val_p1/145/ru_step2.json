@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the meaning of the original query. Differences are minor and do not impact semantic equivalence (alternative spelling of 'Savanna/Savannah', synonymous use of 'variety/type', and added punctuation)."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels show excellent semantic matching, with 'Hardwood' often translated to 'Deciduous', and minor spelling (Savanna/h) or grammatical variations ('poorly drained' vs 'with Poor Drainage'). One minor semantic shift is 'Mixed Hardwoods - Prairie' becoming 'Mixed Deciduous Forests - Prairie', where the addition of 'Forests' slightly alters the nuance, but the core meaning is preserved. The source text also maintains high semantic equivalence with only minor lexical changes like 'Sourced-from' to 'Source' and slight rephrasing of a phrase, without losing critical information."
+    },
+    "claim": "Oak Savanna is the dominant variety of native vegetation for Cass County Minnesota.",
+    "translated_claim": "Дубовая саванна является доминирующим видом местной растительности для округа Касс, Миннесота."
+}

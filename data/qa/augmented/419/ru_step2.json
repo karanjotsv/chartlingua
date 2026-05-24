@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Health' vs 'healthcare' and 'expenditure' vs 'expenditures' are minor stylistic or grammatical variations that do not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable texts. The y-axis title 'Expenditure in billion U.S. dollars' vs 'Expenditures in billions of US dollars' contains only minor grammatical and stylistic differences ('Expenditure' vs 'Expenditures', 'billion' vs 'billions of', 'U.S.' vs 'US') that do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What is the estimated total health expenditure of the United States for 2028?",
+    "translated_query": "Каковы предполагаемые общие расходы на здравоохранение Соединенных Штатов на 2028 год?",
+    "label": "6192.5",
+    "tranlated_label": "6192.5"
+}

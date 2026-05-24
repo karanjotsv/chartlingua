@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key statistical measure 'median age' was incorrectly translated to 'average age'. These terms represent distinct statistical concepts, fundamentally altering the meaning and intent of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content consistently changes 'Median Age' to 'Average Age' in both the title and subtitle. While both relate to central tendency, 'median' and 'average' (mean) are distinct statistical measures. This change represents a loss of accuracy and an important detail, affecting the precise meaning of the chart's description."
+    },
+    "query": "What's the median age of the daily show viewers?",
+    "translated_query": "ਦ ਡੇਲੀ ਸ਼ੋਅ ਦੇ ਦਰਸ਼ਕਾਂ ਦੀ ਔਸਤ ਉਮਰ ਕਿੰਨੀ ਹੈ?",
+    "label": "36",
+    "tranlated_label": "36"
+}

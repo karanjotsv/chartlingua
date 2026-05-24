@@ -1,0 +1,41 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Dem/Lean Dem",
+            "Rep/Lean Rep",
+            "Total"
+        ],
+        "series": [
+            {
+                "name": "No significant changes are needed",
+                "values": [
+                    20,
+                    57,
+                    37
+                ]
+            },
+            {
+                "name": "Significant changes are needed",
+                "values": [
+                    79,
+                    41,
+                    62
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<b>Wide partisan gap on whether design of<br>U.S. govt. needs ‘significant changes’</b>",
+        "subtitle": "<i>Thinking about the fundamental design and structure of<br>American government, % who say ...</i>",
+        "footer": "Note: No answer responses not shown.<br>Source: Survey of U.S. adults conducted July 27-Aug. 2, 2020.<br><b>PEW RESEARCH CENTER</b>",
+        "series_headers": [
+            "No significant<br>changes are needed",
+            "Significant changes<br>are needed"
+        ]
+    },
+    "colors": [
+        "#d4c18c",
+        "#998539"
+    ]
+}

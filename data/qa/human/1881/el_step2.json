@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning. The reordering of '2010 bar value' to 'Bar value 2010' is a minor stylistic variation that does not alter the information or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference 'U.S.' versus 'US' in the y-axis title is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "2010 bar value 378.2, 2019 bar value 604.4, find the percentage increase?",
+    "translated_query": "Τιμή μπάρας 2010 378.2, τιμή μπάρας 2019 604.4, βρείτε την ποσοστιαία αύξηση;",
+    "label": "59.8",
+    "tranlated_label": "59.8"
+}

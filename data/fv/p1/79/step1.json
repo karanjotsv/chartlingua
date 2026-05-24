@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content (title, axis labels), color hue, and the overall message are all consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows a significantly higher bar for 'Male' (approximately 49) compared to the bar for 'Female' (approximately 1-2), directly contradicting the claim that the number of female users is higher than the number of male users."
+    },
+    "claim": "THE NUMBER OF FEMALE USERS IS HIGHER THAN THE NUMBER OF MALE USERS ON ENGLISH WIKTIONARY",
+    "label": false
+}

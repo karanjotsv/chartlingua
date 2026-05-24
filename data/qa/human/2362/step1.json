@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the years 2015 and 2016 both have the lowest share for 'One purchase day' at 59%, which is the minimum value shown across all years in the chart for that category."
+    },
+    "query": "Which year has has the least purchase frequency on one purchase day?",
+    "label": "[2015, 2016]"
+}

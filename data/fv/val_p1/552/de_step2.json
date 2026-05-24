@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The differences are purely stylistic or use synonyms ('is in the lead' vs. 'leads', 'graph' vs. 'chart'/'diagram') that do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The only differences are a minor capitalization change in the title and the use of 'Other' instead of 'Others' in a data label, both of which are stylistically insignificant and do not alter the meaning."
+    },
+    "claim": "france is in the lead of wikipedians, as the blue 'france' portion of the graph is more than half of the graph",
+    "translated_claim": "Frankreich ist bei den Wikipedianern führend, da der blaue 'Frankreich'-Anteil des Diagramms mehr als die Hälfte des Diagramms ausmacht."
+}

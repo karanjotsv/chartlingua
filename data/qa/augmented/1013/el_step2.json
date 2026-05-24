@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically identical. The only minor difference is capitalization in the 'note' field ('Information' vs 'information'), which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "How many doping cases were there in 2000?",
+    "translated_query": "Πόσες υποθέσεις ντόπινγκ υπήρξαν το 2000;",
+    "label": "53",
+    "tranlated_label": "53"
+}

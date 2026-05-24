@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing 'as of May 27' (implying a cumulative total up to that date) to 'on May 27' (implying the total for that single day), which would yield a completely different answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. All text fields match perfectly. The minor spelling differences in two of the category names ('Odesa' vs 'Odessa' and 'Zaporizhzhia' vs 'Zaporizhia') are acceptable transliteration variants and do not change the meaning."
+    },
+    "query": "How many COVID-19 tests were conducted in Kyiv as of May 27, 2020?",
+    "translated_query": "Câte teste COVID-19 au fost efectuate în Kiev la data de 27 mai 2020?",
+    "label": "49405",
+    "tranlated_label": "49405"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is a poor representation of the original infographic. It omits several entire sub-charts, including 'Population under 16', 'Economic Inactivity', and 'Weekly Earnings'. Additionally, the 'House Prices' chart is incomplete and poorly labeled. While the elements that are present (donuts, map, one bar chart) are generally correct, the massive amount of missing data fundamentally changes the scope and message of the original profile.",
+        "has_visual_flaws": true,
+        "flaw_reason": "Yes, there are multiple significant flaws. There is severe text overlap on the x-axis labels of the bottom bar chart and on the map labels, making them unreadable. There is a large, empty, and malformed plot area where several charts from the original are missing. One of the rendered bar charts is also incomplete, lacking proper labels and values."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any data or labels related to 'economic inactivity'. Therefore, the claim cannot be verified from the provided information."
+    },
+    "claim": "Wales has the highest percentage of economic inactivity.",
+    "label": false
+}

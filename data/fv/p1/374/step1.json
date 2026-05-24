@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The proportions are correctly represented, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies a year (2010) and a location (Romania), but the chart provides no information about the date or the geographical area to which the data applies."
+    },
+    "claim": "In 2010, Hydro was the primary source of Electricity production in Romania.",
+    "label": true
+}

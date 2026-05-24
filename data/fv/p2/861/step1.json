@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent representation of the original. All data values, labels, and color-to-category assignments are identical. The overall message about browser market share is perfectly preserved. Minor stylistic differences like the exploded slice and rotational order of slices do not alter the semantic meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays market share percentages for web browsers. The claim discusses female employment in agricultural occupations in Ripple in 1881. The chart contains no information whatsoever about historical employment, locations, or demographics, making it impossible to support the claim."
+    },
+    "claim": "In Ripple in 1881, females were employed in agricultural occupations.",
+    "label": "FALSE"
+}

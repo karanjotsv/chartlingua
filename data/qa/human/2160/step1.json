@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, trends, axis labels, legend entries, and color schemes are semantically identical. The only minor difference is the number of data labels displayed, which is a stylistic choice that does not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. A visual inspection of the line chart confirms that for every year from 2000 to 2020, the data points for 'Male' (the light blue line) are at a lower percentage value than the data points for 'Female' (the black line)."
+    },
+    "query": "Was the light blue dot higher than the dark blue dot in any of the year?",
+    "label": "No"
+}

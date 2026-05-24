@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues are consistent with the original. The overall message and structure are identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The label for the 'Large-scale solar PV 2%' slice is very small, compressed, and overlaps with the slice boundary, making it difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that coal was the source for 50% of Australian Electricity generation. The chart shows two types of coal contributing to the total: Black coal at 47% and Brown coal at 15%. The combined total for coal is 62% (47% + 15%), not 50%."
+    },
+    "claim": "The coal  source needed 50% for Australian Electricity generation in 2017.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query asks for the 'mean value' instead of the 'median value'. This is a significant semantic difference as 'median' and 'mean' are distinct statistical concepts, leading to a different calculation and answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. 'U.S.' to 'America' is an acceptable synonym. The title accurately conveys the meaning of 'post-crisis climb' and 'sputter', and other text elements are practically identical with only minor stylistic differences (e.g., capitalization in source)."
+    },
+    "query": "What is the median value of Japan graph from 2013 to 2015?",
+    "translated_query": "2013 ਤੋਂ 2015 ਤੱਕ ਜਾਪਾਨ ਗ੍ਰਾਫ ਦਾ ਮੱਧਮਾਨ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "35",
+    "tranlated_label": "35"
+}

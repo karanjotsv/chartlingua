@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, axis labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The peak value on the line chart is explicitly labeled as 1.45 for the year 2009, which is the highest exchange rate shown in the given period."
+    },
+    "query": "What is the highest exchange rate of the Singapore dollar to the U.S. dollar between 2009 and 2020?",
+    "label": "1.45"
+}

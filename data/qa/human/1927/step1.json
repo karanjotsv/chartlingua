@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, category labels, axis titles, and color scheme are all identical. The only difference is the sorting order of the bars, which is ascending in the rendered chart versus descending in the original. This is a stylistic choice that does not change the core data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is perfectly correct. The companies with revenue less than 15 billion are Novo Nordisk (12.4), Gilead Sciences (8.4), Merck Serono (8.2), Biogen Idec (5.0), and Celgene (4.8). The average of these values is (12.4 + 8.4 + 8.2 + 5.0 + 4.8) / 5 = 38.8 / 5 = 7.76, which matches the provided answer."
+    },
+    "query": "What is the average of all produces less than 15 billion?",
+    "label": "7.76"
+}

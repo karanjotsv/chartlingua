@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. All data categories, values, and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the chart displays data from the year 2012, but there is no information within the chart image (such as a title or a caption) to indicate the year the data represents."
+    },
+    "claim": "The chart displays the distribution of browsers most used in 2012",
+    "label": "TRUE"
+}

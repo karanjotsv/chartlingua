@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is a poor representation of the original. It is missing the vast majority of the numerical data and textual context, including the data for population, median age, economic output, weekly earnings, and crime. While the unemployment and house price bar charts are present with correct proportions, their associated labels are either unreadable due to overlap or completely missing, making the chart largely uninformative and failing to convey the original's message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe visual flaws. There is massive, unreadable text overlap on the unemployment chart, rendering all its labels and annotations illegible. Additionally, some header labels are clipped ('Economic', 'Weekly Ea...'), and several key chart elements (the two donut charts) are rendered as empty placeholders."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is titled 'Regional Profile of the North East' and contains no data or mention of London. Additionally, the 'Median Age' section of the chart for the North East does not display any specific value, making the comparison in the claim impossible to verify from the provided information."
+    },
+    "claim": "Median age in London is less than in North East. ",
+    "label": true
+}

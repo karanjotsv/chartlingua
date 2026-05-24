@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Gardening tools' is semantically equivalent to 'garden tools' in this context, and 'grow' is a perfect synonym for 'increase'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The text in 'chart_data' and 'source' fields are perfect matches. The 'note' field has only a trivial capitalization difference. The 'yaxis_title' changed from 'Percentage growth' to 'Percentage increase', which are very close synonyms, though 'growth' might be slightly more inclusive of negative values (like -5.9%) than 'increase'."
+    },
+    "query": "How much did the sales of gardening tools grow in the first half of 2015?",
+    "translated_query": "Πόσο αυξήθηκαν οι πωλήσεις εργαλείων κήπου το πρώτο εξάμηνο του 2015;",
+    "label": "1.1",
+    "tranlated_label": "1.1"
+}

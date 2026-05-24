@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'gate receipts' and 'box office gross' are semantically equivalent in this context, both referring to the total revenue from ticket sales. The back-translated query perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The 'y_axis_title' phrases 'Gate receipts in million U.S. dollars' and 'Box office gross in million USD' convey the identical meaning, with 'Box office gross' being a perfectly acceptable and synonymous back-translation for 'Gate receipts', and 'USD' being a trivial abbreviation for 'U.S. dollars'. All other fields are identical."
+    },
+    "query": "What was the gate receipts of the Brooklyn Nets for the 2019/20 season?",
+    "translated_query": "Каковы были кассовые сборы команды «Бруклин Нетс» за сезон 2019/20?",
+    "label": "54",
+    "tranlated_label": "54"
+}

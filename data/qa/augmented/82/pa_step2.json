@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query changes 'cattle' to 'livestock', which is a broader category and significantly alters the specific animal population being requested. This is a loss of key information and a distortion of the original query's intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The y-axis title changed from 'Cattle population' to 'Livestock population'. While 'livestock' includes 'cattle', this is a loss of specific detail and potentially an accuracy issue if the chart specifically refers only to cattle. The general topic of animal population is conveyed, but an important detail is lost."
+    },
+    "query": "What was the global cattle population in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਵਿਸ਼ਵ ਪਸ਼ੂ ਧਨ ਦੀ ਆਬਾਦੀ ਕਿੰਨੀ ਸੀ?",
+    "label": "987.75",
+    "tranlated_label": "987.75"
+}

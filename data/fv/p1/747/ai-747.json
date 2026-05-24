@@ -1,0 +1,124 @@
+{
+    "chart_type": "line_and_scatter",
+    "chart_data": [
+        {
+            "name": "Discharge",
+            "x": [
+                "2011-08-26 00:00",
+                "2011-08-26 12:00",
+                "2011-08-27 00:00",
+                "2011-08-27 12:00",
+                "2011-08-28 01:00",
+                "2011-08-28 03:00",
+                "2011-08-28 07:00",
+                "2011-08-28 09:00",
+                "2011-08-28 12:00",
+                "2011-08-28 18:00",
+                "2011-08-29 00:00",
+                "2011-08-29 12:00",
+                "2011-08-30 00:00",
+                "2011-08-30 12:00",
+                "2011-08-31 00:00",
+                "2011-08-31 12:00",
+                "2011-09-01 00:00",
+                "2011-09-01 12:00"
+            ],
+            "y": [
+                25,
+                20,
+                15,
+                14,
+                11,
+                100,
+                3000,
+                6800,
+                5000,
+                1500,
+                1000,
+                600,
+                400,
+                280,
+                200,
+                140,
+                100,
+                80
+            ],
+            "mode": "lines",
+            "line_color": "#0072B2"
+        },
+        {
+            "name": "Median daily statistic (35 years)",
+            "x": [
+                "2011-08-26",
+                "2011-08-27",
+                "2011-08-28",
+                "2011-08-29",
+                "2011-08-30",
+                "2011-08-31",
+                "2011-09-01"
+            ],
+            "y": [
+                5.5,
+                5.5,
+                5.5,
+                5.5,
+                5.5,
+                5.5,
+                5.5
+            ],
+            "mode": "markers",
+            "marker_symbol": "triangle-up",
+            "marker_size": 8,
+            "marker_color": "#FCF7A8",
+            "marker_line_color": "#D2A000",
+            "marker_line_width": 1.5
+        }
+    ],
+    "special_elements": {
+        "header_banner": {
+            "color": "#006747"
+        },
+        "approved_data_period": {
+            "name": "Period of approved data",
+            "y_value": 4.0,
+            "color": "#008000",
+            "height": 0.2
+        }
+    },
+    "texts": {
+        "title": "<b>USGS 01350080 MANOR KILL AT WEST CONESVILLE NEAR GILBOA NY</b>",
+        "y_axis_title": "Discharge, cubic feet per second",
+        "x_axis_ticktext": [
+            "Aug<br>26<br>2011",
+            "Aug<br>27<br>2011",
+            "Aug<br>28<br>2011",
+            "Aug<br>29<br>2011",
+            "Aug<br>30<br>2011",
+            "Aug<br>31<br>2011",
+            "Sep<br>01<br>2011"
+        ],
+        "x_axis_tickvals": [
+            "2011-08-26",
+            "2011-08-27",
+            "2011-08-28",
+            "2011-08-29",
+            "2011-08-30",
+            "2011-08-31",
+            "2011-09-01"
+        ]
+    },
+    "layout_options": {
+        "y_axis_type": "log",
+        "y_axis_tickvals": [
+            4.0,
+            10.0,
+            100.0,
+            1000.0,
+            7000.0
+        ],
+        "y_axis_range_log": [
+            0.55,
+            3.9
+        ]
+    }
+}

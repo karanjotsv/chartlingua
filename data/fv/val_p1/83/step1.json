@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, categories, labels, titles, and the overall trend are accurately reproduced. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the largest category of land is the one with '< 1' percent impervious cover. The bar for this category reaches a value on the y-axis that is visibly the highest, representing the largest percent of the conterminous United States. This value is clearly below the 80% line and appears to be around 76%, which can be reasonably described as 'just under 80.00%'."
+    },
+    "claim": "The largest percent of the conterminous United States, with regard to impervious cover is just under 80.00%.",
+    "label": true
+}

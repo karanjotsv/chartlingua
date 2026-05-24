@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, title, and legend. The color hues are consistent, and the overall message is identical. The primary difference is the change from a 3D to a 2D pie chart, which is a stylistic choice that does not affect data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Mold' is in the least position for defect contributions. However, the pie chart shows 'Mold' contributing 20%, while 'Material' and 'Men (Operator)' are the least, each contributing 10%."
+    },
+    "claim": "Mold is in the least position in the contributions to the plastic defects",
+    "label": false
+}

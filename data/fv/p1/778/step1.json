@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and the overall title are identical to the original. The color hue and proportions are also consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the most common response for defining Wikimedia is 'Support for Wikipedia' with 7 counts. However, the total number of responses is 23 (7+5+4+4+3). Since 7 is less than half of 23, it is not accurate to say 'most people' gave this response."
+    },
+    "claim": "Most people show support of Wikimedia. ",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect semantic match to the original. All data categories, values, and their relative proportions are identical. The color hues for each category are also consistent, preserving the visual grouping of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the percentage for Water is 5% and the percentage for Fire is 5%. Their sum is 10%. The percentage for Surges is 31%. Since 10% is not equal to 31%, the claim is refuted."
+    },
+    "claim": "The total amount of water and fire reason is equal to surges reason.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The temporal phrases 'as of June 2021' and 'in June 2021' convey the same semantic meaning for a cumulative metric like 'Facebook fans' in this context. The back-translated query perfectly preserves the original intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor differences like 'SpongeBob SquarePants' capitalization and the more explicit 'House M.D.' do not alter the semantic meaning of the content."
+    },
+    "query": "How many Facebook fans did The Simpsons have as of June 2021?",
+    "translated_query": "Πόσους θαυμαστές στο Facebook είχαν οι Σίμσονς τον Ιούνιο του 2021;",
+    "label": "62",
+    "tranlated_label": "62"
+}

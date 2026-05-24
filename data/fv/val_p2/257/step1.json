@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, series, labels, text, and color hues from the original chart. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The line chart clearly shows that the percentage for 'Sí' (the orange line) is consistently above 85% across all dates, while the percentages for 'No', 'Blanc', and 'Null' are all consistently below 10%. This visually confirms that 'Sí' had the highest percentage in the referendums."
+    },
+    "claim": "The highest percentage in the 2009-2010 Referendums was cast by SI.",
+    "label": "TRUE"
+}

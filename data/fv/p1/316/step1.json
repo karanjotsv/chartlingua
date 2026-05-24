@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, trends, axis labels, titles, and annotations are accurately reproduced. Color hues for data and background elements are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart visibly contains three distinct lines representing three different data series. These lines are differentiated by color and style: one is green, one is purple, and one is grey/black. The claim accurately states the number of lines is three and reasonably describes them as 'colorful' as they are not monochrome."
+    },
+    "claim": "There are three colorful lines in the line chart.",
+    "label": true
+}

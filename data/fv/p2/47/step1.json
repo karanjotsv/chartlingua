@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent with the original. Text, categories, colors, and the overall message are the same. However, there are minor data value discrepancies. Most notably, the value for 'Associate Professional & Technical' (Males) is over 20 in the original but is capped at 20 in the rendered chart, which also changes the x-axis scale from 25 to 20.",
+        "has_visual_flaws": false,
+        "flaw_reason": "The longest bar ('Associate Professional & Technical' for Males) is clipped by the chart's boundary. The x-axis range is too short, stopping at 20, which misrepresents the true value of that data point shown in the original chart."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows a blue bar for males in the 'Process Plant and Machine Operatives' category but no corresponding orange bar for females, indicating a value of zero for females in this occupation."
+    },
+    "claim": "There were no female process plant and machine operatives.",
+    "label": "TRUE"
+}

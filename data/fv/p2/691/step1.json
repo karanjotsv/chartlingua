@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the data proportions, color hues, and title. However, it is missing the data labels for two of the five categories ('WIND' and 'GEO'), which is a significant omission of key information.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has major layout issues. Two data labels are missing entirely. The existing labels are placed very far from their corresponding pie slices, making it difficult to associate the text with the data."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that hydro provides the greatest percentage of US renewable electric energy. While the orange slice labeled 'HYDRO' accounts for 44%, the light blue slice is visually larger, indicating it represents a percentage greater than 44%. Therefore, hydro is not the largest source shown in the chart."
+    },
+    "claim": "The greatest percentage of US renewable electric energy comes from hydro in the US.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, categories, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by calculating the average value of the six bars. The values presented are 2625, 842, 520, 3987, 359, and 30. The sum of these values is 8363. The average (8363 divided by 6) is approximately 1393.8, which is greater than 1000."
+    },
+    "claim": "The average of all the 6 bars is more than 1000.",
+    "label": "TRUE"
+}

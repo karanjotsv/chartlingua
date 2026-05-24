@@ -1,0 +1,44 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Firearms",
+            "Poisoning",
+            "Suffocation",
+            "Other"
+        ],
+        "series": [
+            {
+                "name": "Female",
+                "values": [
+                    41.9,
+                    31.6,
+                    20.3,
+                    6.2
+                ]
+            },
+            {
+                "name": "Male",
+                "values": [
+                    69.4,
+                    8.5,
+                    16.9,
+                    5.2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Percentage of veterans",
+        "source": "© Statista 2021",
+        "note": "Additional Information"
+    },
+    "colors": [
+        "#2675de",
+        "#1c2b39"
+    ],
+    "data_label_suffix": "%"
+}

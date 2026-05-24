@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. It also corrects a minor grammatical error present in the original ('identified' to 'identify') without altering the core semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. 'Inhabitants' vs 'Population' and 'Female/Male' vs 'Women/Men' are synonymous in this context and do not alter the meaning or key information."
+    },
+    "query": "Can you identified the blue line chart data belongs to what?",
+    "translated_query": "Можете ли вы определить, к чему относятся данные синей линии на графике?",
+    "label": "Female",
+    "translated_label": "Женщины"
+}

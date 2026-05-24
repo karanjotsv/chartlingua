@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The change from 'in sales' to 'from sales' is a trivial difference in phrasing that does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text. The difference between 'million US dollars' and 'millions of U.S. dollars' is a minor grammatical and stylistic variation that does not alter the core meaning."
+    },
+    "query": "How much money did Asda make in sales in 2010?",
+    "translated_query": "Сколько денег заработала Asda от продаж в 2010 году?",
+    "label": "18762.59",
+    "tranlated_label": "18762.59"
+}

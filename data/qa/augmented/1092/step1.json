@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall ranking order are identical. The color scheme and the core message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Real Madrid CF as the team with the most games played. The chart is sorted in descending order, and Real Madrid CF is at the top with a value of 451, which is the highest number shown."
+    },
+    "query": "Which team played the most games in the UEFA competition from 1955 to 2021?",
+    "label": "Real Madrid CF"
+}

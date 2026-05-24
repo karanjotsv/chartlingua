@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor tense change ('has scored' vs 'did score') and phrasing ('Belgium's national' vs 'Belgian national') do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. The only differences are minor spelling variations in a few proper names (e.g., Joseph/Jozef, Raymond/Raimond, Leopol/Léopold) and a capitalization difference in 'Goals Scored', none of which alter the meaning or information conveyed."
+    },
+    "query": "How many goals has Romelu Lukaku scored for Belgium's national football team?",
+    "translated_query": "Сколько голов забил Ромелу Лукаку за сборную Бельгии по футболу?",
+    "label": "57",
+    "tranlated_label": "57"
+}

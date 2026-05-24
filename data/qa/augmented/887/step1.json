@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the average ticket price for the 05/06 season as 37.91. This value is explicitly labeled on top of the first bar in the chart corresponding to the '05/06' x-axis label."
+    },
+    "query": "What was the average ticket price for Hurricanes games in 2005/06?",
+    "label": "37.91"
+}

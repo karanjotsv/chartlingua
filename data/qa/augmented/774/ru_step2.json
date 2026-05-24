@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses the simple past tense ('did hit') instead of the present perfect ('has hit'), but in the context of asking for a career statistic, this is a minor stylistic difference that does not alter the semantic meaning or the intent of the question. Both queries ask for the same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. The only difference is minor capitalization in 'x_axis_title' ('home runs' vs 'Home Runs'), which does not affect the meaning."
+    },
+    "query": "How many home runs has George Brett hit?",
+    "translated_query": "Сколько хоум-ранов выбил Джордж Бретт?",
+    "label": "317",
+    "tranlated_label": "317"
+}

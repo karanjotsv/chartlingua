@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "label": "Очень хорошо",
+            "value": 19
+        },
+        {
+            "label": "Довольно хорошо",
+            "value": 16
+        },
+        {
+            "label": "Базовые знания",
+            "value": 19
+        },
+        {
+            "label": "Совсем нет",
+            "value": 46
+        }
+    ],
+    "texts": {
+        "title": "Насколько хорошо вы знакомы с тем, как<br>взаимодействуют проекты Wikimedia и<br>translatewiki.net?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00539B",
+        "#329966",
+        "#990000",
+        "#48B3D3"
+    ]
+}

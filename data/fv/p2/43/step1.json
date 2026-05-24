@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, series, values, and text elements are accurately reproduced. The color hues for 'Females' (orange) and 'Males' (blue) are consistent, and the overall message of the chart is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the value for female workers in 'Associate Professional & Technical' is approximately 15.5. The combined value for female workers in 'Skilled Trades' (approx. 3) and 'Elementary' (approx. 6) is approximately 9, which is clearly less than 15.5, contradicting the claim."
+    },
+    "claim": "The total number of the female workers in Skilled Trades and Elementary is more than the female workers in Associate professional & Technical.",
+    "label": "FALSE"
+}

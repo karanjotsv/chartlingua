@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data series, their values, and trends are correctly represented. Text elements, including axis titles, labels, and legend entries, are identical. The color hues for each series are also preserved, ensuring the overall message and interpretation remain unchanged.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value for 'Satoru Iwata' crossed 460,000 after July 12. However, the chart shows that on July 13, the endpoint for the 'Satoru Iwata' line is clearly below the 460k grid line on the y-axis."
+    },
+    "claim": "After July 12, value of Satoru Evata crossed 460000.",
+    "label": "TRUE"
+}

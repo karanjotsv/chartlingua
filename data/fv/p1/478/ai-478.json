@@ -1,0 +1,102 @@
+{
+    "chart_data": [
+        {
+            "name": "Standard DOCU (defensive strike 1)",
+            "x": [
+                10,
+                40,
+                110
+            ],
+            "y": [
+                -40,
+                20,
+                20
+            ]
+        },
+        {
+            "name": "Standard DOCU (aggressive strike 2,<br>at-the-money)",
+            "x": [
+                20,
+                70,
+                110
+            ],
+            "y": [
+                -50,
+                40,
+                40
+            ]
+        },
+        {
+            "name": "Underlying",
+            "x": [
+                30,
+                110
+            ],
+            "y": [
+                -30,
+                50
+            ]
+        },
+        {
+            "name": "Spot",
+            "x": [
+                60
+            ],
+            "y": [
+                0
+            ],
+            "type": "marker",
+            "showlegend": false
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "<b>Underlying</b><br>at expiration",
+        "y_axis_title": "<b>Return</b><br>at maturity",
+        "source": "Source: UBS",
+        "annotations": [
+            {
+                "text": "Money Market Return",
+                "x": 0,
+                "y": 20,
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "ay": 2
+            },
+            {
+                "text": "Strike 1",
+                "x": 40,
+                "y": 42,
+                "xanchor": "center",
+                "yanchor": "bottom"
+            },
+            {
+                "text": "Strike 2",
+                "x": 70,
+                "y": 42,
+                "xanchor": "center",
+                "yanchor": "bottom"
+            },
+            {
+                "text": "Spot",
+                "x": 60,
+                "y": 0,
+                "xanchor": "center",
+                "yanchor": "top",
+                "ay": -5
+            }
+        ]
+    },
+    "colors": {
+        "series": [
+            "#C7EAA7",
+            "#006400",
+            "#808080"
+        ],
+        "spot_marker": {
+            "fill": "#D3D3D3",
+            "border": "#808080"
+        }
+    }
+}

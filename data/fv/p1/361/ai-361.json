@@ -1,0 +1,71 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "FA",
+            "value": 3,
+            "text": "FA; 3%",
+            "position": "outside"
+        },
+        {
+            "label": "FL",
+            "value": 2,
+            "text": "FL; 2%",
+            "position": "outside"
+        },
+        {
+            "label": "GA",
+            "value": 38,
+            "text": "GA; 38%",
+            "position": "inside"
+        },
+        {
+            "label": "B",
+            "value": 8,
+            "text": "B; 8%",
+            "position": "inside"
+        },
+        {
+            "label": "C",
+            "value": 11,
+            "text": "C; 11%",
+            "position": "inside"
+        },
+        {
+            "label": "Start",
+            "value": 25,
+            "text": "Start; 25%",
+            "position": "inside"
+        },
+        {
+            "label": "Stub",
+            "value": 12,
+            "text": "Stub;<br>12%",
+            "position": "inside"
+        },
+        {
+            "label": "List",
+            "value": 1,
+            "text": "List; 1%",
+            "position": "outside"
+        }
+    ],
+    "texts": {
+        "title": "<b>Classes of <i>The Simpsons</i> Articles<br>English Wikipedia</b>",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#81B3E3",
+        "#569BD1",
+        "#B9D08B",
+        "#7D8E4C",
+        "#F9F8B3",
+        "#F7A863",
+        "#C8706B",
+        "#8A79B1"
+    ]
+}

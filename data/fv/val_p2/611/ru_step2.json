@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Scored the least percentage' is accurately conveyed by 'showed the lowest percentage', and the slight rephrasing of the subject from 'District Average Graduates' to 'The district average' does not alter the core message. Adding 'category' in the back-translation also does not change the meaning as the original implicitly refers to the metric as a category."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are 'Applicants' vs. 'Candidates' (which are synonymous in this context) and the addition of 'Criterion' in the title's 'At/Above Results', which actually enhances precision by aligning with the chart's category label 'At/Above Criterion'."
+    },
+    "claim": "District Average Graduates scored the least percentage in the 'Graduates who took ACT/SAT'.",
+    "translated_claim": "Среднее по округу показало наименьший процент в категории «Выпускники, сдававшие ACT/SAT»."
+}

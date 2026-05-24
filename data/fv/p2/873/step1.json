@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The only difference is a stylistic one (an exploded slice), which does not alter the data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on web browser market share percentages, with categories like 'Internet Explorer' (29.05%) and 'Google Chrome' (23.22%). The claim discusses 'donation revenue' and a '2014-2015 fundraising' period, which are subjects not represented in the chart data."
+    },
+    "claim": "Highest donation revenue was generated through the donations under $10 during 2014-2015 fundraising.",
+    "label": "FALSE"
+}

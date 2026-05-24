@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. While it attempts to render two pie charts, it swaps their positions, titles, and legends. The chart labeled '2001' displays the data from 1881, and the chart labeled '1881' displays the data from 2001. The legends are also mismatched and jumbled, making the entire visualization semantically incorrect and misleading.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has gross layout issues, as it inappropriately places two separate pie charts onto a single Cartesian coordinate system. This leads to severe text overlap in the legends, rendering many of the labels unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the professional sector increased and became the largest in 2001. However, the chart shows the opposite. Assuming the blue color represents the professional sector in both years (as labeled for 1881), the blue slice in the 2001 pie chart is visibly smaller than the blue slice in the 1881 chart, indicating a decrease. Additionally, the largest sector in 2001 is represented by the green slice, not the blue one."
+    },
+    "claim": "In 2001, the professional sector increased compared to 1881 such that it became the largest.",
+    "label": "FALSE"
+}

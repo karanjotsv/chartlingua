@@ -1,0 +1,52 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "नीदरलैंड",
+            "x": [
+                1993,
+                1999,
+                2004,
+                2007,
+                2010
+            ],
+            "y": [
+                20500,
+                23800,
+                23600,
+                26000,
+                25600
+            ]
+        },
+        {
+            "name": "पोलैंड",
+            "x": [
+                1992,
+                1995,
+                1999,
+                2004,
+                2007,
+                2010
+            ],
+            "y": [
+                9200,
+                7200,
+                8800,
+                8600,
+                10400,
+                12400
+            ]
+        }
+    ],
+    "texts": {
+        "title": "माध्य घरेलू प्रयोज्य आय, 1992 से 2010",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "स्रोत: Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016)<br>OurWorldInData.org/incomes-across-the-distribution/ • CC BY"
+    },
+    "colors": [
+        "#c44738",
+        "#3c546c"
+    ]
+}

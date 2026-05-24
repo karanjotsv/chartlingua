@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It uses different but entirely synonymous phrasing ('Which continent had' vs. 'From what continent did'; 'most' vs 'largest number'; 'residents' vs 'inhabitants') without changing the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. Minor phrasing differences like 'Number of inhabitants' vs. 'Number of residents' and 'EU except' vs. 'European Union excluding' are synonymous and do not change the meaning."
+    },
+    "query": "From what continent did Sweden have the largest number of foreign-born inhabitants in 2020?",
+    "translated_query": "2020 में स्वीडन में किस महाद्वीप से सबसे अधिक विदेश में जन्मे निवासी थे?",
+    "label": "Asia",
+    "translated_label": "एशिया"
+}

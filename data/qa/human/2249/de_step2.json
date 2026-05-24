@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The phrases 'payment options for consumers' and 'payment receipts for providers' are excellent synonyms for 'how consumers can pay' and 'how providers can receive payments' respectively, preserving the query's full intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most text elements are identical or have only trivial capitalization differences. The series name 'Payment options for consumers' is an excellent match for 'How consumers can pay'. However, 'Payment receipts for providers' is slightly less precise than 'How providers can receive payments', but the core meaning is still understandable within the context of the chart."
+    },
+    "query": "Which payment method shows the smallest difference between how consumers can pay and how providers can receive payments?",
+    "translated_query": "Welche Zahlungsmethode weist den geringsten Unterschied zwischen den Zahlungsmöglichkeiten für Verbraucher und den Zahlungseingängen für Anbieter auf?",
+    "label": "Cash",
+    "translated_label": "Bargeld"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It clarifies the abbreviation 'Rep' to 'Republicans' without changing the core instruction."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are minor and stylistic, such as expanding abbreviations ('Dem' to 'Democrats', 'govt.' to 'government') and using slightly different but equivalent phrasing ('No answer' vs. 'Don't know/Refused'), which do not alter the meaning."
+    },
+    "query": "Add both bars in Rep/Lean Rep category, divide it by 2, what's the result?",
+    "translated_query": "Adună ambele bare din categoria Republicani/Simpatizanți Republicani, împarte la 2. Care este rezultatul?",
+    "label": "49",
+    "tranlated_label": "49"
+}

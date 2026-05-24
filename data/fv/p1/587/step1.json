@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, categories, data proportions, and color-to-category assignments are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that women were primarily employed in agricultural work. However, the pie chart clearly shows that the 'Agriculture' slice (red) is not the largest. The largest slice is 'Without Specific Occupation/Unknown Occupation' (dark blue), followed by 'Domestic' (yellow). Therefore, the chart does not support the claim that agriculture was the primary employment."
+    },
+    "claim": "Women in Kirton, Suffolk in 1881 were primarily employed in agricultural work.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and literal match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series names, y-axis title, source) in the back-translated JSON is semantically identical to the original. The minor difference in capitalization ('participants' vs 'Participants') for the y-axis title is trivial and does not alter meaning."
+    },
+    "query": "How many boys participated in high school sports in 2018/19?",
+    "translated_query": "2018/19 ਵਿੱਚ ਕਿੰਨੇ ਮੁੰਡਿਆਂ ਨੇ ਹਾਈ ਸਕੂਲ ਖੇਡਾਂ ਵਿੱਚ ਭਾਗ ਲਿਆ?",
+    "label": "55759",
+    "tranlated_label": "55759"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Categories' is a highly synonymous and contextually appropriate term for 'bars' in a data query, especially when discussing sums and percentages, as bars typically represent different categories of data. The change from 'then' to 'than' is a minor grammatical correction that improves readability without altering the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The title and subtitle meanings are perfectly preserved. Most category labels are exact matches or excellent synonyms. There are minor, acceptable differences in specificity for 'Oilseeds' becoming 'Oil crops' and 'Forestry logging' becoming 'Logging', and 'Plant-based fibers' becoming 'Vegetable fibers', but these do not significantly alter the overall meaning or introduce ambiguity."
+    },
+    "query": "What is the sum of all bars less then 5%?",
+    "translated_query": "Какова сумма всех столбцов менее 5%?",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

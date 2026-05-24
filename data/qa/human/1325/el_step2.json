@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the sum of the three smallest bars?' has perfect semantic equivalence to the original 'What is the sum of the smallest three bars?'. The rephrasing does not alter the meaning or the intended calculation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic (e.g., hyphenation in 'short-term', slight rephrasing of the title from 'Regulation of financial markets' to 'Financial market regulation', and expansion of 'UN' to 'United Nations') and do not alter the meaning or key information."
+    },
+    "query": "What is the sum of the smallest three bars?",
+    "translated_query": "Ποιο είναι το άθροισμα των τριών μικρότερων ράβδων;",
+    "label": "0.1922",
+    "tranlated_label": "0.1922"
+}

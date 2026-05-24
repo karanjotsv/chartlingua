@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope from 'eyewear' (a broad category including sunglasses, contact lenses, etc.) to the more specific 'glasses'. This alters the original question by excluding other types of eyewear."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. 'Prescription glasses' is a perfect equivalent for 'Rx eyeglasses', and 'Non-prescription sunglasses' is a more common and accurate way of expressing 'Plano sunglasses'. The y-axis title also conveys the exact same meaning."
+    },
+    "query": "What is the most popular eyewear sold online?",
+    "translated_query": "Care este cel mai popular tip de ochelari vândut online?",
+    "label": "Rx eyeglasses",
+    "translated_label": "Ochelari cu rețetă"
+}

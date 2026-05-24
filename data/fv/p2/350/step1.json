@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values, labels, and slice proportions are accurate. However, the original chart uniquely color-codes each slice using a country's flag, while the rendered chart uses a limited palette of solid colors. This causes multiple different countries (e.g., China, Japan, and Canada are all red; USA, UK, and France are all dark blue) to share the same color, losing a key layer of visual information and introducing ambiguity.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart explicitly shows the United States has the largest share of the economy at 24.3% ($18.0 Trillion), which is visually represented as the largest slice. The claim that it is the smallest is a direct contradiction of the chart's data."
+    },
+    "claim": "United States is the smallest economy in the world.",
+    "label": "FALSE"
+}

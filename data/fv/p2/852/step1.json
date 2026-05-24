@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall message are identical to the original chart. The only notable difference is the stylistic choice to 'explode' the 'Mozilla Firefox' slice, which does not alter the data's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses tax increases and quintiles, but the chart displays the market share of various internet browsers. The chart contains no information related to taxes, income, or economic policies."
+    },
+    "claim": "Only the lowest quintile had less than half of its members incur a tax increase with the current policy.",
+    "label": "TRUE"
+}

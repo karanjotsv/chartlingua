@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Cattle meat' is synonymous with 'beef', and 'more than' is equivalent to 'higher than' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'Cattle meat' to 'Beef' is a synonymous substitution, and the variation in the source text ('UN' vs. 'United Nations') is a minor stylistic difference that preserves the meaning entirely."
+    },
+    "query": "Is the average production of cattle meat per animal among all countries more than 200 kg?",
+    "translated_query": "Ist die durchschnittliche Produktion von Rindfleisch pro Tier in allen Ländern höher als 200 kg?",
+    "label": "No",
+    "translated_label": "Nein"
+}

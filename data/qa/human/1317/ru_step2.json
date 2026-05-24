@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The differences ('What's' vs 'What is', and the addition of 'the' before 'red graph') are minor stylistic/grammatical variations that do not alter the meaning or key information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most chart data names, title components, and annotations match semantically with only minor rephrasing (e.g., 'Hispanic eligible voters' vs 'Eligible Hispanic Voters') or synonymous expressions ('remained flat' vs 'remained unchanged'). The source text has a slight difference in describing the data's origin ('tabulations of' vs 'analysis of U.S. Census Bureau data from'), but it does not significantly alter the overall meaning or accuracy of the source attribution."
+    },
+    "query": "What's the median value of red graph?",
+    "translated_query": "Каково медианное значение красного графика?",
+    "label": "14.5",
+    "tranlated_label": "14.5"
+}

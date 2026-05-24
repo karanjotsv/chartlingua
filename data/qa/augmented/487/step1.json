@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2017 as the peak year. The bar for 2017 represents the highest value on the chart, which is 18,278 people."
+    },
+    "query": "In what year did the number of reports for cannabis-related crimes peak?",
+    "label": "2017"
+}

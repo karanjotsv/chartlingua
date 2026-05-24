@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the originals. The title has a minor, stylistic word order difference ('Edit Count Analysis' vs. 'Analysis of Edit Count') and there are trivial capitalization changes in some labels, but these do not alter the meaning in any way."
+    },
+    "claim": "The average number of edits per day between 2005-05-15 and 2005-10-30 is always above 200.",
+    "translated_claim": "Die durchschnittliche Anzahl der Bearbeitungen pro Tag zwischen 2005-05-15 und 2005-10-30 liegt immer über 200."
+}

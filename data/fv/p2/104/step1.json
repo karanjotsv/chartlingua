@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, the title, and the data source text are accurately replicated from the original. The overall message and proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that 'No religious affiliation' accounts for 32% of the Alberta population, which is the largest single percentage shown, greater than the next largest category, 'Catholic' at 24%."
+    },
+    "claim": "The biggest share of people state that they have no religious affiliation based on the chart that shows the Alberta population by religion.",
+    "label": "TRUE"
+}

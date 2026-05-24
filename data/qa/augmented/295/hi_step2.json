@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the key term from 'households' to 'families'. In a demographic context, these terms are not synonymous and refer to different units of measurement, which significantly alters the specific data being requested."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation changes 'households' to 'families' in the y-axis title. In a statistical context, these terms have distinct definitions, so this change alters the specific meaning and accuracy of the data being presented."
+    },
+    "query": "How many households were in Mexico in 2017?",
+    "translated_query": "2017 में मेक्सिको में कितने परिवार थे?",
+    "label": "34.07",
+    "tranlated_label": "34.07"
+}

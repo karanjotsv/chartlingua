@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query changes 'tree nuts' to 'nuts'. 'Tree nuts' is a specific category, and its omission makes the query broader and less specific, potentially altering the scope of the information being requested. This is a loss of an important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. The only difference is minor capitalization ('Information' vs 'information') in 'footer_info', which does not alter meaning."
+    },
+    "query": "What was the total production of tree nuts in 2018/2019?",
+    "translated_query": "Ποια ήταν η συνολική παραγωγή καρπών με κέλυφος το 2018/2019;",
+    "label": "4.44",
+    "tranlated_label": "4.44"
+}

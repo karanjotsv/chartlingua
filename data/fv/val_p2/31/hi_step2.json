@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the meaning. The original compares '(the value of the Land) + (the DRC of buildings)', while the back-translated version compares '(the DRC of Land) + (the value of the Building)', incorrectly shifting the 'DRC' attribute from 'buildings' to 'Land'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is a minor capitalization and punctuation change in an abbreviation ('sq. ft' vs 'Sq. Ft.'), which is stylistically insignificant and does not alter the meaning."
+    },
+    "claim": "The value of the Land(R) and DRC of buildings(S) together is higher than the value of Gross land.",
+    "translated_claim": "भूमि (आर) और भवन (एस) के डीआरसी का संयुक्त मूल्य सकल भूमि के मूल्य से अधिक है।"
+}

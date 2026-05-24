@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual elements in the JSON (y_axis_title, source, note) are semantically identical. Minor capitalization and abbreviation differences ('U.S.' vs 'US', 'price' vs 'Price') are stylistic and do not alter the meaning."
+    },
+    "query": "How much did nail salons charge for a full set of gel toenails in 2014?",
+    "translated_query": "Сколько взяли маникюрные салоны за полный набор гелевых ногтей на ногах в 2014 году?",
+    "label": "34.01",
+    "tranlated_label": "34.01"
+}

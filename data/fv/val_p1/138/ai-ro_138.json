@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_subplots",
+    "charts": [
+        {
+            "title": "Substantive spaniole terminate în a/á",
+            "data": [
+                {
+                    "label": "NEUTRU",
+                    "value": 4
+                },
+                {
+                    "label": "MASCULIN",
+                    "value": 7
+                },
+                {
+                    "label": "FEMININ",
+                    "value": 89
+                }
+            ],
+            "colors": [
+                "#ADDE96",
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "Masculin: 344 (7%)<br>Feminin: 4453 (89%)<br>Neutru: 211 (4%)"
+        },
+        {
+            "title": "Nume spaniole terminate în a",
+            "data": [
+                {
+                    "label": "MASCULIN",
+                    "value": 2
+                },
+                {
+                    "label": "FEMININ",
+                    "value": 98
+                }
+            ],
+            "colors": [
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "Masculin: 10 (2%)<br>Feminin: 487 (98%)"
+        }
+    ],
+    "texts": {
+        "source": "©namepedia.org"
+    }
+}

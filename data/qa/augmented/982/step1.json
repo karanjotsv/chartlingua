@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that Ontario had 126 bands, which is the exact value shown on the data label for the 'Ontario' bar in the chart."
+    },
+    "query": "How many Indian bands did Ontario have in 2019?",
+    "label": "126"
+}

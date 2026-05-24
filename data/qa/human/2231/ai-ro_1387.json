@@ -1,0 +1,50 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Da",
+            "x": [
+                "16 - 24 ani",
+                "25 - 34 ani",
+                "35 - 44 ani",
+                "45 - 54 ani",
+                "55 de ani și peste"
+            ],
+            "y": [
+                27,
+                38,
+                35,
+                30,
+                24
+            ]
+        },
+        {
+            "name": "Nu",
+            "x": [
+                "16 - 24 ani",
+                "25 - 34 ani",
+                "35 - 44 ani",
+                "45 - 54 ani",
+                "55 de ani și peste"
+            ],
+            "y": [
+                73,
+                62,
+                65,
+                70,
+                76
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2772e9",
+        "#1c2a39"
+    ]
+}

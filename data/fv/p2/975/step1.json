@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text labels, and color hues are all consistent with the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart is about lines of work in Ashleyhay in 1881, but the chart's title and categories clearly show it is about printing methods (e.g., '4 Color Lithographic', 'Direct-to-Press'). The chart contains no information about agriculture, lines of work, a location called Ashleyhay, or the year 1881."
+    },
+    "claim": "According to the graph, agriculture was the most popular line of work in Ashleyhay in 1881.",
+    "label": "TRUE"
+}

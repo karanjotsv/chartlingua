@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data categories and their corresponding percentage values. The chart title, subtitle (year), and overall message are identical to the original. The relative proportions of the donut chart slices are correct.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that in 1980, Football accounted for 18% of attendance, while Soccer accounted for 14%. Since 18% is greater than 14%, the claim that there was greater attendance for football than soccer is supported by the data."
+    },
+    "claim": "There was greater attendance for football than soccer at the Kingdome in 1980.",
+    "label": "TRUE"
+}

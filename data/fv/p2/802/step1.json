@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points for each country and political alignment are accurately plotted. The text for the title, axes, and country labels is identical. The color hues (red for right, grey for center, green for left) are consistent. The overall message about the political divide on climate change is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change across various countries. The claim is about bilingualism in Quebec and Canada, a topic that is not mentioned or represented in the chart data."
+    },
+    "claim": "Bilingualism is higher in Quebec than in Canada.",
+    "label": "TRUE"
+}

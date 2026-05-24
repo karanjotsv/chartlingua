@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in text, categories, and color. However, there is a minor data discrepancy; the largest bar ('ABH and other injury') represents a slightly lower value (~330k) compared to the original (~350k), and the x-axis range has been adjusted accordingly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows four categories of crime. The bar corresponding to 'ABH and other injury' is visibly the longest, extending to the highest value on the 'Crimes' axis (over 300k), making it the most common type of crime presented in the chart for the specified period and location."
+    },
+    "claim": "In 2009-2010, ABH and other injury was the most common type of non-fatal violent crime in England and Wales",
+    "label": "TRUE"
+}

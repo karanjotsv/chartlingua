@@ -1,0 +1,55 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Εκπομπές",
+            "x": [
+                "Εκπομπές"
+            ],
+            "y": [
+                526.3
+            ],
+            "text": [
+                "526.3"
+            ],
+            "error_y": {
+                "type": "data",
+                "array": [
+                    45
+                ],
+                "visible": true
+            }
+        },
+        {
+            "name": "Απορρόφηση από ΧΧΧΓΔ",
+            "x": [
+                "Απορρόφηση από ΧΧΧΓΔ"
+            ],
+            "y": [
+                -99.9
+            ],
+            "text": [
+                "-99.9"
+            ],
+            "error_y": {
+                "type": "data",
+                "array": [
+                    70
+                ],
+                "visible": true
+            }
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Εκπομπές και απορρόφηση αερίων θερμοκηπίου το 2017",
+        "y_axis_title": "Mt",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B2B2B2",
+        "#74A14A"
+    ]
+}

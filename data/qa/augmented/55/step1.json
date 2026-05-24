@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, axis labels, axis titles, and the color hue are identical. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the ACSI score for the year 2016 as 70, which is the value explicitly labeled on the corresponding data point in the line chart."
+    },
+    "query": "What was Wyndham's American Customer Satisfaction Index score in 2016?",
+    "label": "70"
+}

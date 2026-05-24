@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most labels in chart_data match perfectly. However, 'In-Kind Expenses' in the original content was translated to 'Non-Cash Expenses' in the back-translation. While 'in-kind' expenses are a type of non-cash expense, the back-translation loses the specific nuance that these expenses are contributions of goods or services rather than direct cash, broadening the meaning."
+    },
+    "claim": "Other expenses include travel expenses.",
+    "translated_claim": "Прочие расходы включают путевые расходы."
+}

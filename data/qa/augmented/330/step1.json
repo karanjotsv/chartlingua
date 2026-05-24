@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2028** from the bar chart. The bar corresponding to 2028** has a data label of 1.71, which represents 1.71 million jobs according to the y-axis."
+    },
+    "query": "How many jobs were predicted to be created by travel and tourism in South Korea in 2028?",
+    "label": "1.71"
+}

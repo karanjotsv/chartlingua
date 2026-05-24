@@ -1,0 +1,75 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Alter 18-29",
+            "30-49",
+            "50-64",
+            "65+"
+        ],
+        "series": [
+            {
+                "name": "Alle",
+                "values": [
+                    2,
+                    4,
+                    5,
+                    6
+                ],
+                "text_color": "#ffffff",
+                "legend_color": "#26645c",
+                "legend_x": 2.5
+            },
+            {
+                "name": "Die meisten",
+                "values": [
+                    20,
+                    24,
+                    29,
+                    34
+                ],
+                "text_color": "#ffffff",
+                "legend_color": "#397a6f",
+                "legend_x": 19.5
+            },
+            {
+                "name": "Nur einige",
+                "values": [
+                    54,
+                    57,
+                    59,
+                    56
+                ],
+                "text_color": "#000000",
+                "legend_color": "#62bba6",
+                "legend_x": 63.5
+            },
+            {
+                "name": "Keine",
+                "values": [
+                    23,
+                    15,
+                    7,
+                    4
+                ],
+                "text_color": "#000000",
+                "legend_color": "#808080",
+                "legend_x": 96.5
+            }
+        ]
+    },
+    "texts": {
+        "title": "Ältere Amerikaner kennen ihre<br>Nachbarn eher als jüngere",
+        "subtitle": "% der Befragten, die angeben, ___ ihrer Nachbarn zu kennen, nach Alter",
+        "source": "Hinweis: Der Anteil der Befragten, die keine Antwort gaben, wird nicht angezeigt.<br>Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 26. Februar bis 11. März 2018.",
+        "footer": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#26645c",
+        "#397a6f",
+        "#62bba6",
+        "#c0c0c0"
+    ]
+}

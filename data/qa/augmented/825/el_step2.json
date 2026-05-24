@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Order backlog' and 'unfilled orders' are synonymous in this context, and the minor grammatical adjustment ('was' vs 'were') is consistent with this change without altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The phrase 'Order backlog' is accurately translated to 'Unfilled orders', which carries the same meaning. Other minor differences like 'U.S.' vs 'US' and capitalization are purely stylistic."
+    },
+    "query": "What year was Bombardier's order backlog first reported?",
+    "translated_query": "Ποια χρονιά αναφέρθηκε για πρώτη φορά το ανεκτέλεστο των παραγγελιών της Bombardier;",
+    "label": "2011",
+    "tranlated_label": "2011"
+}

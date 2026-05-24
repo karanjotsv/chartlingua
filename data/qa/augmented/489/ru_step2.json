@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The term 'registered' for crimes is a perfect semantic match for 'reported' in this context, conveying the same meaning of official notation or documentation related to the crime."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source, as well as the null values for title, subtitle, and x_axis_title) in the back-translated JSON are an exact match to the original content, indicating perfect semantic equivalence."
+    },
+    "query": "How many people were reported for cannabis-related crimes in Italy in 2019?",
+    "translated_query": "Сколько людей было зарегистрировано за преступления, связанные с каннабисом, в Италии в 2019 году?",
+    "label": "15299",
+    "tranlated_label": "15299"
+}

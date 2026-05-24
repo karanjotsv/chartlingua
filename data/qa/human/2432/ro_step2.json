@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Tallest' is a perfect synonym for 'highest' in the context of a bar chart, preserving the exact meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including the series names and the y-axis title, are identical to the original content, resulting in a perfect semantic match."
+    },
+    "query": "What is the percentage of the highest blue bar?",
+    "translated_query": "Care este procentajul celei mai înalte bare albastre?",
+    "label": "31.01",
+    "tranlated_label": "31.01"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The reordering of the time phrase and the slight variation from 'manufacturing jobs' to 'manufacturing' do not alter the core information that no one was employed in that sector in Birling in 1881."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and series names convey the same meaning. Minor variations like 'Food Services' to 'Public catering' and 'Dress' to 'Dressmaking' are acceptable synonyms or slight nuance shifts that do not distort the core information."
+    },
+    "claim": "There were no people working in manufacturing jobs in Birling in 1881.",
+    "translated_claim": "В 1881 году в Бирлинге не было людей, работающих на производстве."
+}

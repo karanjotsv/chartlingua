@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query maintains perfect semantic equivalence. 'Total' vs 'overall', 'minimum' vs 'minimal', and 'operation' vs 'operational' are all synonymous or near-synonymous in this context, preserving the original meaning entirely."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart labels and all fields under 'texts') is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "claim": "In total economic activity, minimum millions are spent for operation purposes.",
+    "translated_claim": "В общей экономической деятельности на операционные цели тратятся минимальные миллионы."
+}

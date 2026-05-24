@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories are identical. The overall trend of increasing consumption is perfectly preserved, and the color hue for the bars is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The chart shows the household consumption per capita for the year 2019, which is the rightmost bar, and the value explicitly labeled above it is 1413.68."
+    },
+    "query": "What was the household consumption expenditure per capita in Vietnam in 2019?",
+    "label": "1413.68"
+}

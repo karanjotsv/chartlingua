@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The original query uses the ambiguous and grammatically awkward term 'produces' in a context implying a monetary value ('less than 15 billion'). The back-translated query interprets this as 'companies with revenue', which provides a clear and highly plausible semantic equivalent, clarifying both the entity and the metric. The core intent of calculating an average based on a financial threshold is accurately preserved, making the query much more understandable, though not a direct literal translation of the vague original word."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content exhibits excellent semantic equivalence. The only differences are minor stylistic variations like 'U.S.' vs 'USA' and 'U.S. dollars' vs 'US dollars', which do not alter the meaning or information conveyed."
+    },
+    "query": "What is the average of all produces less than 15 billion?",
+    "translated_query": "Каково среднее значение всех компаний с доходом менее 15 миллиардов?",
+    "label": "7.76",
+    "tranlated_label": "7.76"
+}

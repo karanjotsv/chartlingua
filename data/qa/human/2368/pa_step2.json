@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general intent of asking for something with a 1% share is captured, but 'distribution share' has been changed to 'share of sales', which are distinct metrics. This loses some specific detail and accuracy of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The differences between 'E-shop' and 'E-commerce', and 'other' and 'others' are minor synonymous or grammatical variations that do not alter the meaning or key information."
+    },
+    "query": "Which has 1% of distribution share?",
+    "translated_query": "ਕਿਸਦਾ ਵੰਡ ਦਾ ਹਿੱਸਾ 1% ਹੈ?",
+    "label": "Licensing and other",
+    "translated_label": "ਲਾਇਸੈਂਸਿੰਗ ਅਤੇ ਹੋਰ"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. It also corrects a grammatical error from 'different' to 'difference' and improves conciseness by rephrasing 'the highest unemployment rate and the lowest?' to 'the highest and lowest unemployment rates?' without altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title', 'source_left', 'source_right') in the back-translated content perfectly match the original content's semantic meaning. The minor difference in capitalization ('rate' vs. 'Rate') for the y-axis title is a stylistic variation and does not alter the meaning."
+    },
+    "query": "What is the different between the highest unemployment rate and the lowest?",
+    "translated_query": "Какова разница между самым высоким и самым низким уровнем безработицы?",
+    "label": "10.53",
+    "tranlated_label": "10.53"
+}

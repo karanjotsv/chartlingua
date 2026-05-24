@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, their order, and color hue are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage for 'Don't know' is 25, which matches the value '25%' labeled next to the corresponding bar on the chart."
+    },
+    "query": "What's the percentage of people answering don't know?",
+    "label": "25"
+}

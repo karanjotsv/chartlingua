@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data proportions, category labels, their order in the legend, and the color hues for each category are all consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies the chart's data is for 'males aged 20 and over in Walpole in 1831', but there is no information in the chart image itself (such as a title or source) to support these details about the demographic, location, or year."
+    },
+    "claim": "The chart displays the occupational distribution of males aged 20 and over in Walpole in 1831.",
+    "label": true
+}

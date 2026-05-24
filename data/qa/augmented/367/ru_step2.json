@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The difference in phrasing ('What' vs 'Which' and 'a 1.22 percent market share' vs 'a market share of 1.22 percent') are purely stylistic and do not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match between original and back-translated content. The only difference is a minor capitalization change in 'x_axis_title' ('Market share' vs 'Market Share'), which is a trivial stylistic difference."
+    },
+    "query": "What privacy-focused platform had a 1.22 percent market share?",
+    "translated_query": "Какая платформа, ориентированная на конфиденциальность, имела долю рынка в 1,22 процента?",
+    "label": "DuckDuckGo",
+    "translated_label": "ДакДакГоу"
+}

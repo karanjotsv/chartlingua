@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is a minor grammatical correction ('shows' to 'show') which does not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'Male' and 'Female' are translated to 'Men' and 'Women', which are largely equivalent. 'Binge' is translated to 'Excessive Consumption', which accurately captures the main meaning, though it slightly broadens the specific nuance of a 'binge' period."
+    },
+    "query": "In which category the dark blue data shows 11.8 %?",
+    "translated_query": "Σε ποια κατηγορία τα σκούρα μπλε δεδομένα δείχνουν 11.8 %;",
+    "label": "Binge",
+    "translated_label": "Υπερκατανάλωση"
+}

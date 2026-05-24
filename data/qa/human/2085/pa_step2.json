@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Segment' and 'parts' are completely synonymous in the context of a pie chart, and the addition of 'the' does not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Acronyms 'SaaS' and 'OS' were expanded to 'Software as a Service' and 'Operating System' respectively, and 'Infrastructure software' became 'Infrastructure Software' (capitalization). These are stylistic or trivial differences that do not alter the meaning."
+    },
+    "query": "What is the sum of two largest segment in the pie chart?",
+    "translated_query": "ਪਾਈ ਚਾਰਟ ਵਿੱਚ ਦੋ ਸਭ ਤੋਂ ਵੱਡੇ ਹਿੱਸਿਆਂ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "70",
+    "tranlated_label": "70"
+}

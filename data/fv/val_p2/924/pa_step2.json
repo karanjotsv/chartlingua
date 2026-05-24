@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes the absolute statement 'was high' to a comparative 'was higher'. This introduces an implicit comparison not present in the original, losing some of the original nuance and precision."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements show excellent semantic equivalence. 'Age group (years)' vs 'Age Group (Years)' is a stylistic capitalization difference. 'Mean number' vs 'Average Number' uses a perfect synonym, preserving the exact meaning. All other text fields are identical or null."
+    },
+    "claim": " The number of railways in operation was high in 1945.",
+    "translated_claim": "1945 ਵਿੱਚ ਚਾਲੂ ਰੇਲਵੇ ਦੀ ਗਿਣਤੀ ਵੱਧ ਸੀ।"
+}

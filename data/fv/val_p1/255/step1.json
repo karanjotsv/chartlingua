@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, axis labels, titles, legend entries, and color hues are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that both Total Testosterone and Free Testosterone levels are at their lowest point in the 85-100 age group, directly contradicting the claim that they are highest in this range."
+    },
+    "claim": "The chart shows that testosterone is highest at the age between 85-100.",
+    "label": false
+}

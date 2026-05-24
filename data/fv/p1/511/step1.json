@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered charts are a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are accurately reproduced, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The 'Annual Cost Breakdown' pie chart clearly shows that Labour costs constitute 59% of the total annual costs, which is the largest single category displayed."
+    },
+    "claim": "Labour cost make up the highest percentage of expenditure.",
+    "label": true
+}

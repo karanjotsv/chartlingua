@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The term 'tonnage' typically refers to the actual amount (e.g., cargo weight or volume) that was observed, while 'capacity' refers to the maximum potential amount that can be held or produced. These are distinct metrics. The back-translation loses the nuance of an actual observed quantity, replacing it with a potential or maximum limit, which is a significant semantic difference."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content significantly distorts the meaning. 'Tonnage' (actual weight moved) has been changed to 'Capacity' (potential amount), which are distinct metrics. Additionally, 'Lock' (a specific structure) has been generalized to 'Channel'. This fundamentally alters what the chart represents."
+    },
+    "claim": "Lowest tonnage was observed in the year 1999.",
+    "translated_claim": "Η χαμηλότερη χωρητικότητα παρατηρήθηκε το έτος 1999."
+}

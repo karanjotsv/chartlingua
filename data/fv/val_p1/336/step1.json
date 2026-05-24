@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces all data values, proportions, categories, and text content (title, axis labels). The color hue is consistent, and the overall message about the dominance of Wikipedia data is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart for 'Wikipedia' clearly shows that the bar representing 'Male' is significantly taller (approximately 20,700) than the bar representing 'Female' (approximately 3,700), indicating there are more men than women. This directly contradicts the claim."
+    },
+    "claim": "There are more women who have projects on wikipedia than men.",
+    "label": false
+}

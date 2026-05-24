@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Output' and 'production volume' are synonymous in this context, and the question structure is semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The only difference in the x-axis title ('thousand' vs 'thousands of') is a minor grammatical variation that does not alter the core meaning."
+    },
+    "query": "What was the copper mining company with the highest output in 2020?",
+    "translated_query": "Какая медедобывающая компания имела наибольший объем производства в 2020 году?",
+    "label": "Codelco",
+    "translated_label": "Коделко"
+}

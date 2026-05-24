@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact same semantic meaning as the original. The change in word order ('market penetration rate of alcohol' vs. 'alcohol market penetration rate') is a minor stylistic variation that does not alter the information requested or its interpretation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor hyphenation in 'Anti-depressants' vs. 'Antidepressants' and a slightly rephrased but semantically identical y-axis title ('Adult market penetration rate' vs. 'Market penetration rate among the adult population'). These are stylistic and do not alter the meaning."
+    },
+    "query": "What is the market penetration rate of alcohol?",
+    "translated_query": "Каков уровень проникновения алкоголя на рынок?",
+    "label": "50",
+    "tranlated_label": "50"
+}

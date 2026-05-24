@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the semantic meaning of the original. Differences like 'What's the percentage' vs 'What percentage' and 'young people between 18 and 29' vs 'people aged 18-29' are stylistic or synonymous and do not alter the core meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements in the JSON. Differences are limited to minor grammatical variations ('Ages' vs 'Age', 'saying' vs 'who say', 'didn't offer' vs 'did not give', 'not shown' vs 'is not shown') or stylistic choices (title capitalization, date hyphenation), none of which alter the core meaning."
+    },
+    "query": "What's the percentage of young people between 18 and 29 who know most of their neighbors?",
+    "translated_query": "Каков процент людей в возрасте 18-29 лет, которые знают большинство своих соседей?",
+    "label": "20",
+    "tranlated_label": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Άνδρες",
+            "values": [
+                41,
+                53,
+                60
+            ]
+        },
+        {
+            "name": "Γυναίκες",
+            "values": [
+                40,
+                45,
+                52
+            ]
+        }
+    ],
+    "categories": [
+        "Online αγορές",
+        "Αγορές στο Amazon 6+ φορές τον<br>μήνα",
+        "Ο αριθμός των αγορών στο Amazon έχει<br>αυξηθεί σε ετήσια βάση"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Ποσοστό των ερωτηθέντων",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2F80ED",
+        "#1C2E46"
+    ]
+}

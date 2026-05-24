@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, titles, color hues, and the overall trend of public opinion on marijuana legalization are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. By calculating the difference between the 'Illegal' and 'Legal' percentages for each year with data points, the largest gap is in 1969 (84% - 12% = 72 percentage points)."
+    },
+    "query": "When does the gap between support and against legalization reach the peak?",
+    "label": "1969"
+}

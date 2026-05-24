@@ -1,0 +1,37 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Bărbați",
+            "values": [
+                41,
+                53,
+                60
+            ]
+        },
+        {
+            "name": "Femei",
+            "values": [
+                40,
+                45,
+                52
+            ]
+        }
+    ],
+    "categories": [
+        "Achiziții efectuate online",
+        "Cumpărături pe Amazon de 6+ ori pe<br>lună",
+        "Numărul de achiziții de pe Amazon a<br>crescut de la an la an"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Ponderea respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2F80ED",
+        "#1C2E46"
+    ]
+}

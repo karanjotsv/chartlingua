@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. It maintains the same data values, categories, logarithmic scale, text labels, and color scheme, conveying the identical message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart's logarithmic scale, the 'US Annual Average, All Sources' bar represents a value of approximately 3 millisieverts and the 'Abdominal CT Scan' bar is approximately 8 millisieverts. Their sum is roughly 11 millisieverts. The '6 Months on ISS (average)' bar represents a value close to 100 millisieverts (approximately 80-90). The sum of the first two bars (approx. 11) is clearly much lower than the value of the ISS bar, contradicting the claim."
+    },
+    "claim": "The total value of US Anuual bar and Abduminal CT scan bar is higher than the value of 6 months on ISS.",
+    "label": "FALSE"
+}

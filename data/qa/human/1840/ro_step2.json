@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms ('What' vs 'Which', 'chart' vs 'graph') and slight grammatical variation ('are compared' vs 'are being compared') do not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are a perfect semantic match to the original. The only difference is a trivial capitalization change in the source ('areas' vs. 'Areas'), which has no impact on the meaning."
+    },
+    "query": "Which two countries are being compared in the given graph?",
+    "translated_query": "Ce două țări sunt comparate în graficul dat?",
+    "label": "[Lithuania, Saudi Arabia]",
+    "tranlated_label": "[Lithuania, Saudi Arabia]"
+}

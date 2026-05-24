@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the chart type, title, axis labels, data values (2, 3, 4), data labels (including percentages and counts), and color hues for each category. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows that for the category 'Direct-to-Press digital system', the corresponding value is explicitly labeled as '33.3 % (3)', which directly validates the claim."
+    },
+    "claim": "33.3 percentage of chapters used Direct-to -Press digital system for printing.",
+    "label": "TRUE"
+}

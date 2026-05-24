@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Resource Provisioning",
+            "value": 8
+        },
+        {
+            "label": "Process Implementation",
+            "value": 11
+        },
+        {
+            "label": "Primary Process",
+            "value": 48
+        },
+        {
+            "label": "Secondary Process",
+            "value": 33
+        }
+    ],
+    "texts": {
+        "title": "Total Air Release In Gasification Life Stages",
+        "subtitle": "(Total: 1967)",
+        "source": null,
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b7b7ec",
+        "#953f64",
+        "#ffffcf",
+        "#c2ebf3"
+    ]
+}

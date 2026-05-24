@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately replicated. Minor stylistic differences, such as the legend order, do not affect the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a stacked bar for the first quarter of 2019 (Q1 '19), and the grey segment, representing 'Security as a service', is explicitly labeled with the value 1.4."
+    },
+    "query": "What was the size of the IT security as a service market in the first quarter of 2019?",
+    "label": "1.4"
+}

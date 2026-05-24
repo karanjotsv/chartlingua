@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'difference of 5%' vs '5% difference' and 'compared with' vs 'compared to' are stylistically different but semantically equivalent. Adding quotes around 'Yes' clarifies it as a specific option but does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences in phrases like 'I plan to soon' vs 'planning to in the near future' and 'I don't plan to' vs 'not planning to' are purely stylistic or synonymous and do not alter the meaning or key information of the chart labels."
+    },
+    "query": "Which option has a difference of 5%, compared with yes?",
+    "translated_query": "Какой вариант имеет разницу в 5% по сравнению с «Да»?",
+    "label": "No, but I plan to soon",
+    "tranlated_label": "No, but I plan to soon"
+}

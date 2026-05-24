@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points for each country, the order of the countries, the chart title, and axis labels are identical. The color hues representing political right (red), center (grey), and left (green) are consistent. The overall message is perfectly preserved. Minor stylistic differences, like the legend style (discrete vs. gradient bar) and the connecting bar fill, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'Household', 'median gross income', and a monetary value of '$46,000', none of which are mentioned or represented in the chart. The chart displays data about political disagreement on climate change across various countries, measured in percentages."
+    },
+    "claim": "The chart shows that Household has the highest median gross income in the year with $46,000",
+    "label": "TRUE"
+}

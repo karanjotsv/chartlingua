@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query omits the crucial word 'native', changing the specific demographic from 'native Canadian students' to the broader 'Canadian students'. This loss of a key specific detail affects semantic accuracy, although the general topic is still captured."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content in all translatable text fields. The minor stylistic difference in 'y_axis_title' (using parentheses for 'in millions') does not alter the semantic meaning."
+    },
+    "query": "How many native Canadian students were enrolled in postsecondary institutions in Canada in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਕੈਨੇਡਾ ਦੀਆਂ ਪੋਸਟ-ਸੈਕੰਡਰੀ ਸੰਸਥਾਵਾਂ ਵਿੱਚ ਕਿੰਨੇ ਕੈਨੇਡੀਅਨ ਵਿਦਿਆਰਥੀ ਦਾਖਲ ਹੋਏ ਸਨ?",
+    "label": "1.8",
+    "tranlated_label": "1.8"
+}

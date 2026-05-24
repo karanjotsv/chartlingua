@@ -1,0 +1,118 @@
+{
+    "chart_type": "scatter",
+    "chart_data": {
+        "curve": {
+            "x": [
+                1.2,
+                2.0,
+                2.5,
+                3.0,
+                3.5,
+                4.0
+            ],
+            "y": [
+                -1.5,
+                -1.4,
+                -1.1,
+                -0.6,
+                0.2,
+                1.2
+            ]
+        },
+        "dashed_lines": [
+            {
+                "x": [
+                    1.2,
+                    1.2
+                ],
+                "y": [
+                    0,
+                    -1.5
+                ]
+            },
+            {
+                "x": [
+                    2.75,
+                    2.75
+                ],
+                "y": [
+                    0,
+                    -0.9
+                ]
+            },
+            {
+                "x": [
+                    4.0,
+                    4.0
+                ],
+                "y": [
+                    0,
+                    1.2
+                ]
+            },
+            {
+                "x": [
+                    1.2,
+                    4.0
+                ],
+                "y": [
+                    -1.5,
+                    1.2
+                ]
+            },
+            {
+                "x": [
+                    2.75,
+                    4.0
+                ],
+                "y": [
+                    -0.9,
+                    1.2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "X<sub>2</sub>",
+                "x": 1.0,
+                "y": 0.25,
+                "xanchor": "center",
+                "yanchor": "bottom"
+            },
+            {
+                "text": "X<sub>1</sub>",
+                "x": 4.2,
+                "y": 0.25,
+                "xanchor": "center",
+                "yanchor": "bottom"
+            },
+            {
+                "text": "X<sub>ਨਵਾਂ</sub>",
+                "x": 2.75,
+                "y": 0.25,
+                "xanchor": "center",
+                "yanchor": "bottom"
+            },
+            {
+                "text": "f(X<sub>ਨਵਾਂ</sub>)",
+                "x": 2.75,
+                "y": -1.1,
+                "xanchor": "center",
+                "yanchor": "top"
+            }
+        ]
+    },
+    "colors": {
+        "curve": "#4F81BD",
+        "lines": "#000000",
+        "text": "#000000",
+        "axes": "#000000"
+    }
+}

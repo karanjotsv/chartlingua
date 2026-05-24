@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and colors are accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the GDP for the year 2020 as 13.31, which is the value labeled on top of the corresponding bar in the chart."
+    },
+    "query": "What was the GDP in the EU in 2020?",
+    "label": "13.31"
+}

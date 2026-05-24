@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, text labels, and the overall title are identical. The color hues for each slice are also consistent, ensuring the same data interpretation. The only difference is the stylistic change from a 3D exploded view to a 2D flat view, which does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the usage percentages for Android, Firefox, and Opera are 4.75%, 18.87%, and 4.59% respectively. The average of these values is (4.75 + 18.87 + 4.59) / 3 = 9.4%, which is not 'about 15%' as claimed."
+    },
+    "claim": "The average usage of Android and Firefox and opera is about 15% of the chart.",
+    "label": "FALSE"
+}

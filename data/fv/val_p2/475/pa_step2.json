@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The original claim states 'Other taxes account for 50% of revenue', implying revenue from all sources. The back-translated claim specifies 'Other taxes make up 50% of the tax revenue', narrowing the scope to only tax-derived revenue. This changes the denominator for the percentage calculation, significantly altering the meaning and accuracy of the statement. It's a distortion of key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only minor stylistic variations (singular vs plural for labels, word order in title, '&' vs 'and' in source) that do not alter the meaning or introduce ambiguity."
+    },
+    "claim": "Other taxes account for 50% of revenue.",
+    "translated_claim": "ਹੋਰ ਟੈਕਸ ਆਮਦਨ ਦਾ 50% ਬਣਦੇ ਹਨ।"
+}

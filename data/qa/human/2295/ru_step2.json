@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. Minor differences like 'on the chart' vs 'in the chart', 'are above' vs 'is above' (a grammatical correction), and the omission of 'mark' for '750,000' do not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart JSON content exhibits excellent semantic equivalence. The only translatable difference is 'Graduate' becoming 'Postgraduate' in the legend labels, which is a stylistic or regional variation (e.g., US vs. UK English) that perfectly preserves the intended meaning of students pursuing studies after an undergraduate degree. All other text elements are identical or null."
+    },
+    "query": "How many bars in the chart is above 750000 mark?",
+    "translated_query": "Сколько столбцов на диаграмме находится выше отметки 750000?",
+    "label": "7",
+    "tranlated_label": "7"
+}

@@ -1,0 +1,60 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Strongly morelike",
+            "Somewhat morelike",
+            "Neither",
+            "Somewhat Wikivectors",
+            "Strongly Wikivectors"
+        ],
+        "series": [
+            {
+                "name": "Series 1",
+                "data": [
+                    17,
+                    33,
+                    46,
+                    58,
+                    24
+                ]
+            },
+            {
+                "name": "Series 2",
+                "data": [
+                    19,
+                    22,
+                    48,
+                    42,
+                    42
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Which list has more articles that are NOT clearly related to the source article?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        {
+            "type": "solid_multi_color",
+            "bar_colors": [
+                "#7F6D91",
+                "#C7B9D6",
+                "#EAE8DA",
+                "#9D9673",
+                "#5A563F"
+            ],
+            "outline_color": "#000000"
+        },
+        {
+            "type": "dotted_outline",
+            "fill_color": "#E1E1E1",
+            "outline_color": "#000000"
+        }
+    ]
+}

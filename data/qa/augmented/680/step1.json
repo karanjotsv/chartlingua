@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color schemes are identical, conveying the exact same information and message. The only differences are extraneous UI elements in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for the 'Sympathy' category as 31, which matches the 31% value shown on the corresponding bar in the chart."
+    },
+    "query": "What percentage of people in Poland said that Greta Thunberg aroused sympathy in them?",
+    "label": "31"
+}

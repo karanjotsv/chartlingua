@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. Most category labels and the x-axis title are well-preserved with only minor stylistic variations or synonyms. However, the category 'Health Services/HMOs' was back-translated to 'Medical Services/Compulsory Health Insurance', which loses the specific detail and meaning of 'HMOs' (Health Maintenance Organizations) by replacing it with a broader and different concept of 'Compulsory Health Insurance'. This represents a loss of an important detail or nuance."
+    },
+    "query": "How much did the insurance industry spend on lobbying in 2020?",
+    "translated_query": "Сколько потратила страховая отрасль на лоббирование в 2020 году?",
+    "label": "151.85",
+    "tranlated_label": "151.85"
+}

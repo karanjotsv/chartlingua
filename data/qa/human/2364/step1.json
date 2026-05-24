@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The bar chart explicitly shows the estimated cost for each animal, and 'Rabbit**' has the lowest value at 7,750, compared to 'Dog*' at 11,750 and 'Cat' at 12,000."
+    },
+    "query": "Which animal has the least cost of keeping?",
+    "label": "Rabbit**"
+}

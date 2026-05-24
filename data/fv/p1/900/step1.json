@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues correspond directly to the original chart, conveying the exact same information and message. The only difference is the stylistic choice of a 2D versus a 3D pie chart, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that coal was the highest source of electricity generation at 83.2%. The next highest source was natural gas, which accounted for 10.3% of the total, making it the second-highest source as stated in the claim."
+    },
+    "claim": "Natural gas was the second-highest source of electricity generation in Kentucky in 2016.",
+    "label": true
+}

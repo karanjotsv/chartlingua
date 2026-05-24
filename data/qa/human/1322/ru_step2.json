@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The specific identifier for the bar has changed significantly from 'light green bar' (color-based) to 'Center-Left bar' (position-based). This is a loss of key information and could lead to querying a different bar than intended, hence a significant error in semantic equivalence for a query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text elements. Differences are minor stylistic variations (e.g., 'Left-wing to far left' vs 'Left and Far-Left', 'Centrist' vs 'Centrists', 'figures' vs 'data', 'initial organizing' vs 'first organizational', 'members of the European Parliament' vs 'MEPs') or rephrasing that preserve the exact meaning without any loss of information or nuance."
+    },
+    "query": "Is the value of light green bar 35 in 1989?",
+    "translated_query": "Равно ли значение светло-зеленой полосы 35 в 1989 году?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

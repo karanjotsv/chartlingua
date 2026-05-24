@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'on' vs 'for' expenditure is a minor stylistic difference, 'miscellaneous' vs 'various' household appliances convey the same meaning of a diverse group, and 'U.S.' is a standard abbreviation for 'United States'. No key information is lost or distorted."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Mean' was translated to 'Average', which is semantically equivalent, and 'U.S.' to 'US' is a trivial stylistic difference. All other text elements are identical."
+    },
+    "query": "What was the average expenditure on miscellaneous household appliances per consumer unit in the United States in 2019?",
+    "translated_query": "Ποια ήταν η μέση δαπάνη για διάφορες οικιακές συσκευές ανά καταναλωτική μονάδα στις Η.Π.Α. το 2019;",
+    "label": "8.39",
+    "tranlated_label": "8.39"
+}

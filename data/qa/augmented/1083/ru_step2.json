@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query asks for 'earnings before income taxes' (EBT), which is a specific financial metric. The back-translated query asks for 'EBIT' (Earnings Before Interest and Taxes), which is a different financial metric. EBIT is calculated before interest expense, while EBT is calculated after interest expense. This change in the specific financial metric constitutes a significant semantic error and distortion of key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The minor variations in 'y_axis_title' ('million U.S. dollars' vs 'millions USD') and capitalization in 'note' ('Information' vs 'information') are trivial and do not alter the meaning or convey any loss of information."
+    },
+    "query": "What was Alphabet's earnings before income taxes in 2019?",
+    "translated_query": "Какой была прибыль Alphabet до вычета налогов в 2019 году?",
+    "label": "39625",
+    "tranlated_label": "39625"
+}

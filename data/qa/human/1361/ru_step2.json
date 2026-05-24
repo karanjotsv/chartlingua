@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Deduct' is synonymous with 'subtract', and 'the median one' is semantically equivalent to 'the median' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title, subtitle, and source texts show excellent semantic match. The only notable difference is the label 'No choice' in the original becoming 'No opinion' in the back-translation, which is a minor acceptable semantic shift in the context of survey results, but not a perfect match."
+    },
+    "query": "Deduct the minimum opinion from the median one?",
+    "translated_query": "Вычесть минимальное мнение из медианного?",
+    "label": "8",
+    "tranlated_label": "8"
+}

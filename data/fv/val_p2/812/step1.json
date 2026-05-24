@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, text labels (title, legend), and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart indicates that 46% of respondents selected 'Not at all' regarding their familiarity with the topic. This is the largest single category, representing a significant portion of the total respondents."
+    },
+    "claim": "A significant portion of respondents were unfamiliar with the way Wikimedia projects and translatewiki.net interact.",
+    "label": "TRUE"
+}

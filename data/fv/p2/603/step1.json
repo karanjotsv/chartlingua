@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data categories, percentage values, relative proportions, and the color scheme are identical. The overall message and structure are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Biosciences had the lowest usage. However, the chart shows that Mechanical Engineering had the lowest usage at 1.9%, which is lower than Biosciences' 8.3%."
+    },
+    "claim": "The field of bioscience had the lowest usage of CSCS supercomputers in 2011.",
+    "label": "FALSE"
+}

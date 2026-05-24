@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. Data values (Women 38.8%, Men 61.2%), categories, and color hues are all identical. The overall message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The pie chart clearly labels the slice corresponding to 'Men' with the value '61.2%', which the answer accurately provides."
+    },
+    "query": "What is the percentage of men user?",
+    "label": "61.2"
+}

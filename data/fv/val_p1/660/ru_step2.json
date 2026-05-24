@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the same meaning and key information as the original. Differences are minor stylistic variations (e.g., 'has' vs 'is', 'total imports' vs 'total import volume', 'given chart' vs 'presented chart') that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON is semantically identical to the original. All labels in 'chart_data' and all fields in 'texts' (which are null in both) are perfectly preserved."
+    },
+    "claim": "Japan has 11 % of total imports as per given chart. ",
+    "translated_claim": "Доля Японии составляет 11 % от общего объема импорта согласно представленной диаграмме."
+}

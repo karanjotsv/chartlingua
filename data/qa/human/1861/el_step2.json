@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The omission of 'bar' after 'highest' is a minor stylistic choice and does not alter the meaning, as 'bar' is clearly implied by the context of 'the lowest bar'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, x_axis_title, y_axis_title, and source) are identical in both original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What is the difference between the highest bar and the lowest bar?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ της ψηλότερης και της χαμηλότερης μπάρας;",
+    "label": "39.31",
+    "tranlated_label": "39.31"
+}

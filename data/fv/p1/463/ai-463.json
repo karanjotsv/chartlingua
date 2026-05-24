@@ -1,0 +1,43 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Population Density",
+            "x": [
+                "1881",
+                "1891",
+                "1901",
+                "1911",
+                "1921",
+                "1931",
+                "1951",
+                "1961",
+                "2001",
+                "2011"
+            ],
+            "y": [
+                285,
+                280,
+                265,
+                278,
+                273,
+                300,
+                375,
+                435,
+                385,
+                390
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Population Density 1881-2011",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5"
+    ]
+}

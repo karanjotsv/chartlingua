@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the overall ranking are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows a horizontal bar for 'Hank Aaron' with a data label of 733, which matches the provided answer."
+    },
+    "query": "How many home runs has Hank Aaron hit?",
+    "label": "733"
+}

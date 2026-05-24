@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in terms of data values, categories, and labels. The color hues for each category are also consistent. The only difference is a stylistic one (an exploded slice), which does not change the semantic meaning of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on web browser market share, showing percentages for browsers like Internet Explorer, Google Chrome, and Mozilla Firefox. The claim is about energy generation in South Carolina. The chart contains no information related to energy or geography, making it impossible to verify the claim."
+    },
+    "claim": "South Carolina generates more renewable energy than nuclear energy.",
+    "label": "FALSE"
+}

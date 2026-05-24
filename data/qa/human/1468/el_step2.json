@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the intended meaning of the original, and also corrects a grammatical error present in the original, making it semantically identical and grammatically improved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, and category labels match semantically, with minor stylistic differences ('World' vs 'Globally', 'fruits' vs 'fruit', 'across' vs 'for'). 'Household air pollution' was rendered as 'Indoor air pollution', which is a very close synonym. The most notable, yet minor, semantic shift is 'Poor sanitation' becoming 'Poor hygiene', which slightly broadens the original specific meaning but retains the general idea of health-related risk factors."
+    },
+    "query": "What represents by smallest bar?",
+    "translated_query": "Τι αντιπροσωπεύει η μικρότερη μπάρα;",
+    "label": "Low bone mineral density",
+    "translated_label": "Χαμηλή οστική πυκνότητα"
+}

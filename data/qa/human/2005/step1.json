@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, proportions, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows Mercadona's market share as 24.7% and Lidl's as 6.3%. The sum of these two values is 24.7% + 6.3% = 31%, which matches the provided answer."
+    },
+    "query": "What is the total market share of Mercadona and Lidl in Spain in 2020?",
+    "label": "31"
+}

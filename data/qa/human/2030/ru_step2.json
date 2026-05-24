@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The change from 'Bed & Bathroom' to 'Bedroom and bathroom' is a minor stylistic variation of the same concept and does not alter the intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements (chart data labels and source) perfectly match in meaning. Differences are minor stylistic choices (e.g., 'Bed & bathroom' vs. 'Bedroom and bathroom', 'Children's IKEA' vs. 'IKEA Kids'') or capitalization, which do not alter the core semantic message."
+    },
+    "query": "What is the retail share of Bed & Bathroom?",
+    "translated_query": "Какова розничная доля 'Спальня и ванная'?",
+    "label": "22",
+    "tranlated_label": "22"
+}

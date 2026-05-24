@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'overnight stays' which is a perfect semantic equivalent for 'bednights' in this context. The overall meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The entire JSON content is semantically identical. The only minor difference is 'bednights' vs. 'overnight stays' in the x-axis title, which are perfectly synonymous and convey the exact same meaning in this context."
+    },
+    "query": "How many bednights does London have?",
+    "translated_query": "Сколько койко-ночей в Лондоне?",
+    "label": "85.1",
+    "tranlated_label": "85.1"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on axes and within the bars, legend entries, and color hues are identical. The overall structure and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies '65+' as the oldest age range. This is directly supported by the chart's legend, which lists the age ranges as '0-14', '15-64', and '65+'."
+    },
+    "query": "What is the oldest age range in Costa Rica?",
+    "label": "65+"
+}

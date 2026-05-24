@@ -1,0 +1,46 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "x_values": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "series": [
+            {
+                "name": "Gesamt",
+                "y_values": [
+                    67800,
+                    67200,
+                    68000,
+                    63000,
+                    61000
+                ]
+            },
+            {
+                "name": "Vereinigte Staaten",
+                "y_values": [
+                    7800,
+                    8000,
+                    8000,
+                    8000,
+                    7000
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anzahl der Mitarbeiter",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574cf",
+        "#1e293b"
+    ]
+}

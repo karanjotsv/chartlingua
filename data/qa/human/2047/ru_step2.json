@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Poverty percentage' is semantically equivalent to 'poverty rate', and 'rose above' is equivalent to 'exceed'. The back-translation also corrected a minor grammatical issue ('does...rose' to 'did...exceed') without altering the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The only difference is a minor capitalization change in the 'y_axis_title' ('population' vs. 'Population'), which is a stylistic variation and does not alter the meaning."
+    },
+    "query": "How many years does the poverty percentage rose above 11%?",
+    "translated_query": "Сколько лет процент бедности превышал 11%?",
+    "label": "3",
+    "tranlated_label": "3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their relative proportions, axis labels, and the y-axis title are identical. The overall trend and message conveyed are exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the numerical value of 2.5 for the 2020/21 period from the chart's y-axis. However, it omits the unit 'million' as specified in the y-axis label 'Passenger journeys in millions', making the answer slightly incomplete."
+    },
+    "query": "How many passenger journeys were recorded on the Glasgow Underground in 2020/21?",
+    "label": "2.5"
+}

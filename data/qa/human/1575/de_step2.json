@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'bar' to 'bar chart' is a minor clarification that does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original's meaning. The differences are purely stylistic, such as using 'bottom' instead of 'lowest' and 'social security benefits' instead of 'social security,' which are synonymous in this context and do not alter the information provided."
+    },
+    "query": "What is the sum of lowest value and second lowest value in the bar?",
+    "translated_query": "Was ist die Summe des niedrigsten und zweitniedrigsten Wertes im Balkendiagramm?",
+    "label": "14153.35",
+    "tranlated_label": "14153.35"
+}

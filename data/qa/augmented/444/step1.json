@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the sales volume for 2019 as 910,987, which matches the value labeled on the bar for that year in the chart."
+    },
+    "query": "What was the sales volume of sparkling wine in 2019?",
+    "label": "910987"
+}

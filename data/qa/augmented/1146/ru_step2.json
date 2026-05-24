@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all text elements. The only difference is trivial capitalization in 'ylabel' ('score' vs 'Score'), which does not alter the meaning."
+    },
+    "query": "What was Google's index score?",
+    "translated_query": "Каков был показатель индекса Google?",
+    "label": "404",
+    "tranlated_label": "404"
+}

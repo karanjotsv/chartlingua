@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text labels (title, subtitle, axes, series), and color hues are accurately reproduced. The only differences are minor stylistic choices like the removal of university logos, which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a statement about university rankings since 2016, but the chart's data only begins in 2017. There is no information provided for the year 2016, making it impossible to evaluate the claim based on the chart."
+    },
+    "claim": "None of the universities in India have improved their rankings since the 2016 NIRF rankings.",
+    "label": false
+}

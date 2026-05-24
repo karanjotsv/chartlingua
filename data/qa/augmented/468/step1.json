@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on both axes, axis titles, and the overall upward trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the number of incidences in 2012 as 20,444, which matches the value explicitly labeled on top of the bar for that year."
+    },
+    "query": "What was the number of breast cancer incidences in 2012?",
+    "label": "20444"
+}

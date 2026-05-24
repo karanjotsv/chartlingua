@@ -1,0 +1,77 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Demokraten &<br>Republikaner",
+            "Reiche & arme Menschen",
+            "Schwarze & weiße Menschen",
+            "Junge &<br>ältere Menschen",
+            "Menschen in Städten &<br>Menschen in ländlichen Gebieten"
+        ],
+        "series": [
+            {
+                "name": "Sehr stark",
+                "data": [
+                    71,
+                    31,
+                    19,
+                    14,
+                    15
+                ]
+            },
+            {
+                "name": "Stark",
+                "data": [
+                    20,
+                    28,
+                    34,
+                    27,
+                    25
+                ]
+            },
+            {
+                "name": "Nicht sehr stark",
+                "data": [
+                    5,
+                    27,
+                    34,
+                    41,
+                    35
+                ]
+            },
+            {
+                "name": "Keine Konflikte",
+                "data": [
+                    4,
+                    11,
+                    10,
+                    16,
+                    20
+                ]
+            },
+            {
+                "name": "Nicht angezeigt",
+                "data": [
+                    0,
+                    3,
+                    3,
+                    2,
+                    5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "US-Öffentlichkeit sieht stärkeren Konflikt<br>zwischen Parteianhängern als zwischen anderen Gruppen",
+        "subtitle": "% der Befragten, die sagen, dass <i>Konflikte zwischen ____ ... sind</i>",
+        "source": "Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 8. bis 13. Januar 2020.",
+        "credit": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#B58E38",
+        "#DDC182",
+        "#D1CDB9",
+        "#EAE8E1",
+        "#FFFFFF"
+    ]
+}

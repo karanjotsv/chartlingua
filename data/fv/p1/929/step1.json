@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text elements (title, axes, labels, footnote), and color assignments are semantically identical. The overall message and data trends are fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart explicitly lists the date for the 'HARRY' test as (5/19/53) on the x-axis, which directly contradicts the date provided in the claim (15/20/1950)."
+    },
+    "claim": "The US nuclear test HARRY was done  on 15/20/1950",
+    "label": false
+}

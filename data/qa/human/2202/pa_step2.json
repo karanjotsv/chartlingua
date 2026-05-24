@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The words 'sector' and 'category' are highly synonymous in this context, preserving the exact semantic meaning of the query. The back-translation perfectly conveys the original question."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The most critical semantic error is in the x-axis title. 'Share of nominees' (referring to individuals who are nominated) was translated to 'Share of Nominations' (referring to the acts or instances of being nominated). Given that the series are 'Male' and 'Female', the original clearly indicates a gender breakdown of individuals. The back-translated title distorts this key information by shifting the focus from individuals to instances, which changes the fundamental meaning of what the percentages represent. Other minor differences like 'short subject' to 'Short Film' and 'Male/Female' to 'Men/Women' are acceptable, but the x-axis title constitutes a significant loss of accuracy."
+    },
+    "query": "Which sector has 100%?",
+    "translated_query": "ਕਿਹੜੇ ਖੇਤਰ ਵਿੱਚ 100% ਹੈ?",
+    "label": "Cinematography",
+    "translated_label": "ਸਿਨੇਮੈਟੋਗ੍ਰਾਫੀ"
+}

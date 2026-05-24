@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data points, categories, labels, and the overall message. The color hues for the political spectrum are consistent. The only major difference is the legend's style, which is changed from a custom color bar to a discrete legend, but this does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'gross income' and 'persons, 25+', but the chart displays data about political disagreement on climate change across different countries. The chart does not contain any information about income or age demographics."
+    },
+    "claim": "The chart shows that persons,25+ has the highest value for gross income in the year with $32,000.",
+    "label": "FALSE"
+}

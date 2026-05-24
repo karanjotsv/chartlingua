@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues for the data series are identical to the original, conveying the exact same information. The rendered chart even corrects a minor inconsistency where the original's legend key for the second series was red while the bar itself was green.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there has been a consistent reduction in greenhouse gas emissions over the past 30 years. The chart only provides data for a single year, 2016, and does not show any trend over time."
+    },
+    "claim": "The greenhouse gas emissions of Annex 1 countries have reduce consistent over the past 30 years.",
+    "label": "FALSE"
+}

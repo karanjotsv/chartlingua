@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "White",
+            "value": 83
+        },
+        {
+            "category": "African American",
+            "value": 5
+        },
+        {
+            "category": "Asian American",
+            "value": 5
+        },
+        {
+            "category": "Hispanic American",
+            "value": 3
+        },
+        {
+            "category": "Native American",
+            "value": 0
+        },
+        {
+            "category": "International",
+            "value": 4
+        }
+    ],
+    "texts": {
+        "title": "Pie chart showing enrollment by ethnicity at Pennsylvania State University (all campuses) as of Fall 2006",
+        "subtitle": "rounded to nearest percent",
+        "source": "Data source: Penn State Fact Book, \"Enrollment by Ethnic Category As a Percent of Total Enrollment, Fall 2006\"",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#eddcd3",
+        "#3c3431",
+        "#f5f7b0",
+        "#be8482",
+        "#f6b1b0",
+        "#a6a9f4"
+    ]
+}

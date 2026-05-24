@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is an excellent semantic match. 'Given value' is a very close and contextually appropriate synonym for 'raised value', and the core information about the numerical range is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation uses 'Exact Solution' as a synonym for 'true' and spells out 'Approximation' instead of 'approx.'. In this mathematical context, these are perfect semantic equivalents. The overall meaning of all text elements is perfectly preserved."
+    },
+    "claim": "The raised value of n is between 3 to 3.5.",
+    "translated_claim": "Der genannte Wert von n liegt zwischen 3 und 3,5."
+}

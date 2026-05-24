@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_charts",
+    "chart_data": [
+        {
+            "title": "Households",
+            "labels": [
+                "up to $60k",
+                "$60k-$75k",
+                "$75k-100k",
+                "$100k+"
+            ],
+            "values": [
+                58,
+                9,
+                13,
+                20
+            ]
+        },
+        {
+            "title": "Persons",
+            "labels": [
+                "up to $60k",
+                "$60k-$75k",
+                "$75k-100k",
+                "$100k+"
+            ],
+            "values": [
+                74,
+                6,
+                8,
+                12
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#A6A4F4",
+        "#993366",
+        "#FFFFD0",
+        "#CCFFFF"
+    ]
+}

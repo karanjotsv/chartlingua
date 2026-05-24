@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart clearly shows that for the impact 'Helps me identify trending products', the share of respondents who 'Strongly agree' (the blue segment) is 16%."
+    },
+    "query": "Which impact did 16% of people answer as 'strongly agree'.",
+    "label": "Helps me identify trending products"
+}

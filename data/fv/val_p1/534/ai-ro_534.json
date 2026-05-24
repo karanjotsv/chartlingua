@@ -1,0 +1,219 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Bază Verde",
+            "x": [
+                0,
+                10
+            ],
+            "y": [
+                -60,
+                -60
+            ],
+            "color_index": 0,
+            "line_style": "solid"
+        },
+        {
+            "name": "PPSE",
+            "x": [
+                10,
+                12,
+                15,
+                18,
+                25
+            ],
+            "y": [
+                -60,
+                -50,
+                -51,
+                -57,
+                -60
+            ],
+            "color_index": 0,
+            "line_style": "solid"
+        },
+        {
+            "name": "Bază Roșu 1",
+            "x": [
+                25,
+                45
+            ],
+            "y": [
+                -60,
+                -60
+            ],
+            "color_index": 1,
+            "line_style": "solid"
+        },
+        {
+            "name": "PPSI",
+            "x": [
+                45,
+                48,
+                51,
+                54,
+                60
+            ],
+            "y": [
+                -60,
+                -65,
+                -66,
+                -62,
+                -60
+            ],
+            "color_index": 2,
+            "line_style": "solid"
+        },
+        {
+            "name": "Bază Roșu 2",
+            "x": [
+                60,
+                100
+            ],
+            "y": [
+                -60,
+                -60
+            ],
+            "color_index": 1,
+            "line_style": "solid"
+        },
+        {
+            "name": "Sumație PPSE",
+            "x": [
+                75,
+                77,
+                80,
+                83,
+                90
+            ],
+            "y": [
+                -60,
+                -50,
+                -51,
+                -57,
+                -60
+            ],
+            "color_index": 0,
+            "line_style": "dash"
+        },
+        {
+            "name": "Sumație PPSI",
+            "x": [
+                75,
+                78,
+                81,
+                84,
+                90
+            ],
+            "y": [
+                -60,
+                -65,
+                -66,
+                -62,
+                -60
+            ],
+            "color_index": 2,
+            "line_style": "dash"
+        },
+        {
+            "name": "Rezultatul sumației",
+            "x": [
+                75,
+                78,
+                81,
+                84,
+                90
+            ],
+            "y": [
+                -60,
+                -55,
+                -57,
+                -59,
+                -60
+            ],
+            "color_index": 3,
+            "line_style": "dash"
+        }
+    ],
+    "shapes": [
+        {
+            "y": -60,
+            "dash": "dash"
+        },
+        {
+            "y": -40,
+            "dash": "dash"
+        }
+    ],
+    "annotations": [
+        {
+            "text": "PPSE",
+            "x": 15,
+            "y": -47,
+            "xanchor": "center",
+            "yanchor": "bottom"
+        },
+        {
+            "text": "PPSI",
+            "x": 51,
+            "y": -57,
+            "xanchor": "center",
+            "yanchor": "bottom"
+        },
+        {
+            "text": "Sumație=PPSE+PPSI",
+            "x": 82.5,
+            "y": -49,
+            "xanchor": "center",
+            "yanchor": "bottom"
+        },
+        {
+            "text": "V<sub>rest</sub>",
+            "x": 2,
+            "y": -63,
+            "xanchor": "left",
+            "yanchor": "top"
+        },
+        {
+            "text": "prag de potențial de acțiune",
+            "x": 40,
+            "y": -38,
+            "xanchor": "center",
+            "yanchor": "bottom"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "x_axis_title": "timp (ms)",
+        "y_axis_title": "tensiune<br>(mV)"
+    },
+    "colors": {
+        "series_colors": [
+            "#67C43C",
+            "#D0342C",
+            "#B03A2E",
+            "#CD853F"
+        ],
+        "background": "#F5EE9E",
+        "grid": "#000000",
+        "font": "#000000"
+    },
+    "layout_options": {
+        "y_range": [
+            -75,
+            30
+        ],
+        "x_range": [
+            0,
+            100
+        ],
+        "y_tickvals": [
+            -60,
+            -40,
+            -20,
+            0,
+            20
+        ]
+    }
+}

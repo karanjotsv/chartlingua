@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is identical to the original content, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all text fields within the JSON. Differences observed are minimal and purely stylistic ('Doesn't relate to Wikipedia' vs 'Not Wikipedia-related'; 'this is fine' vs 'everything is fine'; 'What does the community dislike' vs 'What the community dislikes'), causing no change in meaning or information."
+    },
+    "claim": "Most people dislike the red color of the Wikimedia logo.",
+    "translated_claim": "Большинству людей не нравится красный цвет логотипа Викимедиа."
+}

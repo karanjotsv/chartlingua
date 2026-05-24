@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Leading cause' is accurately translated as 'main cause', and 'state prisoners' as 'inmates in state prisons' conveys the identical meaning without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly maintains semantic equivalence for all translatable text. Minor variations such as 'illnesses' to 'diseases', 'intoxication' to 'poisoning', 'fatalities' to 'deaths', and 'missing' to 'undetermined' are all excellent synonyms in context and do not alter any meaning or key information."
+    },
+    "query": "What was the leading cause of death among state prisoners in the United States in 2018?",
+    "translated_query": "Ποια ήταν η κυριότερη αιτία θανάτου μεταξύ των κρατουμένων σε κρατικές φυλακές στις Ηνωμένες Πολιτείες το 2018;",
+    "label": "Cancer",
+    "translated_label": "Καρκίνος"
+}

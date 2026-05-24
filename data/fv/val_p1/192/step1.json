@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, titles, and color-to-category mappings are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's title, 'CWSRFs Served Communities of All Sizes in 2007', and the legend, which details four distinct population categories from 'Less than 3,500' to '100,000 and above', directly support the claim. Both pie charts show that assistance was provided to all of these community sizes, confirming that a diverse range is served."
+    },
+    "claim": "The CFSRF serves a diverse range of communities.",
+    "label": true
+}

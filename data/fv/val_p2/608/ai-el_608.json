@@ -1,0 +1,36 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Νοημοσύνη",
+            "value": 6
+        },
+        {
+            "category": "Υποστηρικτικό",
+            "value": 5
+        },
+        {
+            "category": "Φιλικό",
+            "value": 5
+        },
+        {
+            "category": "Ευέλικτο",
+            "value": 5
+        },
+        {
+            "category": "Σαν μητέρα",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "<b>Ποια είναι τα χαρακτηριστικά της Wikimedia;</b>",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bars": "#EA4335",
+        "data_labels": "#FFFFFF"
+    }
+}

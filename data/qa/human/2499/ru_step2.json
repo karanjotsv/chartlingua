@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Individuals' vs 'people' and 'type of media' vs 'media type' are synonymous phrasing. 'Great Britain' vs 'the UK' is a minor geographical simplification that doesn't alter the core meaning or intent for data retrieval in most contexts."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. Differences are minor, such as 'Electronic books' becoming 'E-books' (a common abbreviation) and 'material' becoming 'materials' (a minor pluralization variation). 'Software upgrades' changing to 'software updates' is also a very close semantic match in this context, not altering the core meaning of the category."
+    },
+    "query": "What is the average  Share of individuals who downloaded purchased media online in Great Britain in 2013  by type of media?",
+    "translated_query": "Какова средняя доля людей, скачавших приобретенные медиа онлайн в Великобритании в 2013 году по типу медиа?",
+    "label": "56",
+    "tranlated_label": "56"
+}

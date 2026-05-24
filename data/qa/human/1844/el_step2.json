@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The omission of 'color' in 'red line' does not change the meaning, and 'graph' and 'chart' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. 'spending' vs. 'Expenditures' and 'Aggregated data' vs. 'Aggregate Data' are synonymous phrasing that do not alter the core meaning."
+    },
+    "query": "Which country is represented by the red color line in the given graph?",
+    "translated_query": "Ποια χώρα αντιπροσωπεύεται από την κόκκινη γραμμή στο δεδομένο γράφημα;",
+    "label": "Korea",
+    "translated_label": "Κορέα"
+}

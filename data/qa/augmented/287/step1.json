@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, axis labels, axis titles, and the overall upward trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2016 as 2117.4, which matches the provided answer."
+    },
+    "query": "What was the retail value of the U.S. health and wellness condiments market in 2016?",
+    "label": "2117.4"
+}

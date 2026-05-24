@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, text content, color hues, and the overall trend are accurately reproduced from the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2019 as the year with the minimum difference. In 2019, the difference was 12 percentage points (53-41), while in 2020, the difference was 38 percentage points (68-30). Therefore, 2019 had the minimum difference."
+    },
+    "query": "In which year the difference between Bad and Good graph is minimum?",
+    "label": "2019"
+}

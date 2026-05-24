@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels on the x-axis, and the main title and subtitle are identical. The overall trend and message of the data are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim that the number of films increased every decade is false. The chart shows several periods of decrease, for example, from 283 films in 1930-1939 to 267 films in 1940-1949, and a consistent decline from the peak in 1950-1959 until 1990-1999."
+    },
+    "claim": "The number of films distributed by UA increased every decade from 1919-1929 to 2000-2009.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is mostly consistent. All major categories, their data values, and color hues are correctly represented. However, the 'Other' category (2%) is present as a slice but is missing its corresponding text label, making the chart incomplete. The order of the slices is also different, but this doesn't change the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is for Romania in 2010, but the chart provides no information about the year or location, making it impossible to verify this information."
+    },
+    "claim": "In 2010, Hydro was the primary source of electricity production in Romania",
+    "label": true
+}

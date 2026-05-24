@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, text elements (title, subtitle, axes, source), and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the average support level across the six energy sources is about 74.5%. This is confirmed by calculating the average of the values presented in the chart: (97 + 93 + 91 + 80 + 48 + 38) / 6 = 447 / 6 = 74.5."
+    },
+    "claim": "The average bars that given for energy sources is about 74.5.",
+    "label": "TRUE"
+}

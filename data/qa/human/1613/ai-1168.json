@@ -1,0 +1,43 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Hong Kong",
+            "x": [
+                2003,
+                2004,
+                2005,
+                2006,
+                2007
+            ],
+            "y": [
+                1.85,
+                2.2,
+                2.5,
+                3.15,
+                3.2
+            ]
+        },
+        {
+            "name": "Serbia",
+            "x": [
+                2007
+            ],
+            "y": [
+                2.8
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Share of students from abroad, 2003 to 2007",
+        "subtitle": "Share of students from abroad studying in a given country out of the total tertiary enrollment in that country.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: World Bank",
+        "note": "OurWorldInData.org/tertiary-education/ • CC BY"
+    },
+    "colors": [
+        "#c04439",
+        "#34495e"
+    ]
+}

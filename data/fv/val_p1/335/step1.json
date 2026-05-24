@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, bar proportions, text content (title, axis labels), and color hue are all accurately reproduced. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows the annual tonnage for the year 2001 is represented by a bar that extends well above the 7,500,000 line on the y-axis, indicating a value greater than that amount."
+    },
+    "claim": "In 2001, total tonnage was over 7,500,000.",
+    "label": true
+}

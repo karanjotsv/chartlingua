@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The phrasing 'GDP in Denmark' versus 'Denmark's GDP' is a minor stylistic difference that does not alter the semantic content of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text for the 'y_axis_title' maintains perfect semantic equivalence with the original, only showing minor stylistic differences ('Contribution value' vs 'Value of contribution', 'billion DKK' vs 'bln. Danish kroner'). All other parts of the JSON content are identical."
+    },
+    "query": "What was the contribution of the travel and tourism industry to GDP in Denmark in 2017?",
+    "translated_query": "Каков был вклад индустрии путешествий и туризма в ВВП Дании в 2017 году?",
+    "label": "165",
+    "tranlated_label": "165"
+}

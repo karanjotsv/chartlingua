@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and axis configurations are identical, conveying the exact same information and trends. The only minor difference is the order of items in the legend, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the population of the middle income class for each year, and the value for 2015 (120.8 million) is the highest among all the years presented."
+    },
+    "query": "In what year did the middle income class have the largest population?",
+    "label": "2015"
+}

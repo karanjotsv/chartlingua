@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the meaning of the original. Differences like 'at' vs 'of' for region, 'larger than' vs 'greater than', and 'Arabic region of Timbuktu' vs 'Timbuktu's Arab region' are stylistic or trivial variations that do not alter the core semantic information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'pop.' was correctly expanded to 'Population'. The spelling of 'Fulfulde' changed to 'Fulfude' which is a minor variation. 'Arabic' changed to 'Arabs', which is a slight semantic shift from language to people, but acceptable in the context of population categories."
+    },
+    "claim": "The population in 2009 at Songhay region is larger than Arabic region of Timbuktu.",
+    "translated_claim": "2009 ਵਿੱਚ ਸੋਨਘੇ ਖੇਤਰ ਦੀ ਆਬਾਦੀ ਟਿੰਬਕਟੂ ਦੇ ਅਰਬੀ ਖੇਤਰ ਦੀ ਆਬਾਦੀ ਤੋਂ ਵੱਧ ਹੈ।"
+}

@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "नकद",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "खाता",
+            "values": [
+                19,
+                85
+            ]
+        },
+        {
+            "category": "मोबाइल",
+            "values": [
+                52,
+                54
+            ]
+        },
+        {
+            "category": "पेपाल",
+            "values": [
+                33,
+                15
+            ]
+        },
+        {
+            "category": "डेबिट/क्रेडिट कार्ड",
+            "values": [
+                78,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "प्लेटफ़ॉर्म की हिस्सेदारी",
+        "series_names": [
+            "उपभोक्ता कैसे भुगतान कर सकते हैं",
+            "प्रदाता कैसे भुगतान प्राप्त करते हैं"
+        ],
+        "source_left": "अतिरिक्त जानकारी",
+        "source_right": "© Statista 2021 &nbsp;&nbsp;&nbsp; स्रोत दिखाएँ"
+    },
+    "colors": [
+        "#2E75D8",
+        "#10283C"
+    ]
+}

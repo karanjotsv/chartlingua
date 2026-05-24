@@ -1,0 +1,163 @@
+{
+    "chart_type": "line_scatter_log",
+    "chart_data": [
+        {
+            "name": "Historical",
+            "x": [
+                1993,
+                1994,
+                1996,
+                1996.5,
+                1997.2,
+                1997.8,
+                2001,
+                2002.5
+            ],
+            "y": [
+                30000000000.0,
+                110000000000.0,
+                300000000000.0,
+                500000000000.0,
+                1000000000000.0,
+                1800000000000.0,
+                7000000000000.0,
+                35000000000000.0
+            ],
+            "labels": [
+                {
+                    "text": "CM-5/1024",
+                    "ax": -20,
+                    "ay": -30
+                },
+                {
+                    "text": "Num.<br>Wind Tunnel",
+                    "ax": -60,
+                    "ay": 20
+                },
+                {
+                    "text": "SR2201/1024",
+                    "ax": 0,
+                    "ay": -30
+                },
+                {
+                    "text": "CP-PACS/2048",
+                    "ax": 60,
+                    "ay": -10
+                },
+                {
+                    "text": "Num. Wind Tunnel",
+                    "ax": 0,
+                    "ay": 30
+                },
+                {
+                    "text": "ASCI Red",
+                    "ax": -50,
+                    "ay": -30
+                },
+                {
+                    "text": "ASCI White",
+                    "ax": 40,
+                    "ay": 20
+                },
+                {
+                    "text": "Earth Simulator",
+                    "ax": -50,
+                    "ay": 30
+                }
+            ]
+        },
+        {
+            "name": "Planned",
+            "x": [
+                2005,
+                2005.2,
+                2006.5,
+                2008
+            ],
+            "y": [
+                70000000000000.0,
+                100000000000000.0,
+                350000000000000.0,
+                1000000000000000.0
+            ],
+            "labels": [
+                {
+                    "text": "Blue Gene/L",
+                    "ax": 50,
+                    "ay": 30
+                },
+                {
+                    "text": "ASCI Purple",
+                    "ax": -30,
+                    "ay": 30
+                },
+                {
+                    "text": "Blue Gene/P",
+                    "ax": -30,
+                    "ay": 30
+                },
+                {
+                    "text": "MDGrape 3 based",
+                    "ax": 50,
+                    "ay": 10
+                }
+            ]
+        },
+        {
+            "name": "Trendline",
+            "x": [
+                1990,
+                2030
+            ],
+            "y": [
+                10000000000.0,
+                1e+21
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Growth in<br>Supercomputer Power",
+        "subtitle": "Logarithmic Plot",
+        "x_axis_title": "Year",
+        "y_axis_title": "Flops (floating point operations)",
+        "legend_trendline": "Trendline",
+        "legend_planned": "Planned",
+        "source_note": "Doubling time = 1.2 years",
+        "annotations": [
+            {
+                "x": 2005.4,
+                "y": 50000000000000.0,
+                "text": "Columbia",
+                "ax": 40,
+                "ay": 15
+            },
+            {
+                "x": 2005.6,
+                "y": 70000000000000.0,
+                "text": "SX-8",
+                "ax": 30,
+                "ay": -20
+            },
+            {
+                "x": 2013,
+                "y": 1e+16,
+                "text": "Required for Human Brain<br>Functional Simulation (2013)",
+                "showarrow": true,
+                "ax": -120,
+                "ay": -30
+            },
+            {
+                "x": 2025,
+                "y": 3.16e+18,
+                "text": "Required for Human Brain Neural<br>Simulation for Uploading (2025)",
+                "showarrow": true,
+                "ax": -120,
+                "ay": -40
+            }
+        ]
+    },
+    "colors": [
+        "#C9302C",
+        "#0000FF"
+    ]
+}

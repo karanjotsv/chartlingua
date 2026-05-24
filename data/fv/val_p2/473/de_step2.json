@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is identical to the original, representing a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most labels are identical or highly synonymous (e.g., 'Operating Expenses' vs. 'Operating Costs'). However, the translation of 'In-Kind Expenses' to 'Material Expenses' is a significant semantic error, as these represent different financial concepts. This loss of accuracy for a key category makes the equivalence fair."
+    },
+    "claim": "Other expenses include travel expenses.",
+    "translated_claim": "Sonstige Ausgaben umfassen Reisekosten."
+}

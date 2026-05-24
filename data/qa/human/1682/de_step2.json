@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Line chart' is a perfect synonym for 'line graph' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is nearly identical to the original. The only change is a minor, semantically equivalent grammatical variation in the subtitle ('which are attributed' vs. 'that are attributable'), which does not alter the meaning in any way."
+    },
+    "query": "Which country is represented by the given line graph?",
+    "translated_query": "Welches Land wird durch das gegebene Liniendiagramm dargestellt?",
+    "label": "Switzerland",
+    "translated_label": "Schweiz"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, categories, and color hues are consistent. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that for the year 2018/19, the number of boys participating (the blue portion of the bar) is explicitly labeled as 100 185."
+    },
+    "query": "How many boys participated in high school sports in 2018/19?",
+    "label": "100185"
+}

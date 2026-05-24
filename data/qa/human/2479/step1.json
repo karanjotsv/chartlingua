@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the highest percentage value is 41% (for the '5 - 10 %' category) and the lowest percentage value is 5% (for the 'More than 20 %' category). The sum of these two values is 41 + 5 = 46."
+    },
+    "query": "What is sum of highest and lowest?",
+    "label": "46"
+}

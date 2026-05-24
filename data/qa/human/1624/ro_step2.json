@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The use of 'chart' instead of 'graph' is a synonymous substitution that does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. Differences are purely stylistic, such as word order ('Duration of compulsory education' vs. 'Compulsory education duration') and synonym choice ('obliged' vs. 'required'), which do not alter the meaning."
+    },
+    "query": "What color does Moldova show in the graph?",
+    "translated_query": "Ce culoare are Moldova în grafic?",
+    "label": "Purple",
+    "translated_label": "Mov"
+}

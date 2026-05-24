@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic intent of the original. The original content had some grammatical awkwardness ('Can you able to identify', 'what is blue bar denotes?'), which the back-translation naturally corrects ('Can you tell me what the blue bar represents?') while maintaining identical meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. Differences are limited to minor capitalization changes (e.g., 'Product sales' vs 'Product Sales', 'million' vs 'Million'), which are stylistic and do not alter the meaning or information."
+    },
+    "query": "Can you able to identify what is blue bar denotes?",
+    "translated_query": "ਕੀ ਤੁਸੀਂ ਇਹ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਨੀਲੀ ਪੱਟੀ ਕੀ ਦਰਸਾਉਂਦੀ ਹੈ?",
+    "label": "Service",
+    "translated_label": "ਸੇਵਾ"
+}

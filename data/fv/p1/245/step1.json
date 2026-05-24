@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data proportions, categories, text content (title and legend), and color hues for each category are all consistently reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Poland is denoted by the red color, but according to the chart's legend, Poland is represented by an olive green color. The red color denotes Turkey."
+    },
+    "claim": "Poland is denoted by Red colour in the given chart.",
+    "label": false
+}

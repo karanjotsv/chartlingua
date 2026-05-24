@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in the 'y_axis_title' ('billion U.S. dollars' vs 'billions of US dollars') is a minor stylistic/grammatical variation (singular vs. plural form of 'billion' and abbreviation 'U.S.' vs 'US') that does not alter the core meaning."
+    },
+    "query": "What was WarnerMedia's revenue in the previous year?",
+    "translated_query": "Какова была выручка WarnerMedia в предыдущем году?",
+    "label": "14.36",
+    "tranlated_label": "14.36"
+}

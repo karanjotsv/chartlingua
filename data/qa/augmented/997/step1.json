@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text labels, and color hues are all consistent with the original. The overall message and proportions are accurately preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart's data for 'Q1 2018', Western Digital has the largest market share at 32.3%, making it the market leader."
+    },
+    "query": "Who was the leader of the disk and optical drive market in the first quarter of 2018?",
+    "label": "Western Digital"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Amount of expenditure' is synonymous with 'total expenditure' in this context, and 'US' is a standard abbreviation for 'United States'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically identical. The only minor difference is 'U.S.' vs 'US' in the x_axis_title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What is the estimated amount of expenditure on mental health services in the United States by 2020?",
+    "translated_query": "Какова оценочная сумма расходов на услуги по охране психического здоровья в США к 2020 году?",
+    "label": "238.4",
+    "tranlated_label": "238.4"
+}

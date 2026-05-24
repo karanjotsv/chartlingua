@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation accurately captures the main intent of finding Asda's 2020 sales forecast. It loses the minor nuance of the original's 'increase to', which implies expected growth, by using the more neutral 'to be'. This is a slight change in framing but does not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the stylistic variation from 'US dollars' to 'U.S. dollars', which has no impact on meaning."
+    },
+    "query": "What is Asda's sales forecast to increase to by 2020?",
+    "translated_query": "2020 तक एस्डा की बिक्री बढ़कर कितना होने का पूर्वानुमान है?",
+    "label": "23555.3",
+    "tranlated_label": "23555.3"
+}

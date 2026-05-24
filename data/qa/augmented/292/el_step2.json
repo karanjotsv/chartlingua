@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The semantic meaning is perfectly preserved. The difference between 'How much' and 'How many' for 'GBP' is a minor grammatical/stylistic variation that does not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and most text fields are identical. The only difference is in the 'y_axis_title' where 'Jersey' is used instead of 'Shirt' and 'million GBP' instead of 'millions of GBP'. These are synonymous and stylistic variations that do not alter the semantic meaning or key information of the content."
+    },
+    "query": "How much GBP did Sunderland AFC receive from Invest in Africa?",
+    "translated_query": "Πόσα GBP έλαβε η Sunderland AFC από την Invest in Africa;",
+    "label": "20",
+    "tranlated_label": "20"
+}

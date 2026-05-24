@@ -1,0 +1,38 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "category": "2004",
+            "value": 39.9
+        },
+        {
+            "category": "2005",
+            "value": 65.3
+        },
+        {
+            "category": "2006",
+            "value": 70.3
+        },
+        {
+            "category": "2007",
+            "value": 94.5
+        },
+        {
+            "category": "2008",
+            "value": 102.5
+        }
+    ],
+    "texts": {
+        "title": "Чистая прибыль",
+        "subtitle": "в миллионах долларов",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: Годовой отчет 2008"
+    },
+    "colors": {
+        "main_series": "#5F6B7A",
+        "plot_bg": "#E9E9E9",
+        "paper_bg": "#FFFFFF",
+        "text": "#000000"
+    }
+}

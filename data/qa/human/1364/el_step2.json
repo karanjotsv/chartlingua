@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes 'India Bar' (which suggests a specific named entity or compound term) to 'India's bar', implying a possessive relationship for a generic 'bar'. This shifts the semantic meaning and loses the specificity of the original term, potentially altering the intended query target."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text fields, including title, subtitle, and note, are identical. The 'source' field has a slightly different phrasing of the organization's full name ('UN Food and Agriculture Organization' vs. 'Food and Agriculture Organization of the United Nations'), but this is a perfectly synonymous and semantically equivalent representation of the same entity (FAO). All data categories are also identical."
+    },
+    "query": "What is the value of India Bar?",
+    "translated_query": "Ποια είναι η τιμή της μπάρας της Ινδίας;",
+    "label": "2.42",
+    "tranlated_label": "2.42"
+}

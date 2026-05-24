@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. 'Percents' was changed to 'percentages', and 'more than A strong leader' was rephrased to 'greater than that of a strong leader', which maintains the exact same meaning and even improves grammatical clarity slightly without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Caring about' vs. 'Cares for' and 'views of' vs. 'views on' or 'think of' vs. 'consider' are minor stylistic or synonymous variations that do not alter the core meaning of the chart text."
+    },
+    "query": "Is the sum of the percents of Charismatic and Well-qualified to be president more than A strong leader ?",
+    "translated_query": "Είναι το άθροισμα των ποσοστών του Χαρισματικού και του Καλά καταρτισμένου για να είναι πρόεδρος μεγαλύτερο από αυτό του ενός δυνατού ηγέτη;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

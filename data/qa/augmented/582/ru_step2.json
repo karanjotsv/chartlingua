@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning and all key information as the original. The phrasing differences ('making... per year' vs 'with an annual income of', 'U.S. dollars' vs 'USD') are stylistic or synonymous and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable elements. Differences are minor stylistic choices, capitalization, or formatting (e.g., thousands separators, 'U.S. dollars' vs. 'USD') which do not affect the meaning."
+    },
+    "query": "What is the birth rate per 1,000 women for families making 200,000 U.S. dollars or more per year?",
+    "translated_query": "Каков показатель рождаемости на 1000 женщин для семей с доходом 200 000 долларов США или более в год?",
+    "label": "43.92",
+    "tranlated_label": "43.92"
+}

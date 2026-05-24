@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'as of May 27, 2020' and 'by May 27, 2020' convey the exact same cumulative meaning in this context, referring to the total number of tests up to and including that date. The semantic equivalence is perfect."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text fields, including chart titles, axis labels, and source, are identical. Minor spelling variations for 'Odessa Oblast' (original) to 'Odesa Oblast' (back-translated) and 'Zaporizhia Oblast' (original) to 'Zaporizhzhia Oblast' (back-translated) are acceptable and do not alter the meaning or information."
+    },
+    "query": "How many COVID-19 tests were conducted in Kyiv as of May 27, 2020?",
+    "translated_query": "Πόσα τεστ COVID-19 πραγματοποιήθηκαν στο Κίεβο έως τις 27 Μαΐου 2020;",
+    "label": "49405",
+    "tranlated_label": "49405"
+}

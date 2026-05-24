@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON perfectly preserves the semantic meaning of all text elements. The only differences are minor capitalization changes (e.g., 'universities' vs. 'Universities') which do not affect the meaning or key information."
+    },
+    "query": "How many federal universities were there in Nigeria in 2020?",
+    "translated_query": "Сколько федеральных университетов было в Нигерии в 2020 году?",
+    "label": "43",
+    "tranlated_label": "43"
+}

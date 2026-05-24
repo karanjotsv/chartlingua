@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the title are identical. The only significant difference is the stylistic choice of a 2D rendering versus the original's 3D effect, which does not alter the data's meaning or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows two categories for military land use: 'Military facilities preserving area' (22.99 sq km) and 'Area given to U.S. Forces' (40.63 sq km). The total land used for military facilities is the sum of these two, which is 63.62 sq km. The land used for 'Urban planning area' is 32.96 sq km. Since 32.96 sq km is less than 63.62 sq km, the claim that more land is used for urban planning is refuted."
+    },
+    "claim": "More land is used for urban planning than military facilities.",
+    "label": true
+}

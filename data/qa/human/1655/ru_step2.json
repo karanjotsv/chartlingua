@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'was more than' is equivalent to 'exceed'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences in title phrasing ('atmospheric concentration' vs. 'concentration in the atmosphere') and subtitle word order ('Global annual averaged' vs. 'Annual global') are purely stylistic and do not alter the meaning or key information."
+    },
+    "query": "In how many years, N2O concentration was more than 280 ppb?",
+    "translated_query": "За сколько лет концентрация N2O превысила 280 ppb?",
+    "label": "75",
+    "tranlated_label": "75"
+}

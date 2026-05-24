@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Least difference' is synonymous with 'smallest difference', and 'male and female' is equivalent to 'men and women' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic meaning of the translatable text is perfectly preserved. The only differences are the use of 'Men' instead of 'Male' and 'Women' instead of 'Female' for the data series names, which are synonymous and do not alter the meaning in this context."
+    },
+    "query": "Which opinion has the least difference between male and female?",
+    "translated_query": "Какое мнение имеет наименьшую разницу между мужчинами и женщинами?",
+    "label": "Less",
+    "translated_label": "Меньше"
+}

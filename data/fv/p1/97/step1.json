@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent with the original. It only displays a small subset of the categories from the original chart. Furthermore, the data values for the displayed categories are substantially different; for example, the 'SUPERVISOR' bar in the original reaches approximately 550, while in the rendered chart it is capped at 400. This leads to a misrepresentation of the data distribution and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's title explicitly states it shows the \"AUROVILLE POPULATION BY FUNCTION (2014)\", which aligns with the claim's description of the chart's content. The characterization of the chart as \"unclear\" is also visually supported by the small, crowded text on the y-axis, which can be difficult to read."
+    },
+    "claim": "An unclear chart shows the Auroville population by function in 2014.",
+    "label": true
+}

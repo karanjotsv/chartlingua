@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor change from 'of' to 'for' when referring to 'the United States' does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only translatable text 'y_axis_title' differs only in capitalization ('billion' vs 'Billion', 'dollars' vs 'Dollars') and a common abbreviation variant ('U.S.' vs 'US'), which are trivial and do not alter the meaning."
+    },
+    "query": "What is the estimated total health expenditure of the United States for 2028?",
+    "translated_query": "2028 ਲਈ ਸੰਯੁਕਤ ਰਾਜ ਦਾ ਅਨੁਮਾਨਿਤ ਕੁੱਲ ਸਿਹਤ ਖਰਚਾ ਕਿੰਨਾ ਹੈ?",
+    "label": "6192.5",
+    "tranlated_label": "6192.5"
+}

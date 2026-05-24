@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, text content, and color hues are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart displays a horizontal bar chart where each country is represented by a different color. The brown bar corresponds to the label 'Libya' on the y-axis."
+    },
+    "query": "Which country is represented by brown color bar?",
+    "label": "Libya"
+}

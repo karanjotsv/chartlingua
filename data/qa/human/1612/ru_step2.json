@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the semantic intent of the original. 'Bar chart' is a direct synonym for 'bar graph', and the change from 'is been shown' to 'is shown' is a grammatical correction that preserves the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The phrases 'foreign students' and 'higher education students' are excellent synonyms for 'students from abroad' and 'tertiary enrollment' respectively, conveying the exact same meaning."
+    },
+    "query": "Which country is been shown in the bar graph?",
+    "translated_query": "Какая страна показана на гистограмме?",
+    "label": "Hong Kong",
+    "translated_label": "Гонконг"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general intent of the query is preserved. 'Place' was acceptably translated to 'region'. However, 'tonnes' (metric tons) was back-translated to 'tons', which can refer to different units (short ton, long ton). This change loses the specific metric unit detail, which can be critical for data accuracy in a query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Minor differences include hyphenation in a category name, 'Palm fruit' instead of 'Palm oil fruit' in the subtitle (meaning still clear from context), and 'tons' instead of 'tonnes' (a unit variation), and the full name of the UN organization. These are acceptable and do not significantly alter the meaning."
+    },
+    "query": "Which place shows the value of  6.67 tonnes ?",
+    "translated_query": "Ποιο μέρος δείχνει την τιμή των 6,67 τόνων;",
+    "label": "Philippines",
+    "translated_label": "Φιλιππίνες"
+}

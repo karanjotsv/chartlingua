@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All content within the JSON objects, including chart_type, chart_data, texts (all null), and colors, is identical between the original and back-translated versions. This indicates perfect semantic equivalence."
+    },
+    "claim": "Chorley has the 3rd lowest attendance in the Northern Premier League Division One.",
+    "translated_claim": "Η Chorley έχει την 3η χαμηλότερη προσέλευση στο Northern Premier League Division One."
+}

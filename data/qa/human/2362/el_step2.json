@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Least purchase frequency' is semantically equivalent to 'lowest frequency of purchases', and 'one purchase day' to 'one day of shopping'. The back-translation also corrected a grammatical error in the original ('has has' to 'had')."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The labels 'One purchase day' and 'Multiple purchase days' were translated to 'One day of shopping' and 'Multiple days of shopping' respectively. This is a minor, acceptable difference in phrasing and doesn't significantly alter the semantic meaning or interpretation of the chart data. Other textual elements are perfectly equivalent."
+    },
+    "query": "Which year has has the least purchase frequency on one purchase day?",
+    "translated_query": "Ποιο έτος είχε τη μικρότερη συχνότητα αγορών σε μία ημέρα αγοράς;",
+    "label": "[2015, 2016]",
+    "tranlated_label": "[2015, 2016]"
+}

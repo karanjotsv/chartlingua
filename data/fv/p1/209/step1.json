@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart correctly represents the main data points (the 82% and 14% slices) and the overall message. However, it swaps the percentage values for two of the smaller categories: 'South Pacific Islanders' is 2% in the original but 1% in the rendered, and 'Others' is 1% in the original but 2% in the rendered. This is a significant data inconsistency.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap among the data labels for the smaller pie slices on the right side, making them unreadable and difficult to associate with their respective slices."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Chinese workers made up the highest percentage of the population. However, the pie chart shows that the Japanese population constituted the largest group at 82%, while the Chinese population was only 14%."
+    },
+    "claim": "In 1899, Chinese workers made up the highest percentage of the population of the Koloa sugar plantation. ",
+    "label": false
+}

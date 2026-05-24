@@ -1,0 +1,39 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Кот-д'Ивуар",
+            "value": 0.0355,
+            "annotation": "<1"
+        },
+        {
+            "category": "Исландия",
+            "value": 0.032,
+            "annotation": "<1"
+        },
+        {
+            "category": "Мали",
+            "value": 0.0125,
+            "annotation": "<1"
+        },
+        {
+            "category": "Маврикий",
+            "value": 0.002,
+            "annotation": "<1"
+        }
+    ],
+    "texts": {
+        "title": "Смерти от расстройств пищевого поведения, 1990",
+        "subtitle": "Общее число прямых смертей от анорексии и нервной булимии. Измеряется среди обоих полов и всех возрастов.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: IHME, Глобальное бремя болезней",
+        "note": "CC BY"
+    },
+    "colors": [
+        "#7a5195",
+        "#c44e27",
+        "#2ca089",
+        "#52687c"
+    ]
+}

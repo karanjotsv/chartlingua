@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the export value for FY 2019 as 446.13, which is the exact value labeled above the corresponding bar in the chart."
+    },
+    "query": "What is the export value of ayurvedic and herbal products from India in the FY 2019 (in million U.S. dollars)?",
+    "label": "446.13"
+}

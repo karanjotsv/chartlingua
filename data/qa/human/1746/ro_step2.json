@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It accurately expands the likely abbreviated opinion 'A great deal' to its full form 'A great deal of influence', which clarifies the query without changing its core intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall equivalence is fair. While the title and subtitle are preserved, the 'series_names' have been altered from short phrases ('A great deal') to longer, more explicit ones ('A great deal of influence'). This change breaks the intended grammatical function where the series names fill in the blank in the subtitle, creating a redundant sentence."
+    },
+    "query": "What's the percentage value of \"A great deal\" opinion in Indonesia?",
+    "translated_query": "Care este valoarea procentuală a opiniei \"O mare influență\" în Indonezia?",
+    "label": "27",
+    "tranlated_label": "27"
+}

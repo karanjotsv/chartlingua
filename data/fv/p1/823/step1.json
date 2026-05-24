@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The data represented by the solid blue line is consistent between the two charts. However, the data for the dotted red line is completely different. In the original, the red line appears to be a baseline or filtered version of the blue signal, with minor fluctuations. In the rendered chart, the red line represents a strong, regular, high-amplitude oscillation that is fundamentally different from the original, thus misrepresenting the core data relationship.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays two lines. At x=2000, the solid blue line has a positive y-value (approximately 0.1), while the dotted red line has a negative y-value (approximately -0.2). Since one of the corresponding y-values is positive, the claim that 'the' y-value is negative is incorrect."
+    },
+    "claim": "When x equal to 2000, the corresponding y value is negative.",
+    "label": true
+}

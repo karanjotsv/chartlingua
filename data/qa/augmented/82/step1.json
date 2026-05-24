@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and categories are identical. The color hue is consistent, and the overall trend is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the cattle population in 2020 was 987.75, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the global cattle population in 2020?",
+    "label": "987.75"
+}

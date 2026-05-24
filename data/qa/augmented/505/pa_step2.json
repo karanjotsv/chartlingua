@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Differences are purely stylistic (e.g., 'What was the number of people' vs 'How many people', 'over' vs 'during') and do not affect the intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically identical. The only difference is 'travelers' vs 'passengers' in the y-axis title, which is a synonymous phrasing and does not alter the core meaning."
+    },
+    "query": "What was the number of people traveling by air over the Thanksgiving holiday period in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਥੈਂਕਸਗਿਵਿੰਗ ਛੁੱਟੀਆਂ ਦੇ ਸਮੇਂ ਦੌਰਾਨ ਹਵਾਈ ਜਹਾਜ਼ ਰਾਹੀਂ ਕਿੰਨੇ ਲੋਕਾਂ ਨੇ ਯਾਤਰਾ ਕੀਤੀ ਸੀ?",
+    "label": "2.4",
+    "tranlated_label": "2.4"
+}

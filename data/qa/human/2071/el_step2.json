@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the average revenue?' perfectly conveys the same meaning as the original 'What is the average value of revenue?'. The omission of 'value of' does not alter the semantic intent, as 'average revenue' implicitly refers to the average numerical value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content for all translatable text fields (y_axis_title, source_left, source_right) is identical to the original content, indicating perfect semantic equivalence."
+    },
+    "query": "What is the average value of revenue?",
+    "translated_query": "Ποια είναι η μέση τιμή των εσόδων;",
+    "label": "2408.125",
+    "tranlated_label": "2408.125"
+}

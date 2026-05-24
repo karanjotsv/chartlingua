@@ -1,0 +1,50 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Neigen dazu, eine Seite zu bevorzugen",
+            "x": [
+                79,
+                91,
+                69
+            ],
+            "text": [
+                "79%",
+                "91",
+                "69"
+            ]
+        },
+        {
+            "name": "Alle Seiten fair behandeln",
+            "x": [
+                20,
+                8,
+                29
+            ],
+            "text": [
+                "20%",
+                "8",
+                "29"
+            ]
+        }
+    ],
+    "categories": [
+        "Erwachsene in den USA",
+        "Rep./Rep.-nahe",
+        "Dem./Dem.-nahe"
+    ],
+    "texts": {
+        "title": "Etwa acht von zehn Amerikanern denken, dass die Nachrichtenberichterstattung<br>eine Seite bevorzugt, was bei Republikanern noch ausgeprägter ist",
+        "subtitle": "% der Erwachsenen in den USA, die sagen, Nachrichtenorganisationen ___ bei der Berichterstattung<br>über politische und soziale Themen",
+        "series_labels": [
+            "Neigen dazu, eine Seite<br>zu bevorzugen",
+            "Alle Seiten fair<br>behandeln"
+        ],
+        "source": "Hinweis: Befragte, die keine Antwort gaben, werden nicht angezeigt.<br>Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 18. Februar bis 2. März 2020.",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#C9A845",
+        "#75404B"
+    ]
+}

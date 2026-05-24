@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, axis titles, chart title, and color hues for the data series are consistent with the original. The overall message and data trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change in various countries. The claim discusses the population of mice in a Utopian universe, a topic for which there is no information presented in the chart."
+    },
+    "claim": "The population of mice in the closed Utopian universe experienced fluctuations over time.",
+    "label": "TRUE"
+}

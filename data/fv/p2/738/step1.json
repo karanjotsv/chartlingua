@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, series, connecting lines, axis labels, legend entries, and data point labels are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'P values' and 'equivalent Z', neither of which are variables present on the chart's axes or in its legend. The chart plots 'Threshold Dose (cGy)' against 'LET (keV/μm)' for different ions."
+    },
+    "claim": "The chart shows a positive correlation between logarithmically spaced P values and equivalent Z.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels, titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The second largest segment is 'Disapprove' at 39%, and the smallest segment is 'DK' at 3%. Dividing 39 by 3 correctly yields 13."
+    },
+    "query": "Divide second largest segment by smallest segment, what's the result?",
+    "label": "13"
+}

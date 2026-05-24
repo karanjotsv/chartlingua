@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories and their corresponding percentages are identical. The title, subtitle, and color hues for each category are also consistent. The arrangement of slices is different, but this is a stylistic choice that does not alter the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that the Metal Mining industry was responsible for 37% of total disposal or other releases, whereas the Electric Utilities industry was responsible for 13%. Therefore, the metal mining industry released more, not less, than the electric utilities industry, contradicting the claim."
+    },
+    "claim": "The metal mining industry released less toxic chemicals than the electric utilities industry in 2015.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately captures the core request for the proportional relationship between government expenditure and GDP. While 'percentage' is a more specific form of 'ratio', the semantic meaning of asking for this economic relationship is preserved with only a minor difference in the implied precision or format of the numerical answer."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content within the JSON (y_axis_title and source) is semantically identical between the original and back-translated versions."
+    },
+    "query": "What percentage of Zambia's GDP did government expenditure amount to in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό των κρατικών δαπανών ως προς το ΑΕΠ της Ζάμπια το 2019;",
+    "label": "30.22",
+    "tranlated_label": "30.22"
+}

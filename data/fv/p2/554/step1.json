@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (titles, labels, source), data values, proportions, and color hues are consistent with the original. The change from a 3D to a 2D pie chart is a stylistic improvement that does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays financial data regarding 'Total Aid' and 'Atrophy' in USD billion dollars. The claim, however, discusses 'carbon dioxide in Earth's atmosphere' and 'resources', which are subjects not mentioned or represented anywhere in the chart."
+    },
+    "claim": "The amount of carbon dioxide in Earth's atmosphere is the second largest recource.",
+    "label": "FALSE"
+}

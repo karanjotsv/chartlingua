@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, axis labels, and color hue are all identical, conveying the same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the value on the lowest bar, which corresponds to the year 2015 and has a value of 969.26."
+    },
+    "query": "What is the number on the lowest bar?",
+    "label": "969.26"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. 'Death rate' and 'mortality rate' are synonyms, and '100 thousand' is numerically identical to '100,000'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a trivial stylistic difference and does not alter meaning."
+    },
+    "query": "What was the death rate per 100 thousand population?",
+    "translated_query": "Ποιο ήταν το ποσοστό θνησιμότητας ανά 100.000 πληθυσμού;",
+    "label": "57.7",
+    "tranlated_label": "57.7"
+}

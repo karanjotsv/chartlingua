@@ -1,0 +1,66 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Lucrătorii electorali din comunitatea dvs.",
+            "Oficialii care organizează alegerile în...",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Zona dvs. locală",
+            "&nbsp;&nbsp;&nbsp;&nbsp;Statul dvs.",
+            "&nbsp;&nbsp;&nbsp;&nbsp;La nivelul Statelor Unite"
+        ],
+        "series": [
+            {
+                "name": "Foarte",
+                "values": [
+                    68,
+                    null,
+                    68,
+                    55,
+                    23
+                ]
+            },
+            {
+                "name": "Oarecum",
+                "values": [
+                    24,
+                    null,
+                    27,
+                    33,
+                    57
+                ]
+            },
+            {
+                "name": "Nu prea",
+                "values": [
+                    4,
+                    null,
+                    4,
+                    6,
+                    16
+                ]
+            },
+            {
+                "name": "Deloc",
+                "values": [
+                    1,
+                    null,
+                    0,
+                    4,
+                    2
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Evaluări mai mari ale activității pentru oficialii electorali locali decât pentru<br>oficialii de stat și cei „de la nivelul Statelor Unite”",
+        "subtitle": "<i>Cât de bine și-au făcut ____ treaba în timpul alegerilor din noiembrie? (%)</i>",
+        "source": "Note: Pe baza cetățenilor din SUA care au declarat că au votat. Răspunsurile de tip 'nu răspund' nu sunt afișate.<br>Sursa: Sondaj realizat pe adulți din SUA în perioada 7-16 noiembrie 2018.",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#b5912f",
+        "#e4d091",
+        "#c8c4b8",
+        "#949084"
+    ]
+}

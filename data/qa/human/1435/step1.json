@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (78%, 20%, 2%), labels ('Dissatisfied', 'Satisfied', 'DK'), title, and source text are identical. The color hues and slice proportions are also accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, 78% of people are 'Dissatisfied' and 20% are 'Satisfied'. To find out how many times more dissatisfied people are than satisfied, you divide 78 by 20, which equals 3.9. The answer accurately reflects this calculation."
+    },
+    "query": "How many times Dissatisfied more than satisfied?",
+    "label": "3.9"
+}

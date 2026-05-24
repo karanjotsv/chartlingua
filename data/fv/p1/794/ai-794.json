@@ -1,0 +1,68 @@
+{
+    "chart_type": "variwide",
+    "chart_data": [
+        {
+            "category": "Saudi Arabia",
+            "emissions_per_person": 16.9,
+            "population_billions": 0.035
+        },
+        {
+            "category": "USA",
+            "emissions_per_person": 13.8,
+            "population_billions": 0.331
+        },
+        {
+            "category": "Russia",
+            "emissions_per_person": 10.8,
+            "population_billions": 0.146
+        },
+        {
+            "category": "Iran",
+            "emissions_per_person": 8.3,
+            "population_billions": 0.084
+        },
+        {
+            "category": "Japan",
+            "emissions_per_person": 7.9,
+            "population_billions": 0.126
+        },
+        {
+            "category": "Germany",
+            "emissions_per_person": 7.6,
+            "population_billions": 0.083
+        },
+        {
+            "category": "China",
+            "emissions_per_person": 7.3,
+            "population_billions": 1.439
+        },
+        {
+            "category": "India",
+            "emissions_per_person": 1.6,
+            "population_billions": 1.38
+        },
+        {
+            "category": "OTHER",
+            "emissions_per_person": 2.4,
+            "population_billions": 4.107
+        }
+    ],
+    "texts": {
+        "title": "Carbon dioxide emissions per person",
+        "x_axis_title": "Population",
+        "y_axis_title": "Per person emissions (tCO2e)",
+        "subtitle_1": "Countries with largest total emissions",
+        "subtitle_2": "Areas of rectangles<br>show total emissions"
+    },
+    "colors": [
+        "#800000",
+        "#0080ff",
+        "#ffb400",
+        "#00c000",
+        "#800080",
+        "#ff0000",
+        "#ff8066",
+        "#008000",
+        "#808080"
+    ]
+}

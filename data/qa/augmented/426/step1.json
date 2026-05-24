@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are identical. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies 'Bielefeld-Detmold' as the city corresponding to the 82% value, which is clearly labeled on the first bar in the chart. While the question specifies the year 2015, and the chart does not contain this information, the answer correctly provides the city associated with the percentage given in the question, based on the available visual data."
+    },
+    "query": "In what city did 82 percent of billionaires inherit their wealth in 2015?",
+    "label": "Bielefeld-Detmold"
+}

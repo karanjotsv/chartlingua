@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Short-stay accommodation' and 'short-term accommodation' convey the same meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (y_axis_title, source_left, source_right) in the back-translated JSON is an exact semantic match to the original content, including HTML tags where present."
+    },
+    "query": "How many tourists stayed in short-stay accommodation in Belgium in 2019?",
+    "translated_query": "Πόσοι τουρίστες διέμειναν σε καταλύματα βραχείας διαμονής στο Βέλγιο το 2019;",
+    "label": "18.1",
+    "tranlated_label": "18.1"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and labels are identical. The color hues are also consistent, with blues remaining blue and orange remaining orange. The overall message is the same. The only difference is a stylistic choice to 'explode' one of the slices, which does not change the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses 'speed' and changes 'over time', neither of which are variables represented in the pie chart. The chart only displays the percentage share of different web browsers at a single point in time."
+    },
+    "claim": "The graph shows that speed decreases over time.",
+    "label": "FALSE"
+}

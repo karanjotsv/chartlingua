@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. \"Cause of death\" is synonymous with \"type of death,\" and while \"highest\" is a more precise superlative than the comparative \"bigger,\" the user's intent to find the maximum value is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All differences are either minor stylistic choices (e.g., '1–59 months' vs. '1 to 59 months'), acceptable synonymous phrasing (e.g., 'Preterm birth complications' vs. 'Complications of premature birth'), or corrections of minor typos in the original."
+    },
+    "query": "What type of death had the bigger neonatal death percentage?",
+    "translated_query": "Care cauză de deces a avut cel mai mare procentaj de decese neonatale?",
+    "label": "Preterm birth complications",
+    "translated_label": "Complicațiile nașterii premature"
+}

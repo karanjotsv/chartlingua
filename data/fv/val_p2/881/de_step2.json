@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is identical to the original content, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text fields in the JSON are either null or contain proper nouns which were preserved identically in the back-translation. There are no semantic differences."
+    },
+    "claim": "South Carolina generates more renewable energy than nuclear energy.",
+    "translated_claim": "South Carolina erzeugt mehr erneuerbare Energie als Kernenergie."
+}

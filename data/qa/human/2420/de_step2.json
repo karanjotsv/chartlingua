@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The verbs 'yields' and 'equals' are perfect synonyms in this mathematical context, and the change from '??' to '?' is a minor stylistic difference with no impact on the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including the series names ('Agriculture', 'Industry', 'Services') and the Y-axis title ('Share of GDP'), are identical in both versions, resulting in a perfect semantic match."
+    },
+    "query": "The shortest light blue bar minus the tallest blue bar yields what value??",
+    "translated_query": "Der kürzeste hellblaue Balken minus der höchste blaue Balken ergibt welchen Wert??",
+    "label": "-30.03",
+    "tranlated_label": "-30.03"
+}

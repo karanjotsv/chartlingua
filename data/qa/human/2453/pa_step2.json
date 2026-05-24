@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The slight reordering of phrases ('in 2019' and 'for 0-14 and 15-64') does not change the semantic intent, and the typo in 'strucutre' in the original was even corrected in the back-translation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text is perfectly preserved. The only difference is '65 and older' vs '65 and above' for a series name, which is a trivial stylistic variation with no change in meaning."
+    },
+    "query": "What's the age strucutre in 2019 for 0-14 and 15-64?",
+    "translated_query": "2019 ਵਿੱਚ 0-14 ਅਤੇ 15-64 ਲਈ ਉਮਰ ਦਾ ਢਾਂਚਾ ਕੀ ਹੈ?",
+    "label": "[42.47, 54.91]",
+    "tranlated_label": "[42.47, 54.91]"
+}

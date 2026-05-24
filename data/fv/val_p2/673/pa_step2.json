@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly maintains the original meaning. 'More of Y' is semantically equivalent to 'a greater quantity of Y', and 'without sacrificing any of X' is equivalent to 'without sacrificing any X'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, specifically the 'series_name' and all null text fields within the 'texts' object, are perfectly identical between the original and back-translated content."
+    },
+    "claim": "According to the graph, it is possible to obtain more of Y without sacrificing any of X.",
+    "translated_claim": "ਗ੍ਰਾਫ਼ ਦੇ ਅਨੁਸਾਰ, X ਦੀ ਕੋਈ ਵੀ ਕੁਰਬਾਨੀ ਕੀਤੇ ਬਿਨਾਂ Y ਦੀ ਵਧੇਰੇ ਮਾਤਰਾ ਪ੍ਰਾਪਤ ਕਰਨਾ ਸੰਭਵ ਹੈ।"
+}

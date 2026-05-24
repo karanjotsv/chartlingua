@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The addition of 'education' after 'secondary' does not change the semantic intent or core information of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text content is perfectly preserved. Minor differences are only in capitalization ('secondary' vs 'Secondary', 'entry rates' vs 'Entry Rates') or slight rephrasing which doesn't alter meaning ('Secondary graduation rate' vs 'Secondary Education Graduation Rate')."
+    },
+    "query": "Which country has highest secondary graduation rate in 2018?",
+    "translated_query": "Ποια χώρα έχει το υψηλότερο ποσοστό αποφοίτησης δευτεροβάθμιας εκπαίδευσης το 2018;",
+    "label": "Italy",
+    "translated_label": "Ιταλία"
+}

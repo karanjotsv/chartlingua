@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data values, categories, title, and overall trend are identical to the original. The color hue is also consistent (blue). Minor stylistic differences like the background color and y-axis label formatting do not change the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is incorrect on two points. First, the bar for the Fourth Quintile is the highest on the chart, not the Middle Quintile. Second, the value for the Middle Quintile is approximately 98%, which is significantly higher than the 90% stated in the claim."
+    },
+    "claim": "The middle quintile is the largest at 90%",
+    "label": "FALSE"
+}

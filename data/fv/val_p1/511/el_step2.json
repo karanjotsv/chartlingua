@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. 'Labour' vs 'Labor' is a regional spelling difference, 'make up' and 'represents' are synonymous in this context, and 'expenditure' and 'costs' convey the same financial concept."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels are perfectly matched or show minor, acceptable variations (e.g., 'Labour' to 'Labor', abbreviation expansion). However, the titles 'Annual Cost Breakdown' and 'Breakdown of Other Operating Costs' were changed to 'Annual Cost Analysis' and 'Other Operating Cost Analysis', which is a minor shift in nuance from 'breakdown' to 'analysis', though the core subject remains clear."
+    },
+    "claim": "Labour cost make up the highest percentage of expenditure.",
+    "translated_claim": "Το κόστος εργασίας αποτελεί το υψηλότερο ποσοστό των δαπανών."
+}

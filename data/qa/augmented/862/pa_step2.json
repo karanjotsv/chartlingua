@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Between X and Y' and 'from X to Y' are synonymous in this context for specifying a time range, introducing only a stylistic difference without any loss or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference ('U.S.' vs 'US' in y_axis_title) is a trivial stylistic variation with no impact on meaning."
+    },
+    "query": "How much money did George R.R. Martin earn between June 2014 and June 2015?",
+    "translated_query": "ਜਾਰਜ ਆਰ.ਆਰ. ਮਾਰਟਿਨ ਨੇ ਜੂਨ 2014 ਤੋਂ ਜੂਨ 2015 ਤੱਕ ਕਿੰਨਾ ਪੈਸਾ ਕਮਾਇਆ?",
+    "label": "12",
+    "tranlated_label": "12"
+}

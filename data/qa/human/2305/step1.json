@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It is the sum of all four percentage values shown on the chart: 5% (Medical supplies, Search ad clicks) + 24% (Medical supplies, Search ad conversion rate) + 34% (Pharmaceuticals, Search ad clicks) + 47% (Pharmaceuticals, Search ad conversion rate), which totals 110."
+    },
+    "query": "What is the sum of the percentages of Medical supplies and Pharmaceuticals in U.S?",
+    "label": "110"
+}

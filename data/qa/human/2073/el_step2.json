@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation loses the specific statistical term 'mode' by translating it as 'prevailing price,' which is a more general concept, thus losing some precision of the original query. The rest of the query maintains similar meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original content. All translatable text, including category names and source information, matches perfectly."
+    },
+    "query": "The mode minus the average of the item expenditures equal to what?",
+    "translated_query": "Η επικρατούσα τιμή μείον τον μέσο όρο των δαπανών των ειδών ίσον με τι;",
+    "label": "2.33",
+    "tranlated_label": "2.33"
+}

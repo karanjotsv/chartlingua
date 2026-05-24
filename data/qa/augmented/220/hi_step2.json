@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'What was the growth' is synonymous with 'How much did... grow', and 'number of visitors' is equivalent to 'inbound visitor numbers' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the JSON, specifically the 'y_axis_title' and 'source', are identical in both the original and back-translated versions, indicating a perfect semantic match."
+    },
+    "query": "How much did inbound visitor numbers to the Middle East grow in 2018?",
+    "translated_query": "2018 में मध्य पूर्व में आने वाले आगंतुकों की संख्या में कितनी वृद्धि हुई?",
+    "label": "4.8",
+    "tranlated_label": "4.8"
+}

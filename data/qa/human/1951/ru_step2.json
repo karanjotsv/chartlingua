@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (the 'source' field) is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What is the ratio of yes to no?",
+    "translated_query": "Каково соотношение да к нет?",
+    "label": "1.54",
+    "tranlated_label": "1.54"
+}

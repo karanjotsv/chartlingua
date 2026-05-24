@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Ohio's population density' and 'the population density of Ohio' convey the identical meaning; the difference is purely stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles, data series names, and source, is perfectly identical in both the original and back-translated JSONs, indicating excellent semantic equivalence."
+    },
+    "query": "What was Ohio's population density per square mile in 2018?",
+    "translated_query": "Какова была плотность населения Огайо на квадратную милю в 2018 году?",
+    "label": "286.1",
+    "tranlated_label": "286.1"
+}

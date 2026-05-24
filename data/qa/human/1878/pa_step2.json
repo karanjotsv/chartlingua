@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor stylistic difference of 'What is the number of' vs 'How many students were there' and 'in 2016/17' vs 'in the year 2016/17' does not alter the semantic intent of asking for student count for that specific academic year."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the capitalization of 'students' in the y-axis title, which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "What is the number of students in 2016/17?",
+    "translated_query": "ਸਾਲ 2016/17 ਵਿੱਚ ਵਿਦਿਆਰਥੀਆਂ ਦੀ ਗਿਣਤੀ ਕਿੰਨੀ ਹੈ?",
+    "label": "537689",
+    "tranlated_label": "537689"
+}

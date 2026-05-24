@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Mixed Hardwoods -<br>Prairie",
+            "value": 38
+        },
+        {
+            "label": "Prairie",
+            "value": 52
+        },
+        {
+            "label": "Prairie poorly drained",
+            "value": 4
+        },
+        {
+            "label": "Wet Prairie",
+            "value": 4
+        },
+        {
+            "label": "Water / Wet Soils<br>/ Gravel Pits",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "Deuel County South Dakota Savanna Soils > 33 %",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Sourced-from: Web Soil Survey (WSS), Natural Resources Conservation Service, United States Department of Agriculture. Available online at<br>http://websoilsurvey.nrcs.usda.gov/. NRCS/WSS native vegetation information first sorted by soil series<br>then compiled using soil series proportion of county area (%). Accessed by Steve Nelson 11/18/13"
+    },
+    "colors": [
+        "#FF0000",
+        "#FFFF00",
+        "#F6D0A9",
+        "#FFFFBF",
+        "#0050E0"
+    ]
+}

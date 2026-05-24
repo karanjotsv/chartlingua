@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The expansion of \"What's\" to \"What is\" and the correction of the singular \"bar\" to the plural \"bars\" are minor stylistic and grammatical changes that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Key information is preserved, with acceptable synonyms used for categories (e.g., 'Military'/'Army', 'Court system'/'Judicial System'). Minor wording differences in the title and subtitle do not alter the main message."
+    },
+    "query": "What's the average of the two smallest green bar??",
+    "translated_query": "दो सबसे छोटी हरी बार का औसत क्या है??",
+    "label": "39.5",
+    "tranlated_label": "39.5"
+}

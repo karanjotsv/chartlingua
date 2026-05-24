@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, titles, and color hues are accurately reproduced. The overall trend and message are identical. The change from a 3D to a 2D representation is a stylistic improvement that does not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that domestic violence calls in 2008 exceeded those in 2009. However, the chart shows the opposite is true for all months presented (March, April, May, June), where the bars for 2009 are consistently taller than the bars for 2008."
+    },
+    "claim": "The Domestic violence calls for assistance in 2008, far exceeded the ones from 2009 at the Fresno Police Department.",
+    "label": false
+}

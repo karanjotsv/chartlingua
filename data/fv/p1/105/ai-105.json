@@ -1,0 +1,82 @@
+{
+    "chart_type": "dual_horizontal_bar",
+    "chart_data": {
+        "main_chart": {
+            "categories": [
+                "Training & further education,<br>personnel recruitment",
+                "Associations",
+                "Information technology",
+                "Economic regions & municipalities",
+                "Building/construction industry",
+                "Facility management services",
+                "Management consultancy, auditing,<br>lawyer, tax consultants",
+                "Corporate real estate management &<br>property operators",
+                "Public sector",
+                "Real estate financing",
+                "Architects, engineering, planning offices",
+                "Real estate project management",
+                "Real estate consultancy, valuation,<br>research, marketing",
+                "Real estate management, brokering, renting",
+                "Real estate investment",
+                "Real estate development/contractors"
+            ],
+            "values": [
+                1,
+                2,
+                2,
+                4,
+                6,
+                6,
+                6,
+                6,
+                7,
+                8,
+                10,
+                10,
+                11,
+                13,
+                16,
+                16
+            ]
+        },
+        "inset_chart": {
+            "categories": [
+                "Service/social",
+                "Recreational",
+                "Hotel",
+                "Infrastructure",
+                "Logistics",
+                "Industrial",
+                "Residential",
+                "Retail",
+                "Office"
+            ],
+            "values": [
+                5,
+                9,
+                16,
+                19,
+                23,
+                30,
+                39,
+                44,
+                56
+            ]
+        }
+    },
+    "texts": {
+        "title": "Visitor structure 2010",
+        "subtitle": "Visitor proportion",
+        "source": "Source: EXPO REAL Exhibition Management / Gelszus",
+        "footer_left": "multiple entries possible",
+        "inset_title": "<b>Of which:</b>"
+    },
+    "colors": {
+        "bars": "#d7191c",
+        "lines": "#a9a9a9",
+        "background": "#ffffff",
+        "grid": "#f0f0f0",
+        "text_light": "#ffffff",
+        "text_dark": "#000000"
+    }
+}

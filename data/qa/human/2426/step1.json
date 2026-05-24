@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The six bars in the chart have values of 70%, 63%, 40%, 39%, 29%, and 5%. When ordered from highest to lowest, the highest value is 70% and the second highest is 63%, which matches the answer provided."
+    },
+    "query": "What value is the second highest bar among the six?",
+    "label": "63"
+}

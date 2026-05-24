@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data series, their values, trends, and relative positions are accurately reproduced. The text content for the title and legend is semantically identical, and the axis ranges and labels are the same. The color hues for corresponding series are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays annual deliveries for Boeing (dark red line) and Airbus (dark blue line). For a majority of the years shown, specifically from 1990 to around 2002 and again from 2012 to 2015, the Boeing delivery line is visibly higher than the Airbus delivery line. Although Airbus deliveries were higher for a period in the middle (approx. 2003-2011), the visual evidence suggests Boeing's cumulative deliveries over the entire 25-year period were greater."
+    },
+    "claim": "Boeing delivered more aircraft than Airbus between 1990 and 2015.",
+    "label": false
+}

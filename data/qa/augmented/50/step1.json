@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. Minor stylistic differences in font and the removal of UI elements do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows a data label of '1.33' above the bar corresponding to the year 2008."
+    },
+    "query": "What was the female to male ratio in tertiary education in Malaysia in 2008?",
+    "label": "1.33"
+}

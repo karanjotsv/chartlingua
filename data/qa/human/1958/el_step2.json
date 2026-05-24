@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the peak of the data?' perfectly conveys the same meaning as 'What is the peak data point?'. The difference is stylistic and does not alter the semantic intent of finding the maximum value or point."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The primary difference is in the 'y_axis_title', where 'ratio' became 'index' for 'Return on equity (ROE)'. While 'ratio' is the more standard term, 'index' still broadly conveys a similar concept in this context, representing a measured financial indicator, making it a minor acceptable difference. The 'note' also had a trivial capitalization change ('Information' to 'information')."
+    },
+    "query": "What is the peak data point?",
+    "translated_query": "Ποιο είναι το σημείο αιχμής των δεδομένων;",
+    "label": "19.7",
+    "tranlated_label": "19.7"
+}

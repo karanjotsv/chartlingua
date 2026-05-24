@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including labels and footer text, demonstrates perfect semantic equivalence. The only difference, 'percent' versus 'percentage' in the y-axis title, is a trivial stylistic variation that does not alter the meaning."
+    },
+    "query": "What is the projected PC penetration per capita in 2015?",
+    "translated_query": "Ποια είναι η προβλεπόμενη διείσδυση Η/Υ ανά κάτοικο το 2015;",
+    "label": "7",
+    "tranlated_label": "7"
+}

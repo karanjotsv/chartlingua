@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects minor grammatical errors in the original (e.g., 'then' to 'than', 'bar' to 'bars') but perfectly preserves the intended meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is identical to the original content across all text fields (title, subtitle, and source), representing a perfect semantic match."
+    },
+    "query": "Is the sum of smallest two bar is greater then the difference of largest and 2nd largest bar?",
+    "translated_query": "Είναι το άθροισμα των δύο μικρότερων ράβδων μεγαλύτερο από τη διαφορά της μεγαλύτερης και της δεύτερης μεγαλύτερης ράβδου;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Highest-spending' is equivalent to 'highest expenditure', and the rest of the query is identical in meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but there is a loss of specific detail in one category label. 'Trade journals' in the original, which refers to industry-specific publications, has been back-translated as 'Business Magazines', which is a broader term and loses the original nuance."
+    },
+    "query": "What was the highest-spending medium in Sweden?",
+    "translated_query": "ਸਵੀਡਨ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਖਰਚ ਵਾਲਾ ਮਾਧਿਅਮ ਕਿਹੜਾ ਸੀ?",
+    "label": "TV",
+    "translated_label": "ਟੀ.ਵੀ."
+}

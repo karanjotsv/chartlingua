@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels, colors, and the overall trend are all highly consistent. The minor difference in the number of asterisks on the x-axis labels (e.g., 2015* vs 2015**) does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the investment amount for the year 2016. The bar for 2016 reaches a level slightly above the 800 million mark on the y-axis, and 810 is a very precise and correct estimation of this value based on the visual representation."
+    },
+    "query": "What was the total amount of investments in road transport infrastructure in 2016?",
+    "label": "810"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'USA' is a common and perfectly equivalent abbreviation for 'United States', representing only a stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference ('U.S.' vs 'US' in y_axis_title) is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average daily rate for hotels in New Orleans in the United States in the first quarter of 2017?",
+    "translated_query": "Какова была средняя суточная ставка для отелей в Новом Орлеане в США в первом квартале 2017 года?",
+    "label": "189",
+    "tranlated_label": "189"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning. The phrase \"Much more liked\" is an excellent equivalent for \"Strongly morelike\", and \"bar chart\" for \"bar graph\". It also corrects the minor grammatical error of \"longest than\" to \"longest among\" without changing the intended meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The chart title maintains good equivalence with minor stylistic changes. However, several data labels show semantic shifts. 'Strongly morelike' and 'Somewhat morelike' are translated to 'Much more liked' and 'Slightly more liked', changing the meaning from a degree of preference/likelihood ('more like' the option/type) to the content being generally 'more liked'. Similarly, 'Strongly Wikivectors' is translated to 'Much more Wikivectors', which alters the intensity and grammatical construction, losing some original nuance."
+    },
+    "claim": "In the following bar graph \"Strongly morelike\" bar is the longest than other four bars.",
+    "translated_claim": "На следующей столбчатой диаграмме столбец \"Намного больше нравится\" является самым длинным из остальных четырех столбцов."
+}

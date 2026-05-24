@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, colors, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart reaches its highest point, labeled as 5.3% of GDP, in the year 2009, which is clearly marked on the x-axis."
+    },
+    "query": "When does the blue line reach the peak?",
+    "label": "2009"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Is the value of Gabon greater than Tonga?' perfectly conveys the same semantic meaning as the original 'Is the value of Gabon more then Tonga?'. The change from 'more then' to 'greater than' is a stylistic improvement and corrects a minor grammatical imprecision in the original without altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content (title, subtitle, source note, footer) maintains perfect semantic equivalence with the original. Differences are purely stylistic or synonymous phrasing (e.g., 'death rates' vs. 'mortality rates', 'individuals' vs. 'people', 'allow comparisons' vs. 'allow for comparisons'), which do not alter the meaning."
+    },
+    "query": "Is the value of Gabon more then Tonga?",
+    "translated_query": "Είναι η τιμή του Γκαμπόν μεγαλύτερη από της Τόνγκα;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

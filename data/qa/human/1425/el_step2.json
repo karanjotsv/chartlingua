@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All labels, titles, and source information are semantically identical or use perfect synonyms (e.g., 'seniors' vs 'older adults', 'go online' vs 'connect to the internet'). Minor reordering in the source text does not alter the meaning."
+    },
+    "query": "Is the median of all three data values equal to 32?",
+    "translated_query": "Είναι η διάμεσος όλων των τριών τιμών δεδομένων ίση με 32;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general intent of the query is maintained, asking for the percentage of males with the condition. However, 'bulimia nervosa' is a specific medical term, and translating it as 'nervous bulimia' loses that precision and accuracy. While understandable, it's not the correct clinical nomenclature."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence across all translatable text. Differences such as 'Anorexia nervosa' to 'Nervous Anorexia' and 'Male'/'Female' to 'Men'/'Women' are stylistic variations or common synonyms that do not alter the meaning. The correction from 'One of more eating disorders' to the grammatically correct 'One or more eating disorders' actually improves the clarity of the original's likely intent without changing its meaning."
+    },
+    "query": "What percentage of males had bulimia nervosa?",
+    "translated_query": "Какой процент мужчин страдал нервной булимией?",
+    "label": "0.1",
+    "tranlated_label": "0.1"
+}

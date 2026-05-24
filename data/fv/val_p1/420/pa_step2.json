@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The core comparison of speedup values and numerical quantities is preserved. However, 'vertices do grafo' (vertices of the graph) was translated to 'Graph Peak', which significantly changes the specific attribute of the graph being referred to. This is a loss of an important detail and introduces a different concept."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The x-axis title's meaning is significantly distorted. 'vértices do grafo' means 'graph vertices', but the back-translation 'Graph Peak' is semantically incorrect and misrepresents the axis label, leading to a loss of key information."
+    },
+    "claim": "The speedup value when vertices do grafo ( x 10^3) was 500 is less than when the vertices do grafo ( x 10^3) was 400.",
+    "translated_claim": "ਸਪੀਡਅੱਪ ਦਾ ਮੁੱਲ ਜਦੋਂ ਗ੍ਰਾਫ਼ ਦੇ ਸਿਖਰ (x 10³) 500 ਸੀ, ਉਹ ਉਸ ਮੁੱਲ ਤੋਂ ਘੱਟ ਹੈ ਜਦੋਂ ਗ੍ਰਾਫ਼ ਦੇ ਸਿਖਰ (x 10³) 400 ਸੀ।"
+}

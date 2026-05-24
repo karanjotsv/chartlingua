@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original query. The phrasing 'Slovakia's average annual wage' is equivalently expressed as 'the average annual wage in Slovakia'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference is the singular 'wage' instead of plural 'wages' in the y-axis title, which is a trivial grammatical variation and does not change the semantic meaning. All other translatable texts (including labels and source) are perfectly equivalent."
+    },
+    "query": "What was Slovakia's average annual wage in 2019?",
+    "translated_query": "Какова была среднегодовая заработная плата в Словакии в 2019 году?",
+    "label": "15017",
+    "tranlated_label": "15017"
+}

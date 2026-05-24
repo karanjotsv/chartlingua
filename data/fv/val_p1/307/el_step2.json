@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Least number of' and 'fewest' are semantically equivalent in this context, and 'on 8.04' versus 'in 8.04' are minor, acceptable prepositional variations that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, x_axis_title, y_axis_title, source, note) are null in both the original and back-translated content, indicating perfect semantic equivalence as there was no content to alter."
+    },
+    "claim": "There were the least number of Ubuntu repositories on 8.04",
+    "translated_claim": "Υπήρχαν τα λιγότερα αποθετήρια Ubuntu στην 8.04."
+}

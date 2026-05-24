@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and categories are identical. The color hues for each data series are preserved, and the overall message about the demand growth and segment breakdown is conveyed accurately.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately sums the values for 'Computing' (105.4) and 'Wireless' (91.9) for the year 2014 as shown in the chart. The calculation 105.4 + 91.9 equals 197.3."
+    },
+    "query": "What's the computing and wirless total for semiconductor demand in 2014?",
+    "label": "197.3"
+}

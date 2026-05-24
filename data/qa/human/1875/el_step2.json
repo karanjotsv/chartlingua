@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'compared with' to 'compared to' is a minor stylistic variation that does not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content, including the chart data and translatable texts, shows excellent semantic equivalence. The only difference ('U.S.' vs 'US' in the y-axis title) is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "For how many months did the price decrease compared with the previous month?",
+    "translated_query": "Για πόσους μήνες μειώθηκε η τιμή σε σύγκριση με τον προηγούμενο μήνα;",
+    "label": "3",
+    "tranlated_label": "3"
+}

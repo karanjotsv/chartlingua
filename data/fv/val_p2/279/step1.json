@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, series, color hues, and the overall message conveyed are all highly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is from 1881, but the chart does not provide any information regarding the year or time period the data represents."
+    },
+    "claim": "The chart shows that there were more female professionals than male professionals in 1881.",
+    "label": "FALSE"
+}

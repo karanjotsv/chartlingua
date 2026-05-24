@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, preserving perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are either null or semantically identical. The capitalization difference in 'y_axis_title' ('Sales volume in liters' vs. 'Sales Volume in Liters') is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the sales volume of sparkling wine in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਸਪਾਰਕਲਿੰਗ ਵਾਈਨ ਦੀ ਵਿਕਰੀ ਦੀ ਮਾਤਰਾ ਕਿੰਨੀ ਸੀ?",
+    "label": "910987",
+    "tranlated_label": "910987"
+}

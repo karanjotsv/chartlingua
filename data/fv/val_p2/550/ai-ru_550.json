@@ -1,0 +1,55 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Азот",
+            "value": 78.08
+        },
+        {
+            "label": "Кислород",
+            "value": 20.95
+        },
+        {
+            "label": "Аргон",
+            "value": 0.93
+        },
+        {
+            "label": "Углекислый<br>газ",
+            "value": 0.04
+        },
+        {
+            "label": "Другие газы",
+            "value": 0.002
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "legend_title": null
+    },
+    "colors": [
+        "#FF7F00",
+        "#800080",
+        "#808080",
+        "#008080",
+        "#000080"
+    ],
+    "special_params": {
+        "pull": [
+            0,
+            0.1,
+            0,
+            0,
+            0
+        ],
+        "line_width": 2,
+        "line_color": "#000000",
+        "plot_bgcolor": "#000000",
+        "paper_bgcolor": "#000000",
+        "font_color": "#FFFFFF",
+        "rotation": 90
+    }
+}

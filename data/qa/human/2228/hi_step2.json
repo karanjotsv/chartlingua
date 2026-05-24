@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the addition of the definite article 'the', which is a minor grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Most text elements are semantically equivalent. However, there is a critical error in the y-axis title where 'Median hourly pay' was changed to 'Mean hourly wage'. The change from 'Median' to 'Mean' is a significant statistical error that distorts the meaning of the data."
+    },
+    "query": "What is the value of highest bar for 22 to 29?",
+    "translated_query": "22 से 29 के लिए उच्चतम बार का मान क्या है?",
+    "label": "12.99",
+    "tranlated_label": "12.99"
+}

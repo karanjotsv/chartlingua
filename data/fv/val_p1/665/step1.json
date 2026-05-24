@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. It accurately reproduces the data values, proportions, titles, axis labels, and color hue. The overall message of a decrease in patients from 2010 to 2011 is identical. Minor stylistic differences like y-axis label formatting (e.g., 16k vs 16000) and solid vs. gradient bars do not alter the semantic meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that green colour bars are used to represent the data, but the bars in the chart are clearly red."
+    },
+    "claim": "Green colour bars are used to represent the data.",
+    "label": false
+}

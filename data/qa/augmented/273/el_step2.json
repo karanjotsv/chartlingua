@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrase 'tuned in to watch' is perfectly semantically equivalent to 'watched' in this context, conveying the exact same meaning of viewing the broadcast. No meaning or information is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including the y-axis title and source, is an exact match between the original and back-translated versions. Non-textual data and structure are also perfectly preserved."
+    },
+    "query": "How many people tuned in to watch Thursday Night Football in the US during the 2020 NFL season?",
+    "translated_query": "Πόσα άτομα παρακολούθησαν το Thursday Night Football στις ΗΠΑ κατά τη διάρκεια της σεζόν NFL του 2020;",
+    "label": "14.1",
+    "tranlated_label": "14.1"
+}

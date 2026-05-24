@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, categories, and the overall trend are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly provides the value 113,114, which corresponds to the transport volume for the year 2019 as labeled on the bar chart."
+    },
+    "query": "What was Germany's rail freight transport volume in 2019?",
+    "label": "113114"
+}

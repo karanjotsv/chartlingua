@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points for each country are accurately positioned. The title, axis labels, and categories are identical. The color hues for the data series (red, grey, green) are preserved. The only significant difference is the legend's style—the original uses a custom gradient bar while the rendered version uses a standard categorical legend—but this does not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information about the year 2004, nor does it provide data on the number of individuals who identify as Democrats or Republicans. The chart illustrates the political disagreement on whether climate change is a major threat across various countries, categorized by 'political left', 'political center', and 'political right'."
+    },
+    "claim": "The chart shows that in 2004, a higher amount of individuals identified as Democrats compared to Republicans.",
+    "label": "TRUE"
+}

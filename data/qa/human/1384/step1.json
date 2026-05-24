@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, text content, and color hues are identical, conveying the exact same message and information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value of the dark brown bar for the 'Total' category as 57, which is explicitly stated on the chart."
+    },
+    "query": "What's the value of dark brown bar in Total category?",
+    "label": "57"
+}

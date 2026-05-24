@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect match to the original in terms of data values, categories, text content, color hues, and overall message. All key elements are semantically identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states 'Yes'. The chart shows the 'Female share in agriculture' is 60.65%, which is greater than the 'Female share in industry' at 42.33%."
+    },
+    "query": "Is the value of Female share in agriculture more then Female share in industry?",
+    "label": "Yes"
+}

@@ -1,0 +1,38 @@
+{
+    "chart_type": "scatter_line",
+    "chart_data": [
+        {
+            "x": [
+                0.2,
+                0.6,
+                0.9,
+                1.2,
+                1.6,
+                2.0,
+                2.4,
+                3.0
+            ],
+            "y": [
+                2.5,
+                3.6,
+                3.6,
+                3.2,
+                2.0,
+                0.0,
+                -3.0,
+                -7.5
+            ],
+            "name": "Position vs Time"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "t (s)",
+        "y_axis_title": "s (m)",
+        "source": null
+    },
+    "colors": [
+        "#C00000"
+    ]
+}

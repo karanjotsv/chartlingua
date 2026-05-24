@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is an exact, word-for-word match to the original content, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The `series_names` are identical. The chart title in the back-translation has a very minor difference, omitting 'their' and 'discovery' before 'dates', but the overall meaning of 'exoplanets by dates and discovery methods' remains semantically equivalent to 'exoplanets by their discovery dates and methods' due to the context provided by 'discovery methods'."
+    },
+    "claim": "The number of railways in operation decreased after 1945.",
+    "translated_claim": "Ο αριθμός των σιδηροδρόμων σε λειτουργία μειώθηκε μετά το 1945."
+}

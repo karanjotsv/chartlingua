@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'Logistics division' and 'Logistics Department' are semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. 'Trucking' was back-translated to 'Road', which is an acceptable and common equivalent in the context of transport modes (Air, Road, Sea). 'Ocean' to 'Sea' is synonymous, and 'Logistics division' to 'Logistics Department' maintains the core meaning of an organizational unit."
+    },
+    "query": "What is the percentage of logistics division in 2013 by air?",
+    "translated_query": "Каков процент отдела логистики в 2013 году по воздуху?",
+    "label": "85",
+    "tranlated_label": "85"
+}

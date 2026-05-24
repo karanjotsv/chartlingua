@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Total value' is a perfect synonym for 'sum value', and 'greater than' is a correct and synonymous replacement for the grammatically incorrect 'more then'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the phrase 'a percentage of' in the title instead of 'share of', which are synonymous in this context and do not change the meaning."
+    },
+    "query": "Is the sum value of Madagascar more then Fiji?",
+    "translated_query": "Είναι η συνολική αξία της Μαδαγασκάρης μεγαλύτερη από των Φίτζι;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

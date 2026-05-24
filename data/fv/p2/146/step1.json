@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, and text content are identical. The color hues for the corresponding slices are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that authorized civilians make up 35% and authorized military make up 9% of the workforce. Adding these two percentages together (35% + 9%) results in 44%, not the 65% stated in the claim."
+    },
+    "claim": "65% of the Department's workforce is composed of authorized civilians and authorized military personnel.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, categories, text content (title, axis labels), and color hues are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows a yellow bar corresponding to the 'Paid staff member of GLAM institution' category on the x-axis. A data label directly above this bar explicitly states its value as 40.6, which corresponds to the 'Percentage' on the y-axis."
+    },
+    "claim": "The yellow bar represents the paid staff member of GLAM institution and it has a value of 40.6% in the chart.",
+    "label": "TRUE"
+}

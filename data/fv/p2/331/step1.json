@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces all data values and proportions in the pie chart and the accompanying table. The text content, category labels, and color hues are all consistent with the original, ensuring the same message is conveyed.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The rendered chart has severe visual flaws. There is significant text overlap for the labels of the smaller pie slices, making them completely unreadable. The main title is also partially clipped on the right side."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that the largest percentage of Americans living with HIV/AIDS are Black (44.5%), not Latino. Latinos account for 19.2% of this population, which is neither the largest group nor a majority."
+    },
+    "claim": "The majority of Americans living with HIV/Aids are Latino.",
+    "label": "FALSE"
+}

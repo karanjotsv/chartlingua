@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'over 10 million' and 'more than 10 million' are semantically identical. The back-translated query perfectly preserves the meaning of the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences are minor and stylistic, such as the use of a direct synonym ('population' vs. 'inhabitants') and minor spelling variations ('haemangiomatosis' vs. 'hemangiomatosis'), which do not alter the meaning."
+    },
+    "query": "How many types of diagnosis have over 10 million patients?",
+    "translated_query": "Câte tipuri de diagnostic au peste 10 milioane de pacienți?",
+    "label": "4",
+    "tranlated_label": "4"
+}

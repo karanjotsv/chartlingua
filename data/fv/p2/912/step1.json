@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, axis configurations, and the overall message are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the 'Number of files with N language templates on Commons', while the claim discusses the 'cumulative box office gross of Howls Moving Castle'. The chart contains no information about movies or box office data, making it impossible to support the claim."
+    },
+    "claim": "The cumulative box office gross of Howls Moving Castle decreased steadily over time. ",
+    "label": "TRUE"
+}

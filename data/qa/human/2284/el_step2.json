@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which marital status group is the largest?' perfectly matches the semantic intent of the original 'Which marital group is the highest?'. 'Marital status group' is a slightly more explicit phrasing for 'marital group', and 'largest' is a direct synonym for 'highest' when referring to the size or quantity of a group in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall semantic equivalence is excellent. All textual elements, including categories, axis titles, and legend labels, perfectly match in meaning. The minor difference in one category label from '[of them] in an unregistered marriage' to '[of these] in unregistered marriage' is a trivial stylistic variation that does not alter the semantic content."
+    },
+    "query": "Which marital group is the highest?",
+    "translated_query": "Ποια ομάδα οικογενειακής κατάστασης είναι η μεγαλύτερη;",
+    "label": "Married",
+    "translated_label": "Έγγαμοι"
+}

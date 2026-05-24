@@ -1,0 +1,77 @@
+{
+    "chart_type": "side_by_side_pie",
+    "chart_data": [
+        {
+            "labels": [
+                "Neutral",
+                "Masculine",
+                "Feminine"
+            ],
+            "values": [
+                4,
+                7,
+                89
+            ],
+            "annotations": [
+                {
+                    "text": "NEUTRAL<br>4%",
+                    "radial_pos": 0.35
+                },
+                {
+                    "text": "MASCULINE<br>7%",
+                    "radial_pos": 0.4
+                },
+                {
+                    "text": "FEMININE<br>89%",
+                    "radial_pos": 0.6
+                }
+            ]
+        },
+        {
+            "labels": [
+                "Male",
+                "Female"
+            ],
+            "values": [
+                2,
+                98
+            ],
+            "annotations": [
+                {
+                    "text": "MALE<br>2%",
+                    "radial_pos": 0.2
+                },
+                {
+                    "text": "FEMALE<br>98%",
+                    "radial_pos": 0.6
+                }
+            ]
+        }
+    ],
+    "texts": {
+        "title_left": "Spanish nouns ending in a/á",
+        "title_right": "Spanish names ending in a",
+        "subtitle_left": "Masculine: 344 (7%)<br>Feminine: 4453 (89%)<br>Neutral: 211 (4%)",
+        "subtitle_right": "Male: 10 (2%)<br>Female: 487 (98%)",
+        "source": "©namepedia.org"
+    },
+    "colors": {
+        "chart1": [
+            "#9ACFEB",
+            "#A5C882",
+            "#E8726A"
+        ],
+        "chart2": [
+            "#9ACFEB",
+            "#E8726A"
+        ],
+        "background": "#E5E5E5",
+        "text": "#5A5A5A",
+        "annotation_text": "#FFFFFF",
+        "annotation_bg": "#333333"
+    },
+    "layout_constants": {
+        "pie_1_rotation": 65,
+        "pie_2_rotation": 86.4
+    }
+}

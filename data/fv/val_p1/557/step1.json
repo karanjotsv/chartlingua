@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, category labels, chart title, and overall proportions are virtually identical. The rendered chart accurately represents the same information and message as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the occupational categories 'Professionals' and 'Conveyance of Men, Goods/Messages' both have a lower number of workers than 'Domestic Service or Offices'. Therefore, 'Domestic Service or Offices' did not have the lowest number of workers."
+    },
+    "claim": "Domestic Service or Offices had the lowest number of workers in Poughill in 1881.",
+    "label": false
+}

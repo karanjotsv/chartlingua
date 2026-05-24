@@ -1,0 +1,64 @@
+{
+    "charts": [
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    47,
+                    20,
+                    20,
+                    24,
+                    24,
+                    10
+                ]
+            },
+            "texts": {
+                "title": "Question Number 1",
+                "description": "Which official manufacturing statistics do you use?<br>(select all that apply)<br><br>A) Annual Business Survey<br>B) UK Manufacturers' Sales by Product (Prodcom)<br>C) Producer Price Index<br>D) Index of Production<br>E) Productivity<br>F) Other"
+            }
+        },
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    9,
+                    39,
+                    10,
+                    24,
+                    45,
+                    8
+                ]
+            },
+            "texts": {
+                "title": "Question Number 2",
+                "description": "What do you use these official statistics for? (select<br>all that apply)<br><br>A) Investment decisions<br>B) Policy development<br>C) Local planning and spending decisions<br>D) Business planning<br>E) Research<br>F) Other"
+            }
+        }
+    ],
+    "colors": {
+        "bar": "#82b9e6",
+        "bar_border": "#3b3b3b",
+        "data_label": "#000000",
+        "title_background": "#a90000",
+        "title_font": "#ffffff",
+        "description_background": "#0c2c45",
+        "description_font": "#ffffff",
+        "plot_background": "#ffffff",
+        "grid": "#d3d3d3",
+        "paper_background": "#ffffff"
+    }
+}

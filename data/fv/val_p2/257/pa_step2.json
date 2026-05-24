@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The original states that the highest percentage of votes was 'cast by SI', implying an entity or group as the source. The back-translation changes this to 'recorded for Yes', which refers to a specific vote option. This significantly alters the core information about what the highest percentage represents, changing from an agent to an outcome."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most text elements, including series names and axis titles, are perfectly matched. The main difference is the title changing from 'Referendums' (plural) in the original to 'Referendum' (singular) in the back-translation, which is a minor acceptable difference. 'Null' translating to 'Invalid' for votes is also a good semantic match."
+    },
+    "claim": "The highest percentage in the 2009-2010 Referendums was cast by SI.",
+    "translated_claim": "2009-2010 ਦੇ ਜਨਮਤ ਸੰਗ੍ਰਹਿ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਪ੍ਰਤੀਸ਼ਤਤਾ ਹਾਂ ਵੱਲੋਂ ਪਾਈ ਗਈ ਸੀ।"
+}

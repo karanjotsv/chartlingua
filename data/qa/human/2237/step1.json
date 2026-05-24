@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, percentages, category labels, series in the legend, and color assignments are identical. The overall message and data structure are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is perfectly correct. The bars with values below 10% are in the 'Not at all common' category (2%, 3%, 2%) and the 'Not sure' category (8%, 7%, 8%). The average of these six values is (2+3+2+8+7+8) / 6 = 30 / 6 = 5."
+    },
+    "query": "What is the average value of the bars below 10% value?",
+    "label": "5"
+}

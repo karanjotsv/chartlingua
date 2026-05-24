@@ -1,0 +1,130 @@
+{
+    "texts": {
+        "title": "Regional Profile of Yorkshire and The Humber",
+        "section_titles": {
+            "population": "Population",
+            "qualifications": "Working-age population<br>with no qualifications",
+            "unemployment": "Unemployment",
+            "economic_output": "Economic Output",
+            "weekly_earnings": "Weekly Earnings",
+            "house_prices": "House Prices",
+            "life_expectancy": "Life Expectancy"
+        },
+        "population": {
+            "center_value": "8%",
+            "center_label": "of the UK",
+            "bottom_value": "5.3 million",
+            "bottom_label": "mid-2012"
+        },
+        "qualifications": {
+            "source_date": "2012"
+        },
+        "unemployment": {
+            "source_date": "Q2 2013"
+        },
+        "economic_output": {
+            "center_value": "7%",
+            "center_label": "of the UK",
+            "bottom_value": "Gross Value Added",
+            "bottom_label": "2011"
+        },
+        "weekly_earnings": {
+            "source_note": "Median earnings of<br>full-time employees<br>April 2012"
+        },
+        "house_prices": {
+            "note": "Only region in England to<br>show a <b>decrease</b><br>in year to June 2013"
+        },
+        "life_expectancy": {
+            "note": "One of the lowest in England<br>2009-2011"
+        },
+        "source": "www.ons.gov.uk",
+        "credits": "Contains data and information from Ordnance Survey.<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013"
+    },
+    "colors": {
+        "population": "#D9532C",
+        "qualifications": "#A68A6A",
+        "unemployment": "#0072BC",
+        "economic_output": "#93C03D",
+        "weekly_earnings": "#D9007E",
+        "house_prices": "#5786A0",
+        "life_expectancy": "#F39C12",
+        "donut_secondary": "#E6E6E6",
+        "background": "#F0F0F0"
+    },
+    "chart_data": {
+        "population": {
+            "value": 8
+        },
+        "qualifications": [
+            {
+                "category": "South<br>East",
+                "value": 6.9
+            },
+            {
+                "category": "Yorkshire and<br>The Humber",
+                "value": 11.5
+            },
+            {
+                "category": "West<br>Midlands",
+                "value": 13.6
+            }
+        ],
+        "unemployment": [
+            {
+                "category": "North<br>East",
+                "value": 10.3
+            },
+            {
+                "category": "Y&H",
+                "value": 8.9
+            },
+            {
+                "category": "South<br>East",
+                "value": 6.0
+            },
+            {
+                "category": "South<br>West",
+                "value": 6.0
+            }
+        ],
+        "economic_output": {
+            "value": 7
+        },
+        "weekly_earnings": [
+            {
+                "category": "Y&H",
+                "value": 465,
+                "prefix": "£"
+            },
+            {
+                "category": "London",
+                "value": 613,
+                "prefix": "£"
+            }
+        ],
+        "house_prices": [
+            {
+                "category": "Y&H",
+                "value": -0.2,
+                "label": "0.2%<br>decrease"
+            },
+            {
+                "category": "London",
+                "value": 8.1,
+                "label": "8.1%<br>increase"
+            }
+        ],
+        "life_expectancy": [
+            {
+                "category": "Yorkshire and The Humber",
+                "male": 78.1,
+                "female": 82.0
+            },
+            {
+                "category": "South East",
+                "male": 80.0,
+                "female": 83.8
+            }
+        ]
+    }
+}

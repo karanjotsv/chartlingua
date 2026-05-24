@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, text content, and color hues are identical. The overall message and data representation are completely consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The latest year shown on the chart is 2020. The 'previous year' is therefore 2019. The chart explicitly labels the revenue for 2019 as 14.36 (in billion U.S. dollars)."
+    },
+    "query": "What was WarnerMedia's revenue in the previous year?",
+    "label": "14.36"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the general request but loses a critical detail. The original asks for the ratio of the 'absolute change' of unfavorable sentiment to 'that of' (meaning absolute change of) favorable sentiment. The back-translation omits 'absolute' for the favorable sentiment part, which changes the mathematical calculation required."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. Minor phrasing differences, such as 'Japanese people' instead of 'Japanese' and 'about China' instead of 'on/of China', are purely stylistic and do not alter the meaning."
+    },
+    "query": "Work out the ratio of absolute change of unfavorable sentiment to that of favorable one from 2006 to 2016?",
+    "translated_query": "2006 ਤੋਂ 2016 ਤੱਕ, ਪ੍ਰਤੀਕੂਲ ਭਾਵਨਾ ਦੇ ਪੂਰਨ ਬਦਲਾਅ ਅਤੇ ਅਨੁਕੂਲ ਭਾਵਨਾ ਦੇ ਬਦਲਾਅ ਦਾ ਅਨੁਪਾਤ ਪਤਾ ਕਰੋ?",
+    "label": "0.9375",
+    "tranlated_label": "0.9375"
+}

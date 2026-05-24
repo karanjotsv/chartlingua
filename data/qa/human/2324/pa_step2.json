@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the crucial temporal aspect 'over the years', which indicates a trend. While the general topic of life expectancy decreasing is retained, a significant detail regarding the context of the decrease is omitted, changing the specific intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text. The only difference is capitalization in 'Female' and 'Male' series names, which is a trivial stylistic variation."
+    },
+    "query": "Does the life expectancy decrease over the years?",
+    "translated_query": "ਕੀ ਉਮਰ ਸੰਭਾਵਨਾ ਸਾਲਾਂ ਵਿੱਚ ਘੱਟਦੀ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

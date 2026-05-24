@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. Differences are only minor stylistic improvements (e.g., 'persons,25+' to 'individuals aged 25 and over', 'in the year' to 'annual', '$32,000' to 'USD 32,000') that enhance clarity without altering the core information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor differences include abbreviation expansion ('U.S.' to 'USA', 'U.K.' to 'United Kingdom'), synonymous word choices ('about' vs 'on', 'major' vs 'serious' in the title), and capitalization, none of which alter the semantic meaning or critical information."
+    },
+    "claim": "The chart shows that persons,25+ has the highest value for gross income in the year with $32,000.",
+    "translated_claim": "Диаграмма показывает, что лица в возрасте 25 лет и старше имеют самое высокое значение валового дохода за год, составляющее 32 000 долларов США."
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation changes the proper noun 'Chattisham' to 'Chatham', which is a significant distortion of a key piece of information (the location). While the grammatical correction from 'large' to 'largest' improves readability, the change in the proper noun introduces a factual inaccuracy or refers to a different entity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'chart_data' labels and 'texts' fields is identical between the original and back-translated JSON objects, indicating perfect semantic equivalence."
+    },
+    "claim": "Indians are the second large group in the Chattisham.",
+    "translated_claim": "Οι Ινδοί είναι η δεύτερη μεγαλύτερη ομάδα στο Τσάτισχαμ."
+}

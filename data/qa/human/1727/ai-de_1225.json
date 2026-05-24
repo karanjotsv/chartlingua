@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Donald Trump",
+            "values": [
+                27,
+                70,
+                4
+            ]
+        },
+        {
+            "category": "Vladimir Putin",
+            "values": [
+                30,
+                62,
+                5
+            ]
+        },
+        {
+            "category": "Xi Jinping",
+            "values": [
+                34,
+                56,
+                15
+            ]
+        },
+        {
+            "category": "Emmanuel Macron",
+            "values": [
+                46,
+                34,
+                12
+            ]
+        },
+        {
+            "category": "Angela Merkel",
+            "values": [
+                52,
+                31,
+                11
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>Merkel und Macron genießen international<br>mehr Vertrauen als Xi, Putin<br>oder Trump</b>",
+        "subtitle": "<i>Vertrauen in ___, in Weltangelegenheiten das<br>Richtige zu tun</i>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Anmerkung: Die Prozentangaben sind Mediane basierend auf 25 Ländern.<br>Quelle: Globale Einstellungsstudie Frühjahr 2018. Q35a-e.<br><b>PEW RESEARCH CENTER</b>",
+        "legend_labels": [
+            "Vertrauen",
+            "Kein Vertrauen",
+            "Keine Angabe"
+        ]
+    },
+    "colors": [
+        "#8c9646",
+        "#006c9c",
+        "#d9d6ce"
+    ]
+}

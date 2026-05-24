@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is a very close match to the original in terms of data values, categories, and overall structure. The color scheme is also preserved, with the specific red highlight on 'Stocksbridge PS' correctly replicated. The rating is 4 instead of 5 due to a minor data discrepancy: in the original, the bar for 'Belper Town' is slightly taller than 'Brigg Town', whereas in the rendered image, this relationship is reversed. This minor error does not change the overall interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the teams ordered by attendance from highest (left) to lowest (right). Chorley is the 7th team from the left, indicating it has one of the highest attendances shown. The teams with the lowest attendances are on the far right of the chart, such as Wakefield and Woodley Sports."
+    },
+    "claim": "Chorley has the 3rd lowest attendance in the Northern Premier League Division One.",
+    "label": false
+}

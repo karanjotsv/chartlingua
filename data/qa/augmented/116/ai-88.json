@@ -1,0 +1,40 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Global North",
+            "Global South",
+            "World Total"
+        ],
+        "series": [
+            {
+                "name": "1910",
+                "data": [
+                    502.9,
+                    108.91,
+                    611.81
+                ]
+            },
+            {
+                "name": "2010",
+                "data": [
+                    856.36,
+                    1327.7,
+                    2184.06
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Estimated number of Christians in millions",
+        "source_text": "© Statista 2021",
+        "note_text": "Show source"
+    },
+    "colors": [
+        "#2772C3",
+        "#1C2F3C"
+    ]
+}

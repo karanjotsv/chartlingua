@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data proportions, labels, title, and overall message are consistent. The colors for the largest data slices (Germany, Japan, Romania) maintain their correct general hue. However, there are color hue inconsistencies in several of the smaller slices; for example, Finland is blue in the original but reddish-purple in the rendered chart.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels of the smaller slices (Thailand, Finland, Bulgaria, Spain, Vichy France), making it very difficult to read and associate them with their corresponding chart segments."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the distribution of 'Axis Casualties'. The slice representing 'Germany' is clearly the largest portion of the chart, indicating that Germany had the highest number of casualties among the countries shown."
+    },
+    "claim": "Germany has highest number of Axis casualties.",
+    "label": "TRUE"
+}

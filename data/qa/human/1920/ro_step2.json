@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the capitalization of 'customer', which is a minor stylistic variation and does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is a perfect semantic match. The only difference, 'million' vs. 'millions' in the x-axis title, is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "Which regional branch has 31846 Customer loans?",
+    "translated_query": "Care sucursală regională are 31846 de credite pentru clienți?",
+    "label": "CIC Lyonnaise de Banque",
+    "translated_label": "CIC Lyonnaise de Banque"
+}

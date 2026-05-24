@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, series, and the main title are accurately reproduced. The color hues for the political left (green), right (red), and center (grey) are consistent. The overall message about political disagreement across countries is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about the rates of bilingualism in Quebec from 1941 to 2006. The provided chart, however, displays data on political disagreement regarding climate change across various countries. The chart contains no information about bilingualism, Quebec, or the specified time period."
+    },
+    "claim": " Rates of Bilingualism in Quebec decrease since 1941 till 2006. ",
+    "label": "FALSE"
+}

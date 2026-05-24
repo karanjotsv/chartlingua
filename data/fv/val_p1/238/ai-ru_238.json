@@ -1,0 +1,35 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "category": "Слишком много",
+            "value": 3
+        },
+        {
+            "category": "Слишком мало",
+            "value": 25
+        },
+        {
+            "category": "В самый раз",
+            "value": 66
+        },
+        {
+            "category": "Другое",
+            "value": 6
+        }
+    ],
+    "texts": {
+        "title": "Как вы относитесь к тому, что штатные<br>разработчики посвящают 20% своего времени<br>помощи в волонтерской разработке?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#00599c",
+        "#339966",
+        "#a50000",
+        "#66cccc"
+    ]
+}

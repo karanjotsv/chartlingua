@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The single translatable text field ('series_name') is identical in both the original and back-translated versions. All other text fields are null in both, resulting in a perfect semantic match."
+    },
+    "claim": "The higher the value of x, the lower the value of y.",
+    "translated_claim": "Je höher der Wert von x, desto niedriger der Wert von y."
+}

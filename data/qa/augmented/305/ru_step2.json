@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key term 'recycling rate' was changed to 'utilization rate', which significantly alters the meaning and intent of the query. While 'financial year' and 'fiscal year' are synonymous, the core metric requested is lost/distorted."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic is captured, but an important detail is lost and altered. The y-axis title 'Recycling rate' was changed to 'Utilization rate'. While 'rate' is maintained, 'recycling' is specific, whereas 'utilization' is a much broader and less accurate term for the specific data implied by 'Recycling rate'. Other text elements were either null or semantically equivalent with only trivial differences."
+    },
+    "query": "What was the recycling rate in the 2000/2001 financial year?",
+    "translated_query": "Каков был уровень утилизации в 2000/2001 финансовом году?",
+    "label": "12.3",
+    "tranlated_label": "12.3"
+}

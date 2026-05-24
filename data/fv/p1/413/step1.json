@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, series trend, chart title, and axis labels are all accurately reproduced. The color hue is also consistent. The overall message conveyed by both charts is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is factually incorrect based on the chart. The highest rating shown is 11.21 (Season 17), and the rating at the end of the run (Season 26) is 4.15. Twice the rating at the end would be 2 * 4.15 = 8.30. The peak rating of 11.21 is significantly more than twice the final rating, not exactly twice as high."
+    },
+    "claim": "The number of viewers of classic Dr. Who was twice as high as it had ever been at the end of its run.",
+    "label": false
+}

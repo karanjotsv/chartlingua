@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. All data categories, values, and color hues are identical. The only significant difference is the change from a 3D perspective to a 2D perspective, which is a stylistic choice and does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim introduces the concepts of 'Basic government' and 'Societism ideology', which are not mentioned or explained anywhere in the provided pie chart. While the chart does show that Education, Infrastructure, and Defence each have a 20% share, it does not provide any context or reason for this distribution."
+    },
+    "claim": "Education, Infrastructure and Defence contribute equally to Basic government based on the Societism ideology.",
+    "label": "TRUE"
+}

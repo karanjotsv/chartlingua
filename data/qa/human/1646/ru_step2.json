@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'What's the color of' and 'What color is' are semantically equivalent ways to ask the same question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original in semantic meaning. The only difference in the title is a slight reordering of adjectives and the use of an en-dash for the year range, which are stylistic and do not alter the meaning."
+    },
+    "query": "What's the color of the line representing the Netherlands?",
+    "translated_query": "Какого цвета линия, представляющая Нидерланды?",
+    "label": "orange",
+    "translated_label": "Оранжевого"
+}

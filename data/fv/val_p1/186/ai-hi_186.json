@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "गैलरी",
+            "value": 1.7
+        },
+        {
+            "category": "पुस्तकालय",
+            "value": 40.6
+        },
+        {
+            "category": "अभिलेखागार",
+            "value": 17.2
+        },
+        {
+            "category": "संग्रहालय",
+            "value": 28.1
+        },
+        {
+            "category": "अन्य",
+            "value": 12.5
+        }
+    ],
+    "texts": {
+        "title": "प्रतिशत के अनुसार उत्तरदाताओं का संस्थान (n = 64)",
+        "subtitle": null,
+        "x_axis_title": "संस्थान का प्रकार",
+        "y_axis_title": "प्रतिशत",
+        "source": null
+    },
+    "colors": [
+        "#00B7F1",
+        "#F7B500",
+        "#00B7F1",
+        "#00B7F1",
+        "#00B7F1"
+    ]
+}

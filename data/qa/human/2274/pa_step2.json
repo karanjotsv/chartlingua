@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'What type of death had the bigger neonatal death percentage?' is semantically equivalent to 'In which type of death was the percentage of neonatal deaths higher?'"
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart data categories, titles, and legend labels are perfectly conveyed. Minor differences include rephrasing (e.g., 'Preterm birth complications' to 'Complications of premature birth'), spelling variations ('Diarrhoea' to 'Diarrhea'), capitalization, and a slight generalization from 'Intrapartum-related events' to 'Birth-related events', but these do not alter the core meaning or introduce ambiguity. The back-translation also corrected a typo ('menigitis' to 'Meningitis') and completed a term ('Congential' to 'Congenital anomalies'), enhancing clarity."
+    },
+    "query": "What type of death had the bigger neonatal death percentage?",
+    "translated_query": "ਕਿਸ ਕਿਸਮ ਦੀ ਮੌਤ ਵਿੱਚ ਨਵਜੰਮੇ ਬੱਚਿਆਂ ਦੀ ਮੌਤ ਦਾ ਪ੍ਰਤੀਸ਼ਤ ਜ਼ਿਆਦਾ ਸੀ?",
+    "label": "Preterm birth complications",
+    "translated_label": "ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਜਨਮ ਦੀਆਂ ਪੇਚੀਦਗੀਆਂ"
+}

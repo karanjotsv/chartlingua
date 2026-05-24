@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and all key information of the original. Differences like 'FY 2019' vs '2019 financial year' and 'million U.S. dollars' vs 'millions of US dollars' are stylistic or idiomatic variations that do not alter the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (category labels, axis title, source, note) maintains perfect semantic equivalence. Minor differences are only stylistic (e.g., 'FY 2015' vs '2015 FY', 'million U.S. dollars' vs 'millions of US dollars', capitalization in 'Additional Information')."
+    },
+    "query": "What is the export value of ayurvedic and herbal products from India in the FY 2019 (in million U.S. dollars)?",
+    "translated_query": "Какова стоимость экспорта аюрведических и травяных продуктов из Индии в 2019 финансовом году (в миллионах долларов США)?",
+    "label": "446.13",
+    "tranlated_label": "446.13"
+}

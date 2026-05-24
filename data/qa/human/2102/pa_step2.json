@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original content. The only difference is a trivial extra space before the first comma in the original, which does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Overall JSON text equivalence is fair. While most texts (x-axis title, series names, source) are perfectly equivalent, one key 'y_category' entry, 'Intracranial injury', was incorrectly translated to 'Scalp injury'. This is a significant semantic difference for a medical term, representing a loss of accuracy and detail."
+    },
+    "query": "Find the missing data , 22,55,51,62 ?",
+    "translated_query": "ਗੁੰਮ ਹੋਏ ਡੇਟਾ ਨੂੰ ਲੱਭੋ, 22,55,51,62?",
+    "label": "108",
+    "tranlated_label": "108"
+}

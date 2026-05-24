@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the meaning of the original. Differences are purely stylistic, such as 'time progress' vs. 'time passes' and 'trends upward' vs. 'shows an upward trend', both conveying the identical message."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The primary difference is the phrasing 'Area Harvested' in the original versus 'Harvested Area' in the back-translation for a series name and axis title, which is a minor stylistic variation and does not alter the meaning. All other translatable texts are perfectly matched."
+    },
+    "claim": "As time progress, production quantity of tomatoes trends upward",
+    "translated_claim": "Καθώς περνά ο καιρός, η ποσότητα παραγωγής τομάτας παρουσιάζει ανοδική τάση."
+}

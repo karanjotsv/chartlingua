@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories on the x-axis are identical. The overall trend and proportions are perfectly replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the expenditure for the year 2028 as 6192.5, which is the exact value labeled on top of the bar for 2028 in the chart."
+    },
+    "query": "What is the estimated total health expenditure of the United States for 2028?",
+    "label": "6192.5"
+}

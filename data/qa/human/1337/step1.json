@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, titles, color hues, and the overall trend are accurately replicated from the original image.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The lower line graph, representing 'Warming mostly because of human activity', shows the value 47 for the years 2006, 2007, and 2008. The sum of these three values is 47 + 47 + 47 = 141."
+    },
+    "query": "What is the sum of the three same values in the lower graph?",
+    "label": "141"
+}

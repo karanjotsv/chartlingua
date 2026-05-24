@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, labels, axes, and the overall message are identical. The rendered chart also corrects a color inconsistency in the original's legend, where the legend item was red but the bar was green.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that emissions were more than 500 Mt in 2016, but the chart clearly shows the value for Emissions is 496.1 Mt, which is less than 500 Mt."
+    },
+    "claim": "Emissions were more than 500 Mt in 2016. ",
+    "label": "FALSE"
+}

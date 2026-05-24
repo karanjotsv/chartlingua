@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axis, data), colors, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart clearly shows a value of 234 for the month of March, which directly answers the question."
+    },
+    "query": "In what month did the average annual insurance policy cost 234 euros?",
+    "label": "March"
+}

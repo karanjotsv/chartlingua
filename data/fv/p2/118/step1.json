@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, subtitle, and labels), and color hues are identical. The proportions of the pie slices accurately reflect the data, conveying the same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that peppered moths rest predominately on exposed tree trunks. The chart data directly contradicts this, showing only 1 out of 23 moths was found on an exposed trunk. The most common resting positions were on branches, with 10 moths on branches >5cm in diameter and 8 on branches/twigs <5cm in diameter."
+    },
+    "claim": "Peppered moths rest predominately on exposed tree trunks.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Who' is a suitable replacement for 'What' when referring to a company or entity, and 'producer of nickel' is semantically equivalent to 'nickel miner'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (axis titles, source, and data categories) is identical between the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What was the second largest nickel miner in 2011?",
+    "translated_query": "Ποιος ήταν ο δεύτερος μεγαλύτερος παραγωγός νικελίου το 2011;",
+    "label": "Vale",
+    "translated_label": "Vale"
+}

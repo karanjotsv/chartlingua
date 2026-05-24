@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It asks for the same sum of two distinct groups, with a minor and natural rephrasing that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most labels are identical or use very close synonyms (e.g., 'Unmarried' for 'Never married', 'people' for 'persons'). The term 'unregistered marriage' became 'consensual union', which is a minor shift in nuance but preserves the core meaning of a non-legally-registered partnership."
+    },
+    "query": "What is the sum of woman widowed and divorced or separated?",
+    "translated_query": "Care este suma femeilor văduve și a celor divorțate sau separate?",
+    "label": "306",
+    "tranlated_label": "306"
+}

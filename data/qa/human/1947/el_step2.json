@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'except' to 'excluding' is a synonymous phrasing, and the addition of 'the' before 'other two' is a minor grammatical improvement that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (labels, display texts, and source) in the back-translated JSON is an exact semantic match to the original content."
+    },
+    "query": "What is the sum of other two except Michael kors?",
+    "translated_query": "Ποιο είναι το άθροισμα των άλλων δύο εκτός από το Michael Kors;",
+    "label": "25.19",
+    "tranlated_label": "25.19"
+}

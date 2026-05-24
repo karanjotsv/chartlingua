@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, and color assignments are identical. The overall message is preserved. The only difference is the stylistic choice to 'explode' the 'Mozilla Firefox' slice, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays market share percentages for different web browsers, such as Internet Explorer, Google Chrome, and Mozilla Firefox. The claim discusses donations and revenue, which are topics not represented in the chart's data."
+    },
+    "claim": "Donations less then $100 accounts for 74% of the total revenue.",
+    "label": "TRUE"
+}

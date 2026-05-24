@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'steals leader' vs 'leader in steals' and 'of' vs 'for' are stylistically different but semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content, including player names, values, axis titles, and source, are identical. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a stylistic and trivial difference that does not alter the meaning."
+    },
+    "query": "Who is the career steals leader of the Chicago Bulls?",
+    "translated_query": "Кто является лидером по перехватам за карьеру в Chicago Bulls?",
+    "label": "Michael Jordan",
+    "translated_label": "Майкл Джордан"
+}

@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Profesori",
+            "values": [
+                24,
+                25,
+                37,
+                37,
+                43,
+                55,
+                60,
+                62,
+                65
+            ]
+        },
+        {
+            "name": "Directori",
+            "values": [
+                27,
+                23,
+                57,
+                57,
+                64,
+                63,
+                67,
+                60,
+                72
+            ]
+        }
+    ],
+    "categories": [
+        "Webinarii",
+        "Participarea într-o comunitate online de<br>colegi",
+        "Citirea cărților de specialitate",
+        "Antrenori sau mentori",
+        "Participarea într-o comunitate personală de<br>învățare",
+        "Ateliere conduse de colegii mei",
+        "Observații",
+        "Ateliere conduse de consultanți<br>externi, autori sau experți",
+        "Conferințe de specialitate"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Ponderea respondenților",
+        "y_axis_title": "Formate de dezvoltare profesională",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1E2C3A"
+    ]
+}

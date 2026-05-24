@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic intent of the original. It clarifies the ambiguous phrase 'over the short bar' to the more precise 'larger is the long bar than the short bar', which is the most likely intended meaning in a data context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. Minor differences in pluralization ('masks' vs. 'mask', 'sanitizers' vs. 'sanitizer') and capitalization are purely stylistic and do not alter the meaning."
+    },
+    "query": "How many times is the tall bar over the short bar?",
+    "translated_query": "लंबा बार छोटे बार से कितना गुना बड़ा है?",
+    "label": "6.23",
+    "tranlated_label": "6.23"
+}

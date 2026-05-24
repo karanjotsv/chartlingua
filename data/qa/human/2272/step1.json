@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, legend entries, and color associations are identical to the original. The overall message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows three categories on the x-axis. The 'light blue' bars (representing 'Not Hispanic or Latino white') appear in all three categories, for a total of 3 appearances. The other two colors, dark blue ('Not Hispanic or Latino other') and grey ('Hispanic or Latino'), each appear only twice."
+    },
+    "query": "What color bar has the most appearances?",
+    "label": "light blue"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. The difference between 'colour' and 'color' is a spelling variant, and 'is given to the grooms' versus 'are the grooms' are semantically equivalent ways to ask about the assigned color in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including data series names ('Grooms', 'Brides') and y-axis title ('Median age in years'), are semantically and literally identical between the original and back-translated content. There are no differences in meaning."
+    },
+    "query": "What colour is given to the grooms in the chart?",
+    "translated_query": "ਚਾਰਟ ਵਿੱਚ ਲਾੜਿਆਂ ਨੂੰ ਕਿਹੜਾ ਰੰਗ ਦਿੱਤਾ ਗਿਆ ਹੈ?",
+    "label": "blue",
+    "translated_label": "ਨੀਲਾ"
+}

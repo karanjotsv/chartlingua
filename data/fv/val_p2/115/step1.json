@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, axis labels, titles, and the overall trend are identical. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the highest number of edits for 'Individual Editor 1' at a value of approximately 305. The lowest number of edits is for 'Individual Editor 15', at approximately 20. The average of these two values is (305 + 20) / 2 = 162.5, which is very near to the 162 stated in the claim."
+    },
+    "claim": "The average of highest and lowest amount of edits is near to 162.",
+    "label": "TRUE"
+}

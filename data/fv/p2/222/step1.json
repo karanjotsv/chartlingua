@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces all data values, categories, text, and color hues. The overall message is identical. The rendered chart correctly calculates and adds the percentage for the purple slice, which was missing in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "While the chart shows that the expenditure on 'Bill 2: WLM Launch' (19.1%) is indeed more than the expenditure on 'Bill1: P&Gs' (15.8%), it does not provide any information to confirm that this data pertains to 'WLM-ZA-2012'. The claim makes a specific assertion about 'WLM-ZA-2012' which cannot be verified from the chart."
+    },
+    "claim": "The expenditure on WLM Launch is more than P&Gs in the WLM-ZA-2012",
+    "label": "TRUE"
+}

@@ -1,0 +1,42 @@
+{
+    "chart_type": "line_chart",
+    "chart_data": [
+        {
+            "name": "Bad",
+            "x": [
+                "2019",
+                "2020"
+            ],
+            "y": [
+                53,
+                68
+            ],
+            "label_text": "Bad",
+            "label_y_pos": 62
+        },
+        {
+            "name": "Good",
+            "x": [
+                "2019",
+                "2020"
+            ],
+            "y": [
+                41,
+                30
+            ],
+            "label_text": "Good",
+            "label_y_pos": 34
+        }
+    ],
+    "texts": {
+        "title": "Rising share say U.S.<br>economic ties with China<br>are bad",
+        "subtitle": "% who say current economic ties<br>between the U.S. and China are ...",
+        "source": "Note: Don't know responses not shown.<br>Source: Survey of U.S. adults conducted<br>June 16-July 14, 2020. Q16.<br>“Americans Fault China for Its Role in the<br>Spread of COVID-19”<br><br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#355C8D",
+        "#95A14F"
+    ]
+}

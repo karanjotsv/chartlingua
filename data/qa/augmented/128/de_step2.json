@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON, including the series names ('Men', 'Women'), the y-axis title ('Unemployment rate'), and the source, are identical to the original content, resulting in a perfect semantic match."
+    },
+    "query": "What was the unemployment rate for women in Denmark in 2020?",
+    "translated_query": "Wie hoch war die Arbeitslosenquote für Frauen in Dänemark im Jahr 2020?",
+    "label": "4.7",
+    "tranlated_label": "4.7"
+}

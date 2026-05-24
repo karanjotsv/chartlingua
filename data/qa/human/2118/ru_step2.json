@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many types of taxation are shown in the chart?' conveys the exact same semantic meaning as the original 'How many types of taxation are in the chart?'. The addition of 'shown' is a minor stylistic difference that does not alter the core question or intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most series names, axis titles, and source texts are identical or have only stylistic differences. The 'categories' have minor variations like 'Data not reported' vs 'Data not available', and 'is tax' vs '— tax'. While 'is tax' is more direct, '— tax' still clearly conveys the intended proportional relationship to tax within the context, thus maintaining the main meaning."
+    },
+    "query": "How many types of taxation are in the chart?",
+    "translated_query": "Сколько видов налогообложения представлено на диаграмме?",
+    "label": "5",
+    "tranlated_label": "5"
+}

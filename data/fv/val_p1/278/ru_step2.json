@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim 'M decreases as the X-axis value increases' perfectly conveys the same meaning as the original 'M decreases with increase in the X-axis value'. The difference is purely stylistic and does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements (title, axis labels, chart data names, annotations) maintain perfect semantic equivalence. Differences are limited to spelling out abbreviations (e.g., 'b/w' to 'between', 'L E' to 'Leading edge') and capitalization, which do not alter the meaning."
+    },
+    "claim": "M decreases with increase in the X-axis value.",
+    "translated_claim": "M уменьшается с увеличением значения по оси X."
+}

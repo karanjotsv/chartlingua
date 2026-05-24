@@ -1,0 +1,35 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "categories": [
+            "Alpha",
+            "Beta",
+            "Τελικό"
+        ],
+        "series": [
+            {
+                "name": "Αριθμός<br>Μεθόδων",
+                "values": [
+                    300,
+                    600,
+                    720
+                ],
+                "text_y_offsets": [
+                    -15,
+                    -15,
+                    10
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Αριθμός Μεθόδων",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#2d6fbb"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Klicks auf Suchanzeigen",
+            "x": [
+                "Medizinischer Bedarf",
+                "Pharmazeutika"
+            ],
+            "y": [
+                5,
+                34
+            ]
+        },
+        {
+            "name": "Conversion-Rate von Suchanzeigen",
+            "x": [
+                "Medizinischer Bedarf",
+                "Pharmazeutika"
+            ],
+            "y": [
+                24,
+                47
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Wert",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#1A2C42"
+    ]
+}

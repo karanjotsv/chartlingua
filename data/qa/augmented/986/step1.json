@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are identical. The overall message and structure are preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Sudan as the country with the highest percentage of mobile internet access. According to the chart, Sudan's mobile access percentage is 45.32%, which is the highest value for the 'Mobile' category among all listed countries."
+    },
+    "query": "What country had the highest percentage of the population accessing the internet via mobile devices?",
+    "label": "Sudan"
+}

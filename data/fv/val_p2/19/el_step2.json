@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Helpful' is a direct synonym for 'useful', 'greater than' for 'bigger than', and 'unhelpful' for 'useless'. 'Chart' and 'graph' are also semantically interchangeable in this context. The minor differences are stylistic and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The series names 'useful'/'useless' were translated to the synonymous 'helpful'/'unhelpful'. Axis titles have minor capitalization changes. The only slight semantic shift is 'issue' being translated as 'topic' in the categories, which is generally acceptable in this context but might lose a slight nuance of 'problem' inherent in 'issue'."
+    },
+    "claim": "The difference between suggestion useful and question useful is bigger than irrelevant useless in graph of group 1X.",
+    "translated_claim": "Η διαφορά μεταξύ των 'πρόταση χρήσιμο' και 'ερώτηση χρήσιμο' είναι μεγαλύτερη από το 'άσχετο άχρηστο' στο γράφημα της ομάδας 1X."
+}

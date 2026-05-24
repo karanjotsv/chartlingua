@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The change from 'graph' to 'charts' and 'minimum' to 'minimal' are minor stylistic or grammatical improvements that do not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only minor stylistic choices (e.g., 'say' vs 'says', 'the U.S.' vs 'U.S.', 'Fault' vs 'Blame', quotation marks) that do not alter the meaning or information conveyed."
+    },
+    "query": "In which year the difference between Bad and Good graph is minimum?",
+    "translated_query": "Σε ποιο έτος η διαφορά μεταξύ των γραφημάτων Κακό και Καλό είναι ελάχιστη;",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

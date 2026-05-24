@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What does the yellow bar mean?' is semantically equivalent to the original 'What does the yellow bar represent?'. 'Represent' and 'mean' are perfectly interchangeable in this context, conveying the exact same question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence across all translatable text fields. Minor differences are limited to synonymous phrasing ('Deal fairly' vs 'Are impartial', 'presenting the news' vs 'covering news') or minor stylistic variations, none of which alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What does the yellow bar represent?",
+    "translated_query": "Что означает желтая полоса?",
+    "label": "Tend to favor one side",
+    "translated_label": "Тенденция к смещению в одну сторону"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the 'General Fund' and 'Government-owned corporations' slices as each constituting 30% of the 2012 budget, which are the highest percentages shown on the chart."
+    },
+    "claim": "The largest expense in the 2012 budget of the Government of Puerto Rico were for general fund and government-owned corporations both with 30%.",
+    "label": true
+}

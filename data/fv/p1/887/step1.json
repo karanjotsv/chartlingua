@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart correctly represents the two largest categories ('unknown' and 'domestic service'). However, it completely scrambles the data, labels, and colors for the three smaller categories ('agriculture', 'workers in dress', 'persons without specified occupations'), leading to a significant misrepresentation of that part of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the distribution of female occupations in 1881. The largest segment of the pie chart is labeled 'unknown', visually representing the largest proportion of the total. This directly supports the claim that the occupations of most females were unknown."
+    },
+    "claim": "We do not know the occupations of most females in 1881.",
+    "label": true
+}

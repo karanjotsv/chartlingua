@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, axis scales, and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's legend explicitly states that the red bars represent the year 2018 and the yellow bars represent the year 2017. Since 2018 is a later year than 2017, the claim is directly supported by the chart."
+    },
+    "claim": "A later electric energy generation is shown in red.",
+    "label": true
+}

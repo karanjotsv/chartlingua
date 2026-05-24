@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. Differences like 'Number six' vs 'The number six' and 'non compared' vs 'not compared' (or hyphenated 'not-compared') are stylistic or synonymous variations that do not alter the core semantic information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the 'texts' object (including legend items and annotation text) are an exact semantic and literal match between the original and back-translated content."
+    },
+    "claim": "Number six has the highest bar for the category \"non compared\" compared to other non compared numbers.",
+    "translated_claim": "Число шесть имеет самый высокий столбец для категории \"несравнимый\" по сравнению с другими несравнимыми числами."
+}

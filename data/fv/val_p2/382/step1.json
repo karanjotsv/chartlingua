@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The charts are highly consistent in terms of titles, axes, colors, and overall message. However, there is a minor data error in the rendered chart for the '2 languages' category, which shows a value of 3957820 instead of the original's 3857820.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the majority of files have between one and three language templates. According to the chart data, files with 1 language account for 54.96%, files with 2 languages account for 9.15%, and files with 3 languages account for 1.09%. The sum of these percentages is 65.2%, which constitutes a majority."
+    },
+    "claim": "The majority of files on Commons have between one and three language templates.",
+    "label": "TRUE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Cumulative sales' is accurately conveyed as 'Total sales', and 'declined' as 'decreased', which are perfect synonyms in this context. No semantic information is lost or altered."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated title 'Annual Total Sales' significantly distorts the original meaning of 'Cumulative sales'. The chart data clearly represents cumulative values, not annual totals, making this a critical semantic error. Other textual elements are mostly equivalent with minor acceptable variations."
+    },
+    "claim": "The cumulative sales of new energy vehicles in China declined after 2015.",
+    "translated_claim": "ਚੀਨ ਵਿੱਚ ਨਵੇਂ ਊਰਜਾ ਵਾਹਨਾਂ ਦੀ ਕੁੱਲ ਵਿਕਰੀ 2015 ਤੋਂ ਬਾਅਦ ਘਟ ਗਈ।"
+}

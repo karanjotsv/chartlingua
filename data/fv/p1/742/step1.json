@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, chart type, text content (title, axes), and color hues are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis labels are severely crowded and overlap, making them difficult to read and associate with the correct data bars."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the number of males working in Agriculture in 1881 was 50, not 20. The blue bar for the 'Agriculture' category clearly aligns with the 50 mark on the y-axis."
+    },
+    "claim": "20 male persons at Belstead worked for agriculture in 1881. ",
+    "label": false
+}

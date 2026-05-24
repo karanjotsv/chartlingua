@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. Differences are minor stylistic choices ('is increased at' vs 'increased', 'the period of' vs direct date) that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The chart title is mostly equivalent with minor stylistic changes. However, both the series 'name' and 'y_axis_title' have inverted the ratio from 'Ratio of Asset value to Debt' to 'Debt to Asset Value Ratio'. This is a significant semantic error that fundamentally misrepresents the data being displayed, which remains constant numerically."
+    },
+    "claim": "Ratio of asset value to debt is increased at Jun 2009 compared with the period of June-1988.",
+    "translated_claim": "ਜੂਨ 2009 ਵਿੱਚ ਸੰਪੱਤੀ ਮੁੱਲ ਦਾ ਕਰਜ਼ੇ ਨਾਲ ਅਨੁਪਾਤ, ਜੂਨ-1988 ਦੇ ਸਮੇਂ ਦੇ ਮੁਕਾਬਲੇ ਵਧਿਆ ਹੈ।"
+}

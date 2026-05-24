@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, axis scales, and categories are identical. The color hue is consistent, and the overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is a bar chart displaying the frequency for discrete categories (number of language templates), not a cumulative frequency chart. Additionally, there is no consistent upward trend; the number of files peaks at '1 language' and then generally decreases."
+    },
+    "claim": "The chart shows an upward trend of cumulative frequency based on class boundaries.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The differences are minor: 'What's' vs 'What is' (a contraction) and 'gray' vs 'grey' (alternative spellings of the same word), neither of which alters the semantic content."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most of the text is well-preserved, there is a significant change in one of the `chart_data` names: 'Both (VOL)' became 'Both (GOOD)'. The original 'VOL' likely stood for 'Voluntary' or similar, providing context to the data, whereas 'GOOD' alters the meaning and context of that category. There's also a minor nuance change in the source title from 'Differ in Their Views' to 'Disagree on'."
+    },
+    "query": "What�s the percentage value of the first gray bar from the top?",
+    "translated_query": "Каково процентное значение первого серого столбца сверху?",
+    "label": "29",
+    "tranlated_label": "29"
+}

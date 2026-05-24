@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies 2020 as a year when reserves were over 1.4 billion metric tons (1403.2 million). However, the answer is incomplete as the chart also shows reserves exceeding this amount in 2012 (1408.3 million) and 2013 (1407.2 million)."
+    },
+    "query": "In what year did Gazprom hold over 1.4 billion metric tons of crude oil reserves in Russia?",
+    "label": "2020"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the hyphenation of 'highest-paid', which is a minor stylistic variation and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. The primary difference is the x-axis title: 'Income' (original) vs. 'Revenue' (back-translated). While related, 'income' is generally more precise for individual earnings than 'revenue', which often implies corporate income. This is a minor semantic shift, but the core meaning of money earned is still conveyed accurately."
+    },
+    "query": "Who was the highest paid actress between June 2017 and June 2018?",
+    "translated_query": "Кто была самой высокооплачиваемой актрисой в период с июня 2017 по июнь 2018 года?",
+    "label": "Sofia Vergara",
+    "translated_label": "София Вергара"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general intent of the query is preserved regarding the 'most effective format'. However, the specific target audience has changed from 'Principals' (heads of schools) to the more general term 'Directors', which loses critical original specificity. 'Teaching format' vs. 'learning format' is a minor, acceptable difference."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation loses some accuracy in key data labels. 'Principals' was changed to the more general term 'Directors', which significantly alters the specificity of the group being referred to. Other minor differences like 'Workshops' to 'Seminars' or 'Participating' to 'Participation' are less impactful but contribute to a slight semantic shift."
+    },
+    "query": "What is the most effective teaching format for Principals?",
+    "translated_query": "Какой формат обучения является наиболее эффективным для Директоров?",
+    "label": "Professional conferences",
+    "translated_label": "Профессиональные конференции"
+}

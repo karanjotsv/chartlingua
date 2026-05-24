@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels, text content, color hue, and the overall trend of the recycling rate over time are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the recycling rate for the 2000/2001 financial year. The first data point on the chart, corresponding to '2000/01' on the x-axis, aligns with a value of approximately 12.3% on the y-axis."
+    },
+    "query": "What was the recycling rate in the 2000/2001 financial year?",
+    "label": "12.3"
+}

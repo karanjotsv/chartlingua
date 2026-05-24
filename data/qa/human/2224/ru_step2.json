@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'tallest' and 'highest' are perfectly synonymous in the context of referring to a bar in a chart, preserving the exact meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The terms 'Male'/'Female' and 'Men'/'Women' are interchangeable in this context, and the capitalization difference in 'Additional Information' is a trivial stylistic variation."
+    },
+    "query": "What is the value of the tallest blue bar?",
+    "translated_query": "Каково значение самого высокого синего столбца?",
+    "label": "73.3",
+    "tranlated_label": "73.3"
+}

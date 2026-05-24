@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses a key detail: 'high school'. 'School sports' is a broader term and lacks the specificity of the original 'high school sports', leading to a loss of important information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content, including data names ('Boys', 'Girls'), and the y-axis title ('Number of participants' vs 'Number of Participants') are semantically identical. The capitalization difference in the y-axis title is a trivial stylistic variation."
+    },
+    "query": "How many boys participated in high school sports in 2018/19?",
+    "translated_query": "Сколько мальчиков участвовало в школьных видах спорта в 2018/19?",
+    "label": "100185",
+    "tranlated_label": "100185"
+}

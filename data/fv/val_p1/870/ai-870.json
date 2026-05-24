@@ -1,0 +1,37 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "coal",
+            "value": 46.7
+        },
+        {
+            "label": "wind",
+            "value": 36.6
+        },
+        {
+            "label": "nuclear",
+            "value": 8.6
+        },
+        {
+            "label": "natural gas",
+            "value": 5.6
+        },
+        {
+            "label": "other",
+            "value": 2.5
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation",
+        "subtitle": "Iowa - 2016",
+        "source": null
+    },
+    "colors": [
+        "#b8238d",
+        "#b2c340",
+        "#e0b341",
+        "#7bc3d0",
+        "#a755d6"
+    ]
+}

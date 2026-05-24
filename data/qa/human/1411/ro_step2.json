@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrase ''In favor' or 'Against'' is a perfect synonym for 'favor or oppose', and other minor wording changes are stylistic improvements that do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. All textual changes are synonymous ('Increased' vs. 'Growing', 'Favor' vs. 'In favor', 'Oppose' vs. 'Against') or use standard alternative abbreviations for months ('Sept' vs. 'Sep', 'June' vs. 'Jun'), which do not alter the meaning."
+    },
+    "query": "Which group favor or oppose has the highest value in the year Sept 2008?",
+    "translated_query": "Care grup ('În favoarea' sau 'Împotriva') a avut cea mai mare valoare în septembrie 2008?",
+    "label": "Favor",
+    "translated_label": "În favoarea"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The only difference is 'graph' versus 'chart', which are synonymous in this context and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including the chart data labels and the 'texts' fields (all null), is an exact semantic and literal match between the original and back-translated versions."
+    },
+    "claim": "The graph shows that speed decreases over time.",
+    "translated_claim": "График показывает, что скорость со временем уменьшается."
+}

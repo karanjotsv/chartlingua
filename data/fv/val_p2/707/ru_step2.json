@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. Differences are minor grammatical or stylistic variations (e.g., 'is the low score' vs. 'has a low score', 'in' vs. 'for', 'tissue' vs. 'tissues') that do not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart data categories, titles, and labels are either identical or use perfectly synonymous terms (e.g., 'Heart muscle' to 'Cardiac Muscle', 'Breast' to 'Mammary Gland', 'Caudate' to 'Caudate Nucleus'). Minor differences in capitalization or pluralization do not alter the meaning. No key information is lost or distorted."
+    },
+    "claim": "colon is the low score in the expression levels of C5orf36 in human tissue.",
+    "translated_claim": "Толстая кишка имеет низкую оценку по уровням экспрессии C5orf36 в тканях человека."
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'Graph' and 'chart' are synonymous in this context, and the phrasing for 'Z value' and 'p-value' maintains the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (axis titles, chart data names, and annotation texts) is an exact semantic and literal match between the original and back-translated JSON objects. There are no differences."
+    },
+    "claim": "According to the graph the Z value decreases as the p-value increases.",
+    "translated_claim": "Согласно графику, значение Z уменьшается по мере увеличения значения p."
+}

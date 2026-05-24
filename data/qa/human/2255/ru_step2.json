@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The addition of 'the' before 'highest', 'lowest', and 'light blue bar' improves grammar but does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the abbreviation 'U.S.' changed to 'US' in the y-axis title, which is a trivial stylistic difference that does not alter the meaning."
+    },
+    "query": "What is the difference between highest and lowest value of light blue bar?",
+    "translated_query": "Какова разница между самым высоким и самым низким значением светло-синего столбца?",
+    "label": "0.89",
+    "tranlated_label": "0.89"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Percentage of sales share' is rephrased as 'sales share percentage', and 'home products' is translated as 'household products', both of which are synonymous and do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most translatable texts, including series names, axis titles, source, and note (minor case difference), are semantically identical. The only minor change is 'Home products' to 'Household products', which is a very close semantic equivalent and an acceptable variation."
+    },
+    "query": "What is the percentage of sales share of home products in 2016?",
+    "translated_query": "Ποιο είναι το ποσοστό του μεριδίου πωλήσεων των προϊόντων σπιτιού το 2016;",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

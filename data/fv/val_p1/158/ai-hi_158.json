@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "ऑस्ट्रेलिया",
+            "value": 208
+        },
+        {
+            "category": "न्यूज़ीलैंड",
+            "value": 197
+        },
+        {
+            "category": "संयुक्त राज्य अमेरिका",
+            "value": 192
+        },
+        {
+            "category": "शंघाई चीन",
+            "value": 125
+        },
+        {
+            "category": "यूरोपीय संघ",
+            "value": 102
+        }
+    ],
+    "texts": {
+        "title": "नए आवासों का औसत फ़्लोर एरिया (m²)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "bar_color": [
+            "#c5966d"
+        ],
+        "background_color": "#1b5e39",
+        "text_color": "#FFFFFF",
+        "bar_label_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

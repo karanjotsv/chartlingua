@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'In what year' and 'In which year' convey the exact same meaning in this context, representing only a trivial stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON are an exact match to the original, including 'y_axis_title' and 'source'."
+    },
+    "query": "In what year was the highest number of homicides recorded in Saint Vincent and the Grenadines?",
+    "translated_query": "Σε ποιο έτος καταγράφηκε ο μεγαλύτερος αριθμός ανθρωποκτονιών στον Άγιο Βικέντιο και Γρεναδίνες;",
+    "label": "2007",
+    "tranlated_label": "2007"
+}

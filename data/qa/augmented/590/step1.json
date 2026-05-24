@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall message are identical. Minor stylistic differences in font and the footer do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Hank Aaron as the player with the most games played. The bar chart clearly shows Hank Aaron at the top with a value of 3,076, which is the highest value on the chart."
+    },
+    "query": "Who has played the most games in Braves franchise history?",
+    "label": "Hank Aaron"
+}

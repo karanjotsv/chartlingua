@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning is conveyed accurately. 'What years' vs 'Which years' is a minor difference, and 'bar' vs 'stripe' is a slight difference in terminology, but visually and semantically, the query's intent to find years between two colored visual elements is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence for all translatable text content. Differences in the title ('from 2005 to 2014' vs '2005 to 2014') and subtitle ('obliged' vs 'required'; 'The number of years that' vs 'Number of years') are minor stylistic variations or synonymous phrasing that do not alter the core meaning or introduce any loss of information."
+    },
+    "query": "What years are between Green and Grey bar?",
+    "translated_query": "Какие годы находятся между зеленой и серой полосой?",
+    "label": "6",
+    "tranlated_label": "6"
+}

@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Landwirtschaft",
+            "Haushaltsdienste",
+            "Bauwesen",
+            "Gastronomie und...",
+            "Bekleidung",
+            "Bergbau",
+            "Allgemeine Arbeit",
+            "Nicht näher bezeichnet"
+        ],
+        "series": [
+            {
+                "name": "Männlich",
+                "data": [
+                    104,
+                    8,
+                    25,
+                    6,
+                    0,
+                    14,
+                    23,
+                    2
+                ]
+            },
+            {
+                "name": "Weiblich",
+                "data": [
+                    0,
+                    33,
+                    0,
+                    0,
+                    6,
+                    0,
+                    0,
+                    146
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Diagrammtitel",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4472C4",
+        "#ED7D31"
+    ]
+}

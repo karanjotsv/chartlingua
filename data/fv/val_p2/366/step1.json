@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately represents the same data values, categories, title, and axis labels. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart displays the number of recorded crimes for four different categories. The bar corresponding to 'ABH and other injury' is visibly the longest, extending further to the right than any other bar, which indicates it had the highest number of crimes."
+    },
+    "claim": "Among the recorded crimes in England and Wales, 2009-10, ABH and other injury was reported in highest numbers.",
+    "label": "TRUE"
+}

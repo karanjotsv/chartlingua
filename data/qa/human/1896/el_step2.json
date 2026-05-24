@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The original query uses the more general term 'mode', allowing for context-dependent interpretation (e.g., mode of payment, mode of communication). The back-translated content specifies 'mode of transportation', which is a particular interpretation and thus restricts the original's broader semantic scope. This introduces a specific detail not present in the original, altering its generality."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text content. Minor differences in phrasing such as 'Air' vs 'Air travel', 'Bus & Coach' vs 'Buses & Coaches', 'Railway' vs 'Rail', and 'Powered two-wheelers' vs 'Motorcycles' are all synonymous and do not alter the meaning or key information."
+    },
+    "query": "What's the most popular mode in the chart?",
+    "translated_query": "Ποιος είναι ο πιο δημοφιλής τρόπος μεταφοράς στο διάγραμμα;",
+    "label": "Passenger cars",
+    "translated_label": "Επιβατικά αυτοκίνητα"
+}

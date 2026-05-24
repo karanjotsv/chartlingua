@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, axes, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays an 'Assessment of Land Value' with data in square feet for different land area categories. The claim is about the Wikipedia Mobile App Explore feed in India. The chart contains no information about Wikipedia, India, or content feeds, making it impossible to support the claim."
+    },
+    "claim": "In India, more than trending, top read is given importance in the Wikipedia Mobile App Explore feed.",
+    "label": "TRUE"
+}

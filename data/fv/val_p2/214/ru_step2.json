@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning and all key information of the original claim. Differences are only minor stylistic variations ('Domestic Services' vs 'domestic services', 'than Police' vs 'than in the police') which do not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are identical or highly synonymous (e.g., 'Food & Lodging' to 'Food and Accommodation', 'Furniture/Decoration' to 'Furniture/Decor'). The title's 'Amount of People' to 'Number of people' is a minor stylistic difference. The only minor semantic generalization is 'Thatcher' becoming 'Roofer', which is still accurate but less specific."
+    },
+    "claim": "In 1881, more people worked in Domestic Services than Police in Preston-next-Wingham.",
+    "translated_claim": "В 1881 году в сфере домашних услуг работало больше людей, чем в полиции, в Престон-некст-Уингем."
+}

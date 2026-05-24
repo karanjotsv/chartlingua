@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The phrasing 'Belize's population' and 'the population of Belize' are stylistically different but convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in translatable text ('growth' vs 'increase' in y_axis_title) is purely synonymous and does not alter the meaning. Other text elements are identical."
+    },
+    "query": "How much did Belize's population increase in 2019?",
+    "translated_query": "Πόσο αυξήθηκε ο πληθυσμός του Μπελίζ το 2019;",
+    "label": "1.88",
+    "tranlated_label": "1.88"
+}

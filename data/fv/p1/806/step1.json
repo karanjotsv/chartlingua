@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text content (including title and axis labels), and color associations are correctly reproduced. The overall message and key trends are identical to the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis labels are long and overlap significantly, making them very difficult to read and distinguish from one another."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that in the 'Agriculture' category, there were 50 males (indicated by the blue bar) and zero females (indicated by the absence of an orange bar), which directly contradicts the claim."
+    },
+    "claim": "More females than males worked in agriculture in Belstead in 1881.",
+    "label": false
+}

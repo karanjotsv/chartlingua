@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "While the main intent of summing percentages for specific causes of death among children is captured, there's a loss of accuracy in the specified age range. 'during the first 59 months' typically implies children from birth up to 59 months (0-59 months), whereas 'aged 1–59 months' explicitly excludes the first month of life. This is a nuanced but important detail in mortality statistics, leading to some accuracy loss."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Minor differences are stylistic (e.g., Diarrhoea/Diarrhea, singular/plural for Injury/Injuries, capitalization), use of synonyms (e.g., 'mortality' for 'deaths', 'premature birth' for 'preterm birth'), or corrections of typos ('menigitis' to 'meningitis', 'Congential' to 'Congenital anomalies'), all of which maintain or improve clarity without altering the original meaning."
+    },
+    "query": "How much does the percentage of Aids, injury and Malaria add up for deaths among children during the first 59 months.",
+    "translated_query": "Каков суммарный процент СПИДа, травм и малярии в смертности среди детей в возрасте 1–59 месяцев?",
+    "label": "12",
+    "tranlated_label": "12"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axes, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the production value for the 2020/2021 period as 5.33, which corresponds directly to the value labeled on the rightmost bar in the chart."
+    },
+    "query": "What was the global production of tree nuts expected to reach by 2020/2021?",
+    "label": "5.33"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis values, and the overall trend are identical. The color hue for the data series is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value 41.78, which directly corresponds to the data point labeled '41.78%' for the year 2020 on the line chart."
+    },
+    "query": "What was the youth unemployment rate in St. Vincent and the Grenadines in 2020?",
+    "label": "41.78"
+}

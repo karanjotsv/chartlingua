@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, categories, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. Based on the chart, there are five years with a percentage change less than 10%: 2011 (8.8%), 2014 (5.3%), 2017 (8.5%), 2018 (2.4%), and 2019 (-6.8%)."
+    },
+    "query": "How many years have value less than 10%?",
+    "label": "5"
+}

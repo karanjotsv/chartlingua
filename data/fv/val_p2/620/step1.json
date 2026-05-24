@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, legend labels, and color hues are all consistent with the original. The overall message of one category overwhelmingly dominating the others is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that White people are a minority group. However, the pie chart clearly shows that the 'White' category, represented by the large blue slice, constitutes the vast majority of the whole, while all other listed ethnicities are represented by very small slices, making them the minorities."
+    },
+    "claim": "White people are the minorities groups within Chattisham.",
+    "label": "FALSE"
+}

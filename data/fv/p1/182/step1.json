@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, titles, and color hues are consistent with the original. The overall message and data proportions are identical. The only major difference is the stylistic choice of a 2D versus a 3D pie chart, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that the 'Professional' occupation category, represented by the orange slice, corresponds to the number 342, which directly supports the claim."
+    },
+    "claim": "342 woodmancote residents were in professional occupations.",
+    "label": true
+}

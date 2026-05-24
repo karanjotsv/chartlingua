@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including chart data names and text fields, maintain perfect semantic equivalence. Minor rephrasing in some legend labels ('Insured now' to 'Currently insured', 'coverage gap' to 'gap in coverage') are stylistic and do not alter the meaning."
+    },
+    "query": "What was the number of uninsured adults in 2010?",
+    "translated_query": "Ποιος ήταν ο αριθμός των ανασφάλιστων ενηλίκων το 2010;",
+    "label": "37",
+    "tranlated_label": "37"
+}

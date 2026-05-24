@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart accurately reproduces the data proportions and color hues for each pie slice. However, it fails to display most of the category labels that are present in the original (e.g., Symbian, Windows Mobile), making it impossible to identify what most slices represent. Only 'iOS' is clearly labeled. This is a significant loss of key semantic information.",
+        "has_visual_flaws": true,
+        "flaw_reason": "Most of the category labels are rendered as black text on a black background, which makes them completely unreadable and severely hinders the chart's interpretation."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the market share of different operating systems, but most of the slices are not labeled. The largest slice, which represents the biggest share, is not identified. The name 'SYMBIAN' does not appear anywhere on the chart, making it impossible to verify the claim based on the provided visual information."
+    },
+    "claim": "SYMBIAN operating system had the largest share of smartphone sales in 2009 Q2.",
+    "label": "TRUE"
+}

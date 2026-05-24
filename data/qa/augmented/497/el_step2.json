@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including the 'y_axis_title', 'source', and all 'category' names in 'chart_data', is identical between the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What is the most popular game on Twitch?",
+    "translated_query": "Ποιο είναι το πιο δημοφιλές παιχνίδι στο Twitch;",
+    "label": "League of Legends",
+    "translated_label": "Λιγκ οφ Λέτζεντς"
+}

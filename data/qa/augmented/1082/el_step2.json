@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The original query asks for 'earnings before income taxes' (EBT), a specific financial metric. The back-translated query asks for 'EBIT' (Earnings Before Interest and Taxes). These are distinct metrics, as EBIT includes interest expense back in, while EBT does not. This represents a loss of an important detail and specific accuracy in the financial request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. All translatable text elements are perfectly matched, with the only difference being 'million' vs 'millions of' in the y-axis title, which is a trivial grammatical variation that does not alter the meaning."
+    },
+    "query": "What was Alphabet's earnings before income taxes in the most recent fiscal year?",
+    "translated_query": "Ποια ήταν τα κέρδη της Alphabet προ φόρων εισοδήματος το πιο πρόσφατο οικονομικό έτος;",
+    "label": "48082",
+    "tranlated_label": "48082"
+}

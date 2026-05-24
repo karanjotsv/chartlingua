@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. 'Times' is acceptably replaced by 'cases', and 'are more than' by 'outnumber', without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most names and labels match semantically, with only minor acceptable variations such as 'Occupational Structure' becoming 'Professional structure' and slight rephrasing of some job categories like 'Associate Professional & Technical' to 'Junior professionals and technicians' and 'Skilled Trades' to 'Skilled workers'. The core meaning is well-preserved."
+    },
+    "claim": "The number of times that males are more than females is less than the number of times that females are more than males.",
+    "translated_claim": "Количество случаев, когда мужчин больше, чем женщин, меньше, чем количество случаев, когда женщин больше, чем мужчин."
+}

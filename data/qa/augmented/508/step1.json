@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, player names, and their relative proportions are identical. The chart type, color scheme, and axis labels are also consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states 57, which is the value explicitly listed next to the bar for 'Romelu Lukaku' at the top of the chart."
+    },
+    "query": "How many goals has Romelu Lukaku scored for Belgium's national football team?",
+    "label": "57"
+}

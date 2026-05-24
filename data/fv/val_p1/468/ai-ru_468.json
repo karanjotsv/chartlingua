@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_of_pie",
+    "main_pie_data": [
+        {
+            "label": "Тёмная энергия",
+            "value": 70
+        },
+        {
+            "label": "Тёмная материя",
+            "value": 25
+        },
+        {
+            "label": "Обычная материя",
+            "value": 4
+        }
+    ],
+    "secondary_pie_data": [
+        {
+            "label": "Звёзды",
+            "value": 0.5
+        },
+        {
+            "label": "Нейтрино",
+            "value": 0.3
+        },
+        {
+            "label": "Тяжёлые элементы",
+            "value": 0.03
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "main_pie": [
+            "#1F3D69",
+            "#6A9DD3",
+            "#B40D13"
+        ],
+        "secondary_pie": [
+            "#FFC000",
+            "#92D050",
+            "#26B5E3"
+        ]
+    }
+}

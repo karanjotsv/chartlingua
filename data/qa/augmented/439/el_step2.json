@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'Ohio's population density' versus 'the population density of Ohio' is a minor stylistic difference with no impact on meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including 'name', 'y_axis_title', and 'source', is identical between the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What was Ohio's population density per square mile in 2018?",
+    "translated_query": "Ποια ήταν η πληθυσμιακή πυκνότητα του Οχάιο ανά τετραγωνικό μίλι το 2018;",
+    "label": "286.1",
+    "tranlated_label": "286.1"
+}

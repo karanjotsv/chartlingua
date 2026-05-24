@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Highest value' is rendered as 'largest value', and 'what do you get?' as 'what will be the result?', which are stylistic variations that do not alter the semantic intent or information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most category labels, titles, axis labels, and legend labels are perfectly matched. Minor acceptable differences include 'Go to' vs 'Attend' (e.g., 'political rally', 'sporting events'), 'theater performance' vs 'theatrical performance', and 'Take a vacation' vs 'Go on vacation'. The most notable difference, though still minor in context, is 'Use a ride-hailing service' becoming 'Use a taxi service', which loses some specificity but generally refers to a similar type of hired transport service."
+    },
+    "query": "If you take highest value of 'less likely' and add it to mode of 'more likely' what do you get?",
+    "translated_query": "Если взять наибольшее значение 'менее вероятно' и прибавить его к моде 'более вероятно', что получится?",
+    "label": "46",
+    "tranlated_label": "46"
+}

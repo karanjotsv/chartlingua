@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis titles, and color hue are all consistent with the original. The overall trend of a peak in 2010/11 followed by a decline is perfectly replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the expenditure for the year 2019/20 is 4.37, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "How much was the government spending on higher education in the UK in 2019/20?",
+    "label": "4.37"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the chart type, title, and most data points are correct, there is a significant data error for the 'Education' category. In the original, 'Education' has a higher value (approx. 13) than 'Real Estate Activities' (approx. 12), but in the rendered chart, this relationship is reversed ('Education' is approx. 11, 'Real Estate' is approx. 12), which alters the data's ranking and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information about the year 2011, nor does it list the 'manufacturing industry' as one of the categories. Therefore, the claim cannot be verified from the provided data."
+    },
+    "claim": "The workers in 2011 were in the manufacturing industry.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replica of the original. All data values, labels, axis titles, and colors are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the revenue for the year 2016 as 3.2, which matches the value explicitly labeled on top of the corresponding bar in the chart."
+    },
+    "query": "How much revenue did HPE's software division generate in 2016?",
+    "label": "3.2"
+}

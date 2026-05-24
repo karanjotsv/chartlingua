@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The data values, trend, axis labels, and color hue are all highly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the data is from the year 2012, but the x-axis of the chart clearly shows dates ranging from February 2010 ('Feb-10') to April 2011 ('Apr-11')."
+    },
+    "claim": " English Wikipedia edits are mentioned during Feb 10 to Apr 11 at the year 2012.",
+    "label": "FALSE"
+}

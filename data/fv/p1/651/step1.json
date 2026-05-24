@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data proportions, categories, and color-to-category assignments as the original. The addition of a descriptive title and the change from callout labels to a standard legend are stylistic improvements that do not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the breakdown of total seats held by each party across all provincial and territorial legislatures. It does not provide information about the number of provinces or territories in which each party holds seats. Therefore, the claim cannot be verified from the given data."
+    },
+    "claim": "The lowest number of provinces and territories are represented by the Liberal Party.",
+    "label": false
+}

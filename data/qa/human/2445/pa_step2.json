@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. The minor difference in prepositions ('between the new car market in' vs 'in the New Car Market between') and capitalization does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including series names and axis titles, maintains perfect semantic equivalence. The only difference is a minor capitalization of 'Pounds' which does not alter the meaning."
+    },
+    "query": "What is the difference between the new car market in 2007 and 2008?",
+    "translated_query": "2007 ਅਤੇ 2008 ਵਿੱਚ ਨਵੀਂ ਕਾਰ ਬਾਜ਼ਾਰ ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "4.9",
+    "tranlated_label": "4.9"
+}

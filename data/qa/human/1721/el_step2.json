@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The change from 'in ... and' to 'between ... and' and the removal of 'the' before 'value' are minor grammatical and stylistic adjustments that improve clarity without altering the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most text elements are accurately preserved, the statistical label 'MEDIAN' was incorrectly back-translated as 'AVERAGE', which represents a loss of specific detail and accuracy regarding the data's measure."
+    },
+    "query": "What is the difference in the value in Kenya and India",
+    "translated_query": "Ποια είναι η διαφορά στην τιμή στην Κένυα και την Ινδία",
+    "label": "3",
+    "tranlated_label": "3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, categories, axes, and the overall trend are all accurately replicated. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the values for 2010 and 2011 are the lowest. However, the bar chart clearly shows that the bars for 2010 and 2011 are the tallest, representing the highest values in the depicted period."
+    },
+    "claim": "In 2010 and 2011, number of citations to Q-Chem is in the lowest place in this chart.",
+    "label": false
+}

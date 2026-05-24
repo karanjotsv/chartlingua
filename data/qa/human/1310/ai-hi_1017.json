@@ -1,0 +1,82 @@
+{
+    "chart_data": [
+        {
+            "name": "चीन की आर्थिक शक्ति",
+            "x": [
+                2012,
+                2015,
+                2017,
+                2018
+            ],
+            "y": [
+                59,
+                50,
+                52,
+                58
+            ],
+            "text": [
+                "59",
+                "50",
+                "52",
+                "58"
+            ],
+            "textposition": [
+                "top center",
+                "bottom center",
+                "bottom center",
+                "top center"
+            ]
+        },
+        {
+            "name": "चीन की सैन्य शक्ति",
+            "x": [
+                2012,
+                2016,
+                2017,
+                2018
+            ],
+            "y": [
+                28,
+                37,
+                36,
+                29
+            ],
+            "text": [
+                "28",
+                "37",
+                "36",
+                "29"
+            ],
+            "textposition": [
+                "bottom center",
+                "top center",
+                "top center",
+                "bottom center"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>चीन की बढ़ती अर्थव्यवस्था को लेकर<br>अमेरिकी चिंता में फिर से वृद्धि</b>",
+        "subtitle": "<i>चीन के बारे में आपको क्या अधिक चिंतित करता है?</i>",
+        "source_and_note": "नोट: स्वैच्छिक श्रेणियां “दोनों” और “कोई नहीं” नहीं दिखाई गई हैं।<br>स्रोत: Spring 2018 Global Attitudes Survey. Q40.",
+        "logo": "<b>PEW RESEARCH CENTER</b>"
+    },
+    "annotations": [
+        {
+            "text": "<b>चीन की<br>आर्थिक<br>शक्ति</b>",
+            "x": 2014,
+            "y": 64,
+            "align": "center"
+        },
+        {
+            "text": "<b>चीन की<br>सैन्य<br>शक्ति</b>",
+            "x": 2014,
+            "y": 25,
+            "align": "center"
+        }
+    ],
+    "colors": [
+        "#8d9c50",
+        "#2077b2"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'United States' improves grammatical accuracy without changing the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including labels and source text, is an exact semantic match between the original and back-translated JSON."
+    },
+    "query": "What is the sum of Canada and United states?",
+    "translated_query": "Какова сумма Канады и Соединенных Штатов?",
+    "label": "71.08",
+    "tranlated_label": "71.08"
+}

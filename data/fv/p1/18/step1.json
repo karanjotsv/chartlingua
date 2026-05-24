@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color-to-series mappings are identical. The overall message and data representation are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart explicitly labels the Fiber (blue) portion for Clay as 19.399 TJ, which is numerically higher than the Fiber values for Glass (9.817 TJ) and Hemp (2.999 TJ)."
+    },
+    "claim": "Clay had the highest Fiber Energy total.",
+    "label": true
+}

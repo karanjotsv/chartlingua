@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Armată",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "Poliție",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "Guvern național",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "Lideri religioși",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "Sistem judiciar",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "Media",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Opinii preponderent pozitive despre Armată,<br>negative despre Media",
+        "subtitle": "<i>Ce fel de influență are/au ___ asupra modului<br>în care merg lucrurile în Turcia?</i>",
+        "source": "Sursa: Sondajul Global Attitudes din primăvara anului 2015, Q79a-f.",
+        "note": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Negativă",
+            "Pozitivă"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

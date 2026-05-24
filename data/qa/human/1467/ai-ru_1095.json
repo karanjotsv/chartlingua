@@ -1,0 +1,31 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Европа",
+            "value": 2.16
+        },
+        {
+            "category": "Франция",
+            "value": 1.93
+        },
+        {
+            "category": "Аргентина",
+            "value": 0.67
+        }
+    ],
+    "texts": {
+        "title": "Урожайность рапса, 1976",
+        "subtitle": "Средняя урожайность рапса, измеренная в тоннах на гектар.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_left": "Источник: Продовольственная и сельскохозяйственная организация ООН (ФАО)",
+        "source_right": "OurWorldInData.org/crop-yields • CC BY",
+        "data_label_suffix": " t"
+    },
+    "colors": [
+        "#8c6d9e",
+        "#d8327e",
+        "#29998a"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "name": "Democrats",
+            "x": [
+                22,
+                19,
+                33,
+                24,
+                23,
+                19,
+                18
+            ],
+            "y": [
+                "Green New Deal (US)",
+                "100% renewable energy",
+                "Public land renewable energy",
+                "Carbon tax (own state)",
+                "Carbon tax (US)",
+                "People \"worried\" (own state)",
+                "People \"worried\" (US)"
+            ]
+        },
+        {
+            "name": "Independents",
+            "x": [
+                3,
+                0,
+                0,
+                3,
+                3,
+                3,
+                3
+            ],
+            "y": [
+                "Green New Deal (US)",
+                "100% renewable energy",
+                "Public land renewable energy",
+                "Carbon tax (own state)",
+                "Carbon tax (US)",
+                "People \"worried\" (own state)",
+                "People \"worried\" (US)"
+            ]
+        },
+        {
+            "name": "Republicans",
+            "x": [
+                7,
+                5,
+                6,
+                9,
+                8,
+                7,
+                7
+            ],
+            "y": [
+                "Green New Deal (US)",
+                "100% renewable energy",
+                "Public land renewable energy",
+                "Carbon tax (own state)",
+                "Carbon tax (US)",
+                "People \"worried\" (own state)",
+                "People \"worried\" (US)"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Public's <b>underestimation</b> of support<br>for action against climate change",
+        "x_axis_title": "<i>Underestimated by:</i>",
+        "y_axis_title": null,
+        "source": null,
+        "legend_title": null
+    },
+    "colors": [
+        "#00BFFF",
+        "#D3D3D3",
+        "#FF0000"
+    ]
+}

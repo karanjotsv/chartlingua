@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The title, legend labels, color hues, and relative proportions of the pie slices for the categories listed in the legend are all highly consistent. The original chart appears to have more data series than its legend describes, and the rendered chart correctly visualizes only the data present in the legend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents six distinct categories of occupations for males in 1881, including 'Professionals', 'Commercial Occupations', and 'Agriculture', which directly confirms the claim that there was a diverse range of occupations."
+    },
+    "claim": "The pie chart of male occupations in 1881 shows a diverse range of occupations",
+    "label": true
+}

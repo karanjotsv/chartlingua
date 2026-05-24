@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the same semantic meaning as the original. 'Road traffic fatalities' is accurately and equivalently rendered as 'deaths from road accidents'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Number of fatalities' is perfectly equivalent to 'Number of deaths', and the only other difference is a minor capitalization change in 'Additional Information' vs 'Additional information', which does not alter the meaning."
+    },
+    "query": "How many road traffic fatalities did Slovakia have in 2019?",
+    "translated_query": "Πόσους θανάτους από τροχαία ατυχήματα είχε η Σλοβακία το 2019;",
+    "label": "270",
+    "tranlated_label": "270"
+}

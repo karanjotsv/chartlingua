@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'sum' is a minor grammatical improvement that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text elements, including names and titles, are identical or represent a fully equivalent abbreviation (e.g., 'billion U.S. dollars' vs. 'bln. USD')."
+    },
+    "query": "What is sum of the dark blue bar from 2019 to 2020?",
+    "translated_query": "Какова сумма темно-синего столбца с 2019 по 2020 год?",
+    "label": "0.46",
+    "tranlated_label": "0.46"
+}

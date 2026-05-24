@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Millennials gesamt (Alter 18-33)",
+            "Gen X gesamt (Alter 34-49)",
+            "Boomer gesamt (Alter 50-68)",
+            "Stille Generation gesamt (Alter 69-86)"
+        ],
+        "series": [
+            {
+                "name": "Dagegen",
+                "data": [
+                    27,
+                    38,
+                    45,
+                    50
+                ]
+            },
+            {
+                "name": "Dafür",
+                "data": [
+                    68,
+                    55,
+                    48,
+                    38
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297CDE",
+        "#1A2D3D"
+    ]
+}

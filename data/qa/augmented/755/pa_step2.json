@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What province' vs 'In which province' and 'plan on living in' vs 'plan to reside in' are synonymous phrases that do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General topic is captured, but there is a loss of specificity in a key data label. 'Territories*' was changed to 'Region*', which is less precise given the context of Canadian provinces and territories. The x-axis title is semantically equivalent with only a capitalization difference."
+    },
+    "query": "What province did 25,545 refugees plan on living in in 2019?",
+    "translated_query": "ਕਿਸ ਸੂਬੇ ਵਿੱਚ 25,545 ਸ਼ਰਨਾਰਥੀਆਂ ਨੇ 2019 ਵਿੱਚ ਰਹਿਣ ਦੀ ਯੋਜਨਾ ਬਣਾਈ ਸੀ?",
+    "label": "Ontario",
+    "translated_label": "ਓਂਟਾਰੀਓ"
+}

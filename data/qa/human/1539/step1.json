@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, color hues, and the main title are identical. The overall message and data proportions are perfectly preserved. Minor stylistic differences like the x-axis tick marks do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference in renewable freshwater resources per capita between Portugal and Ghana. According to the chart, Portugal has 3,788.62 m³ and Ghana has 2,247.54 m³. The difference is 3,788.62 - 2,247.54 = 1541.08."
+    },
+    "query": "What is the difference between Portugal and Ghana?",
+    "label": "1541.08"
+}

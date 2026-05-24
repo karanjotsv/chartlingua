@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "All data values, percentages, labels, title, and color hues are identical between the two charts. The core message and data representation are perfectly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the majority of electricity comes from nuclear power. A majority means more than 50%. The pie chart shows that nuclear power accounts for 38.6% of electricity generation, which is less than 50%."
+    },
+    "claim": "The majority of electricity generated in Pennsylvania comes from nuclear power.",
+    "label": "TRUE"
+}

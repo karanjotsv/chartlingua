@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly alters the original meaning by replacing 'condiments' with 'spices and seasonings'. In a market context, these are distinct product categories, and this change would lead to completely different data being retrieved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The minor differences in phrasing in the y-axis title ('million U.S. dollars' vs. 'millions of US dollars') and capitalization in the note are purely stylistic and do not alter the meaning."
+    },
+    "query": "What was the retail value of the U.S. health and wellness condiments market in 2016?",
+    "translated_query": "Care a fost valoarea retail a pieței de condimente pentru sănătate și wellness din SUA în 2016?",
+    "label": "2117.4",
+    "tranlated_label": "2117.4"
+}

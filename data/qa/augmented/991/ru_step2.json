@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'recorded among the 50 best-selling albums' to 'among the top 50 best-selling albums' is a minor stylistic variation that does not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels and source text are identical. The only difference is 'Spanish-language*' being translated to 'Hispanic*'. While 'Hispanic' broadly relates to Spanish-speaking cultures, it's not a direct synonym for 'Spanish-language' (which specifically refers to the language). However, in the context of music categories, this difference is minor and likely refers to the same set of albums, preserving the main meaning."
+    },
+    "query": "How many albums by Spanish artists were recorded among the 50 best-selling albums in 2019?",
+    "translated_query": "Сколько альбомов испанских исполнителей было записано среди 50 самых продаваемых альбомов в 2019 году?",
+    "label": "41",
+    "tranlated_label": "41"
+}

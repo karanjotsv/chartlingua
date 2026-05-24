@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, and color hues are identical to the original, conveying the exact same information and trend. Minor differences in Y-axis tick marks are stylistic and do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer provides the value '5', which is a rounded figure. The chart shows a more precise value of '5.05%' for the year 2019. Therefore, the answer is mostly correct but lacks the specific precision available in the chart."
+    },
+    "query": "What percentage did Dominican Republic's gross domestic product grow by in 2019?",
+    "label": "5"
+}

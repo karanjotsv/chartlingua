@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, proportions, labels, title, and overall trend are all identical. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart is titled 'United States Male Liquor Laws Arrests' and only displays data for males. It contains no information about arrests for females, making it impossible to support the claim's comparison. Additionally, the chart does not specify a year, while the claim refers to 2014."
+    },
+    "claim": "The number of liquor law arrests for females in the United States is high than for males in 2014.",
+    "label": false
+}

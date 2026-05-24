@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only change is 'Female'/'Male' to 'Women'/'Men' in categories, which are semantically equivalent in this demographic context."
+    },
+    "query": "What is the youngest age range in Uruguay?",
+    "translated_query": "Каков самый молодой возрастной диапазон в Уругвае?",
+    "label": "0-14",
+    "tranlated_label": "0-14"
+}

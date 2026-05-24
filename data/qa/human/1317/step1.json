@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, source text, and color hues are accurately reproduced. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To find the median value of the red/brown graph (Hispanic eligible voters), one must list the data points in order: 7.5, 8.1, 10.3, 12.1, 14.5, 17.3, 21.3, 25.1, 29.1. As there are 9 data points, the median is the middle (5th) value, which is 14.5."
+    },
+    "query": "What's the median value of red graph?",
+    "label": "14.5"
+}

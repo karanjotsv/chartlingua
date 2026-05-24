@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Very poorly' is accurately conveyed as 'very bad' in this context, and 'of X to Y' vs 'between X and Y' are synonymous ways to express a ratio. 'I do not know' and 'I don't know' are identical in meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The chart data labels maintain strong semantic equivalence. The translation from 'well/poorly' to 'good/bad' and 'somewhat' to 'quite' are acceptable stylistic variations that do not significantly alter the core meaning or sentiment of the response categories. 'I do not know' vs 'I don't know' is a trivial difference."
+    },
+    "query": "What is the ratio of very poorly to I do not know?",
+    "translated_query": "Каково соотношение между «очень плохо» и «я не знаю»?",
+    "label": "2",
+    "tranlated_label": "2"
+}

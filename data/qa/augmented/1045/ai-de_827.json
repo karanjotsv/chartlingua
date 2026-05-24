@@ -1,0 +1,66 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Europa",
+            "y": [
+                508.5,
+                537.6,
+                457.7,
+                452.0,
+                448.8
+            ]
+        },
+        {
+            "name": "Nordamerika",
+            "y": [
+                531.3,
+                509.5,
+                422.3,
+                371.3,
+                334.0
+            ]
+        },
+        {
+            "name": "Asien-Pazifik",
+            "y": [
+                147.9,
+                114.7,
+                64.3,
+                63.3,
+                78.0
+            ]
+        },
+        {
+            "name": "Rest der Welt",
+            "y": [
+                91.2,
+                91.2,
+                91.0,
+                76.3,
+                78.3
+            ]
+        }
+    ],
+    "categories": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Nettoumsatz in Millionen Euro",
+        "source": "© Statista 2021",
+        "note": "Zusätzliche Informationen"
+    },
+    "colors": [
+        "#297acc",
+        "#1c2e43",
+        "#cccccc",
+        "#b02828"
+    ]
+}

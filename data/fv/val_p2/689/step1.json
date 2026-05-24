@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, legend labels, and data proportions are identical. The color for one category changed from red to orange, but this is a minor hue shift that does not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the distribution between 'Males' and 'Females'. The orange slice representing 'Females' is visibly larger than the blue slice representing 'Males', which directly supports the claim that the value for females is greater than that for males."
+    },
+    "claim": "The reducing uncertainty of females is more than that of males.",
+    "label": "TRUE"
+}

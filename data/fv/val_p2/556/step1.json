@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all text elements, data values, category labels, and color hues from the original. The proportions of the pie slices are visually consistent, conveying the same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value for 'Total Aid' is $10.90 billion, but the pie chart explicitly labels the value for 'Total Aid' as $79.50 billion."
+    },
+    "claim": "Total Aid holds the amount in USD billion dollars as $10,90 in pie chart.",
+    "label": "FALSE"
+}

@@ -1,0 +1,53 @@
+{
+    "chart_type": "line_dual_axis",
+    "chart_data": [
+        {
+            "category": "25-34",
+            "series_1_value": 615,
+            "series_2_value": 13.0
+        },
+        {
+            "category": "35-44",
+            "series_1_value": 660,
+            "series_2_value": 10.5
+        },
+        {
+            "category": "45-54",
+            "series_1_value": 600,
+            "series_2_value": 9.5
+        },
+        {
+            "category": "55-64",
+            "series_1_value": 560,
+            "series_2_value": 8.0
+        },
+        {
+            "category": "65-74",
+            "series_1_value": 520,
+            "series_2_value": 6.5
+        },
+        {
+            "category": "75-84",
+            "series_1_value": 450,
+            "series_2_value": 6.0
+        },
+        {
+            "category": "85-100",
+            "series_1_value": 375,
+            "series_2_value": 5.0
+        }
+    ],
+    "texts": {
+        "title": "Testosterone Levels By Age",
+        "x_axis_title": "Age",
+        "y_axis_1_title": "ng/dL",
+        "y_axis_2_title": "ng/dL",
+        "series_1_label": "Total Testosterone",
+        "series_2_label": "Free Testosterone",
+        "source": "Source: Vermeulen, A. (1996). Declining androgens with age: An Overview."
+    },
+    "colors": [
+        "#2E75B5",
+        "#5CB8B2"
+    ]
+}

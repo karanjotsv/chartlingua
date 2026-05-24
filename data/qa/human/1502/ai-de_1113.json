@@ -1,0 +1,64 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Rinder",
+            "value": 40.7
+        },
+        {
+            "category": "Ölsaaten",
+            "value": 18.4
+        },
+        {
+            "category": "Forstwirtschaftlicher Holzeinschlag",
+            "value": 13.1
+        },
+        {
+            "category": "Anderes Getreide (außer Reis & Weizen)",
+            "value": 8.6
+        },
+        {
+            "category": "Gemüse, Obst & Nüsse",
+            "value": 7.3
+        },
+        {
+            "category": "Nassreis",
+            "value": 5.6
+        },
+        {
+            "category": "Andere Nutzpflanzen",
+            "value": 3.6
+        },
+        {
+            "category": "Zuckerrohr/-rüben",
+            "value": 1.1
+        },
+        {
+            "category": "Weizen",
+            "value": 1.0
+        },
+        {
+            "category": "Pflanzliche Fasern",
+            "value": 0.5
+        }
+    ],
+    "texts": {
+        "title": "Anteil der tropischen Entwaldung durch landwirtschaftliche Produkte",
+        "subtitle": "Gemessen als Durchschnitt für den Zeitraum 2010 bis 2014.",
+        "source": "Quelle: Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions.<br>OurWorldInData.org/forests • CC BY",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#c96464",
+        "#c59b53",
+        "#7aa176",
+        "#6c7a89",
+        "#62998a",
+        "#8c8c8c",
+        "#7d7499",
+        "#c98a83",
+        "#c4b86b",
+        "#d3d3d3"
+    ]
+}

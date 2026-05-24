@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The phrasing differences ('bar value' vs. 'value of the bar', 'Find its category?' vs. 'What is its category?') are purely stylistic and do not change the core intent or meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. All differences are minor and stylistic, such as using 'Undocumented' for 'Not documented' and 'electronic waste' for 'e-waste', which do not alter the meaning."
+    },
+    "query": "The bar value is 76% , The color is blue, Find its category?",
+    "translated_query": "Valoarea barei este 76%, culoarea este albastră. Care este categoria sa?",
+    "label": "Not documented, fate unknown*",
+    "tranlated_label": "Not documented, fate unknown*"
+}

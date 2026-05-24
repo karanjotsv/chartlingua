@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data proportions, text labels (both in the legend and below the chart), and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Coastal Disaster Relief had the minimum expenditure, but the pie chart visually shows that the slice representing Coastal Disaster Relief is the largest, indicating it had the maximum expenditure among the four categories shown."
+    },
+    "claim": "Coastal Disaster Relief had the minimum amount of Expenditure due to climate change across four program areas of US federal activity.",
+    "label": false
+}

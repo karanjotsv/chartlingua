@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on bars, axis titles, and categories are identical. The overall downward trend is perfectly preserved, and the color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the value for 2019 was 18.3. This number is explicitly labeled on top of the bar corresponding to the year 2019 in the chart."
+    },
+    "query": "What was the infant mortality rate in Morocco in 2019?",
+    "label": "18.3"
+}

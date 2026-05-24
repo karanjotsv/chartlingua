@@ -1,0 +1,46 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "title": "Requests",
+            "labels": [
+                "Images",
+                "Audio",
+                "HTML",
+                "Other"
+            ],
+            "values": [
+                3,
+                6,
+                55,
+                36
+            ]
+        },
+        {
+            "title": "KB",
+            "labels": [
+                "Images",
+                "Audio",
+                "HTML",
+                "Other"
+            ],
+            "values": [
+                1,
+                12,
+                55,
+                32
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Requests and KB per data type served on Commons main page",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#660099",
+        "#990033",
+        "#FFFF99",
+        "#CCFFFF"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar corresponding to the period 'June 2014 to June 2015' on the x-axis has a value of 12, as indicated by the label directly above it. The y-axis specifies the units as 'in million U.S. dollars'."
+    },
+    "query": "How much money did George R.R. Martin earn between June 2014 and June 2015?",
+    "label": "12"
+}

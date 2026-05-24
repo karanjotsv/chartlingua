@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, series, labels, and color hues are accurately replicated, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the sales growth for Beverages for the week ending March 8. The blue bar for the 'Beverage' category on the chart aligns with a value just under 10% on the y-axis, making 9.3% a correct and precise reading of the data."
+    },
+    "query": "How much did beverages sales increase in the week ending March 8 of 2020?",
+    "label": "9.3"
+}

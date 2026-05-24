@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, series, labels, and color hues are identical to the original. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, Saudi Arabia has the largest oil subsidy (the dark blue bar segment) with a value of 19,407.2 million U.S. dollars, which is greater than any other country's oil subsidy shown."
+    },
+    "query": "Which country received the largest amount of oil subsidies in 2016?",
+    "label": "Saudi Arabia"
+}

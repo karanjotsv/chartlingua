@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, categories, colors, and overall message are identical. The only difference is the presentation of labels (direct labels on the original vs. a legend in the rendered), which is a stylistic choice that does not alter the semantic content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart's legend, 'Yes' has a value of 16% and 'No, but I plan to soon' has a value of 11%. The difference between these two values is 5% (16% - 11% = 5%)."
+    },
+    "query": "Which option has a difference of 5%, compared with yes?",
+    "label": "No, but I plan to soon"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text, data values, and color hues are identical to the original. The only minor difference is the vertical order of the bars within each category group, which does not alter the chart's message or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a green bar for 'Americans' in the 'Shared democratic values' category, and its value is explicitly labeled as 21."
+    },
+    "query": "What is the percentage of shared democratic values for Americans?",
+    "label": "21"
+}

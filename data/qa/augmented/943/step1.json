@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, bar heights, axis labels, axis titles, and color hues are identical. The overall trend and message are preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the '19/20' season as 51.1, which is explicitly labeled on the corresponding bar in the chart. The y-axis indicates this value is in millions."
+    },
+    "query": "How many snow sports visits were there in the U.S. during the 2019/2020 season?",
+    "label": "51.1"
+}

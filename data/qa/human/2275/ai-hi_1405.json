@@ -1,0 +1,104 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "category": "निमोनिया",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "समय से पहले जन्म की जटिलताएँ",
+            "values": [
+                2,
+                16
+            ]
+        },
+        {
+            "category": "प्रसवकालीन घटनाएँ",
+            "values": [
+                1,
+                11
+            ]
+        },
+        {
+            "category": "सेप्सिस या मेनिनजाइटिस",
+            "values": [
+                2,
+                7
+            ]
+        },
+        {
+            "category": "जन्मजात",
+            "values": [
+                4,
+                5
+            ]
+        },
+        {
+            "category": "अन्य",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "एड्स",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "डायरिया",
+            "values": [
+                8,
+                0.3
+            ]
+        },
+        {
+            "category": "टेटनस",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "मलेरिया",
+            "values": [
+                5,
+                0
+            ]
+        },
+        {
+            "category": "चोट",
+            "values": [
+                6,
+                1
+            ]
+        },
+        {
+            "category": "खसरा",
+            "values": [
+                2,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "मृत्यु के कारणों का वितरण",
+        "legend_titles": [
+            "1-59 महीने की उम्र के बच्चों में मौतें (53%)",
+            "नवजात मृत्यु (47%)"
+        ],
+        "source": "© स्टेटिस्टा 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1F384D"
+    ]
+}

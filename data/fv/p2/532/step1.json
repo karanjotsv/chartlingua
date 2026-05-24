@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the data values, trend, title, axis labels, and color. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the highest debt as a percentage of GDP was in 2014, but the bar chart clearly shows that the value for 2015 is higher than the value for 2014."
+    },
+    "claim": "The UK had the highest debt as a percentage of GDP in 2014.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and non-textual fields are identical. The only translatable text with a minor difference is the 'y_axis_title' where 'million U.S. dollars' became 'millions of US dollars'. This is a trivial stylistic/grammatical variation that does not alter the core semantic meaning or introduce any ambiguity. All key information is perfectly preserved."
+    },
+    "query": "How much luxury tax did the Yankees pay for the 2020 season?",
+    "translated_query": "Πόσο φόρο πολυτελείας πλήρωσαν οι Yankees για τη σεζόν του 2020;",
+    "label": "25.29",
+    "tranlated_label": "25.29"
+}

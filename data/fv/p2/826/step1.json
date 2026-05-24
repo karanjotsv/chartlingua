@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly shows a slice for 'Mozilla Firefox' with a market share of 21.76%, which confirms the claim that Firefox had a market share."
+    },
+    "claim": " Firefox had a market share in the time period .",
+    "label": "TRUE"
+}

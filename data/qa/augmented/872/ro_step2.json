@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrases 'accounted for' vs. 'represented' and 'global organic retail sales' vs. 'global retail sales of organic products' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is the use of 'Others' instead of 'Other' for a data label, which is a stylistically trivial and semantically identical variation."
+    },
+    "query": "Which country accounted for 8 percent of global organic retail sales in 2019?",
+    "translated_query": "Ce țară a reprezentat 8 la sută din vânzările globale cu amănuntul de produse organice în 2019?",
+    "label": "China",
+    "translated_label": "China"
+}

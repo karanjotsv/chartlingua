@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall trend are identical. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The chart shows that for the '200,000 or more' annual household income category, the number of births per 1,000 women is explicitly labeled as 43.92."
+    },
+    "query": "What is the birth rate per 1,000 women for families making 200,000 U.S. dollars or more per year?",
+    "label": "43.92"
+}

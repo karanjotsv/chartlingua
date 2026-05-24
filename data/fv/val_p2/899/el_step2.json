@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'ABH' is correctly expanded to 'Actual bodily harm', and other minor differences like 'Injury' vs 'injuries' or '2009-2010' vs 'in 2009-2010' are stylistic or trivial and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Abbreviations like 'ABH' and 'GBH' were correctly expanded. The term 'wounding' was translated as 'injury' in some categories, which is a minor lexical variation but retains the core meaning of harm, though 'wounding' can have a specific legal connotation that 'injury' might slightly generalize."
+    },
+    "claim": "ABH & Other Injury was the highest recorded crime in England & Wales 2009-2010.",
+    "translated_claim": "Η πραγματική σωματική βλάβη και άλλοι τραυματισμοί ήταν το υψηλότερο καταγεγραμμένο έγκλημα στην Αγγλία και την Ουαλία το 2009-2010."
+}

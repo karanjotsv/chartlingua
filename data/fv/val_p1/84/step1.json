@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the title, data values, slice proportions, category labels, and color-to-category assignments from the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the population distribution of the Mandalay Region, and the slice representing NyaungU has a value of 4%, which is the lowest percentage among all the listed areas."
+    },
+    "claim": "The Mandalay region of NyaungU has the smallest population.",
+    "label": true
+}

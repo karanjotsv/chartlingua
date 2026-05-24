@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, and color assignments are identical to the original. The overall message is preserved without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there is equality between authorized military and authorized civilian portions, but the chart clearly shows that authorized civilians constitute 35% of the total, while authorized military personnel constitute only 9%."
+    },
+    "claim": "The chart shows equality in authorized military and authorized civilians portions.",
+    "label": "FALSE"
+}

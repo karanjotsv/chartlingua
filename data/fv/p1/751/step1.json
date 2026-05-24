@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, legend categories, and color hues are all highly consistent with the original. The addition of a title provides context without altering the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays the representation of Francophones and Anglophones in the Public Service of Canada in Quebec from 1978 to 2007. Throughout this entire period, the line representing Francophones is consistently above 90%, while the line for Anglophones remains below 10%. This significant and persistent disparity in representation directly supports the claim."
+    },
+    "claim": "Public service in Quebec favors Francophones above Anglophones.",
+    "label": true
+}

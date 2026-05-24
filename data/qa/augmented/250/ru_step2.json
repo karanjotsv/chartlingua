@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average ticket price in the 2006/07 season?",
+    "translated_query": "Какова была средняя цена билета в сезоне 2006/07?",
+    "label": "54.62",
+    "tranlated_label": "54.62"
+}

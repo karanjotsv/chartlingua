@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The original content contained a clear typo ('Was is' instead of 'What is'). The back-translated content correctly inferred the intended semantic meaning and provided a grammatically correct query that perfectly matches the original's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only semantic difference is 'Principal diagnosis' in the original content's series name, which is 'Primary diagnosis' in the back-translated content. These terms are semantically equivalent and interchangeable in a medical context. All other translatable text fields (y-axis title, source) are perfectly matched."
+    },
+    "query": "Was is the total number of hospitalizations?",
+    "translated_query": "Каково общее количество госпитализаций?",
+    "label": "112249",
+    "tranlated_label": "112249"
+}

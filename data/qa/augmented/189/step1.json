@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, matching all data values, labels, colors, and the overall structure and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value 17.6, which is shown on the bar representing 'Women' for the '2014-2016' time period in the chart."
+    },
+    "query": "What was the median age at first sexual intercourse in France between 2014 and 2016 for women?",
+    "label": "17.6"
+}

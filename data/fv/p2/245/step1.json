@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly identifies the title, axes, and categories, and maintains the same color scheme. However, there are several significant data value discrepancies for specific years (e.g., 2002, 2003, 2007, 2012, 2013), which alters the year-to-year patterns and relative highs and lows, even though the broad overall trend is somewhat similar.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart visually represents the annual tonnage for each year from 1996 to 2015. The bar corresponding to the year 2013 is visibly the shortest among all the bars, indicating it had the lowest annual tonnage in the period shown."
+    },
+    "claim": "The year 2013 shows the least annual tonnage.",
+    "label": "TRUE"
+}

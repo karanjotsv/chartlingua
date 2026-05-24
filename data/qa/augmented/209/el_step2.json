@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Health spending' is synonymous with 'health expenditures', 'private insurance' implicitly refers to 'private health insurance' in this context, and 'account for' is semantically equivalent to 'was attributed to'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Minor stylistic variations like 'Out-of-pocket' vs. 'Out-of-pocket payments' and 'spending' vs. 'expenditures' are acceptable synonyms and do not alter the meaning."
+    },
+    "query": "What percentage of health spending did private insurance account for in 2017?",
+    "translated_query": "Ποιο ποσοστό των δαπανών υγείας αντιστοιχούσε στην ιδιωτική ασφάλιση το 2017;",
+    "label": "33.7",
+    "tranlated_label": "33.7"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart maintains the same categories, text, and color assignments. The two largest slices (Prairie and Oak-Hickory Savanna) have similar proportions to the original. However, the order of all the slices around the circle is completely different, and the relative proportions of the smaller slices appear to have changed, indicating a significant data representation error.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is text overlap in the source information at the bottom of the chart, where the 'Accessed by' line is printed on top of the 'Available online at' line."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually indicates that the slice representing 'Prairie' (colored yellow) constitutes more than 50% of the total area, which aligns with the claim."
+    },
+    "claim": "More than half of the native vegetation in Audubon County, Iowa is Prairie.",
+    "label": "TRUE"
+}

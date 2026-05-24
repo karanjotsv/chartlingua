@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, error bars, categories, text labels, and color assignments are all consistent. The overall message about the increase of DMFT and DMFS with age is conveyed identically.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on dental health metrics (DMFT and DMFS) across different age groups. The claim is about the number of railways in operation from 1890 to 1910. The chart contains no information about railways or this time period."
+    },
+    "claim": "The number of railways in operation expanded from 1890 to 1910.",
+    "label": "TRUE"
+}

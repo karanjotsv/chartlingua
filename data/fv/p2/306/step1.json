@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content, and color hues are identical to the original. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there are 10 significant browsers, but the pie chart only explicitly names 6 browsers (Chrome, I.E., Firefox, Safari, Android, Opera) and one composite category (\"Other\"). There is no information in the chart to support the number 10."
+    },
+    "claim": "There are 10 significant browsers in usage on Wikimedia at August 2012.",
+    "label": "FALSE"
+}

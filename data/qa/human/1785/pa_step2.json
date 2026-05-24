@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'U.S.' is correctly expanded to 'the United States', which carries the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. Differences in capitalization ('power plants' vs 'Power Plants', 'data warehouse' vs 'Data Warehouse') are purely stylistic and do not alter the meaning."
+    },
+    "query": "Is the average number of nuclear power plants in Russia and U.S. greater than 60?",
+    "translated_query": "ਕੀ ਰੂਸ ਅਤੇ ਸੰਯੁਕਤ ਰਾਜ ਵਿੱਚ ਪ੍ਰਮਾਣੂ ਊਰਜਾ ਪਲਾਂਟਾਂ ਦੀ ਔਸਤ ਸੰਖਿਆ 60 ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

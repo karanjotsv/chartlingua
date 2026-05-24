@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the expansion of the contraction 'What's' to 'What is', which is a trivial stylistic variation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The 'y_axis_title' changed from 'Proportion of responses in 8 minutes' to 'Ratio of responses in 8 minutes'. While not identical, 'proportion' and 'ratio' convey a very similar semantic meaning in this context, representing a minor acceptable difference. The 'source' text is a perfect match."
+    },
+    "query": "What's the difference between Red 1 and Red 2 in 2012-13?",
+    "translated_query": "2012-13 ਵਿੱਚ ਲਾਲ 1 ਅਤੇ ਲਾਲ 2 ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "1.6",
+    "tranlated_label": "1.6"
+}

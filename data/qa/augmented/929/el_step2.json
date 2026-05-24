@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, showing perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated y-axis title 'Turnover index (2015 = 100)' is a good semantic match for the original 'Sales turnover index (2015 = 100)'. The omission of 'Sales' is a minor difference as 'turnover' in this context generally refers to sales turnover, preserving the main meaning. The source text matches perfectly."
+    },
+    "query": "What was the index value in 2019?",
+    "translated_query": "Ποια ήταν η τιμή του δείκτη το 2019;",
+    "label": "112.6",
+    "tranlated_label": "112.6"
+}

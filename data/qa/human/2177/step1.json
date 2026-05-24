@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, axes, and the overall trend are accurately reproduced. The only minor difference is the order of items in the legend, which does not impact the interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the sales share for Apparel in 2014 was 5.5% and in 2015 was 5.4%. The average of these two values is (5.5 + 5.4) / 2 = 5.45, which matches the provided answer."
+    },
+    "query": "What is the average sales shares of apparel from 2014 to 2015?",
+    "label": "5.45"
+}

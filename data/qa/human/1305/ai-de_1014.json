@@ -1,0 +1,41 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Enge Beziehungen zu den USA",
+            "display_label": "<b>Enge Beziehungen<br>zu den USA</b><br>57%",
+            "value": 57,
+            "text_color": "#FFFFFF"
+        },
+        {
+            "hover_label": "Gleich enge Beziehungen (FREIW.)",
+            "display_label": "<b>Gleich<br>enge Beziehungen<br>(FREIW.)</b><br>21%",
+            "value": 21,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Enge Beziehungen zu Russland",
+            "display_label": "<b>Enge<br>Beziehungen zu<br>Russland</b><br>15%",
+            "value": 15,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Weiß nicht",
+            "display_label": "<b>7%</b>",
+            "value": 7,
+            "text_color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": "<b>Deutsche: Mehrheit bevorzugt<br>enge Beziehungen zu den USA</b>",
+        "subtitle": "<i>Was ist für Deutschland wichtiger –<br>enge Beziehungen zu den USA oder<br>enge Beziehungen zu Russland?</i>",
+        "source": "Quelle: Umfrage des Pew Research Center von 2015.<br><b>PEW RESEARCH CENTER</b>",
+        "annotation_label": "<b>Weiß<br>nicht</b>"
+    },
+    "colors": [
+        "#8E9F55",
+        "#E0E0D1",
+        "#BCC69C",
+        "#EFF0E6"
+    ]
+}

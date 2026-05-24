@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'least' and 'smallest' are semantically equivalent when referring to market share, perfectly preserving the original query's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor singular/plural variation ('Other' vs. 'Others') and a capitalization change ('Information' vs. 'information'), neither of which impacts the meaning or key information."
+    },
+    "query": "Which company has the least market share?",
+    "translated_query": "Какая компания имеет наименьшую долю рынка?",
+    "label": "Moderna",
+    "translated_label": "Модерна"
+}

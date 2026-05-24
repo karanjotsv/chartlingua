@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and literal match of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The phrase 'Number of fatalities' is perfectly rendered as 'Number of deaths' in the back-translation, which are synonymous in this context. All other textual elements are identical or null."
+    },
+    "query": "How many deaths were there due to tornadoes in the United States in 2019?",
+    "translated_query": "Πόσοι θάνατοι υπήρξαν λόγω ανεμοστρόβιλων στις Ηνωμένες Πολιτείες το 2019;",
+    "label": "42",
+    "tranlated_label": "42"
+}

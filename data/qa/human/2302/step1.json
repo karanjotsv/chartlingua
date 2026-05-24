@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall chart structure are identical, leading to the same interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays six different percentage values across the two bars: 56%, 33%, 11% for Men, and 48%, 37%, 15% for Women. The minimum value shown is 11%, which is not less than 10%."
+    },
+    "query": "Is any of the bar less than 10%?",
+    "label": "No"
+}

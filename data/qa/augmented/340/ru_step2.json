@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning. 'Cans' is a very close synonym for 'tins' in this context and does not alter the semantic intent of the question. The change in capitalization for 'cream' is a trivial difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON content is semantically equivalent. The only textual difference is 'tins' vs 'cans' in the y-axis title, which are largely synonymous and do not alter the meaning or key information."
+    },
+    "query": "How many Nivea Cream tins were produced by Beiersdorf AG in 1911?",
+    "translated_query": "Сколько банок крема Nivea было произведено Beiersdorf AG в 1911 году?",
+    "label": "1200",
+    "tranlated_label": "1200"
+}

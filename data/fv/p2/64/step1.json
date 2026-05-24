@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text labels, color hues, and the overall trend shown on the logarithmic scale are all consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart displays the radiation dose for various scenarios. The bars for '180-day Transit to Mars' and '500 Days on Mars' are depicted at the same height, indicating they represent an equal dose equivalent."
+    },
+    "claim": "Both 180 day Transit to mars and 500 Days on Mars have equal dose of radiation exposure",
+    "label": "TRUE"
+}

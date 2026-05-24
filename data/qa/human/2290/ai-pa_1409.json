@@ -1,0 +1,40 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": {
+        "categories": [
+            "ਲੀਡਰ (ਡਾਇਰੈਕਟਰ ਅਤੇ ਇਸ ਤੋਂ ਉੱਪਰ)",
+            "ਤਕਨੀਕੀ",
+            "ਗੈਰ-ਤਕਨੀਕੀ"
+        ],
+        "series": [
+            {
+                "name": "ਪੁਰਸ਼",
+                "values": [
+                    71,
+                    76,
+                    49
+                ]
+            },
+            {
+                "name": "ਮਹਿਲਾ",
+                "values": [
+                    29,
+                    24,
+                    51
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਕਰਮਚਾਰੀਆਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021",
+        "note": "ਵਾਧੂ ਜਾਣਕਾਰੀ"
+    },
+    "colors": [
+        "#2377D2",
+        "#1A2D40"
+    ]
+}

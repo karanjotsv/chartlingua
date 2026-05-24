@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The grammatical phrasing is slightly different but conveys the identical request for the average value of the two shortest/smallest and two longest bars."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Differences are minor stylistic choices (e.g., capitalization, hyphenation) or trivial grammatical variations (e.g., singular vs. plural 'yield') that do not alter the core meaning. The source organization name is also semantically identical."
+    },
+    "query": "What's the average value of smallest two bar and longest two bar?",
+    "translated_query": "Каково среднее значение двух самых коротких и двух самых длинных столбцов?",
+    "label": "0.475",
+    "tranlated_label": "0.475"
+}

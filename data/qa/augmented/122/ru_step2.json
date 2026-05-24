@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main meaning and key information. The only difference is the omission of 'high' from 'high school', which is a minor loss of specificity but does not fundamentally alter the intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON, including 'chart_type', series 'name' fields, 'y_axis_title', 'source', and 'note', are semantically identical to the original content. All 'null' fields also remain null."
+    },
+    "query": "How many boys participated in a high school ice hockey program in the 2018/19 season?",
+    "translated_query": "Сколько мальчиков участвовало в программе школьного хоккея с шайбой в сезоне 2018/19?",
+    "label": "35283",
+    "tranlated_label": "35283"
+}

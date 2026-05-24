@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "categories": [
+        "Toți adulții",
+        "Rep/Simpatizanți Rep",
+        "Dem/Simpatizanți Dem",
+        "",
+        "Cunoaște o persoană<br>transgender",
+        "Nu cunoaște o persoană<br>transgender"
+    ],
+    "chart_data": [
+        {
+            "name": "Nu a mers<br>suficient de departe",
+            "values": [
+                39,
+                12,
+                60,
+                null,
+                52,
+                31
+            ]
+        },
+        {
+            "name": "A fost<br>aproximativ corect",
+            "values": [
+                27,
+                28,
+                27,
+                null,
+                24,
+                29
+            ]
+        },
+        {
+            "name": "A mers<br>prea departe",
+            "values": [
+                32,
+                57,
+                12,
+                null,
+                23,
+                37
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Aproximativ o treime dintre americani spun că societatea<br>a mers prea departe în acceptarea<br>persoanelor transgender",
+        "subtitle": "% care spun că societatea noastră ___ în ceea ce privește<br>acceptarea persoanelor transgender",
+        "source": "Notă: Procentul respondenților care nu au oferit un răspuns nu este afișat.<br>Sursa: Sondaj realizat pe adulți din S.U.A. între 8-21 august și 14-28 septembrie,<br>2017.<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "bar_colors": [
+            "#457d72",
+            "#b5d0c8",
+            "#82b7ad"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000",
+            "#000000"
+        ]
+    }
+}

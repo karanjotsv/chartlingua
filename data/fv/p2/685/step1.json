@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The core data trends, colors, and most text elements are consistent. However, the rendered chart fails to include the 'Dip' label on the x-axis, a key categorical point from the original, which significantly alters the context of the data presentation. Additionally, the original shows smooth curves whereas the rendered chart uses straight line segments.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there is no relationship between performance and distance from the end market, but the chart clearly shows a strong correlation. Companies further from the end market ('3 step' and '4 step') experienced a significantly larger percentage drop in turnover compared to those closer ('1 step' and '2 step')."
+    },
+    "claim": "The number of steps a company is away from the end market is not related to its performance during a crisis.",
+    "label": "FALSE"
+}

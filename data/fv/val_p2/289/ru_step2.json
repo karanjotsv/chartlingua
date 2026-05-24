@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. 'CanadÃ¡' was normalized to 'Canada', 'ROC' was expanded to 'Rest of Canada', and 'largest rate' became 'highest level', all of which convey the same semantic information without loss or distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The abbreviation 'ROC' (Rest of Canada) in the original content is semantically perfectly equivalent to 'Rest of Canada' in the back-translated content. All other text elements (series names 'Quebec' and 'Canada', and all null text fields) are identical, ensuring excellent equivalence."
+    },
+    "claim": "CanadÃ¡ and ROC have the largest rate of bilingualism.",
+    "translated_claim": "Канада и Остальная Канада имеют самый высокий уровень двуязычия."
+}

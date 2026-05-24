@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The core comparison of sound loss based on NRC values is preserved. However, 'ceiling' was replaced with 'roof', which refers to a different part of a building (internal vs. external top surface) and introduces a loss of specificity and potential inaccuracy regarding the context of sound loss measurement."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Significant semantic errors were found. 'Ceiling Height' was incorrectly translated to 'Roof Height' in both the title and x-axis label. Furthermore, 'Speech Weighted Sound Loss' was distorted to 'Speech-India Sound Loss' in the y-axis title, losing critical technical meaning."
+    },
+    "claim": "When the ceiling is 14 the sound loss is higher when NRC is 0.55 than when NRC is 0.69.",
+    "translated_claim": "ਜਦੋਂ ਛੱਤ 14 ਹੁੰਦੀ ਹੈ, ਤਾਂ ਧੁਨੀ ਘਾਟਾ ਉਦੋਂ ਜ਼ਿਆਦਾ ਹੁੰਦਾ ਹੈ ਜਦੋਂ NRC 0.55 ਹੁੰਦਾ ਹੈ, ਬਜਾਏ ਇਸਦੇ ਜਦੋਂ NRC 0.69 ਹੁੰਦਾ ਹੈ।"
+}

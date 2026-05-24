@@ -1,0 +1,52 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Eichensavanne",
+            "value": 28
+        },
+        {
+            "label": "Mischlaubwälder - Prärie",
+            "value": 1
+        },
+        {
+            "label": "Mischlaubwälder / Espen - Prärie",
+            "value": 30
+        },
+        {
+            "label": "Prärie",
+            "value": 2
+        },
+        {
+            "label": "Prärie, schlecht entwässert",
+            "value": 6
+        },
+        {
+            "label": "Feuchtprärie",
+            "value": 16
+        },
+        {
+            "label": "Wald",
+            "value": 3
+        },
+        {
+            "label": "Wasser / Feuchtböden / Kiesgruben",
+            "value": 14
+        }
+    ],
+    "texts": {
+        "title": "Savannenböden in Pennington County, Minnesota > 60 %",
+        "subtitle": null,
+        "source": "Natural Resources Conservation Service, Landwirtschaftsministerium der Vereinigten Staaten. Online verfügbar unter<br>http://websoilsurvey.nrcs.usda.gov/. NRCS/WSS-Informationen zur heimischen Vegetation, zuerst nach Bodenserien sortiert<br>dann zusammengestellt unter Verwendung des Anteils der County-Fläche (%).<br>Quelle: Web Soil Survey (WSS), abgerufen von Steve Nelson am 16.09.10"
+    },
+    "colors": [
+        "#FF6600",
+        "#B22222",
+        "#FF99CC",
+        "#FFFF00",
+        "#FFCC99",
+        "#FFFFCC",
+        "#006600",
+        "#00CCFF"
+    ]
+}

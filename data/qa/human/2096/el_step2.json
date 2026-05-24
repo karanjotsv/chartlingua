@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly changes the meaning. 'Mode' refers to a statistical measure (the most frequent value), while 'type' refers to the category of the chart (e.g., bar, pie, line). This is a fundamental semantic shift."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The main meaning is generally conveyed, but there are some important semantic shifts in the key data series names. 'Freelancers' becoming 'Self-employed' is a slight broadening, and 'U.S. workers overall' changing to 'Total U.S. employees' significantly alters the scope of the group, as 'workers' is a broader term than 'employees'. Other label changes like 'African or African descent' to 'Black or African American' and 'Share' to 'Percentage' are minor and acceptable variations."
+    },
+    "query": "What is the mode of this graph?",
+    "translated_query": "Ποιος είναι ο τύπος αυτού του γραφήματος;",
+    "label": "5",
+    "tranlated_label": "5"
+}

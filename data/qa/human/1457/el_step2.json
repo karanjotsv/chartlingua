@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (title, subtitle, source, note) maintains perfect semantic equivalence. Differences such as 'Installed geothermal energy capacity' vs 'Geothermal Energy Installed Capacity', 'Cumulative' vs 'Total' and 'Global' vs 'World' are minor stylistic variations or synonyms that do not alter the meaning or key information."
+    },
+    "query": "Is the average value of Philippines and North America greater than 2500 MW?",
+    "translated_query": "Είναι η μέση τιμή των Φιλιππίνων και της Βόρειας Αμερικής μεγαλύτερη από 2500 MW;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

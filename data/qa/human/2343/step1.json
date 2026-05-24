@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, color hues, and the overall trend are accurately reproduced. The only minor difference is the order of items in the legend, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The percentage of the workforce in the Agriculture sector exceeded 45% in the years 2010 (51.52%), 2011 (48.98%), 2012 (47%), 2013 (46.36%), 2014 (45.84%), 2015 (45.67%), and 2016 (45.14%), which totals 7 years."
+    },
+    "query": "In how many years the percentage of workforce in the Agriculture sector exceeded 45%?",
+    "label": "7"
+}

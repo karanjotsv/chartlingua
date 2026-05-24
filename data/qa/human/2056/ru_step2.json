@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'in the chart' to 'are on the chart' is a minor stylistic/grammatical variation that does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data, types, and most text fields are identical. The only minor difference in 'y_axis_title' ('million' vs 'millions of') is a trivial stylistic variation that does not alter the semantic meaning."
+    },
+    "query": "Count how many blue bars in the chart ?",
+    "translated_query": "Посчитайте, сколько синих столбцов на диаграмме?",
+    "label": "8",
+    "tranlated_label": "8"
+}

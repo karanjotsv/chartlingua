@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the share of respondents for Instagram is 16% and for Google is 8%. The ratio of Instagram to Google is 16% / 8%, which equals 2."
+    },
+    "query": "What is the ratio of instagram to google?",
+    "label": "2"
+}

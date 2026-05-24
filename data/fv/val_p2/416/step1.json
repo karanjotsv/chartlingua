@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, category labels, titles, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the total of 'Paid staff member' and 'Wikimedian in Residence' is equal to 'Wikimedia movement volunteer'. According to the chart, 'Paid staff member' alone is 40.6%, which is already greater than 'Wikimedia movement volunteer' (approximately 28%). Therefore, the sum of 'Paid staff member' and 'Wikimedian in Residence' cannot be equal to 'Wikimedia movement volunteer'."
+    },
+    "claim": "The total value of paid staff member and Wikimedian in residence is equal to Wikimedia movement volunteer.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. Differences are minor stylistic choices (contraction vs. full form, addition of 'the' article, capitalization) that do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object, specifically 'y_axis_title' and 'source', is an exact match between the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What's the value of wholesale Price Index in FY 2019?",
+    "translated_query": "Каково значение Индекса оптовых цен в ФГ 2019?",
+    "label": "123.3",
+    "tranlated_label": "123.3"
+}

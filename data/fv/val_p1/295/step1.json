@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, title, source text, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart, titled '1894 Koloa Plantation Demographics', explicitly shows that the Japanese population constituted 90% of the total, which is a clear majority."
+    },
+    "claim": "The majority of the workers in Koloa sugar plantation in 1894 were Japanese.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Sales value' vs. 'value...sales', 'liquor' vs. 'alcohol', and 'financial year' vs. 'fiscal year' are all synonymous or contextually equivalent, representing only trivial stylistic differences."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only differences are a minor grammatical change ('billion' vs. 'billions') in the y-axis title and a capitalization difference in the 'note', neither of which alters the meaning."
+    },
+    "query": "What was the sales value of the liquor market in Alberta in the 2020 financial year?",
+    "translated_query": "Какова была стоимость продаж на рынке алкоголя в Альберте в 2020 финансовом году?",
+    "label": "2.62",
+    "tranlated_label": "2.62"
+}

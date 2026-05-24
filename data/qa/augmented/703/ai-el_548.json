@@ -1,0 +1,51 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Πιστωτικές κάρτες",
+            "value": 42
+        },
+        {
+            "category": "Ηλεκτρονική πληρωμή (PayPal εάν διαθέσιμο)",
+            "value": 39
+        },
+        {
+            "category": "Χρεωστικές κάρτες",
+            "value": 28
+        },
+        {
+            "category": "Αντικαταβολή",
+            "value": 23
+        },
+        {
+            "category": "Τραπεζικές μεταφορές",
+            "value": 20
+        },
+        {
+            "category": "Δωροκάρτες ή κουπόνια",
+            "value": 15
+        },
+        {
+            "category": "Πληρωμή μέσω κινητού",
+            "value": 14
+        },
+        {
+            "category": "Κρυπτονομίσματα (Bitcoin)",
+            "value": 3
+        },
+        {
+            "category": "Άλλο",
+            "value": 3
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Ποσοστό online αγοραστών",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#3182CE"
+    ]
+}

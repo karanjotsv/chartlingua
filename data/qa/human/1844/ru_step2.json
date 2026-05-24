@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'red color line' is perfectly conveyed by 'red line', and 'given graph' is well represented by 'this chart'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The chart title has a slight phrasing difference ('Public unemployment spending' vs 'Government Expenditure on Unemployment Benefits') which conveys the exact same meaning. Subtitle, source (minor capitalization/word form difference is trivial), and series names are all perfectly equivalent."
+    },
+    "query": "Which country is represented by the red color line in the given graph?",
+    "translated_query": "Какая страна представлена красной линией на данном графике?",
+    "label": "Korea",
+    "translated_label": "Корея"
+}

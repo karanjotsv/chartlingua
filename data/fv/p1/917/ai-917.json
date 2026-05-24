@@ -1,0 +1,236 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "x": [
+            "08/2",
+            "15/2",
+            "22/2",
+            "01/3",
+            "08/3"
+        ],
+        "series": [
+            {
+                "name": "Bradford",
+                "y": [
+                    8,
+                    10,
+                    12,
+                    13,
+                    12
+                ]
+            },
+            {
+                "name": "Castleford",
+                "y": [
+                    7,
+                    6,
+                    3,
+                    5,
+                    7
+                ]
+            },
+            {
+                "name": "Catalans",
+                "y": [
+                    10,
+                    13,
+                    10,
+                    10,
+                    10
+                ]
+            },
+            {
+                "name": "Crusaders",
+                "y": [
+                    4,
+                    2,
+                    6,
+                    9,
+                    9
+                ]
+            },
+            {
+                "name": "Harlequins RL",
+                "y": [
+                    5,
+                    7,
+                    2,
+                    3,
+                    5
+                ]
+            },
+            {
+                "name": "Huddersfield",
+                "y": [
+                    2,
+                    4,
+                    5,
+                    4,
+                    4
+                ]
+            },
+            {
+                "name": "Hull FC",
+                "y": [
+                    3,
+                    3,
+                    4,
+                    2,
+                    3
+                ]
+            },
+            {
+                "name": "Hull KR",
+                "y": [
+                    6,
+                    9,
+                    7,
+                    7,
+                    6
+                ]
+            },
+            {
+                "name": "Leeds",
+                "y": [
+                    14,
+                    11,
+                    8,
+                    11,
+                    11
+                ]
+            },
+            {
+                "name": "St Helens",
+                "y": [
+                    13,
+                    12,
+                    9,
+                    6,
+                    8
+                ]
+            },
+            {
+                "name": "Salford",
+                "y": [
+                    11,
+                    8,
+                    11,
+                    8,
+                    8
+                ]
+            },
+            {
+                "name": "Wakefield",
+                "y": [
+                    2,
+                    5,
+                    7,
+                    1,
+                    2
+                ]
+            },
+            {
+                "name": "Warrington",
+                "y": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "name": "Wigan",
+                "y": [
+                    9,
+                    14,
+                    13,
+                    12,
+                    13
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<u><span style='color:blue'>\"Super League XIV\" Progress</span></u><br><u><span style='color:blue'>(« Super League 14e » Progresse)</span></u>",
+        "x_axis_title": "Week ending (Fin de semaine)",
+        "y_axis_title": "League position (Position de ligue)",
+        "source": null,
+        "note": null
+    },
+    "styles": [
+        {
+            "line_color": "#000000",
+            "marker_symbol": "diamond"
+        },
+        {
+            "line_color": "#006400",
+            "marker_symbol": "circle"
+        },
+        {
+            "line_color": "#FFD700",
+            "marker_symbol": "cross"
+        },
+        {
+            "line_color": "#FFA500",
+            "marker_symbol": "square"
+        },
+        {
+            "line_color": "#4682B4",
+            "marker_symbol": "diamond-tall"
+        },
+        {
+            "line_color": "#D2691E",
+            "marker_symbol": "square-open"
+        },
+        {
+            "line_color": "#000000",
+            "marker_symbol": "diamond-open",
+            "marker_color": "#FFFFFF",
+            "marker_line_color": "#000000",
+            "marker_line_width": 1.5
+        },
+        {
+            "line_color": "#FF0000",
+            "marker_symbol": "circle"
+        },
+        {
+            "line_color": "#800080",
+            "marker_symbol": "cross"
+        },
+        {
+            "line_color": "#B22222",
+            "marker_symbol": "square-open"
+        },
+        {
+            "line_color": "#C71585",
+            "marker_symbol": "cross"
+        },
+        {
+            "line_color": "#1E90FF",
+            "marker_symbol": "triangle-up-open"
+        },
+        {
+            "line_color": "#0000FF",
+            "marker_symbol": "cross"
+        },
+        {
+            "line_color": "#B22222",
+            "marker_symbol": "square"
+        }
+    ],
+    "background_colors": {
+        "shapes": [
+            {
+                "y0": 0.5,
+                "y1": 8.5,
+                "color": "#90EE90"
+            },
+            {
+                "y0": 8.5,
+                "y1": 14.5,
+                "color": "#D3D3D3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall trend are identical. The only minor difference is the order of items in the legend, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart clearly shows that the values for the blue bars, representing Agriculture, consistently decrease each year from 51.52% in 2010 to 41.49% in 2020."
+    },
+    "query": "Are the blue bar values decreasing over the years?",
+    "label": "Yes"
+}

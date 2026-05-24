@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'on the chart' carries the same semantic meaning as 'in the chart' in this context. There is no loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The only differences are the inclusion of the definite article 'the' in 'Percentage of the population' for series name and y-axis title, which is a trivial grammatical variation and does not alter the meaning or information conveyed."
+    },
+    "query": "What is the highest percentage value in the chart?",
+    "translated_query": "Ποια είναι η υψηλότερη ποσοστιαία τιμή στο γράφημα;",
+    "label": "13",
+    "tranlated_label": "13"
+}

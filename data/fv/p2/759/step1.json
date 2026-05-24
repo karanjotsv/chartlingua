@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, proportions within the stacked bars, color hues, and axis labels are identical. The rendered chart also adds a helpful title and legend that clarify the data's context without altering the core message, which is also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about domain sources for a web corpus, but the chart provides data on exoplanet discoveries by their discovery dates and methods. The chart contains no information relevant to the claim."
+    },
+    "claim": "en.wikisource.org is one of the top five largest domain sources for StrepHit IEG Web Sources Corpus biographies.",
+    "label": "TRUE"
+}

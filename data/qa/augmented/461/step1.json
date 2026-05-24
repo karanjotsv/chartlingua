@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, categories, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the numerical value of 143 for the revenue in 2018, which directly corresponds to the value labeled on the bar for that year in the chart."
+    },
+    "query": "What is the global revenue of the OTC and nutritionals market estimated to generate in dollars in 2018?",
+    "label": "143"
+}

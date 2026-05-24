@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data trends, relative values, textual labels (axes, legend), and color hues are all accurately reproduced. The core message of the chart is identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to pageviews on July 14, but the chart's x-axis (date) only extends to July 13. There is no data provided for July 14."
+    },
+    "claim": "The Satoru Iwata page had the highest views in July 14.",
+    "label": "TRUE"
+}

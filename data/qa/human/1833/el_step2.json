@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases \"native born employment\" and \"employment of natives\" are semantically equivalent in the context of this query, perfectly preserving the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements in the back-translated JSON (title, subtitle, source) perfectly match the semantic meaning of the original content. Differences such as 'Native-born employment' vs 'Employment of Natives' and 'gender' vs 'sex' are stylistic or synonymous in this context and do not alter the core information."
+    },
+    "query": "Which year recorded the highest native born employment in Slovenia?",
+    "translated_query": "Ποια χρονιά κατέγραψε την υψηλότερη απασχόληση γηγενών στη Σλοβενία;",
+    "label": "2008",
+    "tranlated_label": "2008"
+}

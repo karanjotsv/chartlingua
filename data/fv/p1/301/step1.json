@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values (Tibia 42%, Counter Strike 37%, World of Warcraft 21%, Otros 0%), and corresponding color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the slice corresponding to 'World of Warcraft' with the value '21%', which directly validates the claim."
+    },
+    "claim": "21% of the world of war craft indicated in the chart.",
+    "label": true
+}

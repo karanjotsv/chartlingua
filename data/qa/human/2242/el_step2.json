@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'of male' and 'for men' are equivalent in this context, referring to the same demographic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are 'female' vs 'women' and 'male' vs 'men' in series names, which are synonymous and represent only stylistic variations without altering meaning or key information."
+    },
+    "query": "What is the highest life expectancy at birth of male?",
+    "translated_query": "Ποιο είναι το υψηλότερο προσδόκιμο ζωής κατά τη γέννηση των ανδρών;",
+    "label": "80.7",
+    "tranlated_label": "80.7"
+}

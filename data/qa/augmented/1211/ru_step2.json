@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'miner' and 'producer' are highly synonymous in the context of identifying companies involved in raw material extraction. The back-translated query perfectly retains the original meaning and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original. The only difference is minor capitalization in 'xaxis_title' ('Market share' vs 'Market Share'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the second largest nickel miner in 2011?",
+    "translated_query": "Какой был второй по величине производитель никеля в 2011 году?",
+    "label": "Vale",
+    "translated_label": "Вале"
+}

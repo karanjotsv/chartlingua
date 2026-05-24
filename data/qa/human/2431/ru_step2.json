@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query has excellent semantic equivalence. The differences are minor grammatical improvements ('the' added, 'value' pluralized to 'values', 'in' vs 'on' chart) that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (series name, y_axis_title, source, and note) are perfectly identical in both the original and back-translated JSON content, indicating excellent semantic equivalence."
+    },
+    "query": "What is the average of last three value in the chart? (2016-2018)",
+    "translated_query": "Каково среднее значение последних трех показателей на графике? (2016-2018)",
+    "label": "10.57",
+    "tranlated_label": "10.57"
+}

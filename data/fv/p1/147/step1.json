@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, categories, labels, titles, and color associations are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes an assertion about the location 'High Laver', which is not mentioned in the chart; the chart's data is for 'England and Wales'. Furthermore, the chart shows that for females, 'Unknown Occupation' is the largest category, followed by 'Persons engaged in domestic offices or services', not 'professional occupations' as the claim states."
+    },
+    "claim": "Women in High Laver in 1881 were predominantly employed in professional occupations.",
+    "label": false
+}

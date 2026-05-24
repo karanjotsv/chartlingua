@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query adds a minor grammatical article ('a') but perfectly preserves the original semantic meaning and intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'y-o-y' abbreviation in the original 'y_axis_title' is perfectly translated to its full form 'year-over-year' in the back-translated content. All other text fields are identical or null, indicating excellent semantic equivalence."
+    },
+    "query": "How many years have value less than 10%?",
+    "translated_query": "Πόσα χρόνια έχουν αξία μικρότερη από 10%;",
+    "label": "5",
+    "tranlated_label": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. It rephrases slightly ('come from' to 'originate from', 'Web Sources Corpus' to 'web corpus') but conveys identical information. It also correctly pluralizes 'domain' to 'domains', which was a minor grammatical improvement without altering the original intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The `series_names` are identical. The overall meaning of the chart title is accurately conveyed, although 'Bar chart' was changed to 'Histogram' which is a slight semantic difference given the `stacked_bar` chart type, and 'their' was omitted from the phrase 'by their discovery dates and methods'. These are minor acceptable differences that don't significantly distort the meaning."
+    },
+    "claim": "The StrepHit IEG Web Sources Corpus biographies come from three different source domain.",
+    "translated_claim": "Биографии из корпуса веб-источников StrepHit IEG поступают из трех разных исходных доменов."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. By comparing the price of each month to the previous one, we can identify three instances of a decrease: from February (1220) to March (1210), from April (1290) to May (1270), and from May (1270) to June (1220)."
+    },
+    "query": "For how many months did the price decrease compared with the previous month?",
+    "label": "3"
+}

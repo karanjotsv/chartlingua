@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, category labels, color hues, and the overall message are all accurately replicated from the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows two categories related to income tax: 'Individual Income Taxes' and 'Corporation Income Taxes'. The combined size of these two slices visually constitutes the majority of the pie, thereby supporting the claim that income taxes make up a large portion of the total."
+    },
+    "claim": "Income taxes make up the large portion of United States federal government total receipts in fiscal year 2010.",
+    "label": true
+}

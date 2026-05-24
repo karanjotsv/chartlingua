@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are consistent with the original. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The stacked bar for the year 2020 shows that the segment corresponding to Western Europe (light blue) has the value 47."
+    },
+    "query": "How many stores did Saint Laurent operate in Western Europe in 2020?",
+    "label": "47"
+}

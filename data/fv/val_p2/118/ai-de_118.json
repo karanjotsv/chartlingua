@@ -1,0 +1,44 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Freiliegender Stamm",
+            "value": 1,
+            "display_label": "Freiliegender<br>Stamm, 1"
+        },
+        {
+            "category": "Verdeckter Stamm",
+            "value": 1,
+            "display_label": "Verdeckter<br>Stamm, 1"
+        },
+        {
+            "category": "Stamm-Ast-Verbindung",
+            "value": 3,
+            "display_label": "Stamm-<br>Ast-Verbindung,<br>3"
+        },
+        {
+            "category": "Äste (> 5cm Durchmesser)",
+            "value": 10,
+            "display_label": "Äste<br>(> 5cm<br>Durchmesser),<br>10"
+        },
+        {
+            "category": "Äste und Zweige (< 5 cm Durchmesser)",
+            "value": 8,
+            "display_label": "Äste<br>und Zweige (&lt;<br>5 cm<br>Durchmesser), 8"
+        }
+    ],
+    "texts": {
+        "title": "Natürliche Ruhepositionen von Birkenspannern<br>2001-2003",
+        "subtitle": "Gesamtzahl der beobachteten Falter = 23",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#a6a6e8",
+        "#993366",
+        "#ffffcc",
+        "#b3ffff",
+        "#660066"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect replication of the original. All data proportions, category labels, colors, and supplementary text are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Forest type soil is the vast majority. However, the pie chart visually shows that the 'Forest' slice (dark green) is a small portion of the total, while the 'Oak Savanna' slice (orange) and the 'Mixed Hardwoods / Aspen - Prairie' slice (pink) are the two largest categories."
+    },
+    "claim": "The vast majority of soil types in Pennington County Minnesota is Forest type soil.",
+    "label": "FALSE"
+}

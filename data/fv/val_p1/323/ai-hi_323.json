@@ -1,0 +1,46 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "x": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "y": [
+                1.0,
+                0.7854,
+                0.5236,
+                0.3084,
+                0.1645,
+                0.0807,
+                0.0369,
+                0.0158,
+                0.0063,
+                0.0025
+            ],
+            "name": "अनुपात"
+        }
+    ],
+    "texts": {
+        "title": "volume_sphere/volume_cube",
+        "subtitle": null,
+        "x_axis_title": "आयाम d",
+        "y_axis_title": "अनुपात",
+        "source": null,
+        "legend_title": null
+    },
+    "colors": [
+        {
+            "line": "#0000FF",
+            "marker": "#008000"
+        }
+    ]
+}

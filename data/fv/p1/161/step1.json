@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart correctly reproduces the title, axes, the red bar data, and the general shape of the blue line data. However, it incorrectly represents the blue scatter plot points from the original chart. In the original, the blue points are a distinct data series, separate from the blue line. In the rendered chart, they are simply markers placed on the blue line, which is a significant semantic change in the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the batting average was less than 10 in the last ten innings. The individual innings scores are represented by the red bars. By visually inspecting the ten rightmost red bars, one can see that only two bars reach a score of 10 or more (one at ~10, one at ~22), while the other eight bars are all very low (well under 10). Calculating the approximate average of these last ten scores [(~22 + ~10 + 8 * ~2)/10 = 4.8] results in a value significantly less than 10, which supports the claim."
+    },
+    "claim": "Richie Benaud had a batting average of less than 10 in his last ten innings.",
+    "label": false
+}

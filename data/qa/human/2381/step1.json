@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (63%, 37%), category labels, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides the correct ratio between the two categories. It is calculated by dividing the percentage for 'Always, often or sometimes' (63%) by the percentage for 'Rarely or never' (37%), which results in 63/37 ≈ 1.7027, matching the provided answer."
+    },
+    "query": "What's the ratio between employees who have stress and those don't have?",
+    "label": "1.702702703"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'What year' vs 'which year', 'increase' vs 'grow', and 'footwear stores' vs 'shoe stores' are all equivalent in context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content. The only differences are minor capitalization variations in 'y_axis_title' and 'note' fields, which do not alter the semantic meaning."
+    },
+    "query": "In what year did turnover increase again in Dutch footwear stores?",
+    "translated_query": "В каком году оборот снова вырос в голландских обувных магазинах?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

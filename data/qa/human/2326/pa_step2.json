@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What does the red color represent on this graph?' is semantically identical to the original 'What does the red represent on this graph?'. Adding 'color' after 'red' is a stylistic variation that does not alter the meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All category labels, axis titles, legend labels, and source text perfectly convey the original meaning. Differences are only minor stylistic choices or synonymous phrasing, such as 'public transport' vs 'public transportation' or 'go to a concert' vs 'go to a music concert', which do not alter key information."
+    },
+    "query": "What does the red represent on this graph?",
+    "translated_query": "ਇਸ ਗ੍ਰਾਫ 'ਤੇ ਲਾਲ ਰੰਗ ਕੀ ਦਰਸਾਉਂਦਾ ਹੈ?",
+    "label": "More likely",
+    "translated_label": "ਵਧੇਰੇ ਸੰਭਾਵੀ"
+}

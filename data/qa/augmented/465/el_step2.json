@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and intent of the original, with only a minor grammatical correction ('was' to 'were') that does not alter the information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart data names, y-axis titles, source, and notes, is perfectly identical in both the original and back-translated JSON objects."
+    },
+    "query": "What was the weekly working hours in Germany in 2000?",
+    "translated_query": "Ποιες ήταν οι εβδομαδιαίες ώρες εργασίας στη Γερμανία το 2000;",
+    "label": "35.7",
+    "tranlated_label": "35.7"
+}

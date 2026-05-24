@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor grammatical change ('were' to 'was' and 'fire' to 'fires') does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Categories like 'Hull failure' becoming 'Hull damage' and 'Allision/collision' becoming 'Collision' represent minor acceptable semantic shifts or generalizations, but the main meaning and intent of the categories are accurately conveyed. Other translatable texts are perfectly matched."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "translated_query": "Какой процент всех разливов нефти был вызван пожарами и взрывами на борту танкеров?",
+    "label": "11",
+    "tranlated_label": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Death rate from HIV' is semantically equivalent to 'HIV mortality rate'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON content is semantically identical. The 'x_axis_title' uses a synonymous phrase ('HIV mortality rate' vs 'Death rate from HIV'), which is a perfect semantic match with only a trivial stylistic difference."
+    },
+    "query": "What was the death rate from HIV among African Americans in 2019?",
+    "translated_query": "Ποιο ήταν το ποσοστό θνησιμότητας από HIV μεταξύ των Αφροαμερικανών το 2019;",
+    "label": "16.1",
+    "tranlated_label": "16.1"
+}

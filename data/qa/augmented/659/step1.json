@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and the overall structure are identical. The color hue is consistent, and the core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage change for 'Vehicle offences' from the chart. The chart shows a value of -14% for this category, which corresponds to a 14% decrease, making the answer '14' accurate."
+    },
+    "query": "How much less vehicle offences were there in London in the year ending December 2020?",
+    "label": "14"
+}

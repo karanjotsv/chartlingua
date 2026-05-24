@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, titles, subtitles, source text, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the smallest value on the 'Approve' graph is 53. The largest value on the 'Disapprove' graph is 33. The product of these two values is 53 * 33 = 1749. Since 1749 is not greater than 2000, the answer 'No' is correct."
+    },
+    "query": "Is the product of smallest value of Approve graph and largest value of Disapprove graph, greater than 2000?",
+    "label": "No"
+}

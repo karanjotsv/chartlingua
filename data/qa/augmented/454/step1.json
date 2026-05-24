@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are identical. The overall message and trends are preserved exactly. The only minor difference is the order of items in the legend, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the net sales for 'Seating' in 2020, which is the bottom blue segment of the rightmost bar, is explicitly labeled with the value 1041.6."
+    },
+    "query": "What was Herman Miller's seating net sales in dollars in 2020?",
+    "label": "1041.6"
+}

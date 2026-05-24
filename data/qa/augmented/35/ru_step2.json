@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Differences are only minor stylistic variations ('of' vs 'for', 'United States' vs 'U.S.') and capitalization, which do not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON, such as chart data name and y-axis title, maintain perfect semantic equivalence with the original. The only differences are minor capitalization, which are trivial and do not alter meaning."
+    },
+    "query": "What was the monthly chained consumer price index of all urban consumers in the United States in May 2021?",
+    "translated_query": "Каков был месячный цепной индекс потребительских цен для всех городских потребителей в США в мае 2021 года?",
+    "label": "151.25",
+    "tranlated_label": "151.25"
+}

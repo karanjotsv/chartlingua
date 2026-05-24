@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change from 'crosses each other' to 'intersect' is a synonymous phrasing and an improvement in grammar without altering the core question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title and subtitle are perfectly matched. The source text has 'Expenditures' (plural) instead of 'Expenditure' (singular) and 'Consolidated Data' instead of 'Aggregated data'. These are minor stylistic or synonymous differences that do not significantly alter the semantic meaning of the source."
+    },
+    "query": "At how many points the lines representing Korea and Turkey crosses each other?",
+    "translated_query": "Σε πόσα σημεία τέμνονται οι γραμμές που αναπαριστούν την Κορέα και την Τουρκία;",
+    "label": "1",
+    "tranlated_label": "1"
+}

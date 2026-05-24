@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data values (50%, 10%, 40%), labels ('Set Point', 'Circumstances', 'Intentional Activity'), chart title, and color hues (blue, red, green) are all consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart legend indicates that 'Set Point' accounts for 50%, which is the largest percentage compared to 'Intentional Activity' at 40% and 'Circumstances' at 10%."
+    },
+    "claim": "Set point has maximum share in the charts. ",
+    "label": true
+}

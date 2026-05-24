@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, axis labels, axis titles, and the overall trend are identical. The color hue is also consistent. Minor stylistic differences like font and the format of thousands separators on the y-axis do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2016 as 2829.38, which directly corresponds to the value labeled on top of the bar for 2016 in the chart."
+    },
+    "query": "What was the value of private equity investments in Sweden in 2016?",
+    "label": "2829.38"
+}

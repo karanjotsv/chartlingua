@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (526.3 and -99.9), labels, titles, and color hues are accurately replicated. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that GHG emissions in 2017 were 523.3 Mt, while absorption was 99.9 Mt. This directly contradicts the claim, as the amount emitted was significantly greater than the amount absorbed."
+    },
+    "claim": "More Ghg was absorbed than was emitted in 2017. ",
+    "label": false
+}

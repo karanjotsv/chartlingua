@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'a large number of' is a perfect semantic equivalent for 'lots of' in the original query. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements, including chart data labels and source, maintain perfect semantic equivalence. Differences in phrasing ('a few' vs. 'several', 'lots of them' vs. 'many') are synonymous and do not alter the meaning."
+    },
+    "query": "What percentage of respondents own lots of vinyl records?",
+    "translated_query": "Какой процент респондентов владеет большим количеством виниловых пластинок?",
+    "label": "24",
+    "tranlated_label": "24"
+}

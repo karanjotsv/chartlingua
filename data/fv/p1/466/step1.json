@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is missing one data series ('Human Interest 4%') from the original. While the remaining categories, values, and colors are consistent, the omission of a data point is a significant semantic discrepancy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly shows that 'News' accounts for 39% of the total, which is the highest percentage among all listed categories."
+    },
+    "claim": "News are take the biggest share for epa service on the chart.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the chart type, title, axis labels, data categories, data values, and color hues for each bar.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on different printing methods used by 'Chapters'. It contains no information about students, nationalities, or universities."
+    },
+    "claim": "According to the chart, students of Australian nationality are the smallest group in the University.",
+    "label": "FALSE"
+}

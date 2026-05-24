@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Sehr verbreitet",
+            "Eher verbreitet",
+            "Nicht sehr verbreitet",
+            "Überhaupt nicht verbreitet",
+            "Nicht sicher"
+        ],
+        "series": [
+            {
+                "name": "Gesamt",
+                "data": [
+                    34,
+                    40,
+                    16,
+                    2,
+                    8
+                ]
+            },
+            {
+                "name": "Männlich",
+                "data": [
+                    24,
+                    43,
+                    22,
+                    3,
+                    7
+                ]
+            },
+            {
+                "name": "Weiblich",
+                "data": [
+                    43,
+                    36,
+                    11,
+                    2,
+                    8
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2677d2",
+        "#0e2b43",
+        "#b3b3b3"
+    ]
+}

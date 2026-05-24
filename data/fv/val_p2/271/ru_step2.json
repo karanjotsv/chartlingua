@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'An abnormally loud sound was heard' conveys the same information as 'There was an abnormally loud sound', and 'approximately' is a perfect synonym for 'at about'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, axis titles, source) are null in both the original and back-translated content, indicating perfect equivalence for the textual components."
+    },
+    "claim": "There was a abnormally loud sound at about 140 milliseconds after the ping.",
+    "translated_claim": "Раздался аномально громкий звук примерно через 140 миллисекунд после пинга."
+}

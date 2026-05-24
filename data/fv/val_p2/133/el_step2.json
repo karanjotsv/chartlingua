@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. 'Energy demand per capita' and 'per capita energy demand' are stylistically different but semantically equivalent. 'World average' and 'global average' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including the title and y-axis title, maintain perfect semantic equivalence. Differences are purely stylistic or use synonymous phrasing ('world' vs 'global', word order for 'per capita')."
+    },
+    "claim": "Germany's energy demand per capita is higher than the world average.",
+    "translated_claim": "Η ενεργειακή ζήτηση της Γερμανίας κατά κεφαλήν είναι υψηλότερη από τον παγκόσμιο μέσο όρο."
+}

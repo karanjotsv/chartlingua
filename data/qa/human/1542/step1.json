@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, and color hues are identical. The overall message and data proportions are perfectly preserved. A very minor difference in the x-axis maximum value does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for 'Philippines' as 6.67 t."
+    },
+    "query": "Which place shows the value of  6.67 tonnes ?",
+    "label": "Philippines"
+}

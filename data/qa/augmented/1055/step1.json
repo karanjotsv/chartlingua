@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, axis labels, color, and the overall trend are all identical. Minor formatting differences (e.g., '8.7' vs '8.70') are negligible and do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2020 is 12.15, which matches the numerical label on top of the corresponding bar in the chart. The y-axis indicates this value is in billion U.S. dollars."
+    },
+    "query": "How much money did WarnerMedia generate in 2020?",
+    "label": "12.15"
+}

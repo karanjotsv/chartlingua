@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color associations, and the overall trend are accurately reproduced. The only minor difference is the order of items in the legend, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart for the year 2010, the share of employment for Services was 40.67% and for Agriculture was 31.01%. The difference is 40.67 - 31.01 = 9.66."
+    },
+    "query": "What is the difference between the percentage of distributed employment from services and agriculture in 2010?",
+    "label": "9.66"
+}

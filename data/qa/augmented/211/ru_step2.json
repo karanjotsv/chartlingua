@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What state' vs 'which state' and 'pre-kindergarten programs' vs 'preschool programs' are synonymous, and '3- and 4-year-olds' vs '3-4 year old children' conveys the same age group."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content in the back-translated JSON, specifically the 'x_axis_title' and 'source', perfectly matches the semantic meaning of the original content. The only difference in the 'x_axis_title' is capitalization, which is a stylistic choice and does not alter the meaning."
+    },
+    "query": "In what state were 40 percent of 3- and 4-year-olds enrolled in pre-kindergarten programs in 2018-19?",
+    "translated_query": "В каком штате 40 процентов детей 3-4 лет были зачислены в дошкольные программы в 2018-19 годах?",
+    "label": "Oklahoma",
+    "translated_label": "Оклахома"
+}

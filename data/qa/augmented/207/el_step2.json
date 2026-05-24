@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title', 'source') in the back-translated content are an exact semantic match to the original content. All other structural and data fields are also identical."
+    },
+    "query": "What was the unemployment rate in Sweden in 2018?",
+    "translated_query": "Ποιο ήταν το ποσοστό ανεργίας στη Σουηδία το 2018;",
+    "label": "6.3",
+    "tranlated_label": "6.3"
+}

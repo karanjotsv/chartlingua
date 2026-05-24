@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data points, categories, labels, titles, and color hues are consistent, conveying the exact same information and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the economic activity consists of 4 parts. The bar chart visually represents data for exactly four distinct categories: 'Pre-Manufacturing', 'Manufacturing', 'Transportation', and 'Operation'."
+    },
+    "claim": "Economic activity per life stage of a wind farm consists from 4 parts.",
+    "label": "TRUE"
+}

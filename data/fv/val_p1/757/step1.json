@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent representation of the original. Data values, categories, axis titles, legend labels, and color hues are all accurately preserved. The overall message and data distribution are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states there were no female workers, but the chart clearly shows orange bars (representing females) with values greater than zero for several job titles, including 'Domestic offices and...', 'Dresswear', 'Unspecified', and 'Occupation unknown'."
+    },
+    "claim": "There were no female workers in Runwell in 1881.",
+    "label": false
+}

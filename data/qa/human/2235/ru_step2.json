@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning. 'Bars' and 'columns' are synonymous in the context of data representation, and 'lung's' is semantically equivalent to 'for lung'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The category 'Small bowel' was back-translated as 'Small Intestine,' which is a synonymous and acceptable variation. The y-axis title changed from 'Rate per million population' to 'Indicator per million population,' which, while 'Rate' is more specific, 'Indicator' still conveys the core meaning of a metric per population accurately without significant loss of information."
+    },
+    "query": "what is the sum of lung's bars?",
+    "translated_query": "Какова сумма столбцов по легкому?",
+    "label": "38",
+    "tranlated_label": "38"
+}

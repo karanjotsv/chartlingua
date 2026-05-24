@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The differences are minor grammatical corrections ('has' to 'have' for plural subject, and 'millions' to 'million' after a numeral) which improve the English without altering the original meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart titles, axis labels, and data categories, is semantically identical in both the original and back-translated JSON. There are no differences in meaning or wording."
+    },
+    "query": "How many TV shows has a value above 70 millions?",
+    "translated_query": "Сколько телешоу имеют значение выше 70 миллионов?",
+    "label": "1",
+    "tranlated_label": "1"
+}

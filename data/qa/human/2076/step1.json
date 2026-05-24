@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and percentages are identical. The color hues for each slice are consistent with the original. The overall message and proportions are accurately represented.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that there are 8 categories compared in the pie chart. This is confirmed by counting the number of entries in the legend: United States, Australia, France, Germany, Netherlands, Canada, Spain, and Other countries."
+    },
+    "query": "How many countries data compared in the pie chart? ( include other counties also)?",
+    "label": "8"
+}

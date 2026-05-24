@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While most categories, labels, and data points are correctly represented in terms of value and color, there is a significant semantic error. The bar for 'Domestic Service or' represents a positive value (~+10) in the original chart, but a negative value (~-9) in the rendered chart, which fundamentally misrepresents the data for that category.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart displays data for 'Sutton residents', but the chart image does not contain any information about a specific location named 'Sutton'."
+    },
+    "claim": "The chart displays a breakdown of the various occupations of Sutton residents in 1881, which supports the claim.",
+    "label": true
+}

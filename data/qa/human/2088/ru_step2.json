@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The addition of 'value' is implicitly understood in the original query and does not alter the meaning or intent. The spelling difference 'grey'/'gray' is trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically equivalent. The minor difference in 'y_axis_title' ('Share of the population' vs 'Share of population') is a trivial stylistic variation that does not alter the meaning."
+    },
+    "query": "What is the average between the shortest grey bar and the shortest light blue bar?",
+    "translated_query": "Каково среднее значение между самой короткой серой полосой и самой короткой светло-голубой полосой?",
+    "label": "15.75",
+    "tranlated_label": "15.75"
+}

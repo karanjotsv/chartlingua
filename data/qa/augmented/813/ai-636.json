@@ -1,0 +1,55 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Fresh vegetables",
+            "x": [
+                2015,
+                2016,
+                2017,
+                2018,
+                2019,
+                2020
+            ],
+            "y": [
+                6605,
+                7486,
+                7505,
+                7950,
+                8514,
+                9527
+            ]
+        },
+        {
+            "name": "Processed vegetables*",
+            "x": [
+                2015,
+                2016,
+                2017,
+                2018,
+                2019,
+                2020
+            ],
+            "y": [
+                3269,
+                2515,
+                3007,
+                3216,
+                3164,
+                3559
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Import value in million U.S. dollars",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#1f77b4",
+        "#1c2c3c"
+    ]
+}

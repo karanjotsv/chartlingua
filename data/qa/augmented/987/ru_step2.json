@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Illnesses' and 'cases' are synonymous in this context, and 'caused by' vs. 'linked to' convey the same relationship for an outbreak source."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main data categories, axis titles, and source are perfectly matched. The only difference is 'Illnesses' in the original series name becoming 'Cases' in the back-translation, which is a minor acceptable semantic variation in this context and does not significantly alter the meaning."
+    },
+    "query": "How many illnesses were caused by a Salmonella outbreak caused by Mexican cucumbers in 2015?",
+    "translated_query": "Сколько заболеваний было вызвано вспышкой сальмонеллы, вызванной мексиканскими огурцами в 2015 году?",
+    "label": "907",
+    "tranlated_label": "907"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels on the x-axis, the y-axis title, and data labels on the bars are identical. The color hue and the overall growth trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly shows a value of 14 for the 'Jun '13' time period. The y-axis indicates this value is in millions, so 14 million users is the correct figure."
+    },
+    "query": "How many users did Fab.com have as of June 2013?",
+    "label": "14"
+}

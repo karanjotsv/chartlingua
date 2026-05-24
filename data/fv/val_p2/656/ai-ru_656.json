@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": "Категорически Morelike",
+            "y": 48
+        },
+        {
+            "x": "Отчасти Morelike",
+            "y": 42
+        },
+        {
+            "x": "Ни то, ни другое",
+            "y": 26
+        },
+        {
+            "x": "Отчасти Wikivectors",
+            "y": 33
+        },
+        {
+            "x": "Категорически Wikivectors",
+            "y": 29
+        }
+    ],
+    "texts": {
+        "title": "В каком списке содержится статья, которую вы, скорее всего, прочитаете следующей?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#6c5f84",
+        "#d0c4e1",
+        "#eae8d8",
+        "#a19a6c",
+        "#646044"
+    ]
+}

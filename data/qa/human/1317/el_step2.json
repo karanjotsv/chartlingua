@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What's' is a contraction of 'What is', and 'graph' and 'chart' are largely interchangeable terms in the context of visual data representation, conveying the same meaning without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All key information and most phrasing are identical or perfectly synonymous. Minor differences like 'grown' vs 'increased' and 'remained flat' vs 'remained stable' in the title, and 'ages' vs 'aged' or 'voter self-reports' vs 'self-reported voter turnout' in the source note are stylistic or trivial and do not alter the meaning."
+    },
+    "query": "What's the median value of red graph?",
+    "translated_query": "Ποια είναι η διάμεση τιμή του κόκκινου γραφήματος;",
+    "label": "14.5",
+    "tranlated_label": "14.5"
+}

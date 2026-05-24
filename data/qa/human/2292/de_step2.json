@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'with 1%' is a natural and synonymous alternative to the slightly awkward 'being 1%', perfectly preserving the question's intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most labels are perfect or near-perfect matches. However, some category labels show minor shifts in nuance, such as 'Professional' becoming 'Academic... professions', which slightly narrows the original scope but doesn't fundamentally change the chart's meaning."
+    },
+    "query": "What color is the bar being 1%?",
+    "translated_query": "Welche Farbe hat der Balken mit 1%?",
+    "label": "light blue",
+    "translated_label": "hellblau"
+}

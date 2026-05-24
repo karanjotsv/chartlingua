@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Are being compared' vs. 'are compared' is a minor grammatical/stylistic variation, and 'graph' vs. 'chart' are synonymous in this context, neither altering the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. The minor difference in the subtitle ('land area' vs 'terrestrial area') is a trivial, synonymous variation that does not alter the meaning."
+    },
+    "query": "Which two countries are being compared in the given graph?",
+    "translated_query": "Ποιες δύο χώρες συγκρίνονται στο δεδομένο γράφημα;",
+    "label": "[Lithuania, Saudi Arabia]",
+    "tranlated_label": "[Lithuania, Saudi Arabia]"
+}

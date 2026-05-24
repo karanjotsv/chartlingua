@@ -1,0 +1,97 @@
+{
+    "chart_type": "grouped_bar",
+    "series_names": [
+        "Магазин у дома",
+        "Газетный киоск"
+    ],
+    "chart_data": [
+        {
+            "category": "Северо-Запад",
+            "values": [
+                196,
+                18
+            ]
+        },
+        {
+            "category": "Юго-Восток",
+            "values": [
+                161,
+                26
+            ]
+        },
+        {
+            "category": "Шотландия",
+            "values": [
+                152,
+                21
+            ]
+        },
+        {
+            "category": "Юго-Запад",
+            "values": [
+                138,
+                14
+            ]
+        },
+        {
+            "category": "Восток Англии",
+            "values": [
+                106,
+                47
+            ]
+        },
+        {
+            "category": "Йоркшир и Хамбер",
+            "values": [
+                103,
+                7
+            ]
+        },
+        {
+            "category": "Северо-Восток",
+            "values": [
+                63,
+                6
+            ]
+        },
+        {
+            "category": "Восточный Мидленд",
+            "values": [
+                61,
+                7
+            ]
+        },
+        {
+            "category": "Западный Мидленд",
+            "values": [
+                58,
+                21
+            ]
+        },
+        {
+            "category": "Уэльс",
+            "values": [
+                46,
+                3
+            ]
+        },
+        {
+            "category": "Лондон",
+            "values": [
+                9,
+                2
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Количество магазинов",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2277d0",
+        "#1d2d3c"
+    ]
+}

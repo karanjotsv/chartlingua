@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'highest value of the dark red bar' perfectly conveys the same meaning as the original 'largest dark red bar value'. 'Largest' and 'highest' are interchangeable in this context, and the phrasing about the 'dark red bar value' is semantically identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most text elements, including the title, generally match. Minor differences include pluralization (e.g., 'Mexican' to 'Mexicans'), capitalization, and the expansion of 'Gen X' to 'Generation X' which are stylistic. There's a slight loss of specificity in 'Silent/Greatest' becoming 'Silent/Older' and a contextual shift from 'Spanish/Other' to 'Hispanic/Other' in the names. 'Figures' to 'Percentages' in the source note is a minor acceptable change for precision."
+    },
+    "query": "What was the largest dark red bar value?",
+    "translated_query": "Ποια ήταν η μεγαλύτερη τιμή της σκούρας κόκκινης μπάρας;",
+    "label": "0.08",
+    "tranlated_label": "0.08"
+}

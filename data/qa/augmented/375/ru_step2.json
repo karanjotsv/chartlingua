@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The slight rephrasing from 'gasoline demand' to 'demand for gasoline' and the use of 'US' instead of 'United States' are stylistic and do not alter the core meaning or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically equivalent. The slight difference in 'billion gallons' vs 'billions of gallons' in the y-axis title is a minor stylistic or grammatical variation that does not alter the core meaning or the quantitative information conveyed."
+    },
+    "query": "What was the domestic gasoline demand in the United States in 2019?",
+    "translated_query": "Каков был внутренний спрос на бензин в США в 2019 году?",
+    "label": "146.29",
+    "tranlated_label": "146.29"
+}

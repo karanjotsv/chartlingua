@@ -1,0 +1,40 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Наземные<br>транспортные средства",
+            "value": 28
+        },
+        {
+            "label": "Нерельсовое<br>оборудование",
+            "value": 19
+        },
+        {
+            "label": "Промышленные<br>процессы",
+            "value": 11
+        },
+        {
+            "label": "Использование растворителей",
+            "value": 29
+        },
+        {
+            "label": "Прочее",
+            "value": 13
+        }
+    ],
+    "texts": {
+        "title": "Источники летучих органических соединений<br>2005 года",
+        "subtitle": null,
+        "source": "Источник: epa.gov",
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#4372C4",
+        "#C0504D",
+        "#9BBB59",
+        "#8064A2",
+        "#4BACC6"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'have' was grammatically corrected to 'has'. 'Energy input' and 'energy consumption' are synonymous, as are 'Energy requirement' and 'energy demand' in this context. The core information remains identical."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall meaning is fair, but there are notable semantic shifts. 'Baseline' became 'Base', which is a minor loss of specificity. More significantly, 'Energy Input' became 'Energy Consumption', which represents a distinct concept rather than a perfect synonym in an energy context, thereby altering the precise meaning of the chart's title."
+    },
+    "claim": "Alternative 2 have highest energy input in Energy requirement ",
+    "translated_claim": "Альтернатива 2 имеет наибольшее потребление энергии в рамках потребности в энергии."
+}

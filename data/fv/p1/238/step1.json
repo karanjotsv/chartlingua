@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the title, data values, proportions, categories, and color hues. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart image does not contain any information about the date or timeframe in which the poll was conducted. Therefore, the claim cannot be substantiated by the visual evidence."
+    },
+    "claim": "The poll was conducted between 22 April and 15 April 2012.",
+    "label": false
+}

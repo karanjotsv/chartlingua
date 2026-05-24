@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories (years), the chart title, and the overall trend are accurately reproduced. The only differences are minor stylistic choices, such as the placement and formatting of data labels (e.g., '74.82k' vs. '74820'), which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart displays aircraft movements per year from 1974 to 2019. The tallest bar corresponds to the year 1975, with a labeled value of 83.737k, which is the highest value shown in the chart for the specified period."
+    },
+    "claim": "The aircraft movements at Hilversum Airport is highest in 1975 between the years 1974 and 2019.",
+    "label": true
+}

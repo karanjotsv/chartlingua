@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, their relative proportions in both the inner and outer rings, and their corresponding labels are accurately reproduced. The color hues for each category are also consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart explicitly labels the green-colored segment of the donut chart as 'Adenocarcinoma', which directly validates the claim."
+    },
+    "claim": "Adenocarcinoma is represented in green color.",
+    "label": "TRUE"
+}

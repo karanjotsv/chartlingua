@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values for 'ACTUAL' (~2.5) and 'FORCASTED' (~2.6) are accurately reproduced. The categories, their labels within the bars, and the orange color hue are all consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'actual' bar is far higher than the 'forecasted' bar. However, the chart visually shows that the 'forecasted' bar is slightly taller than the 'actual' bar."
+    },
+    "claim": "The chart shows that the bar of the actual UK growth is far higher than the forecasted bar",
+    "label": false
+}

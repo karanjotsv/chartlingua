@@ -1,0 +1,36 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "series_name": "Viteză",
+            "categories": [
+                "300",
+                "350",
+                "400",
+                "450",
+                "500",
+                "600"
+            ],
+            "values": [
+                2850,
+                2750,
+                2550,
+                2450,
+                2350,
+                2150
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Comparație între Greutatea și Viteza Glonțului .458 Lott",
+        "subtitle": null,
+        "x_axis_title": "Viteza Glonțului (ft/s)",
+        "y_axis_title": "Greutatea Glonțului (gr.)",
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FF0000"
+    ]
+}

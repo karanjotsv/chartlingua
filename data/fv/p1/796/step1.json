@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Both subplots accurately represent the data trends, values, and proportions of the original. All titles and labels are identical. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The image contains two charts. The title of the top chart is 'Failed edits due to session loss, per minute...' and the title of the bottom chart is 'Edits per minute...'. The claim accurately describes the content of these two charts."
+    },
+    "claim": "Edits per minute and Failed edits due to session loss per minute are shown in the given charts.",
+    "label": true
+}

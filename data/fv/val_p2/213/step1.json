@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text elements (titles, axis labels, category labels), and color hues are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the average of the five values is 2500. However, calculating the average from the chart's data (5000 + 3750 + 1250 + 1875 + 5000) / 5 results in 3375, which contradicts the claim."
+    },
+    "claim": "The average of all 5 bloks is 2500.",
+    "label": "FALSE"
+}

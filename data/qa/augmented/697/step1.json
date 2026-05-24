@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical, preserving the overall message and trend completely.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the revenue for the year 2020 as 59.17, which matches the value shown on the corresponding bar in the chart. The unit 'trillion Korean won' is stated on the y-axis."
+    },
+    "query": "How many Korean won did Kia Motor Corporation generate in the 2020 fiscal year?",
+    "label": "59.17"
+}

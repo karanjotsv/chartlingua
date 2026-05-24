@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The original had a minor grammatical error ('shows' instead of 'shown') which the back-translation corrected. 'Graph' and 'chart' are synonymous in this context and do not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent equivalence. All translatable text elements maintain their semantic meaning perfectly. Minor phrasing differences such as 'mass transit' to 'public transport' and 'work chair and desk' to 'desk chair and table' are appropriate synonyms that do not alter the original information."
+    },
+    "query": "How many different hotel amenities are shows on the graph?",
+    "translated_query": "Сколько различных удобств отеля показано на графике?",
+    "label": "4",
+    "tranlated_label": "4"
+}

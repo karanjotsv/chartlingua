@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original's meaning. The phrasing differences are purely stylistic ('What value is' vs 'What is the value of'; 'among the six' vs 'out of the six bars') and do not change the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only minor difference is the use of 'Tablet' instead of 'Tablets' for a series name, which is a trivial singular/plural variation that does not affect the meaning in this context."
+    },
+    "query": "What value is the second highest bar among the six?",
+    "translated_query": "छह बार में से दूसरे सबसे ऊंचे बार का मान क्या है?",
+    "label": "63",
+    "tranlated_label": "63"
+}

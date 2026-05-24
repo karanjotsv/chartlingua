@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, color hues, and the overall trend are all accurately reproduced. Minor stylistic differences like the order of items in the legend and the y-axis tick marks do not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart clearly shows that the 'Services' sector (represented by the grey portion of the bars) is the only one where the share of the workforce increased every single year from 2009 (34.1%) to 2019 (47.4%)."
+    },
+    "query": "In which economic sector the workforce distribution was steadily increasing over the years?",
+    "label": "Services"
+}

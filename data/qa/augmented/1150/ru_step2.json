@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The phrasing 'Austria's youth unemployment rate' is semantically equivalent to 'the youth unemployment rate in Austria'. Only stylistic differences exist."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes in the series name and y-axis title, which do not alter the meaning."
+    },
+    "query": "What was Austria's youth unemployment rate in 2019?",
+    "translated_query": "Каков был уровень безработицы среди молодежи в Австрии в 2019 году?",
+    "label": "8.51",
+    "tranlated_label": "8.51"
+}

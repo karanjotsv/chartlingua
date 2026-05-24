@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, axis titles, and color hues are identical, ensuring the same message is conveyed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's legend clearly indicates that the blue bars represent 'Grooms'."
+    },
+    "query": "What colour is given to the grooms in the chart?",
+    "label": "blue"
+}

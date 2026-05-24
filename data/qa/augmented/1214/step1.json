@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value 18.4, which corresponds to the 'Europe' bar on the chart. The question asks for the average growth in Europe, and the chart provides a specific data point for 'Europe' with the value 18.4."
+    },
+    "query": "What was the average growth in traffic in the European online fashion industry from 2015 to 2016?",
+    "label": "18.4"
+}

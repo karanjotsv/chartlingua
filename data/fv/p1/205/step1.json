@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original. All text, color hues, and major data trends (specifically the large spike in discharge on the logarithmic scale) are accurately reproduced. There is a very minor discrepancy in the vertical positioning of the 'Median daily statistic' markers, but this does not alter the chart's primary message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows a significant increase in water discharge at Platter Kill in late August 2011. However, the chart does not provide any information about the cause of this event, and makes no mention of \"Tropical Storm Irene\". Therefore, the claim cannot be fully supported by the provided data."
+    },
+    "claim": "THE PLATTER KILL EXPERIENCED A SIGNIFICANT INCREASE IN WATER DISCHARGE DURING THE WEEK IN AUGUST 2011 WHEN TROPICAL STORM IRENE PASSED OVER",
+    "label": true
+}

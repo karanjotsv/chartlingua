@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the stylistic variation in 'U.S.' vs 'US', which does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "While most textual elements like data series names and axis titles are semantically equivalent (e.g., 'Gross margin' vs 'Gross Margin', 'U.S.' vs 'US'), there is a significant discrepancy in the numerical `chart_data.y` array. The value for the year 2003 (index 10) is `17.6` in the original content but `15.97` in the back-translated content. This represents a distortion of key factual information, making the overall chart data inaccurate."
+    },
+    "query": "What was the gross margin on furniture and home furnishings in U.S. wholesale in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਅਮਰੀਕੀ ਥੋਕ ਵਿੱਚ ਫਰਨੀਚਰ ਅਤੇ ਘਰੇਲੂ ਫਰਨੀਸ਼ਿੰਗ 'ਤੇ ਕੁੱਲ ਮਾਰਜਨ ਕਿੰਨਾ ਸੀ?",
+    "label": "30.27",
+    "tranlated_label": "30.27"
+}

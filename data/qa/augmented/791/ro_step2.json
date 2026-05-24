@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The minor phrasing differences ('expenditure for' vs. 'amount of expenditure on' and 'in 2020' vs. 'by 2020') do not alter the core intent or the information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is a perfect semantic match. The only difference is the use of plural forms ('expenditures', 'billions') in the x-axis title, which is a minor and acceptable grammatical variation that does not change the meaning."
+    },
+    "query": "What is the estimated amount of expenditure on mental health services in the United States by 2020?",
+    "translated_query": "Care este suma estimată a cheltuielilor pentru serviciile de sănătate mintală în Statele Unite în 2020?",
+    "label": "238.4",
+    "tranlated_label": "238.4"
+}

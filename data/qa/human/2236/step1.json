@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, series, text labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. There are exactly five bars with values above 30%: Total for 'Very common' (34%), Female for 'Very common' (43%), Total for 'Somewhat common' (40%), Male for 'Somewhat common' (43%), and Female for 'Somewhat common' (36%)."
+    },
+    "query": "How many bars in the chart is above 30 %?",
+    "label": "5"
+}

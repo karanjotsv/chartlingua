@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and color hues are identical. The only minor difference is the rotational position of the pie slices, which does not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that the largest source of tax revenue is 'Income Taxes' at 32%, and the smallest is 'Other' at 7%. The difference between these two values is 32% - 7% = 25%, which directly supports the claim."
+    },
+    "claim": "The difference between the largest and smallest slice of chart is 25%",
+    "label": "TRUE"
+}

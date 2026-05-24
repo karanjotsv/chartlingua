@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Среднее",
+            "value": 610
+        },
+        {
+            "category": "Автобус",
+            "value": 621
+        },
+        {
+            "category": "Троллейбус",
+            "value": 543
+        }
+    ],
+    "texts": {
+        "title": "Сеть общественного транспорта<br>в Брашове, Румыния",
+        "subtitle": "Расстояние между остановками<br>по типу транспортного средства",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Июнь 2012",
+        "value_suffix": " m"
+    },
+    "colors": [
+        "#000000",
+        "#1F3864",
+        "#447231"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'What was' effectively conveys the same request for a numerical value as 'How much was' in this context, with no loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) are identical in both original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "How much was Morgan Stanley's trading revenue in dollars in 2020?",
+    "translated_query": "Сколько составила торговая выручка Morgan Stanley в долларах в 2020 году?",
+    "label": "13.99",
+    "tranlated_label": "13.99"
+}

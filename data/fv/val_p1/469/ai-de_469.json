@@ -1,0 +1,60 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Landwirtschaft",
+            "Berufe mit Tieren",
+            "Maschinenbau",
+            "Handelswaren",
+            "Mineralische Stoffe",
+            "Haushaltsdienste",
+            "Hausbau",
+            "Lebensmittelgewerbe",
+            "Schneider und Schuhmacher",
+            "Unbekannt"
+        ],
+        "series": [
+            {
+                "name": "Anzahl Männer",
+                "values": [
+                    28,
+                    9,
+                    3,
+                    28,
+                    10,
+                    0,
+                    9,
+                    5,
+                    3,
+                    1
+                ]
+            },
+            {
+                "name": "Anzahl Frauen",
+                "values": [
+                    5,
+                    0,
+                    0,
+                    2,
+                    0,
+                    18,
+                    0,
+                    0,
+                    5,
+                    70
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Berufe von Männern und Frauen im Jahr 1881",
+        "subtitle": null,
+        "x_axis_title": "Beruf",
+        "y_axis_title": "Anzahl Personen",
+        "source": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#A9A9A9"
+    ]
+}

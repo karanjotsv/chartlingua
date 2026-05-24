@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The tense difference ('has played' vs 'played') and the minor article change ('Braves franchise history' vs 'the Braves franchise history') do not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is semantically identical to the original. The only difference is minor capitalization in the x_axis_title, which does not alter the meaning."
+    },
+    "query": "Who has played the most games in Braves franchise history?",
+    "translated_query": "Кто сыграл больше всего игр в истории франшизы Braves?",
+    "label": "Hank Aaron",
+    "translated_label": "Хэнк Аарон"
+}

@@ -1,0 +1,33 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Μέσο ακαθάριστο εισόδημα/έτος",
+            "x": [
+                "Νοικοκυριό",
+                "Άτομα, 25+",
+                "Άτομα, πλήρους απασχόλησης, 25+"
+            ],
+            "y": [
+                46000,
+                32000,
+                39000
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "data_labels": [
+            "$46,000",
+            "$32,000",
+            "$39,000"
+        ]
+    },
+    "colors": [
+        "#9B9BFF"
+    ]
+}

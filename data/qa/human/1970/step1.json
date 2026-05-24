@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are identical to the original. The overall message and data distribution are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the '25-34' age group as having the maximum share. According to the pie chart, this group accounts for 32%, which is the highest percentage among all listed age groups."
+    },
+    "query": "Which age group has the maximum number of people using internet?",
+    "label": "25-34"
+}

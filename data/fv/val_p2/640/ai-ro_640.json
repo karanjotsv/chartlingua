@@ -1,0 +1,64 @@
+{
+    "charts": [
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    47,
+                    20,
+                    20,
+                    24,
+                    24,
+                    10
+                ]
+            },
+            "texts": {
+                "title": "Întrebarea Numărul 1",
+                "description": "Ce statistici oficiale privind producția utilizați?<br>(selectați toate variantele aplicabile)<br><br>A) Sondajul Anual de Afaceri<br>B) Vânzările producătorilor din Marea Britanie pe produs (Prodcom)<br>C) Indicele Prețurilor de Producție<br>D) Indicele de Producție<br>E) Productivitate<br>F) Altele"
+            }
+        },
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    9,
+                    39,
+                    10,
+                    24,
+                    45,
+                    8
+                ]
+            },
+            "texts": {
+                "title": "Întrebarea Numărul 2",
+                "description": "Pentru ce utilizați aceste statistici oficiale? (selectați<br>toate variantele aplicabile)<br><br>A) Decizii de investiții<br>B) Dezvoltarea politicilor<br>C) Decizii de planificare și cheltuieli locale<br>D) Planificarea afacerii<br>E) Cercetare<br>F) Altele"
+            }
+        }
+    ],
+    "colors": {
+        "bar": "#82b9e6",
+        "bar_border": "#3b3b3b",
+        "data_label": "#000000",
+        "title_background": "#a90000",
+        "title_font": "#ffffff",
+        "description_background": "#0c2c45",
+        "description_font": "#ffffff",
+        "plot_background": "#ffffff",
+        "grid": "#d3d3d3",
+        "paper_background": "#ffffff"
+    }
+}

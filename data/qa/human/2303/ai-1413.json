@@ -1,0 +1,44 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": {
+        "categories": [
+            "Men",
+            "Women"
+        ],
+        "series": [
+            {
+                "name": "Excessive, they are spreading social concern",
+                "values": [
+                    56,
+                    48
+                ]
+            },
+            {
+                "name": "In this context, the appropriate behavior",
+                "values": [
+                    33,
+                    37
+                ]
+            },
+            {
+                "name": "They are downplaying the situation",
+                "values": [
+                    11,
+                    15
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#297ACC",
+        "#14354D",
+        "#B2B2B2"
+    ]
+}

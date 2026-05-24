@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is a complete failure in representing the original data. It is a malformed plot where the stacked bars are compressed into an unreadable mass, axis labels are illegible, and the color information is lost. It conveys none of the information or trends from the original chart.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed, with all data points and bars compressed into a single unreadable area on the right. Both the X and Y-axis labels are severely overlapped, making them completely illegible. This is a gross layout failure."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a specific quantitative comparison involving the years 2010, 2015, and 2018. However, the chart is not readable enough to verify this. The x-axis labels for the years are jumbled and illegible, and it is impossible to accurately determine the values for the specific years mentioned in the claim. Therefore, the chart does not provide the necessary data to support the claim."
+    },
+    "claim": "The total amounts of exoplanets in 2010 and 2015 is equal to 2018.",
+    "label": "FALSE"
+}

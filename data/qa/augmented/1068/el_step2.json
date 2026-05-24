@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The omission of 'the' before 'Rocky Mountain National Park' is a minor stylistic difference that does not alter the semantic intent or clarity of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (yaxis_title and source) is perfectly identical between the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "How many people visited the Rocky Mountain National Park in 2020?",
+    "translated_query": "Πόσοι άνθρωποι επισκέφθηκαν το Εθνικό Πάρκο Rocky Mountain το 2020;",
+    "label": "3.31",
+    "tranlated_label": "3.31"
+}

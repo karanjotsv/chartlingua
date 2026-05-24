@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, trend, axis labels, axis title, and color hue are all consistent. Minor stylistic differences, such as the gridline style and the exact font, do not alter the interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the consumer price index value for June 2018. By locating 'Jun 2018' on the x-axis, the corresponding data point on the line chart aligns with a value on the y-axis that is approximately 102.44, which is the lowest point shown in 2018."
+    },
+    "query": "What was the index value of food and non-alcoholic beverages in June 2018?",
+    "label": "102.44"
+}

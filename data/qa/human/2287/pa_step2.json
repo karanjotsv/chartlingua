@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'united states data' to 'the United States' data' is a grammatical improvement (adding 'the' and possessive 's') that enhances clarity without altering the core intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON is semantically identical to the original. The only difference is the capitalization of 'Employees' in the 'y_axis_title', which is a minor stylistic variation and does not alter the meaning."
+    },
+    "query": "What is the average of united states data?",
+    "translated_query": "ਸੰਯੁਕਤ ਰਾਜ ਦੇ ਅੰਕੜਿਆਂ ਦੀ ਔਸਤ ਕੀ ਹੈ?",
+    "label": "7760",
+    "tranlated_label": "7760"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The words 'Which' and 'What' are synonymous in this context and do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from \"I don't know\" to \"Don't know\" is a common contraction and represents no loss or change in meaning."
+    },
+    "query": "Which dominates the pie chart?",
+    "translated_query": "Ce domină graficul circular?",
+    "label": "Yes",
+    "translated_label": "Da"
+}

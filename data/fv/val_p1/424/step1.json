@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents the title, categories, color hues, and overall data proportions. The major data labels (48.8%, 45.5%, 2.4%) are correct. However, it fails to display the data labels for the two smallest categories ('solar' and 'other'), which is a minor loss of information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that natural gas was the lowest contributor to electricity generation, but the pie chart shows it was the highest contributor at 48.8%."
+    },
+    "claim": "In 2016, natural gas was the lowest contributor to electricity generation in Connecticut.",
+    "label": false
+}

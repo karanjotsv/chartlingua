@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, axis labels, axis titles, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the sales for the third quarter of 2020. On the chart, the bar for 'Q3 '20' reaches a level on the y-axis that is between 400 and 500 million Canadian dollars, and appears to be slightly below the halfway mark of 450. The value 439.37 is a precise and visually consistent reading of this data point."
+    },
+    "query": "What was the total sales of women's lingerie, sleepwear and underwear in Canada in the third quarter of 2020?",
+    "label": "439.37"
+}

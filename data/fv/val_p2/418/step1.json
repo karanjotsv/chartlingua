@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data proportions, labels, and the colors of the major slices are highly consistent. The overall message is preserved. The rendered chart is rotated compared to the original, which is a stylistic difference, but some of the very small slices have inconsistent color hues (e.g., a red slice became blue, a cyan slice became red).",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the majority of sources come from vocab.getty.edu. While this source represents the largest single slice in the pie chart, it is visually less than 50% of the total, and therefore does not constitute a majority. A majority would require the slice to be larger than all other slices combined."
+    },
+    "claim": "The chart indicates that the majority of StrepHit IEG Web Sources Corpus Biographies come from the Getty Vocabulary Program.",
+    "label": "FALSE"
+}

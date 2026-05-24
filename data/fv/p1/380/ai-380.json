@@ -1,0 +1,150 @@
+{
+    "chart_type": "infographic",
+    "texts": {
+        "title": "Regional Profile of the North East",
+        "section_population": "Population",
+        "population_value": "4%",
+        "population_sub_label": "of the UK",
+        "population_extra_1": "2.6 million",
+        "population_extra_2": "Lowest in England<br>mid-2012",
+        "section_median_age": "Median Age",
+        "median_age_note": "mid-2012",
+        "section_unemployment": "Unemployment",
+        "unemployment_note": "Highest in the UK<br>Q2 2013",
+        "section_economic_output": "Economic Output",
+        "economic_output_value": "3%",
+        "economic_output_sub_label": "of the UK",
+        "economic_output_note": "Gross Value Added<br><b>Smallest</b> in England<br>(Northern Ireland 2%)<br>2011",
+        "section_weekly_earnings": "Weekly Earnings",
+        "weekly_earnings_note": "Median earnings of<br>full-time employees<br><b>Lowest</b> in England<br>April 2012",
+        "section_house_prices": "House Prices",
+        "house_prices_note": "<b>Lowest</b> in England<br>June 2013",
+        "section_crime": "Crime",
+        "crime_note": "One of the <b>lowest</b> recorded<br>crimes per 1,000 population<br>in 2012/13",
+        "footer_left": "www.ons.gov.uk",
+        "footer_middle": "Contains data and information from Ordnance Survey.<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013"
+    },
+    "colors": {
+        "population": "#D9422C",
+        "median_age": "#8A3B95",
+        "unemployment": "#0072BC",
+        "economic_output": "#9AC43B",
+        "weekly_earnings": "#E6007E",
+        "house_prices": "#447987",
+        "crime": "#231F20",
+        "background": "#FFFFFF",
+        "text_light": "#FFFFFF",
+        "text_dark": "#333333",
+        "text_medium": "#666666",
+        "map_fill": "#E6E6E6",
+        "map_points": "#0072BC",
+        "donut_secondary": "#E0E0E0",
+        "bar_secondary": "#A8A8A8"
+    },
+    "chart_data": {
+        "population": {
+            "value": 4
+        },
+        "median_age": {
+            "series": [
+                {
+                    "name": "London",
+                    "value": 34.0
+                },
+                {
+                    "name": "North East",
+                    "value": 41.5
+                },
+                {
+                    "name": "South West",
+                    "value": 42.9
+                }
+            ]
+        },
+        "unemployment": {
+            "categories": [
+                "North<br>East",
+                "North<br>West",
+                "South<br>East",
+                "South<br>West"
+            ],
+            "values": [
+                10.3,
+                8.2,
+                6.0,
+                6.0
+            ]
+        },
+        "economic_output": {
+            "value": 3
+        },
+        "map_cities": [
+            {
+                "name": "Berwick-upon-Tweed",
+                "x": 0.51,
+                "y": 0.77
+            },
+            {
+                "name": "Newcastle upon Tyne",
+                "x": 0.52,
+                "y": 0.6
+            },
+            {
+                "name": "Gateshead",
+                "x": 0.6,
+                "y": 0.58
+            },
+            {
+                "name": "Sunderland",
+                "x": 0.61,
+                "y": 0.54
+            },
+            {
+                "name": "Durham",
+                "x": 0.59,
+                "y": 0.5
+            },
+            {
+                "name": "Middlesbrough",
+                "x": 0.6,
+                "y": 0.44
+            }
+        ],
+        "weekly_earnings": {
+            "series": [
+                {
+                    "name": "North East",
+                    "value": 455
+                },
+                {
+                    "name": "London",
+                    "value": 613
+                }
+            ]
+        },
+        "house_prices": {
+            "series": [
+                {
+                    "name": "North East",
+                    "value": 145000
+                },
+                {
+                    "name": "London",
+                    "value": 425000
+                }
+            ]
+        },
+        "crime": {
+            "series": [
+                {
+                    "name": "North East",
+                    "value": 53
+                },
+                {
+                    "name": "London",
+                    "value": 95
+                }
+            ]
+        }
+    }
+}

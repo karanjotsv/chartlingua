@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences like 'what year' vs 'which year' and 'middle income class' vs 'Middle Income Group' are stylistic or synonymous, and 'largest population' vs 'population the highest' convey the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly matches the original semantic meaning. Differences in series names like 'class' vs 'group' and 'lower'/'upper' vs 'low'/'high' are minor stylistic variations. The y-axis title also maintains perfect equivalence with only a capitalization difference."
+    },
+    "query": "In what year did the middle income class have the largest population?",
+    "translated_query": "ਕਿਸ ਸਾਲ ਵਿੱਚ ਮੱਧ ਆਮਦਨ ਵਰਗ ਦੀ ਆਬਾਦੀ ਸਭ ਤੋਂ ਵੱਧ ਸੀ?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

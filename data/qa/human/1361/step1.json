@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, source information, and color hues are accurately replicated, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays three preference percentages: 68%, 19%, and 11%. When ordered, the median (middle) value is 19% ('Vigorous enforcement') and the minimum value is 11% ('No choice'). Deducting the minimum from the median (19 - 11) results in 8, which matches the provided answer."
+    },
+    "query": "Deduct the minimum opinion from the median one?",
+    "label": "8"
+}

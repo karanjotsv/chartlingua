@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart maintains the overall two-panel structure, color scheme, and general long-term trends. However, the primary data series (green line) is severely downsampled, losing all the high-frequency detail and volatility visible in the original. This represents a moderate loss of information, changing the character of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the 'Zero-Lag EMA' (the green line) fluctuating significantly over time, starting below 500 in 1995 and reaching a peak above 1550 around 2007. It was not the same all the time."
+    },
+    "claim": "The indicator Zero-Lag EMA was the same all the time. ",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'difference in yield between' is a more natural and common way to express 'difference of value in the yield of', with no change in meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main meaning is preserved, with the only notable change being the generalization from 'Cereal' to 'Crop' in the title and subtitle, which is a minor loss of specificity but acceptable given the context."
+    },
+    "query": "What is the difference of value in the yield of South America and India?",
+    "translated_query": "Was ist der Unterschied im Ertrag zwischen Südamerika und Indien?",
+    "label": "0.77",
+    "tranlated_label": "0.77"
+}

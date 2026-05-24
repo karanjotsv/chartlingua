@@ -1,0 +1,118 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "30 W",
+            "x": [
+                10,
+                20,
+                50,
+                100,
+                200,
+                500,
+                1000,
+                2000,
+                5000,
+                10000,
+                20000,
+                30000,
+                40000,
+                50000
+            ],
+            "y": [
+                0.0011,
+                0.0011,
+                0.0011,
+                0.0011,
+                0.0012,
+                0.0012,
+                0.0013,
+                0.002,
+                0.005,
+                0.01,
+                0.02,
+                0.03,
+                0.04,
+                0.048
+            ]
+        },
+        {
+            "name": "20 W",
+            "x": [
+                10,
+                20,
+                50,
+                100,
+                200,
+                500,
+                1000,
+                2000,
+                5000,
+                10000,
+                20000,
+                30000,
+                40000,
+                50000
+            ],
+            "y": [
+                0.0009,
+                0.0009,
+                0.0009,
+                0.00085,
+                0.00085,
+                0.0009,
+                0.001,
+                0.0012,
+                0.003,
+                0.006,
+                0.012,
+                0.018,
+                0.024,
+                0.028
+            ]
+        }
+    ],
+    "texts": {
+        "title": "AUDIO PRECISION APLAST$$ THD+N(%) vs FREQ(Hz)",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "A<sub>p</sub> 30 W",
+                "x": 38000,
+                "y": 0.042,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "font": {
+                    "family": "Arial",
+                    "size": 12,
+                    "color": "black"
+                }
+            },
+            {
+                "text": "20 W",
+                "x": 38000,
+                "y": 0.02,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false,
+                "xanchor": "left",
+                "yanchor": "middle",
+                "font": {
+                    "family": "Arial",
+                    "size": 12,
+                    "color": "black"
+                }
+            }
+        ]
+    },
+    "colors": [
+        "#000000",
+        "#000000"
+    ]
+}

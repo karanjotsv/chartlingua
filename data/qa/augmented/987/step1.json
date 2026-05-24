@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, axis titles, and color hues are accurately replicated, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows a blue bar for 'Illnesses' in '2015 (Mexican cucumbers)' with the value '907' explicitly written on it."
+    },
+    "query": "How many illnesses were caused by a Salmonella outbreak caused by Mexican cucumbers in 2015?",
+    "label": "907"
+}

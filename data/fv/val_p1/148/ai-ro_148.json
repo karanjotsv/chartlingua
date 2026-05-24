@@ -1,0 +1,104 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Relație",
+            "x": [
+                39,
+                45,
+                50,
+                55,
+                60,
+                65,
+                70,
+                75,
+                80,
+                85,
+                88
+            ],
+            "y": [
+                5.0,
+                4.0,
+                3.4,
+                2.8,
+                2.3,
+                1.85,
+                1.45,
+                1.05,
+                0.7,
+                0.35,
+                0.1
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "x_axis_title": "Λ, deg",
+        "y_axis_title": "A",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "A = 4 cot Λ",
+                "x": 22.5,
+                "y": 2.3,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": false,
+                "align": "center",
+                "font": {
+                    "size": 12
+                }
+            },
+            {
+                "text": "Λ",
+                "x": 17.5,
+                "y": 3.9,
+                "xref": "x",
+                "yref": "y",
+                "showarrow": true,
+                "arrowhead": 2,
+                "ax": 30,
+                "ay": -30,
+                "font": {
+                    "size": 14
+                }
+            }
+        ]
+    },
+    "shapes": [
+        {
+            "type": "path",
+            "path": "M 15,2.8 L 30,3.2 L 15,3.6 Z",
+            "line_color": "#000000",
+            "line_width": 1
+        },
+        {
+            "type": "path",
+            "path": "M 15,3.6 L 15,3.9 L 20,3.9",
+            "line_color": "#000000",
+            "line_width": 1
+        },
+        {
+            "type": "line",
+            "x0": 45.5,
+            "y0": 4.0,
+            "x1": 46.5,
+            "y1": 3.8,
+            "line_color": "#000000",
+            "line_width": 1
+        },
+        {
+            "type": "line",
+            "x0": 82.5,
+            "y0": 0.6,
+            "x1": 83.5,
+            "y1": 0.4,
+            "line_color": "#000000",
+            "line_width": 1
+        }
+    ],
+    "colors": [
+        "#000000"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "x_values": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "y_values": [
+            1,
+            8,
+            6,
+            2,
+            5,
+            4,
+            8,
+            3,
+            7
+        ],
+        "bar_colors": [
+            "#000000",
+            "#FF0000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#FF0000"
+        ]
+    },
+    "water_area": {
+        "x_start_index": 1,
+        "x_end_index": 8,
+        "y_level": 7,
+        "color": "#A6CEE3"
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    }
+}

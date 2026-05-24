@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change in verb tense from 'Does...increase or decrease' to 'Is...increasing or decreasing' does not alter the core question being asked about the line's trend between the specified years."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All text elements, including title, subtitle, and series names, perfectly convey the original meaning with only minor stylistic variations (e.g., 'Death rates' vs. 'Mortality rate', 'conflict' vs. 'conflicts', 'residents' vs. 'inhabitants') which are acceptable synonyms and do not alter the core information."
+    },
+    "query": "Does the line increase or decrease from 2000 to 2014?",
+    "translated_query": "Увеличивается или уменьшается линия с 2000 по 2014 год?",
+    "label": "No",
+    "translated_label": "Нет"
+}

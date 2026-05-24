@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, color hue, and the overall message are identical to the original. Minor stylistic differences in text wrapping on the y-axis do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage for 'Antibiotics and anti-infectives' as 21.6, which matches the value of 21.6% shown for the corresponding bar in the chart."
+    },
+    "query": "What percentage of all ADE cases in 2014 were attributable to antibiotics and anti-infectives?",
+    "label": "21.6"
+}

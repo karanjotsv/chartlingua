@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. 'Ceiling height' is a more explicit version of 'ceiling is 14', and 'sound attenuation' is a precise synonym for 'sound loss' in this context. The core relationship and values are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The title is a perfect match. The x-axis title differs only in capitalization and using the full word 'feet' instead of the abbreviation 'Ft'. The y-axis title uses 'Weighted sound attenuation for speech', which is an excellent semantic equivalent to 'Speech Weighted Sound Loss' in this technical context."
+    },
+    "claim": "When the ceiling is 14 the sound loss is higher when NRC is 0.55 than when NRC is 0.69.",
+    "translated_claim": "Când înălțimea tavanului este de 14, atenuarea sonoră este mai mare când NRC este 0.55 decât atunci când NRC este 0.69."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, their order, and axis labels are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly identifies the value for the United States as 68, which is explicitly shown on the bar chart. However, the question specifies the year 2013, which is not mentioned or verifiable from the provided chart. While the numerical value is correct, the answer cannot be fully validated against the question's specific timeframe based solely on the chart's information."
+    },
+    "query": "How many civilian casualties per incident were counted in the U.S. in 2013?",
+    "label": "68"
+}

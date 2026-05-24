@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes 'power conversion efficiency' to 'energy conversion efficiency'. While these terms are related and often numerically equivalent for steady-state processes, 'power' refers to the rate of energy transfer, whereas 'energy' refers to the total amount. This constitutes a loss of specific nuance or detail from the original claim, although the general concept of 'highest efficiency in conversion' is maintained."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The translation changed 'Power Conversion Efficiency' to 'Energy Conversion Efficiency' in both the series name and chart title. While these terms are related, 'power' refers to the rate of energy transfer, making 'Power Conversion Efficiency' a more precise and standard term for the efficiency of devices like those using the listed materials. This change introduces a loss of specific technical accuracy and nuance."
+    },
+    "claim": "Nickel has the highest power conversion efficiency.",
+    "translated_claim": "Никель обладает самой высокой эффективностью преобразования энергии."
+}

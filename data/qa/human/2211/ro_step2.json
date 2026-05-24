@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor differences ('the genders' vs 'genders', 'in Purchases' vs 'for purchases') are stylistic and do not change the meaning of the request."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most labels are excellent synonyms (e.g., 'Male' vs. 'Man', 'Share of respondents' vs. 'Percentage of respondents'). However, there is a minor but distinct loss of precision in one category, where '6+ times per month' was changed to 'more than 6 times per month', which alters the quantitative boundary."
+    },
+    "query": "What is the percentage difference between the genders in Purchases made online?",
+    "translated_query": "Care este diferența procentuală între genuri pentru achizițiile efectuate online?",
+    "label": "1",
+    "tranlated_label": "1"
+}

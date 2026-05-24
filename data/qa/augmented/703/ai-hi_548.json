@@ -1,0 +1,51 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "क्रेडिट कार्ड",
+            "value": 42
+        },
+        {
+            "category": "इलेक्ट्रॉनिक भुगतान (यदि उपलब्ध हो तो पेपैल)",
+            "value": 39
+        },
+        {
+            "category": "डेबिट कार्ड",
+            "value": 28
+        },
+        {
+            "category": "कैश ऑन डिलीवरी",
+            "value": 23
+        },
+        {
+            "category": "बैंक ट्रांसफर",
+            "value": 20
+        },
+        {
+            "category": "गिफ़्ट कार्ड या वाउचर",
+            "value": 15
+        },
+        {
+            "category": "मोबाइल भुगतान",
+            "value": 14
+        },
+        {
+            "category": "क्रिप्टोकरेंसी (बिटकॉइन)",
+            "value": 3
+        },
+        {
+            "category": "अन्य",
+            "value": 3
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "ऑनलाइन खरीदारों का हिस्सा",
+        "y_axis_title": null,
+        "source": "© स्टेटिस्टा 2021"
+    },
+    "colors": [
+        "#3182CE"
+    ]
+}

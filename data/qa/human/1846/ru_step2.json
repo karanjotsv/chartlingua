@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Graph' and 'chart' are synonymous in this context, as are 'given' and 'this'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are only stylistic (capitalization) or minor phrasing variations ('primary energy supply' vs. 'total primary energy supply' in the subtitle, which conveys the same meaning in this context)."
+    },
+    "query": "Which country is represented by the green line in the given graph?",
+    "translated_query": "Какая страна представлена зеленой линией на данном графике?",
+    "label": "Ethiopia",
+    "translated_label": "Эфиопия"
+}

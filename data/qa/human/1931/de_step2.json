@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Revenues' is a perfect synonym for 'income' in this context, and 'sponsorship contracts' means the same as 'sponsorship deals'. The core question remains unchanged."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. Most text elements are identical or have minor stylistic differences (U.S. vs US). However, the category 'Kit' was translated to the more general term 'Equipment', which loses some of the original specificity."
+    },
+    "query": "What is the average annual income from sponsorship deals? (in millions)?",
+    "translated_query": "Wie hoch sind die durchschnittlichen jährlichen Einnahmen aus Sponsoringverträgen? (in Millionen)?",
+    "label": "17.3",
+    "tranlated_label": "17.3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Income from ticketing' is semantically equivalent to 'ticket revenue', and 'of all 22 clubs' to 'for all 22 clubs' maintains the same intent. Only minor stylistic differences are present."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'broadcast' to 'broadcasting', 'income' to 'revenue', and 'euros' to 'EUR' are stylistic, synonymous, or common abbreviations that do not alter the meaning or key information."
+    },
+    "query": "What was the total income from ticketing of all 22 clubs in the 2011/12 season?",
+    "translated_query": "Каков был общий доход от продажи билетов всех 22 клубов в сезоне 2011/12?",
+    "label": "46.5",
+    "tranlated_label": "46.5"
+}

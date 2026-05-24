@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated statement perfectly preserves the semantic meaning of the original. The change in phrasing from 'had less than half of its members incur' to 'Less than half of the members of the second quintile faced' is a minor stylistic difference that does not alter the core message about the proportion of the second quintile experiencing tax increases under the current policy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart_data labels and all fields under 'texts') is perfectly identical between the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "claim": "The second quintile had less than half of its members incur a tax increase with the current policy.",
+    "translated_claim": "Менее половины членов второго квинтиля столкнулись с повышением налогов при текущей политике."
+}

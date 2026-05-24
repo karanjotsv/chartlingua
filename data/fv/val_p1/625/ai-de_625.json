@@ -1,0 +1,40 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Kostenloses analoges Antennenfernsehen",
+            "value": 2800000
+        },
+        {
+            "category": "Kostenloses digitales Satellitenfernsehen",
+            "value": 900000
+        },
+        {
+            "category": "Kostenloses digitales Antennenfernsehen",
+            "value": 9600000
+        },
+        {
+            "category": "Sonstiges kostenpflichtiges digitales Fernsehen",
+            "value": 1000000
+        },
+        {
+            "category": "Kostenpflichtiges digitales Satellitenfernsehen",
+            "value": 8800000
+        },
+        {
+            "category": "Kostenpflichtiges digitales Kabelfernsehen",
+            "value": 3200000
+        }
+    ],
+    "texts": {
+        "title": "Balkendiagramm der von britischen Haushalten empfangenen TV-Plattformen",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: http://www.ofcom.org.uk/research/tv/reports/dtv/dtu_2009_02/q22009.png",
+        "note": null
+    },
+    "colors": [
+        "#4C78D6"
+    ]
+}

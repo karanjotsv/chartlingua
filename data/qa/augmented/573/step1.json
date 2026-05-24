@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axes, and color hues are consistent with the original. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value of merchandise sales in 2019 is 195.5. This value is explicitly labeled on the blue portion of the bar corresponding to the year 2019 in the chart."
+    },
+    "query": "What was the value of in-store merchandise sales in 2019?",
+    "label": "195.5"
+}

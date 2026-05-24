@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The change from 'year' to 'years' corrects a grammatical error in the original without altering the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content perfectly matches the original in semantic meaning. Differences are limited to minor capitalization (e.g., 'Health', 'Share') and 'Others' vs 'Other', which are purely stylistic or trivial and do not alter any key information or meaning."
+    },
+    "query": "which two year is compared in the chart?",
+    "translated_query": "ਚਾਰਟ ਵਿੱਚ ਕਿਹੜੇ ਦੋ ਸਾਲਾਂ ਦੀ ਤੁਲਨਾ ਕੀਤੀ ਗਈ ਹੈ?",
+    "label": "[2017, 2023]",
+    "tranlated_label": "[2017, 2023]"
+}

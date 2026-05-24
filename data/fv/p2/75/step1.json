@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text labels, and the overall chart structure are identical to the original. Minor color hue variations exist but do not alter the interpretation.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap on the labels for the smaller slices of the 'Renewables' pie chart, making them unreadable. The main title is also slightly clipped by the chart."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "Based on the chart, the value for Biodiesel is 0.17% and Solar CSP is 0.002%, for a combined total of 0.172%. The value for Hydropower is 3.34% and Ocean power is 0.001%, for a combined total of 3.351%. The difference between these two totals is 3.351% - 0.172% = 3.179%. The claim states the difference is 3.169%, which is not accurate according to the data provided."
+    },
+    "claim": "The total value of the Biodiesel and solar CSP  is 3.169% lower than the total value of Hydropower and ocean power together.",
+    "label": "TRUE"
+}

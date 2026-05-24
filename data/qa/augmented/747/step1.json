@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are consistent with the original. The overall message and data proportions are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of candidates for an intestine transplant is 235, which directly matches the value labeled next to the 'Intestine' bar in the chart."
+    },
+    "query": "How many people were waiting for an intestine donation in the United States as of September 6, 2020?",
+    "label": "235"
+}

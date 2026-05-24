@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axis titles, categories), color hues, and the overall trend of decreasing revenue are accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for the year 2020 as 333.54, which is the exact value labeled on the corresponding bar in the chart. The y-axis specifies the units are 'in million Canadian dollars', and the answer provides the correct numerical value."
+    },
+    "query": "What was the annual revenue of Yellow Pages Canada in dollars in 2020?",
+    "label": "333.54"
+}

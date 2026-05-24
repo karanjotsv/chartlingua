@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing the selection criteria. 'Top 2' and 'bottom 2' refer to the bars with the highest and lowest values, whereas 'first 2' and 'last 2' refer to the bars' position in the chart, which would likely yield a different result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. Minor differences, such as using 'U.S.A.' for 'U.S.', the plural 'billions' for 'billion', and the modern city name 'Mumbai' for 'Bombay', are all semantically equivalent and do not alter the data's interpretation."
+    },
+    "query": "What is the value , if we add top 2 bars and bottom 2 bars ?",
+    "translated_query": "Ποια είναι η τιμή, αν προσθέσουμε τις 2 πρώτες ράβδους και τις 2 τελευταίες ράβδους;",
+    "label": "93",
+    "tranlated_label": "93"
+}

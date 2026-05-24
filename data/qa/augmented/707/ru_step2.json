@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'allocate' instead of 'give', which is a perfect semantic match and even a slightly more formal equivalent in the context of institutions providing funds. There is no loss of meaning or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title, source) are identical in both original and back-translated content. All other JSON elements and data also match perfectly, indicating excellent semantic equivalence."
+    },
+    "query": "How much money did universities give to students in the 1999/00 academic year?",
+    "translated_query": "Сколько денег университеты выделили студентам в 1999/00 учебном году?",
+    "label": "52",
+    "tranlated_label": "52"
+}

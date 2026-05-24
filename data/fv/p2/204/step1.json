@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text elements (title, subtitle, axis labels, category labels), and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the chart. The first bar, labeled 'Land Area sq. ft (LE)', and the fifth bar, labeled 'Land FPA+1250 upto 50% of FPA can be added', both have a value of 5000 Sq. ft, as indicated by the y-axis and the explicit numerical labels on the bars."
+    },
+    "claim": "There are two equivalent blocks on the chart with value 5000.",
+    "label": "TRUE"
+}

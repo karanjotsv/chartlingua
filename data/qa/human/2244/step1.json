@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color assignments are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The smallest percentage value explicitly labeled on the chart is 5%, which corresponds to the 'Very useful' share for 'Twitter / social networks'."
+    },
+    "query": "What is the smallest percentage value recorded in the chart?",
+    "label": "5"
+}

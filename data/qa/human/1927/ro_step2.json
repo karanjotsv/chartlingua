@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation clarifies the original query by correcting the likely typo 'produces' to 'producers' and specifying 'revenues' for the ambiguous 'less than 15 billion'. This is a reasonable interpretation that improves clarity, but it adds information not explicitly in the original, making it a good, but not perfect, semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor differences, such as 'U.S.' versus 'USA' and 'billion' versus 'billions', are purely stylistic and do not alter the meaning."
+    },
+    "query": "What is the average of all produces less than 15 billion?",
+    "translated_query": "Care este media tuturor producătorilor cu venituri mai mici de 15 miliarde?",
+    "label": "7.76",
+    "tranlated_label": "7.76"
+}

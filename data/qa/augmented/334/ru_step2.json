@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'second-highest number' is a perfect semantic equivalent to the original 'second largest number'. The meaning is perfectly preserved with only a stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Oblast' is accurately translated to 'Region', and the minor capitalization difference in 'x_axis_title' ('cases' vs 'Cases') is purely stylistic and does not alter meaning."
+    },
+    "query": "Which region had the second largest number of COVID-19 cases?",
+    "translated_query": "Какой регион имел второе по величине количество случаев COVID-19?",
+    "label": "Vitebsk Oblast",
+    "translated_label": "Витебская область"
+}

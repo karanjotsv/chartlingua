@@ -1,0 +1,57 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Οι υπόλοιποι",
+            "value": 59.9
+        },
+        {
+            "label": "10% Πλούσιοι Άνθρωποι",
+            "value": 38.4
+        },
+        {
+            "label": "10% Φτωχοί Άνθρωποι",
+            "value": 1.7
+        }
+    ],
+    "colors": [
+        "#65B4A5",
+        "#8AFF19",
+        "#FF0000"
+    ],
+    "texts": {
+        "title": "Ανισότητα εισοδήματος στη Μαλαισία",
+        "subtitle": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "Οι υπόλοιποι",
+                "x": 0.8,
+                "y": 0.6,
+                "showarrow": false,
+                "font_size": 18
+            },
+            {
+                "text": "<b>38.4%</b><br>του πλούτου<br>από το 10% των<br>Πλούσιων<br>Ανθρώπων",
+                "x": 0.25,
+                "y": 0.7,
+                "showarrow": false,
+                "font_size": 18,
+                "align": "center"
+            },
+            {
+                "text": "<b>1.7%</b><br>από το 10%<br>των φτωχών<br>ανθρώπων",
+                "x": 0.25,
+                "y": 0.1,
+                "showarrow": true,
+                "ax": 0.46,
+                "ay": 0.32,
+                "arrowhead": 0,
+                "arrowwidth": 2,
+                "arrowcolor": "#000000",
+                "font_size": 14,
+                "align": "left"
+            }
+        ]
+    }
+}

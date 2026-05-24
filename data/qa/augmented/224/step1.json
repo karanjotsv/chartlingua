@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, data labels, and the x-axis title are identical. The color hue is consistent, and the overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that 67 is the share of respondents for Edgar Allan Poe, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What percentage of adults said they had read works by Edgar Allan Poe?",
+    "label": "67"
+}

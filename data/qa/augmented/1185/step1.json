@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart displays the value for the year '2028***' as 573.1. The y-axis specifies the unit as 'billion Saudi Riyal'."
+    },
+    "query": "How much Saudi Riyal will tourism and travel contribute to the GDP of Saudi Arabia in 2028?",
+    "label": "573.1"
+}

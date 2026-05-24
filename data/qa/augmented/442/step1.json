@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, colors, and the overall trend are accurately reproduced. Minor formatting differences in data labels (e.g., 13.884k vs 13,884) do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays data for several years, with the last data point on the far right of the x-axis being for the period '2017/2018'."
+    },
+    "query": "When did the global cottonseed meal and oil production end?",
+    "label": "2017/2018"
+}

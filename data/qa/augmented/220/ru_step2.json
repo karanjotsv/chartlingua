@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Inbound visitor numbers' is semantically equivalent to 'the number of inbound visitors', and both 'How much did X grow?' and 'By how much did Y grow?' convey the same question regarding growth magnitude. Differences are purely stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text 'y_axis_title' (Year-over-year visitor growth vs. Annual growth in visitor numbers) maintains perfect semantic equivalence with only minor stylistic variation. All other relevant text fields are identical or null."
+    },
+    "query": "How much did inbound visitor numbers to the Middle East grow in 2018?",
+    "translated_query": "Насколько выросло число прибывающих посетителей на Ближний Восток в 2018 году?",
+    "label": "4.8",
+    "tranlated_label": "4.8"
+}

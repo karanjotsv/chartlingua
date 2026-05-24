@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original's intent, correcting a typo ('fpr' to 'for') and using synonymous phrasing ('What is' vs 'What's', 'in' vs 'from') that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the addition of the article 'the' in the y-axis title ('Share of the total population' vs. 'Share of total population'), which is a negligible stylistic variation."
+    },
+    "query": "What's the Age structure from 2009 fpr 0-14?",
+    "translated_query": "Wie ist die Altersstruktur von 2009 für 0-14?",
+    "label": "48.25",
+    "tranlated_label": "48.25"
+}

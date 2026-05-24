@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, axis labels, titles, and legend content are all accurately reproduced. The color hues for the data series are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the 'Cumulative number of mills installed' with a red line. For the year 2012, the red line's value on the left Y-axis ('Number of mills') is visibly above the 120 mark, which is greater than 100."
+    },
+    "claim": "In 2012, IsaMills had over 100 mills.",
+    "label": true
+}

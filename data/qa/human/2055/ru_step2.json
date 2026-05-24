@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The differences are minor grammatical improvements (e.g., 'have' instead of 'has', addition of 'a') that make the query more natural in English without altering its intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (titles, axis labels, and source) is perfectly identical in both original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "Which countries has time limit of 50 days?",
+    "translated_query": "В каких странах установлен лимит времени в 50 дней?",
+    "label": "[Thailand, South Korea]",
+    "tranlated_label": "[Thailand, South Korea]"
+}

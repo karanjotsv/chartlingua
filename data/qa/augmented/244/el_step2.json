@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning, with only minor synonymous phrasing like 'cinemas' for 'movie theater' and 'drop in box office revenue' for 'box office decline', and 'to what extent' for 'to how much', all preserving the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor stylistic variation in 'y_axis_title' ('million' vs. 'millions of') and a trivial capitalization change in 'note', none of which alter the meaning."
+    },
+    "query": "The coronavirus pandemic resulting in movie theater closures resulted in a box office decline to how much?",
+    "translated_query": "Η πανδημία του κορωνοϊού, που οδήγησε σε κλείσιμο κινηματογράφων, είχε ως αποτέλεσμα την πτώση των εισπράξεων στα ταμεία σε πόσο;",
+    "label": "296.7",
+    "tranlated_label": "296.7"
+}

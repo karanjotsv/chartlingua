@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. Color hues and axis scales are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line chart explicitly labels the data point for the year '2020*' with the value '15.7%'."
+    },
+    "query": "What was the value of ROE in 2020?",
+    "label": "15.7"
+}

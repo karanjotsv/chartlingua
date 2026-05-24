@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and relative proportions are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information or data related to 'Cyflymder'. The listed categories are Internet Explorer, Google Chrome, Mozilla Firefox, Safari, Opera, Android, and Other."
+    },
+    "claim": "Cyflymder doesn't have zero value.",
+    "label": "FALSE"
+}

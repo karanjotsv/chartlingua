@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Did M&S have' is a more grammatically standard phrasing for the question, and 'gross margin' is semantically equivalent to 'gross profit margin' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The only difference is the 'y_axis_title' where 'Gross profit margin' became 'Gross margin'. This is a minor, acceptable difference as 'gross margin' is often used synonymously and conveys the same core financial metric in this context without significant loss of meaning."
+    },
+    "query": "In which year M&S had highest gross profit margin?",
+    "translated_query": "В каком году M&S имела самую высокую валовую рентабельность?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

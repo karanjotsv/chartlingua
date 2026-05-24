@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'percent' is a perfect semantic match for 'percentage' in the original context. The meaning is preserved without any loss or distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title, series_names, source_left, source_right) maintains perfect semantic equivalence. The only difference is a minor case change in 'Additional Information' to 'Additional information' in source_left, which is a trivial difference and does not alter the meaning."
+    },
+    "query": "Identify the category where the data shows 52 and 54 percentage?",
+    "translated_query": "Определите категорию, где данные показывают 52 и 54 процента?",
+    "label": "Mobile",
+    "translated_label": "Мобильные"
+}

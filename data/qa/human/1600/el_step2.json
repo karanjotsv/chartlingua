@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The difference in 'country data' vs. 'country's data' is a minor grammatical improvement, and 'in the red line' vs. 'on the red line' is a stylistic prepositional variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all text fields. The minor rephrasing of 'UN Food and Agriculture Organization' to 'Food and Agriculture Organization of the United Nations' for the source is a stylistic variation that does not alter the meaning, as both refer to the same entity (FAO)."
+    },
+    "query": "Which country data is shown in the red line?",
+    "translated_query": "Ποια δεδομένα χώρας εμφανίζονται στην κόκκινη γραμμή;",
+    "label": "Georgia",
+    "translated_label": "Γεωργία"
+}

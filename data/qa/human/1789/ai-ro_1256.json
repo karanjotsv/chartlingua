@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Singapore",
+            "value": 48.3
+        },
+        {
+            "category": "Italia",
+            "value": 57.0
+        }
+    ],
+    "texts": {
+        "title": "Directori de școală",
+        "subtitle": "Gimnaziu, vârsta medie, Ani, 2013",
+        "source": "Sursă: TALIS Sondaj internațional privind predarea și învățarea - indicatori",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#0095DA",
+        "#E31E24"
+    ],
+    "annotations": [
+        {
+            "x": "Italia",
+            "y": 37,
+            "text": "Italia 2013<br><b>57.0</b><br>Ani",
+            "align": "left"
+        }
+    ]
+}

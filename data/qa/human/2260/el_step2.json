@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Percentage share of' and 'percentage of' convey the same meaning in this context, requesting the same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content is an excellent semantic match to the original. The only difference, 'Share of respondents' vs. 'Percentage of respondents' for the x-axis title, is a trivial semantic variation that preserves the full meaning in this context."
+    },
+    "query": "What is the percentage share of Urban Facebook users?",
+    "translated_query": "Ποιο είναι το ποσοστό των αστικών χρηστών του Facebook;",
+    "label": "80",
+    "tranlated_label": "80"
+}

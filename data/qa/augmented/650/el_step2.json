@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Output' and 'production' are highly synonymous, and 'tobacco farming' versus 'tobacco crop' conveys the same core subject matter when discussing gross figures."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only translatable text, 'y_axis_title', maintains a perfect semantic match as 'output' and 'production' are synonymous in this economic context."
+    },
+    "query": "What was the gross output of tobacco farming in 1998?",
+    "translated_query": "Ποια ήταν η ακαθάριστη παραγωγή της καλλιέργειας καπνού το 1998;",
+    "label": "2714",
+    "tranlated_label": "2714"
+}

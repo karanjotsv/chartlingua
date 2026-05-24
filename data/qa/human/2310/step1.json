@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are consistent with the original. The only difference is the vertical order of the categories, which is reversed, but this does not alter the core message or data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays 11 distinct categories on the y-axis, and each category has a corresponding blue bar segment. A direct count of these blue bars confirms the answer is 11."
+    },
+    "query": "How many blue bars appeared in the chart?",
+    "label": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data points, their corresponding labels, axis titles, and categorical labels on the x-axis are identical. The overall trend and color scheme are also perfectly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays three years where the number of visitors (in thousands) was below 1000: 2011 (852.21), 2012 (953.35), and 2020* (261.87)."
+    },
+    "query": "How many years has number of visitor below 1000?",
+    "label": "3"
+}

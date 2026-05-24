@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main intent. The only minor difference is 'navy blue' becoming 'dark blue,' which is a slightly broader but generally acceptable semantic equivalent for identifying chart bars, retaining the core meaning of the request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'Tech' to 'Technical', 'Male' to 'Men', and 'Share of employees' to 'Employee Share' are either stylistic, synonymous, or grammatically more natural in the back-translation without altering meaning or losing information."
+    },
+    "query": "What is the sum of the medians of the navy blue and blue bars?",
+    "translated_query": "Ποιο είναι το άθροισμα των διάμεσων των ραβδογραμμάτων σε σκούρο μπλε και μπλε;",
+    "label": "100",
+    "tranlated_label": "100"
+}

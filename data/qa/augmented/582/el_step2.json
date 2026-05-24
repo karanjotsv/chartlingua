@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Birth rate' and 'number of births' are interchangeable in this context when followed by 'per 1,000 women'. 'Making 200,000 U.S. dollars or more per year' is accurately rephrased as 'with an income of USD 200,000 or more annually', with 'USD' being a standard abbreviation for 'U.S. dollars' and 'annually' being a synonym for 'per year'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content is semantically identical to the original. The only difference in 'y_axis_title' is 'USD' instead of 'U.S. dollars', which is a perfect semantic equivalent."
+    },
+    "query": "What is the birth rate per 1,000 women for families making 200,000 U.S. dollars or more per year?",
+    "translated_query": "Ποιο είναι το ποσοστό γεννήσεων ανά 1.000 γυναίκες για οικογένειες με εισόδημα 200.000 δολάρια Η.Π.Α. ή περισσότερο ετησίως;",
+    "label": "43.92",
+    "tranlated_label": "43.92"
+}

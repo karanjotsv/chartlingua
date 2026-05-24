@@ -1,0 +1,64 @@
+{
+    "charts": [
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    47,
+                    20,
+                    20,
+                    24,
+                    24,
+                    10
+                ]
+            },
+            "texts": {
+                "title": "ਸਵਾਲ ਨੰਬਰ 1",
+                "description": "ਤੁਸੀਂ ਕਿਹੜੇ ਅਧਿਕਾਰਤ ਨਿਰਮਾਣ ਅੰਕੜੇ ਵਰਤਦੇ ਹੋ?<br>(ਉਹ ਸਾਰੇ ਚੁਣੋ ਜੋ ਲਾਗੂ ਹੁੰਦੇ ਹਨ)<br><br>A) ਸਾਲਾਨਾ ਵਪਾਰ ਸਰਵੇਖਣ<br>B) ਉਤਪਾਦ ਅਨੁਸਾਰ ਯੂਕੇ ਨਿਰਮਾਤਾਵਾਂ ਦੀ ਵਿਕਰੀ (ਪ੍ਰੋਡਕੋਮ)<br>C) ਉਤਪਾਦਕ ਕੀਮਤ ਸੂਚਕਾਂਕ<br>D) ਉਤਪਾਦਨ ਦਾ ਸੂਚਕਾਂਕ<br>E) ਉਤਪਾਦਕਤਾ<br>F) ਹੋਰ"
+            }
+        },
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    9,
+                    39,
+                    10,
+                    24,
+                    45,
+                    8
+                ]
+            },
+            "texts": {
+                "title": "ਸਵਾਲ ਨੰਬਰ 2",
+                "description": "ਤੁਸੀਂ ਇਹਨਾਂ ਅਧਿਕਾਰਤ ਅੰਕੜਿਆਂ ਨੂੰ ਕਿਸ ਲਈ ਵਰਤਦੇ ਹੋ? (ਉਹ ਸਾਰੇ ਚੁਣੋ ਜੋ ਲਾਗੂ ਹੁੰਦੇ ਹਨ)<br><br>A) ਨਿਵੇਸ਼ ਦੇ ਫੈਸਲੇ<br>B) ਨੀਤੀ ਵਿਕਾਸ<br>C) ਸਥਾਨਕ ਯੋਜਨਾਬੰਦੀ ਅਤੇ ਖਰਚੇ ਦੇ ਫੈਸਲੇ<br>D) ਕਾਰੋਬਾਰੀ ਯੋਜਨਾਬੰਦੀ<br>E) ਖੋਜ<br>F) ਹੋਰ"
+            }
+        }
+    ],
+    "colors": {
+        "bar": "#82b9e6",
+        "bar_border": "#3b3b3b",
+        "data_label": "#000000",
+        "title_background": "#a90000",
+        "title_font": "#ffffff",
+        "description_background": "#0c2c45",
+        "description_font": "#ffffff",
+        "plot_background": "#ffffff",
+        "grid": "#d3d3d3",
+        "paper_background": "#ffffff"
+    }
+}

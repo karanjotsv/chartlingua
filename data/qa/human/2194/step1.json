@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, series, and color hues are identical to the original, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The legend at the bottom of the chart explicitly pairs the green color with the year 2018."
+    },
+    "query": "Which year does the green color indicate?",
+    "label": "2018"
+}

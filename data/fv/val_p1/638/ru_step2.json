@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation replaced 'attributes' with 'metrics' and 'relate' with 'describe'. While these are minor lexical differences, the overall meaning that three concepts are utilized in connection with understanding the Burndown chart is accurately conveyed. 'Describe' arguably provides a clearer verb in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable chart data series names ('Objectif' -> 'Target', 'Réel' -> 'Actual', 'Sans Ajout' -> 'Without Addition') are perfectly semantically equivalent. Other text fields are null in both versions."
+    },
+    "claim": "The three attributes are used to relate the Burndown chart.",
+    "translated_claim": "Три показателя используются для описания графика Burndown."
+}

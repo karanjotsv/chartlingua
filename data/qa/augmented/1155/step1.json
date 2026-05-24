@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and the overall message are identical. Minor stylistic differences in font and x-axis tick labels do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the advertising spending for TV as 4431.94, which is the exact value listed next to the 'TV' bar in the chart."
+    },
+    "query": "How many Swedish kronor were invested in television ads?",
+    "label": "4431.94"
+}

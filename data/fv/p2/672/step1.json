@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered image is a perfect replication of the original. Both show a single red line with a negative slope on a black background, with no other chart elements. The data representation, color, and overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays a line with a negative slope, moving from the top-left to the bottom-right. This is a standard graphical representation of an inverse relationship, where an increase in one variable (typically on the x-axis) corresponds to a decrease in the other variable (typically on the y-axis)."
+    },
+    "claim": "X and Y are inversely related to each other.",
+    "label": "TRUE"
+}

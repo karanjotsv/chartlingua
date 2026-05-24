@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, axis labels, and the chart title are all identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies the data is for 'England', but the chart, titled 'Population Density 1881-2011', does not provide any geographical information to confirm this."
+    },
+    "claim": "The population density of England has increased over time.",
+    "label": true
+}

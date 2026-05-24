@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trend lines, axis labels, legend entries, and color assignments are correctly replicated. The overall message and data distribution are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Lenticular Data is displayed in pink, but the chart's legend clearly indicates that Lenticular Data is represented by light blue dots."
+    },
+    "claim": "Lenticular Data is displayed on the chart by the colour pink. ",
+    "label": false
+}

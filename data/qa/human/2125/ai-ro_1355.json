@@ -1,0 +1,105 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Încredere mare",
+            "x": [
+                "Democrat",
+                "Republican",
+                "Independent",
+                "Alții",
+                "Nu sunt sigur"
+            ],
+            "y": [
+                42,
+                5,
+                19,
+                11,
+                6
+            ]
+        },
+        {
+            "name": "Oarecare încredere",
+            "x": [
+                "Democrat",
+                "Republican",
+                "Independent",
+                "Alții",
+                "Nu sunt sigur"
+            ],
+            "y": [
+                24,
+                11,
+                23,
+                20,
+                13
+            ]
+        },
+        {
+            "name": "Oarecare neîncredere",
+            "x": [
+                "Democrat",
+                "Republican",
+                "Independent",
+                "Alții",
+                "Nu sunt sigur"
+            ],
+            "y": [
+                8,
+                20,
+                13,
+                23,
+                15
+            ]
+        },
+        {
+            "name": "Neîncredere mare",
+            "x": [
+                "Democrat",
+                "Republican",
+                "Independent",
+                "Alții",
+                "Nu sunt sigur"
+            ],
+            "y": [
+                4,
+                46,
+                22,
+                36,
+                8
+            ]
+        },
+        {
+            "name": "Nu sunt sigur",
+            "x": [
+                "Democrat",
+                "Republican",
+                "Independent",
+                "Alții",
+                "Nu sunt sigur"
+            ],
+            "y": [
+                22,
+                18,
+                23,
+                10,
+                58
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#1f77b4",
+        "#263953",
+        "#bdbdbd",
+        "#c00000",
+        "#70ad47"
+    ]
+}

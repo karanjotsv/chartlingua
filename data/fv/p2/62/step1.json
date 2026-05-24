@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is completely inconsistent with the original. The order of the two pie charts (1881 vs 2001) is reversed. The legend has been completely misinterpreted and rendered as a separate, nonsensical scatter plot with overlapping labels. Data from the original 1881 chart (the 'Unknown' category) is missing in the rendered version. The core information and structure are entirely different and incorrect.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has gross layout issues and is malformed. What should be two legends has been rendered as a single, separate plot on the right. This 'legend plot' contains severe text overlap, making the labels unreadable. The chart titles are also misplaced, leading to a confusing and nonsensical visualization."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart legend for 1881 indicates that the green slice represents 'Agriculture'. Assuming the color scheme is consistent for both years, the green slice in the 1881 pie chart is visibly smaller than the green slice in the 2001 pie chart. This suggests that the ratio of people employed in agriculture was lower in 1881 than in 2001, which directly contradicts the claim."
+    },
+    "claim": "A higher ratio of people were employed in argiculture in 1881 than in 2001. ",
+    "label": "TRUE"
+}

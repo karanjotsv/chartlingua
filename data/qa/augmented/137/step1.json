@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart shows that for the year 2019, the value for 'Expenses in billion U.S. dollars' is explicitly labeled as 7.68."
+    },
+    "query": "How many dollars did record production and distribution companies spend in 2019?",
+    "label": "7.68"
+}

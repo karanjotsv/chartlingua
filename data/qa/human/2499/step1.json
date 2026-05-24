@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, and color hues are accurately reproduced, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average share for 2013. Based on the chart, the values for 2013 are 50% for 'Films or music', 52% for 'Electronic books...', and 66% for 'Computer software...'. The average of these three values is (50 + 52 + 66) / 3 = 56, which matches the provided answer."
+    },
+    "query": "What is the average  Share of individuals who downloaded purchased media online in Great Britain in 2013  by type of media?",
+    "label": "56"
+}

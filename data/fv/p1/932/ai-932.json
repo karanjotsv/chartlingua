@@ -1,0 +1,130 @@
+{
+    "chart_type": "energy_profile",
+    "chart_data": {
+        "x": [
+            0,
+            10,
+            25,
+            45,
+            65,
+            80,
+            95
+        ],
+        "y": [
+            20,
+            20,
+            55,
+            85,
+            55,
+            50,
+            50
+        ]
+    },
+    "shapes": [
+        {
+            "x0": 10,
+            "y0": 20,
+            "x1": 60,
+            "y1": 20,
+            "line": {
+                "dash": "dash",
+                "width": 1.5
+            }
+        },
+        {
+            "x0": 68,
+            "y0": 50,
+            "x1": 95,
+            "y1": 50,
+            "line": {
+                "dash": "dash",
+                "width": 1.5
+            }
+        }
+    ],
+    "annotations": [
+        {
+            "x": 10,
+            "y": 15,
+            "text_key": "reactants",
+            "font_color_key": "blue",
+            "showarrow": false,
+            "align": "center",
+            "yanchor": "top"
+        },
+        {
+            "x": 80,
+            "y": 55,
+            "text_key": "products",
+            "font_color_key": "blue",
+            "showarrow": false,
+            "align": "center",
+            "yanchor": "bottom"
+        },
+        {
+            "x": 45,
+            "y": 90,
+            "text_key": "transition_state",
+            "font_color_key": "blue",
+            "showarrow": false,
+            "align": "center",
+            "yanchor": "bottom"
+        },
+        {
+            "x": 50,
+            "y": 52.5,
+            "text_key": "activation_energy",
+            "font_color_key": "red",
+            "showarrow": false,
+            "align": "left"
+        },
+        {
+            "x": 98,
+            "y": 35,
+            "text_key": "gibbs_energy",
+            "font_color_key": "red",
+            "showarrow": false,
+            "align": "left"
+        },
+        {
+            "ax": 45,
+            "ay": 20,
+            "x": 45,
+            "y": 85,
+            "text": "",
+            "arrowhead": 2,
+            "arrowside": "start+end",
+            "arrowwidth": 2,
+            "arrowcolor_key": "arrows"
+        },
+        {
+            "ax": 90,
+            "ay": 20,
+            "x": 90,
+            "y": 50,
+            "text": "",
+            "arrowhead": 2,
+            "arrowside": "start+end",
+            "arrowwidth": 2,
+            "arrowcolor_key": "arrows"
+        }
+    ],
+    "texts": {
+        "title": "Endergonic Reaction",
+        "x_axis_title": "COURSE OF REACTION",
+        "y_axis_title": "F<br>R<br>E<br>E<br> <br>E<br>N<br>E<br>R<br>G<br>Y<br> <br>(G)",
+        "reactants": "Reactants",
+        "products": "Products",
+        "transition_state": "Transition State",
+        "activation_energy": "E<sub>A</sub>",
+        "gibbs_energy": "ΔG > 0"
+    },
+    "colors": {
+        "curve": "#000000",
+        "lines": "#000000",
+        "arrows": "#A02C2C",
+        "blue": "#00008B",
+        "red": "#A02C2C",
+        "black": "#000000"
+    }
+}

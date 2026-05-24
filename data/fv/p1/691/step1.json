@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, title, and color-to-category mappings are identical to the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that 'natural gas' accounts for 48.8% of electricity generation, which is the largest percentage compared to all other sources shown."
+    },
+    "claim": "The highest source of electricity in Connecticut in 2016 is natural gas.",
+    "label": true
+}

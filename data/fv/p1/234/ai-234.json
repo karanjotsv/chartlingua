@@ -1,0 +1,89 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Ashby Method¹",
+            "x": [
+                0,
+                3,
+                6,
+                9,
+                12
+            ],
+            "y": [
+                0.0,
+                1.8,
+                2.3,
+                2.2,
+                2.2
+            ]
+        },
+        {
+            "name": "Medication²",
+            "x": [
+                0,
+                3,
+                6,
+                9,
+                12
+            ],
+            "y": [
+                0.0,
+                0.0,
+                0.0,
+                -0.85,
+                -1.7
+            ]
+        },
+        {
+            "name": "Normal Course of Disease³",
+            "x": [
+                0,
+                3,
+                6,
+                9,
+                12
+            ],
+            "y": [
+                0.0,
+                -0.825,
+                -1.65,
+                -2.475,
+                -3.3
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Resisting Cognitive Decline in Alzheimer's<br>12 Month MMSE Score Comparison",
+        "x_axis_title": "Months",
+        "y_axis_title": "Change in Cognitive Test Score",
+        "source": null,
+        "annotations": [
+            {
+                "text": "Ashby Method¹<br>+2.2",
+                "x": 12.2,
+                "y": 2.2,
+                "align": "left"
+            },
+            {
+                "text": "Medication²<br>-1.7",
+                "x": 12.2,
+                "y": -1.7,
+                "align": "left"
+            },
+            {
+                "text": "Normal Course<br>of Disease³<br>-3.3",
+                "x": 12.2,
+                "y": -3.3,
+                "align": "left"
+            }
+        ]
+    },
+    "colors": {
+        "series_colors": [
+            "#4F81BD",
+            "#E46C0A",
+            "#9BBB59"
+        ]
+    }
+}

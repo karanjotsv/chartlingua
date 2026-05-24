@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall title are identical to the original. The change from a 3D to a 2D representation is a stylistic difference that does not alter the data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the highest usage is for Chrome at 27.25% and the lowest usage is for Opera at 4.59%. The difference between these two values is 22.66%, which is significantly different from the claimed 'about 18%'."
+    },
+    "claim": "The difference between the highest used and the least used is about 18% of the chart.",
+    "label": "FALSE"
+}

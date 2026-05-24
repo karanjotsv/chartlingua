@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the core meaning. The omission of 'floor' before 'area' is a trivial difference, as 'area' in the context of 'new dwellings' implicitly refers to floor area, and does not alter the overall semantic understanding."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title 'Average floor area of new dwellings' was back-translated as 'Average Area of New Dwellings', which is a minor simplification but retains the core meaning. A comma was added to one category name ('Shanghai, China'), which is a trivial formatting difference."
+    },
+    "claim": "The average floor area of new dwellings is highest in Australia. ",
+    "translated_claim": "Средняя площадь новых жилищ является самой высокой в Австралии."
+}

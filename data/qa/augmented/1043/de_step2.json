@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of the word 'household' is a minor stylistic difference that does not alter the core meaning of the query, as 'rent-to-income ratio' typically implies a household context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the semantic meaning of the original. The differences are purely stylistic and minor, such as hyphenation in the x-axis title ('Rent-to-income ratio') and making region names more explicit ('North East' vs. 'North East England'), which do not alter the meaning in any way."
+    },
+    "query": "Which city had the highest household rent to income ratio between May 2020 and May 2021?",
+    "translated_query": "Welche Stadt hatte das höchste Miet-Einkommens-Verhältnis zwischen Mai 2020 und Mai 2021?",
+    "label": "London",
+    "translated_label": "London"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, categories, text elements, and color-to-data mappings are accurately reproduced from the original. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart for North America shows cumulative CO₂ emissions broken down by source. The blue portion, representing 'Fossil fuel, industry', is visually much larger than the orange portion, representing 'Land use, forestry'. This directly confirms that fossil fuel emissions made up a larger percentage of the total for North America in the specified period."
+    },
+    "claim": "Between the years of 1850 and 2019, there was a larger percentage of fossil fuel versus land use within North America.",
+    "label": true
+}

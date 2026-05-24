@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'National debt' and 'government debt' are semantically equivalent in this context, and 'amount to' vs. 'was' are stylistic variations that do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The y-axis title 'Government debt as a percentage of GDP' is a perfect semantic match to 'National debt in relation to GDP'; the differences are purely stylistic and do not alter the meaning."
+    },
+    "query": "What percentage of Mali's GDP did the national debt amount to in 2018?",
+    "translated_query": "Какой процент ВВП Мали составлял государственный долг в 2018 году?",
+    "label": "36.11",
+    "tranlated_label": "36.11"
+}

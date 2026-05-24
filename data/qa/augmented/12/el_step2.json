@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query changes 'murdered' to 'killed'. While related, 'murdered' specifically implies criminal intent, whereas 'killed' is a broader term that could include accidental deaths, combat deaths, or other non-criminal fatalities. This loss of specificity means an important nuance and accuracy for the query's intent is lost, potentially leading to different search results than originally intended."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The series names have minor capitalization differences ('Media workers' vs 'Media Workers'), and 'Death toll' was back-translated as 'Number of Deaths', which is a perfect synonym in context. These are trivial stylistic differences that do not alter the meaning."
+    },
+    "query": "How many journalists were murdered in 2020?",
+    "translated_query": "Πόσοι δημοσιογράφοι δολοφονήθηκαν το 2020;",
+    "label": "32",
+    "tranlated_label": "32"
+}

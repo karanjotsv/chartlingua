@@ -1,0 +1,27 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Slowakische Republik",
+            "value": 4.2
+        },
+        {
+            "category": "Litauen",
+            "value": 15.0
+        }
+    ],
+    "texts": {
+        "title": "Nationale Flächenverteilung",
+        "subtitle": "Städtische Regionen, Prozentsatz, 2014",
+        "source": "Quelle: Kleine Regionen, TL3: Demografische Statistiken",
+        "info_box": {
+            "text": "Litauen 2014<br><b>15.0</b><br>Prozentsatz",
+            "x_anchor_category": "Litauen",
+            "y_anchor_value": 9.0
+        }
+    },
+    "colors": [
+        "#E41F26",
+        "#0094D8"
+    ]
+}

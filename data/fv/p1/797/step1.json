@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The chart type, title, category labels, data values, and their relative proportions are all identical. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the highest number of respondents use Wikipedia rarely. However, the chart shows that the 'Weekly' usage category has the highest percentage at 33%, while the 'Rarely' category has only 17%."
+    },
+    "claim": "Respondent rarely use Wikipedia often and its the highest number ",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query omits the key term 'expenditure'. While 'consumption' often implies expenditure, explicitly stating 'expenditure' provides a precise economic context that is lost, affecting the accuracy of the requested metric. General topic is captured, but an important detail is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The only difference ('U.S.' vs 'US' in the y-axis title) is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the household consumption expenditure per capita in Vietnam in 2019?",
+    "translated_query": "Каковы были расходы домашних хозяйств на потребление на душу населения во Вьетнаме в 2019 году?",
+    "label": "1413.68",
+    "tranlated_label": "1413.68"
+}

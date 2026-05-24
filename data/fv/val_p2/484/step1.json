@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, source text, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that property tax is the second-largest source of revenue, but the chart shows it is the third-largest at 29%. Sales Taxes are the second-largest source at 31%, and Income Taxes are the largest at 32%."
+    },
+    "claim": "Property tax is the second-largest source of Ohio state revenue.",
+    "label": "FALSE"
+}

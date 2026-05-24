@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, text content, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on printing methods, with categories like '4 Color Lithographic or Letter Press'. The claim refers to categories such as 'Domestic services', 'Labourers', and 'Agriculture', which are not present in the chart."
+    },
+    "claim": "The total of the Domestic services and Labourers bars is higher than Agriculture bar.",
+    "label": "FALSE"
+}

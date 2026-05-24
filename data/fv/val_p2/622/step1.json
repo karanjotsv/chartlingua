@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect match to the original. Data proportions, categories, legend labels, and color hues are all consistent. The overall message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Indians and other Asian ethnicities together form about half' of the total. The pie chart clearly shows that the 'Indian' (green slice) and 'Other Asian' (purple slice) categories combined represent a very small fraction of the whole, significantly less than half. The vast majority of the chart is represented by the 'White' category."
+    },
+    "claim": "Indians and other Asian etnicities together form about half of the ethnical groups within Chattisham.",
+    "label": "FALSE"
+}

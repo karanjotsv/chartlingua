@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, and color-to-category assignments are identical to the original. The core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the composition of milk with the following percentages: Lactose (37.0%), Fat (31.0%), Protein (26.0%), and Minerals (6.0%). Comparing these values, Minerals at 6.0% is the lowest percentage, which supports the claim."
+    },
+    "claim": "Minerals is the lowest wrong composition of milk in this pie chart",
+    "label": true
+}

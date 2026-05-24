@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content 'All service areas have equal coverage.' perfectly matches the semantic meaning of the original 'All service areas have an equal coverage.'. The difference is a minor stylistic/grammatical variation (omission of 'an') that does not alter the core message or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels match semantically or are very close ('Consultancy/advisory' to 'Consulting services', 'Admin/management' to 'Management/administration'). The main difference is 'Training' becoming 'Education', which is a minor semantic shift as 'training' is often a more specific subset of 'education'."
+    },
+    "claim": "All service areas have an equal coverage.",
+    "translated_claim": "Όλες οι περιοχές υπηρεσιών έχουν ίση κάλυψη."
+}

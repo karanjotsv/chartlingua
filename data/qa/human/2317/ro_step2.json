@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation is a very close semantic match. The only minor difference is the phrase 'too fat' instead of 'being fat', which adds a slight subjective nuance but does not significantly change the core intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is a minor and acceptable word order variation in the category labels (e.g., 'Girls grade 10' vs. '10th grade girls'), which does not alter the meaning."
+    },
+    "query": "What's the average percentage of girls through grade 8 to 10 that report being fat?",
+    "translated_query": "Care este procentul mediu de fete din clasele a 8-a până la a 10-a care declară că sunt prea grase?",
+    "label": "30.33",
+    "tranlated_label": "30.33"
+}

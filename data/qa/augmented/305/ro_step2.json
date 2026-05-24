@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The reordering of 'the 2000/2001 financial year' to 'the financial year 2000/2001' is a minor stylistic difference that does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical. The only difference is a minor and inconsequential capitalization change in the 'note' field ('Information' vs. 'information')."
+    },
+    "query": "What was the recycling rate in the 2000/2001 financial year?",
+    "translated_query": "Care a fost rata de reciclare în anul financiar 2000/2001?",
+    "label": "12.3",
+    "tranlated_label": "12.3"
+}

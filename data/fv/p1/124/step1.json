@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data labels, legend categories, and corresponding color hues are all consistent with the original chart. The only significant difference is the change from a 3D to a 2D perspective, which is a stylistic choice and does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the demographic breakdown of Israel, showing that Jews make up 77.20% of the population, which is the largest percentage compared to Arabs (18.50%) and Other (4.30%)."
+    },
+    "claim": "The largest demographics in Israel are Jews.",
+    "label": true
+}

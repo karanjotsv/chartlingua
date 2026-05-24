@@ -1,0 +1,52 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "categories": [
+            "Category 1",
+            "Category 2",
+            "Category 3",
+            "Category 4",
+            "Category 5",
+            "Category 6",
+            "Category 7",
+            "Category 8",
+            "Category 9",
+            "Category 10",
+            "Category 11",
+            "Category 12",
+            "Category 13"
+        ],
+        "series": [
+            {
+                "name": "Survey Findings",
+                "data": [
+                    25,
+                    60,
+                    85,
+                    40,
+                    83,
+                    75,
+                    80,
+                    100,
+                    73,
+                    50,
+                    87,
+                    95,
+                    55
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Visualization of findings from Student free online resource survey",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Generated with Python and MatPlotLib.",
+        "note": null
+    },
+    "colors": [
+        "#E0F8FF"
+    ],
+    "bar_border_color": "#000000"
+}

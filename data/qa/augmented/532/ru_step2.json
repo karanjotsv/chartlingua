@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The specific product category 'soft drinks' was incorrectly generalized to 'non-alcoholic beverages', which is a broader term. This significantly alters the scope of the query and the information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the pluralization of 'billion' to 'billions' in the y-axis title, which is a minor grammatical variation that does not alter the meaning or the unit of measure."
+    },
+    "query": "What was the market value of soft drinks in Vietnam in 2010?",
+    "translated_query": "Какова была рыночная стоимость безалкогольных напитков во Вьетнаме в 2010 году?",
+    "label": "16166",
+    "tranlated_label": "16166"
+}

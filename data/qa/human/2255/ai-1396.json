@@ -1,0 +1,49 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Q4 '12",
+            "x": [
+                "Facebook",
+                "Pinterest",
+                "Twitter",
+                "Reddit"
+            ],
+            "y": [
+                1.16,
+                0.66,
+                0.43,
+                0.27
+            ]
+        },
+        {
+            "name": "Q4 '13",
+            "x": [
+                "Facebook",
+                "Pinterest",
+                "Twitter",
+                "Reddit"
+            ],
+            "y": [
+                1.24,
+                0.74,
+                0.6,
+                0.57
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Revenue per visit via referrer in U.S. dollars",
+        "source": "© Statista 2021",
+        "note": null,
+        "legend_title": null,
+        "data_labels_suffix": "$"
+    },
+    "colors": [
+        "#2875D0",
+        "#122B40"
+    ]
+}

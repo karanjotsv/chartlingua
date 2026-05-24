@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. It accurately reproduces the data points, trend, title, and axis labels. The color hue is also consistent, resulting in an identical overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the share of the private sector in GDP was highest in 2008. However, the line chart shows that the peak value occurred in 2007, after which there was a slight decrease in 2008."
+    },
+    "claim": "The share of Private Sector in Lithuania's GDP was highest in the 2008 at 81,00%",
+    "label": true
+}

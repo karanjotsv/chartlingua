@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of text, labels, and the overall message. The data for Eritrea and South Sudan is accurately reproduced. However, the data line for Jamaica shows minor inaccuracies, particularly around the peak in 1996 and the end of the series, which appears to stop before 1999 in the rendered version. The color for Jamaica has also shifted from a blue-green to a distinct green, but this does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The chart explicitly labels the red line with the name 'Eritrea'."
+    },
+    "query": "Which country is represented by the red color line?",
+    "label": "Eritrea"
+}

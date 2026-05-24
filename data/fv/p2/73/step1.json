@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, categories, text, and the overall structure with the exploded pie chart are identical to the original. Color hues are also preserved for all data series.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap in the rendered chart. The data labels for the smaller slices in the 'Renewables' pie chart are clustered and unreadable. Additionally, the words in the main title overlap, impeding readability."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart on the left, labeled 'Total', explicitly shows in its legend that 'Fossil fuels' constitute 80.6% of the total energy consumption in 2010, which directly matches the information in the claim."
+    },
+    "claim": "Fossil fuels consists of 80.6% of total energy consumption in 2010.",
+    "label": "TRUE"
+}

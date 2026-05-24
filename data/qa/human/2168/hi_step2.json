@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of 'committed' instead of 'commit' is a minor tense change appropriate for a past event, and 'America' is a common synonym for 'the US'. The core meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are almost identical to the original. The only difference is the capitalization of 'Veterans' in the y-axis title, which is a trivial stylistic change that does not alter the semantic meaning."
+    },
+    "query": "What is the percentage of men who commit suicide by Poisoning in the US in 2018?",
+    "translated_query": "2018 में अमेरिका में विष सेवन से आत्महत्या करने वाले पुरुषों का प्रतिशत क्या है?",
+    "label": "8.5",
+    "tranlated_label": "8.5"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, category labels, axis titles, chart title, and color scheme are all consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that robbery arrests were highest for males aged over 25, but the bar chart clearly shows the peak is at age 18. The arrest rates for ages 16 through 24 are all significantly higher than any age group over 25."
+    },
+    "claim": "Robbery arrests of males in the US in 2014 were highest for those aged over 25.",
+    "label": false
+}

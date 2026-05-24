@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, source text, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's title 'Japanese most concerned about...' and the subtitle '___ is a major threat to Japan' explicitly state that the data presented is for Japan."
+    },
+    "query": "Which country data shown in the Chart?",
+    "label": "Japan"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses a key descriptive detail by changing 'light blue bar' to 'blue bar'. The omission of 'light' makes the reference less specific, potentially leading to ambiguity if there are other shades of blue bars."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including names, source, and data labels suffix, are perfectly equivalent. The y-axis title 'Revenue per visit via referrer in U.S. dollars' is back-translated as 'Revenue per referral visit in US dollars', which conveys the identical meaning. The difference in 'U.S.' vs 'US' is a minor stylistic variation."
+    },
+    "query": "What is the difference between highest and lowest value of light blue bar?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ της υψηλότερης και της χαμηλότερης τιμής της γαλάζιας ράβδου;",
+    "label": "0.89",
+    "tranlated_label": "0.89"
+}

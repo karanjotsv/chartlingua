@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. It uses a synonym ('chart' for 'graph') and corrects a grammatical error in the original ('shows that' vs. 'that') which clarifies the intended meaning without changing it."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text values in the JSON are either null or, in the case of the data series name, a file path that is identical in both versions. This is a perfect match."
+    },
+    "claim": "The graph that the sound intensity remains constant over time.",
+    "translated_claim": "Graficul arată că intensitatea sunetului rămâne constantă în timp."
+}

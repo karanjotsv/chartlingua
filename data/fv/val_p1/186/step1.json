@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text labels (including title and axes), and color assignments are accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that the percentage of respondents from Libraries is 40.6%, which is substantially higher than the percentage of respondents from Galleries, which has the lowest bar on the chart."
+    },
+    "claim": "Libraries have more number of repondents than Gallaries.",
+    "label": true
+}

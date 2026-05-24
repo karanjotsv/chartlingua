@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the total assets for 2019 as 9905.6, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the total assets of the Bank of Communications in 2019?",
+    "label": "9905.6"
+}

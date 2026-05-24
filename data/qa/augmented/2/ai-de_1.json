@@ -1,0 +1,37 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": {
+        "categories": [
+            "2013",
+            "2018*"
+        ],
+        "series": [
+            {
+                "name": "Offline-Umsätze",
+                "data": [
+                    93.2,
+                    89
+                ]
+            },
+            {
+                "name": "Online-Umsätze",
+                "data": [
+                    6.8,
+                    11
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Einzelhandelsumsätze",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2E75B5",
+        "#1C2C42"
+    ]
+}

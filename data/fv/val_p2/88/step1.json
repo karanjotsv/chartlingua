@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly represents four equal slices (25% each) and uses the same color hues as the original. The order of slices is rotated, but without labels or a defined starting point, this does not alter the core message that the four categories are of equal proportion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart is a generic pie chart with four unlabeled segments. It contains no title, legend, or numerical data. Therefore, it is impossible to verify the claim's specific details about 'the bottom 99.9%', a value of '5 trillion', or the context of 'global distribution of wealth'."
+    },
+    "claim": "The bottom 99.9% own 5 trillion of the global distribution of wealth.",
+    "label": "FALSE"
+}

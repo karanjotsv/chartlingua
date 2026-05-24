@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, and color hues are accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the largest segment is 'Contractor full-time equivalents' at 56%, and the smallest segment is 'Authorized military' at 9%. The difference between these two percentages is 56% - 9% = 47%, which confirms the claim."
+    },
+    "claim": "The difference between the biggest and smallest bars of the chart is 47%.",
+    "label": "TRUE"
+}

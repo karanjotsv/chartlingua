@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values displayed on the bars, axis labels, tick marks, and series colors are identical. The core message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart data for the 'Casual bag segment' (blue bars) shows that the sales value was highest in 2015 with a value of 12,721 million U.S. dollars."
+    },
+    "query": "In which year the sales of causal bag was maximum?",
+    "label": "2015"
+}

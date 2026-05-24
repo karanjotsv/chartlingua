@@ -1,0 +1,161 @@
+{
+    "chart_data": [
+        {
+            "subplot_title": "Art+Feminism Events per year",
+            "series": [
+                {
+                    "name": "Actual",
+                    "x": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018
+                    ],
+                    "y": [
+                        30,
+                        75,
+                        180,
+                        210,
+                        280
+                    ]
+                },
+                {
+                    "name": "Trend",
+                    "x": [
+                        2014,
+                        2019
+                    ],
+                    "y": [
+                        30,
+                        380
+                    ]
+                }
+            ]
+        },
+        {
+            "subplot_title": "Articles created or improved per year",
+            "series": [
+                {
+                    "name": "Actual",
+                    "x": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018
+                    ],
+                    "y": [
+                        300,
+                        900,
+                        3000,
+                        6000,
+                        13000
+                    ]
+                },
+                {
+                    "name": "Trend",
+                    "x": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "y": [
+                        300,
+                        800,
+                        2000,
+                        5000,
+                        10000,
+                        20000
+                    ]
+                }
+            ]
+        },
+        {
+            "subplot_title": "Participants per year",
+            "series": [
+                {
+                    "name": "Actual",
+                    "x": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018
+                    ],
+                    "y": [
+                        400,
+                        1300,
+                        2500,
+                        2500,
+                        3800
+                    ]
+                },
+                {
+                    "name": "Trend",
+                    "x": [
+                        2014,
+                        2019
+                    ],
+                    "y": [
+                        400,
+                        4500
+                    ]
+                }
+            ]
+        },
+        {
+            "subplot_title": "Productivity: Articles edited per participant per year",
+            "series": [
+                {
+                    "name": "Actual",
+                    "x": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018
+                    ],
+                    "y": [
+                        0.1,
+                        0.7,
+                        1.2,
+                        2.4,
+                        3.4
+                    ]
+                },
+                {
+                    "name": "Trend",
+                    "x": [
+                        2014,
+                        2015,
+                        2016,
+                        2017,
+                        2018,
+                        2019
+                    ],
+                    "y": [
+                        0.1,
+                        0.3,
+                        0.8,
+                        1.5,
+                        2.8,
+                        5.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Current growth models for Art+Feminism events, participants, and articles created, based off of 5 years of data, as of July 2018.",
+        "subtitle": null,
+        "source": null
+    },
+    "colors": {
+        "actual": "#4285F4",
+        "trend": "#AECBFA"
+    }
+}

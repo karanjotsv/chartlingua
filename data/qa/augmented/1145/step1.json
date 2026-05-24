@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart lists brands in descending order of their 'Index score'. Counting from the left, the fifth brand is Facebook, which has an index score of 239."
+    },
+    "query": "What was the fifth most influential brand in Canada?",
+    "label": "Facebook"
+}

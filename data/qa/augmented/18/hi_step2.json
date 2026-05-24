@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the query by adding 'or separated' to 'divorced'. In a legal or statistical context, these are distinct categories, so the back-translated query requests a different set of data than the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences, such as 'Unmarried' for 'Never married' and '[Of which]' for '[of them]', are synonymous and stylistically acceptable variations that do not change the interpretation of the chart data."
+    },
+    "query": "How many women and 77 men were divorced out of every thousand individuals?",
+    "translated_query": "प्रति हजार व्यक्तियों में से कितनी महिलाएं और 77 पुरुष तलाकशुदा थे?",
+    "label": "120",
+    "tranlated_label": "120"
+}

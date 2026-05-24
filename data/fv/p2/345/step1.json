@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data proportions and colors of the pie slices are highly consistent. However, the rendered chart fails to reproduce most of the essential category labels from the original (e.g., 'Symbian', 'Windows Mobile'), making it difficult to interpret fully. It also adds a new title and subtitle not present in the original image.",
+        "has_visual_flaws": true,
+        "flaw_reason": "Most of the data labels are rendered as black text on a black background, which makes them completely unreadable and prevents identification of the corresponding slices."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a comparison between the smartphone sales of 'Linux' and 'Blackberry'. However, the pie chart does not label the slices corresponding to these operating systems, making it impossible to verify the comparison based on the provided visual information."
+    },
+    "claim": "Linux sold more smartphones in Q2 2009 than Blackberry.",
+    "label": "FALSE"
+}

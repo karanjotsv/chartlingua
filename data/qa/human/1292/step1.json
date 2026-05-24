@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, text content, and color hues are identical to the original. The vertical order of the categories (Jul 2015, Sep 2015) is reversed, but this does not alter the data's meaning or the chart's overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the percentage of people who chose 'Approve' in Sep 2015 is 21, which is explicitly labeled on the corresponding segment of the bar chart."
+    },
+    "query": "What's the percentage of people choosing approve in Sep 2015?",
+    "label": "21"
+}

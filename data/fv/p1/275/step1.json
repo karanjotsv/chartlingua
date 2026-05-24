@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are consistent. The only difference is the capitalization in the subtitle ('Iowa' vs 'iowa'), which is a negligible stylistic variation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that fossil fuels, which include coal (46.7%) and natural gas (5.6%), together account for 52.3% of electricity generation. This value is significantly higher than the 'less than 10%' stated in the claim."
+    },
+    "claim": "Fossil fuels account for less than 10% of electricity generated in Iowa.",
+    "label": false
+}

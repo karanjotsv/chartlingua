@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall structure are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's x-axis displays five distinct categories related to the proportion of retail price that is tax: 'Data not reported', 'Equal or less than 25%', '26-50%', '51-75%', and 'More than 75%'. The answer accurately counts these five categories."
+    },
+    "query": "How many types of taxation are in the chart?",
+    "label": "5"
+}

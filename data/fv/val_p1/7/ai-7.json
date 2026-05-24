@@ -1,0 +1,36 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "series_name": "Velocity",
+            "categories": [
+                "300",
+                "350",
+                "400",
+                "450",
+                "500",
+                "600"
+            ],
+            "values": [
+                2850,
+                2750,
+                2550,
+                2450,
+                2350,
+                2150
+            ]
+        }
+    ],
+    "texts": {
+        "title": ".458 Lott Bullet Weight to Velocity Comparison",
+        "subtitle": null,
+        "x_axis_title": "Bullet Velocity (ft/s)",
+        "y_axis_title": "Bullet Weight (gr.)",
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FF0000"
+    ]
+}

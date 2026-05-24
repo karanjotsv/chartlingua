@@ -1,0 +1,50 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Tind să favorizeze o parte",
+            "x": [
+                79,
+                91,
+                69
+            ],
+            "text": [
+                "79%",
+                "91",
+                "69"
+            ]
+        },
+        {
+            "name": "Tratează corect toate părțile",
+            "x": [
+                20,
+                8,
+                29
+            ],
+            "text": [
+                "20%",
+                "8",
+                "29"
+            ]
+        }
+    ],
+    "categories": [
+        "Adulți din S.U.A.",
+        "Republicani/simpatizanți Rep",
+        "Democrați/simpatizanți Dem"
+    ],
+    "texts": {
+        "title": "Aproximativ opt din zece americani consideră că știrile<br>favorizează o parte, mai ales în rândul republicanilor",
+        "subtitle": "% din adulții din S.U.A. care spun că organizațiile de știri ___ atunci când prezintă știrile<br>pe teme politice și sociale",
+        "series_labels": [
+            "Tind să favorizeze<br>o parte",
+            "Tratează corect<br>toate părțile"
+        ],
+        "source": "Notă: Respondenții care nu au oferit un răspuns nu sunt afișați.<br>Sursă: Sondaj realizat pe adulți din S.U.A. în perioada 18 februarie - 2 martie 2020.",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#C9A845",
+        "#75404B"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly captures the semantic meaning of the original claim. The phrasing 'market share exceeds 31%' is a more natural and concise way to express 'has a market shares' percentage superior to 31%' while maintaining identical meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'label' fields within 'chart_data', is identical in both the original and back-translated JSON. All other text fields ('title', 'subtitle', etc.) are null in both versions, indicating perfect semantic preservation."
+    },
+    "claim": "Mozilla Firefox's has a market shares' percentage superior to 31%.",
+    "translated_claim": "Доля рынка Mozilla Firefox превышает 31%."
+}

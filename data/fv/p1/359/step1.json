@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data categories, percentages, labels, and the overall title are identical. The color hues for each slice are also consistent, maintaining the same visual message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the 2011 budget, but the chart is explicitly titled '2012 Budget of Puerto Rico'."
+    },
+    "claim": "The largest portion in the 2011 budget of the Government of Puerto Rico was for government-owned corporations and the general fund.",
+    "label": true
+}

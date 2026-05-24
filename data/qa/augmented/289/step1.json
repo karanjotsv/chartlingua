@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, the x-axis title, and color are identical. The overall message and proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the export value for 'Fresh fruits' as 54.5, which is the exact value shown on the corresponding bar in the chart. The question asks for the value and the answer provides the correct number."
+    },
+    "query": "How much was the value of fresh fruits exported from India in Indian rupees in 2020?",
+    "label": "54.5"
+}

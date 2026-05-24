@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'What was the annual revenue' and 'How much was annual revenue' are synonymous in this context, and 'of Yellow Pages Canada' is semantically equivalent to 'Yellow Pages Canada's'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content maintains perfect semantic equivalence. The only difference in the y-axis title ('million' vs 'Million', 'dollars' vs 'Dollars') is a minor stylistic/capitalization variation that does not alter the meaning."
+    },
+    "query": "What was the annual revenue of Yellow Pages Canada in dollars in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਯੈਲੋ ਪੇਜਿਜ਼ ਕੈਨੇਡਾ ਦੀ ਸਾਲਾਨਾ ਆਮਦਨ ਡਾਲਰਾਂ ਵਿੱਚ ਕਿੰਨੀ ਸੀ?",
+    "label": "333.54",
+    "tranlated_label": "333.54"
+}

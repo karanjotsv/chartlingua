@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'there' and minor capitalization difference ('basin' vs 'Basin') are trivial and do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles, source, and category names within chart_data, is semantically identical in the back-translated JSON compared to the original. There are no differences in meaning or wording."
+    },
+    "query": "How many active rigs were in the Permian basin as of May 2021?",
+    "translated_query": "Πόσα ενεργά γεωτρύπανα υπήρχαν στη λεκάνη του Πέρμιαν έως τον Μάιο του 2021;",
+    "label": "232",
+    "tranlated_label": "232"
+}

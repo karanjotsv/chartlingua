@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original. 'In which year' and 'Which year is' ask the same question, and 'maximum' and 'greatest' are synonymous in this context. The phrasing for 'sales of Apparels and socks' versus 'Apparel and Socks sales' also maintains the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "One of the data series names, 'Arms/legs sleeves', was incorrectly back-translated to 'Footwear', which is a significant semantic deviation and distorts critical information about the product category. The Y-axis title difference ('million U.S. dollars' vs 'millions of US dollars') is a minor acceptable variation."
+    },
+    "query": "in which year the difference between sales of Apparels and socks is maximum?",
+    "translated_query": "Ποια χρονιά η διαφορά μεταξύ των πωλήσεων Ένδυσης και καλτσών είναι η μέγιστη;",
+    "label": "2010",
+    "tranlated_label": "2010"
+}

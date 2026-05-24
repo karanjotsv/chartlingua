@@ -1,0 +1,43 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "nuclear",
+            "value": 32.5
+        },
+        {
+            "category": "other",
+            "value": 2.5
+        },
+        {
+            "category": "solar",
+            "value": 3.1
+        },
+        {
+            "category": "hydro",
+            "value": 3.4
+        },
+        {
+            "category": "coal",
+            "value": 28.5
+        },
+        {
+            "category": "natural gas",
+            "value": 30.0
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>North Carolina - 2016",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#E5C463",
+        "#B666D2",
+        "#E0D640",
+        "#2E86AB",
+        "#B1006E",
+        "#89D1D9"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, and color hues are accurately reproduced. The rendered chart improves on the original by adding a descriptive title and a legend, which enhances clarity without changing the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows the number of exoplanets discovered each year. For the year 2016, the total height of the bar corresponds to the value 1535, which is explicitly labeled on the chart."
+    },
+    "claim": "In 2016, 1535 exoplanets were discovered.",
+    "label": "TRUE"
+}

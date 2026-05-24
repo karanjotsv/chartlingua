@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, titles, and color hues are accurately reproduced. The overall message and interpretation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on different printing methods. The claim, however, discusses the nationality of students, a topic for which no information is provided in the chart."
+    },
+    "claim": "The nationality of students in the group at the university is diverse.",
+    "label": "TRUE"
+}

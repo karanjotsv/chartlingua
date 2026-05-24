@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, the title, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a majority of the community dislikes the color of the logo, but the chart shows that only 2 respondents chose 'Color (red)'. This is the lowest number among all options and does not represent a majority of the total respondents (17)."
+    },
+    "claim": "Majority of the community dislike the color of the Wikimedia logo.",
+    "label": "FALSE"
+}

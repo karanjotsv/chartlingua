@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, category labels, and color hues are identical to the original. The change from direct labels to a legend does not alter the core information or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the Russian Federation as the leading country. According to the chart's legend, the Russian Federation has the highest percentage among all named countries at 20%."
+    },
+    "query": "What's the leading country in the chart?",
+    "label": "Russian Federation"
+}

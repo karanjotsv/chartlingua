@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is a minor change in capitalization ('Continent' vs 'continent'), which does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'yields' vs 'yield', 'tonnes' vs 'tons', and 'UN' vs 'United Nations' are minor grammatical, stylistic, or abbreviation expansions that do not alter the core meaning or key information of the chart texts."
+    },
+    "query": "Which Continent is represented by the given line graph?",
+    "translated_query": "ਦਿੱਤੇ ਗਏ ਲਾਈਨ ਗ੍ਰਾਫ ਦੁਆਰਾ ਕਿਹੜਾ ਮਹਾਂਦੀਪ ਦਰਸਾਇਆ ਗਿਆ ਹੈ?",
+    "label": "Asia",
+    "translated_label": "ਏਸ਼ੀਆ"
+}

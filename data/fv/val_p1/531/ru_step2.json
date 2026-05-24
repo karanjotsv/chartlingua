@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. Minor phrasing changes ('Average pulsed laser power' vs 'The average power pulsed laser', 'pulsed laser power' vs 'pulse laser power', and 'laser power squared' vs 'squared laser power') are stylistic or slightly improve grammar/naturalness without altering the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all chart text elements. Differences like 'Pulse laser power' vs 'Pulsed Laser Power' or 'Average Power of Pulsed laser' vs 'Average Pulsed Laser Power' are stylistic and do not alter the meaning."
+    },
+    "claim": "The average power pulsed laser based on three attributes pulse laser power, average laser power and squared laser power.",
+    "translated_claim": "Средняя мощность импульсного лазера основывается на трех атрибутах: мощности импульсного лазера, средней мощности лазера и квадрате мощности лазера."
+}

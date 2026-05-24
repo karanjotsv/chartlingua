@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the chart type, title, all categories, their relative proportions, and the overall color scheme. The core message is identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a 'majority' (more than 50%) of students are planning to attend a 4-year college. The pie chart shows that the '4-Year College' slice is the largest single category, but it is visually less than half of the total circle, meaning it does not represent a majority. Additionally, the chart provides no information about the year (2008) or the specific location (Beaver Dam, WI USA)."
+    },
+    "claim": "The majority of the graduating class of 2008 from Beaver Dam, WI USA are planning to attend a 4-year college.",
+    "label": true
+}

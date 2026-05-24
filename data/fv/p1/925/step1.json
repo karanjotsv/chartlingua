@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, their relative proportions, chart title, axis titles, and axis labels are identical to the original. The color hue is also consistent. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart visually confirms an increase in annual tonnage between 2013 and 2015. The bar for 2013 is the lowest of the three, the bar for 2014 is higher, and the bar for 2015 is the highest, demonstrating a consistent upward trend over this period."
+    },
+    "claim": "Annual tonnage showed an increase from 2013 to 2015",
+    "label": true
+}

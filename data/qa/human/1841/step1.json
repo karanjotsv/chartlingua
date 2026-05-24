@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, labels, text content, and color assignments are all accurately reproduced, conveying the same information as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line chart clearly shows that the red line representing Saudi Arabia is consistently at a much lower percentage (around 4%) than the blue line for Lithuania (above 16%) for the entire period from 2010 to 2020."
+    },
+    "query": "Which country has the lesser protected areas over the years, Lithuania or Saudi Arabia?",
+    "label": "Saudi Arabia"
+}

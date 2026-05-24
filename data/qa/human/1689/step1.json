@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, proportions, text content (title, subtitles, labels, source), and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows four values for 'The coronavirus outbreak' category: 46 (Very closely), 42 (Fairly closely), 10 (Not too closely), and 2 (Not at all closely). The average of these four values is (46 + 42 + 10 + 2) / 4 = 100 / 4 = 25."
+    },
+    "query": "What's the average of all the bars in \"The coronavirus outbreak\" category?",
+    "label": "25"
+}

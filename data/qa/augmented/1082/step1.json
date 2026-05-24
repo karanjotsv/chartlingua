@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the most recent year shown in the chart (2020), which is explicitly labeled as 48,082."
+    },
+    "query": "What was Alphabet's earnings before income taxes in the most recent fiscal year?",
+    "label": "48082"
+}

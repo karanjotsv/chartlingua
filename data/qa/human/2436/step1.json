@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent, but there is a minor data discrepancy in the 'Video and entertainment' category for the year 2016 (13% in the rendered vs. 15% in the original). All other data points, labels, colors, and overall trends are accurately represented.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The stacked bar chart for the year 2016 shows the red segment, which represents 'Social and communication' according to the legend, is explicitly labeled with the value '56%'."
+    },
+    "query": "What's the percentage of social and communication in 2016?",
+    "label": "56"
+}

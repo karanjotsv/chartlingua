@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The main meaning of the total percentage is preserved. However, the specific reference to 'Bacillus bars' (chart components) in the original is lost. The back-translation uses 'rods' which typically describes bacterial shape, rather than chart elements, and applies it to the entire list, introducing a semantic shift and potential ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Minor acceptable differences include the pluralization of 'Bacillus' to 'Bacilli', a spelling variation from 'Amebae' to 'Amoebae', and the addition of 'bacteria' in 'other Gram-negative bacteria' which clarifies but doesn't change the core meaning. The semantic intent is preserved."
+    },
+    "claim": "The total of the Actinomycetes, Myxo bacteria and Bacillus bars is 60% of the chart.",
+    "translated_claim": "Το σύνολο των ράβδων Ακτινομυκήτων, Μυξοβακτηρίων και Βάκιλλων είναι το 60% του διαγράμματος."
+}

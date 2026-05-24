@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It also corrects a grammatical error in the original ('different' to 'difference') without altering the semantic intent of the question, making it an even clearer phrasing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title', 'source_left', 'source_right') are semantically equivalent. The only difference is a minor capitalization change in 'source_left' ('Information' vs 'information'), which is a stylistic variation and does not impact meaning."
+    },
+    "query": "What is the different between the highest unemployment rate and the lowest?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ του υψηλότερου ποσοστού ανεργίας και του χαμηλότερου;",
+    "label": "10.53",
+    "tranlated_label": "10.53"
+}

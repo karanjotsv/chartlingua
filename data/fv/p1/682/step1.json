@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, proportions, and color assignments are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim that all service areas have equal coverage is contradicted by the pie chart, which shows varying percentages for different areas. For example, 'IT & software' and 'Consultancy/advisory' each account for 42%, while 'Training' only accounts for 4%."
+    },
+    "claim": "All service areas have an equal coverage.",
+    "label": false
+}

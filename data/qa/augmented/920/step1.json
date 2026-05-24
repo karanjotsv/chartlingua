@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall structure are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states Apple's brand value as 352.21, which matches the value shown next to the 'Apple' bar in the chart. The units (billion U.S. dollars) were not requested, so omitting them is acceptable."
+    },
+    "query": "What is Apple's brand value?",
+    "label": "352.21"
+}

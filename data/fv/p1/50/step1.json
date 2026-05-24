@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart fails to reproduce most of the data series labels from the original. While the data points, axis titles, and color hues appear consistent, the omission of five out of seven crucial labels (e.g., 'Bank in Basel', 'Farm supplied by overhead lines', 'Home (living room)') makes the chart's primary message of comparing different locations mostly incomprehensible.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays a line representing the number of transients per year at different voltage levels (kV) for the 'Landis and Gyr factory'. This line covers a range of kV values, from approximately 2.5 kV to 10 kV. The claim incorrectly states that the factory 'accounted for 9 kV', as the factory is represented by a data series across a range of voltages, not a single voltage value."
+    },
+    "claim": "Landis and Gyr factory (furnace) accounted for 9 kV.",
+    "label": false
+}

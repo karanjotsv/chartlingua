@@ -1,0 +1,87 @@
+{
+    "chart_type": "100% stacked bar",
+    "chart_data": {
+        "categories": [
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ],
+        "series": [
+            {
+                "name": "Agricultură",
+                "data": [
+                    4.04,
+                    4.02,
+                    3.66,
+                    3.81,
+                    4.16,
+                    5.66,
+                    5.38,
+                    5.01,
+                    5.02,
+                    4.9,
+                    5.03
+                ]
+            },
+            {
+                "name": "Industrie",
+                "data": [
+                    55.49,
+                    57.8,
+                    51.93,
+                    49.28,
+                    50.61,
+                    40.81,
+                    48.41,
+                    48.63,
+                    45.16,
+                    44.73,
+                    37.24
+                ]
+            },
+            {
+                "name": "Servicii",
+                "data": [
+                    40.47,
+                    38.18,
+                    36.35,
+                    39.35,
+                    38.79,
+                    45.91,
+                    39.03,
+                    38.64,
+                    44.87,
+                    45.57,
+                    51.67
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Pondere în PIB",
+        "source": "© Statista 2021"
+    },
+    "colors": {
+        "series_colors": [
+            "#2E75B5",
+            "#0F2D4A",
+            "#B8B8B8"
+        ],
+        "text_font_colors": [
+            "white",
+            "white",
+            "black"
+        ]
+    }
+}

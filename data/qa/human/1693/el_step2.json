@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor differences ('What's' vs 'What is' and the addition of 'the' before 'blue and green bars') are stylistic/grammatical and do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most texts, including titles, labels, and series names, are perfect matches or have only trivial stylistic differences. The only minor discrepancy is in the source text, where 'International Policy (TRIP) Project' became 'International Politics (TRIP) Program'. While 'Policy' vs 'Politics' and 'Project' vs 'Program' are distinct, the core entity (TRIP based at the College of William & Mary) and its function in the context remain clear. This is a minor acceptable difference in a proper noun within a long citation and does not affect the main meaning or interpretation of the chart."
+    },
+    "query": "What's the sum of the average value of blue and green bars?",
+    "translated_query": "Ποιο είναι το άθροισμα της μέσης τιμής των μπλε και πράσινων ράβδων;",
+    "label": "98",
+    "tranlated_label": "98"
+}

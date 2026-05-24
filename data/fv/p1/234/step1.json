@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. Data points, line trends, axis labels, titles, and color hues are all consistent. The core message and all key information are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the cognitive test scores fluctuated much, but the chart does not show this. Instead, it displays three relatively smooth trends: one increasing and then plateauing (Ashby Method), one remaining flat before declining (Medication), and one steadily declining (Normal Course of Disease). None of these lines exhibit significant or repeated fluctuations."
+    },
+    "claim": "The changes to the overall Cognitive Test scores fluctuated much over a 12 month span.",
+    "label": true
+}

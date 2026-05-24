@@ -1,0 +1,51 @@
+{
+    "chart_type": "donut_multiple",
+    "chart_data": {
+        "main_chart": {
+            "labels": [
+                "Yes",
+                "No"
+            ],
+            "values": [
+                12.08,
+                87.92
+            ]
+        },
+        "sub_charts": [
+            {
+                "label": "10's",
+                "value": 11
+            },
+            {
+                "label": "20's",
+                "value": 19
+            },
+            {
+                "label": "30's",
+                "value": 13
+            },
+            {
+                "label": "40's",
+                "value": 8
+            },
+            {
+                "label": "50's",
+                "value": 5
+            },
+            {
+                "label": "Over<br>60",
+                "value": 5
+            }
+        ]
+    },
+    "texts": {
+        "title": "Have you ever eaten at home or<br>in a public (including school or<br>office) bathroom?",
+        "subtitle": null,
+        "source": "Adapted from a research report by Sun Reflex Holdings Inc. released on March 11, 2013<br>Quoted from: https://www.sunrefre.jp/site_guide/news/release20130311.pdf<br><br><b>Survey Summary</b><br>Survey title: “Tell us about your toilet life!”<br>Survey period: January 24 - February 25, 2013<br>Survey method: Internet survey on Facebook (Monipla)<br>Survey area: All over Japan<br>Number of valid responses: 2459 (Male: 47%, Female: 53%)",
+        "main_chart_center_text": "Valid<br>responses<br>2,459"
+    },
+    "colors": [
+        "#F06B6D",
+        "#C2DCEF"
+    ]
+}

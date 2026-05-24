@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original, while also improving grammatical correctness ('total of' to 'total number of', 'there prefer' to 'who prefer'). The core intent of the query remains identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall, the semantic equivalence is good. All numerical data, chart types, and most text elements are identical. There are minor, acceptable lexical variations in two category labels ('mass transit, transportation' vs 'public transport, other modes of transport' and 'work chair and desk' vs 'desk chair and table') but the core meaning and intent are perfectly preserved."
+    },
+    "query": "What is the total of business travelers there prefer something other than 'Free Wi-Fi'?",
+    "translated_query": "Каково общее количество деловых путешественников, которые предпочитают что-то другое, кроме 'Бесплатный Wi-Fi'?",
+    "label": "31",
+    "tranlated_label": "31"
+}

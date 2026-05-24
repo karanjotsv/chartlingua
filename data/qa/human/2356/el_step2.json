@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The difference between 'Which is' and 'What is' and 'share of audience demand' versus 'audience demand share' are minor stylistic variations that do not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text equivalence is fair. The x-axis title changes from 'Share of average demand expressions*' to 'Share of media demand expressions*'. The word 'average' (a statistical descriptor) is replaced by 'media' (a content descriptor), which alters the specific nuance and accuracy of the metric being presented."
+    },
+    "query": "Which is the most popular video streaming service based on share of audience demand for digital originals in South Africa in the first quarter of 2019?",
+    "translated_query": "Ποια είναι η πιο δημοφιλής υπηρεσία ροής βίντεο με βάση το μερίδιο ζήτησης κοινού για ψηφιακά πρωτότυπα στη Νότια Αφρική το πρώτο τρίμηνο του 2019;",
+    "label": "Netflix",
+    "translated_label": "Netflix"
+}

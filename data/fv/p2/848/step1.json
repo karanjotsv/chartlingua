@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly preserves all data values, category labels, and color hues from the original. While the slice order and styling (e.g., exploded slice) differ, these changes do not affect the semantic meaning or the overall message of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the market share percentages for various web browsers. The claim discusses the absorption spectra of HbO2 and Hb, a topic from biology. The chart contains no information related to the claim, and therefore cannot be used to support it."
+    },
+    "claim": "The absorption spectra of HbO2 and Hb overlap.",
+    "label": "TRUE"
+}

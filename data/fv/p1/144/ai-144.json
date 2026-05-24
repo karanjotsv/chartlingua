@@ -1,0 +1,70 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Oak Savanna",
+            "value": 1.0
+        },
+        {
+            "label": "Hardwood - Conifer Savanna",
+            "value": 3.0
+        },
+        {
+            "label": "Mixed Hardwoods - Prairie",
+            "value": 2.0
+        },
+        {
+            "label": "Mollic Alfisols & Entisols poorly drained",
+            "value": 4.0
+        },
+        {
+            "label": "Hardwood Forest",
+            "value": 21.0
+        },
+        {
+            "label": "Hardwood Forest poorly drained",
+            "value": 11.0
+        },
+        {
+            "label": "Spruce - Fir Birch Forest",
+            "value": 3.0
+        },
+        {
+            "label": "Maple - Basswood / Northern Hardwoods - Conifer Forest",
+            "value": 17.0
+        },
+        {
+            "label": "Hardwood - Conifer Forest",
+            "value": 5.0
+        },
+        {
+            "label": "Hardwood - Conifer Forest entisols",
+            "value": 1.0
+        },
+        {
+            "label": "Water / Wet Soils / Gravel Pits",
+            "value": 32.0
+        }
+    ],
+    "colors": [
+        "#D2691E",
+        "#8B0000",
+        "#C0C0C0",
+        "#6B8E23",
+        "#7CFC00",
+        "#006400",
+        "#800080",
+        "#48D1CC",
+        "#2E8B57",
+        "#A52A2A",
+        "#0000FF"
+    ],
+    "texts": {
+        "title": "Native Vegetation for Cass County, Minnesota",
+        "subtitle": null,
+        "source": "Sourced-from: Web Soil Survey (WSS), Natural Resources Conservation Service, United States Department of Agriculture.<br>Available online at http://websoilsurvey.nrcs.usda.gov/.<br>NRCS/WSS native vegetation information first sorted by soil series then compiled using soil series proportion of county area (%).<br>Accessed by Steve Nelson 10/16/10",
+        "note": "Cass County Minnesota Savanna Soils 5 %",
+        "x_axis_title": null,
+        "y_axis_title": null
+    }
+}

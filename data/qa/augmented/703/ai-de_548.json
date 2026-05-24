@@ -1,0 +1,51 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Kreditkarten",
+            "value": 42
+        },
+        {
+            "category": "Elektronische Zahlung (PayPal, falls verfügbar)",
+            "value": 39
+        },
+        {
+            "category": "Debitkarten",
+            "value": 28
+        },
+        {
+            "category": "Nachnahme",
+            "value": 23
+        },
+        {
+            "category": "Banküberweisungen",
+            "value": 20
+        },
+        {
+            "category": "Geschenkkarten oder Gutscheine",
+            "value": 15
+        },
+        {
+            "category": "Mobile Zahlung",
+            "value": 14
+        },
+        {
+            "category": "Kryptowährungen (Bitcoin)",
+            "value": 3
+        },
+        {
+            "category": "Sonstige",
+            "value": 3
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anteil der Online-Käufer",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#3182CE"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, color assignments, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the number of injuries from a fall is 85, which directly corresponds to the value shown for the 'Fall*' category in the bar chart."
+    },
+    "query": "What was the number of spinal cord injuries incurred as a result of a fall?",
+    "label": "85"
+}

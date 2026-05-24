@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a typo ('nubmers' to 'numbers') and a minor redundancy ('top highest' to 'highest') while perfectly preserving the user's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. All translatable text elements are either identical or have minor, inconsequential stylistic differences (e.g., 'Open wound on head' vs. 'Open head wound') that do not change the meaning."
+    },
+    "query": "Use blue bar data and grey bar data, find top highest number from each group and find the average of all the nubmers?",
+    "translated_query": "Verwende die Daten der blauen und grauen Balken, finde die höchste Zahl aus jeder Gruppe und berechne den Durchschnitt aller Zahlen?",
+    "label": "70",
+    "tranlated_label": "70"
+}

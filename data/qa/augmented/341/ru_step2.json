@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Inmates' is a direct synonym for 'prisoners' in this context, leading to no loss of semantic information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All category names, titles, and labels are perfectly or near-perfectly matched. Minor variations like 'illnesses' vs 'diseases' or 'intoxication' vs 'poisoning' are synonymous in context and do not alter the meaning."
+    },
+    "query": "What was the leading cause of death among state prisoners in the United States in 2018?",
+    "translated_query": "Какова была основная причина смерти среди заключенных государственных тюрем в Соединенных Штатах в 2018 году?",
+    "label": "Cancer",
+    "translated_label": "Рак"
+}

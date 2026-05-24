@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The main pie chart is mostly consistent with the original in terms of data proportions, categories, and colors. However, the secondary (zoomed-in) pie chart is completely incorrect. The original shows a breakdown of multiple small slices (1% or less), while the rendered version shows five equal 20% slices, which is a fundamental misrepresentation of that portion of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected. The chart is legible and does not suffer from major issues like text overlap, clipping, or data obscurity. The presence of unnecessary numerical axes is a minor stylistic issue but does not impede interpretation."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that the largest percentage of foreigners residing in South Korea are from China, at 54.5%, which constitutes the majority. The percentage from Japan is significantly smaller, at 3.03%."
+    },
+    "claim": "Majority of foreigners residing in South Korea are from Japan.",
+    "label": false
+}

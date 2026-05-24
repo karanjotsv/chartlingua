@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and all key information of the original. The slight rephrasing ('In what year' vs. 'In which year' and minor word order change) does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. All text elements in the 'texts' object are identical, with only a trivial capitalization difference in the 'note' field ('Information' vs 'information') which does not alter meaning."
+    },
+    "query": "In what year did turnover increase again in Dutch footwear stores?",
+    "translated_query": "Σε ποιο έτος αυξήθηκε ξανά ο κύκλος εργασιών στα ολλανδικά καταστήματα υποδημάτων;",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

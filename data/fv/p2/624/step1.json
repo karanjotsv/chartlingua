@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart presents completely incorrect data for the 'MD' series. In the original, the 'MD' series is a red line with a prominent peak near x=8, y=59. In the rendered chart, 'MD' is represented by a cyan line with completely different and much lower values. While most other series are correct, this is a significant data error that fundamentally misrepresents one of the key data series.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that EU is at 98 percent. However, the chart's legend shows that the value associated with EU is 197.5. The country with the value of 98.0 is CA. Furthermore, the cyan line representing EU's MoM Percent Change never reaches the 98 level on the y-axis."
+    },
+    "claim": "EU is at 98 percent.",
+    "label": "FALSE"
+}

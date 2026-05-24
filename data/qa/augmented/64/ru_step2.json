@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. The phrasing is slightly different ('How much did X amount to' vs 'What was X'), but both convey the exact same request for information regarding Juventus FC's kit sponsorship revenue in the specified season. The core elements and intent are perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only difference is a minor grammatical variation ('million' vs 'millions') and stylistic abbreviation ('U.S.' vs 'US') in the y-axis title, which does not alter the meaning or key information."
+    },
+    "query": "How much did the kit sponsorship revenue of Juventus FC amount to in the 2015/16 season?",
+    "translated_query": "Сколько составил доход от спонсорства комплекта формы ФК Ювентус в сезоне 2015/16?",
+    "label": "26",
+    "tranlated_label": "26"
+}

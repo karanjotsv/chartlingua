@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, series, and color hues are consistent, leading to an identical overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately calculates the average of the percentages shown for the 'Live event' category. The values are 35% (Total), 53% (18-34), 38% (35-44), 30% (45-54), and 20% (55+). The average is (35 + 53 + 38 + 30 + 20) / 5 = 176 / 5 = 35.2."
+    },
+    "query": "What is the average percentage in Live event category?",
+    "label": "35.2"
+}

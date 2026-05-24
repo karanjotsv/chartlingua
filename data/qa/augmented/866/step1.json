@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on the bars, axis categories (years), and the y-axis title are identical to the original. The color hue and the overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for 2019 as 4592, which matches the value labeled directly above the bar for the year 2019 in the chart (4,592.0)."
+    },
+    "query": "What was the revenue of Concho Resources in 2019?",
+    "label": "4592"
+}

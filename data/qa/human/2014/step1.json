@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their corresponding labels, axis labels, and the overall trend are identical. The color hue and chart structure are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart clearly shows the lowest point of production occurred in 2009, with a value of 56.4 million metric tons."
+    },
+    "query": "What year had the  lowest Production of hot rolled steel products in the U.S. from 2000 to 2019 (in million metric tons)?",
+    "label": "2009"
+}

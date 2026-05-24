@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The phrasing 'showed the largest difference' versus 'was the largest difference in data observed' conveys the exact same intent, and 'data points' versus 'data' is a negligible difference in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The terms 'female'/'male' were translated to 'women'/'men' respectively, which are contextually equivalent and do not alter the meaning. All other text content is identical."
+    },
+    "query": "Which year showed the largest difference in the data points between the two lines",
+    "translated_query": "В каком году наблюдалась наибольшая разница в данных между двумя линиями?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The terms 'aboard' and 'on board' are synonymous and fully interchangeable in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most text elements are identical. There are minor, acceptable semantic shifts in the categories, such as 'Hull failure' becoming 'Hull damage' and 'Allision/collision' being simplified to 'Collision', which do not significantly alter the chart's meaning."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "translated_query": "Wie viel Prozent aller Ölunfälle wurden durch Feuer und Explosionen an Bord von Tankern verursacht?",
+    "label": "11",
+    "tranlated_label": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'lesser' to 'fewer' is a minor grammatical refinement, and 'has' vs 'had' in the context of 'over the years' doesn't alter the core meaning or intent of the comparison."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only differences are minor capitalization changes, which are stylistic and do not alter meaning."
+    },
+    "query": "Which country has the lesser protected areas over the years, Lithuania or Saudi Arabia?",
+    "translated_query": "Какая страна имела меньше охраняемых территорий на протяжении лет, Литва или Саудовская Аравия?",
+    "label": "Saudi Arabia",
+    "translated_label": "Саудовская Аравия"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. 'Movie' and 'film' are synonymous, and the phrasing 'for this movie' vs 'of this film' and 'for other movies' vs 'that of other films' convey the identical meaning without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. 'Box Office Gross' became 'Box office gross' (a minor capitalization change, semantically identical). 'N.º de salas de cinemas' was accurately translated to 'Number of cinemas', preserving full meaning. Numerical labels remained unchanged."
+    },
+    "claim": "The chart shows that cumulative box office gross for this movie was lower than for other movies in Japan.",
+    "translated_claim": "График показывает, что кумулятивные кассовые сборы этого фильма были ниже, чем у других фильмов в Японии."
+}

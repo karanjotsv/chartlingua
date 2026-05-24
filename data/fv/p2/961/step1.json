@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly faithful reproduction of the original's data, text, color scheme, and overall structure. All numerical values, labels, and sub-chart types are consistent with the original infographic, even though the visual layout is poor.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The rendered chart suffers from severe and widespread text and element overlap. The layout is completely broken, causing titles, labels, data values, and annotations to be jumbled together, making the chart illegible and unusable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides a 'Regional Profile of the South East' with data on population, economy, and housing. It contains no information about 'Media Viewer' or any performance metrics related to it, nor does it reference the date 'Jan 12'."
+    },
+    "claim": "Average performance metrics for Media Viewer all increased after Jan 12. ",
+    "label": "FALSE"
+}

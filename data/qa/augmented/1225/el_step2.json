@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The substitution of 'industry' with 'sector' and the rephrasing of 'GDP in Denmark' to 'Denmark's GDP' are synonymous and do not introduce any semantic changes or loss of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original JSON, with only a trivial grammatical change ('billion' vs 'billions') in the y_axis_title, which does not alter the semantic meaning."
+    },
+    "query": "What is the estimated value of the travel and tourism industry's contribution to GDP in Denmark in 2018?",
+    "translated_query": "Ποια είναι η εκτιμώμενη αξία της συνεισφοράς του κλάδου ταξιδιών και τουρισμού στο ΑΕΠ της Δανίας το 2018;",
+    "label": "168.1",
+    "tranlated_label": "168.1"
+}

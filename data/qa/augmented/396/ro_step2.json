@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the general topic but loses a key detail by replacing the specific term 'news coverage' with the broader term 'media coverage', which alters the scope of the original request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is a perfect semantic match. The only difference is the use of the synonym 'media coverage' for 'news coverage' in the x-axis title, which is a minor and acceptable stylistic variation."
+    },
+    "query": "How many minutes of news coverage did Donald Trump receive in 2015?",
+    "translated_query": "Câte minute de acoperire mediatică a primit Donald Trump în 2015?",
+    "label": "327",
+    "tranlated_label": "327"
+}

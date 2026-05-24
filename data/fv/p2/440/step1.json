@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that 'Water' is responsible for only 5% of damages, which is one of the smaller categories. The largest cause shown is 'Surges' at 31%, directly contradicting the claim that water is the major cause."
+    },
+    "claim": "Damages in electronic devices is majorly caused due to water.",
+    "label": "FALSE"
+}

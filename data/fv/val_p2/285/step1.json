@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are consistent with the original. The overall message is identical. The primary difference is the stylistic change from a 3D to a 2D pie chart, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the percentage for 'Unidentified' is 14% and for 'Bacillus' is 23%. The difference between these two values is 9% (23% - 14%), not 5% as stated in the claim."
+    },
+    "claim": "The difference between unidentified and Bacillus charts is 5%.",
+    "label": "FALSE"
+}

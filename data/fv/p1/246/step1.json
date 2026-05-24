@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, series, trends, axis labels, legend text, and color assignments are all consistent. The logarithmic scale and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the percentage of water is less than blood. However, the chart's legend explicitly shows the composition of the measured substance as '75 % Water' and '7 % Blood'. Since 75% is not less than 7%, the claim is directly contradicted by the legend."
+    },
+    "claim": "At the wavelength of 900 mm, the percentage of water in the absorption spectrum of brain tissue is less than blood.",
+    "label": true
+}

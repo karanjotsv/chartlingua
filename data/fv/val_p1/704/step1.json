@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, all text elements (title, axis labels, category labels), and color hues are accurately reproduced. The overall message and data distribution are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that women made up less than 10% of the workforce. However, a calculation based on the chart shows this is incorrect. The number of females is approximately 63 (around 50 in Domestic Offices, 10 in Professional, and a few in other categories). The total workforce (males and females combined) is approximately 288. This means women constitute about 22% of the workforce (63/288), which is significantly more than the 10% stated in the claim."
+    },
+    "claim": "Women made up less than 10% of the workforce in Roxwell in 1881",
+    "label": false
+}

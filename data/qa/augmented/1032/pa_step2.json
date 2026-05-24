@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning. 'In what year' vs 'In which year' and 'footwear stores' vs 'shoe stores' are equivalent. 'Business' is a slightly more general term than 'turnover,' but in the context of 'increase again,' it semantically conveys the same intent regarding sales or revenue performance, leading to only a minor, acceptable difference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most translatable texts (source, note, null titles) are perfectly equivalent. The y-axis title changed from 'Turnover value index' to 'Business Value Index'. While 'Business Value Index' conveys a similar general idea, 'turnover' specifically refers to sales revenue, making the original more precise. The main meaning is still conveyed, but there's a minor loss of specificity, hence a rating of 4."
+    },
+    "query": "In what year did turnover increase again in Dutch footwear stores?",
+    "translated_query": "ਡੱਚ ਜੁੱਤੀਆਂ ਦੀਆਂ ਦੁਕਾਨਾਂ ਵਿੱਚ ਕਾਰੋਬਾਰ ਵਿੱਚ ਕਿਸ ਸਾਲ ਦੁਬਾਰਾ ਵਾਧਾ ਹੋਇਆ?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

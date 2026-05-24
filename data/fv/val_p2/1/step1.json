@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. It accurately represents the same data proportions, categories, text labels, and color hues for both the inner and outer rings. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that Large Cell Carcinoma and Squamous Cell Carcinoma together constitute 75% of the total. Visually, the combined segments for Squamous Cell Carcinoma (blue) and Large Cell Carcinoma (purple) represent a fraction of the chart that is clearly much smaller than 75% (three-quarters). The largest segment, Adenocarcinoma, appears to be less than 50% by itself, making it impossible for these two smaller segments to sum to 75%."
+    },
+    "claim": "The average of Large cell and squamous cell together forms the 75% of the total chart.",
+    "label": "FALSE"
+}

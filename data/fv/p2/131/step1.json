@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data points, series, labels, and color hues from the original chart for the period shown (1992-2010). The added title is a beneficial clarification, and the extended x-axis does not alter the interpretation of the original data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three line graphs representing energy demand for Germany, Europe & Central Asia, and the World. For the year 2008 on the x-axis, the blue line for Germany is positioned at the highest point on the y-axis compared to the other two lines, indicating it had the highest energy demand per capita in that year."
+    },
+    "claim": "Germany had the highest energy demand per capita in 2008 compared to Europe and Asia and the World at the same time.",
+    "label": "TRUE"
+}

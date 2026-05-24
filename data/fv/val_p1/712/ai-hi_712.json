@@ -1,0 +1,48 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "पेट्रोलियम",
+            "value": 61.5
+        },
+        {
+            "label": "कोयला",
+            "value": 12.7
+        },
+        {
+            "label": "सौर",
+            "value": 10.8
+        },
+        {
+            "label": "पवन",
+            "value": 5.9
+        },
+        {
+            "label": "भूतापीय",
+            "value": 2.3
+        },
+        {
+            "label": "जैव ईंधन",
+            "value": 2.2
+        },
+        {
+            "label": "अन्य",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "बिजली उत्पादन के स्रोत",
+        "subtitle": "हवाई - 2017",
+        "source": null
+    },
+    "colors": [
+        "#555555",
+        "#992769",
+        "#E3D82A",
+        "#A1B530",
+        "#E88E28",
+        "#C47D2B",
+        "#8E66A2"
+    ],
+    "paper_bgcolor": "#E9E7F5"
+}

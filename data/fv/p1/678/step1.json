@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values (79%, 21%), labels ('Supportive', 'Mixed feelings/Opposed'), title, and color hues (blue and green) are all accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the poll was conducted between '14 and 18 March 2012', but this date range is not mentioned anywhere in the chart image. The evaluation must be based solely on the provided visual information."
+    },
+    "claim": "79% of the people polled between 14 and 18 March 2012 are supportive of the changes to the default diff colour scheme.",
+    "label": true
+}

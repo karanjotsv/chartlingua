@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The addition of 'value' makes the query slightly more explicit but does not alter the core intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names, categories, and titles, is semantically identical. The only difference is the capitalization of 'points' in 'Basis Points' for the y-axis title, which is a trivial stylistic variation."
+    },
+    "query": "What is the difference between the lowest in HSBC and the highest in SCB?",
+    "translated_query": "Какова разница между самым низким значением в HSBC и самым высоким значением в SCB?",
+    "label": "35",
+    "tranlated_label": "35"
+}

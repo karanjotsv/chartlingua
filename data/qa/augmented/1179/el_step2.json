@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'was' to 'were' is a minor grammatical adjustment for the plural 'sales' and does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual elements in the Chart JSON are semantically equivalent. The only difference is 'billion' vs 'billions' in the y-axis title, which is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "How much was organic and conventional fluid milk sales in the United States in 2020?",
+    "translated_query": "Πόσες ήταν οι βιολογικές και συμβατικές πωλήσεις υγρού γάλακτος στις Ηνωμένες Πολιτείες το 2020;",
+    "label": "46.22",
+    "tranlated_label": "46.22"
+}

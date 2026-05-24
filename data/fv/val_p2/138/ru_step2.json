@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Value' and 'share' are semantically equivalent in this context, and 'makes' vs 'is' conveys the same proportional relationship."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'chart_data' labels and the 'texts' object (which are all null in this case) are perfectly identical between the original and back-translated JSONs, indicating excellent semantic equivalence."
+    },
+    "claim": "The total value of police, Education and culture makes 30% of the chart.",
+    "translated_claim": "Общая доля полиции, Образования и культуры составляет 30% от диаграммы."
+}

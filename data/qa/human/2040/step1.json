@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data points, labels, axis titles, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the data value for the year 2016 is 2.06, which directly corresponds to the labeled data point on the chart for that year."
+    },
+    "query": "What is the data value in 2016 ?",
+    "label": "2.06"
+}

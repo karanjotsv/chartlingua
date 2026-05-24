@@ -1,0 +1,46 @@
+{
+    "chart_type": "grouped_bar",
+    "x_categories": [
+        "Ukraine",
+        "Litauen",
+        "Russland"
+    ],
+    "chart_data": [
+        {
+            "name": "Normale Bürger",
+            "y": [
+                11,
+                20,
+                26
+            ]
+        },
+        {
+            "name": "Unternehmer",
+            "y": [
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "name": "Politiker",
+            "y": [
+                95,
+                91,
+                82
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#112F41",
+        "#BDBDBD"
+    ]
+}

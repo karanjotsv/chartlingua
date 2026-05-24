@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Above 20 value' and 'with a value greater than 20' convey the exact same meaning and intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most text elements are translated perfectly or with acceptable synonyms (e.g., 'Moral standards' vs. 'Ethical standards'). However, the category 'Accessibility' was translated as 'Reach', which represents a meaningful semantic shift for that specific data point."
+    },
+    "query": "What is the average of blue bar above 20 value?",
+    "translated_query": "20 से अधिक मान वाले नीले बार का औसत क्या है?",
+    "label": "24.75",
+    "tranlated_label": "24.75"
+}

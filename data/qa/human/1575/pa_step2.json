@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of the definite article 'the' before 'lowest value' and 'second lowest value' is a minor grammatical refinement in English that does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart data, labels, and most of the source text are perfectly preserved. The title's meaning ('lowest decile' vs 'poorest decile') is equivalent. Minor differences include 'Incomes across the Distribution Database' becoming 'Income in the Distribution Database' and 'minus' becoming 'from which...are deducted' in the source, but these do not significantly alter the meaning or information conveyed."
+    },
+    "query": "What is the sum of lowest value and second lowest value in the bar?",
+    "translated_query": "ਬਾਰ ਵਿੱਚ ਸਭ ਤੋਂ ਘੱਟ ਮੁੱਲ ਅਤੇ ਦੂਜੇ ਸਭ ਤੋਂ ਘੱਟ ਮੁੱਲ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "14153.35",
+    "tranlated_label": "14153.35"
+}

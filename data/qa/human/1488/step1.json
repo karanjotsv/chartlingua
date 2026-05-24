@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content, color hues, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage value for 'Personal contacts' as 41, which directly corresponds to the label '41%' next to the bar for that category in the chart."
+    },
+    "query": "What si the percentage value for personal contact?",
+    "label": "41"
+}

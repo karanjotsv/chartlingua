@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues are identical to the original. The overall message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that Income Taxes account for 32% of revenue, Sales Taxes for 31%, and Property Taxes for 29%. These percentages are all within a narrow range of 3 points, which validates the claim that they have similar values."
+    },
+    "claim": "Income tax, Sales tax, and Property tax for this government, all have similar values.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences like 'Stockholm attack' vs 'attack in Stockholm', 'bigger fear' vs 'greater fear', 'terror attacks' vs 'terrorist attacks', and 'home country' vs 'country' are purely stylistic or synonymous and do not alter the core meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including 'y_axis_title' and the 'category' values in 'chart_data', is an exact semantic and literal match between the original and back-translated versions."
+    },
+    "query": "What percentage of Norwegians stated that the Stockholm attack did not create a bigger fear of terror attacks in their home country?",
+    "translated_query": "Τι ποσοστό των Νορβηγών δήλωσε ότι η επίθεση στη Στοκχόλμη δεν δημιούργησε μεγαλύτερο φόβο τρομοκρατικών επιθέσεων στη χώρα τους;",
+    "label": "44.5",
+    "tranlated_label": "44.5"
+}

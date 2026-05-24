@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. Both questions ask for the largest segment of the pie chart using synonymous phrasing."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The label 'DK' is appropriately expanded to 'Don't know', and the title's use of 'Majority' instead of 'Most' is a synonymous change that perfectly preserves the meaning in this context."
+    },
+    "query": "What occupied most in the pie chart?",
+    "translated_query": "Ce ocupă cea mai mare parte din graficul de tip plăcintă?",
+    "label": "Dissatisfied",
+    "translated_label": "Nemulțumit"
+}

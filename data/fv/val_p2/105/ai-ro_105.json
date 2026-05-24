@@ -1,0 +1,54 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Catolic",
+            "value": 24
+        },
+        {
+            "label": "Biserica Unită",
+            "value": 8
+        },
+        {
+            "label": "Anglican",
+            "value": 4
+        },
+        {
+            "label": "Luteran",
+            "value": 3
+        },
+        {
+            "label": "Alți creștini",
+            "value": 21
+        },
+        {
+            "label": "Musulman",
+            "value": 3
+        },
+        {
+            "label": "Alte religii",
+            "value": 5
+        },
+        {
+            "label": "Fără afiliere religioasă",
+            "value": 32
+        }
+    ],
+    "texts": {
+        "title": "Populația din Alberta în funcție de religie",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Sursa datelor: Statistics Canada<br>Sondajul național al gospodăriilor din 2011"
+    },
+    "colors": [
+        "#95b3d7",
+        "#4f81bd",
+        "#386b9f",
+        "#2f5a85",
+        "#24456a",
+        "#f79646",
+        "#8064a2",
+        "#c0504d"
+    ]
+}

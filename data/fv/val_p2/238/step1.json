@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data values, series, labels, colors, and overall trend are accurately reproduced. The title and legend text are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the time scale begins in the year 2000, but the x-axis on the chart clearly shows the first labeled year is 2003."
+    },
+    "claim": "The time scale on the chart begin in 2000 year.",
+    "label": "FALSE"
+}

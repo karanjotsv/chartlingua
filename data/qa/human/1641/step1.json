@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, text content (titles, labels, source), and color hues are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the two countries, 'United Kingdom' and 'Cape Verde', which are explicitly labeled in the chart's legend next to their respective data lines."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "label": "[United Kingdom, Cape Verde]"
+}

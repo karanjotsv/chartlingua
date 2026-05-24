@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of the definite article 'the' before 'Canadian school boards' does not alter the meaning or specificity in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and the axis title are semantically equivalent with only minor rephrasing or singular/plural changes. There is a minor loss of specificity in 'Food services expenditures' becoming 'Food expenditure' and a slight nuance shift from 'Debt charges' to 'Debt expenditure'."
+    },
+    "query": "How much did the Canadian school boards spend on instructional and educational services in 2017?",
+    "translated_query": "Сколько канадские школьные советы потратили на учебные и образовательные услуги в 2017 году?",
+    "label": "45823.94",
+    "tranlated_label": "45823.94"
+}

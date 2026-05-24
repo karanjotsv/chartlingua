@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color associations, and the overall trend are accurately reproduced. Minor stylistic differences, such as the order of items in the legend, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the highest value for the blue bar (Non-food products) is 66.8% in 2014, and the lowest value is 57.6% in 2009. The sum of these two values is 66.8 + 57.6 = 124.4, which exactly matches the provided answer."
+    },
+    "query": "What is the sum of highest value and lowest value of blue bar?",
+    "label": "124.4"
+}

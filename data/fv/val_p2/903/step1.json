@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, percentages, the title, and the color hues for each slice are identical. The proportions and order of the slices are also perfectly preserved, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The legend of the pie chart explicitly lists 'Soviet Union (14.3%)', which directly confirms the percentage stated in the claim."
+    },
+    "claim": "14.3% of Armenians in Los Angeles  born in Soviet Union.",
+    "label": "TRUE"
+}

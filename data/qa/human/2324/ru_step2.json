@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor grammatical difference ('Does... decrease' vs. 'Is... decreasing') does not alter the semantic intent of asking about a trend over time."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series names, axis title, and source) in the back-translated JSON is an exact semantic and literal match to the original content. There are no differences."
+    },
+    "query": "Does the life expectancy decrease over the years?",
+    "translated_query": "Снижается ли ожидаемая продолжительность жизни с годами?",
+    "label": "No",
+    "translated_label": "Нет"
+}

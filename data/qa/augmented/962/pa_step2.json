@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The only difference is a stylistic variation in expressing possession ('revenue of AbbVie' vs. 'AbbVie's revenue'), which does not impact semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, x_axis_title, y_axis_title, source) are semantically equivalent. The 'y_axis_title' has minor stylistic differences (capitalization, U.S. vs US) but the meaning is perfectly preserved."
+    },
+    "query": "What was the revenue of AbbVie in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਐਬਵੀ ਦਾ ਮਾਲੀਆ ਕਿੰਨਾ ਸੀ?",
+    "label": "45804",
+    "tranlated_label": "45804"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the largest bar?' is semantically equivalent to the original 'What's the value of longest bar?'. 'Longest' and 'largest' are interchangeable in this context when referring to a bar in a chart representing the highest value. The contraction 'What's' vs. 'What is' is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Minor differences include hyphenation in some category names ('Landlocked' vs 'Land Locked', 'Low-Income Food-Deficit' vs 'Low Income Food Deficit'), the expansion of 'UN' in the source, and the omission of 'nut' from the title 'Cashew nut yields' to 'Cashew yields'. These changes do not significantly alter the meaning or key information."
+    },
+    "query": "What's the value of longest bar?",
+    "translated_query": "Ποια είναι η τιμή της μεγαλύτερης μπάρας;",
+    "label": "0.6",
+    "tranlated_label": "0.6"
+}

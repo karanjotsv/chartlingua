@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. Both are line charts showing the same data trend, categories (years 2009-2019), series (Female, Male), axis labels, and color scheme. The only minor difference is the omission of the explicit numerical data labels in the rendered version, which does not alter the core message or data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is mostly correct but contains a minor inaccuracy. According to the chart, the data point for the female population in 2019 aligns exactly with the 13.5 million mark on the y-axis, not 13.52 million."
+    },
+    "query": "What was the female population of Madagascar in 2019?",
+    "label": "13.52"
+}

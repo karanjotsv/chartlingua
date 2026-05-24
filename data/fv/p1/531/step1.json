@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, text elements (title, axis labels, legend), color hues, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the content of the chart, which displays data for 'Pulse laser power', 'Average laser power', and 'Squared laser power', as shown in the legend."
+    },
+    "claim": "The average power pulsed laser based on three attributes pulse laser power, average laser power and squared laser power.",
+    "label": true
+}

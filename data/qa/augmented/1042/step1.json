@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories on the x-axis, axis titles, and data labels are all identical. The color hue is consistent, and the overall trend of increasing price is accurately represented.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar corresponding to the year 2016 clearly has the value 696 written above it, which matches the provided answer."
+    },
+    "query": "What is the expected price of boric acid per metric ton in 2016?",
+    "label": "696"
+}

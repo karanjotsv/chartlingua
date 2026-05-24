@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. While the title, labels, colors, and overall structure match, there is a significant data discrepancy. The 'Rainfall' value for the first category, 'Alibaug', is substantially lower in the rendered chart compared to the original, which is a noticeable error for a key data point. Most other data points appear correct.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that Mahabalesh had the maximum rainfall. According to the chart's legend, rainfall is represented by the green segment of the bars. A visual inspection of all the locations shows that the green segment for Mahabalesh is the tallest, confirming it had the highest rainfall among the listed locations."
+    },
+    "claim": "Mahabalesh had maximum rainfall on July 2, 2019 for Maharashtra.",
+    "label": "TRUE"
+}

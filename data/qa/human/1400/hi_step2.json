@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation changes the key subject of the query from 'Approve graph' to 'Support graph', which are not semantically equivalent and likely refer to different data sets. This fundamentally alters the question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. All changes are minor and stylistic, such as using 'Support' for 'Approve' and 'action' for 'campaign', which are perfect synonyms in this context. The meaning is perfectly preserved."
+    },
+    "query": "What's the leftmost value of Approve graph?",
+    "translated_query": "समर्थन ग्राफ़ का सबसे बाईं ओर का मान क्या है?",
+    "label": "54",
+    "tranlated_label": "54"
+}

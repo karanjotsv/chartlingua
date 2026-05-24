@@ -1,0 +1,97 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Профессиональные занятия",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Домашние офисы и...",
+            "values": [
+                3,
+                11
+            ]
+        },
+        {
+            "category": "Перевозка людей,...",
+            "values": [
+                2,
+                0
+            ]
+        },
+        {
+            "category": "Сельское хозяйство",
+            "values": [
+                65,
+                0
+            ]
+        },
+        {
+            "category": "Работа с животными",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Сделки с недвижимостью",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Питание и проживание",
+            "values": [
+                1,
+                1
+            ]
+        },
+        {
+            "category": "Одежда",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Минеральные вещества",
+            "values": [
+                2,
+                0
+            ]
+        },
+        {
+            "category": "Неуточненные",
+            "values": [
+                1,
+                18
+            ]
+        },
+        {
+            "category": "Профессия неизвестна",
+            "values": [
+                0,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Должность",
+        "y_axis_title": "Количество человек",
+        "legend_labels": [
+            "Мужчины",
+            "Женщины"
+        ],
+        "source": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31"
+    ]
+}

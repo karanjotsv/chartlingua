@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "General/Local Government",
+            "Professionals",
+            "Domestic Service or Offices",
+            "Agriculture",
+            "Animals",
+            "House, Furniture and Decorations",
+            "Food and Lodging",
+            "Dress",
+            "Various Mineral Substances",
+            "General or Unspecified Commodities",
+            "Unknown Occupation"
+        ],
+        "series": [
+            {
+                "name": "Male",
+                "data": [
+                    1,
+                    1,
+                    2,
+                    44,
+                    2,
+                    6,
+                    1,
+                    2,
+                    1,
+                    1,
+                    4
+                ]
+            },
+            {
+                "name": "Female",
+                "data": [
+                    0,
+                    4,
+                    21,
+                    2,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    49
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Occupation",
+        "y_axis_title": "Population"
+    },
+    "colors": [
+        "#4472C4",
+        "#ED7D31"
+    ]
+}

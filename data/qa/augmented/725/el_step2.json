@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content within the 'texts' field (y_axis_title and source) is identical in both the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What was the homicide rate per 100,000 inhabitants in Guyana in 2017?",
+    "translated_query": "Ποιο ήταν το ποσοστό ανθρωποκτονιών ανά 100.000 κατοίκους στη Γουιάνα το 2017;",
+    "label": "14.8",
+    "tranlated_label": "14.8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and color schemes (including the specific red/green text for certain categories) are accurately reproduced. The overall message and ranking are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the Wikipedia article for 'Bird Box 2' had 1,698,325 views, while the article for 'Jason Momoa' had 945,661 views. Therefore, 'Bird Box 2' was more popular than 'Jason Momoa', which directly contradicts the claim."
+    },
+    "claim": "Wikipedia articles on Bird Box 2 were less popular than articles on Jason momoa during the week of  December 30, 2018 to January 5, 2019.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and color hues are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Walter Davis' as the points leader. The bar chart clearly shows Walter Davis at the top of the list with the highest score of 15,666 points."
+    },
+    "query": "Who is the career points leader of the Phoenix Suns?",
+    "label": "Walter Davis"
+}

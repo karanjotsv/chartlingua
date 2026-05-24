@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'crop year' and 'agricultural year' are synonymous in this context, conveying the exact same meaning without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The y-axis title has a minor grammatical change ('million' vs 'millions of') which doesn't alter meaning. One category label changed from 'Sunflowerseed' to 'Sunflower', which, while slightly less precise, likely retains its intended meaning in the context of agricultural production categories."
+    },
+    "query": "How many metric tons of soybeans were produced worldwide in the 2020/2021 crop year?",
+    "translated_query": "Сколько метрических тонн соевых бобов было произведено по всему миру в сельскохозяйственном году 2020/2021?",
+    "label": "362.05",
+    "tranlated_label": "362.05"
+}

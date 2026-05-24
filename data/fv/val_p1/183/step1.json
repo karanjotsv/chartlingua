@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents the data values (40%, 60%), title, and color hues. It correctly infers the label for the second category in the legend, which improves clarity without changing the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart only provides data about people who work swing shifts and nights. It contains no information about people who work regular daytime hours, making it impossible to compare the prevalence of PVC between the two groups as the claim does."
+    },
+    "claim": " People who work regular daytime hours have a higher prevalence of PVC compared to those who work night shifts and irregular schedules",
+    "label": false
+}

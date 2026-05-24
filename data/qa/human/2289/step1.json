@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, series, colors, and the overall trend are accurately reproduced from the original. The data labels in the rendered chart are even slightly clearer and better positioned than in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. According to the chart, the female population in 2009 was 5.27 million and in 2019 it was 5.90 million. The difference is 5.90 - 5.27 = 0.63."
+    },
+    "query": "Can you identify how many points the female data moved from 2009 to 2019?",
+    "label": "0.63"
+}

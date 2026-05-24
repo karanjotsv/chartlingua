@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. 'More than 60' is an exact synonym for 'Over 60', and 'workers in agriculture' means the same as 'agriculture workers'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. Most text elements are either identical or have very close synonyms (e.g., 'Job title' vs 'Occupation', 'Food and lodging' vs 'Hospitality'). The main difference is 'Professional Occupations' becoming 'Academic Professions', which slightly narrows the scope but does not fundamentally alter the chart's meaning. The back-translation also corrects a typo from the original ('Occuaption uknown')."
+    },
+    "claim": "Over 60 agriculture workers are male.",
+    "translated_claim": "Mehr als 60 Arbeitskräfte in der Landwirtschaft sind männlich."
+}

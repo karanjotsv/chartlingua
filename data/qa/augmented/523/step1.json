@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, the x-axis title, and the overall structure are identical. The single blue color hue is also consistent. The core message and data are preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart ranks companies by net profit in descending order. The company with the highest profit is Telenor ASA, and the second-highest is correctly identified as Telia Company AB, which is the second bar from the top with a net profit of 896.53 million EUR."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "label": "Telia Company AB"
+}

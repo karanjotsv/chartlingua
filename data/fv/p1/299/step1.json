@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, titles, and color-coding for trends (green for up/stable, red for down) are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'List of FIFA World Cup Finals 4' has over 1 million views, but the chart shows its view count is 987,029, which is less than 1 million."
+    },
+    "claim": "List of FIFA World Cup Finals 4 has over 1 million views.",
+    "label": false
+}

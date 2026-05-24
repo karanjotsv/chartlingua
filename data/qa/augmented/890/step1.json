@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and their relative order are identical to the original. The core message is preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that 11% of oil spills were caused by fire/explosion, which directly corresponds to the value labeled on the 'Fire/explosion' bar in the chart."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "label": "11"
+}

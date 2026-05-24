@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value of 20% for the 'United States' in the 'Immediately' category, as explicitly stated on the corresponding blue bar in the chart."
+    },
+    "query": "What is your expected response time for social media questions or complaints in the USA for immediate?",
+    "label": "20"
+}

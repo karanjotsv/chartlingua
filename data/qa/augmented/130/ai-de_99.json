@@ -1,0 +1,69 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "2014",
+            "2019*"
+        ],
+        "series": [
+            {
+                "name": "Computer",
+                "data": [
+                    105.4,
+                    107.2
+                ]
+            },
+            {
+                "name": "Mobilfunk",
+                "data": [
+                    91.9,
+                    107.8
+                ]
+            },
+            {
+                "name": "Unterhaltungselektronik",
+                "data": [
+                    53.9,
+                    61.4
+                ]
+            },
+            {
+                "name": "Automobil",
+                "data": [
+                    25.8,
+                    41.3
+                ]
+            },
+            {
+                "name": "Industrie",
+                "data": [
+                    32.1,
+                    42.9
+                ]
+            },
+            {
+                "name": "Kabelgebundene Kommunikation",
+                "data": [
+                    25.6,
+                    29.0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Nachfrage in Milliarden US-Dollar",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2C7BE5",
+        "#1A3B53",
+        "#AEB6C1",
+        "#A41D22",
+        "#79B443",
+        "#F2C43D"
+    ]
+}

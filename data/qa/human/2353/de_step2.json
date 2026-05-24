@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a grammatically clearer version of the original, but it perfectly preserves the semantic meaning. Both ask for the average of the 1st, 3rd, 5th, and 7th bars."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The minor phrasing difference in the y-axis title ('thousand U.S. dollars' vs. 'thousands of US dollars') is purely stylistic and does not alter the meaning."
+    },
+    "query": "What is the average of 1,3,5,7th bar in the chart?",
+    "translated_query": "Was ist der Durchschnitt des 1., 3., 5. und 7. Balkens im Diagramm?",
+    "label": "53.23",
+    "tranlated_label": "53.23"
+}

@@ -1,0 +1,45 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "0 языков",
+            "value": 14848551,
+            "annotation_text": "14848551 (34.32%)"
+        },
+        {
+            "category": "1 язык",
+            "value": 23780247,
+            "annotation_text": "23780247 (54.96%)"
+        },
+        {
+            "category": "2 языка",
+            "value": 3957820,
+            "annotation_text": "3957820 (9.15%)"
+        },
+        {
+            "category": "3 языка",
+            "value": 471226,
+            "annotation_text": "471226 (1.09%)"
+        },
+        {
+            "category": "4 языка",
+            "value": 103107,
+            "annotation_text": "103107 (0.24%)"
+        },
+        {
+            "category": "5+ языков",
+            "value": 107614,
+            "annotation_text": "107614 (0.25%)"
+        }
+    ],
+    "texts": {
+        "title": "Количество файлов с N языковыми шаблонами на Commons",
+        "subtitle": "По данным дампов от 20 ноября 2017 года",
+        "x_axis_title": "Количество языковых шаблонов (N)",
+        "y_axis_title": "Количество файлов",
+        "source": null
+    },
+    "colors": [
+        "#1f9a5f"
+    ]
+}

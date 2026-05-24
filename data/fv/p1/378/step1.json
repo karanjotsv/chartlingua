@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, proportions, categories, text content, and color hues are all highly consistent with the original image across both pie charts. The overall message is perfectly preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The titles for both charts are rendered inside the pie chart area, causing them to overlap significantly with the data slices, which hinders readability."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that maintenance cost is higher than gas cost. The 'Breakdown of Other Operating Costs' pie chart clearly shows Maintenance at 20% and Gas at 29%. Therefore, gas cost is higher than maintenance cost, which refutes the claim."
+    },
+    "claim": "Maintenance cost is higher the Gas cost",
+    "label": false
+}

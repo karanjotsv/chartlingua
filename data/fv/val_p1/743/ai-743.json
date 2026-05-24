@@ -1,0 +1,38 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Meeting Space",
+            "value": 70,
+            "label": "70%"
+        },
+        {
+            "category": "Materials/Equipment",
+            "value": 50,
+            "label": "50%"
+        },
+        {
+            "category": "Food",
+            "value": 10,
+            "label": "10%"
+        },
+        {
+            "category": "Prizes/Give-aways",
+            "value": 10,
+            "label": "10%"
+        }
+    ],
+    "texts": {
+        "title": "Use of Donated Resources",
+        "subtitle": "Editing Workshops",
+        "x_axis_title": null,
+        "y_axis_title": "Percentage of Programs",
+        "source": "Note: Only 10 programs providing direct report."
+    },
+    "colors": [
+        "#46A580",
+        "#0072B2",
+        "#A52A2A",
+        "#696969"
+    ]
+}

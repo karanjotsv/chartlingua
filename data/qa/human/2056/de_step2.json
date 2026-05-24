@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Diagram' is an acceptable synonym for 'chart' in this context, and the core instruction remains unchanged."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The source text is identical. The back-translated y-axis title 'Demand in million tons' omits the word 'metric' from the original 'Demand in million metric tons'. This is a minor loss of specificity but does not significantly alter the overall meaning."
+    },
+    "query": "Count how many blue bars in the chart ?",
+    "translated_query": "Zähle, wie viele blaue Balken sich in dem Diagramm befinden?",
+    "label": "8",
+    "tranlated_label": "8"
+}

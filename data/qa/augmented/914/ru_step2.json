@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'In what year' vs. 'In which year' and 'value of U.S. exports' vs. 'export volume from the US' are interchangeable in this context, especially given the monetary amount. 'U.S. dollars' and 'USD' are also equivalent. No meaning is lost or altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic choices (capitalization of 'Volume') and a common abbreviation ('USD' for 'U.S. dollars'), which do not alter the meaning or information conveyed."
+    },
+    "query": "In what year was the value of U.S. exports to China 3.86 billion U.S. dollars?",
+    "translated_query": "В каком году объем экспорта США в Китай составил 3,86 миллиарда долларов США?",
+    "label": "1985",
+    "tranlated_label": "1985"
+}

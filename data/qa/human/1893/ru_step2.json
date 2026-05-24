@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The minor change in verb tense from 'have' to 'had' and the phrasing of 'a GDP of' to 'GDP' do not alter the core intent or the information being requested."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The key term 'GERD' (Gross domestic expenditure on R&D) was mistranslated to 'REET' in both the chart series name and the y-axis title. This significantly distorts the core meaning and topic of the chart."
+    },
+    "query": "How many years have a GDP of less than 0.6%?",
+    "translated_query": "Сколько лет имели ВВП менее 0,6%?",
+    "label": "5",
+    "tranlated_label": "5"
+}

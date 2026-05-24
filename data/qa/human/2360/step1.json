@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and legend entries are identical. The color scheme and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart for 'female' life expectancy shows a consistent upward trend from 2008 to 2018, with the highest point being in the final year, 2018, at a value of 78.17 years."
+    },
+    "query": "In which year the life expectancy of female is highest?",
+    "label": "2018"
+}

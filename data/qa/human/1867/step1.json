@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, axis labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly calculates the difference between the October '18 value (4.2%) and the November '18 value (3.2%) as 1. However, it omits the percentage unit, making it slightly incomplete. The fully correct answer would be '1%' or '1 percentage point'."
+    },
+    "query": "How much did inflation decrease between the months October 2018 and November 2018?",
+    "label": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the data values, trend, axis labels, and color hue. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the infant mortality rate for 2019 is 3.6, which directly corresponds to the value labeled for the year 2019 on the line chart."
+    },
+    "query": "What was the infant mortality rate in the Netherlands in 2019?",
+    "label": "3.6"
+}

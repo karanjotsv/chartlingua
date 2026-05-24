@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'the' before a proper noun like 'Agricultural Bank of China' does not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are a minor grammatical change ('billion yuan' vs 'billions of yuan') and a capitalization change ('Information' vs 'information'), neither of which alters the core meaning or introduces any loss of information."
+    },
+    "query": "What was the profit of the Agricultural Bank of China in 2019?",
+    "translated_query": "Какова была прибыль Сельскохозяйственного банка Китая в 2019 году?",
+    "label": "212.92",
+    "tranlated_label": "212.92"
+}

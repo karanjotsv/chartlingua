@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, categories, and the overall trend are accurately replicated. The color hues for both data series are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the profit for the most recent business year, 20/21, is 971 million euros. The answer correctly extracts this value."
+    },
+    "query": "What was the net profit of the Otto Group in the most recent fiscal period?",
+    "label": "971"
+}

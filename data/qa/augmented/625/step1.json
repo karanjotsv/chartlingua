@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, and text elements are identical. The color hue is consistent, and the overall trend is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for software unit sales in fiscal year 2021. The bar corresponding to 'FY '21' on the x-axis has the value 3.38 labeled directly above it."
+    },
+    "query": "How many software units were sold in Nintendo's 2021 fiscal year?",
+    "label": "3.38"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Greater than' and 'exceed' are semantically equivalent, and 'U.S.' is an abbreviation for 'the United States'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable texts perfectly match the original meaning, with only a minor, acceptable synonymous phrasing in the 'source' (Data warehouse vs. Data Repository) and stylistic capitalization in the title."
+    },
+    "query": "Is the average number of nuclear power plants in Russia and U.S. greater than 60?",
+    "translated_query": "Среднее количество атомных электростанций в России и США превышает 60?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

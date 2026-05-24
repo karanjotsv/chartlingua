@@ -1,0 +1,32 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "x": [
+                55.57,
+                58.31,
+                66.88,
+                72.34,
+                106.71
+            ],
+            "y": [
+                "Rizal",
+                "Laguna",
+                "City of Manila",
+                "Cavite",
+                "Quezon City"
+            ],
+            "name": "Anzahl der Fälle in Tausend"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anzahl der Fälle in Tausend",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#3182bd"
+    ]
+}

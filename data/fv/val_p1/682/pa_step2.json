@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The shift from 'service areas' to 'service sectors' represents a significant semantic difference for a query. 'Areas' typically refers to distinct geographical or operational zones, while 'sectors' refers to categories or divisions of services/industries. This change alters the core subject of the query, potentially leading to different interpretations or retrieval of irrelevant data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic or expansions of abbreviations (e.g., 'Consultancy' to 'Consultation', 'Admin' to 'Administrative', '&' to 'and') and do not alter the meaning of the chart data categories."
+    },
+    "claim": "All service areas have an equal coverage.",
+    "translated_claim": "ਸਾਰੇ ਸੇਵਾ ਖੇਤਰਾਂ ਦੀ ਬਰਾਬਰ ਕਵਰੇਜ ਹੈ।"
+}

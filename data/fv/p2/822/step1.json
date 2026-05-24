@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and text labels are identical. The color hues for each category are also consistent. The overall message is the same, despite minor stylistic changes like an exploded slice.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the market share of different web browsers. The claim discusses a relationship between 'Amser' and 'Cyflymder', which are terms not present or represented in the chart data."
+    },
+    "claim": "As the Amser increases, the Cyflymder value also goes up.",
+    "label": "TRUE"
+}

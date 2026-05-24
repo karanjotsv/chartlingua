@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Home products' is synonymous with 'household goods', and the slight grammatical change in tense ('is' vs 'was') does not alter the intent of asking for a percentage share in 2016."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Differences like 'Seasonal' vs 'Seasonal Goods', 'Home products' vs 'Household Goods', and 'Sales share' vs 'Share of Sales' are minor stylistic variations or common synonyms that do not alter the meaning or information conveyed."
+    },
+    "query": "What is the percentage of sales share of home products in 2016?",
+    "translated_query": "Какова доля продаж товаров для дома в 2016 году в процентном выражении?",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

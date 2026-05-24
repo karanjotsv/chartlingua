@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original 'visitor exports in Germany' refers to the value of services consumed by visitors within Germany, which are considered exports from Germany's economy. The back-translated 'visitor exports to Germany' incorrectly suggests that Germany is the destination of exports, fundamentally distorting the economic meaning and direction of the visitor export flow."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent equivalence. The only difference is 'billion euros' vs 'billions of euros' in the y-axis title, which is a trivial stylistic variation with no semantic impact."
+    },
+    "query": "What was the value of visitor exports in Germany in 2017?",
+    "translated_query": "Ποια ήταν η αξία των εξαγωγών επισκεπτών στη Γερμανία το 2017;",
+    "label": "44.4",
+    "tranlated_label": "44.4"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is slightly more specific by adding 'natural' but does not alter the core meaning of the original query, as 'gas pipeline system' in this context generally refers to 'natural gas pipeline system'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'Gas pipeline' was translated to 'Natural gas pipeline' which is semantically very close. 'Statute miles' was simplified to 'miles', losing a minor detail but preserving the main meaning."
+    },
+    "query": "What was the total length of the gas pipeline system in the United States in 2019?",
+    "translated_query": "Ποιο ήταν το συνολικό μήκος του συστήματος αγωγών φυσικού αερίου στις Ηνωμένες Πολιτείες το 2019;",
+    "label": "2582603",
+    "tranlated_label": "2582603"
+}

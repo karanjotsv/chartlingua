@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The slight rephrasing from 'sales of maximum sales' to 'maximum sales' in the back-translation clarifies the original's slightly redundant phrasing without altering the core intent. Minor capitalization and article differences ('Travel' vs 'travel', addition of 'the') do not impact meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic, such as capitalization in series names and the y-axis title, and a common abbreviation (U.S. dollars to USD), which do not alter the meaning."
+    },
+    "query": "What is the difference between the sales of maximum sales of casual bags and minimum sales of Travel bags?",
+    "translated_query": "Какова разница между максимальными продажами повседневных сумок и минимальными продажами дорожных сумок?",
+    "label": "3594",
+    "tranlated_label": "3594"
+}

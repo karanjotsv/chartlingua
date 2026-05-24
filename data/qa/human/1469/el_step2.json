@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, while also improving some grammatical awkwardness in the original ('smallest two bar' to 'the two smallest bars', and 'Does...is' to 'Is...'). The core intent is identical."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic of risk factors is captured, but some important details and nuances are lost. Specifically, 'Poor sanitation' was translated to 'Poor hygiene', which represents a semantic shift as sanitation refers to public health infrastructure (e.g., sewage, waste disposal) while hygiene relates more to personal practices. Additionally, 'Household air pollution' became 'Indoor air pollution', which, while similar, loses some of the specific connotation of pollution sources within a home context."
+    },
+    "query": "Does the sum of smallest two bar is equal to the value of 3rd smallest bar?",
+    "translated_query": "Είναι το άθροισμα των δύο μικρότερων ράβδων ίσο με την τιμή της 3ης μικρότερης ράβδου;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

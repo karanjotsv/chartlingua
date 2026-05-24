@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, curve shape, axis ranges, and color are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the curve starts at the point (-6,0), but the chart shows that at x=-6, the y-value is slightly above 0, not exactly 0."
+    },
+    "claim": "The Hubbert curve start from the point (-6,0).",
+    "label": true
+}

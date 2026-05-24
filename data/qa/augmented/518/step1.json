@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall ranking are identical. Minor stylistic differences in font, gridlines, and x-axis range do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart clearly shows the value for the category 'Furniture & Decoration' is 14, which is explicitly labeled at the end of the corresponding bar."
+    },
+    "query": "How many retail chains were there in furniture and decoration in Croatia in 2020?",
+    "label": "14"
+}

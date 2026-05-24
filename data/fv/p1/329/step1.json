@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All categories, labels, and axis titles are identical. The data values and proportions are extremely close, and the primary color hues for the series are consistent, conveying the same overall message as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the data is from the year 1881, but the chart does not provide any information about the year the data was collected. Therefore, a key part of the claim is not supported by the visual evidence."
+    },
+    "claim": "Women were underrepresented in occupations in 1881.",
+    "label": true
+}

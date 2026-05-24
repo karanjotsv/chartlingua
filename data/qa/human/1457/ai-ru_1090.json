@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Северная Америка",
+            "value": 3245
+        },
+        {
+            "category": "Филиппины",
+            "value": 1846.5
+        },
+        {
+            "category": "Хорватия",
+            "value": 0
+        }
+    ],
+    "texts": {
+        "title": "Установленная геотермальная энергетическая мощность, 2005",
+        "subtitle": "Суммарная установленная мощность геотермальной энергии, измеряемая в мегаваттах.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: Статистический обзор мировой энергетики BP (2020)",
+        "note": "OurWorldInData.org/renewable-energy • CC BY"
+    },
+    "colors": [
+        "#2E8B83",
+        "#C05C3C",
+        "#888888"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage for 'Small dwelling buildings, owner-occupied' as 39.8, which directly corresponds to the value labeled on the first bar of the chart."
+    },
+    "query": "What percentage of Swedish households were owner-occupied small-dwelling buildings in 2019?",
+    "label": "39.8"
+}

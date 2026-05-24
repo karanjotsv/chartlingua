@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, labels, titles, and the overall trend are all accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the rate of male fraud arrests peaks in the early 20s and then generally decreases with age. This contradicts the claim that the likelihood of committing fraud continuously increases with age."
+    },
+    "claim": "The older a male is, the more likely they are to commit fraud.",
+    "label": false
+}

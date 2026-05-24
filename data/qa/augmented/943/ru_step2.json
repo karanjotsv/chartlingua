@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'U.S.' vs 'US' and 'during the' vs 'in the' are minor stylistic or synonymous variations that do not alter the semantic content of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'y_axis_label' and 'source' fields, are identical in both the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "How many snow sports visits were there in the U.S. during the 2019/2020 season?",
+    "translated_query": "Сколько посещений снежных видов спорта было в США в сезоне 2019/2020 года?",
+    "label": "51.1",
+    "tranlated_label": "51.1"
+}

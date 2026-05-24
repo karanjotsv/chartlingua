@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It correctly reproduces the chart type, title, axis labels, categories, data values, and overall proportions. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses political affiliations such as 'None-Affiliated', 'other party', and 'Democrats' for a specific time, 'March 2009'. The provided chart, however, displays data on 'Recorded Crime in England and Wales, 2009-10' and contains no information about political parties or the specific month mentioned."
+    },
+    "claim": "The total value of None-Affiliated and other party is lesser than  Democrats in March 2009.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, and the overall trend are accurately reproduced. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the highest number of edits, corresponding to Individual Editor 1, is slightly above 300. The claim that this value is 'near the 350 mark' is inaccurate, as the peak is substantially lower than 350 and much closer to 300."
+    },
+    "claim": "The highest number of edits was near the 350 mark.",
+    "label": "FALSE"
+}

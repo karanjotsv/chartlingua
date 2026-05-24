@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, ordering, text content (title, axis labels), and color hue are all highly consistent with the original. The minor differences in bar lengths are negligible and do not alter the overall message or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart ranks concerns by the percentage of respondents. Visually ordering the bars from shortest (least common) to longest, 'Migration' is the shortest, followed by 'Food, beverage prices'. The third shortest bar corresponds to 'Conflicts, wars', which validates the claim that it is the third least common concern."
+    },
+    "claim": "in this chart The spreadsheet tool generates lean SVG code for various types of charts.",
+    "label": true
+}

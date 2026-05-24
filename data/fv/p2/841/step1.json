@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data labels, values, and color hues are identical to the original. The only difference is the stylistic choice to 'explode' one of the slices, which does not alter the data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to 'parties', 'support', and 'opposition', whereas the pie chart displays the market share percentages for different web browsers like 'Internet Explorer' and 'Google Chrome'. The chart contains no information about political parties or opposition."
+    },
+    "claim": " The chart shows that the party with the high percentage of support is the party with the high percentage of opposition.",
+    "label": "FALSE"
+}

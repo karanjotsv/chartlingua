@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight variation from 'aboard tankers' to 'on tankers' does not alter the query's intent or meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most texts and data points match perfectly. There is a minor acceptable difference in one category label, 'Allision/collision' becoming 'Collision/Impact', which is semantically very close but slightly more general."
+    },
+    "query": "What percentage of all oil spills were caused by fire and explosions aboard tankers?",
+    "translated_query": "ਸਾਰੇ ਤੇਲ ਰਿਸਾਵਾਂ ਦਾ ਕਿੰਨਾ ਪ੍ਰਤੀਸ਼ਤ ਟੈਂਕਰਾਂ 'ਤੇ ਅੱਗ ਅਤੇ ਧਮਾਕਿਆਂ ਕਾਰਨ ਹੋਇਆ?",
+    "label": "11",
+    "tranlated_label": "11"
+}

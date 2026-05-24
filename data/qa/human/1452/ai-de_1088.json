@@ -1,0 +1,48 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Ecuador",
+            "value": 0.023,
+            "display_text": "0.02%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "China",
+            "value": 0.0165,
+            "display_text": "0.02%",
+            "annotation_position": "inside"
+        },
+        {
+            "category": "Irland",
+            "value": 0.004,
+            "display_text": "<0.01%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "Armenien",
+            "value": 0,
+            "display_text": "0%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "Israel",
+            "value": 0,
+            "display_text": "0%",
+            "annotation_position": "outside"
+        }
+    ],
+    "texts": {
+        "title": "Todesfälle durch Naturkatastrophen als Anteil an den gesamten Todesfällen, 2014",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: Institute for Health Metrics and Evaluation (IHME), Global Burden of Disease",
+        "note": "OurWorldInData.org/natural-disasters • CC BY"
+    },
+    "colors": [
+        "#1F998A",
+        "#D1326E",
+        "#4A6076"
+    ]
+}

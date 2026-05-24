@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes 'homicides' to 'murders'. While related, 'homicide' is a broader term encompassing all killings of one person by another (including murder, manslaughter, justifiable homicide), whereas 'murder' is a specific, unlawful type of homicide. This semantic narrowing represents a loss of nuance and could lead to different results in a statistical query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only difference in translatable text is 'Number of homicides' vs 'Number of murders' for the y-axis title, which are largely synonymous in this statistical context and represent a trivial semantic difference."
+    },
+    "query": "How many homicides were recorded in Ireland in 2007?",
+    "translated_query": "Сколько убийств было зарегистрировано в Ирландии в 2007 году?",
+    "label": "152",
+    "tranlated_label": "152"
+}

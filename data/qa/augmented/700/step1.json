@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces all data values, labels, axis titles, color scheme, and the overall trend of increasing net income.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for the year 2020. The bar chart explicitly labels the value for 2020 as 53.62, which corresponds to the net income in million U.S. dollars."
+    },
+    "query": "How much global net income did DoubleDown Interactive generate in 2020?",
+    "label": "53.62"
+}

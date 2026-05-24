@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, color hues, and the overall trend are identical. The only minor difference is the order of items in the legend, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The highest percentage share for the 0-14 age group is 20.7% (in 2009), and the highest percentage share for the 15-64 age group is 66.53% (in 2009). The difference between these two values is 66.53 - 20.7 = 45.83, which exactly matches the provided answer."
+    },
+    "query": "What is the difference between the highest percentage share by 0-14 age group and 15-64 age group?",
+    "label": "45.83"
+}

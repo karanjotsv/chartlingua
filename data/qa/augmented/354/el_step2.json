@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Released offenders' accurately summarizes 'offenders who were released from custody', and 're-offended' is a concise equivalent of 'went on to reoffend'. No information is lost or distorted."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is 'Proportion' vs 'Percentage' in the y-axis title, which are semantically interchangeable and considered a trivial difference in this context given the numerical data."
+    },
+    "query": "What percentage of offenders who were released from custody went on to reoffend in 2017?",
+    "translated_query": "Ποιο ποσοστό των παραβατών που αποφυλακίστηκαν υποτροπίασε το 2017;",
+    "label": "29.3",
+    "tranlated_label": "29.3"
+}

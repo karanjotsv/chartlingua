@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart accurately reproduces all data categories and their corresponding percentage values. The title and year are also identical. The overall message about the distribution of attendance is perfectly consistent with the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels of the smaller slices on the left side, making them unreadable. Additionally, the percentage value for each slice is unnecessarily repeated in its label."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the attendance percentage for Football is 18%, while the attendance percentage for Baseball is 24%. Therefore, the claim that Football's attendance is higher than Baseball's is incorrect."
+    },
+    "claim": "Attendance percentage of Football is higher than Baseball.",
+    "label": "FALSE"
+}

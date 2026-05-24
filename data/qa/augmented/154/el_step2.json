@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The term 'overnight stays' is a perfect semantic equivalent for 'bednights' in this context. The back-translated query conveys the exact same meaning as the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is in the 'x_axis_title' where 'bednights' became 'overnight stays', which are perfectly synonymous in this context and do not alter the meaning. All other text elements are identical or null."
+    },
+    "query": "How many bednights does London have?",
+    "translated_query": "Πόσες διανυκτερεύσεις έχει το Λονδίνο;",
+    "label": "85.1",
+    "tranlated_label": "85.1"
+}

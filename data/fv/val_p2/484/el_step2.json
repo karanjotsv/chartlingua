@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. Differences are minor stylistic choices (hyphenation, singular vs. plural 'revenue') that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable texts in the JSON (chart_data labels, source, and most of the title) are semantically identical. The only difference in the title is 'Tax Revenue' vs 'Tax Revenues', which is a trivial and stylistically interchangeable difference in this context, preserving the original meaning perfectly."
+    },
+    "claim": "Property tax is the second-largest source of Ohio state revenue.",
+    "translated_claim": "Ο φόρος περιουσίας είναι η δεύτερη μεγαλύτερη πηγή κρατικών εσόδων του Οχάιο."
+}

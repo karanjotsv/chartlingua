@@ -1,0 +1,105 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Series 1",
+            "x": [
+                10,
+                30,
+                null,
+                35,
+                50,
+                null,
+                60,
+                70,
+                null,
+                75,
+                80,
+                null,
+                82,
+                85,
+                null,
+                86,
+                88,
+                null,
+                89,
+                91,
+                null,
+                92,
+                94
+            ],
+            "y": [
+                1,
+                1.5,
+                null,
+                2.5,
+                3,
+                null,
+                4,
+                4.5,
+                null,
+                5.5,
+                6,
+                null,
+                7,
+                7.5,
+                null,
+                8,
+                8.5,
+                null,
+                9,
+                9.5,
+                null,
+                10,
+                10.5
+            ]
+        },
+        {
+            "name": "Series 2",
+            "x": [
+                55,
+                70,
+                null,
+                72,
+                78,
+                null,
+                80,
+                84,
+                null,
+                85,
+                89,
+                null,
+                90,
+                93
+            ],
+            "y": [
+                4.5,
+                5,
+                null,
+                6,
+                6.5,
+                null,
+                7.5,
+                8,
+                null,
+                8.5,
+                9,
+                null,
+                9.5,
+                10
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FF4136",
+        "#0074D9"
+    ]
+}

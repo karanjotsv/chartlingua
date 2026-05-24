@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Donald Trump",
+            "values": [
+                27,
+                70,
+                4
+            ]
+        },
+        {
+            "category": "Vladimir Putin",
+            "values": [
+                30,
+                62,
+                5
+            ]
+        },
+        {
+            "category": "Xi Jinping",
+            "values": [
+                34,
+                56,
+                15
+            ]
+        },
+        {
+            "category": "Emmanuel Macron",
+            "values": [
+                46,
+                34,
+                12
+            ]
+        },
+        {
+            "category": "Angela Merkel",
+            "values": [
+                52,
+                31,
+                11
+            ]
+        }
+    ],
+    "texts": {
+        "title": "<b>Merkel și Macron sunt priviți cu mai multă<br>încredere pe plan internațional decât Xi, Putin<br>sau Trump</b>",
+        "subtitle": "<i>Încrederea în ___ că va face lucrul corect în ceea ce privește<br>afacerile mondiale</i>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Notă: Procentajele sunt mediane bazate pe 25 de țări.<br>Sursa: Spring 2018 Global Attitudes Survey. Q35a-e.<br><b>PEW RESEARCH CENTER</b>",
+        "legend_labels": [
+            "Încredere",
+            "Neîncredere",
+            "Nu știu"
+        ]
+    },
+    "colors": [
+        "#8c9646",
+        "#006c9c",
+        "#d9d6ce"
+    ]
+}

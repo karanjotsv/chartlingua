@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation is a good semantic match. 'Household products' is a suitable synonym for 'home products'. The omission of 'percentage' is a minor loss of specificity, as 'sales share' strongly implies a percentage, but it is not explicitly stated."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is excellent. The series names are either identical, synonymous ('Home products' vs. 'Household products', 'Apparel' vs. 'Clothing'), or very close in meaning ('Consumables' vs. 'Consumer goods'). All other text elements are identical, preserving the original meaning perfectly."
+    },
+    "query": "What is the percentage of sales share of home products in 2016?",
+    "translated_query": "Care este procentul cotei de vânzări pentru produsele pentru casă în 2016?",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

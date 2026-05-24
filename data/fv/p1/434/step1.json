@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data proportions, categories, colors, and the chart title are all identical. The only minor difference is the line-breaking in the legend text, which does not alter the meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents the distribution of female workers by occupation. The largest slice, corresponding to 'Without Specific Occupation/Unknown Occupation', clearly constitutes more than half of the entire chart, indicating a majority. The claim accurately states this observation."
+    },
+    "claim": "The majority of employed women in Kirton, Suffolk in 1881 worked in  without specific occupation/unknown occupation.",
+    "label": true
+}

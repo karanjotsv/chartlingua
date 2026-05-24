@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, slice proportions, labels, and color hues are identical to the original. The only differences are stylistic (e.g., 2D vs 3D), which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that rice fields are the second largest land use, but the pie chart shows that private forest is the largest (264.4) and paddy field is the second largest (123.7). Rice field is the fourth largest category with a value of 56.6."
+    },
+    "claim": "Rice fields are the second largest land use in Anseong, South Korea.",
+    "label": false
+}

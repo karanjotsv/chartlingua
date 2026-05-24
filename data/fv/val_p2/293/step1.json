@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It uses the same chart type, title, data values, proportions, and legend labels. The color hues for each category are also consistent, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the sum of percentages for 'Highly' and 'The basics' equals the percentage for 'Not at all'. However, the chart shows 'Highly' is 19% and 'The basics' is 19%, which sum to 38%. The percentage for 'Not at all' is 46%. As 38% is not equal to 46%, the claim is refuted."
+    },
+    "claim": "The amount of the people who polls for Highly and the basics is equal to the amount of people who they don't know at all.",
+    "label": "FALSE"
+}

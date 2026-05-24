@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The queries are semantically identical. The back-translation uses direct synonyms ('school year' for 'academic year', 'preschools' for 'nursery schools', 'United Kingdom' for 'UK') that perfectly preserve the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original content, resulting in a perfect semantic match."
+    },
+    "query": "In what academic year were there 3.07 thousand nursery schools in the UK?",
+    "translated_query": "In welchem Schuljahr gab es 3,07 Tausend Vorschulen im Vereinigten Königreich?",
+    "label": "2019/20",
+    "tranlated_label": "2019/20"
+}

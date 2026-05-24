@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While many of the individual numerical values and text labels are present, the layout is completely destroyed, causing massive overlap and misplacement of all elements. This makes the chart uninterpretable and destroys the original's message and structure. A key visual component, the map of the region, is also entirely missing.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from a catastrophic layout failure. There is severe and pervasive overlap of nearly all text and data elements, rendering the chart completely unreadable and nonsensical. Elements also appear to be clipped at the chart's borders."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart only shows the percentage of working-age population with no qualifications for three regions (West Midlands, Yorkshire and The Humber, and South East). This is insufficient data to support the claim that Yorkshire and The Humber has the middle percentage for the entire UK."
+    },
+    "claim": "Yorkshire and The Humber has the middle percentage of adults without qualifications in the UK.",
+    "label": true
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'women' for 'female works', 'primarily worked in' for 'largely occupied', and 'Food and Accommodation sector' for 'Food and Lodging industry' are all semantically equivalent and more natural phrasing."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels and the title are semantically equivalent or have very minor, acceptable differences (e.g., 'Dealers' vs. 'Merchants', 'Female' vs. 'Women', 'Defence of the country' vs. 'National Defense'). The only notable distinction is 'Harnesses' being translated as 'Saddles', which, while related, are not identical. This is a minor semantic shift rather than a significant loss of meaning."
+    },
+    "claim": "In 1881, the female works largely occupied Food and Lodging industry.",
+    "translated_claim": "Το 1881, οι γυναίκες εργάζονταν κυρίως στον κλάδο των Τροφίμων και Καταλυμάτων."
+}

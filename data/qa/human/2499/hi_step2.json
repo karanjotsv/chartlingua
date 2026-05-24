@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the main topic but omits the key specifier 'average' from the original content. This changes the requested statistical calculation from an 'average share' to just a 'share', which is a significant loss of detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is identical to the original content across all text fields, including axis titles, source, legend labels, and category names. This represents a perfect semantic match."
+    },
+    "query": "What is the average  Share of individuals who downloaded purchased media online in Great Britain in 2013  by type of media?",
+    "translated_query": "2013 में ग्रेट ब्रिटेन में मीडिया के प्रकार के अनुसार ऑनलाइन खरीदे गए मीडिया को डाउनलोड करने वाले व्यक्तियों का औसत हिस्सा क्या है?",
+    "label": "56",
+    "tranlated_label": "56"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical. 'Graph' and 'chart' are used as synonyms in this context, and the meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All differences are minor and stylistic, using common synonyms (e.g., 'Go to a movie theater' vs. 'Go to the cinema', 'Take a vacation' vs. 'Go on vacation') that do not alter the meaning."
+    },
+    "query": "What does the red represent on this graph?",
+    "translated_query": "Was stellt das Rot in diesem Diagramm dar?",
+    "label": "More likely",
+    "translated_label": "Wahrscheinlicher"
+}

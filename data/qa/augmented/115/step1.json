@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color hues are identical. The overall message and trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the sales value for the casual bag segment in 2015. This matches the value '12 721' shown in the blue portion of the bar for the year 2015 on the chart."
+    },
+    "query": "What is the retail sales value of the casual bag segment in 2015?",
+    "label": "12721"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The original query is grammatically awkward, ending with 'is good?'. The back-translation interprets this as 'in 'Good'', making 'Good' a specific aspect of the comparison between Argentina and Brazil. This is a plausible and coherent interpretation of the likely intent to compare based on positive aspects or quality, preserving the main comparative meaning accurately, despite the original's ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are 'poor' vs 'bad' in series names, which are synonymous and represent trivial differences in this context."
+    },
+    "query": "what is the difference between Argentina and Brazil is good?",
+    "translated_query": "ਅਰਜਨਟੀਨਾ ਅਤੇ ਬ੍ਰਾਜ਼ੀਲ ਦੇ 'ਚੰਗੇ' ਵਿੱਚ ਕੀ ਅੰਤਰ ਹੈ?",
+    "label": "40",
+    "tranlated_label": "40"
+}

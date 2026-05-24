@@ -1,0 +1,439 @@
+{
+    "chart_type": "faceted_horizontal_bar",
+    "texts": {
+        "title": "Approximate breakdown of reasons for files deleted in 2017, by content type",
+        "subtitle": "Some files included multiple reasons (e.g. no source AND no license)",
+        "x_axis_title": "Proportion of files deleted within content type",
+        "y_axis_title": "reason",
+        "legend_title": "reason",
+        "source": "Due to the variability in what users write as the reason for deletion (including typos), \"other reason\" includes files that have one of the listed reasons"
+    },
+    "chart_data": {
+        "reasons": [
+            "vandalism",
+            "temporary deletion",
+            "spam",
+            "sourcing issue",
+            "scoping issue",
+            "reuploaded",
+            "requested",
+            "recreation of content",
+            "previously deleted",
+            "otrs",
+            "other reason",
+            "non free",
+            "no permission",
+            "mistake",
+            "mass deletion",
+            "licensing issue",
+            "embedded data",
+            "duplicated",
+            "database error",
+            "copyright violation",
+            "bad file (corrupted, empty, disallowed format)",
+            "advertisement"
+        ],
+        "subplots": [
+            {
+                "name": "audio",
+                "title": "audio (8.96K deleted files)",
+                "data": [
+                    {
+                        "value": 1.14,
+                        "text": "1.14% (102 files)"
+                    },
+                    {
+                        "value": 0.04,
+                        "text": "0.04% (4 files)"
+                    },
+                    {
+                        "value": 0.02,
+                        "text": "0.02% (2 files)"
+                    },
+                    {
+                        "value": 0.56,
+                        "text": "0.56% (50 files)"
+                    },
+                    {
+                        "value": 6.01,
+                        "text": "6.01% (539 files)"
+                    },
+                    {
+                        "value": 0.15,
+                        "text": "0.15% (13 files)"
+                    },
+                    {
+                        "value": 65.58,
+                        "text": "65.58% (5.9K files)"
+                    },
+                    {
+                        "value": 0.02,
+                        "text": "0.02% (2 files)"
+                    },
+                    {
+                        "value": 0.01,
+                        "text": "0.01% (1 files)"
+                    },
+                    {
+                        "value": 0.4,
+                        "text": "0.40% (36 files)"
+                    },
+                    {
+                        "value": 2.82,
+                        "text": "2.82% (253 files)"
+                    },
+                    {
+                        "value": 0.11,
+                        "text": "0.11% (10 files)"
+                    },
+                    {
+                        "value": 0.42,
+                        "text": "0.42% (38 files)"
+                    },
+                    {
+                        "value": 0.01,
+                        "text": "0.01% (1 files)"
+                    },
+                    {
+                        "value": 3.66,
+                        "text": "3.66% (328 files)"
+                    },
+                    {
+                        "value": 7.63,
+                        "text": "7.63% (684 files)"
+                    },
+                    {
+                        "value": 4.14,
+                        "text": "4.14% (371 files)"
+                    },
+                    {
+                        "value": 5.44,
+                        "text": "5.44% (488 files)"
+                    },
+                    {
+                        "value": 0,
+                        "text": "0.00% (0 files)"
+                    },
+                    {
+                        "value": 13.71,
+                        "text": "13.71% (1.2K files)"
+                    },
+                    {
+                        "value": 0.12,
+                        "text": "0.12% (11 files)"
+                    },
+                    {
+                        "value": 0.36,
+                        "text": "0.36% (32 files)"
+                    }
+                ]
+            },
+            {
+                "name": "document",
+                "title": "document (8.69K deleted files)",
+                "data": [
+                    {
+                        "value": 0.36,
+                        "text": "0.36% (31 files)"
+                    },
+                    {
+                        "value": 0.02,
+                        "text": "0.02% (2 files)"
+                    },
+                    {
+                        "value": 0.76,
+                        "text": "0.76% (66 files)"
+                    },
+                    {
+                        "value": 0.6,
+                        "text": "0.60% (52 files)"
+                    },
+                    {
+                        "value": 10.47,
+                        "text": "10.47% (910 files)"
+                    },
+                    {
+                        "value": 0.36,
+                        "text": "0.36% (31 files)"
+                    },
+                    {
+                        "value": 41.51,
+                        "text": "41.51% (3.6K files)"
+                    },
+                    {
+                        "value": 0.18,
+                        "text": "0.18% (16 files)"
+                    },
+                    {
+                        "value": 0.02,
+                        "text": "0.02% (2 files)"
+                    },
+                    {
+                        "value": 2.43,
+                        "text": "2.43% (211 files)"
+                    },
+                    {
+                        "value": 4.14,
+                        "text": "4.14% (360 files)"
+                    },
+                    {
+                        "value": 0.93,
+                        "text": "0.93% (81 files)"
+                    },
+                    {
+                        "value": 2.53,
+                        "text": "2.53% (220 files)"
+                    },
+                    {
+                        "value": 0.09,
+                        "text": "0.09% (8 files)"
+                    },
+                    {
+                        "value": 15.47,
+                        "text": "15.47% (1.3K files)"
+                    },
+                    {
+                        "value": 8.25,
+                        "text": "8.25% (717 files)"
+                    },
+                    {
+                        "value": 11.91,
+                        "text": "11.91% (1K files)"
+                    },
+                    {
+                        "value": 1.25,
+                        "text": "1.25% (109 files)"
+                    },
+                    {
+                        "value": 0,
+                        "text": "0.00% (0 files)"
+                    },
+                    {
+                        "value": 13.78,
+                        "text": "13.78% (1.2K files)"
+                    },
+                    {
+                        "value": 0.4,
+                        "text": "0.40% (35 files)"
+                    },
+                    {
+                        "value": 4.78,
+                        "text": "4.78% (415 files)"
+                    }
+                ]
+            },
+            {
+                "name": "image",
+                "title": "image (405.24K deleted files)",
+                "data": [
+                    {
+                        "value": 1.06,
+                        "text": "1.06% (4.3K files)"
+                    },
+                    {
+                        "value": 0.13,
+                        "text": "0.13% (519 files)"
+                    },
+                    {
+                        "value": 0.55,
+                        "text": "0.55% (2.2K files)"
+                    },
+                    {
+                        "value": 1.56,
+                        "text": "1.56% (6.3K files)"
+                    },
+                    {
+                        "value": 3.05,
+                        "text": "3.05% (12.4K files)"
+                    },
+                    {
+                        "value": 0.36,
+                        "text": "0.36% (1.5K files)"
+                    },
+                    {
+                        "value": 50.58,
+                        "text": "50.58% (205K files)"
+                    },
+                    {
+                        "value": 0.16,
+                        "text": "0.16% (634 files)"
+                    },
+                    {
+                        "value": 0.07,
+                        "text": "0.07% (285 files)"
+                    },
+                    {
+                        "value": 3.86,
+                        "text": "3.86% (15.6K files)"
+                    },
+                    {
+                        "value": 5.1,
+                        "text": "5.10% (20.7K files)"
+                    },
+                    {
+                        "value": 2.34,
+                        "text": "2.34% (9.5K files)"
+                    },
+                    {
+                        "value": 4.35,
+                        "text": "4.35% (17.6K files)"
+                    },
+                    {
+                        "value": 0.04,
+                        "text": "0.04% (144 files)"
+                    },
+                    {
+                        "value": 2.34,
+                        "text": "2.34% (9.5K files)"
+                    },
+                    {
+                        "value": 20.32,
+                        "text": "20.32% (82.4K files)"
+                    },
+                    {
+                        "value": 0.64,
+                        "text": "0.64% (2.6K files)"
+                    },
+                    {
+                        "value": 5.25,
+                        "text": "5.25% (21.3K files)"
+                    },
+                    {
+                        "value": 0.0,
+                        "text": "0.00% (14 files)"
+                    },
+                    {
+                        "value": 27.33,
+                        "text": "27.33% (110.7K files)"
+                    },
+                    {
+                        "value": 0.06,
+                        "text": "0.06% (245 files)"
+                    },
+                    {
+                        "value": 0.72,
+                        "text": "0.72% (2.9K files)"
+                    }
+                ]
+            },
+            {
+                "name": "video",
+                "title": "video (4.26K deleted files)",
+                "data": [
+                    {
+                        "value": 3.69,
+                        "text": "3.69% (157 files)"
+                    },
+                    {
+                        "value": 0.26,
+                        "text": "0.26% (11 files)"
+                    },
+                    {
+                        "value": 0.23,
+                        "text": "0.23% (10 files)"
+                    },
+                    {
+                        "value": 7.09,
+                        "text": "7.09% (302 files)"
+                    },
+                    {
+                        "value": 0.12,
+                        "text": "0.12% (5 files)"
+                    },
+                    {
+                        "value": 10.22,
+                        "text": "10.22% (435 files)"
+                    },
+                    {
+                        "value": 0.02,
+                        "text": "0.02% (1 files)"
+                    },
+                    {
+                        "value": 0,
+                        "text": "0.00% (0 files)"
+                    },
+                    {
+                        "value": 1.48,
+                        "text": "1.48% (63 files)"
+                    },
+                    {
+                        "value": 2.63,
+                        "text": "2.63% (112 files)"
+                    },
+                    {
+                        "value": 1.36,
+                        "text": "1.36% (58 files)"
+                    },
+                    {
+                        "value": 1.34,
+                        "text": "1.34% (57 files)"
+                    },
+                    {
+                        "value": 0.02,
+                        "text": "0.02% (1 files)"
+                    },
+                    {
+                        "value": 0,
+                        "text": "0.00% (0 files)"
+                    },
+                    {
+                        "value": 14.11,
+                        "text": "14.11% (601 files)"
+                    },
+                    {
+                        "value": 34.95,
+                        "text": "34.95% (1.5K files)"
+                    },
+                    {
+                        "value": 7.19,
+                        "text": "7.19% (306 files)"
+                    },
+                    {
+                        "value": 1.1,
+                        "text": "1.10% (47 files)"
+                    },
+                    {
+                        "value": 0,
+                        "text": "0.00% (0 files)"
+                    },
+                    {
+                        "value": 58.01,
+                        "text": "58.01% (2.5K files)"
+                    },
+                    {
+                        "value": 0.73,
+                        "text": "0.73% (31 files)"
+                    },
+                    {
+                        "value": 0.12,
+                        "text": "0.12% (5 files)"
+                    }
+                ]
+            }
+        ]
+    },
+    "colors": {
+        "vandalism": "#F8766D",
+        "temporary deletion": "#F564E3",
+        "spam": "#DE70FF",
+        "sourcing issue": "#B983FF",
+        "scoping issue": "#8793FF",
+        "reuploaded": "#00A6FF",
+        "requested": "#619CFF",
+        "recreation of content": "#00B2F3",
+        "previously deleted": "#00BADE",
+        "otrs": "#00BFC4",
+        "other reason": "#00C1A9",
+        "non free": "#00BF7D",
+        "no permission": "#00BA38",
+        "mistake": "#6BB100",
+        "mass deletion": "#A3A500",
+        "licensing issue": "#C49A00",
+        "embedded data": "#E58700",
+        "duplicated": "#FB7A63",
+        "database error": "#A3A500",
+        "copyright violation": "#FF6993",
+        "bad file (corrupted, empty, disallowed format)": "#FF63B6",
+        "advertisement": "#FF61D7"
+    }
+}

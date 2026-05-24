@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the average of the blue bar?' perfectly matches the semantic meaning of the original 'What is the average of blue bar?'. The addition of 'the' is a minor grammatical refinement that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The change from 'Percentage' to 'Share' in the y-axis title is a stylistic synonym, and the correction of 'device device' to 'device' in the label improves clarity by removing a likely typo from the original, without any loss of meaning."
+    },
+    "query": "What is the average of blue bar?",
+    "translated_query": "Ποιος είναι ο μέσος όρος της μπλε ράβδου;",
+    "label": "62",
+    "tranlated_label": "62"
+}

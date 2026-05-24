@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The key information about the type of job changed significantly from 'manufacturing jobs' to 'construction', which are distinct industries. This is a significant semantic error, despite other details like the year and location being largely preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the chart JSON text content is excellent. Differences like 'Dress' vs 'Apparel' are synonymous, and 'Labour' vs 'Labor' is a minor spelling variation, neither of which impacts the meaning or key information."
+    },
+    "claim": "There were no people working in manufacturing jobs in Birling in 1881.",
+    "translated_claim": "1881 ਵਿੱਚ ਬਰਲਿੰਗ ਵਿੱਚ ਨਿਰਮਾਣ ਕਾਰਜਾਂ ਵਿੱਚ ਕੋਈ ਵਿਅਕਤੀ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਸੀ।"
+}

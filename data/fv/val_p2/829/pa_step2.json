@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Reduces' and 'decreases' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the labels within the 'chart_data' array, is identical between the original and back-translated JSON. The 'texts' object fields are all null in both, indicating no text content was present there to translate or compare."
+    },
+    "claim": "The speed of the object reduces over time.",
+    "translated_claim": "ਵਸਤੂ ਦੀ ਗਤੀ ਸਮੇਂ ਦੇ ਨਾਲ ਘੱਟ ਜਾਂਦੀ ਹੈ।"
+}

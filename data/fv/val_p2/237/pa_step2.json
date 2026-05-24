@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Steadily increasing' and 'consistently increasing' are very close in meaning, and the minor tense shift does not alter the core information conveyed."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The equivalence is poor due to a significant semantic difference in one of the key data series labels. 'Total liabilities and net assets' in the original is back-translated as 'Total Liabilities and Total Assets'. 'Net assets' is a specific accounting term (assets minus liabilities), which is distinct from 'Total Assets' (sum of all assets). This change distorts the meaning of the data series. The title also has a minor nuance shift from 'evolution' to 'Growth', but the main issue is the misrepresentation of a financial metric."
+    },
+    "claim": "Total expenses have been steadily increasing on the chart.",
+    "translated_claim": "ਚਾਰਟ ਵਿੱਚ ਕੁੱਲ ਖਰਚੇ ਲਗਾਤਾਰ ਵਧ ਰਹੇ ਹਨ।"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, and category labels are identical to the original. The title and source text are also accurately reproduced. The colors for the major, most significant slices (East Asia, North America, etc.) maintain their core hue, ensuring the overall visual message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows that East Asia accounts for 32% of the global soybean meal consumption, which is the largest percentage among all the regions listed."
+    },
+    "claim": "East Asia stands at top in terms of global soyabean meal consumtion in 2012-13.",
+    "label": "TRUE"
+}

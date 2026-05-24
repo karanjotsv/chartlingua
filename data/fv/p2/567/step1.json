@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart fundamentally misrepresents the data by showing a heavily simplified, low-resolution version of the original high-resolution, noisy line plots. While the axes, labels, and general peak locations are correct, the loss of detail is a major semantic discrepancy that changes the interpretation of the data's nature.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "While the 'Before' chart shows the maximum Ion Intensity is near 5000, the chart itself is only titled 'Mass Spectrometry data before and after preprocessing' and does not contain any information to support the claim that the data is from 'premalignant pancreatic cancer'."
+    },
+    "claim": "The maximum rise for the ION Intensity before reprocessing of premalignant pancreatic cancer mass spectrometry is near to 5000.",
+    "label": "TRUE"
+}

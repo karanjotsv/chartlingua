@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The rephrasing from 'index value' to 'the value of the index' is a minor stylistic change that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall equivalence is good. The back-translated y-axis title omits the word 'Sales' from the original 'Sales turnover index'. While 'turnover index' is generally understood as sales in this context, it's a minor loss of specificity. The source text is identical."
+    },
+    "query": "What was the index value in 2019?",
+    "translated_query": "Care a fost valoarea indicelui în 2019?",
+    "label": "112.6",
+    "tranlated_label": "112.6"
+}

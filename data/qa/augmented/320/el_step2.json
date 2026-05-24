@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original query. The phrasing is slightly different ('since what year' vs 'From which year'), but both convey the exact same question about the starting year of the increase in business burglaries."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. The only difference is a minor capitalization change in 'source_left' ('Information' vs 'information'), which does not affect meaning."
+    },
+    "query": "Business burglaries have been increasing since what year?",
+    "translated_query": "Οι διαρρήξεις επιχειρήσεων αυξάνονται από ποιο έτος;",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

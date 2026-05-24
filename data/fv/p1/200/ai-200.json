@@ -1,0 +1,34 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": "Israeli<br>dead",
+            "y": 13
+        },
+        {
+            "x": "Israeli<br>wounded",
+            "y": 523
+        },
+        {
+            "x": "Palestinian<br>dead",
+            "y": 1380
+        },
+        {
+            "x": "Palestinian<br>wounded",
+            "y": 5380
+        }
+    ],
+    "texts": {
+        "title": "Gaza-Israel War casualties. Dec.<br>27, 2008 to Jan. 18, 2009.",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Reuters, Palestinian Ministry of<br>Health, Jerusalem Post."
+    },
+    "colors": [
+        "#9400D3",
+        "#FF00FF",
+        "#F99622",
+        "#F99622"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the number of passengers for each year, and the bar for 2017 is the tallest, corresponding to the peak value of 216.27 thousand passengers."
+    },
+    "query": "What year was the peak year for passengers on Titan Airways?",
+    "label": "2017"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Smallest' is a perfect synonym for 'tiniest' in this context, and the slight rephrasing does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "While some labels are preserved, there are significant semantic errors in the key data series names. 'Mostly distrust' is incorrectly changed to the absolute 'No trust at all', and 'Somewhat distrust' is changed to 'Not very much trust'. These alterations fundamentally distort the meaning of the scale being measured."
+    },
+    "query": "What value is the tiniest bar",
+    "translated_query": "सबसे छोटे बार का मान क्या है",
+    "label": "4",
+    "tranlated_label": "4"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color schemes are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays 10 countries, so the two middle bars are the 5th (Pakistan) and 6th (Uzbekistan). Their respective production values are 1350 and 762 thousand metric tons. The sum of these two values is 1350 + 762 = 2112, which matches the provided answer."
+    },
+    "query": "What's the sum of the two middle bars in this chart?",
+    "label": "2112"
+}

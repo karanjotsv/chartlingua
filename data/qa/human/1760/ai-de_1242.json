@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Militär",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "Polizei",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "Nationale Regierung",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "Religiöse Führer",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "Gerichtssystem",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "Medien",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Ansichten über Militär eher positiv,<br>über Medien eher negativ",
+        "subtitle": "<i>Welchen Einfluss hat/haben ___ auf die<br>Entwicklung der Dinge in der Türkei?</i>",
+        "source": "Quelle: Global Attitudes-Umfrage vom Frühjahr 2015, Q79a-f.",
+        "note": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Schlecht",
+            "Gut"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

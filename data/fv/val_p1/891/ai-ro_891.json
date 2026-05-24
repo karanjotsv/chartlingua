@@ -1,0 +1,84 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "month": "Noiembrie 1917",
+            "value": 1848597
+        },
+        {
+            "month": "Decembrie 1917",
+            "value": 2496281
+        },
+        {
+            "month": "Ianuarie 1918",
+            "value": 4008160
+        },
+        {
+            "month": "Februarie 1918",
+            "value": 7504435
+        },
+        {
+            "month": "Martie 1918",
+            "value": 10757215
+        },
+        {
+            "month": "Aprilie 1918",
+            "value": 14010752
+        },
+        {
+            "month": "Mai 1918",
+            "value": 12627135
+        },
+        {
+            "month": "Iunie 1918",
+            "value": 8609879
+        },
+        {
+            "month": "Iulie 1918",
+            "value": 14359045
+        },
+        {
+            "month": "August 1918",
+            "value": 19576099
+        },
+        {
+            "month": "Septembrie 1918",
+            "value": 17233124
+        },
+        {
+            "month": "Octombrie 1918",
+            "value": 22709116
+        },
+        {
+            "month": "Noiembrie 1918",
+            "value": 7269123
+        }
+    ],
+    "texts": {
+        "title": "Producția de cherestea a Diviziei de Producție a Molidului<br>Noiembrie 1917 - Noiembrie 1918",
+        "subtitle": null,
+        "x_axis_title": "Lună",
+        "y_axis_title": "Board feet produși",
+        "source": "<b>Note:</b><br>Aceste date nu însumează totalul de 143.008.961 board feet, deoarece nu includ cei 1.679.123 board feet produși în septembrie și octombrie 1917 cumulat.<br>Cheresteaua produsă în noiembrie 1918 nu a fost produsă pe parcursul întregii luni, din cauza sfârșitului Primului Război Mondial în acea perioadă.<br><b>Sursa:</b> Oregon Voter (3 aprilie 1920). Portland, Oregon: Princeton University Archives. p. 107."
+    },
+    "colors": {
+        "series": [
+            "#20346e"
+        ],
+        "marker_fill": "#FFFFFF",
+        "grid": "#cccccc"
+    },
+    "y_axis_config": {
+        "range": [
+            0,
+            30000000
+        ],
+        "tickvals": [
+            0,
+            7500000,
+            15000000,
+            22500000,
+            30000000
+        ]
+    }
+}

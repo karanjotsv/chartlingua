@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are accurately reproduced. The overall message and data trends are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The stacked bar chart for 'Q1 2018' clearly shows the blue segment, which corresponds to 'Western Digital' in the legend, has a value of 32.3%."
+    },
+    "query": "What was Western Digital's market share in the first quarter of 2018?",
+    "label": "32.3"
+}

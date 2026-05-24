@@ -1,0 +1,118 @@
+{
+    "chart_type": "Γραμμικό Διάγραμμα",
+    "chart_data": [
+        {
+            "category": "Σεπτ.<br>2008",
+            "values": [
+                {
+                    "value": 67,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 28,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "Απρ.<br>2009",
+            "values": [
+                {
+                    "value": 68,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 27,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "Φεβρ.<br>2010",
+            "values": [
+                {
+                    "value": 63,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 31,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "Ιούν.<br>2010",
+            "values": [
+                {
+                    "value": 52,
+                    "label_color": "#82A6BF"
+                },
+                {
+                    "value": 44,
+                    "label_color": "#425464"
+                }
+            ]
+        },
+        {
+            "category": "Οκτ.<br>2010",
+            "values": [
+                {
+                    "value": 51,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 41,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        },
+        {
+            "category": "Μαρ.<br>2011",
+            "values": [
+                {
+                    "value": 57,
+                    "label_color": "#425464"
+                },
+                {
+                    "value": 37,
+                    "label_color": "#82A6BF"
+                }
+            ]
+        }
+    ],
+    "series_names": [
+        "Υπέρ",
+        "Κατά"
+    ],
+    "texts": {
+        "title": "Αυξημένη υποστήριξη για περισσότερες<br>γεωτρήσεις ανοικτής θαλάσσης",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "PEW RESEARCH CENTER Μαρ. 17-20, 2011. PEW27a.",
+        "series_annotations": [
+            {
+                "text": "Υπέρ",
+                "category": "Απρ.<br>2009",
+                "value": 68,
+                "xshift": 20,
+                "yshift": -12,
+                "xanchor": "left",
+                "font_color": "#333333"
+            },
+            {
+                "text": "Κατά",
+                "category": "Απρ.<br>2009",
+                "value": 27,
+                "xshift": 20,
+                "yshift": 8,
+                "xanchor": "left",
+                "font_color": "#333333"
+            }
+        ]
+    },
+    "colors": [
+        "#425464",
+        "#82A6BF"
+    ]
+}

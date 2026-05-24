@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent. It accurately represents the overall data trend, the dominant categories (e.g., the 'Transit' method), and the majority of the data values. However, it contains errors on the x-axis for the early years, specifically omitting data points for 1990 and 1991 and misplacing the data for 1992 under the 1991 label.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the discovery of exoplanets categorized by year and method. The claim, however, discusses the sources of biographies in a specific corpus. The chart contains no information about biographies, the StrepHit IEG Web Sources Corpus, or www.genealogics.org, making it impossible to support the claim."
+    },
+    "claim": "50% of biographies in the StrepHit IEG Web Sources Corpus are sourced from www.genealogics.org.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and literal match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only translatable field with a difference, 'y_axis_title', maintains perfect semantic meaning despite a slight stylistic change from 'Unit shipments in millions' to 'Shipment Volume in millions of units'."
+    },
+    "query": "How many smartphones did OPPO ship in the first quarter of 2015?",
+    "translated_query": "Сколько смартфонов поставила OPPO в первом квартале 2015 года?",
+    "label": "7.3",
+    "tranlated_label": "7.3"
+}

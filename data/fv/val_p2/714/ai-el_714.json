@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Ρεπουμπλικανικό Κόμμα",
+            "display_label": "Ρεπουμπλικανικό Κόμμα<br>55 εκατομμύρια",
+            "value": 55
+        },
+        {
+            "hover_label": "Δημοκρατικό Κόμμα",
+            "display_label": "Δημοκρατικό Κόμμα<br>72 εκατομμύρια",
+            "value": 72
+        },
+        {
+            "hover_label": "Ανεξάρτητοι",
+            "display_label": "Ανεξάρτητοι<br>42 εκατομμύρια",
+            "value": 42
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#D93B0B",
+        "#3A87D5",
+        "#F0E594"
+    ],
+    "pull": [
+        0.1,
+        0.1,
+        0.1
+    ]
+}

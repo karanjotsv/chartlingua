@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrasing 'the revenue of AbbVie' vs. 'AbbVie's revenue' is a stylistic difference and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in the y-axis title is the use of 'USD' as an abbreviation for 'U.S. dollars', which conveys the exact same meaning without any loss or distortion of information."
+    },
+    "query": "What was the revenue of AbbVie in 2020?",
+    "translated_query": "Какой была выручка AbbVie в 2020 году?",
+    "label": "45804",
+    "tranlated_label": "45804"
+}

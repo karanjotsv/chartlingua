@@ -1,0 +1,46 @@
+{
+    "chart_type": "grouped_bar",
+    "x_categories": [
+        "Ucraina",
+        "Lituania",
+        "Rusia"
+    ],
+    "chart_data": [
+        {
+            "name": "Oameni obișnuiți",
+            "y": [
+                11,
+                20,
+                26
+            ]
+        },
+        {
+            "name": "Proprietari de afaceri",
+            "y": [
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "name": "Politicieni",
+            "y": [
+                95,
+                91,
+                82
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#112F41",
+        "#BDBDBD"
+    ]
+}

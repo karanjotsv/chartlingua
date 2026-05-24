@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON, specifically the 'x_axis_title' and 'source' fields, perfectly matches the semantic meaning of the original content. Differences in capitalization ('value' vs 'Value', 'U.S.' vs 'US') are minor stylistic variations and do not impact the meaning. All other text fields are null in both, indicating perfect equivalence."
+    },
+    "query": "What is Apple's brand value?",
+    "translated_query": "ਐਪਲ ਦਾ ਬ੍ਰਾਂਡ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "352.21",
+    "tranlated_label": "352.21"
+}

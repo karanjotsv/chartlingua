@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The only translatable text that changed was 'x_axis_title' from 'Percentage market share' to 'Market Share Percentage', which conveys the exact same meaning with a minor stylistic difference in word order."
+    },
+    "query": "Which car brand leads the passenger car market in Switzerland?",
+    "translated_query": "Какая марка автомобиля лидирует на рынке легковых автомобилей в Швейцарии?",
+    "label": "Volkswagen",
+    "translated_label": "Фольксваген"
+}

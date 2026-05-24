@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message and data proportions are perfectly preserved. The only difference is the stylistic choice to explode one slice, which does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart is a pie chart illustrating the market share of different web browsers. It contains no data or labels related to 'HbO2' or any kind of trend over time."
+    },
+    "claim": "HbO2 shows a negative trend.",
+    "label": "TRUE"
+}

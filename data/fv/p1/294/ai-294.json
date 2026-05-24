@@ -1,0 +1,68 @@
+{
+    "chart_type": "pie_with_bar_breakout",
+    "chart_data": {
+        "pie": {
+            "labels": [
+                "PNL",
+                "UDMR",
+                "PC",
+                "PRM",
+                "PNTCD",
+                "PCM",
+                "Other",
+                "PD-L",
+                "PSD"
+            ],
+            "values": [
+                22,
+                7,
+                1,
+                1,
+                0,
+                1,
+                2,
+                34,
+                32
+            ]
+        },
+        "bar": {
+            "labels": [
+                "IND",
+                "PNG-CD",
+                "PNDC",
+                "FDGR"
+            ],
+            "values": [
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "pie": [
+            "#FFFF00",
+            "#99CC66",
+            "#29ABE2",
+            "#003865",
+            "#8A9A5B",
+            "#C0C0C0",
+            "#606060",
+            "#FFC300",
+            "#FF0000"
+        ],
+        "bar": [
+            "#D3D3D3",
+            "#8A6EAF",
+            "#0072B2",
+            "#9B278F"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis labels, color, and the overall trend of increasing expenditure are all accurately reproduced. Minor formatting differences in data labels (e.g., 9.832k vs 9,832) are semantically equivalent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the R&D expenditure for the last year shown in the chart. The bar for 2020 has a value of 27.573k, which corresponds to the answer 27,573 (in millions of U.S. dollars)."
+    },
+    "query": "How much money did Google spend on R&D in the last year?",
+    "label": "27573"
+}

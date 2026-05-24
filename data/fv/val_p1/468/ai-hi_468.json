@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_of_pie",
+    "main_pie_data": [
+        {
+            "label": "डार्क एनर्जी",
+            "value": 70
+        },
+        {
+            "label": "डार्क मैटर",
+            "value": 25
+        },
+        {
+            "label": "साधारण पदार्थ",
+            "value": 4
+        }
+    ],
+    "secondary_pie_data": [
+        {
+            "label": "तारे",
+            "value": 0.5
+        },
+        {
+            "label": "न्यूट्रिनो",
+            "value": 0.3
+        },
+        {
+            "label": "भारी तत्व",
+            "value": 0.03
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "main_pie": [
+            "#1F3D69",
+            "#6A9DD3",
+            "#B40D13"
+        ],
+        "secondary_pie": [
+            "#FFC000",
+            "#92D050",
+            "#26B5E3"
+        ]
+    }
+}

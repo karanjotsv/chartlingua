@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Foarte îngrijorat",
+            "Oarecum îngrijorat",
+            "Nu foarte îngrijorat",
+            "Deloc îngrijorat"
+        ],
+        "series": [
+            {
+                "name": "Îngrijorat de sănătatea personală",
+                "data": [
+                    28,
+                    49,
+                    19,
+                    4
+                ]
+            },
+            {
+                "name": "Îngrijorat de sănătatea persoanelor cu care locuiești",
+                "data": [
+                    37,
+                    38,
+                    9,
+                    3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Procentul respondenților",
+        "source": "Sursă: © Statista 2021"
+    },
+    "colors": [
+        "#2774d2",
+        "#182b3f"
+    ]
+}

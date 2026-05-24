@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text labels (including the title and legend), and color hues for each category are identical, ensuring the overall message and interpretation are exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is for 'Ashleyhay' in '1881', but the chart provides no information about the location or the year. The chart title is a generic 'Chart Title' and the axes do not contain this contextual information."
+    },
+    "claim": "People who choose Agriculture Occupation in Ashleyhay, ranked first in 1881.",
+    "label": "TRUE"
+}

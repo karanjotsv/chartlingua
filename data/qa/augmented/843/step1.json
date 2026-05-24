@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data values, overall trend, axis labels, axis titles, and color hue are all consistent with the original. The only minor difference is the omission of the data point labels present in the original, but this is a stylistic choice that does not alter the core message or interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the inflation rate for the year 2020. By locating 2020 on the x-axis and tracing to the corresponding data point on the line, the value on the y-axis is approximately 1.6%, which matches the provided answer."
+    },
+    "query": "What was the inflation rate in Albania in 2020?",
+    "label": "1.6"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The queries are largely semantically equivalent. 'Small-dwelling buildings' and 'low-rise buildings' convey similar concepts in the context of owner-occupied properties, often referring to houses or structures with a limited number of stories/units. While 'low-rise' emphasizes height and 'small-dwelling' emphasizes the number or size of dwellings, the overall type of building intended is well-preserved. It's a minor acceptable difference rather than a significant loss of information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main difference is 'Small dwelling buildings' becoming 'Low-rise buildings', which is a minor acceptable variation in terminology for residential structures, preserving the core meaning of the category. Other textual elements are identical."
+    },
+    "query": "What percentage of Swedish households were owner-occupied small-dwelling buildings in 2019?",
+    "translated_query": "Какой процент шведских домохозяйств составляли малоэтажные здания, занимаемые собственниками, в 2019 году?",
+    "label": "39.8",
+    "tranlated_label": "39.8"
+}

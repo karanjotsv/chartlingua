@@ -1,0 +1,47 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "<b>38.4%</b><br>of wealth<br>by 10% of<br>Rich<br>Peoples",
+            "value": 38.4
+        },
+        {
+            "label": "",
+            "value": 1.7
+        },
+        {
+            "label": "The rest",
+            "value": 59.9
+        }
+    ],
+    "texts": {
+        "title": "Income disparity in Malaysia",
+        "subtitle": null,
+        "source": null,
+        "annotations": [
+            {
+                "text": "<b>1.7%</b><br>by 10%<br>poor<br>peoples",
+                "x": 0.23,
+                "y": 0.28,
+                "xref": "paper",
+                "yref": "paper",
+                "showarrow": true,
+                "arrowhead": 0,
+                "arrowcolor": "#000000",
+                "ax": -60,
+                "ay": 60,
+                "font": {
+                    "family": "Arial",
+                    "size": 12,
+                    "color": "#000000"
+                },
+                "align": "left"
+            }
+        ]
+    },
+    "colors": [
+        "#9DFF00",
+        "#FF0000",
+        "#69B3A2"
+    ]
+}

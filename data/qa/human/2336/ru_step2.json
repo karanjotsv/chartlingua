@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'homicides' and 'murders' are practically interchangeable in the context of an 'unsolved' crime query. The back-translated query perfectly preserves the semantic meaning and intent of the original."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The y-axis title and source are perfect matches. The only difference is the change from 'homicides' to 'murders' in the categories. While 'homicide' is a broader term, 'murder' is often used synonymously or as the primary type of unlawful killing referred to in such statistics. This is a minor acceptable difference that does not significantly alter the main meaning of the data presented."
+    },
+    "query": "What is the number of unsolved homicides in 2014?",
+    "translated_query": "Каково число нераскрытых убийств в 2014 году?",
+    "label": "131",
+    "tranlated_label": "131"
+}

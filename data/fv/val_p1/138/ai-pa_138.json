@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_subplots",
+    "charts": [
+        {
+            "title": "a/á 'ਤੇ ਖਤਮ ਹੋਣ ਵਾਲੇ ਸਪੈਨਿਸ਼ ਨਾਂਵ",
+            "data": [
+                {
+                    "label": "ਨਿਰਪੱਖ",
+                    "value": 4
+                },
+                {
+                    "label": "ਪੁਲਿੰਗ",
+                    "value": 7
+                },
+                {
+                    "label": "ਇਸਤਰੀ ਲਿੰਗ",
+                    "value": 89
+                }
+            ],
+            "colors": [
+                "#ADDE96",
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "ਪੁਲਿੰਗ: 344 (7%)<br>ਇਸਤਰੀ ਲਿੰਗ: 4453 (89%)<br>ਨਿਰਪੱਖ: 211 (4%)"
+        },
+        {
+            "title": "a 'ਤੇ ਖਤਮ ਹੋਣ ਵਾਲੇ ਸਪੈਨਿਸ਼ ਨਾਮ",
+            "data": [
+                {
+                    "label": "ਮਰਦ",
+                    "value": 2
+                },
+                {
+                    "label": "ਔਰਤ",
+                    "value": 98
+                }
+            ],
+            "colors": [
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "ਮਰਦ: 10 (2%)<br>ਔਰਤ: 487 (98%)"
+        }
+    ],
+    "texts": {
+        "source": "©namepedia.org"
+    }
+}

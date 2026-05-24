@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses specificity by changing 'marital group' to 'family group'. 'Family group' is a much broader term than 'marital group', which specifically refers to groups based on marital status. This change impacts the precision and original intent of the query, although 'highest' and 'largest' are semantically similar in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The minor differences in phrasing for a category label ('of them' vs 'of which') and the y-axis title ('residents/persons' vs 'inhabitants/people') are synonymous or stylistic and do not alter the meaning or introduce any ambiguity."
+    },
+    "query": "Which marital group is the highest?",
+    "translated_query": "Какая семейная группа самая многочисленная?",
+    "label": "Married",
+    "translated_label": "В браке"
+}

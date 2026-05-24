@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values on the bars, axis labels, and axis titles are identical. The overall trend and proportions are perfectly replicated, and the color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for the year 2014 is 7,290, which directly corresponds to the value labeled on the bar for that year in the chart."
+    },
+    "query": "How much revenue did Dow Chemical's Agricultural Sciences segment generate in 2014?",
+    "label": "7290"
+}

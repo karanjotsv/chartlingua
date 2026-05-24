@@ -1,0 +1,57 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Foarte util",
+            "y": [
+                22,
+                27,
+                21,
+                7,
+                5
+            ],
+            "text": [
+                "22%",
+                "27%",
+                "21%",
+                "7%",
+                "5%"
+            ]
+        },
+        {
+            "name": "Util",
+            "y": [
+                31,
+                13,
+                7,
+                17,
+                13
+            ],
+            "text": [
+                "31%",
+                "13%",
+                "7%",
+                "17%",
+                "13%"
+            ]
+        }
+    ],
+    "categories": [
+        "Găsirea și rezervarea de hoteluri<br>etc.",
+        "Gestionarea parcărilor<br>/ servicii auto",
+        "TV prin Internet",
+        "Tehnologie de conversie<br>voce în e-mail",
+        "Twitter / rețele<br>sociale"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#257CDE",
+        "#1A2D46"
+    ]
+}

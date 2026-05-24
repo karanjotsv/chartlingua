@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, axis labels, color hues, and the logarithmic scale are all accurately reproduced, conveying the exact same information and message as the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the bar for '500 Days on Mars' is significantly higher than the bar for 'Abdominal CT Scan'. According to the logarithmic y-axis, the dose for an Abdominal CT scan is less than 10 millisieverts, while the dose for 500 Days on Mars is well over 100 millisieverts. This directly contradicts the claim."
+    },
+    "claim": "Abdominal CT scans expose patients to more radiation than a 500-day stay on Mars.",
+    "label": "FALSE"
+}

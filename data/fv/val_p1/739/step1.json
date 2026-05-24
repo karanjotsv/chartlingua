@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, and the overall trend are accurately reproduced. The colors and general layout are also highly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The line chart clearly shows a continuous increase in net profit ('Bénéfice net') from 2004 to 2008. The value rises from 39.9 million dollars in 2004 to 102.5 million dollars in 2008, with an increase observed each year in between."
+    },
+    "claim": "The net profit of the Laurentian Bank of Canada increased from 2004 to 2008.",
+    "label": true
+}

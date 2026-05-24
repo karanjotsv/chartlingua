@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, categories, axis labels, color hues, and the logarithmic scale from the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the proportion of people in professional occupations from 1881 to 2001, but the chart displays data on radiation dose equivalents from various sources, such as cosmic radiation and space travel. There is no information in the chart about occupations, time periods like 1881 or 2001, or specific locations like Humberton."
+    },
+    "claim": "The proportion of people working in professional occupations increased from 1881 to 2001 in the parish of Humberton.",
+    "label": "TRUE"
+}

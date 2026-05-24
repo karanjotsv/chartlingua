@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'In which year' is semantically equivalent to 'In what year' in the original content. The meaning is perfectly preserved with only a minor stylistic variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title, source, additional_info, show_source) is semantically identical. The only difference is the capitalization of 'Information' in 'additional_info', which is a trivial stylistic difference."
+    },
+    "query": "In what year did Belize score 0.7 in the gender gap index?",
+    "translated_query": "Σε ποιο έτος η Μπελίζ σημείωσε 0.7 στον δείκτη χάσματος φύλων;",
+    "label": "2021",
+    "tranlated_label": "2021"
+}

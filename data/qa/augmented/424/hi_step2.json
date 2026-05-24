@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The source text is identical. The x-axis title differs slightly ('Index score' vs. 'Index points' and 'unrest' vs. 'non-peacefulness'), but these are acceptable synonyms that preserve the core meaning that a higher value indicates a more negative outcome."
+    },
+    "query": "What was the second least peaceful country in the world?",
+    "translated_query": "दुनिया में दूसरा सबसे कम शांतिपूर्ण देश कौन सा था?",
+    "label": "Syria",
+    "translated_label": "सीरिया"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap between the labels for 'Lutheran' and 'Anglican', making the 'Lutheran' label unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Anglicans were the minority population. However, the pie chart shows that the Anglican population is 4%, while both the Muslim and Lutheran populations are smaller, each at 3%."
+    },
+    "claim": "In 2011, Anglican were the minority population in Alberta.",
+    "label": "FALSE"
+}

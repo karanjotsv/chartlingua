@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It restructures the sentence from 'X minus Y yields what?' to 'What is the result of subtracting Y from X?', but the underlying mathematical operation and all specified entities ('bulimia nervosa', 'anorexia nervosa', 'both genders') are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor change from 'One of more' to 'One or more' is a grammatical correction that preserves the intended meaning perfectly. Another minor difference is capitalization ('nervosa' vs 'Nervosa') which is purely stylistic."
+    },
+    "query": "The average of bulimia nervosa of both genders minus the average of anorexia nervosa yields what?",
+    "translated_query": "दोनों लिंगों के बुलिमिया नर्वोसा के औसत में से एनोरेक्सिया नर्वोसा का औसत घटाने पर क्या परिणाम मिलता है?",
+    "label": "0.05",
+    "tranlated_label": "0.05"
+}

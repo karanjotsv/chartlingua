@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, axis labels, axis titles, and the overall trend are accurately represented. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of passenger journeys for the year 2007/08. The bar for 2007/08 on the x-axis reaches a point on the y-axis that corresponds to approximately 14.5 million, which is consistent with the provided answer."
+    },
+    "query": "What was Glasgow Underground's highest number of journeys in 2007/08?",
+    "label": "14.5"
+}

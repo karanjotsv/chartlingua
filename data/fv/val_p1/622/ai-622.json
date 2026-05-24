@@ -1,0 +1,30 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Average",
+            "value": 610
+        },
+        {
+            "category": "Bus",
+            "value": 621
+        },
+        {
+            "category": "Trolley",
+            "value": 543
+        }
+    ],
+    "texts": {
+        "title": "Public Transportation Network<br>in Brașov, Romania",
+        "subtitle": "Distance between stations<br>by type of vehicle",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "June 2012",
+        "value_suffix": " m"
+    },
+    "colors": [
+        "#000000",
+        "#1F3864",
+        "#447231"
+    ]
+}

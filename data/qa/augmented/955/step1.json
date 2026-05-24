@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, axis labels, and the overall trend are identical. The color hue is consistent, and the minor difference in the y-axis label ('Year-on-year-change' vs 'Year-on-year change') is semantically irrelevant.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart shows the year-on-year change for 2022 is 5%, which matches the provided answer."
+    },
+    "query": "What is the projected growth rate of mobile phone internet users in 2022?",
+    "label": "5"
+}

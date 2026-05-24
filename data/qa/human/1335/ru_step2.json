@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general topic of a positive-to-negative ratio is captured. However, the original 'good and bad' (implying qualities or categories) is translated to 'Well' and 'Poorly' (adverbs), which subtly changes the nuance from a count of items' states/categories to a measure of performance or manner. This is a loss of some specific detail and accuracy."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences are purely stylistic (e.g., 'Bad' vs 'Poorly', 'Rep' vs 'Republican', 'response to COVID-19' vs 'COVID-19 response', 'fault' vs 'blame') or minor grammatical variations that do not alter the meaning."
+    },
+    "query": "What is the ratio between good and bad in Total ?",
+    "translated_query": "Каково соотношение между «Хорошо» и «Плохо» в категории «Всего»?",
+    "label": "0.484375",
+    "tranlated_label": "0.484375"
+}

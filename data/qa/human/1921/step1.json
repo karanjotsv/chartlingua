@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately calculates the total value by summing the customer loans for 'CIC Est' (24,126) and 'CIC Ouest' (20,393), which are both clearly displayed on the chart. The calculation 24,126 + 20,393 = 44,519 is correct."
+    },
+    "query": "What is the total  value of CICEst and CIC Quest?",
+    "label": "44519"
+}

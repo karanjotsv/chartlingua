@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an exact replica of the original. Both images display a single red line with a negative slope on a black background, with no other chart elements. They are visually and semantically identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided image is not a data chart. It is a simple graphic of a red line on a black background and contains no information about Atlantic Grupa, sales, profits, or countries. Therefore, the claim cannot be evaluated or supported by the image."
+    },
+    "claim": "Three countries account for over 60% of Atlantic Grupa's sales profits. ",
+    "label": "TRUE"
+}

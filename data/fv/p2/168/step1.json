@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart fails to accurately represent the data proportions from the original. The first pie chart is completely different: the original shows the largest slice (light blue) as ~50% and the other two as ~25% each, while the rendered chart shows the yellow slice as the largest (~50%). The proportions in the other charts are also different, though less drastically. This constitutes a significant data misrepresentation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the MCT ketogenic diet has the highest percentage of calories from fat. However, a visual comparison of the pie charts shows that the 'Classic ketogenic' diet has a larger combined slice for fat than the 'MCT ketogenic' diet. The 'Classic ketogenic' diet's fat portion is almost the entire circle, whereas the 'MCT ketogenic' diet has a noticeably larger carbohydrate portion, implying a smaller fat portion."
+    },
+    "claim": "The MCT oil ketogenic diet has the highest percentage of calories from fat.",
+    "label": "TRUE"
+}

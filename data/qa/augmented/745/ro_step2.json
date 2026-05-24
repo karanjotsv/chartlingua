@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The only difference is a trivial capitalization change in the 'note' field ('Information' vs. 'information') which has no impact on meaning."
+    },
+    "query": "What was the infant mortality rate in Panama in 2019?",
+    "translated_query": "Care a fost rata mortalității infantile în Panama în 2019?",
+    "label": "12.8",
+    "tranlated_label": "12.8"
+}

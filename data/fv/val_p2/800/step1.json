@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data points, country labels, titles, and color hues for each political group are accurately reproduced. The overall message about the political disagreement on climate change is identical. The only differences are minor stylistic choices like the legend format and gridlines, which do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the growth of bilingualism in Quebec between 1941 and 2006, but the chart displays data on political disagreement about climate change in various countries. The chart contains no information about bilingualism, Quebec, or the specified time period."
+    },
+    "claim": "Between 1941 to 2006, Quebec had the lowest growth in the rate of Bilingualism.",
+    "label": "FALSE"
+}

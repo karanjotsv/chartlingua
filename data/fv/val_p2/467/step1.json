@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data values, proportions, text labels, and color hues are consistent. It faithfully represents the same information and overall message, including an ambiguity in the original data where there appear to be more data series (bars) than legend entries.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that Agricultural Labourers is the highest occupation. The chart visually supports this, as the red bar representing 'Agricultural Labourers' is the tallest, indicating the highest value (approximately 26) compared to all other occupation categories shown."
+    },
+    "claim": "Agricultural labourers is highest ooccupations in Lowesby population.",
+    "label": "TRUE"
+}

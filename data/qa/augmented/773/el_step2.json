@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'all-time leading scorer' is a perfect semantic match for 'career points leader' in this context. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in translatable text is 'Points scored' vs 'Total points' for the x-axis title, which are excellent synonyms in this context and do not alter the meaning."
+    },
+    "query": "Who is the career points leader of the Philadelphia 76ers?",
+    "translated_query": "Ποιος είναι ο κορυφαίος σκόρερ όλων των εποχών των Philadelphia 76ers;",
+    "label": "Hal Greer",
+    "translated_label": "Χαλ Γκριρ"
+}

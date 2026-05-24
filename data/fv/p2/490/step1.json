@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the chart type, title, axis labels, data categories, data values, and data labels. The color hues for each bar are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that a 'majority' of respondents chose 'Other'. A majority means more than 50%. According to the chart, the 'Other' category received 44.4% of the responses, which is the highest proportion (a plurality) but is not a majority."
+    },
+    "claim": "The majority of respondents chose \"Other\" for the question on prevous printing work.",
+    "label": "TRUE"
+}

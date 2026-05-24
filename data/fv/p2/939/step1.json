@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data trend, axis scales (including logarithmic), all key text labels (title, axes), and color scheme. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is text overlap in the annotation at the top right corner ('May 30, 1989' overlaps with 'Sheet 2 of 5'), which makes that information difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the number of U.S. Patents Granted from 1870 to around 2005, whereas the claim is about the percentage of adults with obesity. The chart contains no information related to obesity rates."
+    },
+    "claim": "The percentage of adults with obesity in the United States has decreased significantly from 1990 to 2016.",
+    "label": "FALSE"
+}

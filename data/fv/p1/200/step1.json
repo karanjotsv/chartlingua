@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of data values, bar proportions, categories, and color hues. The main title is also identical. The rating is a 4 instead of a 5 because the source text at the bottom is incomplete in the rendered version.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The source text at the bottom of the chart is clipped, reading \"Reuters, Palestinian Ministry of\" instead of the full text from the original."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data for 'Palestinian wounded' and 'Israeli wounded' but does not break down these categories by age (e.g., 'children') or by combatant status (e.g., 'soldiers'). Therefore, the claim cannot be verified using the information available in the chart."
+    },
+    "claim": "The number of Palestinian children who were injured during the 2008-9 Gaza-Israel war is high than the number of Israeli soldiers who were injured.",
+    "label": true
+}

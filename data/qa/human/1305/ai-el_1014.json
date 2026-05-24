@@ -1,0 +1,41 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "hover_label": "Ισχυροί δεσμοί με τις ΗΠΑ",
+            "display_label": "<b>Ισχυροί δεσμοί<br>με τις ΗΠΑ</b><br>57%",
+            "value": 57,
+            "text_color": "#FFFFFF"
+        },
+        {
+            "hover_label": "Εξίσου στενοί δεσμοί (ΕΘΕΛ.)",
+            "display_label": "<b>Εξίσου<br>στενοί δεσμοί<br>(ΕΘΕΛ.)</b><br>21%",
+            "value": 21,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Ισχυροί δεσμοί με τη Ρωσία",
+            "display_label": "<b>Ισχυροί<br>δεσμοί με τη<br>Ρωσία</b><br>15%",
+            "value": 15,
+            "text_color": "#000000"
+        },
+        {
+            "hover_label": "Δεν γνωρίζω",
+            "display_label": "<b>7%</b>",
+            "value": 7,
+            "text_color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": "<b>Γερμανοί: Η πλειοψηφία προτιμά<br>ισχυρούς δεσμούς με τις ΗΠΑ</b>",
+        "subtitle": "<i>Τι είναι πιο σημαντικό για τη<br>Γερμανία – να έχει ισχυρούς δεσμούς με<br>τις ΗΠΑ ή ισχυρούς δεσμούς με τη Ρωσία;</i>",
+        "source": "Πηγή: Έρευνα του Pew Research Center 2015.<br><b>PEW RESEARCH CENTER</b>",
+        "annotation_label": "<b>Δεν<br>γνωρίζω</b>"
+    },
+    "colors": [
+        "#8E9F55",
+        "#E0E0D1",
+        "#BCC69C",
+        "#EFF0E6"
+    ]
+}

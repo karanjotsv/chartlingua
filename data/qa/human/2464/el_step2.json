@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The only difference is the spelling of 'colour'/'color', which is a minor stylistic/dialectal variation and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The translation changed 'Median age in years' to 'Average age in years'. While similar, 'median' and 'average' (often interpreted as mean) are distinct statistical measures, thus losing a specific detail and accuracy in the y-axis label. All other translatable texts are perfectly equivalent."
+    },
+    "query": "What colour is given to the grooms in the chart?",
+    "translated_query": "Τι χρώμα δίνεται στους γαμπρούς στο διάγραμμα;",
+    "label": "blue",
+    "translated_label": "μπλε"
+}

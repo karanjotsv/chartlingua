@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all data values, proportions, and color hues. The overall message is consistent. However, the label for the 'Turkish' category is missing, and the order of the slices around the pie is different from the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There are several visual flaws. The label for the 'Turkish' slice is completely missing, and a leader line from that slice points errantly up towards the title. Additionally, there is minor character overlap in the title itself ('WITHIN' and 'OUR')."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays eight distinct slices, each representing a different nationality (Australian, English, Italian, Indian, Greek, Welsh, Scottish, and one more unlabeled nationality at 10%). This directly supports the claim that there are eight nationalities represented in the group."
+    },
+    "claim": "There are eight nationalities represented in the student group at uni.",
+    "label": "TRUE"
+}

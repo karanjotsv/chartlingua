@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. The difference in hyphenation ('X files' vs 'X-file') and preposition ('on the chart' vs 'in the chart') are minor stylistic or grammatical variations that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the Chart JSON, specifically the 'title' and the 'label' values in 'chart_data', are identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "claim": "GA has the largest percentage of X files projects on the chart.",
+    "translated_claim": "GA имеет наибольший процент проектов X-файлов на диаграмме."
+}

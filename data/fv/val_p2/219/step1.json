@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (title, labels), and color hues are all consistent with the original. The rendered chart even improves upon the original by explicitly labeling the purple slice's value, which was missing in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 'WLM Launch' accounts for 19.1% of expenditure and 'P&Gs' account for 15.8%. Their combined total is 34.9%. The 'Awards Event' accounts for 53.8%. The claim that the total of the first two is equal to the last one is incorrect, as 34.9% is not equal to 53.8%."
+    },
+    "claim": "The total of WLM Launch and P&Gs is equal with Awards Event.",
+    "label": "FALSE"
+}

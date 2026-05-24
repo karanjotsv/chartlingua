@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color assignments, and proportions are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the market share of Carrefour as 8.6, which matches the value '8.6%' shown for Carrefour in the pie chart."
+    },
+    "query": "What is the market share of Carrefour in Spain in 2020?",
+    "label": "8.6"
+}

@@ -1,0 +1,43 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": {
+        "labels": [
+            "до $60 тыс.",
+            "$60 тыс.-$75 тыс.",
+            "$75 тыс.-$100 тыс.",
+            "$100 тыс.+"
+        ],
+        "series": [
+            {
+                "name": "Домохозяйства",
+                "values": [
+                    58.3,
+                    8.3,
+                    11.1,
+                    22.3
+                ]
+            },
+            {
+                "name": "Лица",
+                "values": [
+                    77.8,
+                    5.6,
+                    6.9,
+                    9.7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#9999FF",
+        "#8E3557",
+        "#F5F5DC",
+        "#B0E0E6"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਖਿਡੌਣੇ",
+            "ਬੱਚਾ"
+        ],
+        "series": [
+            {
+                "name": "ਵਿਕਰੀ ਮੁੱਲ",
+                "data": [
+                    34,
+                    10
+                ]
+            },
+            {
+                "name": "ਆਰਡਰਾਂ ਦੀ ਗਿਣਤੀ",
+                "data": [
+                    13,
+                    13
+                ]
+            },
+            {
+                "name": "ਸ਼ਾਪਿੰਗ ਬਾਸਕਟ ਦਾ ਮੁੱਲ",
+                "data": [
+                    18,
+                    -3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਵਿਕਰੀ ਵਿੱਚ ਵਾਧਾ (ਮਾਰਚ ਬਨਾਮ ਫਰਵਰੀ)",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#297ACC",
+        "#0F2C4C",
+        "#BDBDBD"
+    ]
+}

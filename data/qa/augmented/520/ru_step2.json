@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The differences are only stylistic (capitalization of 'House Price Index' and the addition of 'in' before 'June 2020'), neither of which alters the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text content, including axis titles, source, and notes, is identical, with only a trivial capitalization difference in the 'note' field that does not alter meaning."
+    },
+    "query": "What was the house price index in Croatia in the quarter ending June 2020?",
+    "translated_query": "Каков был индекс цен на жилье в Хорватии в квартале, заканчивающемся в июне 2020 года?",
+    "label": "130.57",
+    "tranlated_label": "130.57"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, proportions, categories, and color hues in both the pie chart and the accompanying table are identical to the original. The core message about population disparities is perfectly preserved. The only minor discrepancy is the omission of the year '2011' from the table's title, which is negligible.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap for the labels of the smaller pie slices and the entries in the table, rendering them completely unreadable. The main chart title is also clipped on the right side."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 33.1% of blacks living in America have HIV/AIDS. The chart shows that of the Americans living with HIV/AIDS, 44.5% are Black. The figure 33.1% corresponds to the percentage of White Americans living with HIV/AIDS, not Black Americans. Furthermore, the chart represents the demographic breakdown of people with HIV/AIDS, not the prevalence rate within a specific demographic."
+    },
+    "claim": "33.1% of blacks living in America has HIV/AIDS.",
+    "label": "FALSE"
+}

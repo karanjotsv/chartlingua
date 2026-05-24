@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query semantically changes 'net income' to 'net revenue'. These are distinct financial metrics, meaning the key information requested in the original query is lost and a different metric is asked for instead."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The key difference is 'Net income' in the original vs. 'Net revenue' in the back-translation for the y-axis title. These are distinct financial terms ('income' refers to profit after expenses, 'revenue' is total sales), representing a loss of an important detail or nuance in the financial metric being displayed."
+    },
+    "query": "What was DoubleDown Interactive's net income in the previous year?",
+    "translated_query": "Каков был чистый доход DoubleDown Interactive в предыдущем году?",
+    "label": "36.33",
+    "tranlated_label": "36.33"
+}

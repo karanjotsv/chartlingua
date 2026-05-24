@@ -1,0 +1,40 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "लैक्टोज",
+            "value": 37.0
+        },
+        {
+            "label": "वसा",
+            "value": 31.0
+        },
+        {
+            "label": "प्रोटीन",
+            "value": 26.0
+        },
+        {
+            "label": "खनिज",
+            "value": 6.0
+        }
+    ],
+    "texts": {
+        "title": "दूध की संरचना",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": {
+        "slices": [
+            "#a5c86b",
+            "#4a8fcc",
+            "#c85f7f",
+            "#8c69aa"
+        ],
+        "background": "#fbe5d6",
+        "title_font": "#593a2f",
+        "text_font": "#000000"
+    }
+}

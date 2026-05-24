@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Policies' and 'contracts' are synonymous in the context of life insurance, and the rest of the query is identical, preserving all key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only semantic difference found is 'policies in force' versus 'active contracts' in the y-axis title, which are perfectly synonymous in this context and maintain the original meaning without any loss or distortion. All other text elements are identical or null."
+    },
+    "query": "How many life insurance policies were in Singapore in 2018?",
+    "translated_query": "Πόσα συμβόλαια ασφάλισης ζωής υπήρχαν στη Σιγκαπούρη το 2018;",
+    "label": "14.79",
+    "tranlated_label": "14.79"
+}

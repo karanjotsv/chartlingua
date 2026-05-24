@@ -1,0 +1,58 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Water",
+            "value": 70.8,
+            "display_text": "Water<br>70.8",
+            "text_color": "#202020",
+            "font_size": 38,
+            "pull": 0
+        },
+        {
+            "category": "Human Habitation",
+            "value": 0.05,
+            "display_text": "Human<br>Habitation<br>0.05%",
+            "text_color": "#FFD700",
+            "font_size": 14,
+            "pull": 0.1
+        },
+        {
+            "category": "Intact",
+            "value": 7,
+            "display_text": "Intact<br>7%",
+            "text_color": "#00008B",
+            "font_size": 16,
+            "pull": 0
+        },
+        {
+            "category": "Under Conversion",
+            "value": 10,
+            "display_text": "Under<br>Conversion<br>10%",
+            "text_color": "#EEEEEE",
+            "font_size": 16,
+            "pull": 0
+        },
+        {
+            "category": "Agriculture",
+            "value": 12,
+            "display_text": "Agriculture<br>12%",
+            "text_color": "#8B4513",
+            "font_size": 16,
+            "pull": 0
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5A8FBA",
+        "#E1C500",
+        "#D6E0EA",
+        "#B0B0B0",
+        "#A89510"
+    ]
+}

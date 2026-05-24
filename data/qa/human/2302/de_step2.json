@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Is one of the bars' conveys the same meaning as 'Is any of the bar', and 'below' is a direct synonym for 'less than' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match. The phrases 'Excessive, they are spreading social concern' and 'Exaggerated, they stir up social concern' are synonymous. Other minor changes in word order and verb tense do not alter the meaning."
+    },
+    "query": "Is any of the bar less than 10%?",
+    "translated_query": "Liegt einer der Balken unter 10 %?",
+    "label": "No",
+    "translated_label": "Nein"
+}

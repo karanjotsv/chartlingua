@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the original meaning by changing the key term 'Government bonds' to 'government grants'. These are fundamentally different financial concepts, which alters the specific information being compared."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While the title and most categories are translated accurately with only minor stylistic variations, the change from 'Government Bonds' to 'Government grants' represents a significant loss of accuracy for a key data category, as these are two distinct financial concepts."
+    },
+    "claim": "BBC commercial had lower values of income than Government bonds",
+    "translated_claim": "Die kommerziellen Einnahmen der BBC waren geringer als die von Staatsanleihen."
+}

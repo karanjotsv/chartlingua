@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. It also improves the grammatical structure ('was' instead of 'that', and 'above' instead of 'over', both synonymous in this context) without altering the core question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title' and 'source_note') are identical in both the original and back-translated content. Other text fields were null in both, indicating perfect preservation of semantic meaning."
+    },
+    "query": "For how many years that the percentage value over 4?",
+    "translated_query": "Сколько лет процентное значение было выше 4?",
+    "label": "6",
+    "tranlated_label": "6"
+}

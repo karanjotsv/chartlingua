@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, categories, and their proportions. The color hue is consistent, and the overall message is identical. The addition of a title and source is a stylistic enhancement, not an inconsistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart shows that 'Free digital terrestrial' is the most received TV platform, with a value of approximately 9.5 million households. The bar for 'Pay digital satellite' is visibly shorter, corresponding to a lower value of approximately 8.8 million households. Therefore, the claim is directly contradicted by the visual data."
+    },
+    "claim": "More people pay for digital satellite than use free digital terrestrial in the UK.",
+    "label": false
+}

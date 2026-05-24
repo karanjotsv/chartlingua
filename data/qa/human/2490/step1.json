@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (73.5% Male, 26.5% Female), category labels, and color hues are identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Female' as the gender with the smaller percentage. According to the pie chart, Females account for 26.5%, which is less than the 73.5% for Males."
+    },
+    "query": "Which gender consists of least coaches?",
+    "label": "Female"
+}

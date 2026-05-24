@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of title, legend, color hues, and the proportions of the pie slices. However, it is missing the data labels for the two smallest slices (5% and 2%), which makes it slightly less complete than the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart is about \"Mali's Gao region,\" but the chart image itself only provides the name \"Gao\" in the title. The country \"Mali\" is not mentioned, so this part of the claim cannot be verified from the chart alone."
+    },
+    "claim": "The chart above is about the distribution of ethnicity in Mali's Gao region.",
+    "label": true
+}

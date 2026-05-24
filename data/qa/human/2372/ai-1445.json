@@ -1,0 +1,46 @@
+{
+    "chart_type": "grouped_bar",
+    "x_categories": [
+        "Ukraine",
+        "Lithuania",
+        "Russia"
+    ],
+    "chart_data": [
+        {
+            "name": "Ordinary people",
+            "y": [
+                11,
+                20,
+                26
+            ]
+        },
+        {
+            "name": "Business owners",
+            "y": [
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "name": "Politicians",
+            "y": [
+                95,
+                91,
+                82
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#112F41",
+        "#BDBDBD"
+    ]
+}

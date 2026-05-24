@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 'Orlando' had the highest performance at 10.84%, which is significantly higher than the 'PerfaisionaIss' (Professionals) performance of 3.52%. The claim incorrectly states that professionals had the best performance."
+    },
+    "claim": "The best performance in Stok Kemp 2013 was by professionals.",
+    "label": false
+}

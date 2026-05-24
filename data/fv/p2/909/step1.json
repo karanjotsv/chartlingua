@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, axes, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses 'emissivity values' and 'temperature', which are topics not mentioned or represented anywhere in the chart. The chart displays the number of files with a certain number of language templates, a completely unrelated subject."
+    },
+    "claim": "The emissivity values expand the temperature expand.",
+    "label": "TRUE"
+}

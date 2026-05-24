@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels (title, axes, data), categories, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses smoking and snus habits, while the chart provides data on different printing methods. The chart contains no information related to the claim."
+    },
+    "claim": "The number of the people who only smoke and the people who both smoke and snus is more than the people who neither smoke nor snus.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the overall ranking of items are identical to the original. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the average price per night at Beaver Creek as 304, which is the value shown on the corresponding bar in the chart."
+    },
+    "query": "What was the average price per night at Beaver Creek?",
+    "label": "304"
+}

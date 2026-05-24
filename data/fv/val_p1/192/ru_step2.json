@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The acronym 'CFSRF' was incorrectly changed to 'CWSRF'. This is a significant alteration of key information, as it changes the subject of the statement, even though 'diverse range' and 'wide range' are semantically similar."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Most labels and titles are perfectly matched or show only minor stylistic variations (e.g., 'to' vs 'From...to', 'above' vs 'more', 'Dollar Amount' vs 'Volume in dollars') that do not alter the core meaning. The change from 'CWSRFs' to 'CWSRF' in the title is a trivial grammatical adjustment without semantic impact."
+    },
+    "claim": "The CFSRF serves a diverse range of communities.",
+    "translated_claim": "CWSRF обслуживает широкий круг сообществ."
+}

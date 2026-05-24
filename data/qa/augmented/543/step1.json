@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately replicated. The color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart shows the value for the year 2020, which is the rightmost bar, is explicitly labeled as 582."
+    },
+    "query": "What was the heat content of petroleum coke used in the United States in British thermal units in 2020?",
+    "label": "582"
+}

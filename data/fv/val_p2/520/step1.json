@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text labels, color assignments, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that non-tobacco use accounts for 0%, but the pie chart clearly shows a category 'Neither smoke nor snus' which represents 76.6% of the total."
+    },
+    "claim": "When considering the Swedish population, non-tobacco use accounts for 0%.",
+    "label": "FALSE"
+}

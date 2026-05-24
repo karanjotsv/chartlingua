@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, categories, labels, and color schemes are identical. The overall message and trends are preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of decayed teeth decreases with age, but the chart shows the opposite. The mean number of DMFT (white bars), which represents decayed, missing, or filled teeth, consistently increases with each older age group shown on the x-axis."
+    },
+    "claim": "The number of decayed teeth decreases with age.",
+    "label": "FALSE"
+}

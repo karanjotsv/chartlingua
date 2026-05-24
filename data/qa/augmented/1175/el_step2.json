@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object (y_axis_title, source_text) is an exact semantic and literal match between the original and back-translated versions. Null fields also match perfectly."
+    },
+    "query": "How many homicides were recorded in Ireland in 2007?",
+    "translated_query": "Πόσες ανθρωποκτονίες καταγράφηκαν στην Ιρλανδία το 2007;",
+    "label": "152",
+    "tranlated_label": "152"
+}

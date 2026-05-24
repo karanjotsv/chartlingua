@@ -1,0 +1,33 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Coast Guard",
+            "value": 1
+        },
+        {
+            "label": "Fire",
+            "value": 6
+        },
+        {
+            "label": "Ambulance",
+            "value": 41
+        },
+        {
+            "label": "Police",
+            "value": 52
+        }
+    ],
+    "texts": {
+        "title": "Percentage distribution of calls to 999 in the United Kingdom.",
+        "subtitle": "(This chart is based on figures from British Telecom relating to 2011.)",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#f39f0f",
+        "#d83131",
+        "#46b046",
+        "#547dbf"
+    ]
+}

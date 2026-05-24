@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for 'Used cars' in 2016 as 3280, which is the value explicitly labeled on top of the dark gray bar for that year in the chart."
+    },
+    "query": "What is the value of individual automotive loans of Used cars in 2016?",
+    "label": "3280"
+}

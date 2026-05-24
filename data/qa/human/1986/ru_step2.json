@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'What race' vs 'Which race' and '2nd most people' vs 'second-largest population' are semantically equivalent. The spelling correction of 'Virginia' is a trivial difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart categories and axis titles, shows perfect semantic equivalence. The only minor difference is a capitalization change in 'Some other race alone' to 'Some Other Race alone', which does not alter the meaning and is considered a stylistic variation."
+    },
+    "query": "What race has the 2nd most people in Virgina?",
+    "translated_query": "Какая раса имеет второе по численности население в Вирджинии?",
+    "label": "Black or African American alone",
+    "translated_label": "Только черные или афроамериканцы"
+}

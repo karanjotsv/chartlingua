@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies 'Ohio state revenue', but the chart title clearly indicates the data represents 'State and Local Government Tax Revenue' combined. The chart does not provide a breakdown to verify the largest source of state revenue alone."
+    },
+    "claim": "Income taxes is the largest source of Ohio state revenue.",
+    "label": "TRUE"
+}

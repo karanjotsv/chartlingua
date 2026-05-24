@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data series, including their trends, values, and timing of changes, are accurately reproduced. Text labels in the legend, axis values, and color assignments are all consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value in May 2003 is around 910. However, according to the chart, the green line (Zero-Lag EMA) is at approximately 980 in May 2003. The value of 910 is seen in April, not May."
+    },
+    "claim": "In May 2003, the value is around 910.",
+    "label": true
+}

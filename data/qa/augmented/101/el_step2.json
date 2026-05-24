@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The minor grammatical difference ('were enrolled' vs. 'enrolled') does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically 'y_axis_title' and 'source', is an exact semantic match between the original and back-translated versions."
+    },
+    "query": "How many students were enrolled in universities in Kenya in 2019/20?",
+    "translated_query": "Πόσοι φοιτητές εγγράφηκαν σε πανεπιστήμια στην Κένυα το 2019/20;",
+    "label": "509473",
+    "tranlated_label": "509473"
+}

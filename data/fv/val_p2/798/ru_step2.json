@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The original content is grammatically incomplete and semantically ambiguous, missing a comparative adverb. The back-translated content adds 'more', which makes the sentence grammatically correct and semantically specific. While the general topic is maintained, the back-translation introduces a specific directional comparison ('more') that was not explicitly present in the original, thus changing the specific claim being made."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most elements, including the title and category names, are preserved with only minor stylistic or trivial differences (e.g., 'U.S.' to 'USA', 'U.K.' to 'United Kingdom', capitalization). The y-axis title 'Wider disagreement' changed to 'Wide Disagreements', which is a minor nuance change but doesn't significantly alter the main meaning."
+    },
+    "claim": "Pennsylvania generates electricity from wind sources than from coal.",
+    "translated_claim": "Пенсильвания генерирует больше электроэнергии из ветряных источников, чем из угля."
+}

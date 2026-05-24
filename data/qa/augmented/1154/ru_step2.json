@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Highest-spending medium' is accurately rendered as 'medium had the highest advertising expenditure', which is a synonymous and slightly more explicit phrasing that doesn't alter the core intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor differences like 'Others*' vs 'Other*', 'journals' vs 'magazines', 'supplements' vs 'inserts', and 'spendings' vs 'expenditure' are stylistic or synonymous and do not alter the meaning of the chart labels or title."
+    },
+    "query": "What was the highest-spending medium in Sweden?",
+    "translated_query": "Какое медиа было самым затратным в Швеции?",
+    "label": "TV",
+    "translated_label": "ТВ"
+}

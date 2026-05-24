@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data shapes, series categories, textual content (title, axis label, legend labels), and key visual cues like the colored dashed boundary lines and the fire icon. The overall message of ecological succession after a fire is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected. There is a minor overlap of the legend text with the chart's data lines, but the text remains perfectly legible and does not impede understanding."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart illustrates the process of ecological succession after a fire but provides no information about the relative flammability of different vegetation types or the conditions under which a fire starts. The fire icon is shown above a mixed ecosystem, not specifically originating in grassland."
+    },
+    "claim": "Grassland is more easily to start a fire. ",
+    "label": true
+}

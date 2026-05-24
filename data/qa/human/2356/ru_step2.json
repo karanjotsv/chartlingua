@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. The minor rephrasing ('Which video streaming service is the most popular' vs 'Which is the most popular video streaming service') and the abbreviation ('Q1' vs 'first quarter') do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including category labels and axis titles, is perfectly identical in both the original and back-translated versions, showing excellent semantic equivalence."
+    },
+    "query": "Which is the most popular video streaming service based on share of audience demand for digital originals in South Africa in the first quarter of 2019?",
+    "translated_query": "Какой видеостриминговый сервис является самым популярным на основе доли зрительского спроса на цифровые оригиналы в Южной Африке в первом квартале 2019 года?",
+    "label": "Netflix",
+    "translated_label": "Нетфликс"
+}

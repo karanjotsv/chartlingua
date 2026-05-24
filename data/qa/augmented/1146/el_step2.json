@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the compound noun from 'index score' to 'score index'. While related, 'index score' typically refers to a specific score that functions as an index (e.g., a single numerical value), whereas 'score index' could imply an index *of* scores or a system related to scores, subtly altering the specific entity being queried. This is a loss of nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is 'Index score' vs 'Score Index' for the ylabel, which conveys the same meaning with a minor word order change and does not affect comprehension or accuracy."
+    },
+    "query": "What was Google's index score?",
+    "translated_query": "Τι ήταν ο δείκτης βαθμολογίας της Google;",
+    "label": "404",
+    "tranlated_label": "404"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. The shapes and relative positions of the two data series, the line styles (solid vs. dashed), the color hues (blue and green), and the axis labels are all consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim provides a definition for the luminosity function in the context of 'celestial objects', but the chart itself contains no information, title, or labels referring to celestial objects. The chart only shows an abstract relationship between 'Luminosity' and 'Luminosity Function' without this specific context."
+    },
+    "claim": "The luminosity function shows the distribution of brightness of a sample of celestial objects.",
+    "label": true
+}

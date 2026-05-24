@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "While key terms like 'Execution Time' and 'Number of Records' are correctly translated, the relationship described by the verb 'started' is altered. The original suggests 'Tempo de execucao' (Execution Time) initiated 'Execucao' (Execution). The back-translation 'The Execution Time of the Execution started at a value' rephrases this, making 'The Execution Time of the Execution' a compound subject that begins at a certain value, rather than an entity initiating another action. This is a noticeable shift in the sentence's semantic structure and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON, including the chart name, title, and axis titles, are perfectly preserved in meaning in the back-translation. 'Execucao' became 'Execution', 'Cálculo de média' became 'Average Calculation', 'Tempo de execução (s)' became 'Execution Time (s)', and 'Qtde de registros' became 'Number of Records', all showing excellent semantic equivalence."
+    },
+    "claim": "The Tempo de execucao started  Execucao from the value near 524288 of Qtde de registros.",
+    "translated_claim": "Ο Χρόνος εκτέλεσης της Εκτέλεσης ξεκίνησε από την τιμή κοντά στο 524288 του Πλήθους εγγραφών."
+}

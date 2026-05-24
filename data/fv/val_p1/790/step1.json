@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, text content, and color assignments are accurately replicated, conveying the identical overall message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that Score 2 in 2010 was the highest compared to other years. However, the chart shows that the yellow bar representing Score 2 in 2010 is visually the lowest among all years from 2010 to 2018. For instance, the value for Score 2 in 2015 is clearly much higher than in 2010."
+    },
+    "claim": "During the year of 2010, AP Latin Score 2 getting the first place than other years in this chart.",
+    "label": false
+}

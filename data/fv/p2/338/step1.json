@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart is poorly consistent. While the data proportions and color hues are correct, the legend labels are completely missing, and the labels on the pie slices are severely abbreviated and ambiguous (e.g., '$10-$30' is rendered as '30', '$50-$100' as '50'). This makes the chart nearly impossible to interpret on its own.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed because the legend has been rendered without any text, making it non-functional. The labeling on the chart itself is also incomplete and ambiguous."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that '$50-$100' is the second-lowest donation category. Based on the provided percentages linked to the legend, the second-lowest percentage is 8%, which corresponds to two categories ('30' and '$1,000 - $250,000'). The category labeled '100', representing the '$50-$100' range, corresponds to a percentage of 12%, which is not the second-lowest."
+    },
+    "claim": "The second-lowest donation category is \"$50-$100\".",
+    "label": "FALSE"
+}

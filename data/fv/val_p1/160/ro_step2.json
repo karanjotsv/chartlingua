@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the meaning by changing the subject. The specific technical term 'The latent dimension of line one' has been incorrectly translated as 'Article 1', which completely alters the context and subject of the claim."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The chart title and axis titles are semantically equivalent, with only minor stylistic differences ('plot' vs. 'Chart', 'to Solve' vs 'of solving'). The main difference is the translation of the series names from 'Item' to 'Article'. While both serve as generic labels, this is a noticeable semantic shift that prevents a perfect score."
+    },
+    "claim": "The latent dimension of line one begins at a higher probability than the others.",
+    "translated_claim": "Articolul 1 începe la o probabilitate mai mare decât celelalte."
+}

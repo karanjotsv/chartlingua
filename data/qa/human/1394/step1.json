@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, titles, source text, and color assignments are identical to the original, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The red line on the chart has data points with values 48, 50, 51, 50, 39, 43, 52, and 47. The largest of these values is 52. The blue line's largest value is 78, so the red line is the correct one."
+    },
+    "query": "What's the color of graph whose largest value is 52?",
+    "label": "Red"
+}

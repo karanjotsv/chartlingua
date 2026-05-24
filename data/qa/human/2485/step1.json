@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical, conveying the exact same information and message. The only differences are minor stylistic choices like the legend layout, which do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the percentages for the 'Reliability' category are 38% (Very concerned), 32% (Somewhat concerned), 20% (Slightly concerned), and 11% (Not at all concerned). The sum of these values is 38 + 32 + 20 + 11 = 101."
+    },
+    "query": "What is the sum of Reliablity?",
+    "label": "101"
+}

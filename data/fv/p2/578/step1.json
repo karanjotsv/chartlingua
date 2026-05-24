@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that nuclear sources account for 36.8% of electricity generation and biomass sources account for 1.3%. The difference between these two is 35.5% (36.8 - 1.3), not 15% as the claim states."
+    },
+    "claim": "The difference between the nuclear and biomass sources is 15% of the chart.",
+    "label": "FALSE"
+}

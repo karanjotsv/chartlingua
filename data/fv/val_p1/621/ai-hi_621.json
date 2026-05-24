@@ -1,0 +1,32 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "जल",
+            "value": 52.2
+        },
+        {
+            "label": "सीवर",
+            "value": 36.0
+        },
+        {
+            "label": "पूंजीगत परियोजना सहायता",
+            "value": 11.8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "data_labels": [
+            "जल<br>52.2%",
+            "सीवर<br>36%",
+            "पूंजीगत<br>परियोजना<br>सहायता<br>11.8%"
+        ]
+    },
+    "colors": [
+        "#0033ff",
+        "#663399",
+        "#cc9933"
+    ]
+}

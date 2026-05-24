@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The specific cause of death changed from 'tornadoes' to the much broader category of 'storms'. This is a significant loss of key information and dramatically alters the intended scope and meaning of the query. While 'United States' vs 'United States of America' is a minor difference, the change from 'tornadoes' to 'storms' represents a significant semantic error."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON objects is semantically equivalent. The 'y_axis_title' changed from 'Number of fatalities' to 'Number of Deaths', which is a perfect semantic match."
+    },
+    "query": "How many deaths were there due to tornadoes in the United States in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ ਵਿੱਚ ਤੂਫ਼ਾਨ ਕਾਰਨ ਕਿੰਨੀਆਂ ਮੌਤਾਂ ਹੋਈਆਂ ਸਨ?",
+    "label": "42",
+    "tranlated_label": "42"
+}

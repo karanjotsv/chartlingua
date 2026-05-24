@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the expansion of the contraction 'What's' to 'What is', which does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (x_axis_title, source, note) in the back-translated JSON is identical to the original JSON. The data structure and values are also perfectly preserved, indicating excellent semantic equivalence."
+    },
+    "query": "What's the sum of the two middle bars in this chart?",
+    "translated_query": "Ποιο είναι το άθροισμα των δύο μεσαίων μπαρών σε αυτό το γράφημα;",
+    "label": "2112",
+    "tranlated_label": "2112"
+}

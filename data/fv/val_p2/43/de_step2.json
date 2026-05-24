@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The phrasing for job categories like 'Skilled Trades' vs. 'Craft & Related Trades' and 'Elementary' vs. 'Unskilled Laborers' are direct synonyms and convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall chart topic is preserved, and most category labels are semantically equivalent. However, the back-translation inaccurately changes 'Associate Professional & Technical' and 'Professionals' to 'Academic & Technical Professions' and 'Academic Professions' respectively. This introduction of 'Academic' significantly narrows and alters the meaning of two key occupational categories, leading to a loss of accuracy."
+    },
+    "claim": "The total number of the female workers in Skilled Trades and Elementary is more than the female workers in Associate professional & Technical.",
+    "translated_claim": "Die Gesamtzahl der weiblichen Arbeitskräfte in den Bereichen 'Handwerks- & verwandte Berufe' und 'Hilfsarbeitskräfte' ist größer als die der weiblichen Arbeitskräfte in 'Akademische & technische Berufe'."
+}

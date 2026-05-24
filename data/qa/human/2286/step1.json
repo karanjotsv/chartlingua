@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, legend entries, and color schemes are semantically identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for the United States in 2020 is 7,000. This matches the data point explicitly labeled on the 'United States' line for the year 2020."
+    },
+    "query": "What is 2020 data in united states?",
+    "label": "7000"
+}

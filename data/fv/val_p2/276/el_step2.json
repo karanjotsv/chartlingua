@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The core issue is the translation of 'unsuspected commodities type work' to 'occupations related to General or Unspecified Goods'. While 'general' and 'commodities/goods' are preserved, 'unsuspected' and 'unspecified' have distinct semantic meanings. 'Unsuspected' implies something not known or expected, whereas 'unspecified' means not explicitly detailed. This change alters an important descriptor of the work type, leading to a loss of nuance and accuracy, even if the general topic is maintained."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated chart texts maintain good semantic equivalence. Most category names are perfectly preserved or differ only in capitalization. Minor acceptable differences include 'Conveyance of men' becoming 'Transport of People', 'Engaged with Animals' becoming 'Occupations with Animals', 'lodging' becoming 'Accommodation', and 'Dealing in Dress' becoming 'Clothing Trade'. The phrase 'unsuspected commodities' was translated to 'Unspecified Goods', which makes more sense in this context and is a good semantic interpretation, rather than a distortion. Series names 'Males' and 'Females' became 'Men' and 'Women', which are synonymous in this context. No critical information is lost or distorted."
+    },
+    "claim": "In 1881, females outnumbered males in the general or unsuspected commodities type work.",
+    "translated_claim": "Το 1881, οι γυναίκες υπερτερούσαν αριθμητικά των ανδρών στις εργασίες τύπου γενικών ή ανύποπτων εμπορευμάτων."
+}

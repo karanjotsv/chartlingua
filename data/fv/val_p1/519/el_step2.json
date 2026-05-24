@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. Minor changes like 'colour portion' to 'section' and grammatical corrections ('represent' to 'represents', adding 'the') do not alter the core message or key information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The label 'No conscription' was translated to 'Non-conscription', which is a semantically equivalent phrasing. The title changed from 'Countries Statistics' to 'Country Statistics', which is a minor grammatical variation but the main topic is accurately conveyed."
+    },
+    "claim": "The green colour portion represent non conscription policies in given pie chart.",
+    "translated_claim": "Το πράσινο τμήμα αντιπροσωπεύει πολιτικές μη στράτευσης στο δεδομένο γράφημα πίτας."
+}

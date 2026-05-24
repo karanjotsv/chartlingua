@@ -1,0 +1,87 @@
+{
+    "chart_type": "time_series_line",
+    "chart_data": [
+        {
+            "name": "Median daily statistic (47 years)",
+            "x": [
+                "2017-02-24T12:00:00",
+                "2017-02-25T12:00:00",
+                "2017-02-26T12:00:00"
+            ],
+            "y": [
+                42,
+                42,
+                48
+            ],
+            "mode": "markers",
+            "marker_symbol": "triangle-up",
+            "marker_size": 10,
+            "marker_line_width": 1,
+            "marker_line_color": "black"
+        },
+        {
+            "name": "Period of approved data",
+            "x": [
+                "2017-02-24T00:00:00",
+                "2017-02-27T00:00:00"
+            ],
+            "y": [
+                30,
+                30
+            ],
+            "mode": "lines",
+            "line_width": 8
+        },
+        {
+            "name": "Discharge",
+            "x": [
+                "2017-02-24T00:00:00",
+                "2017-02-24T06:00:00",
+                "2017-02-24T12:00:00",
+                "2017-02-24T18:00:00",
+                "2017-02-25T00:00:00",
+                "2017-02-25T06:00:00",
+                "2017-02-25T12:00:00",
+                "2017-02-25T15:00:00",
+                "2017-02-25T18:00:00",
+                "2017-02-25T21:00:00",
+                "2017-02-26T00:00:00",
+                "2017-02-26T06:00:00",
+                "2017-02-26T12:00:00",
+                "2017-02-26T18:00:00",
+                "2017-02-27T00:00:00"
+            ],
+            "y": [
+                950,
+                550,
+                400,
+                450,
+                500,
+                420,
+                350,
+                360,
+                2000,
+                6900,
+                4000,
+                2200,
+                1500,
+                900,
+                600
+            ],
+            "mode": "lines",
+            "line_width": 2
+        }
+    ],
+    "texts": {
+        "title": "<b>USGS 01349000 OTSQUAGO CREEK AT FORT PLAIN NY</b>",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Discharge, cubic feet per second",
+        "source": null
+    },
+    "colors": [
+        "#D9AE2A",
+        "#008400",
+        "#3182BD"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the title, data proportions (Female/Male), legend, colors, and the descriptive text from the original. The only significant change is the removal of the 3D effect, which is a stylistic improvement and does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart visually represents the percentage of female and male occupational therapists. The slice for females (dark blue) is significantly larger than the slice for males (light blue), indicating that the number of female therapists is much greater than the number of male therapists. The claim that the numbers are equal is directly contradicted by the chart."
+    },
+    "claim": "The number of male occupational therapists is equal to the number of female occupational therapists.",
+    "label": false
+}

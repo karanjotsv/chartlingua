@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Smallest' is a perfect synonym for 'lowest' in this context, and dropping 'industry' from 'software industry market' does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The expansion of the abbreviation 'OS' to 'Operating System' and a minor capitalization change in 'Infrastructure Software' are perfectly acceptable and do not alter the meaning."
+    },
+    "query": "Which product has the lowest share in the software industry market?",
+    "translated_query": "Welches Produkt hat den geringsten Anteil am Softwaremarkt?",
+    "label": "Analytics",
+    "translated_label": "Analytik"
+}

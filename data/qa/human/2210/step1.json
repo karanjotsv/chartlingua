@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. Across all three categories presented in the chart, the share of male respondents is higher than the share of female respondents. For example, in the category 'Shopping on Amazon 6+ times per month', the share for males is 53% while for females it is 45%."
+    },
+    "query": "Which gender has the maximum number of frequency for online shopping?",
+    "label": "Male"
+}

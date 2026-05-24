@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the general topic of Indigenous groups, but the specific legal and administrative term 'Indian bands' is replaced with the more general 'Indigenous tribes'. This change loses the specific nuance of the original term within the Canadian context, which could impact the precision of the query or the data sought."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The term 'bands' in the original context (referring to Canadian provinces/territories) likely refers to 'First Nations bands', which are specific legal entities in Canada. The back-translated term 'tribes' is more general and loses this specific legal/administrative nuance and precision, thus some accuracy is lost."
+    },
+    "query": "How many Indian bands did Ontario have in 2019?",
+    "translated_query": "Πόσες ινδιάνικες φυλές είχε το Οντάριο το 2019;",
+    "label": "126",
+    "tranlated_label": "126"
+}

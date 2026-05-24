@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly retains the semantic meaning of the original claim. The omission of 'between' before a numerical range like '9001-10000' does not alter the meaning or introduce ambiguity, as the hyphenated range implicitly conveys 'between X and Y'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title had a minor stylistic change ('The' omitted), and the 'Editors' in the data labels was changed to 'Editor' (singular) across all entries, which is a minor grammatical inaccuracy for ranges that clearly indicate multiple editors, but does not significantly alter the semantic meaning of the categories."
+    },
+    "claim": "44.9% of editors made between 9001-10000 edits. ",
+    "translated_claim": "44.9% ਸੰਪਾਦਕਾਂ ਨੇ 9001-10000 ਸੰਪਾਦਨ ਕੀਤੇ।"
+}

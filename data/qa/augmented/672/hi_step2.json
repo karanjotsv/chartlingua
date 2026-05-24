@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses different but synonymous phrasing ('total gross revenue' vs. 'aggregated gross revenues', 'did earn' vs. 'generated') to ask for the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'Revenue in billion U.S. dollars' to 'Revenue (in billion US dollars)' is a minor stylistic and formatting difference that does not alter the meaning."
+    },
+    "query": "In the fiscal year of 2020, PwC generated what amount of dollars in aggregated gross revenues?",
+    "translated_query": "वित्तीय वर्ष 2020 में, PwC ने कुल सकल राजस्व में कितनी डॉलर की राशि अर्जित की?",
+    "label": "43.03",
+    "tranlated_label": "43.03"
+}

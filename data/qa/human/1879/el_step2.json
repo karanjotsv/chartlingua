@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, showing perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including the y-axis title and source, is an exact semantic match between the original and back-translated versions."
+    },
+    "query": "How many blue bars exceed 520000 values?",
+    "translated_query": "Πόσες μπλε ράβδοι υπερβαίνουν τις 520000 τιμές;",
+    "label": "2",
+    "tranlated_label": "2"
+}

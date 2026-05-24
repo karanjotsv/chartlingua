@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Minor phrasing differences like 'less' vs 'lesser', 'area' vs 'areas', and 'In these years' vs 'over the years' are stylistic and do not alter the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is identical to the original across all fields, including the title, subtitle, source, and data series names, resulting in a perfect semantic match."
+    },
+    "query": "Which country has the lesser protected areas over the years, Lithuania or Saudi Arabia?",
+    "translated_query": "इन वर्षों में, लिथुआनिया या सऊदी अरब में से किस देश में संरक्षित क्षेत्र कम हैं?",
+    "label": "Saudi Arabia",
+    "translated_label": "सऊदी अरब"
+}

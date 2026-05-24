@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data points, the trend line, axis ranges, labels for highlighted countries, and titles are accurately reproduced. The color scheme and overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is directly contradicted by the scatter plot. The data point for the USA is positioned significantly higher on the y-axis (Internet users per 100 people) at approximately 84, compared to China's data point, which is below 50."
+    },
+    "claim": "China has more internet users per 100 people than the United States",
+    "label": false
+}

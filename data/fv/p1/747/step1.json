@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. It accurately reproduces the data trends, values, logarithmic scale, all text labels, and color hues. The main message of a massive discharge spike is perfectly preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The thick green bar at the top of the chart, which represents both the USGS branding and the 'Period of approved data', partially obscures the peak of the primary data line."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart's title, \"...GILBOA NY\", indicates a location in New York, USA. The x-axis displays dates from August 26, 2011, to September 1, 2011, which constitutes a week. The y-axis is labeled \"Discharge, cubic feet per second,\" confirming the chart's subject is water discharge. All components of the claim are directly verifiable from the chart."
+    },
+    "claim": "The chart shows the water discharge in a river in a week in August 2011 in New York, USA.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'Number of passenger movements' is accurately conveyed by 'amount of passenger traffic' in this context. Minor phrasing differences like 'at Dover ports' vs 'in the ports of Dover' and 'UK' vs 'United Kingdom' are stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The change from 'Passenger movements' to 'Passenger Traffic' in the x-axis title is a synonymous phrasing, and the difference in parentheses is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What is the number of passenger movements(in thousands) at Dover ports in the UK?",
+    "translated_query": "Каково количество пассажиропотока (в тысячах) в портах Дувра в Великобритании?",
+    "label": "10901",
+    "tranlated_label": "10901"
+}

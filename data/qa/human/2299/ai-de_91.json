@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Anorexia nervosa*",
+            "Bulimia Nervosa",
+            "Eine oder mehrere Essstörungen"
+        ],
+        "series": [
+            {
+                "name": "Männlich",
+                "data": [
+                    null,
+                    0.1,
+                    0.1
+                ]
+            },
+            {
+                "name": "Weiblich",
+                "data": [
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Erwachsenen in Prozent",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2693FF",
+        "#102C44"
+    ]
+}

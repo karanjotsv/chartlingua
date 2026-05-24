@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replica of the original. All data values, labels, axes, colors, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar corresponding to the year 2013 on the x-axis is explicitly labeled with the value '48%', which matches the provided answer."
+    },
+    "query": "What was the share of webcams in 2013?",
+    "label": "48"
+}

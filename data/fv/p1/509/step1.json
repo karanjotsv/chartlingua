@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that natural gas was the source for 89.2% of electricity generation in Delaware in 2016, which is a vast majority compared to the other sources (coal at 5.5% and other at 5.3%), thus confirming it as the dominant fuel."
+    },
+    "claim": "Natural gas was the dominant fuel used for Delaware electricity generation in 2016. ",
+    "label": true
+}

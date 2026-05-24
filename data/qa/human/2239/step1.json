@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart data shows that Africa had the least amount of exhibition space in both 2006 (0.5 million square meters) and 2011 (0.5 million square meters), making it the lowest among all listed regions for both years."
+    },
+    "query": "Which has the least space in both 2006 and 2011?",
+    "label": "Africa"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The main intent of the query is preserved, but the specific term 'Leap Rep' was translated as 'Lean Rep', which subtly alters the key entity being referenced. The change from 'in' to 'for the ... category' is a minor nuance shift."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Major' vs 'Serious', 'arguments' vs 'disputes', and 'over' vs 'about' are excellent synonyms or minor stylistic variations that do not alter the core meaning. Punctuation and grammatical changes are trivial."
+    },
+    "query": "What is the value of \"minor\" in Rep/Leap Rep?",
+    "translated_query": "Каково значение «незначительных» для категории «Респ./Склонны к респ.»?",
+    "label": "30",
+    "tranlated_label": "30"
+}

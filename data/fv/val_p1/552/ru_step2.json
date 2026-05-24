@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original. Minor differences are stylistic ('leads among' vs 'is in the lead of', 'chart' vs 'graph', 'accounts for' vs 'is') or add clarity without altering the core information (e.g., 'labeled France')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor grammatical variation ('Others' vs 'Other') and capitalization in the title, neither of which affects the meaning."
+    },
+    "claim": "france is in the lead of wikipedians, as the blue 'france' portion of the graph is more than half of the graph",
+    "translated_claim": "Франция лидирует среди википедистов, поскольку синяя часть графика, обозначенная как «Франция», составляет более половины всего графика."
+}

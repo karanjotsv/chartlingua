@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. It correctly identifies the entities being compared ('Retail and crafts' vs. 'Servants'), the nature of the comparison (one being greater than the other), and the context (Walpole, 1831). The phrasing 'higher share' is a more natural and accurate rendering of the original's awkward 'maximum score than'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most labels are translated perfectly using synonyms (e.g., 'labourers' vs. 'workers', 'Handicrafts' vs. 'crafts'). However, changing 'Professionals' to 'freelancers' slightly narrows the meaning of that category, as not all professionals are freelancers, resulting in a minor loss of accuracy."
+    },
+    "claim": "Retail and Handicrafts occupation is maximum score than Servants  in Walpole in 1831.",
+    "translated_claim": "Die Berufsgruppe 'Einzelhandel und Handwerk' hatte in Walpole im Jahr 1831 einen höheren Anteil als die 'Dienstboten'."
+}

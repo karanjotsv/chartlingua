@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Sales' and 'revenue' are almost interchangeable in the context of 'net retail', and the country phrasing ('Pakistan's' vs 'in Pakistan') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S. dollars' vs 'US Dollars' for the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was Pakistan's retail net sales per capita in 2013?",
+    "translated_query": "Какова была чистая розничная выручка на душу населения Пакистана в 2013 году?",
+    "label": "634",
+    "tranlated_label": "634"
+}

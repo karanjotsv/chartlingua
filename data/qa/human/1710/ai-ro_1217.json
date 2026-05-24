@@ -1,0 +1,75 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Vârste 18-29",
+            "30-49",
+            "50-64",
+            "65+"
+        ],
+        "series": [
+            {
+                "name": "Toți",
+                "values": [
+                    2,
+                    4,
+                    5,
+                    6
+                ],
+                "text_color": "#ffffff",
+                "legend_color": "#26645c",
+                "legend_x": 2.5
+            },
+            {
+                "name": "Majoritatea",
+                "values": [
+                    20,
+                    24,
+                    29,
+                    34
+                ],
+                "text_color": "#ffffff",
+                "legend_color": "#397a6f",
+                "legend_x": 19.5
+            },
+            {
+                "name": "Doar câțiva",
+                "values": [
+                    54,
+                    57,
+                    59,
+                    56
+                ],
+                "text_color": "#000000",
+                "legend_color": "#62bba6",
+                "legend_x": 63.5
+            },
+            {
+                "name": "Niciunul",
+                "values": [
+                    23,
+                    15,
+                    7,
+                    4
+                ],
+                "text_color": "#000000",
+                "legend_color": "#808080",
+                "legend_x": 96.5
+            }
+        ]
+    },
+    "texts": {
+        "title": "Americanii mai în vârstă sunt mai predispuși să își cunoască<br>vecinii decât cei tineri",
+        "subtitle": "% care declară că își cunosc ___ dintre vecini, în funcție de vârstă",
+        "source": "Notă: Procentul respondenților care nu au oferit un răspuns nu este afișat.<br>Sursa: Sondaj realizat pe adulți din S.U.A. în perioada 26 feb. - 11 mar. 2018.",
+        "footer": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#26645c",
+        "#397a6f",
+        "#62bba6",
+        "#c0c0c0"
+    ]
+}

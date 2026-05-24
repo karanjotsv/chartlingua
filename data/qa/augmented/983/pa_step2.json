@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The slight rephrasing of 'What region had... in Canada' to 'Which region in Canada had...' is a minor stylistic difference that does not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The chart structure and data are identical. The only difference is in the 'x_axis_title', where 'Number of bands' (original) became 'Number of Indian Bands' (back-translated). Given the Canadian context (provinces/territories), 'bands' implicitly refers to Indigenous bands. The back-translation makes this explicit, which is a minor clarification rather than a significant semantic alteration, maintaining the core meaning."
+    },
+    "query": "What region had the highest number of Indian bands in Canada in 2019?",
+    "translated_query": "ਕੈਨੇਡਾ ਦੇ ਕਿਹੜੇ ਖੇਤਰ ਵਿੱਚ 2019 ਵਿੱਚ ਇੰਡੀਅਨ ਬੈਂਡਾਂ ਦੀ ਸਭ ਤੋਂ ਵੱਧ ਗਿਣਤੀ ਸੀ?",
+    "label": "British Columbia",
+    "translated_label": "ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ"
+}

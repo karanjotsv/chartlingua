@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, text content (title, source, annotations), and color hues are accurately replicated, conveying the identical message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that red colour bars are used to represent the data, but the chart clearly uses brown bars (for '36 months') and teal bars (for '12 months'). No red bars are present in the graph."
+    },
+    "claim": "Red colour bars are used to represent the data in the given graph. ",
+    "label": false
+}

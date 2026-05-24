@@ -1,0 +1,41 @@
+{
+    "chart_type": "grouped_bar",
+    "series_names": [
+        "Male",
+        "Female"
+    ],
+    "chart_data": [
+        {
+            "category": "Current",
+            "values": [
+                17.2,
+                19.9
+            ]
+        },
+        {
+            "category": "Binge",
+            "values": [
+                10.4,
+                11.8
+            ]
+        },
+        {
+            "category": "Heavy",
+            "values": [
+                2.1,
+                2.3
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Percentage of respondents",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2176d5",
+        "#1a2c3d"
+    ]
+}

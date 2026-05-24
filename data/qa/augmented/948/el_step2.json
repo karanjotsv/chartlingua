@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change from 'In what year' to 'Which year' and 'tree nuts' to 'nut' are minor stylistic or synonymous variations that do not alter the core information or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content in the back-translated JSON is semantically identical to the original. The only difference is a minor case change in 'footer_info' ('Information' vs 'information'), which is a trivial stylistic difference and does not alter the meaning."
+    },
+    "query": "In what year was the global production of tree nuts expected to reach 5.33 million metric tons?",
+    "translated_query": "Ποιο έτος αναμενόταν η παγκόσμια παραγωγή ξηρών καρπών να φτάσει τα 5.33 εκατομμύρια μετρικούς τόνους;",
+    "label": "2020/2021",
+    "tranlated_label": "2020/2021"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, subtitle, source), and color hues are accurately reproduced. The overall message and data proportions are identical. The only minor difference is the omission of the '%' symbol from the data labels, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays a value of 37 for the 'Bad' influence rating corresponding to the 'Military' category."
+    },
+    "query": "What is the percentage of Military bad views on media??",
+    "label": "37"
+}

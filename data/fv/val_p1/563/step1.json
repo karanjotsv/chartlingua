@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent semantic match to the original. Data values, trends, title, and color hue are all consistent. The only minor difference is the range of the x-axis labels, which is a stylistic choice that does not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of deaths has reduced over time, but the chart shows a clear overall upward trend from 2012 to 2016. The value in 2016 (over 5000) is the highest in the six-year period and significantly higher than the value in 2011 (around 1500)."
+    },
+    "claim": "The number of deaths at sea for refugees and migrants has reduced over time.",
+    "label": false
+}

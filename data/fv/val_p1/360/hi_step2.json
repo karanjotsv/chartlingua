@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match. It uses synonyms ('Most' for 'The majority of') and alternative phrasing ('articles about The Simpsons' for 'The Simpsons articles') that do not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is very good. All data labels are identical. The only difference is in the title, where 'Classes' was changed to 'Categories,' which is a close synonym in this context and does not impact the understanding of the chart."
+    },
+    "claim": "The majority of The Simpsons articles on WikiProject The Simpsons are labeled as C. ",
+    "translated_claim": "विकीप्रोजेक्ट द सिम्पसन्स पर द सिम्पसन्स के अधिकांश लेखों को C के रूप में लेबल किया गया है।"
+}

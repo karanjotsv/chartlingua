@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. 'Decreased' is a direct synonym for 'went down'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The chart title and y-axis title are semantically equivalent, with only a minor stylistic difference in the title. However, the rating is lowered because a key data category label, the year '2009', was incorrectly changed to '209', which is a significant loss of accuracy for an important detail."
+    },
+    "claim": "Annual Tonnage went down from 2014 to 2015.",
+    "translated_claim": "Tonajul anual a scăzut din 2014 până în 2015."
+}

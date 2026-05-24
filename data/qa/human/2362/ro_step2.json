@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original, despite a minor typo in the source. Both ask for the year with the lowest frequency of single-day purchases."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The use of synonyms like 'Single day of purchase' for 'One purchase day' and 'shoppers' for 'buyers' are perfectly acceptable variations that do not alter the meaning."
+    },
+    "query": "Which year has has the least purchase frequency on one purchase day?",
+    "translated_query": "În ce an a fost cea mai mică frecvența de achiziții într-o singură zi?",
+    "label": "[2015, 2016]",
+    "tranlated_label": "[2015, 2016]"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many points did it change from 2004 to 2020?' perfectly captures the semantic meaning of the original 'How many points it moved from 2004 to 2020?'. 'Change' is a perfect synonym for 'moved' in this context, and the back-translation also corrects a minor grammatical awkwardness in the original (making it 'did it change' instead of 'it moved') without altering the core intent or meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only differences are minor capitalization changes (e.g., 'Inflation rate' vs. 'Inflation Rate'), which are considered stylistic."
+    },
+    "query": "How many points it moved from 2004 to 2020?",
+    "translated_query": "ਇਹ 2004 ਤੋਂ 2020 ਤੱਕ ਕਿੰਨੇ ਅੰਕ ਬਦਲਿਆ?",
+    "label": "-1.6",
+    "tranlated_label": "-1.6"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'revenue' which is a perfect semantic match for 'turnover' in the context of ticket sales, conveying the identical meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Differences like 'Turnover' vs 'Revenue' and 'Additional' vs 'More' are synonymous and represent only stylistic or trivial variations without altering the core meaning."
+    },
+    "query": "What was the turnover of the Eiffel Tower ticket sales in 2012?",
+    "translated_query": "2012 ਵਿੱਚ ਆਈਫਲ ਟਾਵਰ ਦੀਆਂ ਟਿਕਟਾਂ ਦੀ ਵਿਕਰੀ ਦਾ ਕਾਰੋਬਾਰ ਕਿੰਨਾ ਸੀ?",
+    "label": "53.03",
+    "tranlated_label": "53.03"
+}

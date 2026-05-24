@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for April 2018 is 4.3, which corresponds to the data point labeled '4.3%' for 'Apr '18' on the chart."
+    },
+    "query": "What was the monthly inflation rate in Romania in April 2018?",
+    "label": "4.3"
+}

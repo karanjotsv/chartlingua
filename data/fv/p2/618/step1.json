@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, text content, and the overall message are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that about half of the community members associate the logo with a human. According to the chart, the total number of respondents is 15 (6 for 'The movement' + 5 for 'A human' + 4 for 'I don't get it'). The number who thought of 'A human' is 5. This represents 5 out of 15, which is one-third (approximately 33%), not 'about half' (50%)."
+    },
+    "claim": "About half of the community members think Wikimedia as a human from the logo. ",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are consistent with the original. The overall message is identical. Minor differences in slice and legend order are stylistic and do not alter the interpretation.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data label '31%' overlaps with the source text '(Data from Alexander, 1937)', making the source text partially obscured and difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the Chinese population was the smallest, but the pie chart shows they represented 31% of the population, making them the second-largest group. The smallest group shown is South Pacific Islanders at 2%."
+    },
+    "claim": "In 1897, Chinese population had the smallest number in Koloa sugar plantation.",
+    "label": false
+}

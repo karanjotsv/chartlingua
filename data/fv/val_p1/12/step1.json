@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, curve shapes, relative positions, text content (axis titles, series labels), and color hues are all accurately reproduced. The overall message and trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays TTR (Transient Recovery Voltage) on the y-axis, not 'TRV capacitive current' as mentioned in the claim. Furthermore, even if we were to compare the TTR values at a time around the peak of the 50 Hz curve (which appears to be around 11-12 ms based on the scale), the value for 50 Hz (blue line, approx. 2.0 p.u.) is higher than the value for 60 Hz (red line, approx. 1.5-1.6 p.u.), which contradicts the claim that the 50 Hz value is 'less'."
+    },
+    "claim": "The TRV capacitive current is less at 12 ms Temps when the tension retablie is 50 Hz compared to it when it is 60 Hz.",
+    "label": false
+}

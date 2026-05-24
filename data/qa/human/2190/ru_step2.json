@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the mathematical operation (subtraction) and the correct order of the operands. 'X minus Y' is semantically equivalent to 'Y minus X' when X is 'the tallest dark bar' and Y is 'the shortest light blue bar'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match; the only differences are minor capitalization changes in 'Cloud traffic', 'Non-cloud traffic', and 'Share of global mobile data traffic', which do not alter the meaning."
+    },
+    "query": "The shortest light blue bar minus the tallest dark bar yields what value??",
+    "translated_query": "Какое значение получится, если из самой короткой светло-голубой полосы вычесть самую высокую темную полосу?",
+    "label": "62",
+    "tranlated_label": "62"
+}

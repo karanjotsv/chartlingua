@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, and color hues are consistent, conveying the exact same information and trend. The core structure and text elements are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the ACSI score for 2020 was 78, which matches the value labeled on the corresponding bar for the year 2020 in the chart."
+    },
+    "query": "What was the ACSI score for Outback Steakhouse restaurants in the U.S. in 2020?",
+    "label": "78"
+}

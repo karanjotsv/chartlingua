@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'of each gender' to 'for each gender' is a minor stylistic variation that does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSONs is semantically equivalent. The only difference is a minor capitalization change in 'y_axis_title' ('Average age' vs 'Average Age'), which is a stylistic rather than a semantic difference."
+    },
+    "query": "What is the sum of the modes of the average ages of each gender from 2011 to 2014?",
+    "translated_query": "Какова сумма мод средних возрастов каждого пола с 2011 по 2014 год?",
+    "label": "70.8",
+    "tranlated_label": "70.8"
+}

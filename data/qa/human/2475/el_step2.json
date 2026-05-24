@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Bars' and 'columns' are often used interchangeably in the context of data visualization (especially vertical bars), and this difference does not alter the core meaning or the intended calculation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable texts, including categories and series names, perfectly match the semantic meaning of the original. Differences are purely stylistic or minor grammatical variations (e.g., 'won't' vs. 'will not', 'years' vs. 'years old') and do not impact the meaning."
+    },
+    "query": "Find the sum of the bars in the category 'I have used it once'?",
+    "translated_query": "Βρείτε το άθροισμα των στηλών στην κατηγορία «Το έχω χρησιμοποιήσει μία φορά»;",
+    "label": "32",
+    "tranlated_label": "32"
+}

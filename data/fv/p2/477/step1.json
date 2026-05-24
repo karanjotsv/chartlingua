@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the exact same data values, categories, text content (title, labels, source), and color hues as the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the composition of state and local government tax revenue for Ohio in 2007. The claim discusses the spending of the Wikimedia Foundation in 2006. The chart contains no information about the Wikimedia Foundation, its spending, or the year 2006."
+    },
+    "claim": "The Wikimedia Foundation spent the biggest amount on internet hosting in 2006.",
+    "label": "TRUE"
+}

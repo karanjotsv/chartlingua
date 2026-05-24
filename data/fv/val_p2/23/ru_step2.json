@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the meaning of the original. 'between population of' became 'in population between', and 'is lower than' became 'is less than', both of which are semantically equivalent and represent only minor stylistic variations."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'texts' field, which contains all translatable content, is null in both the original and back-translated content. All other structural and data fields are identical."
+    },
+    "claim": "The difference between population of 1910 and 1900 is lower than the difference between 1880 and 1870.",
+    "translated_claim": "Разница между численностью населения 1910 и 1900 годов ниже, чем разница между 1880 и 1870 годами."
+}

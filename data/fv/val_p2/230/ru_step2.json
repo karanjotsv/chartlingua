@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim 'The largest share on the chart is colored yellow.' is semantically identical to the original 'The biggest share on the chart is colored in yellow.'. 'Biggest' and 'largest' are synonyms, and 'colored in yellow' versus 'colored yellow' are stylistically different but convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall chart topic, title, and numerical data are well preserved. However, several industry category labels have been altered by adding 'Manufacturing' (e.g., 'Food' to 'Food Manufacturing', 'Paper' to 'Paper Manufacturing', 'Chemicals' to 'Chemical Manufacturing'). While often related, this narrows or shifts the original meaning. Most critically, 'Hazardous Waste Management' was changed to 'Hazardous Waste Management Manufacturing', which represents a distinct semantic difference between a service/process and a manufacturing activity, indicating a loss of accuracy in describing the original industry category."
+    },
+    "claim": "The biggest share on the chart is colored in yellow.",
+    "translated_claim": "Самая большая доля на диаграмме окрашена в желтый цвет."
+}

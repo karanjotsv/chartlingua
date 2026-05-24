@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are identical. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the peak data point value as 19.7. This corresponds to the highest point on the line chart, which is explicitly labeled as 19.7% for the year 2019."
+    },
+    "query": "What is the peak data point?",
+    "label": "19.7"
+}

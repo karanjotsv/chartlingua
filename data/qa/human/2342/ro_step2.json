@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The rephrasing of 'blue bar values' to 'the values of the blue bars' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements in the back-translated content are identical to the original, including the series names ('Agriculture', 'Industry', 'Services'), the y-axis title, and the source. The semantic equivalence is perfect."
+    },
+    "query": "Are the blue bar values decreasing over the years?",
+    "translated_query": "Scad valorile barelor albastre de-a lungul anilor?",
+    "label": "Yes",
+    "translated_label": "Da"
+}

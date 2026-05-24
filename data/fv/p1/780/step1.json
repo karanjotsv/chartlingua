@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and color associations are identical. The overall message and data proportions are accurately represented.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data labels for the smaller pie slices (2.4%, 1%, and 2.3%) overlap, which makes them difficult to read clearly."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the sources of electricity generation in Connecticut for 2016. Natural gas accounts for 48.8% of the total, which is the largest single percentage shown, greater than nuclear at 45.5% and all other sources."
+    },
+    "claim": " Natural gas is the largest source of energy generation in Connecticut.",
+    "label": true
+}

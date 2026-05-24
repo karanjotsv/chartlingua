@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the original meaning. The phrase 'purple color' shortened to 'purple' does not lose meaning as purple is inherently a color. 'tallest among all' vs 'highest of all' are synonymous in this context and convey the same information about relative height. Differences are purely stylistic."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The `x` axis labels in `chart_data` are significantly distorted. Original labels like 'Wikivectors' (which appears to be a specific category or system name) are translated to 'Disliked', fundamentally changing the meaning from a type of list to a sentiment. Similarly, 'morelike' is translated to 'Preferred', which alters the initial understanding of the categories being compared. This distorts the key information presented by the chart."
+    },
+    "claim": "'Neither' is represented in purple color and it is the tallest among all.",
+    "translated_claim": "'ਦੋਵਾਂ ਵਿੱਚੋਂ ਕੋਈ ਨਹੀਂ' ਨੂੰ ਜਾਮਨੀ ਰੰਗ ਵਿੱਚ ਦਰਸਾਇਆ ਗਿਆ ਹੈ ਅਤੇ ਇਹ ਸਾਰਿਆਂ ਵਿੱਚੋਂ ਸਭ ਤੋਂ ਉੱਚਾ ਹੈ।"
+}

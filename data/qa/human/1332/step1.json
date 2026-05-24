@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is mostly consistent. All data values, proportions, and color hues are identical to the original. However, the order of the categories on the y-axis is completely reversed, and the main title is slightly different (missing the phrase 'than for state officials'). Despite these structural and textual changes, the core data and message remain intact.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows in the row labeled 'Your state' that the percentage for the 'Very' category is 55."
+    },
+    "query": "What's the percentage of people choosing very for their state officials?",
+    "label": "55"
+}

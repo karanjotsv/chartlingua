@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. It matches the data values, categories, text content (title, labels), and color hues exactly, conveying the identical message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data about methods of printing. It contains no information regarding spoken languages in Ethiopia."
+    },
+    "claim": "in this chart  English is the second wide spoken language in Ethiopia.",
+    "label": "FALSE"
+}

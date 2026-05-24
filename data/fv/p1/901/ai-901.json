@@ -1,0 +1,156 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Tension rétablie à 50 Hz",
+            "x": [
+                0,
+                0.001,
+                0.002,
+                0.003,
+                0.004,
+                0.005,
+                0.006,
+                0.007,
+                0.008,
+                0.009,
+                0.01
+            ],
+            "y": [
+                0,
+                0.15,
+                0.4,
+                0.7,
+                1.05,
+                1.4,
+                1.68,
+                1.88,
+                2.0,
+                1.98,
+                1.85
+            ],
+            "style": "solid"
+        },
+        {
+            "name": "Tension rétablie à 60 Hz",
+            "x": [
+                0,
+                0.001,
+                0.002,
+                0.003,
+                0.004,
+                0.005,
+                0.006,
+                0.007,
+                0.008,
+                0.009,
+                0.01
+            ],
+            "y": [
+                0,
+                0.25,
+                0.6,
+                1.05,
+                1.5,
+                1.8,
+                1.98,
+                2.0,
+                1.85,
+                1.55,
+                1.2
+            ],
+            "style": "dot"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Temps (s)",
+        "y_axis_title": "TTR (p.u.)",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#0000FF",
+        "#FF0000"
+    ],
+    "annotations": [
+        {
+            "text": "Tension rétablie à 60 Hz",
+            "x": 0.004,
+            "y": 1.5,
+            "xref": "x",
+            "yref": "y",
+            "showarrow": true,
+            "arrowhead": 1,
+            "ax": -80,
+            "ay": -40,
+            "font": {
+                "family": "Arial",
+                "size": 12
+            }
+        },
+        {
+            "text": "Tension rétablie à 50 Hz",
+            "x": 0.005,
+            "y": 1.4,
+            "xref": "x",
+            "yref": "y",
+            "showarrow": true,
+            "arrowhead": 1,
+            "ax": 80,
+            "ay": -20,
+            "font": {
+                "family": "Arial",
+                "size": 12
+            }
+        },
+        {
+            "text": "2 ms",
+            "x": 0.007,
+            "y": 0.5,
+            "xref": "x",
+            "yref": "y",
+            "showarrow": false,
+            "font": {
+                "family": "Arial",
+                "size": 12
+            }
+        }
+    ],
+    "shapes": [
+        {
+            "type": "line",
+            "x0": 0.006,
+            "y0": 0.4,
+            "x1": 0.008,
+            "y1": 0.4,
+            "line": {
+                "color": "black",
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 0.006,
+            "y0": 0.38,
+            "x1": 0.006,
+            "y1": 0.42,
+            "line": {
+                "color": "black",
+                "width": 1
+            }
+        },
+        {
+            "type": "line",
+            "x0": 0.008,
+            "y0": 0.38,
+            "x1": 0.008,
+            "y1": 0.42,
+            "line": {
+                "color": "black",
+                "width": 1
+            }
+        }
+    ]
+}

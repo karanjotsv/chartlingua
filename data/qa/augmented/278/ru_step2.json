@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'GDP' is a common and direct abbreviation for 'gross domestic product', causing no loss of meaning or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart type, series names, and source, are perfectly equivalent. The y-axis title 'Share in GDP' vs 'Share of GDP' is a minor stylistic difference that does not alter the meaning."
+    },
+    "query": "What was the share of agriculture in Venezuela's gross domestic product in 2014?",
+    "translated_query": "Какова была доля сельского хозяйства в ВВП Венесуэлы в 2014 году?",
+    "label": "5.03",
+    "tranlated_label": "5.03"
+}

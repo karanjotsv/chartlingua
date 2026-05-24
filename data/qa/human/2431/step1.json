@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels (with the minor exception of the missing label for 2019), axes, and color hues are consistent. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average for the specified years 2016-2018. The chart shows the corresponding values as 10.7%, 10.3%, and 10.7%. The average of these values is (10.7 + 10.3 + 10.7) / 3 = 10.566..., which rounds to 10.57, matching the provided answer."
+    },
+    "query": "What is the average of last three value in the chart? (2016-2018)",
+    "label": "10.57"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, data values, proportions, categories, and color hues are all consistent with the original. The only difference is the stylistic omission of flags on the slices, which does not change the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim fundamentally misrepresents the content of the chart. The chart's title is 'Country of birth of Armenians in Los Angeles, 1980', while the claim states it shows 'the number of files by the number of language templates on Commons from data dump on November 20 2017'."
+    },
+    "claim": "The chart shows the number of files by the number of language templates on Commons from data dump on November 20 2017.",
+    "label": "TRUE"
+}

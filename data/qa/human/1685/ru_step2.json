@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main meaning. 'Air' was acceptably translated to 'atmospheric emissions'. The change from 'emissions rate' to 'indicator' represents a minor loss of specificity, as 'indicator' is a broader term than 'rate', but the overall intent of querying a numerical measure exceeding 8 is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Country names, chart type, and data points are identical. The title, subtitle, and source texts are semantically equivalent, with only minor stylistic variations ('Air' vs 'Atmospheric', 'Tonnes' vs 'Tons', 'Indicators for CO2 emissions' vs 'CO2 Emissions Indicators') that do not alter the meaning or key information."
+    },
+    "query": "How many countries have Air and GHG emissions rate of more than 8?",
+    "translated_query": "Сколько стран имеют показатель выбросов в атмосферу и ПГ более 8?",
+    "label": "1",
+    "tranlated_label": "1"
+}

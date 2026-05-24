@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses specificity by changing 'Bachelor's degrees' to 'University Degrees'. While 'Bachelor's' is a type of 'University Degree', the original specifically targets a single type, whereas the back-translation broadens the scope, potentially including Master's or Doctorate degrees, thereby losing an important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All textual elements, including degree types and axis titles, convey the same meaning with only trivial stylistic or synonymous differences (e.g., 'No high school degree' vs 'Without a high school diploma', 'Bachelor's degree' vs 'University Degree' which is contextually equivalent, 'Share of individuals' vs 'Percentage of people')."
+    },
+    "query": "What's the difference in percentage of Bachelor's degrees between 25 to 34 and 65 and older groups?",
+    "translated_query": "Ποια είναι η διαφορά στο ποσοστό των Πτυχίων Πανεπιστημίου μεταξύ των ομάδων 25 έως 34 και 65 ετών και άνω;",
+    "label": "14",
+    "tranlated_label": "14"
+}

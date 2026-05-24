@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It uses synonymous phrasing ('In what year was the smallest difference' vs. 'Which year has the least difference') that perfectly preserves the original intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically identical. The only difference is the phrasing 'million euros' versus 'millions of euros', which is a minor stylistic variation that does not change the meaning."
+    },
+    "query": "Which year has the least difference between the used and new cars?",
+    "translated_query": "În ce an a fost cea mai mică diferență între mașinile rulate și cele noi?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

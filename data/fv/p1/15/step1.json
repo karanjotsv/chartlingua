@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are identical to the original, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart indicates that wind power accounts for only 7.6% of Montana's electricity generation. The state's primary sources are coal (50.8%) and hydro (36.2%), which contradicts the claim that Montana relies heavily on wind power."
+    },
+    "claim": "Montana relies heavily on wind power for its electricity generation.",
+    "label": false
+}

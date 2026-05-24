@@ -1,0 +1,60 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Singuratic",
+            "Deprimat",
+            "Inspirat",
+            "Conectat",
+            "Furios",
+            "Amuzat"
+        ],
+        "series": [
+            {
+                "name": "Frecvent",
+                "data": [
+                    7,
+                    13,
+                    16,
+                    21,
+                    25,
+                    44
+                ]
+            },
+            {
+                "name": "Uneori",
+                "data": [
+                    24,
+                    36,
+                    53,
+                    49,
+                    47,
+                    44
+                ]
+            }
+        ],
+        "net_values": [
+            31,
+            49,
+            69,
+            71,
+            71,
+            88
+        ]
+    },
+    "texts": {
+        "title": "Utilizatorii rețelelor sociale experimentează un amestec de emoții pozitive<br>și negative atunci când utilizează aceste platforme",
+        "subtitle": "% dintre utilizatorii rețelelor sociale care spun că ___ văd conținut pe rețelele sociale care<br>îi face să se simtă ...",
+        "source": "Notă: Respondenții care nu au dat un răspuns sau au dat alte răspunsuri nu sunt afișați.<br>Sursă: Sondaj realizat pe adulți din S.U.A. în perioada 29 mai-11 iunie 2018.<br>„Atitudini publice față de algoritmii informatici”",
+        "footer": "PEW RESEARCH CENTER",
+        "series_headers": [
+            "Frecvent",
+            "Uneori"
+        ],
+        "net_header": "NET"
+    },
+    "colors": [
+        "#204165",
+        "#599ad3"
+    ]
+}

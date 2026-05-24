@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "x": "Strongly morelike",
+            "y": 48
+        },
+        {
+            "x": "Somewhat morelike",
+            "y": 42
+        },
+        {
+            "x": "Neither",
+            "y": 26
+        },
+        {
+            "x": "Somewhat Wikivectors",
+            "y": 33
+        },
+        {
+            "x": "Strongly Wikivectors",
+            "y": 29
+        }
+    ],
+    "texts": {
+        "title": "Which list contains the article that you would be most likely to read next?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#6c5f84",
+        "#d0c4e1",
+        "#eae8d8",
+        "#a19a6c",
+        "#646044"
+    ]
+}

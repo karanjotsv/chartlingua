@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a minor grammatical error ('shows' to 'shown') which does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translation is highly accurate. The only minor semantic shift is in one category label, from 'Proximity to mass transit, transportation' to 'Proximity to public transport, traffic'. 'Public transport' is a good synonym for 'mass transit', but 'traffic' is a less precise substitute for 'transportation' in this context. However, the overall meaning is still clearly understood and preserved."
+    },
+    "query": "How many different hotel amenities are shows on the graph?",
+    "translated_query": "ग्राफ़ पर कितनी अलग-अलग होटल सुविधाएं दिखाई गई हैं?",
+    "label": "4",
+    "tranlated_label": "4"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, series, text labels, and color hues are all consistent, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is a factual statement about the visual elements of the chart. The chart's legend and the bars themselves clearly show the use of two colors: blue for 'Top read' and red for 'Trending'."
+    },
+    "claim": "There are two colors that is used in chart - blue and red.",
+    "label": "TRUE"
+}

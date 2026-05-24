@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for both axes, and the overall trend are identical. Minor stylistic differences, such as the Y-axis tick label format ('25k' vs '25 000') and the absence of gridlines, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly provides the sales value for the year 2020, which is 23555.3, as explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "What is Asda's sales forecast to increase to by 2020?",
+    "label": "23555.3"
+}

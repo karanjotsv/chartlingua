@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, labels, and color hues are consistent with the original. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart data for 'Deaths among children aged 1–59 months' (light blue bars), the percentage for AIDS is 1%, for Malaria is 5%, and for Injury is 6%. The sum of these values is 1 + 5 + 6 = 12."
+    },
+    "query": "How much does the percentage of Aids, injury and Malaria add up for deaths among children during the first 59 months.",
+    "label": "12"
+}

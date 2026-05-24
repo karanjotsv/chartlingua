@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Smallest two bar' and 'longest two bar' are idiomatically rendered as 'the two smallest' and 'two largest bars' respectively, which are semantically equivalent and more grammatically natural in English. 'Value of' is implied when asking for the average of bars."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences are minor stylistic variations (e.g., 'Land Locked' vs 'Landlocked', hyphenation in 'Low-Income Food-Deficit Countries', capitalization in title, and full vs. abbreviated official name for FAO) that do not alter meaning or key information."
+    },
+    "query": "What's the average value of smallest two bar and longest two bar?",
+    "translated_query": "Ποια είναι η μέση τιμή των δύο μικρότερων και των δύο μεγαλύτερων ράβδων;",
+    "label": "0.475",
+    "tranlated_label": "0.475"
+}

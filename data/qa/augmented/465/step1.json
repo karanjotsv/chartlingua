@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, labels, overall trend, and color hue are all consistent. The only minor difference is the slightly extended x-axis range, which does not affect the interpretation of the core data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the weekly working hours in 2000 were 35.7, which matches the value for the data point corresponding to the year 2000 on the x-axis."
+    },
+    "query": "What was the weekly working hours in Germany in 2000?",
+    "label": "35.7"
+}

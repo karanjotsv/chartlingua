@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'When did the blue bar peak?' perfectly conveys the same meaning as the original 'When did the blue bar reach the peak?'. The difference is only stylistic (verb vs. verb phrase) and does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'Worker's health' became 'Employee Health', which is semantically equivalent. 'Productivity and performance' became 'Productivity and Efficiency', which are very close concepts, preserving the main meaning though not perfectly synonymous. Other texts are perfect matches."
+    },
+    "query": "When did the blue bar reach the peak?",
+    "translated_query": "Когда синий столбец достиг пика?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

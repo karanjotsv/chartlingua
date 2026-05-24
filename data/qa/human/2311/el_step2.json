@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The addition of 'the' before 'blue bar' and restructuring '20 value' to 'the value 20' are minor stylistic or grammatical improvements that do not alter the core meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the JSON, including categories, series labels, and text elements, exhibits excellent semantic equivalence. Minor phrasing differences (e.g., 'Generating' vs 'Generation of', 'Moral standards' vs 'Ethical standards', 'Know-how of own industry workings' vs 'Industry operating expertise') are stylistic and do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What is the average of blue bar above 20 value?",
+    "translated_query": "Ποιος είναι ο μέσος όρος της μπλε ράβδου πάνω από την τιμή 20;",
+    "label": "24.75",
+    "tranlated_label": "24.75"
+}

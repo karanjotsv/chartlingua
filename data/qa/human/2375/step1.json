@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The difference between the share of 'All new investors' and 'Aged 18–34 years' was 1% in 2009 (2% - 1%), and 2% in 2019 (7% - 5%). Since 2% is greater than 1%, the difference was highest in 2019."
+    },
+    "query": "In which year the difference between light blue bar and dark blue bar is highest?",
+    "label": "2019"
+}

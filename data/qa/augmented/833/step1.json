@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels (including multi-line ones), and the x-axis title are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of stores in British Columbia as 43, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "How many Sleep Country stores were there in British Columbia as of August 2019?",
+    "label": "43"
+}

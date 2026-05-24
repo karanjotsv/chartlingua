@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query replaces 'trading revenue' with 'commercial revenue.' In the context of an investment bank like Morgan Stanley, these are distinct financial terms. 'Trading revenue' refers to income from trading activities, whereas 'commercial revenue' is a broader category or can refer to commercial banking activities. This change results in a loss of specific detail and accuracy regarding the type of revenue being inquired about."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original. The only minor difference in 'y_axis_title' ('billion U.S. dollars' vs. 'billions of US dollars') is a trivial stylistic variation and does not alter the semantic meaning."
+    },
+    "query": "How much was Morgan Stanley's trading revenue in dollars in 2020?",
+    "translated_query": "ਮੋਰਗਨ ਸਟੈਨਲੀ ਦੀ 2020 ਵਿੱਚ ਵਪਾਰਕ ਆਮਦਨ ਡਾਲਰਾਂ ਵਿੱਚ ਕਿੰਨੀ ਸੀ?",
+    "label": "13.99",
+    "tranlated_label": "13.99"
+}

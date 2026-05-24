@@ -1,0 +1,132 @@
+{
+    "texts": {
+        "title": "Regional Profile of the South West",
+        "footer_url": "www.ons.gov.uk",
+        "footer_source": "Contains data and information from Ordnance Survey,<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013",
+        "footer_logo_text": "Office for<br>National Statistics"
+    },
+    "chart_data": [
+        {
+            "section_title": "Population",
+            "type": "donut",
+            "color": "#D74A38",
+            "value": 8,
+            "label_top": "8%",
+            "label_bottom": "of the UK",
+            "note_1": "5.3 million",
+            "note_2": "mid-2012"
+        },
+        {
+            "section_title": "Median Age",
+            "type": "text_comparison",
+            "color": "#903B96",
+            "data": [
+                {
+                    "label": "South West",
+                    "value": "42.9"
+                },
+                {
+                    "label": "West Midlands",
+                    "value": "41.0"
+                },
+                {
+                    "label": "London",
+                    "value": "34.0"
+                }
+            ],
+            "unit": "years",
+            "note": "Highest in England<br>mid-2012"
+        },
+        {
+            "section_title": "Life Expectancy",
+            "type": "icon_comparison",
+            "color": "#F4942C",
+            "data": [
+                {
+                    "label": "South West",
+                    "male": 79.8,
+                    "female": 83.7
+                },
+                {
+                    "label": "North West",
+                    "male": 77.4,
+                    "female": 81.5
+                }
+            ],
+            "unit": "years",
+            "note": "Among the highest<br>in England<br>2009-2011"
+        },
+        {
+            "section_title": "Economic Output",
+            "type": "donut",
+            "color": "#93B540",
+            "value": 8,
+            "label_top": "8%",
+            "label_bottom": "of the UK",
+            "note_1": "Gross Value Added",
+            "note_2": "2011"
+        },
+        {
+            "section_title": "Unemployment",
+            "type": "bar",
+            "color": "#377DB4",
+            "data": [
+                {
+                    "category": "North<br>East",
+                    "value": 10.3,
+                    "color": "#77AEDC"
+                },
+                {
+                    "category": "South<br>East",
+                    "value": 6.0,
+                    "color": "#377DB4"
+                },
+                {
+                    "category": "South<br>West",
+                    "value": 6.0,
+                    "color": "#377DB4"
+                }
+            ],
+            "note": "Q2 2013"
+        },
+        {
+            "section_title": "Working-age population<br>with no qualifications",
+            "type": "horizontal_bar",
+            "color": "#956B52",
+            "data": [
+                {
+                    "category": "West Midlands",
+                    "value": 13.6
+                },
+                {
+                    "category": "South<br>West",
+                    "value": 7.0
+                },
+                {
+                    "category": "South<br>East",
+                    "value": 6.9
+                }
+            ],
+            "note": "2012"
+        },
+        {
+            "section_title": "Crime",
+            "type": "horizontal_bar_icon",
+            "color": "#231F20",
+            "data": [
+                {
+                    "category": "London",
+                    "value": 245,
+                    "color": "#A7A9AC"
+                },
+                {
+                    "category": "South West",
+                    "value": 176,
+                    "color": "#FFFFFF"
+                }
+            ],
+            "note_1": "Household<br>crimes per 1,000<br>households",
+            "note_2": "Lowest in England<br>2012/13"
+        }
+    ]
+}

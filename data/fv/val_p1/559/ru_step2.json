@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The phrasing 'The water level in both red containers' is a stylistic improvement over 'Both red container water level', but the core meaning is identical. 'Bar graph chart' and 'bar chart' are semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, x_axis_title, y_axis_title, source) are null in both the original and back-translated content, indicating perfect equivalence as there is no text to compare or differ."
+    },
+    "claim": "Both red container water level is below 3 in the bar graph chart.",
+    "translated_claim": "Уровень воды в обоих красных контейнерах на гистограмме ниже 3."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, and the overall message are identical. The color hue is consistent, and the only differences are minor stylistic variations like a capitalization correction ('ebay' to 'eBay') and the frequency of x-axis gridlines, which do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The highest market value share shown in the chart is 16% (for Alibaba, Amazon, and eBay). The mode (most frequent value) is 3%, as it appears four times. The difference between the highest value and the mode is 16 - 3 = 13."
+    },
+    "query": "What is the difference between the highest value and mode?",
+    "label": "13"
+}

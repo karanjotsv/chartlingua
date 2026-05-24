@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. While the '28Si' and '48Ti' series, axes, and labels are accurately reproduced, the '56Fe' series is incorrect. A data point at approximately (LET=150, Dose=200) labeled '1000 MeV/n' is missing from the '56Fe' series, resulting in an incorrect line being drawn and a misrepresentation of the trend for that data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows two data points for 28Si at an LET of approximately 50 keV/μm, with threshold doses of about 30 cGy and 100 cGy. The data point for 56Fe at an LET of 150 keV/μm has a threshold dose of 250 cGy. Both of the threshold dose values for 28Si (30 and 100 cGy) are less than the 250 cGy threshold dose for 56Fe, which supports the claim."
+    },
+    "claim": "The threshold dose for 28Si at 50 (keV/m) LET is less than than threshold dose of 56Fe at 150 (keV/m) LET.",
+    "label": "TRUE"
+}

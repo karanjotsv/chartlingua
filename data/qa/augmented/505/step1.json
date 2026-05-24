@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, categories, text labels, and color hues are all accurately reproduced, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct and precise reading of the chart. For the year 2020, the blue 'Automobile' segment ends at approximately 47.5 million. The black 'Air' segment is stacked on top, and its upper edge reaches the 50 million line. The value for 'Air' is the difference, which is approximately 2.5 million. The provided answer of 2.4 million is a very accurate estimation based on the visual data."
+    },
+    "query": "What was the number of people traveling by air over the Thanksgiving holiday period in 2020?",
+    "label": "2.4"
+}

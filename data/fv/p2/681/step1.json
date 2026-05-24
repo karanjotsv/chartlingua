@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect replication of the original. The single red line has the same position, slope, and color on the black background.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided image is an abstract graphic of a red line on a black background. It is not a data chart and contains no information, labels, or data points related to sales, market share, countries, or companies. Therefore, the claim cannot be verified or supported by the image."
+    },
+    "claim": "Bosnia and Herzegovina had a bigger share of the market compared to Serbia in sales profit of Atlantic Grupa ",
+    "label": "FALSE"
+}

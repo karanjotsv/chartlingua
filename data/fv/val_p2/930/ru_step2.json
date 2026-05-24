@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the meaning of the original. 'Tallest bar' and 'highest bar' are semantically equivalent in this context, as are 'Persons, 25+' and 'individuals aged 25+'. The slight change in preposition ('in' vs 'on') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. 'Age group' vs 'Age Group' is a minor capitalization difference, and 'Mean number' vs 'Average Number' uses a perfect synonym, preserving full meaning."
+    },
+    "claim": "The tallest bar in the chart corresponds to Persons, 25+.",
+    "translated_claim": "Самый высокий столбец на диаграмме соответствует Лицам, 25+."
+}

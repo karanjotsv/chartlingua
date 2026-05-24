@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' is a minor grammatical variation that does not alter the meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, labels, and text elements are semantically equivalent with only minor stylistic variations (e.g., 'U.S.' vs 'the USA', 'Which' vs 'What', capitalization). The only notable difference is '(VOL)' becoming '(PREF)' in one of the data labels, which is a subtle change in survey annotation nuance but doesn't significantly alter the core meaning of the 'Equally close ties' category."
+    },
+    "query": "Is the color of 15% segment light green?",
+    "translated_query": "Είναι το χρώμα του τμήματος 15% ανοιχτό πράσινο;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

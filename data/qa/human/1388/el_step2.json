@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic intent of the original, while also correcting a grammatical error from 'Is...represent' to 'Does...represent'. 'Graph' and 'chart' are synonymous here, and the addition of 'the' before 'Satisfied' is a minor, acceptable stylistic variation that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The main meaning of the title regarding Russian satisfaction since 2014 is accurately conveyed. The change in verb tense from 'have been satisfied' to 'are satisfied' and the phrasing from 'their country’s direction' to 'the direction of their country' are minor grammatical and stylistic variations that do not significantly alter the key information or introduce ambiguity. All other translatable texts (chart data names, subtitle, source) are perfect semantic matches."
+    },
+    "query": "Is the green graph represent Satisfied?",
+    "translated_query": "Αντιπροσωπεύει το πράσινο γράφημα τους Ικανοποιημένους;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

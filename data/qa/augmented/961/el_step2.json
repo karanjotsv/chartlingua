@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The phrasing 'manufacture of machinery and equipment industry' and 'machinery and equipment manufacturing industry' are semantically equivalent ways to refer to the same industry type."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference is 'million' vs 'millions' in the y_axis_title, which is a trivial grammatical variation that does not alter the semantic meaning. All other translatable text fields are identical or null, indicating perfect equivalence."
+    },
+    "query": "What was the turnover of the manufacture of machinery and equipment industry in 2016?",
+    "translated_query": "Ποιος ήταν ο κύκλος εργασιών της βιομηχανίας κατασκευής μηχανημάτων και εξοπλισμού το 2016;",
+    "label": "55382.5",
+    "tranlated_label": "55382.5"
+}

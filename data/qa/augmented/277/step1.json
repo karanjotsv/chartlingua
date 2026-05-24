@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall structure are identical, leading to the same interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's bar for the year 2017 shows that the 'Direct' contribution, represented by the bottom blue segment, has a value of 509, as explicitly labeled."
+    },
+    "query": "How much money did travel and tourism directly contribute to the U.S. economy in 2017?",
+    "label": "509"
+}

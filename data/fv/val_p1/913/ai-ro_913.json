@@ -1,0 +1,75 @@
+{
+    "chart_type": "dual_pie",
+    "chart_data": [
+        {
+            "title": "Export",
+            "subtitle": "105,849 mld. US$",
+            "labels": [
+                "Alte țări<br>31,4%",
+                "UE<br>10,7%",
+                "India<br>5%",
+                "Noua Zeelandă<br>6,5%",
+                "SUA<br>6,7%",
+                "Coreea de Sud<br>7,9%",
+                "China<br>11,6%",
+                "Japonia<br>20,4%"
+            ],
+            "values": [
+                31.4,
+                10.7,
+                5.0,
+                6.5,
+                6.7,
+                7.9,
+                11.6,
+                20.4
+            ],
+            "colors": [
+                "#D9D9F3",
+                "#0050BF",
+                "#F49191",
+                "#000000",
+                "#9A9AE8",
+                "#BFFFFF",
+                "#FF0000",
+                "#FFFFBF"
+            ]
+        },
+        {
+            "title": "Import",
+            "subtitle": "118,609 mld. US$",
+            "labels": [
+                "Alte țări<br>29,3%",
+                "Noua Zeelandă<br>3,5%",
+                "UE<br>23,2%",
+                "Singapore<br>5,6%",
+                "Japonia<br>11%",
+                "China<br>13,7%",
+                "SUA<br>13,7%"
+            ],
+            "values": [
+                29.3,
+                3.5,
+                23.2,
+                5.6,
+                11.0,
+                13.7,
+                13.7
+            ],
+            "colors": [
+                "#D9D9F3",
+                "#000000",
+                "#0050BF",
+                "#BFFFFF",
+                "#FFFFBF",
+                "#FF0000",
+                "#9A9AE8"
+            ]
+        }
+    ],
+    "texts": {
+        "main_title": null,
+        "subtitle": null,
+        "source": null
+    }
+}

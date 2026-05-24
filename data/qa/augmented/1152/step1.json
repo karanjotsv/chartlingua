@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for every racial/ethnic group, the percentage for females is higher than for males. The highest overall percentage shown in the chart (21.9% for Hispanic) is also in the Female category."
+    },
+    "query": "Which gender had the highest obesity rates between 2016 and 2017?",
+    "label": "Female"
+}

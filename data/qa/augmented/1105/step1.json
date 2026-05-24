@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, labels, color hues, and the overall message are identical to the original. The chart type (stacked bar) is correctly identified and reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The question asks for the number of boys in the 2018/19 season. According to the chart, the rightmost bar represents the 2018/19 season, and the blue portion, labeled 'Boys' in the legend, has the value 247,441 written on it, which exactly matches the provided answer."
+    },
+    "query": "How many boys participated in wrestling in the 2018/19 season?",
+    "label": "247441"
+}

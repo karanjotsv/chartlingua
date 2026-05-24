@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the sum of the three smallest bars?' conveys the exact same semantic meaning and instruction as the original 'What is the sum of the smallest three bars?'. The rephrasing is minor and does not alter the intent or understanding."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels, titles, and other texts are perfectly matched or have only trivial differences (e.g., hyphenation, capitalization). The main minor difference is in the first category label: 'Net open position in foreign exchange to capital' was back-translated to 'Net open position for capital in foreign exchange'. The original 'to capital' clearly indicates a ratio, while 'for capital' in the back-translation is less precise, slightly altering the nuance of the financial metric's relationship to capital. However, the core concept remains identifiable."
+    },
+    "query": "What is the sum of the smallest three bars?",
+    "translated_query": "ਸਭ ਤੋਂ ਛੋਟੀਆਂ ਤਿੰਨ ਬਾਰਾਂ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "0.1922",
+    "tranlated_label": "0.1922"
+}

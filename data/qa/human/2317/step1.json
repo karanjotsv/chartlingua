@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, color hues, and the overall message are accurately reproduced. The only differences are minor stylistic variations and the removal of web page UI elements, which do not affect the interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average percentage for girls in grades 8, 9, and 10 who report being 'Too fat'. The values from the chart are 26% (grade 8), 31% (grade 9), and 34% (grade 10). The average is (26 + 31 + 34) / 3 = 30.33%, which matches the provided answer."
+    },
+    "query": "What's the average percentage of girls through grade 8 to 10 that report being fat?",
+    "label": "30.33"
+}

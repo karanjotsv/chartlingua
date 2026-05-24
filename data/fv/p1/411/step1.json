@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data points, trend, axis labels, titles, and color of the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim references the year 1980, but the chart's x-axis only displays data for the period between 1890 and 1950. Therefore, the information required to verify the claim is not present in the chart."
+    },
+    "claim": "In the year of 1940 less distance of kilometers are used in the Annual Change in Track Volume 1980-1945.",
+    "label": true
+}

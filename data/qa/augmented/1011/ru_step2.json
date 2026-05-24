@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. The phrasing 'Turkey's road freight transport volume' versus 'the volume of road freight transport in Turkey' is a stylistic variation without any semantic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text in the back-translated JSON is semantically equivalent to the original. The only text, 'y_axis_title', maintains its meaning with only minor stylistic variations ('Transport volume' vs 'Volume of transportation', 'million' vs 'millions of', 'tonne' vs 'ton') that do not alter the core information."
+    },
+    "query": "What was Turkey's road freight transport volume in 2019?",
+    "translated_query": "Каков был объем грузовых автоперевозок Турции в 2019 году?",
+    "label": "267579",
+    "tranlated_label": "267579"
+}

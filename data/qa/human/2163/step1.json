@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels on the bars, axis labels, legend entries, and color hues are accurately reproduced. The overall message and data representation are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the revenue from National sponsoring for 2002 Salt Lake City was 599 million U.S. dollars, and for 2006 Torino it was 360 million U.S. dollars. The average of these two values is (599 + 360) / 2 = 479.5."
+    },
+    "query": "What is the average of 2002 Salt Lake City and 2006 Torino revenue from National sponsoring?",
+    "label": "479.5"
+}

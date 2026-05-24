@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of the definite article 'the' before 'bars' does not alter the meaning or intent of the query, making it a stylistic or trivial difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'dealers' vs 'distributors', 'share' vs 'percentage', and 'mono-brand' vs 'of a single brand' are stylistic or synonymous and do not alter the meaning. 'Brick and mortar' is accurately rendered as 'physical'."
+    },
+    "query": "What is the average of all the bars ?",
+    "translated_query": "Ποιος είναι ο μέσος όρος όλων των ράβδων;",
+    "label": "42.25",
+    "tranlated_label": "42.25"
+}

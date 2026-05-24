@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data categories, values, and their visual proportions. The color hues for each category are also consistent with the original. The addition of a title is an enhancement, not a discrepancy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays the percentage share of different religions, with Hindu accounting for 57.01%, which is the largest share among all the categories shown, making it the dominant religion in this population."
+    },
+    "claim": "according to the data, Hindu is the dominant religion in the population.",
+    "label": true
+}

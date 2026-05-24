@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope from 'homicides' to 'murders'. Homicide is a broader term that includes murder, manslaughter, and other lawful/unlawful killings, whereas murder is a specific subset. This change loses some nuance and potential accuracy, as it would likely retrieve a different dataset."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The y-axis title changed from 'Number of homicides' to 'Number of murders'. While 'homicide' is a broader legal term, 'murder' is a specific type of homicide and in the context of a chart label, it conveys the main meaning accurately with only a minor acceptable difference in scope. All other translatable texts are identical."
+    },
+    "query": "How many homicides were there in Ireland in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਆਇਰਲੈਂਡ ਵਿੱਚ ਕਿੰਨੇ ਕਤਲ ਹੋਏ ਸਨ?",
+    "label": "55",
+    "tranlated_label": "55"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The semantic meaning is perfectly preserved. '890 in millions' and '890 million' convey the identical value and concept, with the latter being a more common phrasing. The difference is purely stylistic and trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements (title, axis labels, source note) in the back-translated JSON perfectly retain the semantic meaning of the original. Differences are minor stylistic choices or capitalization (e.g., 'New York Giants estimated value' vs. 'Estimated Value of the New York Giants', 'Estimated value' vs. 'Estimated Value')."
+    },
+    "claim": "The highest estimated value is 890 in millions.",
+    "translated_claim": "Наивысшая оценочная стоимость составляет 890 миллионов."
+}

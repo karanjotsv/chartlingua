@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly retains the original meaning. 'Graph' and 'chart' are synonymous in this context, and 'represented by' vs 'presented in' convey the same information about where the value is found. The tense difference ('is decreasing' vs 'decreases') does not change the core message of the trend over time."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (x_axis_title and y_axis_title, and all null fields) in the back-translated content are an exact match to the original content, demonstrating perfect semantic equivalence."
+    },
+    "claim": "The value represented by the graph is decreasing over time.",
+    "translated_claim": "Значение, представленное на графике, уменьшается с течением времени."
+}

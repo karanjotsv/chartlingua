@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The phrasing 'Norway's road freight transport volume' is semantically equivalent to 'the volume of road freight transport in Norway'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only textual difference is 'million' vs 'millions of' in the y-axis title, which is a minor stylistic variation and does not alter the semantic meaning of the unit."
+    },
+    "query": "What was Norway's road freight transport volume in 2019?",
+    "translated_query": "Каков был объем автомобильных грузоперевозок в Норвегии в 2019 году?",
+    "label": "20526",
+    "tranlated_label": "20526"
+}

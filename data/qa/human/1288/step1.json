@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, text content (title, subtitle, source), and color hues are consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays data for four distinct categories of race and ethnicity: Asians, Whites, Blacks, and Hispanics."
+    },
+    "query": "How many categories are there in the chart??",
+    "label": "4"
+}

@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Male",
+            "x": [
+                "DOMESTIC<br>OFFICES OR<br>SERVICES",
+                "COMMERCIAL<br>OCCUPATIONS",
+                "AGRICULTURE",
+                "WORKING AND<br>DEALING IN<br>FOOD AND<br>LODGING",
+                "NO SPECIFIED<br>OCCUPATION",
+                "UNKNOWN<br>OCCUPATION"
+            ],
+            "y": [
+                0,
+                0,
+                40,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Female",
+            "x": [
+                "DOMESTIC<br>OFFICES OR<br>SERVICES",
+                "COMMERCIAL<br>OCCUPATIONS",
+                "AGRICULTURE",
+                "WORKING AND<br>DEALING IN<br>FOOD AND<br>LODGING",
+                "NO SPECIFIED<br>OCCUPATION",
+                "UNKNOWN<br>OCCUPATION"
+            ],
+            "y": [
+                4,
+                1,
+                0,
+                1,
+                13,
+                21
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5482C4",
+        "#C0504D"
+    ]
+}

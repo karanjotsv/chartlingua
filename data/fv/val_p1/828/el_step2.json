@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning. 'Is about' and 'concerns' are synonymous, as are 'expenses' and 'expenditures' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The label 'Debt service appropriations' became 'Debt service allocations', which is a minor semantic shift (from formal legislative act to general distribution), but the core meaning of money set aside for debt service is maintained. 'Debt service on interests' was rephrased to 'Interest on debt service', which preserves and potentially clarifies the meaning."
+    },
+    "claim": "The chart is about Brazil's budget expenses in 2021.",
+    "translated_claim": "Το γράφημα αφορά τα έξοδα του προϋπολογισμού της Βραζιλίας το 2021."
+}

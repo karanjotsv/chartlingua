@@ -1,0 +1,108 @@
+{
+    "chart_type": "scatter",
+    "chart_data": [
+        {
+            "name": "⁵⁶Fe",
+            "x": [
+                148,
+                182
+            ],
+            "y": [
+                250,
+                50
+            ],
+            "mode": "lines+markers",
+            "marker_symbol": "circle-open",
+            "line_style": "solid"
+        },
+        {
+            "name": "²⁸Si",
+            "x": [
+                48,
+                52
+            ],
+            "y": [
+                100,
+                30
+            ],
+            "mode": "lines+markers",
+            "marker_symbol": "diamond",
+            "line_style": "dash"
+        },
+        {
+            "name": "⁴⁸Ti",
+            "x": [
+                108
+            ],
+            "y": [
+                25
+            ],
+            "mode": "markers",
+            "marker_symbol": "square-open"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "x_axis_title": "ਐਲਈਟੀ (keV/µm)",
+        "y_axis_title": "ਥ੍ਰੈਸ਼ਹੋਲਡ ਖੁਰਾਕ (cGy)",
+        "source": null,
+        "annotations": [
+            {
+                "x": 148,
+                "y": 250,
+                "text": "5000MeV/n",
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "xshift": 5,
+                "yshift": 5
+            },
+            {
+                "x": 158,
+                "y": 190,
+                "text": "1000MeV/n",
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 5
+            },
+            {
+                "x": 182,
+                "y": 50,
+                "text": "600 MeV/n",
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "xshift": 5,
+                "yshift": 5
+            },
+            {
+                "x": 48,
+                "y": 100,
+                "text": "1000 MeV/n",
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 5
+            },
+            {
+                "x": 52,
+                "y": 30,
+                "text": "600 MeV/n",
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "xshift": 5,
+                "yshift": 5
+            },
+            {
+                "x": 108,
+                "y": 25,
+                "text": "1100 MeV/n",
+                "xanchor": "left",
+                "yanchor": "middle",
+                "xshift": 5
+            }
+        ]
+    },
+    "colors": [
+        "#000000",
+        "#000000",
+        "#000000"
+    ]
+}

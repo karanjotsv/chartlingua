@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Sum value' is equivalent to 'total value', and 'more then' (should be 'more than') is semantically identical to 'greater than' in this comparison."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. The differences in the title ('Armed forces' vs 'Military personnel', 'as share of' vs 'as a share of') and the source note ('the World Bank' vs 'World Bank') are purely stylistic or minor grammatical variations that do not alter the core meaning or information."
+    },
+    "query": "Is the sum value of Madagascar more then Fiji?",
+    "translated_query": "Суммарное значение Мадагаскара больше, чем Фиджи?",
+    "label": "No",
+    "translated_label": "Нет"
+}

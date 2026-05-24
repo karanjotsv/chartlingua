@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is a completely malformed and unreadable jumble of overlapping text and graphical elements. While some text from the original is present, the chart structure, data representation, and overall message are entirely lost.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe text and element overlap, rendering it completely illegible. Titles, labels, data points, and the legend are all superimposed on one another, resulting in a nonsensical and malformed visualization."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart lists both 'scoping issue' and licensing-related reasons like 'non free' and 'no permission' for file deletions. However, the visualization lacks a numerical axis, bar lengths, or any other clear quantitative indicator to compare the proportions of these different reasons. Therefore, it is impossible to determine from the chart whether fewer files were deleted for one reason than the other."
+    },
+    "claim": "Less Wikimedia Commons files were deleted due to licensing issues than scoping issues in 2017.",
+    "label": false
+}

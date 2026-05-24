@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original's data. All bar heights, their positions on the x-axis, and the overall distribution are semantically identical. The color hue is consistent. The rendered chart adds a title and subtitle which provide context but do not alter the underlying data.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart's title text is clipped on the right side, making the sentence incomplete."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the year the killings were recorded is 2019, but the title of the bar graph explicitly says the data is from 'in the US in 2015'."
+    },
+    "claim": "The year that the killings were recorded is 2019. ",
+    "label": false
+}

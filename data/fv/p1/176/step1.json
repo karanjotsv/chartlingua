@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, percentages, labels, color hues, and the overall structure, including the exploded slice, are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays sales for 'Adult Non-Fiction: Trade' as 87.1 and for 'Children's, Young Adult & Educational' as 63.4. As the value for the non-fiction category (87.1) is greater than the value for the category that includes children's books (63.4), the data supports the claim that non-fiction book sales exceeded children's book sales."
+    },
+    "claim": "The sales of non-fiction books exceeded the sales of children's books in the UK in 2008.",
+    "label": false
+}

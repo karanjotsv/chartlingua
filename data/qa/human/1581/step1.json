@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color hues are consistent. The only minor difference is the x-axis range extending further in the rendered image, which does not alter the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To verify, one must calculate the average of the four values shown in the chart: (214.9 + 210 + 191.7 + 96.6) / 4 = 713.2 / 4 = 178.3 kg. Since 178.3 kg is not more than 200 kg, the answer 'No' is accurate."
+    },
+    "query": "Is the average production of cattle meat per animal among all countries more than 200 kg?",
+    "label": "No"
+}

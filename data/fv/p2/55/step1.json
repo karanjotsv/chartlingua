@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, subtitles, and source information are identical. The color hue and overall message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart is a bar chart with the bars arranged in descending order of height. The first bar on the left, 'Solar', has the highest value of 97, and the last bar on the right, 'Nuclear', has the lowest value of 38. This directly supports the claim."
+    },
+    "claim": "The chart stars with the highest number and ends with the lowest number.",
+    "label": "TRUE"
+}

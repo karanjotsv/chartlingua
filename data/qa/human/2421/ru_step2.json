@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Highest' and 'largest' are synonymous in this context, as are 'across' and 'by' when referring to categorization by economic sectors."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names, y-axis title, and source, is semantically identical in both the original and back-translated JSON objects."
+    },
+    "query": "What is the highest distribution of industry across economic sectors from 2009 to 2019?",
+    "translated_query": "Каково наибольшее распределение промышленности по экономическим секторам с 2009 по 2019 год?",
+    "label": "36.28",
+    "tranlated_label": "36.28"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the title, data values, proportions, categories, and color hues from the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that coal is the second largest source of electricity generation, but the chart shows it is the third largest at 25.3%. The second largest source is natural gas at 31.6%."
+    },
+    "claim": "Coal is the second largest source of electricity generation in Pennsylvania.",
+    "label": "FALSE"
+}

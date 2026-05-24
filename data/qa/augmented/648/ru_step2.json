@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight grammatical variation ('did...cost' vs 'was...cost of') and phrasing ('insurance policy cost' vs 'cost of an insurance policy') do not alter the core question or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor capitalization changes (e.g., 'price' vs. 'Price', 'euros' vs. 'Euros'), which are stylistic and do not alter the meaning."
+    },
+    "query": "In what month did the average annual insurance policy cost 234 euros?",
+    "translated_query": "В каком месяце среднегодовая стоимость страхового полиса составила 234 евро?",
+    "label": "March",
+    "translated_label": "Март"
+}

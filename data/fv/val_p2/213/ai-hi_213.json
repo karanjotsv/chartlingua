@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "भूमि क्षेत्रफल वर्ग फुट<br>(LE)",
+            "value": 5000,
+            "annotation_y": 2500
+        },
+        {
+            "category": "ग्राउंड फ्लोर<br>भवन पदचिह्न<br>क्षेत्रफल (FPA)",
+            "value": 3750,
+            "annotation_y": 2000
+        },
+        {
+            "category": "LE - FPA (मान लें 'E')",
+            "value": 1250,
+            "annotation_y": 750
+        },
+        {
+            "category": "FPA का 50%",
+            "value": 1875,
+            "annotation_y": 1250
+        },
+        {
+            "category": "भूमि FPA+1250<br>FPA के 50% तक<br>जोड़ा जा सकता है",
+            "value": 5000,
+            "annotation_y": 2500
+        }
+    ],
+    "texts": {
+        "title": "भूमि मूल्य का मूल्यांकन",
+        "subtitle": "ग्राफिक्स: ए. एम. इब्राहिम",
+        "x_axis_title": null,
+        "y_axis_title": "वर्ग फुट",
+        "source": null
+    },
+    "colors": [
+        "#9b9bff"
+    ]
+}

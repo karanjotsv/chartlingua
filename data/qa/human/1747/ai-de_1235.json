@@ -1,0 +1,73 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Indonesien",
+            "values": [
+                27,
+                48
+            ],
+            "labels": [
+                "27%",
+                "48%"
+            ],
+            "total_label": "75%"
+        },
+        {
+            "category": "Kenia",
+            "values": [
+                30,
+                38
+            ],
+            "labels": [
+                "30",
+                "38"
+            ],
+            "total_label": "68"
+        },
+        {
+            "category": "Mexiko",
+            "values": [
+                30,
+                33
+            ],
+            "labels": [
+                "30",
+                "33"
+            ],
+            "total_label": "63"
+        },
+        {
+            "category": "Indien",
+            "values": [
+                23,
+                37
+            ],
+            "labels": [
+                "23",
+                "37"
+            ],
+            "total_label": "60"
+        }
+    ],
+    "texts": {
+        "title": "Mehrheiten glauben, dass Menschenrechtsorganisationen<br>die Entwicklung in ihren Ländern beeinflussen",
+        "subtitle": "<i>Menschenrechtsorganisationen haben __ Einfluss auf die Entwicklung<br>in unserem Land</i>",
+        "source": "Quelle: Frühjahr 2017 Global Attitudes Survey. Q97.<br><b>PEW RESEARCH CENTER</b>",
+        "series_names": [
+            "Sehr viel",
+            "Ziemlich viel"
+        ],
+        "total_header": "<u>Gesamt</u>"
+    },
+    "colors": {
+        "series": [
+            "#8F9A54",
+            "#D5D3C2"
+        ],
+        "text_on_bar": [
+            "white",
+            "black"
+        ]
+    }
+}

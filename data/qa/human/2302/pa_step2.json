@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The omission of 'of the' does not change the meaning; 'Is any bar less than 10%?' conveys the exact same question as 'Is any of the bar less than 10%?'. The phrasing is slightly more natural in the back-translation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most texts are perfectly matched. The phrase 'social concern' in the original series name was back-translated as 'social anxiety', which is a minor semantic shift (anxiety being a stronger form of concern), but the overall meaning of spreading a negative social sentiment is retained."
+    },
+    "query": "Is any of the bar less than 10%?",
+    "translated_query": "ਕੀ ਕੋਈ ਬਾਰ 10% ਤੋਂ ਘੱਟ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

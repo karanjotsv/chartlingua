@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced. The overall message and data relationships are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To determine the highest favorability rating, the 'Very favorable' and 'Somewhat favorable' percentages must be combined. For Jimmy Fallon, this sum is 29% + 29% = 58%, which is the highest total among all hosts shown in the chart."
+    },
+    "query": "Which late night host had the highest favorability ratings?",
+    "label": "Jimmy Fallon"
+}

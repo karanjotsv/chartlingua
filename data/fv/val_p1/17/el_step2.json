@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The core meaning of identifying the year with the most OSM activity is preserved. The back-translation changes 'changesets' to 'changes', which is a slightly less specific term in the OSM context, but it does not significantly alter the overall query's intent of finding the year with the highest volume of updates. The original's spelling error ('occured') is corrected in the back-translation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The term 'Changesets' was translated to 'Changes'. While 'Changesets' often implies a more specific, grouped unit of change (e.g., in version control), 'Changes' still accurately conveys the general meaning of modifications or updates per year. The main meaning and most key information are preserved, with only a minor loss of specificity, which is an acceptable difference."
+    },
+    "claim": "The largest amount of OSM changesets occured in the year of 2013.",
+    "translated_claim": "Το μεγαλύτερο πλήθος αλλαγών του OSM σημειώθηκε το έτος 2013."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and their relative proportions are identical to the original. The color hues for each category are also consistent, preserving the visual grouping of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the 'average cost of damages' and states that it is 'increasing'. The provided pie chart only shows the percentage distribution of different causes of damage at a single point in time. It contains no information about monetary costs or any trends over time."
+    },
+    "claim": "The average cost of damages in electronic devices is increasing.",
+    "label": "TRUE"
+}

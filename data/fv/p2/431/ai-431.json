@@ -1,0 +1,96 @@
+{
+    "chart_data": {
+        "categories": [
+            "South Korea",
+            "France",
+            "Italy",
+            "Israel",
+            "U.K.",
+            "Spain",
+            "Belgium",
+            "Poland",
+            "Netherlands",
+            "Sweden",
+            "Germany",
+            "Canada",
+            "Australia",
+            "U.S."
+        ],
+        "series": [
+            {
+                "name": "Political right",
+                "data": [
+                    78,
+                    74,
+                    73,
+                    38,
+                    68,
+                    71,
+                    71,
+                    67,
+                    67,
+                    62,
+                    60,
+                    52,
+                    51,
+                    23
+                ]
+            },
+            {
+                "name": "Political center",
+                "data": [
+                    83,
+                    82,
+                    81,
+                    55,
+                    80,
+                    80,
+                    80,
+                    79,
+                    80,
+                    76,
+                    75,
+                    74,
+                    72,
+                    68
+                ]
+            },
+            {
+                "name": "Political left",
+                "data": [
+                    86,
+                    87,
+                    88,
+                    59,
+                    86,
+                    85,
+                    86,
+                    82,
+                    86,
+                    84,
+                    82,
+                    81,
+                    88,
+                    84
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Political disagreement about whether<br>\"Climate change is a major threat\"",
+        "y_axis_title": "▲<br>Wider disagreement",
+        "legend_items": [
+            "▲ Political right",
+            "Political center",
+            "Political left ▲"
+        ]
+    },
+    "colors": {
+        "series": [
+            "#b23a3a",
+            "#808080",
+            "#3a9278"
+        ],
+        "range_bar": "#E0E0E0"
+    }
+}

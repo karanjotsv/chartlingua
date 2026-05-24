@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has severe semantic errors. It omits the 'Civilians' category from the Palestinian data group on the x-axis. It incorrectly visualizes the Israeli 'Civilians' bar as a stacked bar that nonsensically combines Israeli and Palestinian data. Furthermore, the main title text 'Second Intifada deaths. Sept. 29, 2000 through' is missing.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed. One bar, which should represent a single data point, is incorrectly rendered as a stacked bar. Additionally, the first and most important line of the chart title is completely missing (clipped)."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the number of deaths for Israelis and Palestinians during the Second Intifada, with breakdowns into categories like 'Civilians' and 'Combatants'. However, the chart does not provide any information about the cause of these deaths or mention 'Israeli settlements' at all."
+    },
+    "claim": "The chart includes the number of deaths caused by Israeli settlements.",
+    "label": false
+}

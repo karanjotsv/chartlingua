@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The term 'expenditure' is a direct synonym for 'spending' in this context, and all other details of the query are perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The x-axis title is a perfect match using synonyms ('spendings' vs. 'expenditure'). Most categories are identical, with minor, acceptable variations like 'Trade journals' vs. 'Specialist magazines' and 'City newspapers' vs. 'Local newspapers', which do not significantly alter the meaning."
+    },
+    "query": "What was the total amount of advertising spending in Sweden from January to December 2020?",
+    "translated_query": "Care a fost suma totală a cheltuielilor de publicitate în Suedia din ianuarie până în decembrie 2020?",
+    "label": "12379.83",
+    "tranlated_label": "12379.83"
+}

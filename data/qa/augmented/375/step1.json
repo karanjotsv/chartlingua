@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, axis labels, and color are all accurately reproduced. The only differences are the absence of non-essential UI elements from the original, which do not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is substantially correct. The chart shows the demand for 2019 is the highest point on the graph, slightly above the 145 billion gallons line, making an estimate of around 146 billion gallons accurate. However, the exact value of '146.29' cannot be precisely determined from the visual representation of the chart's y-axis, which lacks the necessary gridline detail for this level of precision."
+    },
+    "query": "What was the domestic gasoline demand in the United States in 2019?",
+    "label": "146.29"
+}

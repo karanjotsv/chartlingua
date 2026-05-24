@@ -1,0 +1,48 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "Emissionen",
+            "y": [
+                526.3
+            ],
+            "text": "526.3",
+            "text_color": "#FFFFFF",
+            "error_y": {
+                "plus": [
+                    49
+                ],
+                "minus": [
+                    0
+                ]
+            }
+        },
+        {
+            "name": "Absorption durch LULUCF",
+            "y": [
+                -99.9
+            ],
+            "text": "-99.9",
+            "text_color": "#000000",
+            "error_y": {
+                "plus": [
+                    50
+                ],
+                "minus": [
+                    50
+                ]
+            }
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Treibhausgasemissionen und -absorption im Jahr 2017",
+        "y_axis_title": "Mt",
+        "source": null
+    },
+    "colors": [
+        "#aaaaaa",
+        "#66a84f"
+    ]
+}

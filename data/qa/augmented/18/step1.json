@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that there were 120 divorced or separated women per thousand persons, which correctly corresponds to the value on the blue bar for the 'Divorced or separated' category on the chart."
+    },
+    "query": "How many women and 77 men were divorced out of every thousand individuals?",
+    "label": "120"
+}

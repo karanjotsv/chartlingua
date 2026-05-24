@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, subtitles, data source), and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart does not include a legend or labels to identify which slice corresponds to which occupation. Therefore, it is impossible to determine the number of 'sales/office workers' or 'Service workers' to verify the comparison made in the claim."
+    },
+    "claim": "In 2000 the number of sales/office workers in this area was greater than the number of Service workers",
+    "label": "TRUE"
+}

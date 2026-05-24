@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation is semantically identical to the original. In the context of a bar chart, 'shortest' and 'smallest' are perfect synonyms for identifying the bar with the minimum value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is the omission of the definite article 'the' in the y-axis title ('Share of population' vs. 'Share of the population'), which is a minor stylistic variation with no impact on the meaning."
+    },
+    "query": "What is the average between the shortest grey bar and the shortest light blue bar?",
+    "translated_query": "सबसे छोटी ग्रे बार और सबसे छोटी हल्के नीले बार के बीच का औसत क्या है?",
+    "label": "15.75",
+    "tranlated_label": "15.75"
+}

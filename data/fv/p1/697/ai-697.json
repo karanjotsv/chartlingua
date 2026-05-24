@@ -1,0 +1,53 @@
+{
+    "chart_type": "bar_water_container",
+    "chart_data": {
+        "x": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "y": [
+            1,
+            8,
+            6,
+            2,
+            5,
+            4,
+            8,
+            3,
+            7
+        ]
+    },
+    "water_area": {
+        "start_bar_index": 1,
+        "end_bar_index": 8,
+        "y_level": 7,
+        "color": "#a4d0f0"
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bars": [
+            "#000000",
+            "#FF0000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#FF0000"
+        ]
+    }
+}

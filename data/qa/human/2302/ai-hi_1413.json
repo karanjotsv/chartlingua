@@ -1,0 +1,44 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": {
+        "categories": [
+            "पुरुष",
+            "महिलाएं"
+        ],
+        "series": [
+            {
+                "name": "बहुत ज़्यादा, वे सामाजिक चिंता फैला रहे हैं",
+                "values": [
+                    56,
+                    48
+                ]
+            },
+            {
+                "name": "इस संदर्भ में, उचित व्यवहार",
+                "values": [
+                    33,
+                    37
+                ]
+            },
+            {
+                "name": "वे स्थिति को कम आंक रहे हैं",
+                "values": [
+                    11,
+                    15
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "उत्तरदाताओं का हिस्सा",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#297ACC",
+        "#14354D",
+        "#B2B2B2"
+    ]
+}

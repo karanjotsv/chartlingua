@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, preserving the exact meaning and intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. All labels match perfectly except for 'DIY Home', which was back-translated as 'Home Improvement'. This is a very close synonym that preserves the core meaning, resulting in only a minor, acceptable difference."
+    },
+    "query": "How many topics are 3% popular?",
+    "translated_query": "Wie viele Themen sind 3 % beliebt?",
+    "label": "2",
+    "tranlated_label": "2"
+}

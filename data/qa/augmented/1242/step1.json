@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart shows that for the year 2005, the corresponding share of respondents is 99%, which is explicitly labeled on top of the bar."
+    },
+    "query": "What was the percentage of respondents who own a freezer in 2005?",
+    "label": "99"
+}

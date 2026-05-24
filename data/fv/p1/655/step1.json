@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall title are identical to the original. The proportions of the pie slices are also accurately represented.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows multiple versions of the Windows operating system. Summing their percentages (Windows 7: 37.94%, Windows XP: 23.40%, Windows Vista: 7.67%, Other Windows: 1.44%) gives a total of 70.45%, which constitutes a clear majority and is significantly larger than any other operating system family represented in the chart."
+    },
+    "claim": "Windows is the wide used operating system on Wikimedia.",
+    "label": true
+}

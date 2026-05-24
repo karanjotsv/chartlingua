@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The core terms 'conscription' and 'no conscription' were incorrectly translated to 'enlistment' and 'non-enlistment'. This changes the subject from compulsory military service to voluntary military service, significantly distorting the meaning and the entities being compared."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated labels 'Enlistment' and 'Non-enlistment' are semantically incorrect replacements for 'Conscription' and 'No conscription'. Conscription refers to compulsory military service, while enlistment refers to voluntary service, which fundamentally distorts the meaning of the chart's categories. The title also changed from 'Countries Statistics' to 'Country Statistics', a minor grammatical error, but the primary data labels represent a significant loss of accuracy."
+    },
+    "claim": "No conscription makes up a larger portion of the graph than conscription.",
+    "translated_claim": "Η μη στράτευση αποτελεί μεγαλύτερο μέρος του γραφήματος από τη στράτευση."
+}

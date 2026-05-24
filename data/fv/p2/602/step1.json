@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, their order, and the monochromatic color scheme are identical. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data represents the 'usage of CSCS supercomputers in 2011', but the chart itself provides no information about what the percentages represent or the year the data was collected. Therefore, this context is an unverified assumption."
+    },
+    "claim": "The field of chemistry had the high usage of CSCS supercomputers in 2011.",
+    "label": "TRUE"
+}

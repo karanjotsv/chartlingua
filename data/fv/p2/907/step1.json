@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an almost perfect semantic match to the original. All data values, labels, titles, axes, and color hues are consistent. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the least number of files belongs to templates with 4 languages. The chart explicitly labels the number of files for the '4 languages' category as 103,107, which is the lowest value among all the categories presented."
+    },
+    "claim": "The least number of files belongs to templates with 4 number of languages.",
+    "label": "TRUE"
+}

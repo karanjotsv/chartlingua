@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Männlich",
+            "x": [
+                "HAUSHALT<br>ODER<br>DIENSTLEISTUNGEN",
+                "GEWERBLICHE<br>BERUFE",
+                "LANDWIRTSCHAFT",
+                "GASTGEWERBE<br>UND<br>LEBENSMITTEL",
+                "OHNE<br>BERUFSANGABE",
+                "UNBEKANNTER<br>BERUF"
+            ],
+            "y": [
+                0,
+                0,
+                40,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Weiblich",
+            "x": [
+                "HAUSHALT<br>ODER<br>DIENSTLEISTUNGEN",
+                "GEWERBLICHE<br>BERUFE",
+                "LANDWIRTSCHAFT",
+                "GASTGEWERBE<br>UND<br>LEBENSMITTEL",
+                "OHNE<br>BERUFSANGABE",
+                "UNBEKANNTER<br>BERUF"
+            ],
+            "y": [
+                4,
+                1,
+                0,
+                1,
+                13,
+                21
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5482C4",
+        "#C0504D"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the chart type, data values, axis labels, title, and the overall trend of the data. All key informational elements are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states an absolute 'count' of arrests, but the chart's y-axis clearly indicates the data is a rate of 'Number arrested (per 100,000)'. Additionally, the chart does not provide any information about the year, so the reference to '2014' cannot be verified."
+    },
+    "claim": "At the age of 18 males arrested for burglary above 400 count in USA 2014.",
+    "label": true
+}

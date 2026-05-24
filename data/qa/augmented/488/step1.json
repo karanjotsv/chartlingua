@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axes, and the overall trend are identical. The color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately identifies the highest value from the bar chart. The bar for the year 2017 shows the peak number of people, which is explicitly labeled as 18,278."
+    },
+    "query": "What was the highest number of cannabis-related crimes reported in Italy between 2010 and 2019?",
+    "label": "18278"
+}

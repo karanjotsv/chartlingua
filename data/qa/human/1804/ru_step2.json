@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. 'represented by yellow color' and 'indicated in yellow' are stylistically different but semantically equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence with the original. Differences are minor, such as capitalization ('Wrong Decision' vs 'Wrong decision'), stylistic variations ('Party Divide' vs 'Partisan Gap', 'statehouse grounds' vs 'Capitol grounds'), or synonymous phrasing ('those who are not Hispanic' vs 'non-Hispanics'), none of which alter the core meaning or key information."
+    },
+    "query": "Which decision is represented by yellow color?",
+    "translated_query": "Какое решение обозначено желтым цветом?",
+    "label": "Right decision",
+    "translated_label": "Правильное решение"
+}

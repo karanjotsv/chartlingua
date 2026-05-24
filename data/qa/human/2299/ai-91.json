@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Anorexia nervosa*",
+            "Bulimia Nervosa",
+            "One of more eating disorders"
+        ],
+        "series": [
+            {
+                "name": "Male",
+                "data": [
+                    null,
+                    0.1,
+                    0.1
+                ]
+            },
+            {
+                "name": "Female",
+                "data": [
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Percentage of adults",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2693FF",
+        "#102C44"
+    ]
+}

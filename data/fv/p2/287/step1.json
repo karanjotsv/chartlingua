@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent semantic match. All data values, proportions, labels, and color hues are accurately reproduced from the original. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the percentage of unidentified bacteria is 5%, but the pie chart clearly labels the 'Unidentified' slice as 14%."
+    },
+    "claim": "The percentage of unidentified bacteria in the chart is equal to 5%",
+    "label": "FALSE"
+}

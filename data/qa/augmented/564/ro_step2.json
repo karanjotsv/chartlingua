@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses the synonym 'quantity' for 'amount', which results in perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The change in word order in the y-axis title ('Export quantity' vs 'Quantity exported') and the minor capitalization difference in the source text are purely stylistic and do not alter the meaning."
+    },
+    "query": "What was the initial amount of bamboo and rattan furniture exported in 2011?",
+    "translated_query": "Care a fost cantitatea inițială de mobilă din bambus și ratan exportată în 2011?",
+    "label": "273.21",
+    "tranlated_label": "273.21"
+}

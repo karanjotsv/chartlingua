@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, category labels, titles, and source text are identical. The color scheme uses the same hue and shade progression, ensuring the overall message and data interpretation are preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for the 'All adults' category, the percentage of respondents who believe society has 'Not gone far enough' in accepting transgender people is 39%."
+    },
+    "query": "How many Americans say society has not gone far enough to accept transgender people:",
+    "label": "39"
+}

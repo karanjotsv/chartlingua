@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'are being compared' to 'are compared' is a minor grammatical variation, and 'line graph' vs. 'line chart' are synonymous in this context, preserving the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original's meaning. All differences are minor and stylistic, such as '1990 to 2004' vs. '1990-2004' and the full name of the FAO, which do not change the information conveyed."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "translated_query": "Ce două țări sunt comparate în graficul liniar dat?",
+    "label": "[United Kingdom, Cape Verde]",
+    "tranlated_label": "[United Kingdom, Cape Verde]"
+}

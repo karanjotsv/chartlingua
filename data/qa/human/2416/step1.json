@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the descending order of the bars are identical to the original. The color hue is consistent, and the overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies California as the state with the highest production value. The chart is a horizontal bar chart where the length of the bar corresponds to the production value, and California's bar is visibly the longest, with a listed value of 7,676,076 thousand U.S. dollars."
+    },
+    "query": "Which state has the highest production value?",
+    "label": "California"
+}

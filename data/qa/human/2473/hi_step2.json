@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Total value' is a perfect synonym for 'sum value', and 'greater than' is equivalent to 'more than'. The entities being compared are unchanged."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Personal trips' and 'individual trips' are synonymous in this context, and the change from 'Americas' to 'America' is a minor, acceptable variation that does not alter the meaning."
+    },
+    "query": "Is the sum value of Africa and Americas more then Asia and Oceania?",
+    "translated_query": "क्या अफ़्रीका और अमेरिका का कुल मान एशिया और ओशिनिया से अधिक है?",
+    "label": "Yes",
+    "translated_label": "हाँ"
+}

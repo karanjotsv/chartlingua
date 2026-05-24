@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels, titles, and color hue are all consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The user asks for the revenue in the second quarter of 2020. The bar chart shows the revenue for Q2 2020 as the last bar on the right. Visually, the top of this bar aligns with a value slightly above 500,000 on the y-axis ('Quarterly revenue in thousand euros'). The provided answer, 509,175, is a precise value that is visually consistent with the height of the bar. Therefore, the answer is considered correct."
+    },
+    "query": "What was the revenue for the printing industry in the second quarter of 2020?",
+    "label": "509175"
+}

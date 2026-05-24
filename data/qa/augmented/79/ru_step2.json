@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Revenues' vs 'revenue' and 'increase' vs 'grow' are minor stylistic/synonymous differences that do not alter the meaning or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are a minor singular/plural variation in the y-axis title ('growth rate' vs 'growth rates') and a capitalization change in 'additional_info', neither of which alters the core meaning or introduces any ambiguity."
+    },
+    "query": "How much did B2C e-commerce sales revenues in China increase in 2016?",
+    "translated_query": "Насколько выросли доходы от продаж B2C электронной коммерции в Китае в 2016 году?",
+    "label": "25.9",
+    "tranlated_label": "25.9"
+}

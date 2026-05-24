@@ -1,0 +1,32 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Assault without injury",
+            "value": 200000
+        },
+        {
+            "category": "ABH and other injury",
+            "value": 350000
+        },
+        {
+            "category": "Inflicting GBH or<br>wounding without<br>intent",
+            "value": 15000
+        },
+        {
+            "category": "Inflicting GBH or<br>wounding with intent",
+            "value": 18000
+        }
+    ],
+    "texts": {
+        "title": "Recorded Crime in England and Wales, 2009-10",
+        "subtitle": null,
+        "x_axis_title": "Crimes",
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5a8ac6"
+    ]
+}

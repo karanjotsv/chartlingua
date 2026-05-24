@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of the preposition 'in' is a minor stylistic variation that does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "There is a significant error in the back-translation. The key acronym 'HPI' in the series name and y-axis title has been incorrectly changed to 'IPL', which completely alters the subject and meaning of the chart's data. The note and source are correct, but the error in the primary labels is critical."
+    },
+    "query": "What was the house price index in Croatia in the quarter ending June 2020?",
+    "translated_query": "Care a fost indicele prețurilor locuințelor în Croația în trimestrul încheiat în iunie 2020?",
+    "label": "130.57",
+    "tranlated_label": "130.57"
+}

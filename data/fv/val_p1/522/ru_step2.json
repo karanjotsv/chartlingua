@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated content significantly distorts the original meaning. The original compares two specific 'starting flow values for standard deviation' (one associated with Final_6 and another with Exist_6). The back-translation, however, uses a 'where' clause to set a condition that 'the Final_6 line is lower than the Exist_6 line', and applies this context to a single 'initial flow value for the standard deviation', failing to convey the direct comparison of two distinct values."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most textual elements, including axis titles, are perfectly matched or have only minor stylistic differences. The term 'Extention Basin' in the original, likely a typo for 'Extension Basin', is translated to 'expansion basin', which is a very close semantic match. The phrase 'Standard Detention Basin Outflow' is translated to 'outflow from standard watershed basin'. While 'detention basin' is more specific in stormwater management than 'watershed basin', the general meaning and context of a basin controlling outflow are maintained, representing a minor acceptable difference rather than a significant loss of information or accuracy."
+    },
+    "claim": "The starting flow value for standard deviation when the line is Final_6 is lower than the one for the line when it is Exist_6.",
+    "translated_claim": "Начальное значение потока для стандартного отклонения, когда линия Final_6, ниже, чем для линии Exist_6."
+}

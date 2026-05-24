@@ -1,0 +1,50 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Tend to favor one side",
+            "x": [
+                79,
+                91,
+                69
+            ],
+            "text": [
+                "79%",
+                "91",
+                "69"
+            ]
+        },
+        {
+            "name": "Deal fairly with all sides",
+            "x": [
+                20,
+                8,
+                29
+            ],
+            "text": [
+                "20%",
+                "8",
+                "29"
+            ]
+        }
+    ],
+    "categories": [
+        "U.S. adults",
+        "Rep/Lean Rep",
+        "Dem/Lean Dem"
+    ],
+    "texts": {
+        "title": "About eight-in-ten Americans think news coverage<br>favors one side, more so among Republicans",
+        "subtitle": "% of U.S. adults who say news organizations ___ when presenting the news<br>on political and social issues",
+        "series_labels": [
+            "Tend to favor<br>one side",
+            "Deal fairly<br>with all sides"
+        ],
+        "source": "Note: Respondents who did not give an answer not shown.<br>Source: Survey of U.S. adults conducted Feb. 18-March 2, 2020.",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#C9A845",
+        "#75404B"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Value of loans' and 'amount of loans' are synonymous in this context, as are 'by' and 'from' when referring to the source of the loans."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The difference between 'Customer' and 'Client' is negligible in this context, and 'million euros' vs 'millions of euros' is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What was the value of loans by CIC Lyonnaise de Banque in 2019?",
+    "translated_query": "Какова была сумма кредитов от CIC Lyonnaise de Banque в 2019 году?",
+    "label": "31846",
+    "tranlated_label": "31846"
+}

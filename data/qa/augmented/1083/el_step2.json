@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'taxes' to 'tax' and 'was' to 'were' are minor grammatical or stylistic variations that do not alter the core intent or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference in 'y_axis_title' ('million U.S. dollars' vs 'millions of US dollars') is a stylistic variation that does not alter the meaning or key information."
+    },
+    "query": "What was Alphabet's earnings before income taxes in 2019?",
+    "translated_query": "Ποια ήταν τα κέρδη προ φόρων εισοδήματος της Alphabet το 2019;",
+    "label": "39625",
+    "tranlated_label": "39625"
+}

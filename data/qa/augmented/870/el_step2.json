@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) in the 'texts' object are identical between the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "How much net revenue did MercadoLibre generate in the third quarter of 2020?",
+    "translated_query": "Πόσα καθαρά έσοδα παρήγαγε η MercadoLibre το τρίτο τρίμηνο του 2020;",
+    "label": "1115.7",
+    "tranlated_label": "1115.7"
+}

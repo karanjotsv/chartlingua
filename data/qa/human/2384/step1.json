@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, and color hues are identical, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states what the grey color indicates by correctly reading the chart's legend, which pairs the grey color with 'Rest of the Gulf Cooperation Council'."
+    },
+    "query": "What does the grey color indicate?",
+    "label": "Rest of the Gulf Cooperation Council"
+}

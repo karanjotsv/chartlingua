@@ -1,0 +1,75 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "1 step",
+            "x": [
+                "pre-crisis",
+                "Dip",
+                "Now"
+            ],
+            "y": [
+                0,
+                -26,
+                -18
+            ]
+        },
+        {
+            "name": "2 step",
+            "x": [
+                "pre-crisis",
+                "Dip",
+                "Now"
+            ],
+            "y": [
+                0,
+                -25.5,
+                -17
+            ]
+        },
+        {
+            "name": "3 step",
+            "x": [
+                "pre-crisis",
+                "Dip",
+                "Now"
+            ],
+            "y": [
+                0,
+                -39,
+                -20
+            ]
+        },
+        {
+            "name": "4 step",
+            "x": [
+                "pre-crisis",
+                "Dip",
+                "Now"
+            ],
+            "y": [
+                0,
+                -42,
+                -26
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Turnover development of 125 companies depends on their<br>distance from the end-market",
+        "subtitle": "(Newspaper survey)",
+        "x_axis_title": null,
+        "y_axis_title": "Change with pre-crisis %",
+        "source": null,
+        "x_axis_annotations": [
+            "pre-crisis",
+            "Dip",
+            "Now"
+        ]
+    },
+    "colors": [
+        "#00008B",
+        "#C71585",
+        "#FFFF00",
+        "#00FFFF"
+    ]
+}

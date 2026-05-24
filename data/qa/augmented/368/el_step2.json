@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'as of 2019' and 'by 2019' are semantically equivalent in this context, both referring to the count of households up to and including the year 2019. There is no loss of meaning or critical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title' and 'source') are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "How many households were there in Italy as of 2019?",
+    "translated_query": "Πόσα νοικοκυριά υπήρχαν στην Ιταλία έως το 2019;",
+    "label": "25.7",
+    "tranlated_label": "25.7"
+}

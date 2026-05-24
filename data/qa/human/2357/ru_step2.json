@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change in preposition from 'of' to 'for' is a minor, stylistic difference that does not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. The source text is identical. The x-axis title in the back-translation, 'Share of average demand*', omits the word 'expressions' from the original 'Share of average demand expressions*'. This slightly reduces the technical specificity of the metric but preserves the core meaning."
+    },
+    "query": "What is the value of Hulu?",
+    "translated_query": "Какое значение у Hulu?",
+    "label": "9.2",
+    "tranlated_label": "9.2"
+}

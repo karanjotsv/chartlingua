@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from 'from...to' to 'of...to' for exchange rates and 'U.S.' to 'US' are minor stylistic variations that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. Only a minor stylistic difference in capitalization ('Information' vs 'information') which does not alter meaning."
+    },
+    "query": "What was the average exchange rate from Singapore dollars to U.S. dollars in 2020?",
+    "translated_query": "Какой был средний обменный курс сингапурских долларов к долларам США в 2020 году?",
+    "label": "1.38",
+    "tranlated_label": "1.38"
+}

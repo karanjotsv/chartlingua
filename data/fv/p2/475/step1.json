@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content (title, source), and color hues are identical to the original. The overall message is preserved perfectly. The only minor difference is the rotation of the pie slices, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Other' taxes account for 50% of revenue, but the pie chart clearly shows this category accounts for only 7%."
+    },
+    "claim": "Other taxes account for 50% of revenue.",
+    "label": "FALSE"
+}

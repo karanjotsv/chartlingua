@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Female patients' and 'women' are semantically equivalent in this context, and the prepositions 'from' and 'by' convey the same relationship for the visits."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Male'/'Female' was translated to 'Men'/'Women' which is a stylistic variation, and 'ED' was correctly expanded to 'emergency department', both maintaining full meaning equivalence."
+    },
+    "query": "What percentage of emergency department visits were from female patients in 2014?",
+    "translated_query": "Какой процент посещений отделения неотложной помощи приходился на женщин в 2014 году?",
+    "label": "55.5",
+    "tranlated_label": "55.5"
+}

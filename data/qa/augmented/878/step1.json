@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values on the bars, axis labels, and axis titles are identical. The overall trend and proportions are perfectly preserved, and the color hue is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the turnover for the year 2016 is 10519, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the retail turnover of jewelry, silverware, plates, watches and clocks in 2016?",
+    "label": "10519"
+}

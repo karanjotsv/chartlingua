@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent reproduction of the original. All data values, category labels, the title, and color hues are accurately matched. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is minor text overlap. The words 'Wikimedia' from the first line of the title and 'June' from the second line are touching. Additionally, the labels for the smaller slices (Opera, Android, Other) are very crowded."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly shows that I.E. has a 38.2% share of browser usage, which is the largest percentage compared to all other categories listed in the chart for June 2011."
+    },
+    "claim": "I.E. hold the largest percentage of Browser Usage of Wikimedia on June 2011.",
+    "label": true
+}

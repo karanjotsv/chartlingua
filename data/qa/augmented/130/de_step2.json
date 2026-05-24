@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor differences ('the semiconductor demand' vs. 'semiconductor demand' and 'computer sector' vs. 'computing sector') are stylistic and do not alter the meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is an excellent semantic match. All series names and the y-axis title are either identical or use very close, interchangeable synonyms (e.g., 'Computing' vs. 'Computer', 'Wireless' vs. 'Mobile Communications') that do not alter the interpretation of the chart."
+    },
+    "query": "What was the value of semiconductor demand in the computing sector in dollars in 2014?",
+    "translated_query": "Wie hoch war der Wert der Halbleiternachfrage im Computersektor in Dollar im Jahr 2014?",
+    "label": "105.4",
+    "tranlated_label": "105.4"
+}

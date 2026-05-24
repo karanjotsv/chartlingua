@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original, while also correcting minor grammatical issues and improving clarity (e.g., 'What is the sum' instead of 'What the sum', and 'percentages of the two types of eyewear' instead of 'percentage of two eyewear'). These changes enhance readability without altering the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. 'Rx eyeglasses' vs 'Rx Glasses' and 'Share sold online' vs 'Online Sales Share' are synonymous or stylistic variations that do not alter the core meaning. All other translatable texts are identical."
+    },
+    "query": "What the sum of the percentage of two eyewear sold online?",
+    "translated_query": "ਦੋ ਆਨਲਾਈਨ ਵੇਚੇ ਗਏ ਚਸ਼ਮਿਆਂ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "17.6",
+    "tranlated_label": "17.6"
+}

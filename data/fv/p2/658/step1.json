@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data trend, specific values, axis ranges, title, and axis labels are all consistent. The core message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The labels on the x-axis are crowded and overlap, making them difficult to read."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the chart's content. The Y-axis is labeled 'Ratio of Asset value to Debt', which represents a relationship between these two variables, and the X-axis clearly shows a time series from 1988 to 2009."
+    },
+    "claim": "the chart shows the relationship between asset value and debt over the period 1988 to 2009",
+    "label": "TRUE"
+}

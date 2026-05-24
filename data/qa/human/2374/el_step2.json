@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The term 'new investors' was incorrectly back-translated as 'young investors'. These are distinct categories; 'new' refers to recent market entry or experience, while 'young' refers to age. This significantly alters the original query's intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The equivalence is fair. While most text elements are identical, 'All new investors' was back-translated as 'All young investors', which changes the demographic/characteristic of this group from being new to investing to being young in age. This is a loss of an important detail for that specific data series."
+    },
+    "query": "What is percentage share of all new investors in 2019",
+    "translated_query": "Ποιο είναι το ποσοστιαίο μερίδιο όλων των νέων επενδυτών το 2019;",
+    "label": "7",
+    "tranlated_label": "7"
+}

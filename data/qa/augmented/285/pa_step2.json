@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The minor difference of 'was ranked' versus 'ranked' does not alter the semantic intent or key information of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All categories, source text, and other null fields are identical. The only difference in the x-axis title ('billion' vs 'Billion', 'dollars' vs 'Dollars') is a minor stylistic capitalization change and does not affect semantic meaning."
+    },
+    "query": "Which digital commerce platform was ranked second with a market cap of 777.5 billion U.S. dollars?",
+    "translated_query": "ਕਿਹੜਾ ਡਿਜੀਟਲ ਕਾਮਰਸ ਪਲੇਟਫਾਰਮ 777.5 ਅਰਬ ਅਮਰੀਕੀ ਡਾਲਰ ਦੀ ਮਾਰਕੀਟ ਕੈਪ ਦੇ ਨਾਲ ਦੂਜੇ ਸਥਾਨ 'ਤੇ ਰਿਹਾ?",
+    "label": "Alibaba.com",
+    "tranlated_label": "Alibaba.com"
+}

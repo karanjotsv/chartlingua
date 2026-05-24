@@ -1,0 +1,40 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Παγκόσμιος Βορράς",
+            "Παγκόσμιος Νότος",
+            "Σύνολο Κόσμου"
+        ],
+        "series": [
+            {
+                "name": "1910",
+                "data": [
+                    502.9,
+                    108.91,
+                    611.81
+                ]
+            },
+            {
+                "name": "2010",
+                "data": [
+                    856.36,
+                    1327.7,
+                    2184.06
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Εκτιμώμενος αριθμός Χριστιανών σε εκατομμύρια",
+        "source_text": "© Statista 2021",
+        "note_text": "Εμφάνιση πηγής"
+    },
+    "colors": [
+        "#2772C3",
+        "#1C2F3C"
+    ]
+}

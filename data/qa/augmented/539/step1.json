@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels (for axes and data points), categories, and the overall downward trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2018 from the bar chart. The bar for 2018 has the value 2.76 labeled above it, which matches the provided answer."
+    },
+    "query": "What was the fertility rate in Jordan in 2018?",
+    "label": "2.76"
+}

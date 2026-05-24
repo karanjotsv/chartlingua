@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It has the same title, legend labels, data proportions, and color-to-category assignments. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is from 'Frostenden' and for 'males age 20 and over', but the chart provides no geographical or demographic details, only a general title 'Occupational Structure from the 1831 Census'."
+    },
+    "claim": "The 1831 census of Frostenden provides a detail occupational breakdown of males age 20 and over.",
+    "label": true
+}

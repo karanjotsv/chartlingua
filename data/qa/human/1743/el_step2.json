@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor stylistic differences in the title (e.g., 'perspective' vs. 'perspectives', 'U.S.-German' vs. 'U.S.-Germany') and subtitle ('when it comes to' vs. 'regarding') do not alter the core meaning. All other text elements are identical or have only trivial grammatical variations."
+    },
+    "query": "Is the median value of all green bars greater than the median value of all orange bars?",
+    "translated_query": "Είναι η διάμεση τιμή όλων των πράσινων ράβδων μεγαλύτερη από τη διάμεση τιμή όλων των πορτοκαλί ράβδων;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

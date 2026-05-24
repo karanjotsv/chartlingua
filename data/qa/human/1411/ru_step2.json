@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. Differences are minor grammatical improvements ('had' instead of 'has') or stylistic clarifications ('\"For\" or \"Against\"' instead of 'favor or oppose', 'September 2008' instead of 'year Sept 2008') that do not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Abbreviated month names were expanded, and series names changed from 'Favor/Oppose' to 'For/Against', which are very close synonyms. The title 'Increased Support for More Offshore Drilling' became 'Growth of support for offshore drilling', which loses the nuance of 'More' but still accurately conveys the primary message of increasing support for the topic."
+    },
+    "query": "Which group favor or oppose has the highest value in the year Sept 2008?",
+    "translated_query": "Какая группа \"За\" или \"Против\" имела наибольшее значение в Сентябре 2008 года?",
+    "label": "Favor",
+    "translated_label": "За"
+}

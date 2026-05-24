@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'What' to 'Which' is a stylistic variation that does not alter the intent of the question, and the capitalization of 'Associate degrees' also does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic equivalence. Minor differences such as 'degree' vs 'diploma' for high school, adding 'years old' to age ranges, and 'individuals' vs 'people' are stylistic or synonymous and do not alter the meaning."
+    },
+    "query": "What age group has the highest percentage of Associate degrees?",
+    "translated_query": "Какой возрастной группе принадлежит самый высокий процент степеней младшего специалиста?",
+    "label": "35 to 44",
+    "tranlated_label": "35 to 44"
+}

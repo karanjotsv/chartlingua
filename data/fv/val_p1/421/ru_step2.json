@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. The minor difference ('The Simpsons' vs 'Simpsons articles' and 'by' vs 'according to the') does not alter the core information or semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The data label 'Start' was translated to 'Initial', which is a close synonym but may not be the exact established term for the article class. Additionally, 'The' was omitted from 'The Simpsons' in the title. These are minor semantic variations but the core meaning and data are accurately conveyed."
+    },
+    "claim": "There are 10 different classes of The Simpsons articles by WikiProject. ",
+    "translated_claim": "Существует 10 различных классов статей о Симпсонах по данным Википроекта."
+}

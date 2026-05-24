@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "केवल धूम्रपान",
+            "value": 12.3
+        },
+        {
+            "category": "धूम्रपान और स्नस दोनों",
+            "value": 1.1
+        },
+        {
+            "category": "केवल स्नस",
+            "value": 10.0
+        },
+        {
+            "category": "न तो धूम्रपान और न ही स्नस",
+            "value": 76.6
+        }
+    ],
+    "texts": {
+        "title": "दैनिक तंबाकू का उपयोग",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#004386",
+        "#E55239",
+        "#FDC100",
+        "#59942C"
+    ]
+}

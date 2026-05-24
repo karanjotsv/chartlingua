@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, and color mappings are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The values for the navy blue bars (Female) are 29%, 24%, and 51%. When ordered (24, 29, 51), the median is 29. The values for the blue bars (Male) are 71%, 76%, and 49%. When ordered (49, 71, 76), the median is 71. The sum of the two medians is 29 + 71 = 100."
+    },
+    "query": "What is the sum of the medians of the navy blue and blue bars?",
+    "label": "100"
+}

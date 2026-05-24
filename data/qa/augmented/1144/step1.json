@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall color scheme are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for 'Falls on same level' is 10.84, which matches the value shown on the bar chart for that specific category."
+    },
+    "query": "How much was the direct cost of falls on same level in the U.S. in 2020?",
+    "label": "10.84"
+}

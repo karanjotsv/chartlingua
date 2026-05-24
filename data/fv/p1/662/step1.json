@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes two assertions that are not supported by the chart. First, it specifies the year is 2014, but the chart does not provide any date information. Second, the claim refers to the 'highest number of arrests', while the chart's y-axis clearly indicates the data is a rate ('Number arrested (per 100,000)'), not an absolute count."
+    },
+    "claim": "Females aged 25 have the highest number of arrests for forgery and counterfeiting in the United States in 2014.",
+    "label": true
+}

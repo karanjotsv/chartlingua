@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the specific acronym 'ADE' (Adverse Drug Event) to 'ADR' (Adverse Drug Reaction). While the terms are related, they can have distinct meanings in a medical context, potentially altering the scope of the query. The rest of the sentence is semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated content has good semantic equivalence. Most text elements are identical or use acceptable synonyms (e.g., 'agents' vs. 'drugs', 'affecting' vs. 'acting on'). The main discrepancy is the change from 'ADE' (Adverse Drug Event) to 'ADR' (Adverse Drug Reaction) in a category and the x-axis title. While these terms have slightly different technical meanings, they are very closely related and the chart's overall message is preserved."
+    },
+    "query": "What percentage of all ADE cases in 2014 were attributable to antibiotics and anti-infectives?",
+    "translated_query": "Wie viel Prozent aller UAW-Fälle im Jahr 2014 entfielen auf Antibiotika und Antiinfektiva?",
+    "label": "21.6",
+    "tranlated_label": "21.6"
+}

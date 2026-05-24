@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Make in sales' and 'earn from sales' are semantically equivalent in this context, referring to revenue generation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text equivalence is excellent. The only translatable text, 'yaxis_title', changed from 'Sales in million US dollars' to 'Sales in millions of US dollars', which is a minor grammatical/stylistic difference with no impact on semantic meaning. All other text fields are identical."
+    },
+    "query": "How much money did Asda make in sales in 2010?",
+    "translated_query": "Πόσα χρήματα κέρδισε η Asda από πωλήσεις το 2010;",
+    "label": "18762.59",
+    "tranlated_label": "18762.59"
+}

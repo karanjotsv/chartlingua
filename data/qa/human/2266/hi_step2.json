@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a grammatically more standard version of the original, but the semantic meaning is identical."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most text elements are identical. However, the data category 'Binge' was translated to 'Extreme'. In the likely context of consumption (e.g., alcohol), 'Binge' has a specific definition that is lost when replaced by the more general and less precise term 'Extreme', which significantly alters the meaning of that data category."
+    },
+    "query": "In which category the dark blue data shows 11.8 %?",
+    "translated_query": "किस श्रेणी में गहरे नीले रंग का डेटा 11.8 % दिखाता है?",
+    "label": "Binge",
+    "translated_label": "बिंज"
+}

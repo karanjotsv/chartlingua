@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart incorrectly displays four equal 25% slices, while the original chart shows unequal proportions where one slice is clearly larger and another is smaller than the other two. This fundamentally changes the data representation and the overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart is divided into four sections, but they are not equal in size. The two bottom sections appear to be 25% each, but the top half is divided unequally into a smaller orange section and a larger light blue section."
+    },
+    "claim": "The pie chart is equally divided into four parts.",
+    "label": "FALSE"
+}

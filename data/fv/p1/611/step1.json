@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart accurately reproduces all data proportions, text labels, titles, and color hues from the original. While the layout is significantly different (a consolidated central legend vs. individual legends), the core information and semantic meaning are perfectly preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The consolidated legend in the center is overlapped by the surrounding pie charts, which obscures some of the legend labels and makes them difficult to read. This is a significant layout flaw."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that most people have an annual salary between 190,000 and 220,000. However, according to the 'Annual Salary' pie chart and its corresponding legend, the largest slice (blue) represents the salary range of 175,000-190,000, not the 190,000-220,000 range (light green slice)."
+    },
+    "claim": "Most people have an annual salary between 190,000 and 220,000.",
+    "label": false
+}

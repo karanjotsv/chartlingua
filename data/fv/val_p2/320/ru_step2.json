@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query maintains perfect semantic equivalence with the original. Differences are purely stylistic ('a wavelength' vs 'wavelength', 'less than that for' vs 'less than for') and do not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including axis titles, is semantically identical between the original and back-translated versions."
+    },
+    "claim": "The absorption coefficient for HbO2 at wavelength of 1000 is less than that for Hb at the same values.",
+    "translated_claim": "Коэффициент поглощения для HbO2 при длине волны 1000 меньше, чем для Hb при тех же значениях."
+}

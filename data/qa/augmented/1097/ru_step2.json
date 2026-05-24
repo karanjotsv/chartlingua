@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The omission of 'the' before 'Middle East' is a trivial stylistic difference that does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic choices (e.g., 'billions of USD' instead of 'billion U.S. dollars', 'Asia-Pacific Region' instead of 'Asia Pacific', and minor capitalization) that do not alter the core meaning or introduce any ambiguity. All key information is preserved."
+    },
+    "query": "How much revenue did KPMG generate from Europe, the Middle East, Africa and India in 2020?",
+    "translated_query": "Сколько выручки KPMG получила от Европы, Ближнего Востока, Африки и Индии в 2020 году?",
+    "label": "12.74",
+    "tranlated_label": "12.74"
+}

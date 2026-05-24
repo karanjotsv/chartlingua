@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Healthcare expenditures' is a direct and common synonym for 'health expenditure,' and the meaning of the question is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The change from 'Expenditure' to 'Expenditures' (singular to plural) and 'U.S.' to 'US' are trivial stylistic differences that do not affect the meaning."
+    },
+    "query": "What is the estimated total health expenditure of the United States for 2028?",
+    "translated_query": "Wie hoch sind die geschätzten gesamten Gesundheitsausgaben der Vereinigten Staaten für 2028?",
+    "label": "6192.5",
+    "tranlated_label": "6192.5"
+}

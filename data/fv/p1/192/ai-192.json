@@ -1,0 +1,45 @@
+{
+    "chart_type": "pie_subplot",
+    "chart_data": {
+        "labels": [
+            "Less than 3,500",
+            "3,500 to 9,999",
+            "10,000 to 99,999",
+            "100,000 and above"
+        ],
+        "series": [
+            {
+                "name": "Dollar Amount of<br>Assistance<br>($5.3 Billion)",
+                "values": [
+                    12,
+                    9,
+                    34,
+                    45
+                ]
+            },
+            {
+                "name": "Number of Assistance<br>Agreements (2,055)",
+                "values": [
+                    66,
+                    10,
+                    17,
+                    7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Figure 3 | CWSRFs Served<br>Communities of All Sizes in 2007",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "legend_title": "Population"
+    },
+    "colors": [
+        "#4CB3C3",
+        "#9E4B2C",
+        "#7BA05B",
+        "#B8932C"
+    ]
+}

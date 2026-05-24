@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, trend, logarithmic scale, all text labels (title, axes, legend), and color hues from the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The line chart shows the daily mean discharge from late August to early September 2011. The highest point, or peak, of the discharge is clearly visible on the date labeled 'Aug 29 2011', which falls within the range specified in the claim (August 27-29)."
+    },
+    "claim": "In 2011, United States Geological Survey daily discharge peaked between August 27-29.",
+    "label": true
+}

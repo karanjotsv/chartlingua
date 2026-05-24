@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the meaning of the original. The change from 'bar graph' to 'bar chart' is synonymous, and the correction of the grammatical error 'the longest than' to 'longer than' clarifies the intended meaning without altering it."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. The title has a minor, inconsequential grammatical difference, and the x-axis labels use synonymous phrasing (e.g., 'Somewhat' vs. 'Rather for') that perfectly preserves the original meaning and scale."
+    },
+    "claim": "In the following bar graph \"Strongly morelike\" bar is the longest than other four bars.",
+    "translated_claim": "Im folgenden Balkendiagramm ist der Balken \"Stark für Morelike\" länger als die anderen vier Balken."
+}

@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Электричество (уголь)",
+            "value": 24.9
+        },
+        {
+            "category": "Автомобильный транспорт",
+            "value": 14.8
+        },
+        {
+            "category": "Крупный рогатый скот",
+            "value": 7.7
+        },
+        {
+            "category": "Топливо для дома",
+            "value": 6.9
+        },
+        {
+            "category": "Цемент",
+            "value": 5.4
+        },
+        {
+            "category": "Электричество (газ)",
+            "value": 4.1
+        },
+        {
+            "category": "Другие",
+            "value": 36.2
+        }
+    ],
+    "texts": {
+        "title": "Крупнейшие источники парниковых газов в Турции, 2019",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Источник: Турецкий статистический институт https://unfccc.int/documents/271541"
+    },
+    "colors": [
+        "#4F4F4F",
+        "#8C6D65",
+        "#A87A6A",
+        "#C88D6A",
+        "#E69A51",
+        "#F7AD27",
+        "#F2F2F2"
+    ]
+}

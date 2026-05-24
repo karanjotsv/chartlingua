@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, titles, and axis configurations are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the chart is about 'water quality of different sources Lake Bracciano in 1692', but the chart's title and axes clearly indicate it shows the 'Number of files with N language templates on Commons' from data in 2017."
+    },
+    "claim": "The chart shows the water quality of different sources Lake Bracciano in 1692.\n",
+    "label": "FALSE"
+}

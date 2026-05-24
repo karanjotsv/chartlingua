@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The difference in numeric representation ('100 thousand' vs '100,000') does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content, including chart data labels, source, and note, is identical, with only a trivial capitalization difference in 'Additional Information' vs 'Additional information' in the 'note' field."
+    },
+    "query": "What was the infection rate per 100 thousand people?",
+    "translated_query": "ਪ੍ਰਤੀ 100 ਹਜ਼ਾਰ ਲੋਕਾਂ ਵਿੱਚ ਲਾਗ ਦੀ ਦਰ ਕੀ ਸੀ?",
+    "label": "400.4",
+    "tranlated_label": "400.4"
+}

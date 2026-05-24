@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, all text content (title, axis labels), and color hue are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart visually demonstrates a clear downward trend. As the 'YEARS IN TANK' on the x-axis increase from 0 to 5, the corresponding bars representing 'PERCENT REMAINING' on the y-axis consistently decrease in height."
+    },
+    "claim": "The percent remaining decreases over time.",
+    "label": true
+}

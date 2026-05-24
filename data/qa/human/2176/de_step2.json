@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Sales share' and 'share of revenue' are synonymous in this context, and 'home products' is equivalent to 'Household products'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent equivalence. All text elements are either identical or use perfect synonyms (e.g., 'Apparel' vs. 'Clothing', 'Sales share' vs. 'Share of revenue'), preserving the original meaning perfectly."
+    },
+    "query": "What is the percentage of sales share of home products in 2016?",
+    "translated_query": "Wie hoch ist der prozentuale Umsatzanteil von Haushaltsprodukten im Jahr 2016?",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

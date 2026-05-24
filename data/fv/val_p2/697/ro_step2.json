@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated claim significantly distorts a key piece of information by incorrectly changing the specific date 'Jun 10' (June 10th) to a completely different and much broader timeframe, 'June 2010'. This fundamentally alters the meaning of the claim."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text, 'Edits', is identical in both versions. All other text fields are null in both the original and back-translated content, resulting in a perfect match."
+    },
+    "claim": "On Jun 10, 600 edits are on the English Wikipedia in the line graph.",
+    "translated_claim": "În iunie 2010, sunt 600 de modificări pe Wikipedia în limba engleză în graficul liniar."
+}

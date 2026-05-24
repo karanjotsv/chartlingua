@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly reproduces all data categories, values, the chart title, and maintains consistent color hues for each slice. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The label for the 'Public Improvements Fund' slice (1%) is extremely small and oriented vertically, making it virtually unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the budget is from 2011, but the chart's title clearly indicates it is the '2012 Budget of Puerto Rico'."
+    },
+    "claim": "The government of Puerto Rico count 7% for loans and bonds in their 2011 budget.",
+    "label": true
+}

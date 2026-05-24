@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories, color hues, and the overall message are all consistent with the original. The text content is also semantically identical, with only minor and inconsequential reordering in the source note.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Water / Wet Soils / Gravel Pits' (the blue slice) accounts for more than all other categories combined. For this to be true, the blue slice would need to represent over 50% of the pie chart. Visually, the blue slice is significantly less than 50% of the total area, and is smaller than the dark green slice ('Hardwood Forest') alone."
+    },
+    "claim": "There is more water/wet soil/and gravel pits than all other soil occupants combined.",
+    "label": false
+}

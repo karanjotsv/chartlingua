@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data boundaries, proportions, text labels (title, axes, legend), and color-coded lines. The overall ecological message is identical. The differences in fill patterns are stylistic and do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the amount of shrubland, represented by the cross-hatched pattern, over time. Following the x-axis from year 40 to year 60, the vertical thickness of the shrubland area clearly increases, indicating a growth in its amount during that period."
+    },
+    "claim": "The amount of shrubland will increase in the fire plant succession overtime during the years 40 and 60.",
+    "label": false
+}

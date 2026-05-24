@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, text, and color hues as the original. The overall message about the breakdown of BBC income is identical. The only differences are stylistic, such as the change from a 3D to a 2D pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart explicitly labels the income from UK Licence Fee as £3.37 billion and the income from Government Bonds as £283.6 million. As £283.6 million is a smaller value than £3.37 billion, the claim is supported by the chart's data."
+    },
+    "claim": "Government bonds are smaller in this chart for BBC Income than the UK License Fee.",
+    "label": true
+}

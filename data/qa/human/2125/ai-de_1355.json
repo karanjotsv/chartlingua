@@ -1,0 +1,105 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Vertraue größtenteils",
+            "x": [
+                "Demokraten",
+                "Republikaner",
+                "Unabhängige",
+                "Andere",
+                "Nicht sicher"
+            ],
+            "y": [
+                42,
+                5,
+                19,
+                11,
+                6
+            ]
+        },
+        {
+            "name": "Vertraue einigermaßen",
+            "x": [
+                "Demokraten",
+                "Republikaner",
+                "Unabhängige",
+                "Andere",
+                "Nicht sicher"
+            ],
+            "y": [
+                24,
+                11,
+                23,
+                20,
+                13
+            ]
+        },
+        {
+            "name": "Misstraue einigermaßen",
+            "x": [
+                "Demokraten",
+                "Republikaner",
+                "Unabhängige",
+                "Andere",
+                "Nicht sicher"
+            ],
+            "y": [
+                8,
+                20,
+                13,
+                23,
+                15
+            ]
+        },
+        {
+            "name": "Misstraue größtenteils",
+            "x": [
+                "Demokraten",
+                "Republikaner",
+                "Unabhängige",
+                "Andere",
+                "Nicht sicher"
+            ],
+            "y": [
+                4,
+                46,
+                22,
+                36,
+                8
+            ]
+        },
+        {
+            "name": "Nicht sicher",
+            "x": [
+                "Demokraten",
+                "Republikaner",
+                "Unabhängige",
+                "Andere",
+                "Nicht sicher"
+            ],
+            "y": [
+                22,
+                18,
+                23,
+                10,
+                58
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#1f77b4",
+        "#263953",
+        "#bdbdbd",
+        "#c00000",
+        "#70ad47"
+    ]
+}

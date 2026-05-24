@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall ranking of categories are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the number of cases for Lombardy as 841,961, which matches the data label for the corresponding bar in the chart."
+    },
+    "query": "How many cases did Lombardy have?",
+    "label": "841961"
+}

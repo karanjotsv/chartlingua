@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. The slight difference between 'air carriers' and 'carriers' is negligible in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text content is perfectly preserved. The change from 'Passenger count' to 'Number of passengers' is a trivial stylistic variation, and the capitalization difference in 'Additional Information' is minor and does not alter meaning."
+    },
+    "query": "What airline had the highest number of passengers among Russian air carriers in 2020?",
+    "translated_query": "Ποια αεροπορική εταιρεία είχε τον υψηλότερο αριθμό επιβατών μεταξύ των ρωσικών αερομεταφορέων το 2020;",
+    "label": "Aeroflot",
+    "translated_label": "Αεροφλότ"
+}

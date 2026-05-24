@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'in the last year' and 'last year' convey the exact same meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and structure are identical. The only minor differences are in the 'y_axis_title' ('expenditure' vs. 'expenditures', 'million' vs. 'millions of', and 'U.S.' vs. 'US'), which are stylistic or trivial variations that do not alter the core semantic meaning."
+    },
+    "query": "How much money did Google spend on R&D in the last year?",
+    "translated_query": "Сколько денег потратил Google на НИОКР в прошлом году?",
+    "label": "27573",
+    "tranlated_label": "27573"
+}

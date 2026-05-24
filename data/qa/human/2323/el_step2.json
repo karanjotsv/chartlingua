@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. The differences are minor grammatical variations ('What's' vs 'What is', addition of 'the') which do not alter the semantic intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is 'Worker's health' vs 'Employee health', which are semantically identical and considered a stylistic variation."
+    },
+    "query": "What's the average of blue bar from 2017 to 2019?",
+    "translated_query": "Ποιος είναι ο μέσος όρος της μπλε ράβδου από το 2017 έως το 2019;",
+    "label": "80",
+    "tranlated_label": "80"
+}

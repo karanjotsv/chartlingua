@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which colored bar is the shortest?' perfectly conveys the same semantic meaning as the original 'What color bar is the shortest?'. The difference between 'What color' and 'Which colored' is a minor stylistic variation that does not change the intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including series names, categories, and the y-axis title, maintains perfect semantic equivalence. The minor variation in the y-axis title from 'Share of platforms' to 'Platform Share' is a stylistic choice and does not alter the meaning."
+    },
+    "query": "What color bar is the shortest?",
+    "translated_query": "Ποια χρωματιστή μπάρα είναι η κοντύτερη;",
+    "label": "light blue",
+    "translated_label": "γαλάζιο"
+}

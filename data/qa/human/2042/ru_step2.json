@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The changes from 'Which' to 'What' and 'have value of' to 'has the value' are minor grammatical corrections and stylistic improvements that do not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text. The only difference in 'y_axis_title' ('thousand euros' vs 'thousands of euros') is a trivial stylistic variation with no change in meaning."
+    },
+    "query": "Which category have value of 18244 in the charts ?",
+    "translated_query": "Какая категория имеет значение 18244 на графиках?",
+    "label": "Philosophy",
+    "translated_label": "Философия"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, title, color hues, and overall proportions are accurately reproduced, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart indicates that 5 people selected 'I don't understand the meaning', while 2 people selected 'Color (red)'. The claim correctly states that the number for the former is greater than the latter (5 > 2)."
+    },
+    "claim": "More people of community do not understand the meaning of the logo than people who do not like the color of the logo",
+    "label": "TRUE"
+}

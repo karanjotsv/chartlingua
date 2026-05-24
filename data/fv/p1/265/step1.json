@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, text content (titles, labels, source), and color hues are accurately replicated, conveying the identical message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is significant text overlap. The numerical data labels on the bars overlap with the category labels on the y-axis, and the source text overlaps with the x-axis title, hindering readability."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is a direct restatement of the chart's title, 'Occupations with high fatal work injury rates, 2010'. The chart proceeds to list various occupations and their corresponding fatal work injury rates for that year, thereby fully supporting the claim."
+    },
+    "claim": "The  occupation with high fatal work injury rates,2010.",
+    "label": true
+}

@@ -1,0 +1,25 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Number New User Accounts",
+            "value": 328,
+            "annotation": "<b>328 New Accounts</b><br>(36% of all<br>Participants)"
+        },
+        {
+            "category": "New Users Retained (6 Months)",
+            "value": 3,
+            "annotation": "<b>3 Active Editors</b><br>(1.4% of New<br>Accounts)"
+        }
+    ],
+    "texts": {
+        "title": "Edit-a-thons<br><b>Recruit Retention</b>",
+        "x_axis_title": null,
+        "y_axis_title": "Count",
+        "source": "Note: Only 3/19 Events had any New users retained at 6 months.; Three reports did not contain new user numbers.. The point<br>of measuring 6-month retention had not yet been reached for 15 of the events (33%)"
+    },
+    "colors": [
+        "#45a27d",
+        "#5b9bd5"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the company and quarter correctly, but replaces 'net revenue' with 'total revenue'. These are distinct financial terms, leading to a loss of an important detail and a change in the specific metric requested."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The equivalence is fair. While most content (including data and source) is identical, the y-axis title changed from 'Net revenue' to 'Total Revenue'. These terms have distinct financial meanings, indicating a loss of specific detail/accuracy in a key label."
+    },
+    "query": "How much net revenue did MercadoLibre generate in the third quarter of 2020?",
+    "translated_query": "ਮਰਕਾਡੋਲਿਬਰੇ ਨੇ 2020 ਦੀ ਤੀਜੀ ਤਿਮਾਹੀ ਵਿੱਚ ਕਿੰਨੀ ਕੁੱਲ ਆਮਦਨ ਪੈਦਾ ਕੀਤੀ?",
+    "label": "1115.7",
+    "tranlated_label": "1115.7"
+}

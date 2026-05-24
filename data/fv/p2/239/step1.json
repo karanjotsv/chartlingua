@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It accurately reproduces the data values, trends, series labels, title, and color hues. The overall message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that for 5 years all three items had the same quantities. However, the chart shows that in every year presented, the values for 'Total liabilities and net assets' (blue line), 'Total support and revenue' (orange line), and 'Total expenses' (yellow line) are different, as their data points never occupy the same vertical position on the y-axis."
+    },
+    "claim": "There were only 5 years where the 3 items all maintained the same quantities.",
+    "label": "TRUE"
+}

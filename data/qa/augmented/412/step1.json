@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. Color hues and chart structure are also perfectly matched.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for the year 2011, which is clearly labeled as 4,863 on top of the corresponding bar in the chart."
+    },
+    "query": "How many Mercedes-Benz cars were registered in Poland in 2011?",
+    "label": "4863"
+}

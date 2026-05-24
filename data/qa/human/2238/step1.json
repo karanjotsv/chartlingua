@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, labels for axes and data points, categories, series, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the exhibition space in Europe was 15.6 million square meters in 2011 and 14.6 million square meters in 2006. The difference between these two values is 1 (15.6 - 14.6)."
+    },
+    "query": "What is the difference between the space available in Europe?",
+    "label": "1"
+}

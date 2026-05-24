@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation changes 'full-time contractors' to 'full-time equivalent contractors.' This is a significant semantic difference, as 'full-time equivalent' refers to a calculated metric of workload, potentially including aggregated part-time work, rather than actual individuals working full-time hours, distorting the original claim's specificity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements within the JSON, including chart labels and source, maintain perfect semantic equivalence. Differences are limited to capitalization and a minor rephrasing of one label ('Contractor full-time equivalents' to 'Full-time Equivalent Contractor Employees') which does not alter the core meaning."
+    },
+    "claim": "More than 50% of the Department's workforce consists of full-time contractors.",
+    "translated_claim": "ਵਿਭਾਗ ਦੇ ਕਾਰਜਬਲ ਦਾ 50% ਤੋਂ ਵੱਧ ਹਿੱਸਾ ਪੂਰੇ ਸਮੇਂ ਦੇ ਠੇਕੇਦਾਰਾਂ ਦਾ ਹੈ।"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, their values, trends, labels, and titles are accurately reproduced. The color hues for each series are also consistent, ensuring the same interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim incorrectly identifies the chart type as a bar chart, when it is clearly a line chart."
+    },
+    "claim": "A bar chart is showing the Average performance metrics for Media Viewer.",
+    "label": "FALSE"
+}

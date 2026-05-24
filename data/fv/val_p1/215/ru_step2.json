@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Majority' is synonymous with 'most', and 'Kwinnington' is an acceptable transliteration of 'Quenington' for a proper noun, not altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are semantically equivalent with only minor variations (e.g., 'Health and social work' to 'Healthcare and Social Work', 'Utilities services' to 'Utilities'). The title 'Occupational structure' to 'Professional Structure' is a good semantic match. However, the y-axis title 'Occupation' was changed to 'Type of Activity', which is slightly broader and less specific, representing a minor loss of precision."
+    },
+    "claim": "The chart shows that the majority of Quenington residents work in the agricultural sector.",
+    "translated_claim": "Диаграмма показывает, что большинство жителей Квинингтона работают в сельскохозяйственном секторе."
+}

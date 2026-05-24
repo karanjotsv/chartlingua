@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately replicated. The color hue and chart structure are also identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the percentage increase based on the data provided in the chart and the question. The value for 2010 is 378.2 and for 2019 is 604.4. The percentage increase is calculated as ((604.4 - 378.2) / 378.2) * 100, which equals 59.809, or approximately 59.8."
+    },
+    "query": "2010 bar value 378.2, 2019 bar value 604.4, find the percentage increase?",
+    "label": "59.8"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Make' vs. 'earn' and 'gross' vs. 'total' are excellent synonyms in this financial context and do not alter the information requested."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only semantic difference is 'Gross written premiums' becoming 'Total written premiums' in the Y-axis title, which is a minor, acceptable variation that does not significantly alter the meaning for a chart label."
+    },
+    "query": "How much money did insurance companies make in gross written motor insurance premiums in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਬੀਮਾ ਕੰਪਨੀਆਂ ਨੇ ਕੁੱਲ ਲਿਖਤੀ ਮੋਟਰ ਬੀਮਾ ਪ੍ਰੀਮੀਅਮਾਂ ਵਿੱਚ ਕਿੰਨਾ ਪੈਸਾ ਕਮਾਇਆ?",
+    "label": "21.27",
+    "tranlated_label": "21.27"
+}

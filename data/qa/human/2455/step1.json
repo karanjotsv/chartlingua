@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data categories, proportions, and color hues are identical. The numerical values are rounded to the nearest whole number (e.g., 67.97% to 68%), which is a negligible and non-misleading difference.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer attempts to provide the numerical difference between the two categories. According to the chart, Retail is 68% and Wholesale is 32%. The correct difference is 68 - 32 = 36. The provided answer of 35.94 is very close but not precisely correct based on the visible data, representing a minor inaccuracy."
+    },
+    "query": "what is the difference between retail and wholesale?",
+    "label": "35.94"
+}

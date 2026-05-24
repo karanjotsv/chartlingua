@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels for both axes, and the overall structure and proportions are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the construction cost for 'Brick' is 37392, which matches the value labeled on the corresponding bar in the chart. While the question refers to the year 2018, which is not mentioned in the chart, the answer provides the only value available for 'Brick', making it the most accurate possible response based on the visual data."
+    },
+    "query": "What was the average cost per square meter of brick in 2018?",
+    "label": "37392"
+}

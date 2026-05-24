@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the United States had the lowest number of ESB members. However, the chart shows that the USSR had a visually identical number of members, meaning the USA was not uniquely the lowest but shared the lowest position with the USSR."
+    },
+    "claim": "The United States had the lowest number of ESB members in 1976.",
+    "label": false
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the semantic meaning of the original. The change from 'is lowest' to 'was lowest' is a minor grammatical variation (tense shift) that does not alter the core meaning, especially when referring to data for a specific past month. The key information remains identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All numerical data, structural elements, and most text fields are identical. The only difference is a minor rephrasing in 'series.name' from 'share within laptops in %' to 'Netbook share among laptops (%)', which maintains perfect semantic meaning and actually adds clarity by specifying 'Netbook share'. Capitalization in the title is a stylistic difference."
+    },
+    "claim": "Netbook popularity in 7th month is lowest.",
+    "translated_claim": "Популярность нетбуков в 7-м месяце самая низкая."
+}

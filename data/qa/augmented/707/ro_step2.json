@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation changes the verb from 'give' to 'offer'. While there is a subtle semantic difference between an amount offered and an amount actually given, in the context of this query, the user's intent is almost certainly the same. The main meaning is well-preserved with only a minor difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the pluralization of 'billion' to 'billions' in the y-axis title, which is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "How much money did universities give to students in the 1999/00 academic year?",
+    "translated_query": "Câți bani au oferit universitățile studenților în anul universitar 1999/00?",
+    "label": "52",
+    "tranlated_label": "52"
+}

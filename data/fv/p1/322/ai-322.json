@@ -1,0 +1,54 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Registered Voters",
+            "x": [
+                2008,
+                2010,
+                2012,
+                2014,
+                2016,
+                2018
+            ],
+            "y": [
+                19000,
+                17500,
+                22500,
+                21600,
+                22300,
+                22000
+            ]
+        },
+        {
+            "name": "Voter Turnout (State Election)",
+            "x": [
+                2008,
+                2010,
+                2012,
+                2014,
+                2016,
+                2018
+            ],
+            "y": [
+                12900,
+                8000,
+                15300,
+                7900,
+                15100,
+                11000
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Amherst Massachusetts Voter Turnout vs. Registered Voters",
+        "subtitle": null,
+        "x_axis_title": "Year",
+        "y_axis_title": "People",
+        "source": "Sources:<br>http://www.sec.state.ma.us/ele/eleregistrationstats/registrationstats.htm<br>https://www.amherstma.gov/650/Upcoming-and-Past-Election-Information"
+    },
+    "colors": [
+        "#004586",
+        "#E85D27"
+    ]
+}

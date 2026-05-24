@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in its overall message, text content, color usage, and categories. However, there is a minor data discrepancy; for instance, the 'Political right' value for the U.S. appears slightly higher in the rendered chart (around 28%) compared to the original (around 22%). This doesn't change the overall interpretation but is a noticeable data difference.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the percentage of people within different political groups who believe climate change is a major threat. It provides no information about the year 2004, nor does it quantify the number of people who identify with any political party like Republicans or Democrats."
+    },
+    "claim": "There are more people who identify as Republicans than Democrats in 2004 in the US.",
+    "label": "FALSE"
+}

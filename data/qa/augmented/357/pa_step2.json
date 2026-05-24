@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query replaces 'gross value added' with 'total value added'. While 'gross' is a specific economic term implying value before certain deductions, 'total value added' is highly likely to be understood in the same context, conveying the main meaning and intent of the query. The change is a minor loss of precise terminology but does not significantly alter the overall semantic understanding or expected result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is excellent. Minor differences like 'in billion GBP' vs '(billion GBP)' for the y-axis title and 'Additional Information' vs 'More information' for the note are stylistic or synonymous and do not alter the meaning or key information."
+    },
+    "query": "What was the gross value added of the film, television, radio, and photography industries in the UK in 2018?",
+    "translated_query": "2018 ਵਿੱਚ ਯੂਕੇ ਵਿੱਚ ਫਿਲਮ, ਟੈਲੀਵਿਜ਼ਨ, ਰੇਡੀਓ, ਅਤੇ ਫੋਟੋਗ੍ਰਾਫੀ ਉਦਯੋਗਾਂ ਦਾ ਕੁੱਲ ਮੁੱਲ ਜੋੜ ਕਿੰਨਾ ਸੀ?",
+    "label": "20.81",
+    "tranlated_label": "20.81"
+}

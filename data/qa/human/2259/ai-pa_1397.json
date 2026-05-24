@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_bar",
+    "categories": [
+        "ਛੋਟੇ (1-99 ਕਰਮਚਾਰੀ)",
+        "ਮੱਧਮ (100-499 ਕਰਮਚਾਰੀ)"
+    ],
+    "chart_data": [
+        {
+            "name": "30-39 ਸਾਲ",
+            "y": [
+                14.7,
+                7.5
+            ]
+        },
+        {
+            "name": "40-49 ਸਾਲ",
+            "y": [
+                26.1,
+                27.3
+            ]
+        },
+        {
+            "name": "50-64 ਸਾਲ",
+            "y": [
+                47.4,
+                51.0
+            ]
+        },
+        {
+            "name": "65 ਸਾਲ ਤੋਂ ਵੱਧ",
+            "y": [
+                11.8,
+                14.2
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "SME ਮਾਲਕਾਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2874D0",
+        "#102C44",
+        "#BFBFBF",
+        "#A51717"
+    ]
+}

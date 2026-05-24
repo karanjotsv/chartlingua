@@ -1,0 +1,43 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Agricultural, Fostery and...",
+            "Electricity, Gas, Steam and...",
+            "Construction",
+            "Transport and Storage",
+            "Information and...",
+            "Real Estate Activitie...",
+            "Administrative and...",
+            "Education",
+            "Other"
+        ],
+        "series": [
+            {
+                "name": "Number of people",
+                "values": [
+                    6,
+                    2,
+                    18,
+                    8,
+                    4,
+                    12,
+                    3,
+                    11,
+                    6
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Number of people",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4F81BD"
+    ]
+}

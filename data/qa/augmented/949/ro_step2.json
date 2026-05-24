@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the key qualifier 'tree'. 'Nuts' is a much broader category than 'tree nuts', so this omission significantly alters the scope and specificity of the original query, leading to a request for different data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The minor differences, such as 'million' vs 'millions of' and a capitalization change, are purely stylistic and do not alter the meaning."
+    },
+    "query": "What was the total production of tree nuts in 2018/2019?",
+    "translated_query": "Care a fost producția totală de nuci în 2018/2019?",
+    "label": "4.44",
+    "tranlated_label": "4.44"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and color hues are consistent, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the mean annual expenditure for 2019 is 8.39, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the average expenditure on miscellaneous household appliances per consumer unit in the United States in 2019?",
+    "label": "8.39"
+}

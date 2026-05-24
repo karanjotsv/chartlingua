@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a complete and fully-labeled version of the original. It perfectly matches the bar proportions, color scheme, and the overall trend of a dramatic increase shown in the original, while adding the necessary textual context like titles, axis labels, and data values.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the number of MBS downgrades in Q4 2007 was 4,529 and in Q1 2008 was 34,764. Tripling the Q4 2007 value (3 * 4,529) results in 13,587. Since 34,764 is greater than 13,587, the claim that the downgrades more than tripled is correct."
+    },
+    "claim": "MBS downgrades more than tripled from Q4 2007 to Q1 2008.",
+    "label": true
+}

@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Επιφάνεια Γης τ.π.<br>(LE)",
+            "value": 5000,
+            "annotation_y": 2500
+        },
+        {
+            "category": "Εμβαδόν Αποτυπώματος Κτιρίου<br>Ισογείου (FPA)",
+            "value": 3750,
+            "annotation_y": 2000
+        },
+        {
+            "category": "LE - FPA Πείτε \"E\"",
+            "value": 1250,
+            "annotation_y": 750
+        },
+        {
+            "category": "50% του FPA",
+            "value": 1875,
+            "annotation_y": 1250
+        },
+        {
+            "category": "FPA Γης+1250<br>έως 50% του FPA<br>μπορεί να προστεθεί",
+            "value": 5000,
+            "annotation_y": 2500
+        }
+    ],
+    "texts": {
+        "title": "Εκτίμηση Αξίας Γης",
+        "subtitle": "Γραφικά: Α. Μ. Ιμπραήμ",
+        "x_axis_title": null,
+        "y_axis_title": "τ. πόδια",
+        "source": null
+    },
+    "colors": [
+        "#9b9bff"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Cărbune",
+            "value": 36.0
+        },
+        {
+            "label": "Energie nucleară",
+            "value": 28.0
+        },
+        {
+            "label": "Gaze naturale",
+            "value": 26.5
+        },
+        {
+            "label": "Energie eoliană",
+            "value": 4.2
+        },
+        {
+            "label": "Biomasă",
+            "value": 2.2
+        },
+        {
+            "label": "Energie hidroelectrică",
+            "value": 1.4
+        },
+        {
+            "label": "Altele",
+            "value": 1.8
+        }
+    ],
+    "texts": {
+        "title": "Surse de generare a energiei electrice",
+        "subtitle": "Michigan - 2016",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#BE1884",
+        "#E7C958",
+        "#77C3CD",
+        "#A0C54B",
+        "#308A5B",
+        "#3A7BB3",
+        "#A14AC5"
+    ]
+}

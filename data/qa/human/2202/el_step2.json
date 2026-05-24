@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main meaning of the query is preserved, asking for the entity with 100%. The term 'sector' was replaced with 'category', which is a minor acceptable difference. While similar, 'category' is a slightly more general term than 'sector'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart categories and series names convey the identical meaning, with only minor stylistic variations (e.g., 'Male' to 'Men', 'feature' to 'feature-length') that do not alter the core information."
+    },
+    "query": "Which sector has 100%?",
+    "translated_query": "Ποιος τομέας έχει 100%;",
+    "label": "Cinematography",
+    "translated_label": "Κινηματογραφία"
+}

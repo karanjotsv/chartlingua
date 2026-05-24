@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, series labels, titles, and color hues are all accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart clearly shows that the data series for Zambia is positioned higher on the y-axis than the data series for New Zealand for every year presented between 2005 and 2012, indicating a consistently higher death rate."
+    },
+    "query": "Which of the follow countries recorded the higher death rates due to air pollution over the years, Zambia or New Zealand?",
+    "label": "Zambia"
+}

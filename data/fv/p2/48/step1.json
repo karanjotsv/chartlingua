@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is mostly consistent in terms of data categories, colors, and text. However, the x-axis range in the rendered chart ends at 20, whereas the original goes to 25. This causes the largest data point (Males in 'Associate Professional & Technical') to be incorrectly represented as 20, when it is visibly greater than 20 in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The x-axis limit is smaller than the maximum data value. The bar for 'Males' in 'Associate Professional & Technical' extends to the edge of the plot area at a value of 20, while the original chart shows this value to be greater than 20, indicating data clipping or misrepresentation due to an incorrect axis range."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "For every occupational category shown in the bar chart, the length of the bar for 'Females' is different from the length of the bar for 'Males'. Therefore, the claim that the numbers are not equal in any of the categories is supported by the visual data."
+    },
+    "claim": "In none of the bars the number of female and male workers are equal.",
+    "label": "FALSE"
+}

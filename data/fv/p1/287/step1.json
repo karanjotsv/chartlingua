@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart type, data series, colors, and general trends are consistent. However, a key piece of information, the annotation '2026' which represents the target number of delegates, is correctly placed as a horizontal line at the top in the original but is incorrectly rendered as a new, confusing horizontal line near the bottom of the chart in the rendered version. Additionally, the x-axis tick labels differ, and one data label ('1088') is missing.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart contains a significant malformed element: the '2026' annotation is incorrectly drawn as a horizontal dashed line at a low y-value, which is nonsensical in the context of the data and misrepresents information from the original chart."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the number of delegates for Bernie Sanders (green line) and Hillary Clinton (yellow line) over time. Throughout the entire period shown, the yellow line for Hillary Clinton is consistently above the green line for Bernie Sanders, indicating that Hillary Clinton had more delegates than Bernie Sanders on all dates, including March 15."
+    },
+    "claim": "Bernie Sanders had more delegates on Mar 15 than Hilary Clinton.",
+    "label": false
+}

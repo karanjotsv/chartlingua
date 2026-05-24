@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is almost completely empty and fails to display any of the data from the original. While the title, legend, and some annotations are correct, the core data, trends, and x-axis categories are entirely missing. All data bars are incorrectly rendered as a compressed, unreadable mass on the far left.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed and effectively empty. All data bars are compressed and overlapping on the far left of the plotting area, completely obscuring the data and making the chart uninterpretable. This is a critical rendering failure."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the total number of participating clubs ('Anzahl teilnehmender Vereine') per year. It does not provide a breakdown of these clubs by type (e.g., gymnastics club). Therefore, the claim that the highest number of participants was in a specific type of club cannot be verified from the chart."
+    },
+    "claim": "THE HIGHEST NUMBER OF PARTICIPANTS WAS IN THE GYMNASTICS CLUB",
+    "label": true
+}

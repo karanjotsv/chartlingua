@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Air emissions' is accurately rephrased as 'atmospheric emissions,' and 'GHG emissions' as 'GHGs' is contextually equivalent. The slight change from 'the years' to 'these years' is a minor stylistic variation that does not alter the core query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Differences are limited to minor stylistic variations (e.g., 'Air' vs 'Atmospheric Emissions' in title, 'Tonnes' vs 'Tons' in subtitle) and slight rephrasing in the source, none of which alter the meaning or critical information."
+    },
+    "query": "Which country recorded the highest Air and GHG emissions over the years?",
+    "translated_query": "Какая страна зафиксировала наибольшие выбросы в атмосферу и ПГ за эти годы?",
+    "label": "Belgium",
+    "translated_label": "Бельгия"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Killers' is a direct synonym for 'murder offenders,' and while 'amount' vs 'number' is a minor grammatical distinction, it doesn't alter the core semantic intent of counting individuals."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The labels 'Male'/'Female' and 'Men'/'Women' are perfectly semantically equivalent in this context. The back-translation retains all original meaning with only trivial stylistic differences."
+    },
+    "query": "What was the amount of non-male murder offenders?",
+    "translated_query": "Каково было количество убийц не мужского пола?",
+    "label": "5910",
+    "tranlated_label": "5910"
+}

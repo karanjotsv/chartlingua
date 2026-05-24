@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. Color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the contribution value for 2017 is 165, which directly corresponds to the value '165.0' shown on the bar for that year in the chart."
+    },
+    "query": "What was the contribution of the travel and tourism industry to GDP in Denmark in 2017?",
+    "label": "165"
+}

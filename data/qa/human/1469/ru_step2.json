@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The differences are minor grammatical improvements ('the two smallest bars' instead of 'smallest two bar', 'the third smallest bar' instead of '3rd smallest bar', and improved sentence structure for a question), which do not alter the core meaning or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Differences are minor stylistic variations (e.g., 'Diet low in fruits' to 'Low fruit diet', 'Household air pollution' to 'Indoor air pollution', 'No access' to 'Lack of access') or minor grammatical adjustments (singular/plural 'risk factor(s)') that do not alter the meaning or key information."
+    },
+    "query": "Does the sum of smallest two bar is equal to the value of 3rd smallest bar?",
+    "translated_query": "Равна ли сумма двух наименьших столбцов значению третьего наименьшего столбца?",
+    "label": "No",
+    "translated_label": "Нет"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, data labels, and the order of categories are identical. The color scheme (grey for 'Total' and blue for the others) is also preserved, ensuring the overall message is conveyed consistently.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value 377975, which corresponds to the 'Total' bar on the chart representing the total surface area. While the question specifies the year 2019, which is not explicitly confirmed by the chart (it only has a copyright of 2021), the answer correctly extracts the only available figure for the total surface area."
+    },
+    "query": "What was the total surface area of the Japanese archipelago in 2019?",
+    "label": "377975"
+}

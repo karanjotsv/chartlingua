@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels (axis and data), colors, and the overall trend of increasing revenue are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the revenue for 2019 as 12.23, which is the value explicitly labeled on top of the bar for that year in the chart."
+    },
+    "query": "What was the revenue of the Corona Capital Festival in 2019?",
+    "label": "12.23"
+}

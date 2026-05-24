@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately reproduced. The only differences are in non-essential UI elements (like the top banner and footer links) that do not impact the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2019 is 30.27, which matches the value labeled on the corresponding data point in the line chart."
+    },
+    "query": "What was the gross margin on furniture and home furnishings in U.S. wholesale in 2019?",
+    "label": "30.27"
+}

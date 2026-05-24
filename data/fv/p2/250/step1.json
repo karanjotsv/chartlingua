@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in terms of data values, categories, title, and year. All numerical percentages and their corresponding labels are accurately reproduced. The reordering of the slices around the circle is a minor stylistic difference that does not alter the core message or data interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the combined percentage of attendance for baseball (24%) and football (18%) is 42%. The combined percentage for basketball (26%) and consumer shows (11%) is 37%. Therefore, the total attendance for baseball and football is greater than, not lesser than, the total for basketball and consumer shows."
+    },
+    "claim": "The total value of  attendance in baseball and football is lesser than basketball and consumer shows.",
+    "label": "FALSE"
+}

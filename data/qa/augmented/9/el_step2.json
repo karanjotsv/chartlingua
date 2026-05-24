@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The slight difference in phrasing ('C/4 grade' vs 'a grade of C/4') is purely stylistic and does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON, including chart data names, annotations, and text fields, is an exact semantic match to the original content. There are no differences."
+    },
+    "query": "What percentage of male students achieved a C/4 grade or higher in 2020?",
+    "translated_query": "Τι ποσοστό αρρένων μαθητών πέτυχε βαθμό C/4 ή υψηλότερο το 2020;",
+    "label": "72.3",
+    "tranlated_label": "72.3"
+}

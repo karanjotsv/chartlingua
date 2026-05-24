@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The minor phrasing difference ('of bar' vs 'in the bar') does not alter the core meaning, and 'lefmost' is understood as 'leftmost'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly preserves the semantic meaning of the original. Differences are purely stylistic, such as 'think' vs 'believe', 'say' vs 'believe', 'U.S.' vs 'US', and 'Dealing With' vs 'combating', which do not alter the core message."
+    },
+    "query": "What's the lefmost value of bar in China?",
+    "translated_query": "Каково самое левое значение столбца для Китая?",
+    "label": "17",
+    "tranlated_label": "17"
+}

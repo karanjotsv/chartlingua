@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content (title, axis labels), color hue, and the overall trend of annual tonnage are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the tonnage in 1999 was the highest, at approximately 39.5 million. The tonnage in 2007 was approximately 30 million. The difference between these two values is about 9.5 million, which is significantly different from the 5,000,000 stated in the claim."
+    },
+    "claim": "The different value between 1999 and 2007 is about 5,000,000.",
+    "label": "FALSE"
+}

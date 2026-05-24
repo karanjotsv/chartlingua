@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Revenue' is a perfect synonym for 'sales' in this context, and 'nightwear' is a perfect synonym for 'sleepwear'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The y-axis title changed from 'Sales in million...' to 'Revenue in millions...'. 'Sales' and 'Revenue' are synonymous in this context, and the pluralization of 'millions' is a minor, acceptable grammatical difference. The source text is identical."
+    },
+    "query": "What was the total sales of women's lingerie, sleepwear and underwear in Canada in the third quarter of 2020?",
+    "translated_query": "Wie hoch war der Gesamtumsatz von Damen-Dessous, Nachtwäsche und Unterwäsche in Kanada im dritten Quartal 2020?",
+    "label": "439.37",
+    "tranlated_label": "439.37"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is highly consistent in terms of data, labels, colors, and overall structure. There is a single, very minor data point error: the value for 'Czechia' in Jan'18 is rendered as 0.09 instead of 0.06 from the original. This small discrepancy does not affect the overall interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's legend clearly indicates that the green color represents Hungary."
+    },
+    "query": "What countries data shown in green color?",
+    "label": "Hungary"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data series, their values, trends, labels, titles, and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the highest point is above 3K. However, the y-axis of the chart only goes up to 2.40K (2,400). The highest peak on the entire chart, which belongs to the 'image-load meantime' metric, is clearly below this 2.40K mark. Therefore, no point on the chart is above 3K."
+    },
+    "claim": "The highest point at average performance metrics is above 3K.",
+    "label": "FALSE"
+}

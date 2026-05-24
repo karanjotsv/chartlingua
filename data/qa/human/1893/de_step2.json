@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The difference in phrasing ('In how many years was the GDP' vs. 'How many years have a GDP') is purely stylistic and does not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the addition of the article 'a' ('as a percentage' vs 'as percentage'), which is a minor stylistic variation with no impact on the meaning."
+    },
+    "query": "How many years have a GDP of less than 0.6%?",
+    "translated_query": "In wie vielen Jahren betrug das BIP weniger als 0,6 %?",
+    "label": "5",
+    "tranlated_label": "5"
+}

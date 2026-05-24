@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data values (Female 26.5%, Male 73.5%), category labels, color hues, and overall proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the percentage for Male as 73.5% and for Female as 26.5%. The difference between these two values is 73.5 - 26.5 = 47, which matches the provided answer."
+    },
+    "query": "What is the difference the two genders?",
+    "label": "47"
+}

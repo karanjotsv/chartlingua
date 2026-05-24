@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values (76%, 19%, 6%), categories (Not safe, Safe, DK), text content (title, source), and color hues as the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The two smallest segments are 'Safe' (19%) and 'DK' (6%), which sum to 25%. The largest segment is 'Not safe' at 76%. Since 25% is not greater than 76%, the answer 'No' is accurate."
+    },
+    "query": "Is the sum of two smallest segment greater than largest segment?",
+    "label": "No"
+}

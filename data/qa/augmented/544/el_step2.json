@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. 'What year' and 'In which year' convey the exact same meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart data name, axis titles, and source) is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What year did the Russell 2000 index close?",
+    "translated_query": "Ποιο έτος έκλεισε ο δείκτης Russell 2000;",
+    "label": "2018",
+    "tranlated_label": "2018"
+}

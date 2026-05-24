@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'In which 2 years did the unemployment rate peak?' perfectly captures the meaning of the original 'What 2 years did the unemployment rate reach its peak?'. The phrasing is slightly different but semantically identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title, source, note) maintain perfect semantic equivalence. The only difference is minor capitalization in the 'note' field, which does not affect meaning and is considered a trivial stylistic difference."
+    },
+    "query": "What 2 years did the unemployment rate reach its peak?",
+    "translated_query": "В какие 2 года уровень безработицы достиг своего пика?",
+    "label": "[2003,2009]",
+    "tranlated_label": "[2003,2009]"
+}

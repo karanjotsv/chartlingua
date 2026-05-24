@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data values, chart title, and axes are all consistent with the original. The rendered chart, however, is missing the legend that was present in the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Y values go down as X values go up, but the line chart clearly shows the opposite. As the X values increase from left to right (from 250 to 400), the Y values also increase, indicating a positive correlation."
+    },
+    "claim": "Y values go down as the x values go up.",
+    "label": false
+}

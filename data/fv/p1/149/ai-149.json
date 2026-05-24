@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "coal",
+            "value": 53.2
+        },
+        {
+            "label": "solar",
+            "value": 2.7
+        },
+        {
+            "label": "hydro",
+            "value": 3.7
+        },
+        {
+            "label": "wind",
+            "value": 17.4
+        },
+        {
+            "label": "natural gas",
+            "value": 23.0
+        }
+    ],
+    "texts": {
+        "title": "Sources of Electricity Generation<br>Colorado - 2017",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#c0448f",
+        "#fde23c",
+        "#2d7eb5",
+        "#99b82c",
+        "#78c1d0"
+    ],
+    "background_color": "#e9e7f6"
+}

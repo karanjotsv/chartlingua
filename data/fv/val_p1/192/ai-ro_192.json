@@ -1,0 +1,45 @@
+{
+    "chart_type": "pie_subplot",
+    "chart_data": {
+        "labels": [
+            "Mai puțin de 3.500",
+            "3.500 până la 9.999",
+            "10.000 până la 99.999",
+            "100.000 și peste"
+        ],
+        "series": [
+            {
+                "name": "Valoarea<br>asistenței<br>($5,3 miliarde)",
+                "values": [
+                    12,
+                    9,
+                    34,
+                    45
+                ]
+            },
+            {
+                "name": "Numărul de acorduri<br>de asistență (2.055)",
+                "values": [
+                    66,
+                    10,
+                    17,
+                    7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Figura 3 | CWSRF-urile au deservit<br>comunități de toate dimensiunile în 2007",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "legend_title": "Populație"
+    },
+    "colors": [
+        "#4CB3C3",
+        "#9E4B2C",
+        "#7BA05B",
+        "#B8932C"
+    ]
+}

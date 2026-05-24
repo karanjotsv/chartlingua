@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the original meaning. The change from 'is showing' to 'shows' is a minor grammatical variation (present continuous vs. simple present) that does not alter the semantic content of the query. Case difference for 'Average' is also trivial."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "Overall equivalence is poor due to a significant semantic error. While the title and most series names are well-translated, 'gender-fetch' was incorrectly back-translated to 'sheet retrieval' for two series names, which fundamentally distorts the meaning of those specific metrics."
+    },
+    "claim": "A bar chart is showing the Average performance metrics for Media Viewer.",
+    "translated_claim": "Ένα ραβδόγραμμα δείχνει τις μέσες μετρικές απόδοσης για το Media Viewer."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and the overall message are identical. The color hues for each corresponding data slice are also preserved, ensuring a consistent visual interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows a large blue slice that is explicitly labeled 'Metal Mining: 37%'. Therefore, the claim that the metal mining value is colored blue is directly supported by the chart's visual representation and labeling."
+    },
+    "claim": "Metal mining value is colored in blue on the chart.",
+    "label": "TRUE"
+}

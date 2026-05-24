@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "Back-translated claim perfectly matches original meaning; the omission of 'the' before 'discharge' does not alter the semantic meaning in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most chart data names and text fields are semantically identical or have only minor stylistic differences (e.g., capitalization, pluralization). The change from 'Estimated discharge' to 'Calculated Discharge' introduces a minor nuance difference but doesn't significantly alter the core meaning of the data series."
+    },
+    "claim": "The blue line reflects the discharge.",
+    "translated_claim": "Синяя линия отражает расход."
+}

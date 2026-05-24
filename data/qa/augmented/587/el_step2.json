@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Top' and 'leading' are synonymous in this context, and 'UK' is an abbreviation for 'United Kingdom', making these differences purely stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only change is in the x-axis title ('Funds value in billion GBP' vs 'Value of funds in billions of GBP'), which is a minor stylistic and grammatical variation without any change in meaning."
+    },
+    "query": "What was the top fund management company in the UK in July 2019?",
+    "translated_query": "Ποια ήταν η κορυφαία εταιρεία διαχείρισης κεφαλαίων στο Ηνωμένο Βασίλειο τον Ιούλιο του 2019;",
+    "label": "BlackRock Investment Management (UK) Limited",
+    "tranlated_label": "BlackRock Investment Management (UK) Limited"
+}

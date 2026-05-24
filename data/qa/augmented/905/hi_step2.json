@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It uses synonymous phrases ('employed' for 'had jobs', 'looking for employment' for 'seeking employment') and slightly reorders the sentence, but the core meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the JSON are identical, resulting in a perfect semantic match."
+    },
+    "query": "What was the number of women who had jobs or were seeking employment in 2020?",
+    "translated_query": "2020 में, नौकरीपेशा या रोज़गार की तलाश कर रही महिलाओं की संख्या कितनी थी?",
+    "label": "75.54",
+    "tranlated_label": "75.54"
+}

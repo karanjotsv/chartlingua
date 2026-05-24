@@ -1,0 +1,46 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "x_category": "1",
+        "series": [
+            {
+                "name": "Servicii casnice",
+                "y_value": 6
+            },
+            {
+                "name": "Transport",
+                "y_value": 1
+            },
+            {
+                "name": "Agricultură",
+                "y_value": 44
+            },
+            {
+                "name": "Muncitori",
+                "y_value": 2
+            },
+            {
+                "name": "Ocupație nespecificată",
+                "y_value": 4
+            },
+            {
+                "name": "Ocupație necunoscută",
+                "y_value": 37
+            }
+        ]
+    },
+    "texts": {
+        "title": "Ocupațiile rezidenților din Ashleyhay<br>în 1881.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31",
+        "#a5a5a5",
+        "#ffc000",
+        "#4472c4",
+        "#70ad47"
+    ]
+}

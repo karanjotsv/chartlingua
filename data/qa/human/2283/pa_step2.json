@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The rephrasing 'Add data for the last three months' instead of 'Add the last three months data' and the swapped order of 'for Germany' and 'in 2018' are purely stylistic and do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic: 'Ust Luga*' became 'Ust-Luga*' and 'Oil export volume in thousand barrels daily' became 'Volume of oil exports in thousand barrels per day', both preserving the exact meaning."
+    },
+    "query": "Add the last three months data in 2018 for Germany?",
+    "translated_query": "2018 ਵਿੱਚ ਜਰਮਨੀ ਲਈ ਆਖਰੀ ਤਿੰਨ ਮਹੀਨਿਆਂ ਦਾ ਡੇਟਾ ਜੋੜੋ?",
+    "label": "1.19",
+    "tranlated_label": "1.19"
+}

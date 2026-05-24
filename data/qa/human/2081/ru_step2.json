@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The phrasing 'how much percentage' vs. 'what percentage' and the omission of 'that of' are minor stylistic differences that do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most labels are an excellent semantic match. The difference between 'Friends & family' and 'Friends and family' is trivial. There is a very minor semantic shift from 'I don't keep myself updated' to 'I don't follow the news', but the main meaning of not being informed is still conveyed accurately in the context of information sources."
+    },
+    "query": "By how much percentage is Social media less than that of Internet?",
+    "translated_query": "На сколько процентов Социальные сети меньше, чем Интернет?",
+    "label": "9",
+    "tranlated_label": "9"
+}

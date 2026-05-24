@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message about browser market share is identical. The only difference is a stylistic choice to explode one of the slices, which does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the market share percentages of various web browsers, such as Internet Explorer and Google Chrome. The claim, however, makes a statement about the United States' share of economies, a topic for which there is no data presented in the chart."
+    },
+    "claim": "United States got 24.3% of economies level among 20 largest economies level.",
+    "label": "TRUE"
+}

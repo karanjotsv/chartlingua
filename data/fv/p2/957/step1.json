@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents all the key data values, text labels, and color hues from the original infographic. The rating is not a 5 because the severe layout and overlap issues, while primarily visual flaws, significantly hinder the ability to interpret the semantically correct information.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from extreme and pervasive text and element overlap. The layout is completely broken, causing titles, labels, data points, and source information to be layered on top of each other, rendering large portions of the chart illegible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides a regional profile of the South East with data on population, economic output, unemployment, and earnings, but it does not contain any information about specific occupations or job types like 'Retail and handcraft'."
+    },
+    "claim": "The occupation \"Retail and handcraft\" is the most popular job",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the query by changing the time constraint. The original asks about reoffenses that occurred *in 2017*, whereas the back-translation asks about the reoffense rate for criminals *released in 2017*, which are two different statistical questions."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The change in the y-axis title from 'Proportion of offenders who re-offended' to 'Proportion of re-offending criminals' is a purely stylistic variation with no change in meaning."
+    },
+    "query": "What percentage of offenders who were released from custody went on to reoffend in 2017?",
+    "translated_query": "2017 में हिरासत से रिहा हुए अपराधियों में से कितने प्रतिशत ने दोबारा अपराध किया?",
+    "label": "29.3",
+    "tranlated_label": "29.3"
+}

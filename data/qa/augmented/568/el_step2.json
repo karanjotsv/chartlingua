@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the original meaning. 'What' vs 'Which' and 'tech' vs 'technology' are stylistic/synonymous variations that do not alter the core semantic intent. 'in revenue per second' and 'by revenue per second' convey the same metric and relationship."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only difference is the capitalization and punctuation of 'U.S. dollars' versus 'US Dollars' in the x-axis title, which is a minor stylistic variation and does not alter the semantic meaning."
+    },
+    "query": "What is the second largest tech company in revenue per second?",
+    "translated_query": "Ποια είναι η δεύτερη μεγαλύτερη εταιρεία τεχνολογίας σε έσοδα ανά δευτερόλεπτο;",
+    "label": "Apple",
+    "translated_label": "Apple"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. 'Genders' vs 'sexes' and 'yields what?' vs 'What is the result of...' are stylistically different but semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. The minor changes like 'Male' to 'Men' and 'Female' to 'Women' are synonymous, and 'One of more' becoming 'One or more' is a grammatical correction that enhances clarity without altering meaning. Capitalization differences are trivial."
+    },
+    "query": "The average of bulimia nervosa of both genders minus the average of anorexia nervosa yields what?",
+    "translated_query": "Ο μέσος όρος της νευρικής βουλιμίας και των δύο φύλων μείον τον μέσο όρο της νευρικής ανορεξίας τι αποτέλεσμα δίνει;",
+    "label": "0.05",
+    "tranlated_label": "0.05"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text content (title, axis labels), and color hue are all consistent, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart only displays data for the year 1976. It provides no information for 1975, so it is impossible to determine if the number of member countries decreased between the two years."
+    },
+    "claim": "The number of ESB member countries decreased from 1975 to 1976.",
+    "label": false
+}

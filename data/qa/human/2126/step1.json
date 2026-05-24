@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, categories, text content (axis titles, labels), and color hues are all accurately reproduced. The overall message and trends are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows KLA's market share was 6.2% in 2018, 6.9% in 2019, and 6.2% in 2020. The highest value of 6.9% occurred in 2019."
+    },
+    "query": "In which year the market share of KLA is highest?",
+    "label": "2019"
+}

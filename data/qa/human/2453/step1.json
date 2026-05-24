@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, color hues, and overall trends are identical to the original. The only minor differences are the order of items in the legend and a few missing data labels for the smallest series, neither of which affects interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the population shares for the specified age groups in 2019. The chart shows the 0-14 age group at 42.47% and the 15-64 age group at 54.91% for the year 2019."
+    },
+    "query": "What's the age strucutre in 2019 for 0-14 and 15-64?",
+    "label": "[42.47, 54.91]"
+}

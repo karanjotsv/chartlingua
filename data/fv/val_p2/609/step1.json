@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, categories, and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that in the 'At/Above Criterion' category, Mesquite High School's performance is 16.40%, which is below the State Average of 27.00%. The chart also confirms that Mesquite High School graduates did take the ACT/SAT, with 70.90% participation."
+    },
+    "claim": "Mesquite High School graduates took the ACT/SAT but performed below the state average in At/Above criterion",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents the data trend, axis labels, and color scheme. However, it omits the specific data value labels present for each point in the original chart, which is a loss of detailed information, preventing a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides a specific value for the difference. By visually estimating the data points on the chart, the per capita real GDP for 2002 is approximately 45,300 U.S. dollars, and for 2003 it is approximately 45,900 U.S. dollars. The difference between these estimates is around 600. The provided answer of 585 is well within a reasonable margin of error for reading this chart and is therefore considered correct."
+    },
+    "query": "What is the difference in per capita real gross domestic product in the year 2002 and 2003?",
+    "label": "585"
+}

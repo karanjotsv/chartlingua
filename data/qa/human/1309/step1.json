@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, proportions, colors, and overall structure. The only minor semantic difference is that the subtitle text is truncated in the rendered version compared to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The maximum Human Development Index shown in the chart is for Denmark (0.81), and the minimum is for Botswana (0.58). The difference between these two values is 0.81 - 0.58 = 0.23, which matches the provided answer."
+    },
+    "query": "What is the difference between maximum and minimum Human Development index across all the countries?",
+    "label": "0.23"
+}

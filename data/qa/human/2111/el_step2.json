@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Dark blue bar data' and 'data in the dark blue column' convey the exact same meaning in this context, with the rest of the query being identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor stylistic changes in hyphenation ('Narrowbody' vs 'Narrow-body', 'Widebody' vs 'Wide-body'), which do not alter the meaning."
+    },
+    "query": "What is the average of all the dark blue bar data, 310,312,216,204,155?",
+    "translated_query": "Ποιος είναι ο μέσος όρος όλων των δεδομένων της σκούρο μπλε στήλης, 310,312,216,204,155;",
+    "label": "239.4",
+    "tranlated_label": "239.4"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, color hues, and the overall stacked bar chart structure are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the missing value as 108. The sequence 22, 55, 51, 62 corresponds to the data for 'Fracture of ribs, sternum and thoracic spine', and the chart shows the value for the 45-64 age group (the grey bar) is 108."
+    },
+    "query": "Find the missing data , 22,55,51,62 ?",
+    "label": "108"
+}

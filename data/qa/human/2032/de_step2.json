@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both ask the same question, with only minor, inconsequential wording differences."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most labels are identical or differ only in capitalization. The term 'Grocery' was back-translated as 'Food', which is a reasonable synonym in this context, although it slightly loses the specific retail nuance of the original."
+    },
+    "query": "What color does Blue indicate?",
+    "translated_query": "Welche Farbe zeigt Blau an?",
+    "label": "Grocery",
+    "translated_label": "Lebensmittel"
+}

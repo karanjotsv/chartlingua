@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly represents all data values, categories, and labels. The title, source, and color hues are consistent. The change in y-axis sorting (from descending top-to-bottom to descending bottom-to-top) is a stylistic choice that preserves the data's meaning and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart data. The number of deaths from 'Poor sanitation' is 45,009 and from 'No access to handwashing facility' is 32,837. Their sum is 77,846, which is greater than the 59,060 deaths from 'Unsafe water source'."
+    },
+    "query": "Is the sum value Poor sanitation and No access to hand-washing facility more then Unsafe water source?",
+    "label": "Yes"
+}

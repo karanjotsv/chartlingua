@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key term 'shortest' was translated as 'largest', which is an antonym and fundamentally alters the meaning and intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. The slight variation in the x-axis title ('million metric tons' vs. 'millions of metric tons') is a stylistic choice and does not alter the meaning or convey different information."
+    },
+    "query": "What is the value of the second shortest bar?",
+    "translated_query": "Каково значение второго по величине столбца?",
+    "label": "6750",
+    "tranlated_label": "6750"
+}

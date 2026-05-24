@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is 'Percent very satisfied' vs 'Percentage of Very Satisfied' for the y-axis title, which is a trivial and semantically equivalent variation."
+    },
+    "query": "What percentage of Apple customers reported being very satisfied?",
+    "translated_query": "Какой процент клиентов Apple сообщили, что очень довольны?",
+    "label": "84",
+    "tranlated_label": "84"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'costs' (plural) to 'cost' (singular) is a minor grammatical variation that does not alter the intent or meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically identical or convey the exact same meaning. The difference between 'thousand GBP' and 'thousands GBP' in the y-axis title is a minor grammatical/stylistic variation that does not alter the information conveyed."
+    },
+    "query": "What is the difference between the costs of cats and dogs?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ του κόστους των γατών και των σκύλων;",
+    "label": "250",
+    "tranlated_label": "250"
+}

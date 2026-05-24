@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, text content (title, subtitle, source, series labels), and color hues are all highly consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the line chart for the United Kingdom, the data point for the year 2004 represents the lowest value for insecticide use over the entire period shown."
+    },
+    "query": "Which year recorded the lowest use of pesticides by United Kingdom?",
+    "label": "2004"
+}

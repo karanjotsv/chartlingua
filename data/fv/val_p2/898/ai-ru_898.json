@@ -1,0 +1,32 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Нападение без травм",
+            "value": 200000
+        },
+        {
+            "category": "ABH и другие травмы",
+            "value": 350000
+        },
+        {
+            "category": "Причинение тяжких телесных повреждений (GBH) или<br>ранения без<br>умысла",
+            "value": 15000
+        },
+        {
+            "category": "Причинение тяжких телесных повреждений (GBH) или<br>ранения с<br>умыслом",
+            "value": 18000
+        }
+    ],
+    "texts": {
+        "title": "Зарегистрированные преступления в Англии и Уэльсе, 2009-10",
+        "subtitle": null,
+        "x_axis_title": "Преступления",
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5a8ac6"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. Data proportions for each pie slice, the legend labels, color hues, and the extensive text caption below the chart are all semantically identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that no native vegetation exists in Barnes County, North Dakota. However, the chart's legend and its source information explicitly refer to 'native vegetation information' and list several types of vegetation such as 'Mixed Hardwoods - Prairie', 'Prairie', 'Prairie poorly drained', and 'Wet Prairie'. This directly contradicts the claim by showing a distribution of native vegetation types."
+    },
+    "claim": "No native vegetation exists in Barnes County, North Dakota.",
+    "label": false
+}

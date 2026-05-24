@@ -1,0 +1,34 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Sales Taxes",
+            "value": 31
+        },
+        {
+            "label": "Property Taxes",
+            "value": 29
+        },
+        {
+            "label": "Income Taxes",
+            "value": 32
+        },
+        {
+            "label": "Other",
+            "value": 7
+        }
+    ],
+    "texts": {
+        "title": "Composition of State and Local Government<br>Tax Revenue for Ohio, 2007",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: Institute on Taxation & Economic Policy"
+    },
+    "colors": [
+        "#4F81BD",
+        "#C0504D",
+        "#9BBB59",
+        "#8064A2"
+    ]
+}

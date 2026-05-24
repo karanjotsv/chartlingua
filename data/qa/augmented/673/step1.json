@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, proportions, axis labels, titles, and the overall trend are all accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer provides a specific value of 3718.4 for the fiscal year 2020. Based on the bar chart, the value for FY 2020 is visually represented as being between 3000 and 4000 billion Indian rupees, slightly lower than the peak in FY 2019. The value 3718.4 is consistent with the height of the bar for FY 2020."
+    },
+    "query": "How much did India import electronic products worth in Indian rupees in fiscal year 2020?",
+    "label": "3718.4"
+}

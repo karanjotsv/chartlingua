@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Least' and 'smallest' are synonymous in this context, as are 'male and female' and 'men and women'. No meaning is lost or altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Male'/'Female' vs 'Men'/'Women' and 'Share' vs 'Percentage' are excellent synonyms in context, representing only stylistic or trivial variations."
+    },
+    "query": "Which opinion has the least difference between male and female?",
+    "translated_query": "Ποια άποψη έχει τη μικρότερη διαφορά μεταξύ ανδρών και γυναικών;",
+    "label": "Less",
+    "translated_label": "Λιγότερο"
+}

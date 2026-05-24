@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'DRC of buildings' is accurately conveyed as 'replacement cost of buildings', and 'together' is synonymously expressed as 'combined value'. The phrasing 'gross value of land' is a more natural equivalent to 'value of Gross land'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most titles, subtitles, and category labels are perfectly matched or show only minor stylistic differences. The phrase 'DRC of Building' was back-translated as 'Replacement Cost of Building', which is a close semantic match, though 'DRC' can sometimes imply more specificity (e.g., Depreciated Replacement Cost). However, the core meaning of a building cost component is preserved. 'Amenity' being translated to 'Improvements' is also a good semantic match in this context."
+    },
+    "claim": "The value of the Land(R) and DRC of buildings(S) together is higher than the value of Gross land.",
+    "translated_claim": "Совокупная стоимость Земли (R) и восстановительной стоимости зданий (S) выше, чем стоимость валовой стоимости земли."
+}

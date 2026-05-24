@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart is fundamentally inconsistent with the original. It is missing several data categories, most notably the two largest categories from the original chart: 'Water / Wet Soils / Gravel Pits' (the large blue slice) and 'Hardwood - Conifer Forest poorly drained'. Consequently, the proportions of all slices are incorrect, and the overall message is completely distorted. Additionally, the title has been changed, and colors for remaining categories do not match the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to a category named 'Water / Wet Soils / Gravel Pits', but this category is not listed in the chart's legend nor is it represented by any segment in the pie chart."
+    },
+    "claim": "Water / Wet Soils / Gravel Pits hold the least value in the pie chart.",
+    "label": false
+}

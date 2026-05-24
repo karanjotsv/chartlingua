@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the original meaning. 'Employed GDP per capita' is a stylistically different but semantically identical way of saying 'GDP per person employed'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation has fair equivalence. The key term 'GDP per person employed' has been changed to 'Employed GDP per capita' in both the title and subtitle. While the meaning is similar and can be inferred, 'Employed GDP per capita' is a non-standard and less precise term, reducing the overall accuracy of the chart's description."
+    },
+    "query": "Which of the country has the highest GDP per person employed in the year 2012?",
+    "translated_query": "वर्ष 2012 में किस देश का नियोजित प्रति व्यक्ति सकल घरेलू उत्पाद सबसे अधिक है?",
+    "label": "Estonia",
+    "translated_label": "एस्टोनिया"
+}

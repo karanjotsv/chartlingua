@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their proportions, axis labels, titles, and the overall trend are identical. The color hue for the bars is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on female gambling arrests by age but does not specify the year in which the data was collected. Therefore, the claim that this data is from '2014' cannot be verified from the chart."
+    },
+    "claim": "In 2014, the women who were arrested at 65 were the smallest group.",
+    "label": true
+}

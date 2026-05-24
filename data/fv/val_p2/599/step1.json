@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect semantic match to the original. All data categories, values, proportions, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that Chemistry accounts for 20.8% of the total, while Physics accounts for 16.9%. Since 20.8% is a larger value than 16.9%, the claim is directly supported by the data presented."
+    },
+    "claim": "Chemistry supercomputers use more CSCS than supercomputers for Physics. ",
+    "label": "TRUE"
+}

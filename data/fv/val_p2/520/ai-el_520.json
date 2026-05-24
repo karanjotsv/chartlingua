@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Μόνο καπνός",
+            "value": 12.3
+        },
+        {
+            "category": "Και καπνός και snus",
+            "value": 1.1
+        },
+        {
+            "category": "Μόνο snus",
+            "value": 10.0
+        },
+        {
+            "category": "Ούτε καπνός ούτε snus",
+            "value": 76.6
+        }
+    ],
+    "texts": {
+        "title": "Καθημερινή χρήση καπνού από",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#004386",
+        "#E55239",
+        "#FDC100",
+        "#59942C"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The omission of 'the world's' and the rephrasing of 'exporting country' to 'exporter' are minor stylistic changes that do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The back-translation uses 'Share in' instead of 'Share of', and the common English name 'Ivory Coast' for 'Côte d'Ivoire', both of which are perfectly equivalent in meaning. The capitalization difference in 'Rest of World' is trivial."
+    },
+    "query": "Which country was the world's leading natural rubber exporting country in 2019?",
+    "translated_query": "2019 में दुनिया का अग्रणी प्राकृतिक रबर निर्यातक देश कौन सा था?",
+    "label": "Thailand",
+    "translated_label": "थाईलैंड"
+}

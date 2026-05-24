@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, axes, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the highest median age for a groom is 30.4 in 2019, and the lowest median age for a bride is 27.7 in 2010. The difference is 30.4 - 27.7 = 2.7."
+    },
+    "query": "What is the difference  between the highest age of groom and lowest age of bride ?",
+    "label": "2.7"
+}

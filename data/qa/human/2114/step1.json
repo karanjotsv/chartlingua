@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, legend entries, and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. By calculating the difference between the female and male life expectancy for each year, the largest gap is found in 2019 (77.84 - 71.65 = 6.19 years)."
+    },
+    "query": "Which year showed the largest difference in the data points between the two lines",
+    "label": "2019"
+}

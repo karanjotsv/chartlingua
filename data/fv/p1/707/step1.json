@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (57%, 22%, 21%), categories (Yes, No, Don't Know), color hues (green, red, grey), and the main title are all identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the green color denotes 'NO', but the chart's legend clearly indicates that the green color represents 'Yes'."
+    },
+    "claim": "In these chart green colour denotes NO in the  Red C/Sunday Times poll carried out in 2010 in the Republic of Ireland.",
+    "label": true
+}

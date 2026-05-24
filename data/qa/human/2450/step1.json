@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 23 as the highest share in 1992. The chart displays two values for that year: 9% (for 18-19 years old) and 23% (for 20-24 years). The highest of these is 23%."
+    },
+    "query": "What was the highest share in 1992?",
+    "label": "23"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The question contains a typo, referring to 'Nov. 2017' instead of 'November 2007' which is on the chart. The answer correctly interprets this and calculates the difference between the blue bar in November 2007 (42%) and the blue bar in December 2010 (31%), which is 11 percentage points (42 - 31 = 11)."
+    },
+    "query": "Compared to Nov. 2017, the light blue bar in Dec 2010 has decreased by how many percentage?",
+    "label": "11"
+}

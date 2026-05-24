@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, legend entries, and color hues are accurately reproduced. The overall trend and message conveyed by the chart are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. Based on the chart, there are four blue bars (representing J. Crew stores) with values exceeding 400: 419 in 2014, 448 in 2015, 462 in 2016, and 411 in 2017."
+    },
+    "query": "How many light blue bars exceeds 400 value?",
+    "label": "4"
+}

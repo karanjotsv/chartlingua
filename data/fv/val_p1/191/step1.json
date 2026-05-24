@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series (bars, lines), their values, trends, and proportions are accurately reproduced. The chart title, axis titles, labels, and legend text are identical. Color hues for each series are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the average number of edits per day is always above 200. However, the red line, which represents the 'Average per Day', is plotted against the left Y-axis ('Edits Per Day and Average'). This axis has a maximum value of 140, and the red line consistently stays below the 20 mark, never approaching 200."
+    },
+    "claim": "The average number of edits per day between 2005-05-15 and 2005-10-30 is always above 200.",
+    "label": false
+}

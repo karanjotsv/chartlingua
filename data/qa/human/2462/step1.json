@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall structure are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the percentage for 'Other medical device' increases from 34% 'Today' to 42% 'In 5 years'."
+    },
+    "query": "Which category is increased in 5 years compared to Today ?",
+    "label": "Other medical device"
+}

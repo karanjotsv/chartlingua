@@ -1,0 +1,51 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Credit cards",
+            "value": 42
+        },
+        {
+            "category": "Electronic payment (PayPal if available)",
+            "value": 39
+        },
+        {
+            "category": "Debit cards",
+            "value": 28
+        },
+        {
+            "category": "Cash on delivery",
+            "value": 23
+        },
+        {
+            "category": "Bank transfers",
+            "value": 20
+        },
+        {
+            "category": "Gift cards or vouchers",
+            "value": 15
+        },
+        {
+            "category": "Mobile payment",
+            "value": 14
+        },
+        {
+            "category": "Cryptocurrencies (Bitcoin)",
+            "value": 3
+        },
+        {
+            "category": "Other",
+            "value": 3
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Share of online shoppers",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#3182CE"
+    ]
+}

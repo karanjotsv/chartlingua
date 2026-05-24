@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "Соединенные Штаты",
+            "values": [
+                59.66,
+                53
+            ]
+        },
+        {
+            "category": "Великобритания",
+            "values": [
+                44.98,
+                40
+            ]
+        },
+        {
+            "category": "Канада",
+            "values": [
+                56.15,
+                52
+            ]
+        },
+        {
+            "category": "Западная Европа",
+            "values": [
+                52.13,
+                44
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Средние зарплаты в тысячах долларов США",
+        "legend_labels": [
+            "Среднее",
+            "Медиана"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2574cf",
+        "#152e40"
+    ]
+}

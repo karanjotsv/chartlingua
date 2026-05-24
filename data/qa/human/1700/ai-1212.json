@@ -1,0 +1,55 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Protect open lands in<br>national parks",
+            "Protect animals and their<br>habitats",
+            "Reduce effects of climate<br>change",
+            "Protect air quality",
+            "Protect water quality of lakes,<br>rivers and streams"
+        ],
+        "series": [
+            {
+                "name": "Too little",
+                "values": [
+                    54,
+                    62,
+                    65,
+                    65,
+                    67
+                ]
+            },
+            {
+                "name": "About the right amount",
+                "values": [
+                    40,
+                    32,
+                    25,
+                    30,
+                    29
+                ]
+            },
+            {
+                "name": "Too much",
+                "values": [
+                    5,
+                    6,
+                    9,
+                    4,
+                    3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Majorities say federal government is doing too little to<br>protect aspects of the environment",
+        "subtitle": "% of U.S. adults who say <i>the federal government is doing ___ in each area</i>",
+        "source": "Note: Respondents who did not give an answer are not shown.<br>Source: Survey conducted April 29-May 5, 2020.<br>“Two-Thirds of Americans Think Government Should Do More on Climate”",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#1F4E7A",
+        "#4B88C4",
+        "#B9BD71"
+    ]
+}

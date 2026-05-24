@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data proportions, category labels, text content (title and source), and color hues are consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the native vegetation of Deuel County, with the largest portion, represented by the yellow slice, being 'Prairie'. Other categories such as 'Prairie poorly drained' and 'Wet Prairie' also contribute. As 'Prairie' is a type of grassland, and it constitutes the majority category, the claim is supported by the chart."
+    },
+    "claim": "The Deuel County's native vegetation is grassland.",
+    "label": true
+}

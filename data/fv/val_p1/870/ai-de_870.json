@@ -1,0 +1,37 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Kohle",
+            "value": 46.7
+        },
+        {
+            "label": "Wind",
+            "value": 36.6
+        },
+        {
+            "label": "Kernenergie",
+            "value": 8.6
+        },
+        {
+            "label": "Erdgas",
+            "value": 5.6
+        },
+        {
+            "label": "Andere",
+            "value": 2.5
+        }
+    ],
+    "texts": {
+        "title": "Quellen der Stromerzeugung",
+        "subtitle": "Iowa - 2016",
+        "source": null
+    },
+    "colors": [
+        "#b8238d",
+        "#b2c340",
+        "#e0b341",
+        "#7bc3d0",
+        "#a755d6"
+    ]
+}

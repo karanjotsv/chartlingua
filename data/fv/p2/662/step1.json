@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly faithful reproduction of the original. The data, trend, labels, title, and color hue are all semantically consistent, conveying the exact same information and message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The labels on the x-axis are severely overlapped, making them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the largest gap (interpreted as the largest decrease) in the ratio of asset value to debt occurs between June 2004 and June 2007. However, the chart shows a much steeper and larger decline in earlier years. For example, between 1992 and 1995, the ratio dropped from approximately 10 to below 8, a decrease of over 2 points. In contrast, the decrease between 2004 and 2007 was from approximately 5.0 to 4.4, a much smaller drop."
+    },
+    "claim": "The largest gap of Asset value to debt occurs between June 2004 to June 2007. ",
+    "label": "FALSE"
+}

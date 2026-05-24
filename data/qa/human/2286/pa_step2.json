@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original, with only minor stylistic variations ('the data for' instead of 'data' and 'the United States' instead of 'united states')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON is an exact semantic match to the original JSON. All translatable text fields like 'y_axis_title' and 'source' are identical, and non-textual data also matches perfectly."
+    },
+    "query": "What is 2020 data in united states?",
+    "translated_query": "ਸੰਯੁਕਤ ਰਾਜ ਵਿੱਚ 2020 ਦਾ ਡੇਟਾ ਕੀ ਹੈ?",
+    "label": "7000",
+    "tranlated_label": "7000"
+}

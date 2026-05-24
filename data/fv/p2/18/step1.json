@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, proportions, categories, labels, and color assignments are accurately reproduced. The overall message and trends are identical. The only minor difference is the y-axis scale, which does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "In the chart for group '1A', the proportion of 'useful' feedback for the 'issue' category (the green portion of the bar) is approximately 0.15. The proportion of 'useful' feedback for the 'irrelevant' category is a very small, but non-zero value. In contrast, the proportion of 'useful' feedback for the 'abuse' category is zero, as its bar has no green segment. Therefore, the 'useful' proportions for both 'issue' and 'irrelevant' are greater than that for 'abuse'."
+    },
+    "claim": "The comparision of issue useful and irrelevant useful has the bigger value than abuse useful in group of 1A.",
+    "label": "TRUE"
+}

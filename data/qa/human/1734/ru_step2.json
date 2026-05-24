@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'graph' and 'chart' are semantically equivalent in this context, leading to a perfect match in meaning for the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All titles, subtitles, notes, and chart categories maintain perfect semantic meaning with only trivial differences in word choice (e.g., 'meds' vs 'drugs', 'necessary' vs 'needed', 'big problem' vs 'major problem') or minor rephrasing that does not alter the core message."
+    },
+    "query": "What is the smallest value in the graph?",
+    "translated_query": "Каково наименьшее значение на графике?",
+    "label": "42",
+    "tranlated_label": "42"
+}

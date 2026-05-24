@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart perfectly matches the original in terms of data categories, values, and color hues. All text content is identical, and the overall message is preserved. The exploded slice in the rendered version is a stylistic difference that does not alter the semantic content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Opera had the least usage. However, the chart shows that the 'Android' browser had a smaller percentage (3.26%) compared to Opera (5.20%), making the claim false."
+    },
+    "claim": "Opera had the least usage in 2012",
+    "label": "TRUE"
+}

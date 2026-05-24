@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, categories, labels, and the overall message are identical to the original. Color hues for the different political leanings are also consistent. The main differences, such as the legend style (categorical vs. gradient) and the density of gridlines/tick marks, are purely stylistic and do not alter the interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data regarding political disagreement on climate change in various countries. It contains no information about bilingualism or the province of Quebec."
+    },
+    "claim": "The highest rate of bilingualism was in Quebec.",
+    "label": "TRUE"
+}

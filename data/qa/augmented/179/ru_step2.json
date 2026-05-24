@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query omits 'high', making the scope of 'school sports' broader and less specific than the original 'high school sports'. This is a loss of an important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. The only difference is a minor stylistic change in capitalization within the 'note' field ('Information' vs 'information'), which does not alter the meaning."
+    },
+    "query": "How many boys participated in high school sports in 2018/19?",
+    "translated_query": "Сколько мальчиков участвовало в школьном спорте в 2018/19?",
+    "label": "20616",
+    "tranlated_label": "20616"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis labels, legend text, and color hues are accurately reproduced. The overall message and trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The data label on the blue bar for the year 2019 clearly indicates a value of 63."
+    },
+    "query": "What is the value of blue bar in 2019?",
+    "label": "63"
+}

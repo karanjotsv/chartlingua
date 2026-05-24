@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Total Mileniali (vârste 18-33)",
+            "Total Generația X (vârste 34-49)",
+            "Total Boomeri (vârste 50-68)",
+            "Total Generația tăcută (vârste 69-86)"
+        ],
+        "series": [
+            {
+                "name": "Împotrivă",
+                "data": [
+                    27,
+                    38,
+                    45,
+                    50
+                ]
+            },
+            {
+                "name": "În favoarea",
+                "data": [
+                    68,
+                    55,
+                    48,
+                    38
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297CDE",
+        "#1A2D3D"
+    ]
+}

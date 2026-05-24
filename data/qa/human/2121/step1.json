@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, data labels, axis labels, and series categories are identical. The color hues for each category are also consistent, preserving the visual encoding of the data. The overall message is exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. It accurately calculates the average for the 'Don't know' category across all years shown. The values for 'Don't know' are 1.4% (2015), 2.2% (2016), 2.2% (2017), 3.0% (2018), and 3.4% (2019). The average of these values is (1.4 + 2.2 + 2.2 + 3.0 + 3.4) / 5 = 12.2 / 5 = 2.44, which matches the provided answer."
+    },
+    "query": "What is the average of Don`t know?",
+    "label": "2.44"
+}

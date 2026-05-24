@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, series, labels (axis, legend, data points), and trends are accurately reproduced. The line styles (solid, dashed) and marker shapes are also consistent with the data series they represent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the threshold dose for ⁵⁶Fe at a lower LET is less than the dose at a higher LET. The chart shows the opposite: for ⁵⁶Fe, the point at the lower LET (approx. 148 keV/μm) has a threshold dose of 250 cGy, while the point at the higher LET (approx. 185 keV/μm) has a threshold dose of 50 cGy. Thus, the dose at the lower LET is greater, not less, than the dose at the higher LET."
+    },
+    "claim": "The threshold dose for 56Fe 140 (keV/m) LET is less than than threshold dose of 56Fe at 180 (keV/m) LET.",
+    "label": "FALSE"
+}

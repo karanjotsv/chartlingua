@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, title, and color hues are accurately reproduced. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "There is severe text overlap in the bottom-left corner. The source text, URL, and the label for the 'Acad./prof.' slice are jumbled together, making them unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 'School text books' is the smallest category, accounting for only 3,808 titles or 3% of the total. All other categories listed have a significantly larger number of titles and a greater percentage share."
+    },
+    "claim": "School texts are a very large number of books.",
+    "label": "FALSE"
+}

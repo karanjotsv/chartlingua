@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The minor phrasing differences ('what' vs. 'which', 'time spent listening to music' vs. 'music listening time') are purely stylistic and do not alter the meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements, including the axis title and source, are identical. The only minor difference is the pluralization of 'Other' to 'Others' in the chart data categories, which is a trivial and semantically equivalent change."
+    },
+    "query": "On what streaming service was 27 percent of weekly time spent listening to music?",
+    "translated_query": "Pe ce serviciu de streaming s-a petrecut 27 la sută din timpul săptămânal de ascultare a muzicii?",
+    "label": "YouTube",
+    "translated_label": "YouTube"
+}

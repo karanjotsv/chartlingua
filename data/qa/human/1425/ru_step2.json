@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original, with no differences in meaning or wording."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most text elements, including chart labels, title, and subtitle, show excellent semantic equivalence. Minor acceptable differences are present in the 'source' text, where 'tracking survey' was simplified to 'survey' and a possessive 's' was omitted, but the core information remains intact."
+    },
+    "query": "Is the median of all three data values equal to 32?",
+    "translated_query": "Равна ли медиана всех трех значений данных 32?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

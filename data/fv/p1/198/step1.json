@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent with the original in terms of chart type, text, color hues, and overall trends. However, there are several noticeable discrepancies in the data values for individual bars (e.g., the 'Female' bar for 'Skilled Trades Occupation' and the 'Male' bar for 'Administrative and Secretarial Occupations' are visibly larger in the rendered version), which prevents a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the majority of males were in 'Caring, Leisure and Other Service Occupations'. However, the chart shows that the blue bar (representing males) is longest for 'Skilled Trades Occupation', indicating this was the most common occupation for males. The blue bar for 'Caring, Leisure and Other Service Occupations' is one of the shortest."
+    },
+    "claim": "In 2011, the majority of males in Shobrooke were engaged in caring, leisure and other service occupations.",
+    "label": false
+}

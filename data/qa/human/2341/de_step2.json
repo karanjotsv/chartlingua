@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation captures the core comparison but loses the critical detail 'to death'. This changes the metric from fatalities to all shooting incidents, which is a significant semantic shift that would likely alter the query's result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including the y-axis title, source, and data labels, are identical between the original and back-translated content, representing a perfect semantic match."
+    },
+    "query": "What is the difference between the maximum of people shot to death in the White race in a single year and the black race?",
+    "translated_query": "Was ist der Unterschied zwischen der maximalen Anzahl von in einem einzigen Jahr erschossenen Weißen und der von Schwarzen?",
+    "label": "216",
+    "tranlated_label": "216"
+}

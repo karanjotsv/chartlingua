@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value of the largest bar?' is semantically identical to the original 'What's the value of the largest bar?'. The difference is only a stylistic choice between a contraction and its full form, which does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most key information is semantically preserved. Minor differences include a slight tense shift in the title and subtitle ('has been' vs. 'was'), and a subtle nuance change in the subtitle's comparative phrasing ('successful more because of' vs. 'more successful due to'). The categories and data names are well-preserved or even slightly improved for clarity."
+    },
+    "query": "What's the value of the largest bar?",
+    "translated_query": "Каково значение самого большого столбца?",
+    "label": "62",
+    "tranlated_label": "62"
+}

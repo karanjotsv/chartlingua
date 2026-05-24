@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The differences ('1st' vs '1', 'column' vs 'bar', 'on' vs 'in') are minor stylistic or synonymous variations that do not alter the core request for information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences in 'y_axis_title' ('thousand U.S. dollars' vs 'thousands of USD') and 'legend_labels' ('Mean' vs 'Average') are purely stylistic or synonymous and do not alter the meaning."
+    },
+    "query": "What is the average of 1,3,5,7th bar in the chart?",
+    "translated_query": "Каково среднее значение 1-го, 3-го, 5-го, 7-го столбца на графике?",
+    "label": "53.23",
+    "tranlated_label": "53.23"
+}

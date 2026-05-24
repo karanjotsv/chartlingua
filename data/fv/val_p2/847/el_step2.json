@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is semantically identical to the original. The minor difference in punctuation (missing period in original) and leading space do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (specifically the 'label' fields in 'chart_data') is identical between the original and back-translated versions. All other 'texts' fields are null in both, indicating no content was present to be translated or altered."
+    },
+    "claim": " The absorption spectra of HbO2 and Hb are identical",
+    "translated_claim": "Τα φάσματα απορρόφησης της HbO2 και της Hb είναι πανομοιότυπα."
+}

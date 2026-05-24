@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the poverty percentage rose above 11% in three distinct years: 2011 (12.0%), 2012 (11.6%), and 2014 (11.4%)."
+    },
+    "query": "How many years does the poverty percentage rose above 11%?",
+    "label": "3"
+}

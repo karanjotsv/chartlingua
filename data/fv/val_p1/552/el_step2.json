@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences like 'is in the lead of' vs 'leads among' and 'portion/graph' vs 'section/chart' are minor stylistic or synonymous variations that do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are a minor change from 'Others' to 'Other' in one data label and capitalization in the title, which are stylistic/trivial and do not affect the meaning of the chart texts."
+    },
+    "claim": "france is in the lead of wikipedians, as the blue 'france' portion of the graph is more than half of the graph",
+    "translated_claim": "Η Γαλλία ηγείται στους Βικιπαιδιστές, καθώς το μπλε τμήμα 'Γαλλία' του γραφήματος είναι περισσότερο από το μισό του γραφήματος."
+}

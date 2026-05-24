@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Actual",
+            "value": 2.5,
+            "annotation": "A<br>C<br>T<br>U<br>A<br>L"
+        },
+        {
+            "category": "Forecasted",
+            "value": 2.6,
+            "annotation": "F<br>O<br>R<br>C<br>A<br>S<br>T<br>E<br>D"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bar_color": "#F98D09",
+        "annotation_text_color": "#000000",
+        "grid_color": "#C0C0C0",
+        "axis_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

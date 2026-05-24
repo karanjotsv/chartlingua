@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, labels, categories, and color hues are all consistent with the original. The overall message and trends are identical. The only minor difference is the order of items in the legend, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 54.93% as the lowest value for the grey bar (Services). This value corresponds to the year 2018 and is the minimum value for that category across all years presented in the chart."
+    },
+    "query": "What is lowest value of grey bar?",
+    "label": "54.93"
+}

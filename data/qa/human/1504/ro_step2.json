@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Graph' and 'chart' are synonyms in this context, and the minor structural difference ('are there in' vs 'are in') does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is a perfect semantic match to the original. The only difference is the addition of the article 'the' in the title, which is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "How many bars are there in the graph?",
+    "translated_query": "Câte bare sunt în grafic?",
+    "label": "2",
+    "tranlated_label": "2"
+}

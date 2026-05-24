@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, with identical data values, labels, titles, colors, and overall structure. The semantic content is entirely preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the largest value is for Slovenia at 12.6 liters. The two smallest values are for Nauru (6 liters) and Ecuador (4.4 liters). The sum of the two smallest values is 6 + 4.4 = 10.4 liters, which is not greater than the largest value of 12.6 liters."
+    },
+    "query": "Is the sum of smallest two value is greater then then largest value?",
+    "label": "No"
+}

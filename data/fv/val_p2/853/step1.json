@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message about browser market share is identical. The exploded slice is a stylistic difference that does not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses quintiles and tax increases, while the provided chart displays market share percentages for different web browsers. The chart contains no information relevant to the claim."
+    },
+    "claim": "The second quintile had less than half of its members incur a tax increase with the current policy.",
+    "label": "FALSE"
+}

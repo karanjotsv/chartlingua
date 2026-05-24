@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is a good semantic match. It correctly reproduces the data series, their colors, all labels, and annotations. The overall trends and peak locations are accurate. The main difference is that the rendered lines are much smoother than the noisy lines in the original, which represents a loss of detail but not a change in the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that hydrochloric acid is the most intense gas released at 800°C. While the red line for Hydrochloric Acid (HCl) is visually the highest on the chart at this temperature, the legend specifies that its plotted intensity has been multiplied by 150 (150x). In contrast, the black line for Carbon Dioxide (CO₂) has its intensity multiplied by only 3 (3x). A visual comparison at 800°C shows the red line is not 50 times higher than the black line (150/3 = 50), which would be required for its actual intensity to be greater. Therefore, after accounting for the scaling factors provided, the actual intensity of Carbon Dioxide is greater than that of Hydrochloric Acid, refuting the claim."
+    },
+    "claim": "When heated to a temperature of 800 degrees, the most intense gas released is hydrochloric acid.",
+    "label": true
+}

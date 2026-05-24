@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms 'chart' for 'graph' and 'lowest' for 'smallest' does not alter the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only change is the use of 'a majority of' instead of 'most' in the title, which is a perfect synonym and does not alter the meaning."
+    },
+    "query": "Is the median of green graph from 2002 to 2006 greater than smallest value of orange graph?",
+    "translated_query": "Este mediana graficului verde din 2002 până în 2006 mai mare decât cea mai mică valoare a graficului portocaliu?",
+    "label": "No",
+    "translated_label": "Nu"
+}

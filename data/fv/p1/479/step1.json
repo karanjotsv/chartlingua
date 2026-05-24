@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart accurately reproduces the data trends and values of the two line series on a log-log scale. However, it is missing all key textual information, including the chart title, axis titles, and the series labels ('20 W', '30 W'), which makes the chart uninterpretable on its own.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information about profits or years such as 2018 and 2019. The axes are unlabeled numerical scales, with the x-axis ranging from 10 to 50k and the y-axis from below 0.001 to above 0.050, and do not represent time or currency."
+    },
+    "claim": "The chart shows an increase in profits from 2018 to 2019.",
+    "label": false
+}

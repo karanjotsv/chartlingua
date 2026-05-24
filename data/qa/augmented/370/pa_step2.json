@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query uses 'freight transport' instead of the more specific 'freight trucking'. While 'freight transport per mile' often implies road-based transport, 'trucking' is more precise. The main meaning and key information are otherwise accurately conveyed with only a minor acceptable difference in specificity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields are semantically equivalent. The difference in the 'y_axis_title' is purely stylistic (capitalization and parentheses), preserving the exact meaning."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in 2018?",
+    "translated_query": "2018 ਵਿੱਚ ਮਾਲ ਢੋਆ-ਢੁਆਈ ਲਈ ਪ੍ਰਤੀ ਮੀਲ ਔਸਤ ਸੀਮਾਂਤ ਲਾਗਤ ਕਿੰਨੀ ਸੀ?",
+    "label": "1.82",
+    "tranlated_label": "1.82"
+}

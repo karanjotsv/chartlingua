@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Suprafață",
+            "value": 0.15
+        },
+        {
+            "category": "Suprafață arabilă",
+            "value": 0.6
+        },
+        {
+            "category": "Populație",
+            "value": 1.96
+        },
+        {
+            "category": "Linie de coastă",
+            "value": 1.16
+        }
+    ],
+    "texts": {
+        "title": "Resursele Israelului ca % din statele arabe",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bars": [
+            "#B3B3FF",
+            "#993366",
+            "#FFFFCC",
+            "#CCFFFF"
+        ],
+        "plot_bgcolor": "#E0E0FF",
+        "paper_bgcolor": "#FFFFFF",
+        "font": "#000000",
+        "border": "#000000"
+    }
+}

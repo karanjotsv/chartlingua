@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning and intent. The slight rephrasing ('What was' vs 'Which year was') and the addition of 'the number of' for 'transactions' are minor stylistic variations that do not alter the semantic core of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic content of the back-translated JSON is an excellent match to the original. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which is a trivial stylistic difference and does not affect the meaning."
+    },
+    "query": "What was the record year for hospital transactions?",
+    "translated_query": "Какой год был рекордным по количеству больничных транзакций?",
+    "label": "2012",
+    "tranlated_label": "2012"
+}

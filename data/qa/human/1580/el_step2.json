@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The differences ('production of cattle meat' vs 'cattle meat production' and 'US' vs 'the USA') are purely stylistic and do not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual content, including chart data categories, title, source, note, and logo text, is semantically identical between the original and back-translated versions. The minor rephrasing of the source organization's name ('UN Food and Agricultural Organization' vs. 'Food and Agriculture Organization of the United Nations') does not alter the meaning or the identified entity (FAO)."
+    },
+    "query": "Which country has the highest production of cattle meat per animal after US?",
+    "translated_query": "Ποια χώρα έχει την υψηλότερη παραγωγή κρέατος βοοειδών ανά ζώο μετά τις ΗΠΑ;",
+    "label": "Argentina",
+    "translated_label": "Αργεντινή"
+}

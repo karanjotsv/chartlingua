@@ -1,0 +1,35 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Простота использования",
+            "value": 50
+        },
+        {
+            "category": "Рекомендация",
+            "value": 19
+        },
+        {
+            "category": "Пробное использование",
+            "value": 6
+        },
+        {
+            "category": "Использовал ранее",
+            "value": 25
+        }
+    ],
+    "texts": {
+        "title": "Обоснование выбора инструмента",
+        "subtitle": null,
+        "x_axis_title": "Причина использования",
+        "y_axis_title": "Процент пользователей",
+        "source": null,
+        "notes": null
+    },
+    "colors": [
+        "#FDBB0B",
+        "#00A9E0",
+        "#00A9E0",
+        "#00A9E0"
+    ]
+}

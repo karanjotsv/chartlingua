@@ -1,0 +1,42 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": [
+        {
+            "name": "Ca americani, putem întotdeauna<br>găsi modalități de a ne rezolva problemele<br>și de a obține ceea ce ne dorim",
+            "values": [
+                50,
+                65,
+                57
+            ]
+        },
+        {
+            "name": "Această țară nu poate<br>rezolva multe dintre<br>problemele sale importante",
+            "values": [
+                48,
+                32,
+                41
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Majoritatea americanilor spun că țara „poate întotdeauna<br>găsi modalități de a-și rezolva problemele”",
+        "subtitle": "% care spun ...",
+        "categories": [
+            "Dem/Simpatizant Dem",
+            "Rep/Simpatizant Rep",
+            "Total"
+        ],
+        "source": "Notă: Răspunsurile de tip „Fără răspuns” nu sunt afișate.<br>Sursa: Sondaj realizat pe adulți din S.U.A. în perioada 27 iulie - 2 august 2020.",
+        "logo": "PEW RESEARCH CENTER"
+    },
+    "colors": {
+        "bar_colors": [
+            "#8C783C",
+            "#D1BF8A"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000"
+        ]
+    }
+}

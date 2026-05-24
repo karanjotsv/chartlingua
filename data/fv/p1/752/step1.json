@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, legend labels, data proportions, and color hue assignments are all consistent with the original. The overall message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows that the largest segment of the population is 'Not a visible minority', which constitutes a clear majority of the circle. The combined segments for all visible minorities make up a much smaller portion of the total, contradicting the claim."
+    },
+    "claim": "The majority of Ottawa's population is comprised of visible minorities.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, axis titles, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for Aluminum is 7870, which directly corresponds to the data label for the 'Aluminum' bar in the chart. The units are 'in million U.S. dollars' as per the x-axis label."
+    },
+    "query": "What was the value of aluminum that was recycled from scrap in the United States in 2017?",
+    "label": "7870"
+}

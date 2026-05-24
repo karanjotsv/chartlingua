@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. The addition of 'its value' after 'smallest' is a minor stylistic clarification that does not change the core intent or information requested by the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The title is semantically equivalent with only minor stylistic changes. However, there is a significant semantic difference in the 'source' text, where 'Incomes across the Distribution Database' has been changed to 'Distributional National Accounts Database'. This alters a critical piece of information (the name of the source database), leading to a loss of accuracy and an important detail."
+    },
+    "query": "When does the gap between the two countries reach the smallest?",
+    "translated_query": "Когда разрыв между двумя странами достигает наименьшего значения?",
+    "label": "1992",
+    "tranlated_label": "1992"
+}

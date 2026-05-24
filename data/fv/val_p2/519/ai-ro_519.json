@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Doar fumat",
+            "value": 12.3
+        },
+        {
+            "category": "Fumat și snus",
+            "value": 1.1
+        },
+        {
+            "category": "Doar snus",
+            "value": 10.0
+        },
+        {
+            "category": "Nici fumat, nici snus",
+            "value": 76.6
+        }
+    ],
+    "texts": {
+        "title": "Consumul zilnic de tutun din",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#004386",
+        "#E55239",
+        "#FDC100",
+        "#59942C"
+    ]
+}

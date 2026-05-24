@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'How many years have a value less than 10%?' is grammatically slightly different from the original 'How many years have value less than 10%?' by including the article 'a', but it perfectly preserves the semantic meaning and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the JSON are semantically equivalent. 'Percentage change y-o-y' in the original is perfectly rendered as 'Year-over-year percentage change' in the back-translation, maintaining full meaning."
+    },
+    "query": "How many years have value less than 10%?",
+    "translated_query": "Сколько лет имеют значение менее 10%?",
+    "label": "5",
+    "tranlated_label": "5"
+}

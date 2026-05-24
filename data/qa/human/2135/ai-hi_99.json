@@ -1,0 +1,69 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "2014",
+            "2019*"
+        ],
+        "series": [
+            {
+                "name": "कंप्यूटिंग",
+                "data": [
+                    105.4,
+                    107.2
+                ]
+            },
+            {
+                "name": "वायरलेस",
+                "data": [
+                    91.9,
+                    107.8
+                ]
+            },
+            {
+                "name": "उपभोक्ता",
+                "data": [
+                    53.9,
+                    61.4
+                ]
+            },
+            {
+                "name": "ऑटोमोटिव",
+                "data": [
+                    25.8,
+                    41.3
+                ]
+            },
+            {
+                "name": "औद्योगिक",
+                "data": [
+                    32.1,
+                    42.9
+                ]
+            },
+            {
+                "name": "वायर्ड संचार",
+                "data": [
+                    25.6,
+                    29.0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "अरब अमेरिकी डॉलर में मांग",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2C7BE5",
+        "#1A3B53",
+        "#AEB6C1",
+        "#A41D22",
+        "#79B443",
+        "#F2C43D"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translated claim significantly distorts the date range of the Wikipedia edits being mentioned. The original implies a period from Feb 10 to Apr 11 (likely within the year 2012), while the back-translation specifies 'February 2010 to April 2011', changing both the years and the level of date specificity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'name' field 'Edits', is an exact match between the original and back-translated JSON. All other potential text fields (title, subtitle, labels, etc.) were null in both versions."
+    },
+    "claim": " English Wikipedia edits are mentioned during Feb 10 to Apr 11 at the year 2012.",
+    "translated_claim": "Правки в английской Википедии упоминаются за период с февраля 2010 года по апрель 2011 года в 2012 году."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, axis ranges, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the brightness of the stars is the same. The chart, which displays the apparent magnitude of the stars, shows different values for each star. For example, Dubhe has an apparent magnitude of 1.8, Merak has 2.4, and Megrez has 3.3. Since the magnitudes are not the same, the claim is refuted by the chart."
+    },
+    "claim": "The brightness of the stars in the Big Dipper is the same.",
+    "label": false
+}

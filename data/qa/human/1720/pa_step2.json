@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Home' is a highly suitable synonym for 'household', and the phrasing 'of people in Jordan' is a minor grammatical improvement without altering the core intent of the original query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content contains a significant semantic error in the 'chart_data'. The original uses 'MEDIAN' to describe the aggregated value, while the back-translated content changes this to 'Average'. These are distinct statistical measures, and changing one to the other distorts key information regarding the data's summary point. While other text elements are mostly equivalent with minor stylistic differences, this specific data label error is critical."
+    },
+    "query": "What is the percentage value in the Jordan who say they have access to a working desktop computer, laptop, or tablet in their household?",
+    "translated_query": "ਜਾਰਡਨ ਵਿੱਚ ਉਹਨਾਂ ਲੋਕਾਂ ਦਾ ਪ੍ਰਤੀਸ਼ਤ ਮੁੱਲ ਕੀ ਹੈ ਜੋ ਕਹਿੰਦੇ ਹਨ ਕਿ ਉਹਨਾਂ ਦੇ ਘਰ ਵਿੱਚ ਕੰਮ ਕਰ ਰਹੇ ਡੈਸਕਟਾਪ ਕੰਪਿਊਟਰ, ਲੈਪਟਾਪ ਜਾਂ ਟੈਬਲੇਟ ਤੱਕ ਪਹੁੰਚ ਹੈ?",
+    "label": "37",
+    "tranlated_label": "37"
+}

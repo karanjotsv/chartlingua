@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and conditional color coding for the labels (green for upward rank change, red for downward) are accurately replicated. The overall message and ranking are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart indicates that the most popular Wikipedia article of the week was 'Bird Box (film)' with 3,044,258 views. 'Aquaman (film)' was the third most popular article with 1,224,616 views."
+    },
+    "claim": "The Wikipedia article on Aquaman (film) was the most popular article of the week of December 23 to 29, 2018.",
+    "label": true
+}

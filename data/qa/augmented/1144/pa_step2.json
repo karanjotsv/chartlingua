@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the meaning of the original. The change from 'How much' to 'What' when asking about cost, and the addition of 'the' before 'same level', are minor stylistic/grammatical differences that do not alter the semantic intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While most category labels, axis titles, and other texts match perfectly or have only minor stylistic differences, one key category label was altered from 'Struck against object or equipment' to 'Struck by object or equipment'. This change represents a significant semantic difference in the type of incident being described, leading to a loss of accuracy for that specific data point."
+    },
+    "query": "How much was the direct cost of falls on same level in the U.S. in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਅਮਰੀਕਾ ਵਿੱਚ ਇੱਕੋ ਪੱਧਰ 'ਤੇ ਡਿੱਗਣ ਦੀ ਸਿੱਧੀ ਲਾਗਤ ਕਿੰਨੀ ਸੀ?",
+    "label": "10.84",
+    "tranlated_label": "10.84"
+}

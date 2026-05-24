@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, categories in the legend, and the color hues for each category are all consistent with the original image. The overall message, showing the overwhelming dominance of the 'White' category, is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides no information, title, or context to indicate that the data is related to a location named 'chattisham'. Therefore, the claim cannot be verified based on the chart alone."
+    },
+    "claim": "chattisham has big white ethnical group.",
+    "label": "TRUE"
+}

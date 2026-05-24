@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are consistent. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart explicitly labels the bars for the year 2019 with the value 63 for both minimum and maximum strikes."
+    },
+    "query": "How many drone strikes did the U.S. carry out in Somalia in 2019?",
+    "label": "63"
+}

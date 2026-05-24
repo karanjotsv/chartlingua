@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the meaning and all key information of the original. Differences are purely stylistic ('water level in both red containers' vs 'both red container water level', 'on the bar chart' vs 'in the bar graph chart') and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, axis titles, source) are null in both the original and back-translated content, indicating perfect semantic equivalence as there is no text to compare or diverge."
+    },
+    "claim": "Both red container water level is below 3 in the bar graph chart.",
+    "translated_claim": "Η στάθμη του νερού και στα δύο κόκκινα δοχεία είναι κάτω από 3 στο ραβδόγραμμα."
+}

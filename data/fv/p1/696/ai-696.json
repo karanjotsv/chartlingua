@@ -1,0 +1,38 @@
+{
+    "chart_type": "donut",
+    "chart_data": [
+        {
+            "category": "Biogas",
+            "value": 11.8
+        },
+        {
+            "category": "Hydro",
+            "value": 20.3
+        },
+        {
+            "category": "Wind",
+            "value": 40.4
+        },
+        {
+            "category": "Solar",
+            "value": 6.6
+        },
+        {
+            "category": "Biomass",
+            "value": 19.8
+        }
+    ],
+    "texts": {
+        "title": "Electricity generation from renewable sources in Germany, in 2009",
+        "subtitle": null,
+        "source": "Source: Federal Ministry for Environment, Nature Conservation and Nuclear Safety, June 2010, pg.13",
+        "note": null
+    },
+    "colors": [
+        "#c9a300",
+        "#3f7c93",
+        "#4c9a97",
+        "#f77e38",
+        "#997e00"
+    ]
+}

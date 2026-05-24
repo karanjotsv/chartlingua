@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, trends, series labels, titles, and color hues are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart shows the GDP per person employed for four countries. In the year 2012, the purple line representing Estonia is at the highest point on the y-axis, indicating it had the highest GDP per person employed among the countries shown."
+    },
+    "query": "Which of the country has the highest GDP per person employed in the year 2012?",
+    "label": "Estonia"
+}

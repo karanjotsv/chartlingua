@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. Differences are only stylistic (e.g., 'Other' vs 'other', 'which has white color' vs 'which is white', 'in the chart' vs 'on the chart') and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All text elements, including chart categories and the title, convey the exact same meaning with only trivial stylistic differences (e.g., 'Home fuel' vs. 'Household fuel', minor rephrasing in the title)."
+    },
+    "claim": "The section representing other which has white color is the largest section in the chart shown ",
+    "translated_claim": "Раздел, представляющий \"Другие\", который имеет белый цвет, является самым большим разделом на показанной диаграмме."
+}

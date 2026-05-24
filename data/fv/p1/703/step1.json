@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, categories, titles, and axis labels are accurately reproduced. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that 'Power Generation and Supply' has a far greater Total GWP (approximately 320 MTCO2E) than 'Truck Transportation' (approximately 95 MTCO2E), directly contradicting the claim."
+    },
+    "claim": "Truck transportation was a great contributor of total GWP in comparison to Power Generation and Supply.",
+    "label": false
+}

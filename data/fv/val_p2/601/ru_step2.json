@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. Differences are minor stylistic choices and a more formal expansion of 'Earth&Env science' to 'Earth and Environmental Sciences', which does not alter the core information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General topic of chart data is captured, but there is a loss of accuracy and nuance in one key category. 'Fluid Dynamics' was back-translated as 'Hydrodynamics', which is a narrower field (dealing only with liquids, not gases like fluid dynamics) and thus changes the original meaning's scope. Minor differences like 'Science' vs 'Sciences' or 'Others' vs 'Other' are acceptable, as is the expansion of the abbreviation 'Env.'."
+    },
+    "claim": "The field of chemistry, Physics and Earth&Env science combined have about half of the usage of CSCS supercomputers in 2011.",
+    "translated_claim": "Области химии, физики и наук о Земле и окружающей среде вместе составляют примерно половину использования суперкомпьютеров CSCS в 2011 году."
+}

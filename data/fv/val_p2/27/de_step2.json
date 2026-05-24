@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The phrases 'population growth' and 'is associated with' are perfect synonyms for 'population increase' and 'is related to' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "There was no translatable text in the original JSON, and the back-translated JSON correctly reflects this by also having no text. The equivalence is perfect."
+    },
+    "claim": "The largest population increase is related to the decade between 1930 and 1920.",
+    "translated_claim": "Der größte Bevölkerungszuwachs steht im Zusammenhang mit dem Jahrzehnt zwischen 1930 und 1920."
+}

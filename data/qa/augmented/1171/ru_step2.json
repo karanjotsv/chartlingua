@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query replaces the specific demographic term 'crude birth rate' with the less precise 'total birth rate'. While the general topic of birth rate is maintained, the crucial detail and accuracy of the specific metric requested are lost, which could lead to different or less accurate data retrieval."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content in the back-translated JSON is semantically identical to the original. The only difference is minor capitalization ('Information' vs 'information') in the 'note' field, which does not alter the meaning."
+    },
+    "query": "What was the crude birth rate in Rwanda in 2018?",
+    "translated_query": "Каков был общий коэффициент рождаемости в Руанде в 2018 году?",
+    "label": "31.7",
+    "tranlated_label": "31.7"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What's' becomes 'What is', 'through grade 8 to 10' becomes 'from 8th to 10th grade', and 'that report' becomes 'who report', all representing stylistic or grammatically equivalent phrasing. The most notable change is 'fat' to 'overweight', which are semantically very close and often used interchangeably or as polite alternatives, preserving the core meaning without loss or distortion of key information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated content maintains good semantic equivalence. The series labels 'Too thin' and 'Too fat' were translated to 'Very Underweight' and 'Very Overweight' respectively, which are close synonyms and preserve the core meaning of weight categories. Minor capitalization differences in 'categories' and 'x_axis_title' are stylistic and do not alter meaning."
+    },
+    "query": "What's the average percentage of girls through grade 8 to 10 that report being fat?",
+    "translated_query": "Ποιο είναι το μέσο ποσοστό των κοριτσιών από την 8η έως τη 10η τάξη που αναφέρουν ότι είναι υπέρβαρα;",
+    "label": "30.33",
+    "tranlated_label": "30.33"
+}

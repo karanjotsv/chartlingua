@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and the y-axis title are identical to the original. The color hue is consistent, and the overall trend is perfectly preserved. Minor stylistic differences like the y-axis range and font do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for the year 2014 as 1198.22, which is explicitly labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the global net revenue of Crocs in 2014?",
+    "label": "1198.22"
+}

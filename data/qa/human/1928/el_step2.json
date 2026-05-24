@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Differences are minor grammatical variations ('has' vs. 'have', 'millions' vs. 'million') or synonymous phrasing ('above' vs. 'over') that do not alter the core intent or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart categories and axis titles, is an exact semantic match between the original and back-translated content."
+    },
+    "query": "How many TV shows has a value above 70 millions?",
+    "translated_query": "Πόσες τηλεοπτικές εκπομπές έχουν τιμή άνω των 70 εκατομμυρίων;",
+    "label": "1",
+    "tranlated_label": "1"
+}

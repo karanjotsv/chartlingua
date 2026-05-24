@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (66%/34% and 58%/42%), category labels, axis labels, and color hues are identical. The overall message and data representation are completely consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the values for the blue bars ('Connected medical device device') are 66% for 'Today' and 58% for 'In 5 years'. The average of these two values is (66 + 58) / 2 = 62."
+    },
+    "query": "What is the average of blue bar?",
+    "label": "62"
+}

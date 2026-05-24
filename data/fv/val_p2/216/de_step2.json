@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Awards event' and 'award ceremony' are synonymous, and the change from 'is allocated to' to 'is for' is a minor stylistic variation that does not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The chart title is an exact match, and the core descriptions in the data labels are preserved or use close synonyms ('Awards Event' vs. 'Award Ceremony'). The only minor discrepancy is the consistent change from the specific term 'Bill' to the more generic 'Item' across all labels, which slightly reduces specificity but does not alter the primary meaning."
+    },
+    "claim": "The majority of expenditure in the WLM-ZA-2012 dataset is allocated to Awards event.",
+    "translated_claim": "Der Großteil der Ausgaben im WLM-ZA-2012-Datensatz entfällt auf die Preisverleihung."
+}

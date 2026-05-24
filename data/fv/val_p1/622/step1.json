@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues are consistent with the original, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the distances between bus and trolleybus stations are the same, but the chart clearly shows different values for each. The distance for the Bus route is 621 m, while the distance for the Trolley route is 543 m."
+    },
+    "claim": "The distances between stations of the diesel bus route are the same as those of the trolleybus route in Brasov, Romania as of June 2012.",
+    "label": false
+}

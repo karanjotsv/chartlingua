@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly maintains the original meaning. 'Points' is accurately conveyed as 'values' in the context of a bar chart, and 'had the same' is semantically equivalent to 'were equal'."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Most of the JSON content, including the chart title and the majority of data categories, shows perfect semantic equivalence. However, there is a distinct semantic difference in one category label within 'chart_data': 'I don't explain it' was back-translated to 'I do not define it'. 'Explain' and 'define' are not synonyms, leading to a loss of nuance or a change in the intended meaning for that specific data point."
+    },
+    "claim": "An umbrella and A community had the same points in the bar chart.",
+    "translated_claim": "ਬਾਰ ਚਾਰਟ ਵਿੱਚ ਇੱਕ ਛਤਰੀ ਅਤੇ ਇੱਕ ਭਾਈਚਾਰੇ ਦੇ ਅੰਕ ਬਰਾਬਰ ਸਨ।"
+}

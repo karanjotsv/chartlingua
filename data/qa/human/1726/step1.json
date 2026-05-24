@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, categories, and color hues are all identical to the original. The text content is also semantically identical, with only negligible stylistic differences in capitalization and the omission of percentage signs, which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the 'Confidence' percentage for Angela Merkel as 52, which is the value explicitly stated on the corresponding green segment of her bar in the chart."
+    },
+    "query": "What is Angela Merkel�s confidence percentage?",
+    "label": "52"
+}

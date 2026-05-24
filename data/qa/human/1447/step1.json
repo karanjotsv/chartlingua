@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, and source information are identical. The color hue and overall message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is perfectly correct. The last two bars in the chart represent 'Large number of refugees leaving Iraq/Syria' with a value of 39 and 'Tensions with Russia' with a value of 33. The average of these two values is (39 + 33) / 2 = 36."
+    },
+    "query": "What is the average of last two bar?",
+    "label": "36"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Higher' and 'greater' are synonymous, and the slight rephrasing of 'at 1000nm' does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (labels in chart_data) is perfectly identical in both the original and back-translated versions. Other text fields in 'texts' were null in both, indicating no text to translate or back-translate there."
+    },
+    "claim": "The absorption coefficient of Hb is higher at 1000nm than HbO2.",
+    "translated_claim": "Hb ਦਾ ਸੋਖਣ ਗੁਣਾਂਕ 1000nm 'ਤੇ HbO2 ਨਾਲੋਂ ਵੱਧ ਹੁੰਦਾ ਹੈ।"
+}

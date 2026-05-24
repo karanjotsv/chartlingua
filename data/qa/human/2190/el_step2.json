@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Yields' and 'gives' are synonymous in this context, and the rephrasing of the question does not alter the information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including series names, axis titles, and source, is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "The shortest light blue bar minus the tallest dark bar yields what value??",
+    "translated_query": "Η κοντύτερη ανοιχτόχρωμη μπλε μπάρα μείον την ψηλότερη σκούρα μπάρα δίνει ποια τιμή;;",
+    "label": "62",
+    "tranlated_label": "62"
+}

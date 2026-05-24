@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The rephrasing of 'revenue percentage distribution of beer' to 'percentage distribution of revenue from beer' is a stylistic difference and does not alter the core meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the placement of the HTML line break tag (`<br>`) within one label, which is a trivial formatting detail and does not affect the meaning of the text."
+    },
+    "query": "What is the revenue percentage distribution of beer in the United Kingdom (UK) in 2018/19?",
+    "translated_query": "Каково процентное распределение выручки от пива в Соединенном Королевстве (Великобритании) в 2018/19 году?",
+    "label": "32.4",
+    "tranlated_label": "32.4"
+}

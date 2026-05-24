@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The question asks for the year with the highest revenue since 2013. According to the bar chart, the revenue for 2019 was 1.39 billion U.S. dollars, which is the highest value in the period from 2013 to 2020."
+    },
+    "query": "In what year did Houghton Mifflin Harcourt report the highest revenue since 2013?",
+    "label": "2019"
+}

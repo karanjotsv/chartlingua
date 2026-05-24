@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart is poorly consistent. While the data proportions and color hues of the pie slices are accurate, most of the category labels are missing or unreadable because they are rendered in black text on a black background. This critical loss of information means the chart fails to convey what most of the slices represent, fundamentally altering its meaning and usefulness.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has a severe visual flaw: most of the data labels are rendered in black text against a black background, making them completely unreadable. This significantly impedes the interpretation of the chart."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the market share for smartphone operating systems, and one system (the large yellow slice) clearly has the largest share. However, the chart does not label which operating system corresponds to which slice, with the exception of 'iOS'. Therefore, it is impossible to verify from the chart alone that the largest share belongs to 'Symbian'."
+    },
+    "claim": "Symbian had the largest market share of Q2 smartphone sales in 2009.",
+    "label": "TRUE"
+}

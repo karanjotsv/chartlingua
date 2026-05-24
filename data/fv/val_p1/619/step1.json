@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, text content, colors, and the overall message are identical. Both charts even include the same error bars.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart clearly displays two bars. The grey bar, representing 'Emissions', has a positive value of 526.3 and extends upwards from the zero line. The green bar, representing 'Absorption by LULUCF', has a negative value of -99.9 and extends downwards from the zero line, which perfectly matches the claim."
+    },
+    "claim": "The bar chart has two bars - one depicting positive value and the other negative.",
+    "label": true
+}

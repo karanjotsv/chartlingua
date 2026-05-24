@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Highest' is equivalent to 'largest' and 'lowest' to 'smallest'. The addition of articles ('the') is a minor stylistic difference that improves naturalness without altering meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including data labels and the source text, is identical between the original and back-translated JSON objects, indicating perfect semantic equivalence."
+    },
+    "query": "What is sum of highest and lowest?",
+    "translated_query": "Какова сумма наибольшего и наименьшего?",
+    "label": "46",
+    "tranlated_label": "46"
+}

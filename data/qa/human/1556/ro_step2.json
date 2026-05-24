@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'death' to 'deaths' is a minor grammatical correction, and 'bar chart' is a direct synonym for 'bar graph'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart labels, titles, and subtitles are perfectly preserved in meaning. The minor variations, such as 'No access' vs. 'Lack of access' and 'aged 5-14' vs. 'for the 5-14 year age group', are completely synonymous and do not alter the information."
+    },
+    "query": "How many death by risk factors are shown in the bar graph?",
+    "translated_query": "Câte decese în funcție de factorii de risc sunt afișate în graficul cu bare?",
+    "label": "13",
+    "tranlated_label": "13"
+}

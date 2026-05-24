@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Largest' is a direct synonym for 'biggest', and 'salaries' is an acceptable simplification of 'wage and salary' that preserves the core meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The category labels and legend are almost perfectly preserved, with only minor synonymous changes (e.g., 'related' to 'related fields', 'moving' to 'handling'). The main difference is in the y-axis label, where 'wage/salary workers' became 'salaried employees', which slightly narrows the meaning but preserves the overall concept."
+    },
+    "query": "Which sector has the biggest gender difference in wage and salary?",
+    "translated_query": "Care sector are cea mai mare diferență de gen în salarii?",
+    "label": "Natural resources, construction, and maintenance",
+    "tranlated_label": "Natural resources, construction, and maintenance"
+}

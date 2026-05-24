@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, text elements (title, axes), and color hues for the data series are accurately reproduced. The overall message and data trends are identical. Minor stylistic differences, such as the legend format and the fill of the dumbbell bars, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is completely inconsistent with the chart. The chart provided is a dumbbell plot, not a pie chart. It displays percentages of agreement, not absolute numbers of people in millions. Furthermore, the chart does not mention the 'Democratic Party'; it shows data for 'Political left', 'Political center', and 'Political right' across various countries."
+    },
+    "claim": "Democratic Party is the highest million of people in the pie chart.",
+    "label": "TRUE"
+}

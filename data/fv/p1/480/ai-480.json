@@ -1,0 +1,56 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "title": "NatGas- Energy consumed in Manufacturing Process of Hemp<br>Fiber",
+            "labels": [
+                "Noncellulosic organic fiber<br>manufacturing",
+                "Power generation and supply",
+                "Fiber, yarn, and thread mills",
+                "Nitrogenous fertilizer<br>manufacturing",
+                "Other basic organic chemical<br>manufacturing",
+                "All other sectors"
+            ],
+            "values": [
+                28,
+                18,
+                13,
+                6,
+                9,
+                26
+            ]
+        },
+        {
+            "title": "Coal- Energy Consumed in Manufacturing Process of Hemp Fiber",
+            "labels": [
+                "Power generation and supply",
+                "Noncellulosic organic fiber<br>manufacturing",
+                "State and local government electric<br>utilities",
+                "Other basic organic chemical<br>manufacturing",
+                "Paper and paperboard mills",
+                "All other sectors"
+            ],
+            "values": [
+                75,
+                10,
+                5,
+                4,
+                3,
+                3
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    },
+    "colors": [
+        "#3b62a1",
+        "#a23c3b",
+        "#729b4e",
+        "#6b4594",
+        "#3e89a5",
+        "#d67a35"
+    ]
+}

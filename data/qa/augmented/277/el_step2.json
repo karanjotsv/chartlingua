@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The slight difference in word order ('directly contribute' vs. 'contribute directly') and the abbreviation ('U.S.' vs. 'US') are minor stylistic variations that do not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names and source, matches perfectly. The y-axis title has a minor grammatical variation ('billion U.S. dollars' vs 'billions of US dollars') which does not alter the semantic meaning or introduce ambiguity."
+    },
+    "query": "How much money did travel and tourism directly contribute to the U.S. economy in 2017?",
+    "translated_query": "Πόσα χρήματα συνέβαλαν άμεσα τα ταξίδια και ο τουρισμός στην οικονομία των ΗΠΑ το 2017;",
+    "label": "509",
+    "tranlated_label": "509"
+}

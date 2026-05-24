@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (title, axis labels), data values, categories, and color hues are consistent with the original. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately describes the chart's content, which is confirmed by the title '.458 Lott Bullet Weight to Velocity Comparison' and the labels on the x-axis (Bullet Velocity) and y-axis (Bullet Weight)."
+    },
+    "claim": "The chart compares the weight of .458 Lott bullets to their velocity.",
+    "label": true
+}

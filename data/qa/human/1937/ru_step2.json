@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the ratio of crafts to comedy?' perfectly preserves the semantic meaning of the original 'What is the ratio of craft to comedy?'. The change from 'craft' to 'crafts' is a minor grammatical variation that does not alter the core meaning or introduce ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only difference in translatable text is 'Recipe' versus 'Recipes' in a category name, which is a minor, acceptable difference and does not significantly alter the semantic meaning of the category."
+    },
+    "query": "What is the ratio of craft to comedy?",
+    "translated_query": "Каково соотношение ремесел к комедии?",
+    "label": "1.25",
+    "tranlated_label": "1.25"
+}

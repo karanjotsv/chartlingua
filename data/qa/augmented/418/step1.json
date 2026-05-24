@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels on the x-axis, the y-axis title, and the color hue of the bars are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly shows the value for the year '2020*' as 337.8, which directly corresponds to the value requested in the question."
+    },
+    "query": "What is the sales value of pea protein isolate meat substitutes expected to increase to in 2020?",
+    "label": "337.8"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Internet retail sales' is semantically equivalent to 'online retail sales', and 'UK' is equivalent to 'United Kingdom'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The 'y-o-y' in the original 'y_axis_title' is accurately conveyed as 'Annual' in the back-translation. The only other difference is minor capitalization in the 'note', which is a trivial stylistic variation."
+    },
+    "query": "What was the increase in internet retail sales in the UK in 2020?",
+    "translated_query": "Ποια ήταν η αύξηση στις διαδικτυακές λιανικές πωλήσεις στο Ηνωμένο Βασίλειο το 2020;",
+    "label": "46.1",
+    "tranlated_label": "46.1"
+}

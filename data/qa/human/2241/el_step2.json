@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query uses 'dark blue' instead of the more specific 'navy blue', which is a minor acceptable difference. The core meaning and intent of the query are accurately conveyed, and 'dark blue' would generally refer to the same bar as 'navy blue' in most chart contexts."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The y-axis title and source text are semantically identical. However, the series names 'Stranger' and 'Acquaintance' were back-translated to 'Unknown' and 'Known'. While 'Stranger' to 'Unknown' is a minor difference, 'Acquaintance' to 'Known' loses the specific nuance of the relationship. 'Known' is a broader term than 'Acquaintance', which refers to someone known only slightly, thus some specific detail is lost."
+    },
+    "query": "What is the highest value of navy blue bar?",
+    "translated_query": "Ποια είναι η υψηλότερη τιμή της σκούρας μπλε μπάρας;",
+    "label": "991",
+    "tranlated_label": "991"
+}

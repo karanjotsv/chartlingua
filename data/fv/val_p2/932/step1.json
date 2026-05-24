@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, the overall trend on a logarithmic scale, axis labels, titles, and color scheme are all highly consistent with the original. The core message of the chart is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of U.S. patents granted has reduced since 1980, but the chart's line graph clearly shows a significant and sustained increase in patents granted from 1980 to the end of the time series."
+    },
+    "claim": "In this chart , The number of U.S. patents granted has reduced since 1980.",
+    "label": "FALSE"
+}

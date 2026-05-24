@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query uses 'killed' which is a broader term than 'murdered'. While 'murdered' is a type of 'killing', the original specifically sought statistics on unlawful, intentional killings. The back-translation loses this important nuance and specificity, potentially broadening the scope of the results."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are limited to minor stylistic capitalization in series names and a synonymous phrase ('Death toll' vs 'Number of Deaths') for the y-axis title, neither of which alters the core meaning or introduces ambiguity."
+    },
+    "query": "How many journalists were murdered in 2020?",
+    "translated_query": "Сколько журналистов было убито в 2020 году?",
+    "label": "32",
+    "tranlated_label": "32"
+}

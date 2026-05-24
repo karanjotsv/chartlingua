@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and data proportions are identical. The only differences are stylistic (exploded slice, slice order), which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays market share percentages for different web browsers (e.g., Internet Explorer, Google Chrome, Mozilla Firefox). It contains no information regarding populations, health statistics, or HIV/AIDS."
+    },
+    "claim": "The highest population living with HIV/AIDS are Asian.",
+    "label": "FALSE"
+}

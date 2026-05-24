@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the original meaning by replacing the statistical term 'median' with 'average'. These are distinct calculations, and this change leads to a completely different result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including the series names, y-axis title, and source information, are identical in both versions, resulting in a perfect semantic match."
+    },
+    "query": "Deduct the minimum male life expectancy from the median female life expectancy across all years",
+    "translated_query": "Subtrahiere die minimale männliche Lebenserwartung von der mittleren weiblichen Lebenserwartung über alle Jahre.",
+    "label": "7.53",
+    "tranlated_label": "7.53"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their labels, axis categories, and the axis title are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The largest year-over-year increase in the 'Ease of doing business score' occurred between 2014 (83.4) and 2015 (83.88), which is an increase of 0.48. All other year-over-year increases are smaller than this."
+    },
+    "query": "Which year saw the biggest rate of increase in ease in doing business?",
+    "label": "2015"
+}

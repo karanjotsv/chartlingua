@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, axis configurations, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the number of files on Commons with a certain number of language templates. The claim discusses the roles of paid staff versus volunteers from a survey, a topic that is not mentioned or represented anywhere in the chart's data."
+    },
+    "claim": "According to GLAM Structured Media Common Survey Paid stuff member of GLAM institution has played important roles then Wikimedia movement volunteer.",
+    "label": "TRUE"
+}

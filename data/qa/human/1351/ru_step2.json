@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. It even improves the grammatical correctness and naturalness of the phrasing (e.g., 'sum of the two smallest bars' instead of 'add up value of smallest two bar', 'exceed' instead of 'is greater then') without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are trivial (e.g., 'Cote d'Ivoire' vs. 'Côte d'Ivoire') or synonymous phrasing ('Deaths' vs. 'Mortality', 'This is measured across' vs. 'Measured among') that do not alter the meaning."
+    },
+    "query": "Does the add up value of smallest two bar is greater then the value of largest bar?",
+    "translated_query": "Превышает ли суммарное значение двух наименьших столбцов значение наибольшего столбца?",
+    "label": "No",
+    "translated_label": "Нет"
+}

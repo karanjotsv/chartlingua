@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content uses the present perfect tense instead of the simple past, but the semantic meaning of a decrease in population over time is perfectly preserved. This is a minor stylistic difference without any loss of information or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (chart_data.name and texts.title) is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "claim": "The population of Adforton decreased over time.",
+    "translated_claim": "Население Адфортона со временем сократилось."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their corresponding labels, connecting lines (including style), series markers, axis titles, and legend content are accurately replicated. The overall message and data representation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses rainfall in Mahabaleshwar, Maharashtra, but the chart displays data on 'Threshold Dose' versus 'LET' for different ions (56Fe, 28Si, 48Ti). The chart contains no information about rainfall, geographical locations, or dates."
+    },
+    "claim": "Mahabaleshwar in Maharashtra experienced least rainfall on July 2, 2019.",
+    "label": "FALSE"
+}

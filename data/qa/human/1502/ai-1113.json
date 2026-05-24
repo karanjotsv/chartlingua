@@ -1,0 +1,64 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Cattle",
+            "value": 40.7
+        },
+        {
+            "category": "Oilseeds",
+            "value": 18.4
+        },
+        {
+            "category": "Forestry logging",
+            "value": 13.1
+        },
+        {
+            "category": "Other cereals (excl. rice & wheat)",
+            "value": 8.6
+        },
+        {
+            "category": "Vegetables, fruit & nuts",
+            "value": 7.3
+        },
+        {
+            "category": "Paddy rice",
+            "value": 5.6
+        },
+        {
+            "category": "Other crops",
+            "value": 3.6
+        },
+        {
+            "category": "Sugar cane/beet",
+            "value": 1.1
+        },
+        {
+            "category": "Wheat",
+            "value": 1.0
+        },
+        {
+            "category": "Plant-based fibers",
+            "value": 0.5
+        }
+    ],
+    "texts": {
+        "title": "Share of tropical deforestation from agricultural products",
+        "subtitle": "This is measured as the average over the period from 2010 to 2014.",
+        "source": "Source: Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions.<br>OurWorldInData.org/forests • CC BY",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#c96464",
+        "#c59b53",
+        "#7aa176",
+        "#6c7a89",
+        "#62998a",
+        "#8c8c8c",
+        "#7d7499",
+        "#c98a83",
+        "#c4b86b",
+        "#d3d3d3"
+    ]
+}

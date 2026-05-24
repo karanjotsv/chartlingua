@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. It corrects a typo ('obsverd' to 'observed') and slightly improves the phrasing without changing the meaning in any way."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title and subtitle have minor, non-impactful stylistic differences. The only semantic change is from 'Unexposed trunk' to 'Covered trunk', which is a very close synonym in this context and does not significantly alter the meaning."
+    },
+    "claim": "The difference between the highest value of number of moths obsverd  and the lowest is 5.",
+    "translated_claim": "Der Unterschied zwischen dem höchsten und dem niedrigsten Wert der Anzahl der beobachteten Falter beträgt 5."
+}

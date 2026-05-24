@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, and proportions with consistent color hues and text. Minor differences in slice orientation and legend order are stylistic and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim misidentifies the colors representing the categories. According to the chart's legend, the green portion represents 'Support' and the red portion represents 'Oppose', which is the opposite of what the claim asserts."
+    },
+    "claim": "Green portion represents oppose and red portion represents support.",
+    "label": false
+}

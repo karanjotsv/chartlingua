@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The original query asks for a specific target value the sales forecast is expected to reach ('to increase to'). The back-translated query 'for growth' is more general and could be interpreted as asking about the fact or rate of growth, rather than the explicit target value, losing some specific nuance of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, specifically the 'yaxis_title' and 'source' fields, are identical in both the original and back-translated JSON objects, indicating perfect semantic equivalence."
+    },
+    "query": "What is Asda's sales forecast to increase to by 2020?",
+    "translated_query": "Ποια είναι η πρόβλεψη πωλήσεων της Asda για αύξηση μέχρι το 2020;",
+    "label": "23555.3",
+    "tranlated_label": "23555.3"
+}

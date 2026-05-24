@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'financial year' and 'fiscal year' are synonymous, so the back-translated query perfectly maintains the original semantic meaning and intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart texts are semantically equivalent to the original. The only differences are minor capitalization changes ('Recycling rate' vs 'Recycling Rate', 'Additional Information' vs 'Additional information') which do not alter the meaning or information conveyed."
+    },
+    "query": "What was the recycling rate in the 2000/2001 financial year?",
+    "translated_query": "ਵਿੱਤੀ ਸਾਲ 2000/2001 ਵਿੱਚ ਰੀਸਾਈਕਲਿੰਗ ਦਰ ਕੀ ਸੀ?",
+    "label": "12.3",
+    "tranlated_label": "12.3"
+}

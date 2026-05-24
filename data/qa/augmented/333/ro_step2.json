@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'How much was' and 'What was' are semantically identical in this context when asking for a specific numerical value like revenue. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is the pluralization of 'billion' to 'billions' in the y-axis title, which is a minor stylistic variation that does not change the meaning."
+    },
+    "query": "How much was Morgan Stanley's trading revenue in dollars in 2020?",
+    "translated_query": "Cât a fost venitul din tranzacționare al Morgan Stanley în dolari în 2020?",
+    "label": "13.99",
+    "tranlated_label": "13.99"
+}

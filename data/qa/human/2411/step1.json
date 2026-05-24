@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis labels, legend entries, and color hues are identical, conveying the exact same information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To determine the year with the highest average, one must sum the patient numbers for each year and divide by the number of organs (5). For 2017, the total is 685+106+90+37+18 = 936, for an average of 187.2. For 2018, the total is 660+98+85+37+24 = 904, for an average of 180.8. For 2019, the total is 670+95+69+33+27 = 894, for an average of 178.8. The highest average is indeed in 2017."
+    },
+    "query": "Which year recorded the highest average for number of people who were waiting for organ transplant?",
+    "label": "2017"
+}

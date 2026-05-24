@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2009 (unt de arahide PCA)",
+            "2011 (carne de curcan tocată Cargill)",
+            "2013 (pui Foster Farms)",
+            "2015 (castraveți mexicani)"
+        ],
+        "series": [
+            {
+                "name": "Îmbolnăviri",
+                "data": [
+                    714,
+                    136,
+                    634,
+                    907
+                ]
+            },
+            {
+                "name": "Decese",
+                "data": [
+                    9,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "An (cauză)",
+        "y_axis_title": "Număr",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#247BDB",
+        "#34495E"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. The phrasing is slightly different but more natural, conveying the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "Equivalence is fair. While all country labels and their percentage breakdowns are correctly translated and localized, the main titles for 'Export' and 'Import' contain a significant numerical error. The back-translation misinterprets the original's decimal comma as a thousands separator, resulting in monetary values that are a thousand times larger than intended."
+    },
+    "claim": "China's Export and Import has a little difference when compared.",
+    "translated_claim": "Există o diferență mică între exporturile și importurile Chinei."
+}

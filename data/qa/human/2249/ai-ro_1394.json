@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Numerar",
+            "Cont",
+            "Mobil",
+            "PayPal",
+            "Card de debit/credit"
+        ],
+        "series": [
+            {
+                "name": "Cum pot plăti consumatorii",
+                "values": [
+                    41,
+                    15,
+                    44,
+                    26,
+                    79
+                ]
+            },
+            {
+                "name": "Cum pot primi plăți furnizorii",
+                "values": [
+                    38,
+                    46,
+                    23,
+                    31,
+                    23
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea platformelor",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2573CF",
+        "#1C2E46"
+    ]
+}

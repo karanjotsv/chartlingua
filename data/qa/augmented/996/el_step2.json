@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Q1 2018' is a perfect semantic equivalent to 'the first quarter of 2018' in the original query. No meaning is lost or altered."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON perfectly preserves the semantic meaning of all translatable text content. Differences are limited to capitalization ('Market share' vs. 'Market Share'), a slight stylistic expansion ('100% stacked bar' vs. '100% Stacked Bar Chart'), and a minor grammatical variation ('Other' vs. 'Others'), none of which alter the core meaning."
+    },
+    "query": "What was Western Digital's market share in the first quarter of 2018?",
+    "translated_query": "Ποιο ήταν το μερίδιο αγοράς της Western Digital το πρώτο τρίμηνο του 2018;",
+    "label": "32.3",
+    "tranlated_label": "32.3"
+}

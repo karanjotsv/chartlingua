@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data proportions, categories, and color hues are consistent. The rendered chart adds a label ('Unspecified') for a data slice that was present but unlabeled in the original's legend, which is a clarification that improves the chart without altering the core data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Textile was the smallest job sector. However, the pie chart shows that the slice for 'Engaged about animals' (yellow) is visually the smallest, and several other sectors like 'Engaged in conveyance of men, goods and messages' (grey) and 'Dealing with houses, furniture and decorations' (medium blue) are also smaller than the 'Textile' sector (green)."
+    },
+    "claim": "Textile was the smallest job sector within Long Marton in 1881.",
+    "label": false
+}

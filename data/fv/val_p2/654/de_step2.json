@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. Phrases like 'cumulative count' vs. 'combined total' are synonymous, and the minor rephrasing of the list names does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is an excellent semantic match. The title has a minor, inconsequential word omission ('that'), and the x-axis labels use slightly different but synonymous phrasing (e.g., 'Strongly for morelike' vs. 'Strongly morelike') that perfectly preserves the original meaning."
+    },
+    "claim": "The cumulative count of the two lists \"Neither\" and \"Strongly Wikivectors\" is higher than the list \"Strongly morelike\"",
+    "translated_claim": "Die Gesamtzahl der beiden Listen „Keines von beiden“ und „Stark für Wikivectors“ ist höher als die der Liste „Stark für morelike“."
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query maintains perfect semantic equivalence. 'Above' vs 'over' and '$250k' vs '250 thousand dollars' are synonymous. 'Accounting for' clarifies the potentially ambiguous 'given by' in the original without altering the intended meaning that donations represent 20% of the revenue distribution. The slight variation from 'revenue breakdown distribution' to 'revenue distribution' is a minor stylistic difference that does not impact the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including chart data labels and text block fields, are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "claim": "Donations above $250k given by 20% of revenue breakdown distribution in 2014-2015.",
+    "translated_claim": "Пожертвования свыше 250 тыс. долларов, составляющие 20% от распределения выручки в 2014-2015 годах."
+}

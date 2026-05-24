@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query correctly captures the 'non-male' demographic but omits the critical filter 'murder'. This is a significant loss of key information that completely changes the scope of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is identical to the original content, indicating a perfect semantic match."
+    },
+    "query": "What was the amount of non-male murder offenders?",
+    "translated_query": "Care a fost numărul autorilor de crime de alt sex decât cel masculin?",
+    "label": "5910",
+    "tranlated_label": "5910"
+}

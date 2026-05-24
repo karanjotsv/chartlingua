@@ -1,0 +1,64 @@
+{
+    "charts": [
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    47,
+                    20,
+                    20,
+                    24,
+                    24,
+                    10
+                ]
+            },
+            "texts": {
+                "title": "Frage Nummer 1",
+                "description": "Welche offiziellen Statistiken des verarbeitenden Gewerbes verwenden Sie?<br>(Wählen Sie alle zutreffenden aus)<br><br>A) Jährliche Unternehmensbefragung<br>B) Verkäufe britischer Hersteller nach Produkt (Prodcom)<br>C) Erzeugerpreisindex<br>D) Produktionsindex<br>E) Produktivität<br>F) Sonstiges"
+            }
+        },
+        {
+            "chart_data": {
+                "categories": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "values": [
+                    9,
+                    39,
+                    10,
+                    24,
+                    45,
+                    8
+                ]
+            },
+            "texts": {
+                "title": "Frage Nummer 2",
+                "description": "Wofür verwenden Sie diese offiziellen Statistiken? (Wählen Sie alle<br>zutreffenden aus)<br><br>A) Investitionsentscheidungen<br>B) Politikentwicklung<br>C) Lokale Planungs- und Ausgabenentscheidungen<br>D) Geschäftsplanung<br>E) Forschung<br>F) Sonstiges"
+            }
+        }
+    ],
+    "colors": {
+        "bar": "#82b9e6",
+        "bar_border": "#3b3b3b",
+        "data_label": "#000000",
+        "title_background": "#a90000",
+        "title_font": "#ffffff",
+        "description_background": "#0c2c45",
+        "description_font": "#ffffff",
+        "plot_background": "#ffffff",
+        "grid": "#d3d3d3",
+        "paper_background": "#ffffff"
+    }
+}

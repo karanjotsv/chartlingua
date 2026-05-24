@@ -1,0 +1,40 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Ομπάμα",
+            "values": [
+                37,
+                79,
+                90,
+                69
+            ]
+        },
+        {
+            "name": "Ρόμνεϊ",
+            "values": [
+                59,
+                15,
+                5,
+                25
+            ]
+        }
+    ],
+    "categories": [
+        "Λευκοί (μη Ισπανόφωνοι)",
+        "Μη Λευκοί",
+        "Μαύροι",
+        "Ισπανόφωνοι"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ποσοστό των ερωτηθέντων",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#0084FF",
+        "#FF0000"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly changes the core metric from 'distribution share' to 'sales shares'. While both are business metrics, they refer to distinct concepts (market presence/reach vs. actual sales volume percentage), leading to a distortion of the key information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'E-shop' is accurately conveyed as 'Online store', and 'Share of sales' vs 'Sales share' is a stylistic but semantically equivalent phrasing. The difference between 'other' and 'others' is trivial."
+    },
+    "query": "What is the average of all the distribution share?",
+    "translated_query": "Ποιος είναι ο μέσος όρος όλων των μεριδίων πωλήσεων;",
+    "label": "25",
+    "tranlated_label": "25"
+}

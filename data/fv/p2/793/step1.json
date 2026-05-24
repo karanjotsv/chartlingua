@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, categories, text content, and color-to-series mapping. The overall message about political disagreement across countries is identical. Minor stylistic differences, such as the legend format and the use of solid instead of gradient colors, do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political opinions about climate change in various countries. It contains no information about the birthplaces of United States governors, making it impossible to verify the claim."
+    },
+    "claim": "All current United States governors were born on United States territory, for Governor of Oregon w:Kate Brown was born in Spain.",
+    "label": "TRUE"
+}

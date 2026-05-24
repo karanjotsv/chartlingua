@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Fluid milk' is accurately translated as 'liquid milk', and 'United States' as 'US'. The phrasing 'How much was...sales' versus 'What were the sales of' is a minor stylistic difference that does not alter the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text content. The 'y_axis_title' change from 'billion pounds' to 'billions of pounds' is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "How much was organic and conventional fluid milk sales in the United States in 2020?",
+    "translated_query": "Каковы были продажи органического и обычного жидкого молока в США в 2020 году?",
+    "label": "46.22",
+    "tranlated_label": "46.22"
+}

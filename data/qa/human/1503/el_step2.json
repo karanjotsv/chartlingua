@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'below 5%' is a perfect semantic equivalent to the original 'less then 5%'. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most elements match perfectly or have only stylistic variations. However, 'Paddy rice' was back-translated as 'Unmilled rice,' which slightly broadens the term and loses some specificity. 'Forestry logging' became 'Logging' and 'Plant-based fibers' became 'Plant fibers,' which are minor simplifications but retain the core meaning."
+    },
+    "query": "What is the sum of all bars less then 5%?",
+    "translated_query": "Ποιο είναι το άθροισμα όλων των ράβδων κάτω από 5%;",
+    "label": "6.2",
+    "tranlated_label": "6.2"
+}

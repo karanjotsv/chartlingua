@@ -1,0 +1,86 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "IISc",
+            "x": [
+                2017,
+                2018,
+                2019,
+                2020,
+                2021,
+                2022
+            ],
+            "y": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": "IISc 1",
+            "line_shape": "linear"
+        },
+        {
+            "name": "JNU",
+            "x": [
+                2017,
+                2018,
+                2019,
+                2020,
+                2021,
+                2022
+            ],
+            "y": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "label": "JNU 2",
+            "line_shape": "linear"
+        },
+        {
+            "name": "BHU",
+            "x": [
+                2017,
+                2018,
+                2019,
+                2020,
+                2021,
+                2022
+            ],
+            "y": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                6
+            ],
+            "label": "BHU 6",
+            "line_shape": "spline"
+        }
+    ],
+    "texts": {
+        "title": "ਭਾਰਤ ਦੀਆਂ ਚੋਟੀ ਦੀਆਂ 3 ਯੂਨੀਵਰਸਿਟੀਆਂ",
+        "subtitle": "NIRF ਰੈਂਕਿੰਗਜ਼",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "series": [
+            "#89C683",
+            "#B3A8D5",
+            "#F9C08A"
+        ],
+        "axes_labels": "#D90429",
+        "grid": "#EAEAEA",
+        "title": "#333333",
+        "subtitle": "#666666"
+    }
+}

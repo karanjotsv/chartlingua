@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, their values on the logarithmic scale, trends, and labels are accurately replicated. The titles and color hues for each series are also consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the net worth for the lowest 25% in 2007 is $10,000. According to the chart, the line representing the '< 25' percentile in 2007 is at a value of approximately 1.4 on the y-axis. Since the y-axis unit is 'thousands of 2007 dollars', this corresponds to a median net worth of about $1,400, which is significantly lower than the claimed $10,000."
+    },
+    "claim": "The bottom range or lowest 25% has a net worth of 10,000 in 2007.",
+    "label": false
+}

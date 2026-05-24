@@ -1,0 +1,45 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Женщины",
+            "Мужчины"
+        ],
+        "series": [
+            {
+                "name": "0-14",
+                "values": [
+                    347.61,
+                    363.21
+                ]
+            },
+            {
+                "name": "15-64",
+                "values": [
+                    1124.49,
+                    1102.98
+                ]
+            },
+            {
+                "name": "65+",
+                "values": [
+                    311.94,
+                    119.08
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Число жителей в тысячах",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297acc",
+        "#0e2b43",
+        "#b3b3b3"
+    ]
+}

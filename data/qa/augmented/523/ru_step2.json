@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original content, perfectly preserving its meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only semantic difference is 'EUR' vs 'euros' in the x-axis title, which is a trivial and stylistically equivalent variation. All other text content is identical, ensuring perfect semantic match."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "translated_query": "Какая была вторая по прибыльности телекоммуникационная компания в странах Северной Европы?",
+    "label": "Telia Company AB",
+    "translated_label": "Телия Компания АБ"
+}

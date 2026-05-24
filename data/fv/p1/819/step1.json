@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and their relative proportions are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is poorly worded, but under any reasonable interpretation, it is contradicted by the chart. The chart explicitly shows that attendees did speak the languages listed, with English being spoken by 26%, German by 12%, and so on. Furthermore, the sum of the percentages shown is 49% (26+12+4+4+3), which implies that 51% of attendees spoke languages other than the ones listed. Therefore, the claim that 'no attendees' spoke these languages is false."
+    },
+    "claim": "No attendees at Wikimania 2018 spoke a language the top five languages ",
+    "label": false
+}

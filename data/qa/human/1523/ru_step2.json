@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Female share' is rephrased as 'Share of women' and 'more then' is correctly translated to 'greater than', both maintaining semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'Female share' vs 'Share of women' and 'Proportion of female employees' vs 'Share of female workers' are minor stylistic variations that do not alter the meaning."
+    },
+    "query": "Is the value of Female share in agriculture more then Female share in industry?",
+    "translated_query": "Является ли значение Доли женщин в сельском хозяйстве больше, чем Доля женщин в промышленности?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

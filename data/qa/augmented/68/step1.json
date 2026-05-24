@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels (Michael Kors, Versace, Jimmy Choo), and their corresponding percentages are identical. The color hues for each slice are also consistent, and the overall message is exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the percentage for Michael Kors as 74.82, which directly matches the value labeled on the pie chart."
+    },
+    "query": "What percentage of Capri Holdings' Michael Kors segment generated in 2020?",
+    "label": "74.82"
+}

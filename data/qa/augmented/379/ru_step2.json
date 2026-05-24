@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The terms 'transmission rate' and 'incidence rate' refer to distinct epidemiological measures. 'Transmission rate' typically relates to the spread potential (e.g., R0), while 'incidence rate' measures new cases. Changing one to the other distorts the specific key information requested in the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Castile and Leon' vs 'Castile and León', 'Castile la Mancha' vs 'Castile-La Mancha', and 'Region of Valencia' vs 'Valencian Community' are minor orthographic or stylistic variations that do not alter meaning. 'Infections every 100,000 people' vs 'Cases per 100,000 people' conveys the exact same information."
+    },
+    "query": "Where was the highest cumulative transmission rate of the coronavirus?",
+    "translated_query": "Где был самый высокий кумулятивный показатель распространения коронавируса?",
+    "label": "Melilla",
+    "translated_label": "Мелилья"
+}

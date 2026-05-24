@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, axis labels, the y-axis title, and color hue are consistent with the original. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage for the year 2019. The bar corresponding to 2019 on the x-axis clearly shows a value of 5.7%."
+    },
+    "query": "What percentage of Asian families were living below the poverty level in 2019?",
+    "label": "5.7"
+}

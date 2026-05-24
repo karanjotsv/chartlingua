@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately replicated. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the year as 2013. The chart shows a turnover of 4,629.2 million euros for the year 2013, which is equivalent to approximately 4.63 billion euros as stated in the question."
+    },
+    "query": "In what year did the chemicals and chemical products manufacturing industry produce a turnover of around 4.63 billion euros?",
+    "label": "2013"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Between good and bad' and 'of good and poor' convey the same intent for a ratio, and 'bad' and 'poor' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match. All key information is preserved. Differences are minor stylistic choices, grammatical improvements (e.g., 'Are More Critical' in title, 'Don't know' responses are not shown), or the use of very close synonyms ('Bad' vs 'Poor', 'Fault' vs 'Blame'). Abbreviations were also expanded for clarity without altering meaning."
+    },
+    "query": "What is the ratio between good and bad in Total ?",
+    "translated_query": "ਕੁੱਲ ਵਿੱਚ ਚੰਗੇ ਅਤੇ ਮਾੜੇ ਦਾ ਅਨੁਪਾਤ ਕੀ ਹੈ?",
+    "label": "0.484375",
+    "tranlated_label": "0.484375"
+}

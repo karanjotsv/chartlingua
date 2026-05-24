@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The title, legend labels, data proportions, and color hues are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually demonstrates that the largest segment, represented by the light blue color, corresponds to the 'White; English/Welsh/Scottish/Northern Irish/British' ethnic group, making it the largest group in Fakenham Magna in 2011 as stated in the claim."
+    },
+    "claim": "White/English/Welsh make up the largest ethnic group in Fakenham Magna in 2011.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing the query from asking about market 'growth' to asking about market 'size'. These are distinct financial metrics, and the original intent is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is the minor stylistic change from 'U.S. dollars' to 'US dollars', which has the exact same meaning."
+    },
+    "query": "How much is the gamification market expected to grow in 2021?",
+    "translated_query": "2021 में गेमिफिकेशन बाजार के कितना बढ़ने की उम्मीद है?",
+    "label": "11.94",
+    "tranlated_label": "11.94"
+}

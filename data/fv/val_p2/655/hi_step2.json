@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim has excellent semantic equivalence. \"Strongly preferred\" is a very good translation for the non-standard \"Strongly morelike\", and \"tallest\" is a perfect synonym for \"longest\" in the context of a bar graph. The core meaning is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The title and axis labels use excellent synonyms ('most likely to read' vs. 'most prefer to read', 'morelike' vs. 'preferred', 'Neither' vs. 'Neutral') without any loss of meaning. The minor difference in pluralization for 'WikiVector(s)' is negligible."
+    },
+    "claim": "In the following bar graph \"Strongly morelike\" bar is the longest than other four bars.",
+    "translated_claim": "इस बार ग्राफ़ में, \"दृढ़ता से पसंदीदा\" बार बाकी चार बारों से सबसे लंबा है।"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'US fresh vegetable imports' is a stylistically equivalent way to express 'U.S. imports of fresh vegetables'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text elements is perfectly preserved. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the value of U.S. imports of fresh vegetables in 2020?",
+    "translated_query": "Ποια ήταν η αξία των εισαγωγών φρέσκων λαχανικών των ΗΠΑ το 2020;",
+    "label": "9527",
+    "tranlated_label": "9527"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The text, categories, and color hues are consistent with the original. However, the proportions of the data slices are noticeably different. In the rendered chart, the red slice ('Mixed Hardwoods - Prairie') is significantly larger, and the pale yellow slice ('Prairie') is significantly smaller than in the original, which distorts the core data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Barnes County has no wetlands, but the chart's legend and the corresponding colored slices clearly indicate the presence of 'Wet Prairie' and 'Water / Wet Soils', which are types of wetlands."
+    },
+    "claim": "Barnes County, North Dakota has no wetlands.",
+    "label": false
+}

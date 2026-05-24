@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of data values, categories, bar proportions, and color scheme. The only semantic difference is the addition of a chart title ('Foreign direct investments in Germany 2014') which was not present in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim mentions a correlation between income levels and the number of books in households, but the chart displays data on foreign direct investments in German states in 2014. The two subjects are entirely unrelated."
+    },
+    "claim": "The chart shows a clear correlation between increased income levels and the number of books in households.",
+    "label": true
+}

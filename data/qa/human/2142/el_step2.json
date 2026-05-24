@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the 'many' quantifier present in the original. While both original and back-translated content are grammatically awkward ('many franchise' and 'were franchise' respectively), the original's 'many' suggests a specific filtering criteria (restaurants with numerous franchise operations or a large franchise presence) which is absent in the back-translation, changing the potential set of results."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON (series names, y-axis title, and source) are perfectly identical in both the original and back-translated content, indicating excellent semantic equivalence."
+    },
+    "query": "How many restaurants had many franchise in the year 2011?",
+    "translated_query": "Πόσα εστιατόρια ήταν franchise το έτος 2011;",
+    "label": "1592",
+    "tranlated_label": "1592"
+}

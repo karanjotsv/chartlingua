@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, trends, text elements (title, axes, legend), and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that for the year 2000, the line representing Italy (IT) is at the 2k mark on the y-axis. Since the y-axis is in 'Millions of Euros', 2k represents 2000 million Euros, which directly supports the claim."
+    },
+    "claim": "Italy has contributed 2000 million Euros in the year 2000.",
+    "label": true
+}

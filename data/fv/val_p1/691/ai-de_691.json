@@ -1,0 +1,42 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Erdgas",
+            "value": 48.8
+        },
+        {
+            "label": "Kernenergie",
+            "value": 45.5
+        },
+        {
+            "label": "Biomasse",
+            "value": 2.4
+        },
+        {
+            "label": "Sonstige",
+            "value": 2.3
+        },
+        {
+            "label": "Solarenergie",
+            "value": 1.0
+        }
+    ],
+    "texts": {
+        "title": "Quellen der Stromerzeugung<br>Connecticut - 2016",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "slices": [
+            "#90CADF",
+            "#DDC053",
+            "#369969",
+            "#AF55C4",
+            "#F4EE70"
+        ],
+        "background": "#EAEAF7"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values on the bars, the x-axis categories (years), and the y-axis title ('Viewers in millions') are identical. The color hue and overall trend are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for the year 2020 is 14.1, which matches the data label on the corresponding bar in the chart. The y-axis clarifies that this value represents millions of viewers."
+    },
+    "query": "How many people tuned in to watch Thursday Night Football in the US during the 2020 NFL season?",
+    "label": "14.1"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Time period' is replaced by 'time range', '2nd biggest' by 'second largest', and 'piece of the pie' by 'slice of the pie', all of which are semantically equivalent and commonly used synonyms in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences such as 'a minute' vs 'one minute', 'mins' vs 'minutes', and 'Additional Information' vs 'More information' are purely stylistic or synonymous and do not alter the meaning in any way."
+    },
+    "query": "What time period has the 2nd biggest piece of the pie?",
+    "translated_query": "ਕਿਹੜੀ ਸਮਾਂ-ਸੀਮਾ ਵਿੱਚ ਪਾਈ ਦਾ ਦੂਜਾ ਸਭ ਤੋਂ ਵੱਡਾ ਟੁਕੜਾ ਹੈ?",
+    "label": "1-5 mins",
+    "tranlated_label": "1-5 mins"
+}

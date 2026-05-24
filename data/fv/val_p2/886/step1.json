@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The only difference is the stylistic choice to 'explode' the Mozilla Firefox slice, which does not alter the core data or message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the market share of web browsers, such as Internet Explorer and Google Chrome. It does not contain any information about 'Symbian', 'smartphone sales', or the year '2009', which are the key elements of the claim."
+    },
+    "claim": "Symbian had the smallest share of smartphone sales in 2009.",
+    "label": "FALSE"
+}

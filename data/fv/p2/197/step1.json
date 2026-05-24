@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text content (title, labels), and color hues are identical. The overall message and data proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the dislike for the 'Color (red)' received only 2 votes, which is the lowest number of votes among all the options presented. The most common response was 'Nothing, this is fine' with 7 votes, directly contradicting the claim that most people dislike the color."
+    },
+    "claim": "Most people dislike the red color of the Wikimedia logo.",
+    "label": "FALSE"
+}

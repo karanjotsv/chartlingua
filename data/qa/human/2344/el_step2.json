@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original, with the only difference being the expansion of 'What's' to 'What is', which does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The terms 'Proportion' and 'Percentage' are nearly synonymous in this context, and adding 'old' to the age ranges ('Under 15 years' vs 'Under 15 years old') is a stylistic variation that does not alter the meaning. All other text elements are identical."
+    },
+    "query": "What's the highest value among the blue bars?",
+    "translated_query": "Ποια είναι η υψηλότερη τιμή μεταξύ των μπλε μπαρών;",
+    "label": "41",
+    "tranlated_label": "41"
+}

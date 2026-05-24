@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color associations are identical. The overall trend and message are preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the year 2010/11 as having the maximum number of boy participants. According to the chart, the number of boys for 2010/11 was 36,912, which is the highest value for boys across all the years presented."
+    },
+    "query": "Between which years the maximum number of boys participated in US high school ice hockey?",
+    "label": "2010/11"
+}

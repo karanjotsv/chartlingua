@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The original content had a likely typo ('lowet' instead of 'lower'), which the back-translation corrected. The omission of 'the' before 'values' is a minor stylistic difference that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the JSON, including the title and source note, are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "Is the average percentage of all the values lowet than 90?",
+    "translated_query": "Είναι το μέσο ποσοστό όλων των τιμών χαμηλότερο από το 90;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

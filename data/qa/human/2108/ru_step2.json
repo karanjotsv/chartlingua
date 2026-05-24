@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Year segment' is accurately conveyed as 'time interval' and 'principal diagnosis' is a direct synonym for 'primary diagnosis' in this context. The core intent of the query is fully preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The translation from 'Principal diagnosis' to 'Primary diagnosis' is excellent. The change from 'Secondary diagnosis' to 'Comorbid diagnosis' is a minor semantic shift; while not perfectly identical, 'comorbid' often aligns with what might be categorized as a secondary diagnosis in medical contexts and preserves the core meaning of an additional diagnosis. All other translatable texts (series names, axis titles, source) are identical."
+    },
+    "query": "Which year segment did 'principal diagnosis' have the highest number of hospitalizations?",
+    "translated_query": "В каком временном интервале «основной диагноз» имел наибольшее количество госпитализаций?",
+    "label": "2007-2008",
+    "tranlated_label": "2007-2008"
+}

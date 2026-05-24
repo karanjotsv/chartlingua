@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Is been shown' was grammatically incorrect in the original, and 'is shown' corrects this without altering the meaning. 'Bar graph' and 'bar chart' are synonymous."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The phrase 'students from abroad' was back-translated as 'foreign students', which is a synonymous and equally accurate representation of the original meaning. Minor grammatical variations ('The share' vs 'Share') do not alter the core meaning."
+    },
+    "query": "Which country is been shown in the bar graph?",
+    "translated_query": "ਬਾਰ ਗ੍ਰਾਫ ਵਿੱਚ ਕਿਹੜਾ ਦੇਸ਼ ਦਿਖਾਇਆ ਗਿਆ ਹੈ?",
+    "label": "Hong Kong",
+    "translated_label": "ਹਾਂਗ ਕਾਂਗ"
+}

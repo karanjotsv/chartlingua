@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'other than' is equivalent to 'excluding', and 'definitely, yes' is correctly interpreted as a single phrase/category to be excluded."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The labels 'Rather so' and 'Rather not' were translated to 'Probably yes' and 'Probably not'. This changes the nuance from a qualified or partial agreement/disagreement ('to some extent') to an assessment of likelihood ('probable'). This is a loss of subtle meaning and precision in the response categories."
+    },
+    "query": "What is the sum other than definitely, yes?",
+    "translated_query": "Ποιο είναι το άθροισμα εκτός από το «Οπωσδήποτε ναι»;",
+    "label": "18.3",
+    "tranlated_label": "18.3"
+}

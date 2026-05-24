@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall structure are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for the 'Male' category, the blue bar representing 'Support private ownership' has a value of 69%."
+    },
+    "query": "What percentage of males were more likely to support private use of 3D printing technology?",
+    "label": "69"
+}

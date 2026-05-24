@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Only smoke",
+            "value": 12.3
+        },
+        {
+            "category": "Both smoke and snus",
+            "value": 1.1
+        },
+        {
+            "category": "Only snus",
+            "value": 10.0
+        },
+        {
+            "category": "Neither smoke nor snus",
+            "value": 76.6
+        }
+    ],
+    "texts": {
+        "title": "Daily tobacco use from",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#004386",
+        "#E55239",
+        "#FDC100",
+        "#59942C"
+    ]
+}

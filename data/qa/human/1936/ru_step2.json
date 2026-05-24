@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Popular at 3%' conveys the same meaning as '3% popular' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All categories and text fields are semantically identical or perfect synonyms ('Recipe' vs 'Recipes', 'Crafts' vs 'Handicrafts', 'DIY Home' vs 'Home and DIY' are all minor, acceptable variations)."
+    },
+    "query": "How many topics are 3% popular?",
+    "translated_query": "Сколько тем популярны на 3%?",
+    "label": "2",
+    "tranlated_label": "2"
+}

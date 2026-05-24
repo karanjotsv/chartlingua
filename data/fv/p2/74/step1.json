@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replica of the original. All data values, category labels, titles, and the overall two-pie-chart structure are accurately reproduced. Color hues for each category are also consistent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The main title text overlaps with the top of the right-hand pie chart. Additionally, several of the percentage labels for the smaller slices in the 'Renewables' chart overlap with the chart slices, which slightly impairs readability."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that fossil fuels account for 80.6% of total energy consumption, while nuclear accounts for 2.7%. The ratio of fossil fuels to nuclear is 80.6 / 2.7, which is approximately 29.85. This means the value for fossil fuels is almost 30 times that of nuclear energy, not 'almost ten times' as the claim asserts."
+    },
+    "claim": "The total value of fossil fuels is almost ten times of Nuclear energy sources.",
+    "label": "FALSE"
+}

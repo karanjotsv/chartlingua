@@ -1,0 +1,51 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Japan",
+            "value": 24
+        },
+        {
+            "category": "Italien",
+            "value": 4
+        },
+        {
+            "category": "Rumänien",
+            "value": 4
+        },
+        {
+            "category": "Ungarn",
+            "value": 4
+        },
+        {
+            "category": "Bulgarien",
+            "value": 0.2
+        },
+        {
+            "category": "Deutschland",
+            "value": 63.8
+        }
+    ],
+    "texts": {
+        "title": "<b>Militärische Todesfälle im Zweiten Weltkrieg</b><br>(Achsenmächte)",
+        "subtitle": null,
+        "source": null,
+        "note": null,
+        "data_labels": [
+            "<b>Japan<br>24%</b>",
+            "Italien 4%",
+            "Rumänien 4%",
+            "Ungarn 4%",
+            "Bulgarien <0,3%",
+            "<b>Deutschland<br>64%</b>"
+        ]
+    },
+    "colors": [
+        "#FF0000",
+        "#969644",
+        "#F3DD85",
+        "#A34F58",
+        "#F0A0A9",
+        "#282828"
+    ]
+}

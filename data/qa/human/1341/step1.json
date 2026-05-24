@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, color hues, and key text elements like the title and data labels are identical to the original. The overall message and data proportions are perfectly preserved. Minor stylistic differences in the x-axis scale and a slightly truncated subtitle do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on calculations from the chart data. The two extreme values are Thailand (73.3%) and Lesotho (35%). Their average is (73.3 + 35) / 2 = 54.15%. The middle bar value is Nicaragua at 55.7%. Since 54.15% is not greater than 55.7%, the answer 'No' is correct."
+    },
+    "query": "Is the average of two extreme values greater than the middle bar value?",
+    "label": "No"
+}

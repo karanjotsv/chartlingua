@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data series, their values, trends, and relative proportions are maintained. Text labels, axis titles, and legend content are semantically identical. Color hues for all series are consistent, preserving the visual mapping of the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Satoru Iwata was the most viewed topic in July, but the chart only displays data for a portion of the month, from July 2 to July 13. The chart does not provide enough information to support a conclusion about the entire month of July."
+    },
+    "claim": "Satoru Iwata was the most viewed topic on the News on Wikipedia blog post in July.",
+    "label": "TRUE"
+}

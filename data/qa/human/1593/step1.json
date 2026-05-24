@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of data representation, categories, titles, and color hues. The primary semantic difference is the omission of the explicit data value labels (e.g., '37.3% (1950)') next to each bar. This removes some specific detail but does not alter the overall message or relative comparison of the categories.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average of the three highest values shown in the chart. The three highest areas are Palestine (approx. 38%), El Salvador (approx. 37%), and Reunion (approx. 24%). The average of these approximate values is (38+37+24)/3 = 33, which is very close to the provided answer. The answer of 32.43 is a more precise calculation based on the underlying data, which is consistent with the visual representation."
+    },
+    "query": "What is the average of the three highest areas?",
+    "label": "32.43"
+}

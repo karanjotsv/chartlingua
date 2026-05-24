@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall structure are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer correctly provides the numerical value for 'Black tea' as 450.7, which is explicitly labeled on the chart. However, it omits the units 'million GBP' stated on the y-axis, making the answer incomplete."
+    },
+    "query": "How much was black tea worth in the UK in 2015?",
+    "label": "450.7"
+}

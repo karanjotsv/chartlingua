@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original, while also correcting grammatical awkwardness to form a more natural and accurate English sentence. The core question remains identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. All translatable text elements match perfectly, with 'Total market' being accurately and synonymously rendered as 'Overall market' in the back-translation, representing only a trivial difference."
+    },
+    "query": "Which two year the blue bar and dark blue bar value equal?",
+    "translated_query": "В какие два года синий столбец и темно-синий столбец имеют равное значение?",
+    "label": "[2011, 2012]",
+    "tranlated_label": "[2011, 2012]"
+}

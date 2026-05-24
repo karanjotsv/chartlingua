@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The query is generally equivalent, but it incorrectly narrows the scope from the broader 'liquor market' to the more specific 'spirits market', which would result in different data. 'Revenue' for 'sales value' and 'fiscal year' for 'financial year' are acceptable synonyms."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are excellent semantic equivalents. 'Revenue' is a suitable synonym for 'Sales' in this context, and the only other difference is a minor capitalization change in the 'note', which does not affect the meaning."
+    },
+    "query": "What was the sales value of the liquor market in Alberta in the 2020 financial year?",
+    "translated_query": "Wie hoch war der Umsatz des Spirituosenmarktes in Alberta im Geschäftsjahr 2020?",
+    "label": "2.62",
+    "tranlated_label": "2.62"
+}

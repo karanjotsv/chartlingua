@@ -1,0 +1,83 @@
+{
+    "chart_type": "multi_pie_chart",
+    "chart_data": [
+        {
+            "title": "Top Companies",
+            "labels": [
+                "J.P. Morgan Chase",
+                "Goldman Sachs",
+                "Merrill Lynch",
+                "Citi",
+                "UBS"
+            ],
+            "values": [
+                30,
+                25,
+                20,
+                15,
+                10
+            ],
+            "colors": [
+                "#4a78b5",
+                "#ac4345",
+                "#8fbf4c",
+                "#775da2",
+                "#45b4c1"
+            ]
+        },
+        {
+            "title": "Annual Salary",
+            "labels": [
+                "175,000-190,000",
+                "50,000-75,000",
+                "190,000-220,000",
+                "300,000-500,000",
+                "75,000-90,000"
+            ],
+            "values": [
+                45,
+                28,
+                12,
+                10,
+                5
+            ],
+            "colors": [
+                "#4a78b5",
+                "#ac4345",
+                "#8fbf4c",
+                "#775da2",
+                "#45b4c1"
+            ]
+        },
+        {
+            "title": "Titles",
+            "labels": [
+                "Vice President",
+                "Managing Director",
+                "Reporting Analyst",
+                "Portfolio Manager",
+                "Senior Vice President"
+            ],
+            "values": [
+                35,
+                25,
+                20,
+                15,
+                5
+            ],
+            "colors": [
+                "#4a78b5",
+                "#ac4345",
+                "#8fbf4c",
+                "#775da2",
+                "#45b4c1"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "NYSSA Member Breakdown",
+        "subtitle": "Total Members: 11,400",
+        "source": null,
+        "note": null
+    }
+}

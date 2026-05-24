@@ -1,0 +1,60 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Ashby Method¹",
+            "x": [
+                0,
+                3,
+                6,
+                9,
+                12
+            ],
+            "y": [
+                0.0,
+                1.9,
+                2.3,
+                2.2,
+                2.2
+            ],
+            "annotation_text": "Ashby<br>Method¹<br>+2.2"
+        },
+        {
+            "name": "Medication²",
+            "x": [
+                0,
+                6,
+                12
+            ],
+            "y": [
+                0.0,
+                0.0,
+                -1.7
+            ],
+            "annotation_text": "Medication²<br>-1.7"
+        },
+        {
+            "name": "Normal Course of Disease³",
+            "x": [
+                0,
+                12
+            ],
+            "y": [
+                0.0,
+                -3.3
+            ],
+            "annotation_text": "Normal Course<br>of Disease³<br>-3.3"
+        }
+    ],
+    "texts": {
+        "title": "Resisting Cognitive Decline in Alzheimer's<br>12 Month MMSE Score Comparison",
+        "x_axis_title": "Months",
+        "y_axis_title": "Change in Cognitive Test Score",
+        "source": null
+    },
+    "colors": [
+        "#4F81BD",
+        "#E49138",
+        "#9BBB59"
+    ]
+}

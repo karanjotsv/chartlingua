@@ -1,0 +1,68 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Femei",
+            "x": [
+                16,
+                16,
+                8,
+                6,
+                7,
+                0,
+                10,
+                3,
+                3
+            ],
+            "y": [
+                "Administrativ și secretariat",
+                "Personal tehnic și profesional asociat",
+                "Îngrijire, agrement și alte servicii",
+                "Ocupații elementare",
+                "Manageri, directori și funcționari superiori",
+                "Operatori de instalații și mașini",
+                "Specialiști",
+                "Vânzări și servicii pentru clienți",
+                "Muncitori calificați"
+            ]
+        },
+        {
+            "name": "Bărbați",
+            "x": [
+                4,
+                21,
+                1,
+                5,
+                16,
+                2,
+                14,
+                2,
+                12
+            ],
+            "y": [
+                "Administrativ și secretariat",
+                "Personal tehnic și profesional asociat",
+                "Îngrijire, agrement și alte servicii",
+                "Ocupații elementare",
+                "Manageri, directori și funcționari superiori",
+                "Operatori de instalații și mașini",
+                "Specialiști",
+                "Vânzări și servicii pentru clienți",
+                "Muncitori calificați"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Structura ocupațională în 2011",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#E48F45",
+        "#599AD3"
+    ]
+}

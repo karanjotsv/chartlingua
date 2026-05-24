@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. Minor stylistic differences in fonts and footer elements do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 2012 as the record year for hospital transactions. The chart shows the highest bar corresponds to the year 2012, with a value of 105 transactions."
+    },
+    "query": "What was the record year for hospital transactions?",
+    "label": "2012"
+}

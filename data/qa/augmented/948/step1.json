@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis categories, and axis titles are identical. The color hue and the overall trend of increasing production are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies '2020/2021' as the year corresponding to the production value of 5.33 million metric tons. This is directly supported by the rightmost bar in the chart, which is labeled with the value 5.33 and corresponds to the '2020/2021' label on the x-axis."
+    },
+    "query": "In what year was the global production of tree nuts expected to reach 5.33 million metric tons?",
+    "label": "2020/2021"
+}

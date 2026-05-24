@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the bar chart data, categories, and colors are consistent, the line plot representing the cumulative delegate gap is substantially incorrect. The rendered chart shows a much steeper and deeper initial drop than the original, which significantly misrepresents the trend over time and alters the core message of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the chart shows the 'percentage of people who voted', but the chart's vertical axis is explicitly labeled 'Delegate gap'. The data represents the difference in delegates won by two candidates, not voter turnout percentages."
+    },
+    "claim": "The chart shows the percentage of people who voted in a recent election.",
+    "label": "FALSE"
+}

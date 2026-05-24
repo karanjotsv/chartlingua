@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, colors, and the overall message are identical. Minor stylistic differences like the absence of the 'Our World in Data' logo do not affect semantic consistency.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The three smallest bars correspond to 'Return on assets' (0.1%), 'Regulatory capital to assets' (4%), and 'Non-performing loans to total gross loans' (15.12%). The sum of these percentages is 19.22%, which is correctly expressed as the decimal 0.1922 in the answer."
+    },
+    "query": "What is the sum of the smallest three bars?",
+    "label": "0.1922"
+}

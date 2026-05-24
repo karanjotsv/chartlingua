@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are identical to the original. The rendered image adds a title and source, which provides context without altering the core data or message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The donut chart explicitly shows that Wind energy contributes 40.4% to the electricity generation from renewable sources in Germany in 2009, which is the largest percentage compared to all other sources listed (Hydro 20.3%, Biomass 19.8%, Biogas 11.8%, and Solar 6.6%)."
+    },
+    "claim": "Wind energy is the largest source of renewable electricity generation in Germany in 2009.",
+    "label": true
+}

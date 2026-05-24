@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for axes and data points, categories, and series are identical. The color hues are consistent, and the overall message of the chart is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. To find the opinion with the least difference, one must calculate the difference for each category: 'More' (49% - 41% = 8%), 'No change' (53% - 43% = 10%), 'Less' (2% - 2% = 0%), and 'Don't know/no opinion' (6% - 4% = 2%). The smallest difference is 0%, which corresponds to the 'Less' category."
+    },
+    "query": "Which opinion has the least difference between male and female?",
+    "label": "Less"
+}

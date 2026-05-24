@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and color hues are consistent with the original. The core message is identical. Minor differences like the removal of the 3D effect and a different slice order are stylistic and do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that coal-generated electricity was 34% in 2019, but the chart clearly shows that the data is for 2016 and that coal accounted for 28.5% of electricity generation."
+    },
+    "claim": "The pie chart shows that coal-generated electricity accounted for 34% of North Carolina's electricity in 2019.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and the overall title are identical. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the number of homicides committed with rifles (374) and shotguns (262) combined is 636. The number of homicides committed with knives/cutting tools is 1,604, which is significantly higher. Therefore, the claim is contradicted by the data."
+    },
+    "claim": "Homicides committed with rifles and shotguns are more common than those committed with knives.",
+    "label": false
+}

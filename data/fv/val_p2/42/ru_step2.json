@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly maintains the original meaning. 'Highest number of males' is semantically equivalent to 'largest number of men', and 'Associate Professional & Technical department' is well-represented by 'category of junior professional and technical staff'. The minor grammatical change ('were' to 'was') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The chart title, most data series names, and many labels are perfectly or almost perfectly matched. Minor acceptable differences include 'Females' to 'Women', 'Males' to 'Men', and 'Associate Professional' to 'Junior professional', as well as minor additions like 'staff' or 'occupations' which clarify without altering the core meaning."
+    },
+    "claim": "The highest number of males were found in Associate Professional & Technical department.",
+    "translated_claim": "Наибольшее количество мужчин было обнаружено в отделе младшего профессионального и технического персонала."
+}

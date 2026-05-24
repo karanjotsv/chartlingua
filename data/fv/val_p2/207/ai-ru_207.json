@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Площадь участка кв. футов<br>(LE)",
+            "value": 5000,
+            "annotation_y": 2500
+        },
+        {
+            "category": "Площадь<br>застройки<br>первого этажа (FPA)",
+            "value": 3750,
+            "annotation_y": 2000
+        },
+        {
+            "category": "LE - FPA Пусть будет \"E\"",
+            "value": 1250,
+            "annotation_y": 750
+        },
+        {
+            "category": "50% от FPA",
+            "value": 1875,
+            "annotation_y": 1250
+        },
+        {
+            "category": "К FPA участка +1250<br>можно добавить<br>до 50% от FPA",
+            "value": 5000,
+            "annotation_y": 2500
+        }
+    ],
+    "texts": {
+        "title": "Оценка стоимости земли",
+        "subtitle": "Графика: А. М. Ибрагим",
+        "x_axis_title": null,
+        "y_axis_title": "Кв. футы",
+        "source": null
+    },
+    "colors": [
+        "#9b9bff"
+    ]
+}

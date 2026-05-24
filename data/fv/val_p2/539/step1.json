@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. The data values (88% and 12%), category labels, title, source text, and color hues are all accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows a segment labeled 'Undocumented Adults' with the value '88%'. The source of the chart is listed as the 'U.S. Department of Homeland Security', aligning with all parts of the claim."
+    },
+    "claim": "In US department of Homeland security, undocumented adults are 88%",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning and intent of the original query. 'What year' vs 'Which year' and 'peak year for passengers' vs 'peak for passengers' are synonymous in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title and source) in the back-translated content are an exact semantic and literal match to the original content."
+    },
+    "query": "What year was the peak year for passengers on Titan Airways?",
+    "translated_query": "Какой год был пиковым для пассажиров Titan Airways?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

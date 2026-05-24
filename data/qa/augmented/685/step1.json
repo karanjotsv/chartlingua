@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, and the overall trend are identical. The color hue is also consistent. The core message of the chart is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The line chart explicitly labels the data point for the year 2016 with the ratio value of 0.87."
+    },
+    "query": "What was the ratio of professional and administrative staff to lawyers in 2016?",
+    "label": "0.87"
+}

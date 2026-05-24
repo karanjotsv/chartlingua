@@ -1,0 +1,60 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Lonely",
+            "Depressed",
+            "Inspired",
+            "Connected",
+            "Angry",
+            "Amused"
+        ],
+        "series": [
+            {
+                "name": "Frequently",
+                "data": [
+                    7,
+                    13,
+                    16,
+                    21,
+                    25,
+                    44
+                ]
+            },
+            {
+                "name": "Sometimes",
+                "data": [
+                    24,
+                    36,
+                    53,
+                    49,
+                    47,
+                    44
+                ]
+            }
+        ],
+        "net_values": [
+            31,
+            49,
+            69,
+            71,
+            71,
+            88
+        ]
+    },
+    "texts": {
+        "title": "Social media users experience a mix of positive,<br>negative emotions while using these platforms",
+        "subtitle": "% of social media users who say they ___ see content on social media that<br>makes them feel ...",
+        "source": "Note: Respondents who did not give an answer or gave other answers are not shown.<br>Source: Survey of U.S. adults conducted May 29-June 11, 2018.<br>“Public Attitudes Toward Computer Algorithms”",
+        "footer": "PEW RESEARCH CENTER",
+        "series_headers": [
+            "Frequently",
+            "Sometimes"
+        ],
+        "net_header": "NET"
+    },
+    "colors": [
+        "#204165",
+        "#599ad3"
+    ]
+}

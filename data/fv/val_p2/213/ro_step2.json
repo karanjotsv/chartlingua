@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Bars' is a direct and appropriate synonym for 'bloks' in a data or chart context, preserving the core meaning entirely."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. While the title, subtitle, and y-axis label are semantically equivalent, there are significant changes in the chart's category labels. Key abbreviations were altered (e.g., 'LE' to 'ST', 'FPA' to 'ASC'), and some descriptive details like 'Ground Floor' were lost, which represents a loss of important, specific information."
+    },
+    "claim": "The average of all 5 bloks is 2500.",
+    "translated_claim": "Media celor 5 blocuri este 2500."
+}

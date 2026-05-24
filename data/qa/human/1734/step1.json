@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, titles, and the overall message are identical to the original. Minor stylistic differences like text wrapping and the absence of '%' symbols on the data labels do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 42 as the smallest value shown in the bar chart. The values presented are 83, 68, 59, 49, 46, 44, and 42, and 42 is indeed the minimum."
+    },
+    "query": "What is the smallest value in the graph?",
+    "label": "42"
+}

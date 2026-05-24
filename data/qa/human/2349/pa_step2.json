@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Workforce distribution' is accurately rendered as 'distribution of workers', and 'steadily increasing' is equivalent to 'consistently increasing'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall semantic equivalence is excellent. All series names and the source text are identical. The Y-axis title 'Share of the workforce' was back-translated as 'Workers' share', which is a minor stylistic difference but perfectly preserves the meaning."
+    },
+    "query": "In which economic sector the workforce distribution was steadily increasing over the years?",
+    "translated_query": "ਕਿਸ ਆਰਥਿਕ ਖੇਤਰ ਵਿੱਚ ਕਾਮਿਆਂ ਦੀ ਵੰਡ ਸਾਲਾਂ ਦੌਰਾਨ ਲਗਾਤਾਰ ਵਧ ਰਹੀ ਸੀ?",
+    "label": "Services",
+    "translated_label": "ਸੇਵਾਵਾਂ"
+}

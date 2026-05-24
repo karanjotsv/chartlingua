@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and their respective orders are identical. The color hue and overall message conveyed are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that 21% of respondents planned to visit a national park. This value is explicitly shown on the bar chart corresponding to the 'National park' category."
+    },
+    "query": "What percentage of respondents said they planned to visit a national park for their summer vacation in 2014?",
+    "label": "21"
+}

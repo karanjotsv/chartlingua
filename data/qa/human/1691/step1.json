@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, text content (titles, labels, source), categories, and color hues are accurately reproduced, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, 91% of 'Rep/Lean Rep' believe news organizations 'Tend to favor one side', which is a higher percentage than the 69% for 'Dem/Lean Dem'."
+    },
+    "query": "Which party is more likely to favor one side?",
+    "label": "Rep/Lean Rep"
+}

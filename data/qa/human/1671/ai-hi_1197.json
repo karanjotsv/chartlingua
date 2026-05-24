@@ -1,0 +1,56 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "फ़िजी",
+            "x": [
+                1970,
+                1971,
+                1972,
+                1973,
+                1974,
+                1975,
+                1976,
+                1977,
+                1978,
+                1979,
+                1980
+            ],
+            "y": [
+                0.183,
+                0.217,
+                0.246,
+                0.215,
+                0.236,
+                0.295,
+                0.41,
+                0.505,
+                0.86,
+                0.915,
+                0.85
+            ]
+        }
+    ],
+    "texts": {
+        "title": "जीडीपी के हिस्से के रूप में सैन्य व्यय, 1970 से 1980",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "स्रोत: विश्व बैंक",
+        "note": "OurWorldInData.org/military-spending/ • CC BY"
+    },
+    "colors": [
+        "#34495e"
+    ],
+    "annotations": [
+        {
+            "text": "फ़िजी",
+            "x": 1980,
+            "y": 0.85,
+            "xanchor": "left",
+            "yanchor": "middle",
+            "showarrow": false,
+            "xshift": 5
+        }
+    ]
+}

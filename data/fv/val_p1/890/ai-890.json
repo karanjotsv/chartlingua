@@ -1,0 +1,62 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "International shipping, aviation",
+            "Middle East",
+            "Southern Asia",
+            "Australia, Japan, New Zealand",
+            "Africa",
+            "SE Asia, Pacific",
+            "E. Europe, W. Central Asia",
+            "Latin America, Caribbean",
+            "Eastern Asia",
+            "Europe",
+            "North America"
+        ],
+        "series": [
+            {
+                "name": "Fossil fuel, industry",
+                "values": [
+                    40,
+                    50,
+                    40,
+                    70,
+                    50,
+                    50,
+                    200,
+                    70,
+                    250,
+                    380,
+                    460
+                ]
+            },
+            {
+                "name": "Land use, forestry",
+                "values": [
+                    0,
+                    0,
+                    30,
+                    10,
+                    120,
+                    130,
+                    40,
+                    180,
+                    40,
+                    20,
+                    100
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Cumulative CO<sub>2</sub> emissions (1850-2019)",
+        "x_axis_title": "Emissions (billion tonnes of CO<sub>2</sub> )",
+        "y_axis_title": null,
+        "source_note": null
+    },
+    "colors": [
+        "#4C78A8",
+        "#F58518"
+    ]
+}

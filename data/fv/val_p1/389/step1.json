@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and legend entries are identical. The color hues for each category are also consistent. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is incorrect on multiple points. According to the chart's legend, the 'other' sector is represented by the color purple, not yellow, and its corresponding value is 2.7%, not 19.3%. The value of 19.3% corresponds to 'natural gas'."
+    },
+    "claim": "The other sector as represented in the chart is yellow color and it has the value of 19.3%",
+    "label": false
+}

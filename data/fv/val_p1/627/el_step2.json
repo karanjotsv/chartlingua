@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. Minor lexical differences like 'major quantity' vs 'larger quantity', 'process implementation' vs 'process application', and 'graph' vs 'chart' do not alter the semantic content or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The title 'Air Toxic Releases' versus 'Toxic Emissions to Air' is a synonymous phrasing. The only minor difference is 'Process Implementation' translated to 'Process Application', which conveys a very similar meaning but is not an exact match."
+    },
+    "claim": "Primary process operation takes place in a major quantity than that of process implementation and both together constitute half of the graph.",
+    "translated_claim": "Η πρωτογενής λειτουργία διαδικασίας πραγματοποιείται σε μεγαλύτερη ποσότητα από αυτή της εφαρμογής διαδικασίας και οι δύο μαζί αποτελούν το ήμισυ του γραφήματος."
+}

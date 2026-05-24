@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, color hues, and the overall message are consistent. The only difference is a minute stylistic change in the title's apostrophe, which has no semantic impact.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 25% of respondents use only open source software as a matter of principle, but the chart clearly shows this figure is 8.3% for the corresponding category."
+    },
+    "claim": "25% of the respondents use only open source as a matter of principle.",
+    "label": false
+}

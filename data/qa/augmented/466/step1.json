@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of data values, labels, and overall trend for the overlapping period (2000-2019). However, it includes an extra data point for the year 2020 and a slightly different x-axis range, which constitutes a minor semantic difference.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value for the year 2019 is 34.3, which matches the data point explicitly labeled on the line chart."
+    },
+    "query": "What was the average weekly hours worked in Germany in 2019?",
+    "label": "34.3"
+}

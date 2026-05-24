@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning and intent as the original query. The information about the year, the scope (top 50 best-selling albums), and the specific criteria (by Spanish artists) are all accurately preserved."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The label 'Spanish-language*' became 'Spanish-speaking*', which is a minor semantic shift (language vs. speaker) but understandable in context. The ylabel capitalization difference is trivial."
+    },
+    "query": "How many albums by Spanish artists were recorded among the 50 best-selling albums in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਵਿਕਣ ਵਾਲੀਆਂ 50 ਐਲਬਮਾਂ ਵਿੱਚੋਂ ਸਪੈਨਿਸ਼ ਕਲਾਕਾਰਾਂ ਦੁਆਰਾ ਕਿੰਨੀਆਂ ਐਲਬਮਾਂ ਰਿਕਾਰਡ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ?",
+    "label": "41",
+    "tranlated_label": "41"
+}

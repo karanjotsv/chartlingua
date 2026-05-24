@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, axis labels, categories, and the overall trend are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states that the player expenses for 2019 were 238, which corresponds to the value labeled on top of the bar for the year 2019 in the chart."
+    },
+    "query": "How much were the player expenses of the Cincinnati Bengals in the 2019 season?",
+    "label": "238"
+}

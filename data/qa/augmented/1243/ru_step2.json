@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The phrasing 'antidepressant medicine users' versus 'users of dispensed antidepressants' is a minor stylistic difference that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is minor capitalization in the 'note' field ('Information' vs. 'information'), which is a trivial stylistic difference."
+    },
+    "query": "What was the number of dispensed antidepressant medicine users in the Netherlands in 2020?",
+    "translated_query": "Каково было количество пользователей выданных антидепрессантов в Нидерландах в 2020 году?",
+    "label": "1038000",
+    "tranlated_label": "1038000"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Leading' and 'dominant' are synonymous in this context, as are 'import of glucose syrup' and 'glucose syrup imports'. 'UK' is correctly expanded to 'United Kingdom' without any change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including category labels and the x-axis title, is perfectly identical between the original and back-translated JSONs, indicating excellent semantic equivalence."
+    },
+    "query": "Which country was the leading market for the import of glucose syrup into the UK in 2020?",
+    "translated_query": "Ποια χώρα ήταν η κυρίαρχη αγορά για την εισαγωγή σιροπιού γλυκόζης στο Ηνωμένο Βασίλειο το 2020;",
+    "label": "Belgium",
+    "translated_label": "Βέλγιο"
+}

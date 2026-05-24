@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim corrects a grammatical error from 'higher the the' to 'higher than the'. However, it changes 'manufacturing phase' to 'construction phase', which are distinct stages in a wind farm project and represent a significant alteration of the comparison's specifics. While related, they are not semantically equivalent in this context, leading to a loss of accuracy in the claim's core comparison."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translated content significantly altered key data labels in `chart_data` from 'Pre-Manufacturing' and 'Manufacturing' to 'Pre-Construction' and 'Construction'. This is a fundamental change in the meaning of the economic activity categories, constituting a significant distortion of key information. Other textual elements are mostly equivalent or have only minor stylistic differences."
+    },
+    "claim": "The value of economic activity during the transportation phase of a wind farm is higher the the value of economic activity during the manufacturing phase.",
+    "translated_claim": "Η αξία της οικονομικής δραστηριότητας κατά τη φάση μεταφοράς ενός αιολικού πάρκου είναι υψηλότερη από την αξία της οικονομικής δραστηριότητας κατά τη φάση κατασκευής."
+}

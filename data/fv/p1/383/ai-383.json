@@ -1,0 +1,60 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Buy Put 105",
+            "x": [
+                0,
+                105,
+                200
+            ],
+            "y": [
+                95,
+                -10,
+                -10
+            ]
+        },
+        {
+            "name": "Sell put 125",
+            "x": [
+                0,
+                125,
+                200
+            ],
+            "y": [
+                -100,
+                25,
+                25
+            ]
+        },
+        {
+            "name": "Net",
+            "x": [
+                0,
+                105,
+                125,
+                200
+            ],
+            "y": [
+                -5,
+                -5,
+                15,
+                15
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Graph showing bull put spread",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4F81BD",
+        "#C0504D",
+        "#9BBB59"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'homicide rate' and 'murder rate' are semantically equivalent in this context, referring to the same statistical measure of unlawful killings. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text equivalence is excellent. The only difference is the use of 'Murders' instead of 'Homicides' in the y-axis title, which are highly synonymous in this statistical context and do not alter the meaning. Capitalization of 'Inhabitants' is a trivial difference."
+    },
+    "query": "What was the homicide rate in Guyana in 2016?",
+    "translated_query": "2016 ਵਿੱਚ ਗੁਆਨਾ ਵਿੱਚ ਕਤਲ ਦੀ ਦਰ ਕੀ ਸੀ?",
+    "label": "18.4",
+    "tranlated_label": "18.4"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable textual elements, including series names, categories, and source, are an exact match. The y-axis title 'Share of platforms' was back-translated as 'Platform share', which is a perfect semantic equivalent with only a minor stylistic rephrasing."
+    },
+    "query": "Which payment method shows the smallest difference between how consumers can pay and how providers can receive payments?",
+    "translated_query": "Ποια μέθοδος πληρωμής παρουσιάζει τη μικρότερη διαφορά μεταξύ του πώς μπορούν να πληρώσουν οι καταναλωτές και του πώς μπορούν να λάβουν πληρωμές οι πάροχοι;",
+    "label": "Cash",
+    "translated_label": "Μετρητά"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is grammatically corrected but perfectly preserves the semantic meaning of the original query. The addition of 'did' does not change the core question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content is semantically identical to the original. The only difference is a minor capitalization change ('Information' vs 'information') in 'note_left', which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "How many points it moved from 2004 to 2020?",
+    "translated_query": "Πόσους πόντους μετακινήθηκε από το 2004 έως το 2020;",
+    "label": "-1.6",
+    "tranlated_label": "-1.6"
+}

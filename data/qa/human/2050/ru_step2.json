@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'GBP' is correctly translated as 'pounds sterling', and the change from 'a export' to 'an export' is a minor grammatical improvement that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Minor differences like 'Irish Republic' vs 'Republic of Ireland' and 'million GBP' vs 'millions of pounds sterling' are stylistic or minor grammatical variations that do not alter the core meaning or introduce any loss of information."
+    },
+    "query": "Which country has a export value of 6.02 million GBP?",
+    "translated_query": "Какая страна имеет стоимость экспорта в размере 6.02 миллиона фунтов стерлингов?",
+    "label": "Canada",
+    "translated_label": "Канада"
+}

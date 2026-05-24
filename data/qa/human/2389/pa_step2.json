@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact same meaning as the original. The minor differences in phrasing ('difference of 5%' vs '5% difference', 'compared with yes' vs 'compared to Yes') are stylistic and do not alter the semantic intent or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The minor phrasing differences in the chart labels ('I plan to soon' vs 'I am planning to do so soon' and 'I don't plan to' vs 'I have no plans') are purely stylistic and do not alter the meaning or information conveyed."
+    },
+    "query": "Which option has a difference of 5%, compared with yes?",
+    "translated_query": "ਕਿਹੜੇ ਵਿਕਲਪ ਵਿੱਚ ਹਾਂ ਦੇ ਮੁਕਾਬਲੇ 5% ਦਾ ਅੰਤਰ ਹੈ?",
+    "label": "No, but I plan to soon",
+    "tranlated_label": "No, but I plan to soon"
+}

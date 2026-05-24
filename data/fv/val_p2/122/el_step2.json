@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "There are significant semantic differences. 'unexpected trunk' was mistranslated to 'Unexposed trunk', which changes the meaning from something unforeseen to something not visible. Additionally, 'Trunk-branch' became 'Trunk-branch joint', adding a specific qualifier not present in the original."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The chart data categories and display labels maintain semantic equivalence. However, the chart title significantly alters a key detail: 'Peppered Moths' is changed to 'Dark Moths'. This loses the specificity of the original subject, which is important scientific information, thus affecting accuracy."
+    },
+    "claim": "The total of Trunk-branch and unexpected trunk is equal to Exposed trunk.",
+    "translated_claim": "Το σύνολο της Άρθρωσης κορμού-κλαδιού και του Μη εκτεθειμένου κορμού είναι ίσο με τον Εκτεθειμένο κορμό."
+}

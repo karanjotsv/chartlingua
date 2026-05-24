@@ -1,0 +1,38 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Palestine",
+            "value": 37.3,
+            "annotation_text": "37.3% (1950)"
+        },
+        {
+            "category": "El Salvador",
+            "value": 36.51,
+            "annotation_text": "36.51% (1950)"
+        },
+        {
+            "category": "Reunion",
+            "value": 23.49,
+            "annotation_text": "23.49% (1950)"
+        },
+        {
+            "category": "South Sudan",
+            "value": 8.87,
+            "annotation_text": "8.87% (1950)"
+        }
+    ],
+    "texts": {
+        "title": "Share of the population living in urban areas, 1950",
+        "subtitle": "Share of the total population living in urban areas, with UN urbanization projections to 2050.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source_note": "Source: OWID based on UN World Urbanization Prospects 2018 and historical sources (see Sources) OurWorldInData.org/urbanization • CC BY<br>Note: Urban areas are defined based on national definitions which can vary by country."
+    },
+    "colors": [
+        "#C8522A",
+        "#22908B",
+        "#8556A8",
+        "#5C6E7E"
+    ]
+}

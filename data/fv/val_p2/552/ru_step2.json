@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original semantic meaning. The change from 'The Atrophy source' to 'Source of Atrophy' is a minor stylistic variation, and the omission of 'the' before 'OECD 2006' does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences in 'title' ('the' added) and 'subtitle' (phrasing of 'USD billion dollars') are minor stylistic variations that do not alter the meaning."
+    },
+    "claim": "The Atrophy source  is 12  billion dollars in the OECD 2006.",
+    "translated_claim": "Источник Атрофии составляет 12 млрд долларов в OECD 2006."
+}

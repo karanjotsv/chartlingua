@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, axis labels, titles, and overall trends are accurately reproduced. The only minor differences are stylistic, such as the font and gridline color, which do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows four lines representing different emissivity (E) values. The labels for these lines are E=0.3, E=0.5, E=0.7, and E=0.9. The lowest numerical value among these is 0.3, which supports the claim."
+    },
+    "claim": "Least emissivity values carry in the chart is E=0.3",
+    "label": "TRUE"
+}

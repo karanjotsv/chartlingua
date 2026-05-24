@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "While the legend text, data percentages, and general color hues are correct, the rendered chart completely misplaces the national flags on the pie slices. For example, the Soviet flag is on the United States slice, and the US flag is on the Iran slice. This creates a major semantic error and fundamentally misrepresents the visual information from the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart's legend, the percentage of Armenians born in Iran is 14.7% and in Turkey is 9.7%. Their combined total is 24.4% (14.7% + 9.7%). This is not equal to the percentage of Armenians born in the Soviet Union, which is 14.3%."
+    },
+    "claim": "The total amount of Armenians that born in Iran and Turkey is equal with soviet union.",
+    "label": "FALSE"
+}

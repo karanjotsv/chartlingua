@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, and color hues are identical to the original. The different rotational order of the slices is a minor stylistic variation that does not change the core message or data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that PNL is the largest distribution of votes, but the pie chart shows PNL at 18%, which is the smallest percentage among the four categories. The largest category is PD-L with 28%."
+    },
+    "claim": "PNL is the largest distribution of votes for the 41 County Councils.",
+    "label": "FALSE"
+}

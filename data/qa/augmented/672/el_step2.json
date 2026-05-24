@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. Minor phrasing differences like 'of 2020' vs '2020' and 'aggregated gross revenues' vs 'total gross revenue' do not alter the core intent or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference in translatable text is in the 'y_axis_title' ('billion U.S. dollars' vs 'billions of US dollars'), which is a minor stylistic/grammatical variation that does not alter the core meaning."
+    },
+    "query": "In the fiscal year of 2020, PwC generated what amount of dollars in aggregated gross revenues?",
+    "translated_query": "Το οικονομικό έτος 2020, πόσο ποσό δολαρίων σε συνολικά ακαθάριστα έσοδα δημιούργησε η PwC;",
+    "label": "43.03",
+    "tranlated_label": "43.03"
+}

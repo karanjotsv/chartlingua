@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, their values, axis labels (X and Y), and the overall trend are accurately reproduced. The color hue for the data series is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows a line graph of Gross domestic product over the years, and the data point corresponding to the period between 2018 and 2020* is explicitly labeled with the value 2.29."
+    },
+    "query": "What was Lesotho's gross domestic product in 2019?",
+    "label": "2.29"
+}

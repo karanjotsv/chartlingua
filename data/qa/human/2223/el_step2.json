@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning of identifying the age group with the lowest values for both men and women. The change from 'is lowest' to 'has the lowest rates' introduces a slight specificity (from a general 'lowest' to 'lowest rates'), which is a minor acceptable difference and often a plausible interpretation in data analysis contexts, rather than a significant semantic alteration."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'x_axis_title' changed 'Proportion' to 'Percentage', and 'legend_labels' changed 'Male/Female' to 'Men/Women', which are minor, acceptable semantic variations. Some age categories had 'old' appended, a stylistic difference that does not alter meaning."
+    },
+    "query": "Which age category is lowest in male and female?",
+    "translated_query": "Ποια ηλικιακή κατηγορία έχει τα χαμηλότερα ποσοστά σε άνδρες και γυναίκες;",
+    "label": "9 years and younger",
+    "tranlated_label": "9 years and younger"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly maintains the original meaning. The only differences are stylistic (e.g., 'female' vs. 'women', 'male' vs. 'men') and a slight reordering of the time phrase 'in 1881', which do not alter the semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and series names retain their original meaning, with only stylistic or trivial differences. However, 'Domestic offices or services' became 'Domestic Duties or Services' which is a subtle shift in nuance (roles vs. tasks), and 'Conveyance of men' was generalized to 'Transport of People', changing the specificity of the gender reference. These are minor, acceptable deviations."
+    },
+    "claim": "The chart shows that there were more female professionals than male professionals in 1881.",
+    "translated_claim": "Диаграмма показывает, что в 1881 году было больше женщин-специалистов, чем мужчин-специалистов."
+}

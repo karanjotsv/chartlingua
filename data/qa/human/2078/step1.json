@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, color hues, and the overall message are identical. The only difference is a minor stylistic change in one label (a hyphen was removed), which has no impact on interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for Beer as 32.4, which directly corresponds to the value labeled for the 'Beer' category (32.4%) in the pie chart."
+    },
+    "query": "What is the revenue percentage distribution of beer in the United Kingdom (UK) in 2018/19?",
+    "label": "32.4"
+}

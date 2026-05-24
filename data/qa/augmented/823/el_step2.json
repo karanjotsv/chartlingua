@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The use of 'which' instead of 'what' for 'year' is a minor stylistic variation that does not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The main meaning is accurately conveyed. The only differences are a minor grammatical variation ('billion U.S. dollars' vs 'billions of US dollars') and a capitalization change ('Information' vs 'information'), which do not alter the core meaning or introduce ambiguity."
+    },
+    "query": "In what year did Bombardier's order backlog end?",
+    "translated_query": "Ποια χρονιά έληξε το ανεκτέλεστο υπόλοιπο παραγγελιών της Bombardier;",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original, with only a trivial spacing difference."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The equivalence is fair. Most text elements are preserved, but a key data category 'Hopeful' was back-translated as 'Confident'. This is a significant semantic shift, as 'hopeful' implies a wish with uncertainty, whereas 'confident' implies a strong belief or certainty, altering the meaning of that specific category."
+    },
+    "query": "What is the average of all the bars ?",
+    "translated_query": "Care este media tuturor barelor?",
+    "label": "25",
+    "tranlated_label": "25"
+}

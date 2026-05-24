@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents the data proportions, categories, and color scheme of the original. However, it omits the specific percentage labels (e.g., 'No: 51.3', 'Sí: 48.7') that were present in the original, which reduces the level of detail but does not change the overall message of a near-even split.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart visually shows that the red slice, representing 'No', is larger than the green slice, representing 'Sí'. The red slice clearly occupies more than 50% of the total area, which contradicts the claim that less than 50% of voters voted 'no'."
+    },
+    "claim": "Less than 50% of the voters at the 2016 Bolivian referendum voted \" no \" as their preference.",
+    "label": "FALSE"
+}

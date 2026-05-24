@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, titles, and axis categories are identical to the original. The overall trend and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the net profit in 2008 was 'nothing', but the line chart clearly shows a value of 102.5 million dollars for the year 2008."
+    },
+    "claim": "The Laurentian Bank of Canada's net profit in 2008 was nothing. ",
+    "label": false
+}

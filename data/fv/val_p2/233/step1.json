@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, text, and color hues as the original. The overall message is identical. The only minor difference is the ordering of the slices around the pie, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that the 'Food' industry accounts for 4% and 'Hazardous Waste Management' accounts for 6%. The sum of these two percentages is 10%, which is the exact percentage listed for 'Primary Metals'."
+    },
+    "claim": "The total value of Food and Hazardous waste Management is equal to Primary Metals.",
+    "label": "TRUE"
+}

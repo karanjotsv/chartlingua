@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text labels (title, axes, series), and color hues are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes a statement about the year 2020, but the chart's data lines for all three fossil fuels (coal, oil, and gas) end before reaching the 2020 mark on the x-axis. Therefore, the chart does not contain the necessary information to support this claim."
+    },
+    "claim": "Coal emits the most carbon dioxide in Turkey in 2020.",
+    "label": true
+}

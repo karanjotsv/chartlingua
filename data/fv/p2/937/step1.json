@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, titles, and color scheme are all accurately reproduced. The overall message conveyed by the logarithmic plot is identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the number of U.S. patents granted over time. It contains no information whatsoever about surges or damages in electronic devices."
+    },
+    "claim": "According to the chart, Surges cause more damages in electronic devices.",
+    "label": "TRUE"
+}

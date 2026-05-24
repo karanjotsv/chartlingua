@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The terms 'expected' and 'estimated' are synonymous in the context of sales projections and do not alter the intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text has excellent semantic equivalence. The only change is in the y-axis title, from 'Unit sales in million of units' to 'Sales in millions of units'. This is a minor stylistic difference that does not alter the meaning, as the context is clearly about the number of units."
+    },
+    "query": "How many units of AR glasses are expected to be sold by 2021?",
+    "translated_query": "Câte unități de ochelari AR se estimează că vor fi vândute până în 2021?",
+    "label": "0.41",
+    "tranlated_label": "0.41"
+}

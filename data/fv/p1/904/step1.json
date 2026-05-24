@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly represents all data categories, values, and their relative proportions. The title, legend, and color hues are all consistent with the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap among the percentage labels for the smaller slices (1.9%, 2.2%, 2.4%, etc.), making them unreadable. These labels also overlap with the chart title."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that 'natural gas' is the source for 66% of electricity generation, which is the largest percentage among all listed sources, making it the primary source."
+    },
+    "claim": "Natural gas is the primary source of electricity generation in Massachusetts.",
+    "label": true
+}

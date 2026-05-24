@@ -1,0 +1,35 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "x": [
+                1.8,
+                2.4,
+                3.1,
+                3.8,
+                4.5,
+                5.2
+            ],
+            "y": [
+                11,
+                24,
+                30,
+                40,
+                43,
+                49
+            ],
+            "name": "Cumulative Frequency"
+        }
+    ],
+    "texts": {
+        "title": "Ogive for Dog<br>Reaction Times",
+        "subtitle": null,
+        "x_axis_title": "Class Boundaries",
+        "y_axis_title": "Cumulative<br>Frequency",
+        "source": null,
+        "notes": null
+    },
+    "colors": [
+        "#48D1CC"
+    ]
+}

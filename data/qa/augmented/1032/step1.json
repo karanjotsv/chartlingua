@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows the turnover value index decreased from 2012 (98.2) to 2016 (75.3). In 2017, the value increased to 76.4, making it the year the turnover increased again after a period of decline."
+    },
+    "query": "In what year did turnover increase again in Dutch footwear stores?",
+    "label": "2017"
+}

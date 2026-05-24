@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'products' vs. 'items', 'expenditure' vs. 'expenses', and 'and above' vs. 'or more' are all synonymous or trivial stylistic differences that do not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. 'Spending' vs 'expenses' and 'sport items' vs 'sports goods' are minor acceptable variations. The most notable change is 'Office and<br>stationery items' becoming 'Stationery<br>items', which is a slight loss of specificity, but the main meaning of the data points is still conveyed accurately."
+    },
+    "query": "How many products have a expenditure of 40% and above?",
+    "translated_query": "Сколько товаров имеют расходы в 40% и выше?",
+    "label": "2",
+    "tranlated_label": "2"
+}

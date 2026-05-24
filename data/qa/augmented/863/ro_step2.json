@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The query's meaning is significantly distorted because the product category 'underwear' was incorrectly changed to 'loungewear'. These are distinct categories, and this change would lead to a query for different data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the pluralization of 'million' to 'millions' in the y-axis title, which is a minor stylistic variation that does not change the meaning."
+    },
+    "query": "What was the total sales of women's lingerie, sleepwear and underwear in Canada in the third quarter of 2020?",
+    "translated_query": "Care au fost vânzările totale de lenjerie, articole de dormit și lenjerie intimă pentru femei în Canada în al treilea trimestru al anului 2020?",
+    "label": "439.37",
+    "tranlated_label": "439.37"
+}

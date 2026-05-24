@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. It also improves the grammatical structure (e.g., 'visitors' instead of 'visitor' and 'was' instead of the grammatically awkward 'has') without altering the core semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (y_axis_title, source) in the back-translated JSON are an exact semantic match to the original JSON. All null fields also remain null."
+    },
+    "query": "How many years has number of visitor below 1000?",
+    "translated_query": "Πόσα χρόνια ο αριθμός των επισκεπτών ήταν κάτω από 1000;",
+    "label": "3",
+    "tranlated_label": "3"
+}

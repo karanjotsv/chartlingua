@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for both axes, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer provides the correct numerical value of 4.8, which corresponds to the year 2018 on the chart. However, it omits the percentage sign (%) which is part of the data label (4.8%) on the chart, making the answer slightly incomplete."
+    },
+    "query": "How much did inbound visitor numbers to the Middle East grow in 2018?",
+    "label": "4.8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. Data values, line shapes, axis labels, legend entries, and color hues are all accurately preserved, conveying the identical scientific information. The logarithmic scale and trends are perfectly matched.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows two distinct lines for HbO2 (red) and Hb (blue) which follow different paths and have different values across the wavelength spectrum, indicating their absorption spectra are not identical. For example, Hb has a prominent peak around 430 nm that is much higher than HbO2's value at the same wavelength."
+    },
+    "claim": "The absorption spectra of HbO2 and Hb are identical.",
+    "label": "FALSE"
+}

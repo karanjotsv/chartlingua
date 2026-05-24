@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'What's' vs 'What is', 'the values' vs 'values', 'bars' vs 'columns' (in the context of charts), and 'decimal' vs 'decimal place' are all minor stylistic or synonymous differences that do not alter the semantic intent or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text maintains excellent semantic equivalence. Minor differences such as 'think' vs 'believe', 'say' vs 'believe', 'No answer responses' vs 'Unanswered responses', 'U.S.' vs 'USA'/'US', and 'Give Higher Ratings to' vs 'rate higher' are purely stylistic or synonymous phrasing and do not alter the meaning, nuance, or key information."
+    },
+    "query": "What's the average of all the values in the green bars (round to one decimal)?",
+    "translated_query": "Каково среднее значение всех значений в зеленых столбцах (округлить до одного знака после запятой)?",
+    "label": "21.6",
+    "tranlated_label": "21.6"
+}

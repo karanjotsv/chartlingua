@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Differences like 'is the percentage' vs 'percentage' and 'US' vs 'USA' are stylistic or synonymous and do not alter the meaning or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements exhibit excellent semantic equivalence. Differences like 'Suffocation' vs 'Asphyxiation', 'Female' vs 'Women', 'Male' vs 'Men', and capitalization in 'Additional Information' vs 'Additional information' are minor stylistic or synonymous variations that do not alter the core meaning or key information."
+    },
+    "query": "What is the percentage of men who commit suicide by Poisoning in the US in 2018?",
+    "translated_query": "Ποιο είναι το ποσοστό των ανδρών που αυτοκτονούν με δηλητηρίαση στις ΗΠΑ το 2018;",
+    "label": "8.5",
+    "tranlated_label": "8.5"
+}

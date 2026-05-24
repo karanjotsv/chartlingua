@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values (41.5%, 44.5%, 13.9%), categories on the x-axis, axis titles, and the color hue are all identical to the original, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately calculates the difference between the value for 'No' (44.5%) and the value for 'Yes' (41.5%). The calculation 44.5 - 41.5 equals 3, which matches the provided answer."
+    },
+    "query": "What is the difference in value between Yes and No?",
+    "label": "3"
+}

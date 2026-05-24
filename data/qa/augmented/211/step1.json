@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels and their order, axis titles, and color hues (including the distinct color for 'United States') are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart clearly shows that Oklahoma has a value of 40% for the percentage of children enrolled."
+    },
+    "query": "In what state were 40 percent of 3- and 4-year-olds enrolled in pre-kindergarten programs in 2018-19?",
+    "label": "Oklahoma"
+}

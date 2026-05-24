@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, axis titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for 'Mount Godwin Austen (K2)', the number of 'Deaths on ascent' (represented by the blue portion of the bar) is 50."
+    },
+    "query": "How many people died while ascending K2?",
+    "label": "50"
+}

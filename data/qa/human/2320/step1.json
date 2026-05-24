@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color assignments are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the 'Private nonprofit institution' as the category with the highest value. The chart shows that the average tuition cost and fees for this institution type is $35,659, which is the highest single value depicted on the chart."
+    },
+    "query": "Which has the highest value?",
+    "label": "Private nonprofit institution"
+}

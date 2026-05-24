@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and proportions are identical. The only differences are stylistic (e.g., exploding one slice), which do not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart displays the market share of different web browsers. The claim, however, discusses male employment in agricultural occupations in Ripple in 1881. The chart contains no information whatsoever about historical employment data, demographics, or specific locations, making it impossible to support the claim."
+    },
+    "claim": " In Ripple in 1881, the males were mostly employed in agricultural occupations.",
+    "label": "TRUE"
+}

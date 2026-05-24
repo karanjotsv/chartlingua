@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "2009 (PCA peanut butter)",
+            "2011 (Cargill ground turkey)",
+            "2013 (Foster Farms chicken)",
+            "2015 (Mexican cucumbers)"
+        ],
+        "series": [
+            {
+                "name": "Illnesses",
+                "data": [
+                    714,
+                    136,
+                    634,
+                    907
+                ]
+            },
+            {
+                "name": "Deaths",
+                "data": [
+                    9,
+                    1,
+                    0,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Year (cause)",
+        "y_axis_title": "Number",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#247BDB",
+        "#34495E"
+    ]
+}

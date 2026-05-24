@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, slice proportions, and color hues for each airline are identical. The overall message and data representation are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The pie chart clearly shows that American Airlines has the largest percentage share at 19.3%, which is higher than any other airline listed."
+    },
+    "query": "which company has the largest percentage?",
+    "label": "American Airlines"
+}

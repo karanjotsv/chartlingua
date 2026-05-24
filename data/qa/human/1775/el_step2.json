@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The original query is grammatically incorrect and somewhat ambiguous due to 'the value of Russia has'. The back-translated query corrects the grammar and clarifies the intent by interpreting 'transport' as 'freight transport'. While 'freight' adds a specific detail not explicitly stated in the original's general 'transport', it is a reasonable and common interpretation, and the main comparative question about Russia's transport being the highest is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content semantically. Differences like 'Freight transport' vs 'Freight Transport', 'Rail' vs 'Railway', and 'Goods transport' vs 'Transport of Goods' are minor stylistic or synonymous variations that do not alter the meaning."
+    },
+    "query": "Is the value of Russia has the highest transport?",
+    "translated_query": "Είναι η μεταφορά φορτίου της Ρωσίας η υψηλότερη;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

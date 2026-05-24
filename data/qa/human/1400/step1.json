@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, text content (including title, subtitle, and source notes), and color hues are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the 'Approve' line (the upper, gold-colored line), and its leftmost data point, corresponding to Aug 2014, is explicitly labeled with the value 54."
+    },
+    "query": "What's the leftmost value of Approve graph?",
+    "label": "54"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent and accurate reproduction of the original. All data values, labels for axes and data points, color hues, and the overall structure are identical. The overall message conveyed by both charts is the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The question lists the number of 'Narrowbody' aircraft for the years 2018 (934), 2020 (1024), 2021 (1036), and 2022 (1029). The missing value from this chronological series is for the year 2019, which the chart clearly shows is 1125."
+    },
+    "query": "934, 1024,1036,1029, find  the missed data ?",
+    "label": "1125"
+}

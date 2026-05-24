@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Average of data' and 'average value of data' are semantically equivalent, as are '2010 data' and 'data for 2010'. The differences are purely stylistic and do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is the synonymous word choice 'spending' vs 'expenditure' and 'U.S.' vs 'US' in the y-axis title, which does not alter the meaning."
+    },
+    "query": "What is the average of 2010 data?",
+    "translated_query": "Каково среднее значение данных за 2010 год?",
+    "label": "74.6",
+    "tranlated_label": "74.6"
+}

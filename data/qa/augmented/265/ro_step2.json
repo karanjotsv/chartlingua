@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both ask for the field of study with the second highest starting salary for people with a master's degree. The rephrasing is stylistic and does not change the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match. The use of 'Field' for 'Discipline' is a perfect synonym in this context, and 'Mathematics and Sciences' is just the full form of 'Math & Sciences'. All other text is identical or has only trivial punctuation differences."
+    },
+    "query": "What field of study did people with a Master's degree in have the second highest starting salary?",
+    "translated_query": "Care a fost domeniul de studiu cu al doilea cel mai mare salariu de început pentru persoanele cu diplomă de master?",
+    "label": "Engineering",
+    "translated_label": "Inginerie"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and relative proportions are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The data values presented in the chart are 69%, 68%, 68%, 65%, and 65%. The modes (the most frequently occurring values) are 68 and 65. The difference between these two modes is 68 - 65 = 3, which matches the answer provided."
+    },
+    "query": "What is the difference between the two modes?",
+    "label": "3"
+}

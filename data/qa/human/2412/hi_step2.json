@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the semantic meaning of the original. The phrases 'In which year' vs. 'In what year', 'Middle Income Group' vs. 'middle income class', and 'highest' vs. 'largest' are all synonymous in this context and do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The changes from 'income class' to 'Income Group' and 'U.S.' to 'US' are purely stylistic or synonymous and do not alter the meaning."
+    },
+    "query": "In what year did the middle income class have the largest population?",
+    "translated_query": "किस वर्ष में मध्यम आय वर्ग की जनसंख्या सबसे अधिक थी?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

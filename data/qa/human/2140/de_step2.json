@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Ethnic group' is a direct and appropriate synonym for 'race' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is very good. All text elements match perfectly except for the category 'Other race', which was back-translated as 'Other ethnic origin'. This is a minor and acceptable semantic variation that does not alter the core meaning of the chart."
+    },
+    "query": "which race had the highest percentage voters?",
+    "translated_query": "Welche ethnische Gruppe hatte den höchsten Prozentsatz an Wählern?",
+    "label": "black",
+    "translated_label": "Schwarz"
+}

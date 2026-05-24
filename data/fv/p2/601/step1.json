@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are consistent with the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows Chemistry at 20.8%, Physics at 16.9%, and Earth & Env. Science at 15.0%. The sum of these percentages is 52.7%, which is approximately half (50%), thus supporting the claim."
+    },
+    "claim": "The field of chemistry, Physics and Earth&Env science combined have about half of the usage of CSCS supercomputers in 2011.",
+    "label": "TRUE"
+}

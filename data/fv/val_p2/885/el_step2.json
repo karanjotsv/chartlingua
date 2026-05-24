@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Largest' is a semantic equivalent to 'highest' in this context, and the typo 'smarthpone' was corrected to 'smartphone' without altering the intended message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (chart_data labels) is identical in both original and back-translated versions. The 'texts' object fields are all null in both, meaning there was no additional text content to evaluate for translation differences."
+    },
+    "claim": "Android had the highest market share among smarthpone operating systems in 2009.",
+    "translated_claim": "Το Android είχε το μεγαλύτερο μερίδιο αγοράς μεταξύ των λειτουργικών συστημάτων smartphone το 2009."
+}

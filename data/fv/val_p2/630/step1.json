@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and proportions are identical. The only minor difference is the rotational order of the slices, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that '1-4 GCSEs' has an above-average value. The chart shows this category at 8%. The average value across the seven categories is approximately 14.3% (100% divided by 7). Since 8% is below the average of 14.3%, the claim is refuted by the chart data."
+    },
+    "claim": "1-4 GCSEs has an above average value in Rockhampton Education & Qualifications Graph 2011.",
+    "label": "FALSE"
+}

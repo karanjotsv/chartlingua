@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. The minor difference in preposition ('of' vs 'for') and capitalization ('technical' vs 'Technical') do not alter the semantic content of the claim."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. There are minor acceptable differences in capitalization and phrasing for some category labels (e.g., 'Transport' vs. 'Transportation', 'food service' vs. 'Food Services'). The chart title has a slight grammatical shift from 'Occupational Statistics' to 'Occupation Statistics', but it preserves the main meaning and key information."
+    },
+    "claim": "The number of Health and Education in 2011 was higher than Scientific & technical",
+    "translated_claim": "Ο αριθμός της Υγείας και Εκπαίδευσης το 2011 ήταν υψηλότερος από τις Επιστημονικές & τεχνικές"
+}

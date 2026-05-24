@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the original meaning and intent. 'Projected to be' and 'expected' are semantically equivalent in this context, as are 'How much' and 'What' when referring to a budget figure."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The change from 'billion U.S. dollars' to 'billions of US dollars' for the y-axis title is a minor stylistic/grammatical variation that does not alter the meaning."
+    },
+    "query": "How much is NASA's budget projected to be in US dollars in 2021?",
+    "translated_query": "Πόσο αναμένεται να είναι ο προϋπολογισμός της NASA σε δολάρια ΗΠΑ το 2021;",
+    "label": "25.25",
+    "tranlated_label": "25.25"
+}

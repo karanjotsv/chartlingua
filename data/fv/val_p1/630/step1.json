@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly shows Germany with 64% of military deaths, which is the largest percentage among all the Axis powers listed, directly supporting the claim."
+    },
+    "claim": "Germany had the highest percentage of military deaths among the Axis Powers during World War II",
+    "label": true
+}

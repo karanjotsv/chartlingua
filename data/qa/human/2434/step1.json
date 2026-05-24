@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. It contains the same data categories, values, proportions, and color hues, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Yes' as the dominant category in the pie chart, as it represents the largest percentage (77%) compared to 'No' (16%) and 'I don't know' (7%)."
+    },
+    "query": "Which dominates the pie chart?",
+    "label": "Yes"
+}

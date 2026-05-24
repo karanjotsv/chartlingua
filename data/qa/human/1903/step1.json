@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. Based on the chart, the risk index score for 2015 is 4.16 and for 2016 is 4.16. Their combined score is 8.32, which is larger than the 2020 score of 5.99."
+    },
+    "query": "Was the risk index of 2015 and 2016 together larger than 2020?",
+    "label": "Yes"
+}

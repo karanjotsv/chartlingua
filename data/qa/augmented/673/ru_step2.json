@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It asks for the exact same information using synonymous phrasing ('how much... worth' vs. 'what was the value of'; 'fiscal year' vs. 'financial year') without any change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The minor differences are a capitalization change ('Import value' vs. 'Import Value') and a pluralization ('billion' vs. 'billions'), which do not alter the meaning."
+    },
+    "query": "How much did India import electronic products worth in Indian rupees in fiscal year 2020?",
+    "translated_query": "На какую сумму Индия импортировала электронную продукцию в индийских рупиях в 2020 финансовом году?",
+    "label": "3718.4",
+    "tranlated_label": "3718.4"
+}

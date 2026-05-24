@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, legend labels, and color hues are consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart clearly illustrates a significant difference in occupations between males and females. The vast majority of males are concentrated in 'AGRICULTURE', represented by a single tall blue bar reaching 40. In contrast, females are distributed across several other categories, primarily 'UNKNOWN OCCUPATION' and 'NO SPECIFIED OCCUPATION', with virtually no presence in agriculture. This stark contrast supports the claim of a 'note difference'."
+    },
+    "claim": "There is a note difference in the occupations of male and female residents in Flowton in 1881.",
+    "label": true
+}

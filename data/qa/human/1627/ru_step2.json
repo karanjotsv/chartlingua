@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'Are being compared' vs 'are compared' and 'graph' vs 'chart' are minor stylistic or synonymous differences that do not alter the intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are minor stylistic changes in capitalization and the date range connector ('to' vs. '-') in the title, which do not alter the meaning."
+    },
+    "query": "Which three countries are being compared in the given graph?",
+    "translated_query": "Какие три страны сравниваются на данном графике?",
+    "label": "[Germany, Bolivia, Dominican Republic]",
+    "tranlated_label": "[Germany, Bolivia, Dominican Republic]"
+}

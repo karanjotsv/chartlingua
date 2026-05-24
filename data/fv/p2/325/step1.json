@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the economic activity for 'Transportation' is approximately $7 million, while the economic activity for 'Manufacturing' is approximately $54 million. This contradicts the claim that the value for transportation is higher than manufacturing."
+    },
+    "claim": "The value of economic activity during the transportation phase of a wind farm is higher the the value of economic activity during the manufacturing phase.",
+    "label": "FALSE"
+}

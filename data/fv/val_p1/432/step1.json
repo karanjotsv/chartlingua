@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the main title are identical. The color hue is consistent, and the overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows that the number of people with German as their mother tongue in Einsiedel is 119, while in Krompach the number is 8. The claim is supported because 119 is clearly greater than 8."
+    },
+    "claim": "In 2011, more people had German as their mother tongue in Einsiedel than in Krompach.",
+    "label": true
+}

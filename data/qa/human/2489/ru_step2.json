@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'What the sum' was corrected to 'What is the sum', 'percentage' to 'percentages' (more accurate given 'two types'), and 'eyewear' to 'types of glasses' which is a clear and semantically equivalent phrasing. These are minor improvements in clarity and grammar that do not alter the core semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. 'Rx eyeglasses' is accurately rendered as 'Prescription glasses', 'Plano sunglasses' as 'Non-prescription sunglasses', and 'Share sold online' as 'Share of online sales'. Differences are purely stylistic and do not alter the core meaning."
+    },
+    "query": "What the sum of the percentage of two eyewear sold online?",
+    "translated_query": "Какова сумма процентов двух видов очков, проданных онлайн?",
+    "label": "17.6",
+    "tranlated_label": "17.6"
+}

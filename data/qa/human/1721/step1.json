@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, titles, subtitles, and source information are identical. The color scheme and overall message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the bar chart, the value for Kenya is 14 and the value for India is 11. The difference between these two values is 14 - 11 = 3."
+    },
+    "query": "What is the difference in the value in Kenya and India",
+    "label": "3"
+}

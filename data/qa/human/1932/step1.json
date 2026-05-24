@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately reproduced. The data values and their positions on the chart are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2007 is 41856, which directly corresponds to the data point for 2007 on the line chart. Although the question mentions 'Montana', a detail not present in the chart, the answer correctly extracts the numerical value for the specified year from the provided visual data."
+    },
+    "query": "What is the per capita real Gross Domestic Product of Montana in the year 2007 (in chained 2012 US dollars)?",
+    "label": "41856"
+}

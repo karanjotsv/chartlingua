@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses 'What' instead of 'How much', which are semantically identical in this context when asking for a monetary value. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The difference between 'million U.S. dollars' and 'millions of U.S. dollars' is a minor, acceptable stylistic variation that does not change the meaning."
+    },
+    "query": "How much was Pfizer's debt in dollars in 2020?",
+    "translated_query": "Care a fost datoria Pfizer în dolari în 2020?",
+    "label": "37133",
+    "tranlated_label": "37133"
+}

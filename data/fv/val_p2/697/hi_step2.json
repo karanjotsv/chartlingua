@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts a key piece of information. The original specifies a precise date, \"Jun 10\" (June 10th), while the back-translation changes this to \"June '10\", which implies the entire month of June in the year 2010. This loss of specificity fundamentally alters the claim's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text element, the series name 'Edits', is identical in both versions. All other text fields are null in both the original and back-translated content."
+    },
+    "claim": "On Jun 10, 600 edits are on the English Wikipedia in the line graph.",
+    "translated_claim": "लाइन ग्राफ़ में, जून '10 में अंग्रेजी विकिपीडिया पर 600 संपादन हैं।"
+}

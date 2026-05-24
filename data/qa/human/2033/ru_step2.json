@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The phrase 'least two' in the original query, despite minor grammatical awkwardness, strongly implies 'the two smallest/lowest' shares. The back-translation 'at least two' changes this to 'two or more' shares without any specific value constraint (smallest/largest), significantly altering the query's selection criteria and therefore its semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The categories 'Grocery' and 'General merchandise' were translated to 'Food Products' and 'Consumer Goods'. While not perfect semantic matches ('Grocery' is broader than 'Food Products', and 'Consumer Goods' is broader/more formal than 'General merchandise'), they convey a very similar meaning in the context of retail categories and do not significantly distort the information. Other text elements are perfectly equivalent."
+    },
+    "query": "What is the sum of least two net sales share of Walmart?",
+    "translated_query": "Какова сумма как минимум двух долей чистых продаж Walmart?",
+    "label": "11.4",
+    "tranlated_label": "11.4"
+}

@@ -1,0 +1,45 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "0 category",
+            "value": 1629592,
+            "label": "1629592 (3.73%)"
+        },
+        {
+            "category": "1 category",
+            "value": 22492880,
+            "label": "22492880 (51.55%)"
+        },
+        {
+            "category": "2 categories",
+            "value": 10707956,
+            "label": "10707956 (24.54%)"
+        },
+        {
+            "category": "3 categories",
+            "value": 4582183,
+            "label": "4582183 (10.5%)"
+        },
+        {
+            "category": "4 categories",
+            "value": 2027653,
+            "label": "2027653 (4.65%)"
+        },
+        {
+            "category": "5+ categories",
+            "value": 2191709,
+            "label": "2191709 (5.02%)"
+        }
+    ],
+    "texts": {
+        "title": "Number of files by number of categories on Commons",
+        "subtitle": "Excluding \"needing category\" and hidden categories",
+        "x_axis_title": "Number of categories",
+        "y_axis_title": "Number of files",
+        "source_note": null
+    },
+    "colors": [
+        "#2ca02c"
+    ]
+}

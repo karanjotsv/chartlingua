@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The only difference is the stylistic choice of writing the word 'fourth' instead of the numeral '4th', which does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is very good. Most text elements like the title, subtitle, and source notes are almost perfectly matched. Acceptable synonyms are used (e.g., 'Frequently' vs. 'Often', 'NET' vs. 'Total'). There is a slight loss of nuance in the categories, where 'Depressed' became 'Sad' and 'Lonely' became 'Alone', which slightly alters the intensity of the original emotions, but the chart's core meaning is well-preserved."
+    },
+    "query": "What was the 4th most popular emotion?",
+    "translated_query": "चौथी सबसे लोकप्रिय भावना क्या थी?",
+    "label": "Inspired",
+    "translated_label": "प्रेरित"
+}

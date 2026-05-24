@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, labels, axes, and the overall trend are accurately reproduced. There is a minor hue shift for the 'Secondary Pb' category, but this does not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows that for the year 1996, the bar segment for 'Primary Cu' (light orange) starts at 0 and ends below the 2,000,000 tonnes mark on the y-axis, confirming the claim."
+    },
+    "claim": "The primary cu tonnes is between 0 to 2,000,000 during the year 1996.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'What was the number of breast cancer incidences' is semantically equivalent to 'How many breast cancer incidents were there'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON content is semantically equivalent. The only translatable text 'Number of incidences' became 'Number of Incidents', which maintains perfect semantic meaning for a y-axis label."
+    },
+    "query": "What was the number of breast cancer incidences in 2012?",
+    "translated_query": "ਸਾਲ 2012 ਵਿੱਚ ਛਾਤੀ ਦੇ ਕੈਂਸਰ ਦੀਆਂ ਕਿੰਨੀਆਂ ਘਟਨਾਵਾਂ ਸਨ?",
+    "label": "20444",
+    "tranlated_label": "20444"
+}

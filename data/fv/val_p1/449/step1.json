@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data proportions, categories, text (title and legend), and color-to-category mapping as the original. The minor difference in the rotation of the pie chart is stylistic and does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that the slice representing 'Agricultural Labourers' is significantly larger than the slice for 'Retail & Handicrafts', confirming that more adult men were employed in agricultural labour."
+    },
+    "claim": "Adult men in 1831 worked more in agricultural labour than in retail & handcrafts. ",
+    "label": true
+}

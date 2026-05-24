@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query incorrectly changed 'PPI' (Producer Price Index) to 'CPI' (Consumer Price Index), which are distinct economic indicators. This represents a significant loss and distortion of key information, making the query ask for different data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the 'texts' object (y_axis_title, source, and all null titles) are perfectly identical in both the original and back-translated content, indicating excellent semantic equivalence."
+    },
+    "query": "What was the PPI in 2020?",
+    "translated_query": "Каким был ИПЦ в 2020 году?",
+    "label": "194.3",
+    "tranlated_label": "194.3"
+}

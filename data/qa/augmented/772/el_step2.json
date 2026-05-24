@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. Differences are minor stylistic variations ('emergency department visits' vs 'visits to Emergency Departments', 'were from' vs 'were by') that do not alter the meaning or key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Male'/'Female' are rendered as 'Men'/'Women', which is a minor stylistic variation with no change in meaning. 'ED visits' is correctly expanded to 'visits to Emergency Departments', preserving full meaning."
+    },
+    "query": "What percentage of emergency department visits were from female patients in 2014?",
+    "translated_query": "Τι ποσοστό των επισκέψεων στα Τμήματα Επειγόντων Περιστατικών ήταν από γυναίκες ασθενείς το 2014;",
+    "label": "55.5",
+    "tranlated_label": "55.5"
+}

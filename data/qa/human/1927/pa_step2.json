@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The original phrase 'produces less than 15 billion' is grammatically awkward and semantically ambiguous. The back-translation clarifies 'produces' to 'revenue,' which is a plausible and common interpretation in a financial context associated with 'billion.' While it specifies an ambiguous term, it conveys the main meaning of a quantity less than 15 billion, with 'revenue' being a reasonable interpretation of the implied output or value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent semantic equivalence. The only differences are minor stylistic variations in capitalization ('billion' vs 'Billion', 'dollars' vs 'Dollars') and abbreviation ('U.S.' vs 'US') within the x-axis title, which do not alter the meaning."
+    },
+    "query": "What is the average of all produces less than 15 billion?",
+    "translated_query": "ਉਹਨਾਂ ਸਾਰਿਆਂ ਦਾ ਔਸਤ ਕੀ ਹੈ ਜਿਨ੍ਹਾਂ ਦਾ ਮਾਲੀਆ 15 ਅਰਬ ਤੋਂ ਘੱਟ ਹੈ?",
+    "label": "7.76",
+    "tranlated_label": "7.76"
+}

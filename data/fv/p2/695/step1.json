@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data distribution, bar heights, colors, and textual labels are all consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states the protein abundance is 500 ppm. However, the x-axis, which represents protein abundance (ppm), shows the red bin is located at a value much less than 1 ppm. The value of approximately 500 corresponds to the count on the y-axis, not the protein abundance on the x-axis."
+    },
+    "claim": "C19orf67 in red bin has 500 ppm protein abundance.",
+    "label": "TRUE"
+}

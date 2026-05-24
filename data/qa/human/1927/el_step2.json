@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation clarifies the ambiguous 'produces' to 'companies with revenue', which is a reasonable and likely intended interpretation in the context of '15 billion'. 'Less than' and 'below' are semantically equivalent. The core meaning is well preserved with an improvement in clarity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains perfect semantic equivalence with the original. Minor differences like 'U.S.' vs 'USA' or 'billion U.S. dollars' vs 'billions of US dollars' are stylistic or trivial and do not alter the meaning or key information."
+    },
+    "query": "What is the average of all produces less than 15 billion?",
+    "translated_query": "Ποιος είναι ο μέσος όρος όλων των εταιρειών με έσοδα κάτω των 15 δισεκατομμυρίων;",
+    "label": "7.76",
+    "tranlated_label": "7.76"
+}

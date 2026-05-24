@@ -1,0 +1,86 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "High school grades",
+            "values": [
+                67,
+                26,
+                7
+            ]
+        },
+        {
+            "category": "Standardized test<br>scores",
+            "values": [
+                47,
+                41,
+                11
+            ]
+        },
+        {
+            "category": "Community service<br>involvement",
+            "values": [
+                21,
+                48,
+                30
+            ]
+        },
+        {
+            "category": "Being first person in<br>family to go to college",
+            "values": [
+                20,
+                27,
+                53
+            ]
+        },
+        {
+            "category": "Athletic ability",
+            "values": [
+                8,
+                34,
+                57
+            ]
+        },
+        {
+            "category": "Whether a relative<br>attended the school",
+            "values": [
+                8,
+                24,
+                68
+            ]
+        },
+        {
+            "category": "Race or ethnicity",
+            "values": [
+                7,
+                19,
+                73
+            ]
+        },
+        {
+            "category": "Gender",
+            "values": [
+                5,
+                14,
+                81
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Grades, test scores top list of factors<br>Americans say should be considered in<br>college admissions",
+        "subtitle": "% saying each of the following should be a ___ in college<br>admissions decisions",
+        "legend_items": [
+            "Major factor",
+            "Minor factor",
+            "Not a factor"
+        ],
+        "note": "Note: Share of respondents who didn't offer an answer not shown.",
+        "source": "Source: Survey of U.S. adults conducted Jan. 22-Feb. 5, 2019.",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#3E7D73",
+        "#71B3A9",
+        "#B89938"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": [
+        {
+            "name": "Landwirtschaft",
+            "values": [
+                31.01,
+                29.26,
+                29.71,
+                29.25,
+                28.35,
+                25.59,
+                23.1,
+                22.78,
+                22.31,
+                21.71,
+                21.28
+            ]
+        },
+        {
+            "name": "Industrie",
+            "values": [
+                28.32,
+                28.56,
+                28.21,
+                28.29,
+                28.93,
+                28.46,
+                29.88,
+                30.12,
+                30.03,
+                30.1,
+                30.15
+            ]
+        },
+        {
+            "name": "Dienstleistungen",
+            "values": [
+                40.67,
+                42.18,
+                42.08,
+                42.46,
+                42.72,
+                45.96,
+                47.02,
+                47.1,
+                47.66,
+                48.2,
+                48.57
+            ]
+        }
+    ],
+    "categories": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil an der Gesamtbeschäftigung",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#267fca",
+        "#0c2c4d",
+        "#bdbdbd"
+    ]
+}

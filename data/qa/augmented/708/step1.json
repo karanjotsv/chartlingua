@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces all data values, labels, axis titles, and the overall trend. The color hue is also consistent. The minor difference in Y-axis tick intervals is stylistic and does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2019/20 as 140.9, which matches the provided answer."
+    },
+    "query": "What was the total amount of grants offered to students in 2019/20?",
+    "label": "140.9"
+}

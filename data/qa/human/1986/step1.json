@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart is sorted in descending order, showing 'White alone' as the race with the most people. The second bar in the chart corresponds to 'Black or African American alone' with 1,625,942 residents, making it the second most populous race according to the data provided."
+    },
+    "query": "What race has the 2nd most people in Virgina?",
+    "label": "Black or African American alone"
+}

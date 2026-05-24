@@ -1,0 +1,103 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "x": [
+            1995,
+            1996,
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "series": [
+            {
+                "name": "Botswana",
+                "y": [
+                    522000,
+                    506000,
+                    606000,
+                    777000,
+                    843000,
+                    1099000,
+                    1198000,
+                    1281000,
+                    1404000,
+                    1523000,
+                    1481000,
+                    1421000
+                ]
+            },
+            {
+                "name": "Nigeria",
+                "y": [
+                    652000,
+                    824000,
+                    601000,
+                    747000,
+                    781000,
+                    822000,
+                    864000,
+                    905000,
+                    946000,
+                    992000,
+                    1051000,
+                    1121000
+                ]
+            },
+            {
+                "name": "Honduras",
+                "y": [
+                    262000,
+                    256000,
+                    301000,
+                    318000,
+                    359000,
+                    456000,
+                    502000,
+                    541000,
+                    614000,
+                    651000,
+                    684000,
+                    739000
+                ]
+            },
+            {
+                "name": "American Samoa",
+                "y": [
+                    26000,
+                    25000,
+                    22000,
+                    24000,
+                    28000,
+                    32000,
+                    28000,
+                    27000,
+                    25000,
+                    24000,
+                    23000,
+                    22000
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "International tourism: Number of arrivals, 1995 to 2006",
+        "subtitle": "Overnight visitors who travel to a country whose main purpose in visiting is not commercial.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: World Bank",
+        "note": "OurWorldInData.org/tourism/ • CC BY"
+    },
+    "colors": [
+        "#29a3a3",
+        "#88419d",
+        "#c54929",
+        "#3d5a68"
+    ]
+}

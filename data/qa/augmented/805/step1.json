@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical, conveying the exact same message and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the average ticket price for the 2005/06 season as 43.13, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the average ticket price in the 2005/06 season?",
+    "label": "43.13"
+}

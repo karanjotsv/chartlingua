@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (55, 72, 42 million), category labels (Republican Party, Democratic Party, Independents), and color hues (red, blue, yellow) are identical. The proportions and overall message are fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart explicitly labels the Democratic Party with '72 million', which is the largest number among the three categories shown (compared to 55 million for the Republican Party and 42 million for Independents)."
+    },
+    "claim": "with 72 million people, Democratic Party is at the first position of this chart.",
+    "label": "TRUE"
+}

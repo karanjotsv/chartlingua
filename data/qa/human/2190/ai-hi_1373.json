@@ -1,0 +1,49 @@
+{
+    "chart_type": "stacked_bar_100_percent",
+    "chart_data": {
+        "categories": [
+            "2014",
+            "2015*",
+            "2016*",
+            "2017*",
+            "2018*",
+            "2019*"
+        ],
+        "series": [
+            {
+                "name": "क्लाउड ट्रैफ़िक",
+                "data": [
+                    81,
+                    83,
+                    85,
+                    86,
+                    88,
+                    90
+                ]
+            },
+            {
+                "name": "गैर-क्लाउड ट्रैफ़िक",
+                "data": [
+                    19,
+                    17,
+                    15,
+                    14,
+                    12,
+                    10
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "वैश्विक मोबाइल डेटा ट्रैफ़िक का हिस्सा",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2B77D2",
+        "#1A273A"
+    ]
+}

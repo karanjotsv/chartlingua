@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Data not reported",
+            "Equal or less than<br>25% of retail price is<br>tax",
+            "26-50% of retail price<br>is tax",
+            "51-75% of retail<br>prices is tax",
+            "More than 75% of<br>retail price is tax"
+        ],
+        "series": [
+            {
+                "name": "High-income",
+                "data": [
+                    3,
+                    3,
+                    5,
+                    24,
+                    23
+                ]
+            },
+            {
+                "name": "Middle-income",
+                "data": [
+                    1,
+                    13,
+                    38,
+                    35,
+                    14
+                ]
+            },
+            {
+                "name": "Low-income",
+                "data": [
+                    4,
+                    8,
+                    18,
+                    3,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Number of countries",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2979FF",
+        "#182F4C",
+        "#B3B3B3"
+    ]
+}

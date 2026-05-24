@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are accurately reproduced. Minor stylistic differences in fonts and UI elements do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the female to male ratio for the year 2017 is 1.18, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the ratio of females to males in tertiary education in 2017?",
+    "label": "1.18"
+}

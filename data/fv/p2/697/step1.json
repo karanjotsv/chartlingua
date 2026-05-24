@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, the overall trend (including the steep jump and the flat period), and the axis labels are accurately reproduced. The message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The line chart shows a data point corresponding to 'Jun-10' on the x-axis. Tracing this point to the y-axis shows its value is exactly at the 600 line, which supports the claim."
+    },
+    "claim": "On Jun 10, 600 edits are on the English Wikipedia in the line graph.",
+    "label": "TRUE"
+}

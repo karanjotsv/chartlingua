@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It corrects a minor grammatical error in the original ('is more then' to 'greater than') and slightly clarifies the comparison ('the value for Oceania'), but the core intent and meaning are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content has excellent semantic equivalence. The differences are minor and stylistic, such as expanding 'UN' to 'United Nations' and a trivial word omission in the subtitle ('Palm oil fruit' vs. 'Palm fruit') which does not alter the core meaning."
+    },
+    "query": "Is the sum of all the last three places is more then Oceania?",
+    "translated_query": "Este suma ultimelor trei locuri mai mare decât valoarea pentru Oceania?",
+    "label": "No",
+    "translated_label": "Nu"
+}

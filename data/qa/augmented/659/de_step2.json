@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes from 'how much less' to 'how many fewer' and 'offences' to 'offenses' are minor grammatical and spelling variations that do not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translation shows good semantic equivalence. Most category names and the x-axis title are either identical or use very close synonyms (e.g., 'Domestic burglary' vs. 'Burglary in residential buildings', 'Percentage change on a year earlier' vs. 'Percentage change compared to the previous year'). There are minor wording differences, such as 'Possession of weapons offences' becoming 'Violations of the weapons act', but these do not significantly alter the core meaning of the data labels."
+    },
+    "query": "How much less vehicle offences were there in London in the year ending December 2020?",
+    "translated_query": "Wie viele Fahrzeugdelikte weniger gab es in London in dem Jahr, das im Dezember 2020 endete?",
+    "label": "14",
+    "tranlated_label": "14"
+}

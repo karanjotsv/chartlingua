@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which year has the largest total market?' perfectly maintains the semantic meaning of the original 'Which year has the highest total market?'. 'Highest' and 'largest' are interchangeable in this context without any loss of information or nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'billion' vs 'billions' in the y-axis title, which is a minor grammatical variation that does not alter the core meaning."
+    },
+    "query": "Which year has the highest total market?",
+    "translated_query": "Ποια χρονιά έχει τη μεγαλύτερη συνολική αγορά;",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

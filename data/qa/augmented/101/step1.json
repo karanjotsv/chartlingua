@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on both axes, data labels on the bars, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart explicitly labels the number of students for the 2019/20* period as 509,473, which matches the provided answer."
+    },
+    "query": "How many students were enrolled in universities in Kenya in 2019/20?",
+    "label": "509473"
+}

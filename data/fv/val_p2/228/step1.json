@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content (title, subtitle), and color hues are consistent with the original. The overall message conveyed is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data categorized by industry (e.g., 'Metal Mining', 'Chemicals'), not by specific chemical substances. Therefore, there is no information about 'Gallium Arsenide' or 'Nickle oxide' in the chart to support or calculate the claimed difference."
+    },
+    "claim": "The difference value between Gallium Arsenide and Nickle oxide is about 10.00%.",
+    "label": "FALSE"
+}

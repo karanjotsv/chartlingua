@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, title, color hues, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Amarapura constituted a majority of the population. The chart shows Amarapura's share is only 16%, which is not a majority (which would be over 50%). The largest single portion shown is Chanmyathazi at 19%."
+    },
+    "claim": "The majority of Mandalay's population consisted of Amarapura in 2014",
+    "label": false
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "While the numerical value for viewers and its context are preserved, there's a significant semantic shift from 'image load mean time' to 'average image upload time'. 'Load' and 'upload' refer to distinct processes, which alters an important detail of the original query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "General topic captured, but a significant semantic difference exists in the series labels. 'image-load' was back-translated as 'image upload', which refers to a different process than image loading/displaying. Other changes like 'meantime' to 'average time' and 'Raw Data' to 'Source Data' are acceptable or even improvements."
+    },
+    "claim": "The image load mean time mentioned the maximum viewers were 4.00 k.",
+    "translated_claim": "Среднее время загрузки изображения показало, что максимальное количество зрителей составило 4,00 тыс."
+}

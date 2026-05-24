@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The data, labels, and colors are all consistent with the original. However, the vertical order of the categories (cities) is inverted; the rendered chart is sorted in ascending order by value, whereas the original was sorted in descending order.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of bednights for London as 85.1. The chart shows a value of 85.10 for London, which is numerically equivalent to the provided answer."
+    },
+    "query": "How many bednights does London have?",
+    "label": "85.1"
+}

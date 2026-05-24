@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While most data points, text elements, and colors are accurate, the data value for the year 2002 is significantly incorrect. In the original chart, 2002 is a major peak, nearly as high as 1999 and 2000. In the rendered chart, the bar for 2002 is substantially lower, which alters the interpretation of the trend during that period.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the maximum tonnage was reached in 1999. The bar chart visually confirms this, as the bar corresponding to the year 1999 is the highest among all the years shown."
+    },
+    "claim": "Maximum tonnage was reached at 1999 year as per chart.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all the same data categories and their corresponding percentage values. The core message is consistent. However, the order of the slices around the chart is different, and all data labels incorrectly duplicate the percentage value (e.g., '24% 24%').",
+        "has_visual_flaws": true,
+        "flaw_reason": "The text labels for the smaller categories on the left side of the chart are severely overlapped, rendering them completely unreadable."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the attendance data is from 'the Kingdome', however, the chart provides no information about the location or venue. The chart is only titled '% OF ATTENDANCE 1980', making the claim's specific reference to 'the Kingdome' an unsupported assertion."
+    },
+    "claim": "In 1980, Breakdown of attendance at the Kingdome , Basketball has highest percentage.",
+    "label": "TRUE"
+}

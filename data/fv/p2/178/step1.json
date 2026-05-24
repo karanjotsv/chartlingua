@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent, accurately representing the data values, categories, title, and color scheme of the original. However, it introduces incorrect \"null\" text labels above most of the bars, which is a significant semantic deviation not present in the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The rendered chart has a significant visual flaw: the addition of extraneous and confusing \"null\" text labels above most of the bars. This indicates a generation error and could mislead the viewer."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that 'Historical Artifacts' has the highest percentage value at 58%, which is significantly greater than the percentage of any other category depicted."
+    },
+    "claim": "Historical artifacts has more media items uploaded percentage compared to others",
+    "label": "TRUE"
+}

@@ -1,0 +1,42 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "'Cheltuielile mele au crescut'",
+            "categories": [
+                "Alimente",
+                "Produse de<br>curățenie",
+                "Sănătate și<br>medicamente"
+            ],
+            "values": [
+                47,
+                45,
+                25
+            ]
+        },
+        {
+            "name": "'Cheltuielile mele au scăzut'",
+            "categories": [
+                "Articole sportive",
+                "Articole de<br>birou și papetărie",
+                "Frumusețe și<br>cosmetice"
+            ],
+            "values": [
+                38,
+                30,
+                28
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672D9",
+        "#192D46"
+    ]
+}

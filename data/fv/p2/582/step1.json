@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart accurately reproduces the shapes, colors, and relative positions of the two data lines and their corresponding labels ('c-index', 'h-index'). However, it completely omits the labels for both the X-axis ('index-value') and the Y-axis ('probability of career success'), which is a significant loss of semantic context.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to a pie chart about biomass generation in Tennessee, but the provided image is a line graph comparing 'c-index' and 'h-index'. The chart's content is entirely unrelated to the claim."
+    },
+    "claim": "biomass are the large source of generation for Tennessee in pie chart.",
+    "label": "FALSE"
+}

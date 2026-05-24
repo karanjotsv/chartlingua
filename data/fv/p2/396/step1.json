@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, text content (title, axes, legend), and color hues are accurately reproduced. The overall trend and message are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart's title is 'Changing aims for PV and CSP over the years', which directly contradicts the claim. Furthermore, the chart plots separate lines for aims set in 2012 and aims set in 2017 for both PV and CSP, showing different capacity targets and therefore demonstrating that the aims have indeed changed."
+    },
+    "claim": "There has been no change in the aims for PV and CSP development over the years.",
+    "label": "FALSE"
+}

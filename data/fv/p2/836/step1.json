@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data labels and corresponding values are identical, and the color hues for each category are preserved. The overall message is the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Google Chrome is the most used browser, but the pie chart clearly shows that Internet Explorer has the largest share at 29.05%, which is greater than Google Chrome's share of 23.22%."
+    },
+    "claim": "Chrome is the most used browser on Wikimedia in August 2012.",
+    "label": "TRUE"
+}

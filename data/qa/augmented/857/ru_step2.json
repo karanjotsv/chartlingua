@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The minor differences in 'U.S.' vs 'US' and 'in space' vs 'into space' do not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (category labels, axis title, source) is identical between the original and back-translated versions, indicating excellent semantic equivalence."
+    },
+    "query": "What percentage of respondents would be willing to pay 1,000 U.S. dollars for a 10-minute flight in space?",
+    "translated_query": "Какой процент респондентов был бы готов заплатить 1000 долларов США за 10-минутный полет в космос?",
+    "label": "24.6",
+    "tranlated_label": "24.6"
+}

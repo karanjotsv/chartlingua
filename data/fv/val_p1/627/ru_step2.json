@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query, with only minor stylistic variations ('major quantity' vs 'significantly larger volume', 'graph' vs 'chart') that do not alter the message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Primary' vs. 'Main' for process operation and 'Releases' vs. 'Emissions' in the title are synonymous and do not alter the meaning or key information. The unit 'Kg' vs 'kg' is a trivial casing difference."
+    },
+    "claim": "Primary process operation takes place in a major quantity than that of process implementation and both together constitute half of the graph.",
+    "translated_claim": "Основная операция процесса занимает значительно больший объем, чем внедрение процесса, и обе вместе составляют половину графика."
+}

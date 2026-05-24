@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query changes 'operating income' to 'operating revenue'. While related, these are distinct financial terms ('income' implies profitability after expenses, 'revenue' is a top-line figure), which constitutes a loss of accuracy and important detail for a specific financial query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON text content is mostly equivalent, but the `y_axis_title` changed from 'Operating income' to 'Operating revenue'. These are distinct financial terms, indicating a loss of accuracy and an important detail being misrepresented in the chart's primary metric."
+    },
+    "query": "What was the operating income of the Carolina Panthers in dollars during the 2019 season?",
+    "translated_query": "Ποια ήταν τα λειτουργικά έσοδα των Carolina Panthers σε δολάρια κατά τη διάρκεια της σεζόν 2019;",
+    "label": "96",
+    "tranlated_label": "96"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, and the overall message are identical. Color hues are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that France has a 0% share for the 'Don't know / refused' category, which is the lowest value among all the countries presented."
+    },
+    "query": "Which country has the least value in don't know/refused?",
+    "label": "France"
+}

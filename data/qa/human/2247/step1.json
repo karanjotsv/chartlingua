@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color assignments are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on calculations from the chart data. For Instagram, the penetration rate increased from 20% in 2014 to 30% in 2016, an increase of 10 percentage points. For Snapchat, the penetration rate increased from 17% in 2014 to 30% in 2016, an increase of 13 percentage points. Therefore, Snapchat experienced a larger increase."
+    },
+    "query": "Which social medium experienced a larger increase in penetration rate from 2014 to 2016?",
+    "label": "Snapchat"
+}

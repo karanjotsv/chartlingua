@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a perfect semantic match to the original. It plots the exact same data series with identical trends, peaks, and troughs. It improves upon the original by adding a title and axis labels, which were missing, providing necessary context without altering the core data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to a time period starting in 1975, but the chart's x-axis only displays data from 1993 onwards. Therefore, the chart does not provide the necessary information to support the claim for the entire specified range."
+    },
+    "claim": "Major California water reservoir capacity has always remained above 20% from 1975 to 2015.",
+    "label": false
+}

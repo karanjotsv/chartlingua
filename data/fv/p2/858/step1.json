@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message about browser market share is identical. The exploded slice is a stylistic difference that does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart shows the market share of various web browsers, such as Internet Explorer and Google Chrome. The claim, however, discusses agricultural occupations and male workers in 1881, which is a completely different subject. The chart contains no information to support or refute the claim."
+    },
+    "claim": "In agriculture occupation, the male workers are close to 40  in Ripple 1881.",
+    "label": "TRUE"
+}

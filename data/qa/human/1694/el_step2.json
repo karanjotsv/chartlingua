@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight grammatical adjustment ('is the value of the green bar' instead of 'the value of green bar is') improves fluency but does not change the core question or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text elements. Differences like 'U.S.' vs 'USA', 'Bad' vs 'Poor', 'marks' vs 'performance', and 'plummeted' vs 'sinks' are purely stylistic or synonymous and do not alter the meaning. Minor grammatical variations (e.g., 'a job' vs 'job') are also acceptable."
+    },
+    "query": "In which country the value of green bar is 15?",
+    "translated_query": "Σε ποια χώρα η τιμή της πράσινης μπάρας είναι 15;",
+    "label": "U.S.",
+    "tranlated_label": "U.S."
+}

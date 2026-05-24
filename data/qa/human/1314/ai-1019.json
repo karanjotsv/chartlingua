@@ -1,0 +1,59 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "1-3 terms",
+            "values": [
+                36,
+                54,
+                72,
+                47
+            ]
+        },
+        {
+            "name": "4-9 terms",
+            "values": [
+                34,
+                32,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "10+ terms",
+            "values": [
+                31,
+                14,
+                0,
+                20
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Freedom Caucus Members Have Less Seniority<br>Than Other Republicans",
+        "subtitle": "Share of representatives among each group who have served ___<br>terms in the House (114th Congress)",
+        "y_axis_labels": [
+            "Democrats (188)",
+            "Other Republicans (211)",
+            "Freedom Caucus Republicans (36)",
+            "Total (435 members)"
+        ],
+        "x_axis_labels": [
+            "1-3 terms",
+            "4-9 terms",
+            "10+ terms"
+        ],
+        "source_note": "Note: Partial terms are counted as full terms. Percentages may not sum to 100%<br>because of rounding. Data are current as of Oct. 19, 2015.<br>Source: Pew Research Center reporting (Freedom Caucus members) and analysis<br>of the Congressional Biographical Directory",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#b79833",
+        "#e5d5a9",
+        "#9d843e"
+    ],
+    "text_colors": [
+        "#FFFFFF",
+        "#000000",
+        "#FFFFFF"
+    ]
+}

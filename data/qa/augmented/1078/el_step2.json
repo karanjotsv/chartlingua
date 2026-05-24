@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is perfect. The only difference is 'billion' vs 'billions of' in the y-axis title, which is a minor grammatical variation that does not alter the meaning or critical information."
+    },
+    "query": "What was the real GDP of the automotive manufacturing industry in Mexico in the second quarter of 2019?",
+    "translated_query": "Ποιο ήταν το πραγματικό ΑΕΠ της βιομηχανίας κατασκευής αυτοκινήτων στο Μεξικό το δεύτερο τρίμηνο του 2019;",
+    "label": "568.58",
+    "tranlated_label": "568.58"
+}

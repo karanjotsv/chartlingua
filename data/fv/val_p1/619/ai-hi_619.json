@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar_with_errors",
+    "chart_data": [
+        {
+            "category": "उत्सर्जन",
+            "value": 526.3,
+            "error": 44.0,
+            "text_color": "white"
+        },
+        {
+            "category": "LULUCF द्वारा अवशोषण",
+            "value": -99.9,
+            "error": 50.0,
+            "text_color": "black"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "2017 में GHG उत्सर्जन और अवशोषण",
+        "y_axis_title": "Mt",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B3B3B3",
+        "#69A149"
+    ]
+}

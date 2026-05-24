@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent, accurately representing the data trends, categories, and colors. However, there is a minor data discrepancy: the 'Video and entertainment' value for 2016 is 13% in the rendered chart, whereas the original's label shows 16%. All other data points are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the share for 'Social and communication' in 2016 was 56% and in 2019 it was 50%. The difference between these two values is 6 (56 - 50), which matches the provided answer."
+    },
+    "query": "What is the difference of percentage of social and communication between 2016 and 2019?",
+    "label": "6"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text elements (title, subtitle, labels, source), data values, proportions, and color hues are consistent with the original. The change from a 3D to a 2D style is a stylistic improvement that does not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the orange slice as 'Atrophy' with the corresponding value '$9,22'. The title of the chart indicates the values are in 'USD billion dollars', directly supporting the claim."
+    },
+    "claim": "The amount of Atrophy in USD billion dollars is 9.22 according to the pie chart.",
+    "label": "TRUE"
+}

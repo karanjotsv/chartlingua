@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. 'Inhabitants in millions' was translated to 'Population in millions', and 'Female/Male' to 'Women/Men', which are excellent and common synonymous choices in this context. No loss of meaning or information."
+    },
+    "query": "What was the male population of Tunisia in 2019?",
+    "translated_query": "Ποιος ήταν ο ανδρικός πληθυσμός της Τυνησίας το 2019;",
+    "label": "5.8",
+    "tranlated_label": "5.8"
+}

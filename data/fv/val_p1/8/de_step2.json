@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The phrase 'lower than' is a perfect synonym for 'less than' in this context, and the reordering of the clause 'at a temperature of 3200 K' is a stylistic variation that does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The only difference is a minor, stylistic punctuation change in the title ('vs' vs. 'vs.'), which does not alter the meaning."
+    },
+    "claim": "The enthalpy value for CH4 is less than the enthalpy value for SO2 at a temperature of 3200 K.",
+    "translated_claim": "Der Enthalpiewert für CH4 ist bei einer Temperatur von 3200 K geringer als der Enthalpiewert für SO2."
+}

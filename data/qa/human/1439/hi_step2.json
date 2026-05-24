@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query contains a significant error, changing the key entity 'Leap Rep' to 'Lean Rep.' 'Leap' and 'Lean' are entirely different words, which fundamentally alters the subject of the query and distorts the user's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All differences are minor and stylistic, such as using 'arguments about the election' instead of 'election arguments' or 'someone else' instead of 'another person', and do not alter the overall meaning."
+    },
+    "query": "What is the value of \"minor\" in Rep/Leap Rep?",
+    "translated_query": "रिप./लीन रिप. में \"मामूली\" का मान क्या है?",
+    "label": "30",
+    "tranlated_label": "30"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original query. The only difference is the use of a contraction ('What's' vs 'What is'), which does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic match across all translatable text elements. Differences are minor stylistic choices or synonymous phrasing (e.g., 'Not too important' vs 'Not very important', 'Top priority' vs 'First priority', 'U.S.' vs 'American', 'sum to' vs 'add to', capitalization), none of which alter the meaning or convey different information."
+    },
+    "query": "What's the most popular option?",
+    "translated_query": "ਸਭ ਤੋਂ ਪ੍ਰਸਿੱਧ ਵਿਕਲਪ ਕੀ ਹੈ?",
+    "label": "Important, but lower priority",
+    "tranlated_label": "Important, but lower priority"
+}

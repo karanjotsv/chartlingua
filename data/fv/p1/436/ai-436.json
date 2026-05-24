@@ -1,0 +1,198 @@
+{
+    "chart_type": "infographic",
+    "texts": {
+        "title": "Profile of Northern Ireland",
+        "footer_left": "www.ons.gov.uk",
+        "footer_right": "Contains data and information from Ordnance Survey,<br>ONS and other sources protected by © Crown Copyright<br>and database right 2013"
+    },
+    "colors": {
+        "background": "#f0f0f0",
+        "text_primary": "#555555",
+        "text_secondary": "#888888",
+        "population": "#dd502c",
+        "population_under_16": "#a4549e",
+        "economic_inactivity": "#70a4c2",
+        "economic_output": "#99b841",
+        "weekly_earnings": "#d72c8f",
+        "house_prices": "#5a7e93",
+        "greenhouse_gases": "#7cb47c",
+        "map_fill": "#cccccc",
+        "map_points": "#005a8b",
+        "donut_track": "#e6e6e6",
+        "white": "#ffffff"
+    },
+    "chart_data": {
+        "population": {
+            "title": "Population",
+            "value_pct": 3,
+            "label": "of the UK",
+            "value_abs": "1.8 million",
+            "subtitle": "mid-2012"
+        },
+        "population_under_16": {
+            "title": "Population under 16",
+            "data": [
+                {
+                    "category": "Northern Ireland",
+                    "value": 21.0
+                },
+                {
+                    "category": "England",
+                    "value": 18.9
+                },
+                {
+                    "category": "Wales",
+                    "value": 18.1
+                },
+                {
+                    "category": "Scotland",
+                    "value": 17.2
+                }
+            ],
+            "unit": "%",
+            "subtitle": "mid-2012"
+        },
+        "economic_inactivity": {
+            "title": "Economic Inactivity",
+            "data": [
+                {
+                    "category": "Northern<br>Ireland",
+                    "value": 28.2
+                },
+                {
+                    "category": "Wales",
+                    "value": 24.3
+                },
+                {
+                    "category": "Scotland",
+                    "value": 22.1
+                },
+                {
+                    "category": "England",
+                    "value": 22.1
+                }
+            ],
+            "subtitle": "Highest inactivity<br>rate in the UK Q2 2013"
+        },
+        "economic_output": {
+            "title": "Economic Output",
+            "value_pct": 2,
+            "label": "of the UK",
+            "subtitle": "Gross Value Added<br><b>Lowest</b> in the UK<br>2011"
+        },
+        "map_data": {
+            "cities": [
+                {
+                    "name": "Coleraine",
+                    "x": 0.55,
+                    "y": 0.9
+                },
+                {
+                    "name": "Derry",
+                    "x": 0.25,
+                    "y": 0.82
+                },
+                {
+                    "name": "Ballymena",
+                    "x": 0.65,
+                    "y": 0.7
+                },
+                {
+                    "name": "Antrim",
+                    "x": 0.75,
+                    "y": 0.58
+                },
+                {
+                    "name": "Newtownards",
+                    "x": 0.95,
+                    "y": 0.5
+                },
+                {
+                    "name": "Belfast",
+                    "x": 0.8,
+                    "y": 0.5
+                },
+                {
+                    "name": "Craigavon",
+                    "x": 0.6,
+                    "y": 0.35
+                },
+                {
+                    "name": "Newry",
+                    "x": 0.65,
+                    "y": 0.15
+                }
+            ]
+        },
+        "weekly_earnings": {
+            "title": "Weekly Earnings",
+            "data": [
+                {
+                    "category": "Wales",
+                    "value": "£455"
+                },
+                {
+                    "category": "Scotland",
+                    "value": "£498"
+                },
+                {
+                    "category": "Northern<br>Ireland",
+                    "value": "£460"
+                },
+                {
+                    "category": "England",
+                    "value": "£513"
+                }
+            ],
+            "subtitle": "Median earnings of<br>full-time employees<br>April 2012"
+        },
+        "house_prices": {
+            "title": "House Prices",
+            "data": [
+                {
+                    "category": "England",
+                    "value": 251,
+                    "label": "£251K"
+                },
+                {
+                    "category": "Scotland",
+                    "value": 181,
+                    "label": "£181K"
+                },
+                {
+                    "category": "Wales",
+                    "value": 162,
+                    "label": "£162K"
+                },
+                {
+                    "category": "Northern Ireland",
+                    "value": 130,
+                    "label": "£130K"
+                }
+            ],
+            "subtitle": "June 2013"
+        },
+        "reduction_greenhouse": {
+            "title": "Reduction in<br>Greenhouse Gases",
+            "data": [
+                {
+                    "category": "England",
+                    "value": -31
+                },
+                {
+                    "category": "Scotland",
+                    "value": -31
+                },
+                {
+                    "category": "Wales",
+                    "value": -21
+                },
+                {
+                    "category": "Northern<br>Ireland",
+                    "value": -18
+                }
+            ],
+            "subtitle": "Base year to 2011"
+        }
+    }
+}

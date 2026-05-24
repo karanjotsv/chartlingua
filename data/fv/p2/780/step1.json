@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, categories, labels, and the overall message are identical to the original. The color hues for the different political leanings are also consistent. Differences are purely stylistic, such as the legend format and the use of a solid bar instead of a gradient, and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart presents data on political disagreement about the threat of climate change in various countries. The claim, however, is about Earth's carbon reservoirs and the lithosphere. The chart contains no information on this topic, and therefore cannot be used to support the claim."
+    },
+    "claim": "The largest carbon reservoir on Earth is the lithosphere.",
+    "label": "TRUE"
+}

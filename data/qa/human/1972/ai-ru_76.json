@@ -1,0 +1,35 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "categories": [
+                "Рожь",
+                "Овес",
+                "Сорго",
+                "Ячмень",
+                "Рис (обработанный)",
+                "Пшеница",
+                "Кукуруза"
+            ],
+            "values": [
+                12.17,
+                22.83,
+                57.97,
+                156.41,
+                495.78,
+                764.49,
+                1116.34
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Производство в миллионах метрических тонн",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2e7dcb"
+    ]
+}

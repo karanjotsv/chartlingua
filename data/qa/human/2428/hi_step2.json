@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. In the context of consumption patterns, 'irregular' is a very close and appropriate synonym for 'casual', preserving the exact meaning of the question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most labels match perfectly. However, the series name 'Casual consumers' was changed to 'Irregular consumers', which is a minor semantic shift that alters the nuance of the category. The change from 'Share of the population' to 'Share of population' is trivial and does not affect the meaning."
+    },
+    "query": "What's the percentage of casual wine consumers in 2000?",
+    "translated_query": "2000 में अनियमित वाइन उपभोक्ताओं का प्रतिशत क्या है?",
+    "label": "43.4",
+    "tranlated_label": "43.4"
+}

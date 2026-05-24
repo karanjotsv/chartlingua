@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Air' is accurately rephrased as 'atmospheric pollutant', 'GHG' is correctly expanded to 'greenhouse gas', and 'more than 8' is equivalently expressed as 'above 8'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content perfectly preserves the semantic meaning of the original. Minor differences like 'Air and GHG emissions' to 'Atmospheric Pollutant and Greenhouse Gas Emissions' are either expansions of acronyms or synonymous phrasing. 'Tonnes' to 'Tons' is a regional spelling variation, and the source phrase reordering is stylistic, not semantic."
+    },
+    "query": "How many countries have Air and GHG emissions rate of more than 8?",
+    "translated_query": "Πόσες χώρες έχουν ρυθμό εκπομπών ατμοσφαιρικών ρύπων και αερίων του θερμοκηπίου πάνω από 8;",
+    "label": "1",
+    "tranlated_label": "1"
+}

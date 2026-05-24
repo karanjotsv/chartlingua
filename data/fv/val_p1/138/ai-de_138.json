@@ -1,0 +1,49 @@
+{
+    "chart_type": "pie_subplots",
+    "charts": [
+        {
+            "title": "Spanische Substantive, die auf a/á enden",
+            "data": [
+                {
+                    "label": "NEUTRAL",
+                    "value": 4
+                },
+                {
+                    "label": "MASKULIN",
+                    "value": 7
+                },
+                {
+                    "label": "FEMININ",
+                    "value": 89
+                }
+            ],
+            "colors": [
+                "#ADDE96",
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "Maskulin: 344 (7%)<br>Feminin: 4453 (89%)<br>Neutral: 211 (4%)"
+        },
+        {
+            "title": "Spanische Namen, die auf a enden",
+            "data": [
+                {
+                    "label": "MÄNNLICH",
+                    "value": 2
+                },
+                {
+                    "label": "WEIBLICH",
+                    "value": 98
+                }
+            ],
+            "colors": [
+                "#77B3E3",
+                "#E9807E"
+            ],
+            "annotation_text": "Männlich: 10 (2%)<br>Weiblich: 487 (98%)"
+        }
+    ],
+    "texts": {
+        "source": "©namepedia.org"
+    }
+}

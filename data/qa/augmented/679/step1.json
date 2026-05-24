@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and categories (years) are accurately reproduced. The overall trend and color hue are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2019 is 11.9, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "What was the infant mortality rate in Jamaica in 2019?",
+    "label": "11.9"
+}

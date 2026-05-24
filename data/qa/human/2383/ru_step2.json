@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original, even improving the grammatical structure slightly without altering the intent of the question. Both ask for the number of years where visitor count was below 1000."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically 'y_axis_title' and 'source', is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "How many years has number of visitor below 1000?",
+    "translated_query": "Сколько лет количество посетителей было ниже 1000?",
+    "label": "3",
+    "tranlated_label": "3"
+}

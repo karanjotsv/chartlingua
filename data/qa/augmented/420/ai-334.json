@@ -1,0 +1,61 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Moscow",
+            "Nizhny Novgorod Region",
+            "Khanty-Mansi Autonomous Okrug",
+            "Moscow region",
+            "Republic of Tatarstan",
+            "Irkutsk region",
+            "Saint Petersburg",
+            "Smara region",
+            "Rostov oblast",
+            "Krasnodar Krai"
+        ],
+        "series": [
+            {
+                "name": "May 2019",
+                "values": [
+                    599,
+                    158,
+                    226,
+                    352,
+                    129,
+                    129,
+                    182,
+                    105,
+                    64,
+                    132
+                ]
+            },
+            {
+                "name": "May 2020",
+                "values": [
+                    445,
+                    291,
+                    265,
+                    241,
+                    177,
+                    152,
+                    151,
+                    129,
+                    120,
+                    116
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Number of HCV cars",
+        "y_axis_title": null,
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2B78D3",
+        "#1A2D40"
+    ]
+}

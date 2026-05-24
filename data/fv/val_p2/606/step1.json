@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content (title, labels), and color hues are identical, conveying the exact same message and proportions.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart indicates a value of 5 for the 'Supportive' characteristic and a value of 6 for the 'Intelligence' characteristic. As 5 is less than 6, the claim that the proportion for supportive is lower than for intelligence is validated by the chart."
+    },
+    "claim": "The proportion of respondents who believe in supportive characteristic of Wikimedia is lower than those who believe in intelligence characteristic.",
+    "label": "TRUE"
+}

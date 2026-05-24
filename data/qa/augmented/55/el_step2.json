@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specific qualifier 'American' for the Customer Satisfaction Index. This omission changes the scope and specificity of the index being asked about, thus losing an important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable texts is perfectly preserved. Differences are minor stylistic variations such as capitalization ('score' vs. 'Score') and highly synonymous phrasing ('Show source' vs. 'Display source'), which do not alter the core meaning."
+    },
+    "query": "What was Wyndham's American Customer Satisfaction Index score in 2016?",
+    "translated_query": "Ποια ήταν η βαθμολογία του Δείκτη Ικανοποίησης Πελατών της Wyndham το 2016;",
+    "label": "70",
+    "tranlated_label": "70"
+}

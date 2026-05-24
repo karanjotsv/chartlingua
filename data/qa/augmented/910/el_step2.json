@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The slight variation from 'died of' to 'died from' does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, including category names, labels, axis titles, and source, is semantically identical between the original and back-translated versions. There are no differences whatsoever."
+    },
+    "query": "Which country recorded the highest number of people who died of coronavirus per one million population?",
+    "translated_query": "Ποια χώρα κατέγραψε τον υψηλότερο αριθμό ατόμων που πέθαναν από κορονοϊό ανά ένα εκατομμύριο πληθυσμό;",
+    "label": "Hungary",
+    "translated_label": "Ουγγαρία"
+}

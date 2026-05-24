@@ -1,0 +1,48 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Erdöl",
+            "value": 61.5
+        },
+        {
+            "label": "Kohle",
+            "value": 12.7
+        },
+        {
+            "label": "Solarenergie",
+            "value": 10.8
+        },
+        {
+            "label": "Windenergie",
+            "value": 5.9
+        },
+        {
+            "label": "Geothermie",
+            "value": 2.3
+        },
+        {
+            "label": "Biokraftstoffe",
+            "value": 2.2
+        },
+        {
+            "label": "Sonstige",
+            "value": 4.5
+        }
+    ],
+    "texts": {
+        "title": "Quellen der Stromerzeugung",
+        "subtitle": "Hawaii - 2017",
+        "source": null
+    },
+    "colors": [
+        "#555555",
+        "#992769",
+        "#E3D82A",
+        "#A1B530",
+        "#E88E28",
+        "#C47D2B",
+        "#8E66A2"
+    ],
+    "paper_bgcolor": "#E9E7F5"
+}

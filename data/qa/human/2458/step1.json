@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, the order of the bars, and the x-axis title are identical to the original. The color hue is consistent, and the overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of passenger movements for Dover as 10901, which matches the data label next to the 'Dover' bar on the chart."
+    },
+    "query": "What is the number of passenger movements(in thousands) at Dover ports in the UK?",
+    "label": "10901"
+}

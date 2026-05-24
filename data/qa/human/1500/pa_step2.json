@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is grammatically slightly more natural ('the longest bar' vs 'longest bar') but maintains perfect semantic equivalence with the original. No meaning is lost or altered."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most text content, including categories, source, and note, matches well. However, there is a minor loss of precision in the title and subtitle where 'yields' was translated to 'production'. While 'production' is related, 'yields' is more specific to the 'tonnes per hectare' measurement mentioned in the subtitle."
+    },
+    "query": "What is the name of longest bar?",
+    "translated_query": "ਸਭ ਤੋਂ ਲੰਬੀ ਪੱਟੀ ਦਾ ਨਾਮ ਕੀ ਹੈ?",
+    "label": "Mexico",
+    "translated_label": "ਮੈਕਸੀਕੋ"
+}

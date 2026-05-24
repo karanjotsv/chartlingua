@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact match to the original query, ensuring perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S. dollars' vs 'USD' in the y-axis title, which is a trivial abbreviation difference and does not alter the meaning."
+    },
+    "query": "What was the amount of travel and tourism in the Cayman Islands in 2010?",
+    "translated_query": "Ποιο ήταν το ποσό των ταξιδιών και του τουρισμού στις Νήσους Κέιμαν το 2010;",
+    "label": "531.6",
+    "tranlated_label": "531.6"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, legend entries, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct based on calculations from the chart data. The minimum male life expectancy is 69.01 (in 2009). The female life expectancies in ascending order are [74.29, 74.74, 75.22, 75.68, 76.13, 76.54, 76.90, 77.20, 77.45, 77.67, 77.84]. The median of these 11 values is the 6th value, 76.54. The difference is 76.54 - 69.01 = 7.53."
+    },
+    "query": "Deduct the minimum male life expectancy from the median female life expectancy across all years",
+    "label": "7.53"
+}

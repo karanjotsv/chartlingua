@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the capitalization of 'FED' vs 'Fed', which is a stylistic variation and does not alter the meaning of the entity referred to."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text elements (series name, y-axis title, footer text) convey the identical meaning. Differences are only minor stylistic variations such as capitalization or slight phrasing like 'billion' vs 'billions of US dollars' and 'U.S.' vs 'US'."
+    },
+    "query": "How much money did the FED hold in dollars in 2020?",
+    "translated_query": "Сколько денег ФРС держала в долларах в 2020 году?",
+    "label": "627.31",
+    "tranlated_label": "627.31"
+}

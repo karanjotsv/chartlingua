@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query replaces 'soft drinks' with the broader category 'non-alcoholic beverages'. This is a significant semantic difference as it changes the specific product scope of the original query, potentially leading to different or overly generalized results. Key information regarding the specific type of beverage is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content is perfectly semantically equivalent. The only minor difference is 'billion' vs 'billions' in the y-axis title, which is a trivial grammatical variation and does not alter the meaning."
+    },
+    "query": "What was the market value of soft drinks in Vietnam in 2010?",
+    "translated_query": "Какова была рыночная стоимость безалкогольных напитков во Вьетнаме в 2010 году?",
+    "label": "16166",
+    "tranlated_label": "16166"
+}

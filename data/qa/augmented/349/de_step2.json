@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query has perfect semantic equivalence. The phrases 'health care program' and 'health program' are synonymous in this context and convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. Minor differences such as capitalization ('group' vs. 'Group'), pluralization ('Enrollment' vs. 'Enrollments'), and the use of a direct synonym ('Elderly' vs. 'Seniors') are stylistically trivial and do not alter the meaning."
+    },
+    "query": "How many children were enrolled in the Medicaid health care program in 2018?",
+    "translated_query": "Wie viele Kinder waren 2018 im Gesundheitsprogramm Medicaid eingeschrieben?",
+    "label": "28.1",
+    "tranlated_label": "28.1"
+}

@@ -1,0 +1,60 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Agricultură",
+            "Ocupații legate de animale",
+            "Mașinării",
+            "Mărfuri",
+            "Substanțe minerale",
+            "Servicii casnice",
+            "Construcția de case",
+            "Ocupații legate de alimente",
+            "Croitori și cizmari",
+            "Necunoscut"
+        ],
+        "series": [
+            {
+                "name": "Nr. de bărbați",
+                "values": [
+                    28,
+                    9,
+                    3,
+                    28,
+                    10,
+                    0,
+                    9,
+                    5,
+                    3,
+                    1
+                ]
+            },
+            {
+                "name": "Nr. de femei",
+                "values": [
+                    5,
+                    0,
+                    0,
+                    2,
+                    0,
+                    18,
+                    0,
+                    0,
+                    5,
+                    70
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Ocupațiile bărbaților și femeilor în 1881",
+        "subtitle": null,
+        "x_axis_title": "Ocupație",
+        "y_axis_title": "Nr. de persoane",
+        "source": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#A9A9A9"
+    ]
+}

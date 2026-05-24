@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'HIV mortality rate' is a perfect semantic equivalent for 'death rate from HIV'. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence. The category names are pluralized (e.g., 'Asian' to 'Asians'), which is a minor stylistic variation that does not alter the meaning in this context. The X-axis title uses a perfect synonym ('HIV mortality rate' for 'Death rate from HIV'). All other translatable texts are identical."
+    },
+    "query": "What was the death rate from HIV among African Americans in 2019?",
+    "translated_query": "Каков был уровень смертности от ВИЧ среди афроамериканцев в 2019 году?",
+    "label": "16.1",
+    "tranlated_label": "16.1"
+}

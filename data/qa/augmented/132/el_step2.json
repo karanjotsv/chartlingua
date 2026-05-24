@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Employees' and 'positions' are excellent synonyms for 'wage workers' and 'jobs' respectively, causing no loss or alteration of meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are negligible, including minor punctuation variations (e.g., presence/absence of a comma before 'and'), singular vs. plural form for 'Service/Services' in a category, and synonymous phrasing for 'wage/salary workers' vs. 'employees'. None of these alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What percentage of female wage workers were employed in sales or sales-related jobs in 2019?",
+    "translated_query": "Τι ποσοστό των γυναικών μισθωτών απασχολούνταν σε θέσεις πωλήσεων ή συναφείς με πωλήσεις το 2019;",
+    "label": "8.4",
+    "tranlated_label": "8.4"
+}

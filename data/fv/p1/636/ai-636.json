@@ -1,0 +1,49 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Lumber Production",
+            "x": [
+                "November 1917",
+                "December 1917",
+                "January 1918",
+                "February 1918",
+                "March 1918",
+                "April 1918",
+                "May 1918",
+                "June 1918",
+                "July 1918",
+                "August 1918",
+                "September 1918",
+                "October 1918",
+                "November 1918"
+            ],
+            "y": [
+                2010775,
+                2406177,
+                4008180,
+                7515317,
+                10536259,
+                14047935,
+                12506031,
+                8767105,
+                14260250,
+                19572130,
+                17502408,
+                22306471,
+                7569923
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Graph showing the production of lumber by the Spruce Production Division from November 1917 to November 1918",
+        "subtitle": null,
+        "x_axis_title": "Month",
+        "y_axis_title": "Board feet produced",
+        "source": "Oregon Voter (3 April 1920). Portland, Oregon: Princeton University Archives. p. 107.",
+        "notes": "This data does not add up to the total of 143,008,961 board feet, because it does not include the 1,679,123 board feet produced in September and October 1917 combined.<br>The lumber produced in November 1918 was not produced through the whole month, due to the end of World War I at that time."
+    },
+    "colors": [
+        "#1f497d"
+    ]
+}

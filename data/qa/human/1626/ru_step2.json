@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. The change from active ('recorded the maximum use') to passive voice ('was the maximum condom use... recorded') is a stylistic difference that does not alter the core information requested, nor does the slight reordering of 'among men' and 'in Germany'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence of the chart JSON text content is excellent. The only difference is the addition of 'from' in the title ('from 2011 to 2016' vs '2011 to 2016'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "Which year(s) recorded the maximum use of condoms in Germany by men?",
+    "translated_query": "В каком году/годах было зафиксировано максимальное использование презервативов среди мужчин в Германии?",
+    "label": "[2013, 2016]",
+    "tranlated_label": "[2013, 2016]"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, the title, and color hues are consistent with the original. The overall message and proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the location as 'Lake Bracciano', but the chart title only generically states 'around the lake' without specifying the name. Additionally, the claim misspells 'Mola di Vigarello' as 'Mola di vegarello'. The claim cannot be fully supported as it contains information not present in the chart."
+    },
+    "claim": "There was less water produced by Vigna di venere source than Mola di vegarello source around Lake Bracciano.",
+    "label": "TRUE"
+}

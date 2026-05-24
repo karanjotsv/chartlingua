@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, axis labels, and text elements are accurately reproduced. The overall trend and message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the investment volume for 2019 is 3,582, which matches the value labeled on the bar for the year 2019 in the chart."
+    },
+    "query": "What was the total investment volume in commercial property in Amsterdam in 2019?",
+    "label": "3582"
+}

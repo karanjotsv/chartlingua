@@ -1,0 +1,49 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਈਸਾਈ",
+            "ਮੁਸਲਿਮ",
+            "ਹਿੰਦੂ",
+            "ਯਹੂਦੀ",
+            "ਸਿੱਖ",
+            "ਬੋਧੀ"
+        ],
+        "series": [
+            {
+                "name": "ਰਹਿਣ",
+                "values": [
+                    42,
+                    70,
+                    70,
+                    46,
+                    48,
+                    51
+                ]
+            },
+            {
+                "name": "ਛੱਡਣ",
+                "values": [
+                    58,
+                    30,
+                    30,
+                    54,
+                    52,
+                    49
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਜਵਾਬ ਦੇਣ ਵਾਲਿਆਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021",
+        "note": "ਵਾਧੂ ਜਾਣਕਾਰੀ"
+    },
+    "colors": [
+        "#2c7be5",
+        "#1a2538"
+    ]
+}

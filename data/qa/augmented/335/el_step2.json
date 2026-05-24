@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, preserving perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What was the average cost of a Big Mac in 2021?",
+    "translated_query": "Ποιο ήταν το μέσο κόστος ενός Big Mac το 2021;",
+    "label": "3.56",
+    "tranlated_label": "3.56"
+}

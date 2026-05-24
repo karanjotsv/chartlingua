@@ -1,0 +1,50 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Total",
+            "Rep/Lean Rep",
+            "Dem/Lean Dem"
+        ],
+        "series": [
+            {
+                "name": "Major",
+                "values": [
+                    9,
+                    7,
+                    11
+                ]
+            },
+            {
+                "name": "Minor",
+                "values": [
+                    29,
+                    30,
+                    29
+                ]
+            },
+            {
+                "name": "No arguments",
+                "values": [
+                    61,
+                    62,
+                    60
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Some have had election arguments –<br>few describe them as ‘major’",
+        "subtitle": "% who say they have had a ___ argument with another<br>person over the 2016 election or its outcome",
+        "source": "Source: Survey conducted Nov. 29-Dec. 12, 2016.",
+        "note": "Note: Don't know/No answer responses not shown.",
+        "branding": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#c69133",
+        "#e3bb74",
+        "#f2e2c6"
+    ]
+}

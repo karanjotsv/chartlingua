@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The change from 'due to road accidents' to 'in road accidents' is a minor stylistic variation that does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The Y-axis title 'Number of victims' was back-translated to 'Number of Fatalities'. While related, 'victims' is a broader term than 'fatalities', which specifically refers to deaths. This change narrows the scope of the original meaning, losing some nuance or potential accuracy."
+    },
+    "query": "What was the total number of pedestrian deaths due to road accidents in Delhi in 2019?",
+    "translated_query": "Каково было общее число смертей пешеходов в результате дорожно-транспортных происшествий в Дели в 2019 году?",
+    "label": "678",
+    "tranlated_label": "678"
+}

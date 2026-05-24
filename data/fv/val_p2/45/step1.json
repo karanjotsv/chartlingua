@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent with the original. All text, categories, and color hues are a perfect match. The data values and proportions are also very close, but the x-axis scale is different. The original chart's x-axis extends to 25, showing the longest bar ('Associate Professional & Technical' for 'Males') reaching a value of approximately 21. The rendered chart's x-axis only goes up to 20, making the same bar appear to have a value of exactly 20, which is a minor data inaccuracy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays 9 occupational categories. A count reveals that in 5 of these categories, the value for males is higher than for females, while in the remaining 4 categories, the value for females is higher. The claim states that the number of times males are more is less than the number of times females are more, but the data shows the opposite (5 > 4)."
+    },
+    "claim": "The number of times that males are more than females is less than the number of times that females are more than males.",
+    "label": "FALSE"
+}

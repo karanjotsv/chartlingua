@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, titles, and footer text are identical to the original. The chart structure, with a main chart and a breakdown chart, is perfectly replicated, and the color hue (red) is consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the professional sectors of visitors and their property interests. It does not contain any information about the geographical origin of the visitors, so the claim cannot be verified from the provided data."
+    },
+    "claim": "50% of visitors were from outside Europe.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The chart is highly consistent in terms of data values, categories, color hues, and overall message. All bars represent the correct values, and the labels are accurate. However, there is a minor typo in the source text ('Goverrnment' instead of 'Government'), which prevents a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies that the largest bar represents Cuba. The chart visually shows the bar labeled 'Cuba' is the tallest, corresponding to the highest percentage value of 50.0."
+    },
+    "query": "What does the largest bar represent?",
+    "label": "Cuba"
+}

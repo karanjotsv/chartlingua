@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. The use of 'the' before 'population' and 'less than' instead of 'lower than' are minor stylistic or synonymous differences that do not alter the semantic equivalence of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the 'texts' object are null in both the original and back-translated content, indicating perfect semantic equivalence as there is no text to compare or diverge."
+    },
+    "claim": "The difference between population of 1910 and 1900 is lower than the difference between 1880 and 1870.",
+    "translated_claim": "1910 ਅਤੇ 1900 ਦੀ ਆਬਾਦੀ ਦੇ ਵਿਚਕਾਰ ਅੰਤਰ 1880 ਅਤੇ 1870 ਦੇ ਵਿਚਕਾਰ ਅੰਤਰ ਤੋਂ ਘੱਟ ਹੈ।"
+}

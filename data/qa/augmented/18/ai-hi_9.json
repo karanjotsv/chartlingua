@@ -1,0 +1,55 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "अविवाहित",
+            "values": [
+                170,
+                252
+            ]
+        },
+        {
+            "category": "विवाहित",
+            "values": [
+                524,
+                633
+            ]
+        },
+        {
+            "category": "[उनमें से] <br>अपंजीकृत<br>विवाह में",
+            "values": [
+                69,
+                84
+            ]
+        },
+        {
+            "category": "विधुर / विधवा",
+            "values": [
+                186,
+                38
+            ]
+        },
+        {
+            "category": "तलाकशुदा या<br>अलग",
+            "values": [
+                120,
+                77
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "प्रति हजार व्यक्तियों पर निवासियों की संख्या",
+        "source": "© स्टेटिस्टा 2021",
+        "legend_labels": [
+            "महिलाएं",
+            "पुरुष"
+        ]
+    },
+    "colors": [
+        "#2B7CDE",
+        "#0C233F"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, percentages, and corresponding color hues are accurately reproduced. The only differences are stylistic (2D vs 3D, and rotation), which do not alter the data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows Police at 18%, Education at 20%, and Culture at 10%. The sum of these three categories is 18% + 20% + 10% = 48%, which contradicts the claim that their total value is 30%."
+    },
+    "claim": "The total value of police, Education and culture makes 30% of the chart.",
+    "label": "FALSE"
+}

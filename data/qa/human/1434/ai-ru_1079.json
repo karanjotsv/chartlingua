@@ -1,0 +1,36 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Недовольные",
+            "value": 78
+        },
+        {
+            "label": "Довольные",
+            "value": 20
+        },
+        {
+            "label": "Не знаю",
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "Наиболее недовольные<br>Направлением<br>Развития Страны",
+        "subtitle": null,
+        "source": "PEW RESEARCH CENTER Q2.",
+        "note": null
+    },
+    "colors": {
+        "series": [
+            "#e4b975",
+            "#6f4f18",
+            "#e9a13b"
+        ],
+        "title": "#2f5c85",
+        "text_on_slice": [
+            "black",
+            "white",
+            "black"
+        ]
+    }
+}

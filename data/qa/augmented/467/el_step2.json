@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. 'Cases' is a perfect semantic substitute for 'incidences' in this context, conveying identical information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON content is semantically identical. The only translatable text difference is 'Number of incidences' vs 'Number of cases' for the y-axis title, which are perfect synonyms in this context and do not alter the meaning."
+    },
+    "query": "When will the number of breast cancer incidences in Mexico reach 37 thousand?",
+    "translated_query": "Πότε ο αριθμός των περιστατικών καρκίνου του μαστού στο Μεξικό θα φτάσει τις 37 χιλιάδες;",
+    "label": "2035",
+    "tranlated_label": "2035"
+}

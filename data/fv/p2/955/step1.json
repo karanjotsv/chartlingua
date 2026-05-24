@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent. It accurately represents the vast majority of the data values, categories, text, and color hues from the original infographic across all sub-charts. However, it completely fails to render the map of the South East, which is a significant semantic omission.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe and widespread visual flaws. There is extreme text overlap across the entire image, making most labels and descriptions unreadable. Elements are also clipped and the overall layout is grossly misaligned, causing elements to obscure one another."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the green color represents 'Economic Output' and 'Gross Value Added', not 'Labor'."
+    },
+    "claim": "Labor is represented by green colour in the given graph.",
+    "label": "FALSE"
+}

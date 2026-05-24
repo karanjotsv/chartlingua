@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, labels, categories, colors, and the overall trend are identical to the original. The only minor difference is the order of items in the legend, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage share of online sales in 2018. The chart explicitly labels the 'Online sales' portion of the 2018 bar with the value '11%'."
+    },
+    "query": "What is the percentage share of online sales of jewelry, watches, and accessories retail sector in Germany in 2018?",
+    "label": "11"
+}

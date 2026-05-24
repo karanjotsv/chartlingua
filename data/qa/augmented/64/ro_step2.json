@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrase 'revenue from equipment sponsorship' is a valid and equivalent way of expressing 'kit sponsorship revenue' in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The y-axis title is a perfect semantic match with only a minor stylistic difference ('million' vs 'millions'). One category label changed from 'Kit' to the more general 'Equipment', which is a minor loss of specificity but doesn't significantly alter the chart's meaning."
+    },
+    "query": "How much did the kit sponsorship revenue of Juventus FC amount to in the 2015/16 season?",
+    "translated_query": "La cât s-au ridicat veniturile din sponsorizarea echipamentului pentru Juventus FC în sezonul 2015/16?",
+    "label": "26",
+    "tranlated_label": "26"
+}

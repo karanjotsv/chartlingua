@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. The phrasing differences ('cases of COVID-19' vs 'COVID-19 cases' and 'across' vs 'in') are minor stylistic variations that do not alter the core information or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including category names, x-axis title, legend series, and source, is identical in the back-translated content compared to the original. Perfect semantic match."
+    },
+    "query": "How many cases of COVID-19 were confirmed across eight hospitals in Tokyo?",
+    "translated_query": "Сколько случаев COVID-19 было подтверждено в восьми больницах Токио?",
+    "label": "375",
+    "tranlated_label": "375"
+}

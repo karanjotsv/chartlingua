@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Line chart' is a perfect synonym for 'line graph', and the change from 'are being compared' to 'are compared' is a minor grammatical variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only differences are minor capitalization changes in the title and source text, which do not affect the meaning."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "translated_query": "Welche zwei Länder werden im gegebenen Liniendiagramm verglichen?",
+    "label": "[Austria, Chile]",
+    "tranlated_label": "[Austria, Chile]"
+}

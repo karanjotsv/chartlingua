@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, axis values, labels, and the overall message are accurately reproduced. Color hues are consistent, and text content is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows three red squares, which represent 'Measured discharge'. These squares are located on and immediately after the peak on August 29, 2011. The highest square is at the peak, and the subsequent two squares are at progressively lower discharge levels, indicating that the measured discharge fell during this period."
+    },
+    "claim": "The measured discharge from Schoharie Creek fell during the August 29, 2011 period.",
+    "label": true
+}

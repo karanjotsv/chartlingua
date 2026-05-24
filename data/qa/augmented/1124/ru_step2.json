@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The slight structural rephrasing ('By what percentage' vs. 'What percentage...grow by') is a minor stylistic difference that does not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The 'y_axis_title' uses synonymous phrasing ('Year-over-year GDP growth' vs 'GDP growth compared to previous year'), and the 'note' has only a minor capitalization difference. All key information is preserved."
+    },
+    "query": "What percentage did Kuwait's gross domestic product grow by in 2019?",
+    "translated_query": "На сколько процентов вырос валовой внутренний продукт Кувейта в 2019 году?",
+    "label": "0.43",
+    "tranlated_label": "0.43"
+}

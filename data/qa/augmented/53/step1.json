@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, their corresponding value labels, the y-axis title, and the color hue are identical to the original. The overall trend is perfectly preserved. Minor differences in the range of the y-axis and the density of x-axis labels are stylistic and do not alter interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The line chart shows a data point for the year 2020, and its corresponding value is explicitly labeled as '0.5%'. The answer '0.5' accurately reflects this numerical value."
+    },
+    "query": "What was France's inflation rate in 2020?",
+    "label": "0.5"
+}

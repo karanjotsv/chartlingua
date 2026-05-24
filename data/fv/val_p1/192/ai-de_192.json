@@ -1,0 +1,45 @@
+{
+    "chart_type": "pie_subplot",
+    "chart_data": {
+        "labels": [
+            "Weniger als 3.500",
+            "3.500 bis 9.999",
+            "10.000 bis 99.999",
+            "100.000 und mehr"
+        ],
+        "series": [
+            {
+                "name": "Fördersumme<br>in Dollar<br>(5,3 Mrd. $)",
+                "values": [
+                    12,
+                    9,
+                    34,
+                    45
+                ]
+            },
+            {
+                "name": "Anzahl der<br>Fördervereinbarungen (2.055)",
+                "values": [
+                    66,
+                    10,
+                    17,
+                    7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Abbildung 3 | CWSRFs unterstützten 2007<br>Gemeinden aller Größen",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "legend_title": "Bevölkerung"
+    },
+    "colors": [
+        "#4CB3C3",
+        "#9E4B2C",
+        "#7BA05B",
+        "#B8932C"
+    ]
+}

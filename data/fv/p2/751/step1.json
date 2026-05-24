@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, and color hues are identical. The rendered chart improves on the original by adding a descriptive title and a legend, which clarifies the data without altering the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart provides data on the number of exoplanets discovered by year and method. It contains no information about rainfall, specific dates like July 2, 2019, or geographical locations such as Alibaug. Therefore, the claim cannot be verified or supported by the chart."
+    },
+    "claim": "Alibaug received no rainfall on July 2, 2019.",
+    "label": "FALSE"
+}

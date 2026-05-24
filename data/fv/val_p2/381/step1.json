@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The charts are mostly consistent. All text elements, categories, and the overall message are identical. However, there is a minor data value discrepancy for the '2 languages' bar (3857820 in the original vs. 3957820 in the rendered), which prevents a perfect score.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the total number of files with 0 and 2 languages is equal to the number of files with 1 language. According to the chart, the sum for 0 languages (14,848,551) and 2 languages (3,957,820) is 18,806,371, which is not equal to the value for 1 language (23,780,247)."
+    },
+    "claim": "The total of the number of files with 2 and 0 languages is equal to 1 language ",
+    "label": "FALSE"
+}

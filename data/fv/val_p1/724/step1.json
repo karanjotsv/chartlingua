@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, and the main title are identical. The colors for each slice maintain the same hue and are in the same position, preserving the chart's overall message and appearance.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the majority of non-nationals are from the UK. A majority implies over 50%. While the UK group is the largest single category with 112,548 people, its slice of the pie chart is visually much less than half. Summing all the groups shown in the chart gives a total of approximately 419,733 people, making the UK's share about 26.8%, which is not a majority."
+    },
+    "claim": "The majority of the non-national population of the Republic of Ireland is from the United Kingdom.",
+    "label": false
+}

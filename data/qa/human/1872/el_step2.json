@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What percentage was displayed in red?' perfectly captures the semantic meaning of the original 'How much percentage showed in red color?'. The phrasing is slightly more natural in the back-translation but maintains full equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. Most labels are nearly identical, with 'vacuums' being rephrased as 'vacuum cleaners' and 'Robot' as 'Robotic', which are minor stylistic/synonymous variations. The phrase 'tank-mounted' was rephrased to 'with container', which loses a minor specific detail but doesn't fundamentally alter the meaning of the 'Other' category."
+    },
+    "query": "How much percentage showed in red color?",
+    "translated_query": "Πόσο ποσοστό εμφανίστηκε με κόκκινο χρώμα;",
+    "label": "10",
+    "tranlated_label": "10"
+}

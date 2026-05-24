@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent with the original in terms of title, categories, color, and overall data trends. However, it fails to display the data bar for the 'Mining and Quarrying' category, which is present in the original chart as a small value.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart clearly shows that the value for 'Manufacturing' is significantly higher than the value for 'Transport and Storage'. The bar for Manufacturing extends to approximately 9 on the x-axis, while the bar for Transport and Storage is much shorter, at approximately 2."
+    },
+    "claim": "More people worked in transport and storage than manufacturing. ",
+    "label": false
+}

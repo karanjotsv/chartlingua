@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. 'Greater' is synonymous with 'higher', and 'smaller' is synonymous with 'lower' in this context, representing only stylistic variations without any change in semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual content within the JSON, including the 'series_name' and all 'texts' fields (which are null in both instances), is perfectly identical between the original and back-translated versions. There are no semantic differences whatsoever."
+    },
+    "claim": "The higher the value of x, the lower the value of y.",
+    "translated_claim": "Όσο μεγαλύτερη είναι η τιμή του x, τόσο μικρότερη είναι η τιμή του y."
+}

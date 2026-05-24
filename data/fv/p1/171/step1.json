@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data points, the trendline, axis values, titles, labels, and the source text are accurately reproduced. The color scheme and overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the USA has the most internet users per 100 people. According to the chart's y-axis ('Internet users per 100 people'), the USA's data point is at a level of approximately 85. However, there are several other unlabeled data points on the chart with higher y-values, including some that are above 90. Therefore, the USA does not have the most internet users per 100 people among the countries shown."
+    },
+    "claim": "USA has most internet users per 100 people by GDP per capita ",
+    "label": true
+}

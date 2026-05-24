@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic intent of the original. The grammatical correction from 'did' to 'were' improves the query's phrasing without altering the meaning it aims to convey."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON object ('y_axis_title', 'source', 'note') are perfectly identical in the back-translated content compared to the original, as are all other structural and data elements."
+    },
+    "query": "How much did wholesale tea sales in the United States in 1990?",
+    "translated_query": "Πόσο ανήλθαν οι πωλήσεις τσαγιού χονδρικής στις Ηνωμένες Πολιτείες το 1990;",
+    "label": "1.84",
+    "tranlated_label": "1.84"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly captures the intended meaning. It clarifies the somewhat awkward phrasing of 'equal with foreign and international and private-pensions' by adding 'the combined value held by Foreign and international investors, and private pension funds,' which is a semantically accurate and more explicit rendering of the original's implicit meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic of the chart is captured, but there is a loss of specific detail and accuracy in a key label. The title difference ('Estimated Ownership' vs 'Approximate Ownership Structure') is minor. However, the change from 'Intragovernmental Holdings' to 'Intergovernmental Holdings' in the largest data slice (49.37%) is a semantic inaccuracy. In the context of U.S. Treasury securities, 'Intragovernmental Holdings' refers to holdings within the federal government itself, while 'Intergovernmental Holdings' implies holdings between different governmental bodies, which is a distinct concept."
+    },
+    "claim": "The total value of Insurance  companies and Mutual Funds is equal with foreign and international and private-pensions.",
+    "translated_claim": "Суммарная стоимость Страховых компаний и Взаимных фондов равна суммарной стоимости, принадлежащей Иностранным и международным инвесторам, а также частным пенсионным фондам."
+}

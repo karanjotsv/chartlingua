@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, category labels, and color-to-category mappings are identical to the original. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly shows that the 'Caucasian' category represents 91.0% of the total population, which constitutes a majority. This aligns with the claim that the majority of students were White."
+    },
+    "claim": "The majority of students at EGRPS during the 2018-19 school year were White.",
+    "label": true
+}

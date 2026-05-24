@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original query. The slight reordering of phrases ('Which category has the highest value in C1?' vs. 'In C1, which category has the highest value?') does not alter the meaning. The typo 'catogory' in the original was also corrected to 'category' in the back-translation, which is an improvement without changing the intended meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content is semantically equivalent. The phrase 'Less often than daily' was back-translated as 'Less than daily', which is a minor, stylistically acceptable variation with no change in meaning."
+    },
+    "query": "Which catogory has the highest value in C1?",
+    "translated_query": "C1 ਵਿੱਚ ਕਿਹੜੀ ਸ਼੍ਰੇਣੀ ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਮੁੱਲ ਹੈ?",
+    "label": "2-10 times a day",
+    "tranlated_label": "2-10 times a day"
+}

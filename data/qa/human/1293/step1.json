@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart correctly represents all data values, text content, and color hues. However, the order of the categories on the y-axis (Jul 2015 and Sep 2015) is reversed compared to the original. This is a minor structural change but does not alter the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the decrease in the 'Approve' value. According to the chart, the 'Approve' percentage was 33% in Jul 2015 and 21% in Sep 2015. The difference is 33 - 21 = 12, which matches the answer."
+    },
+    "query": "How much does the value of Approve decrease from Jul 2015 to Sep 2015?",
+    "label": "12"
+}

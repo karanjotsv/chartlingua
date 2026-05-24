@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, their order, and the color hues for each bar are identical. The overall message and visual structure are fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows a ranking where Germany (GER) is in the second position, but it does not provide any context to confirm that this data represents the FIFA rankings from the year 2015. The claim makes an assertion that cannot be verified from the chart alone."
+    },
+    "claim": "The country which was ranked 2nd by FIFA in 2015 was Germany.",
+    "label": true
+}

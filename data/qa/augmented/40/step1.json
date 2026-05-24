@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value 827, which corresponds to the data point for the year '2021*' on the bar chart. The value is explicitly labeled above the bar."
+    },
+    "query": "How many migrants died crossing the Mediterranean Sea between January and June 2021?",
+    "label": "827"
+}

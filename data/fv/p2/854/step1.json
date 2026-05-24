@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message about browser market share is preserved. Minor stylistic differences, like the order of slices and an exploded slice, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays the market share percentages for different web browsers, such as Internet Explorer and Google Chrome. The claim refers to a 'wind farm' and 'economic activity,' which are subjects not mentioned or depicted in the chart at all."
+    },
+    "claim": "The graph shows that a wind farm's operation period is when the majority of economic activity takes place.",
+    "label": "TRUE"
+}

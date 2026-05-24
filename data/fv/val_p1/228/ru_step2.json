@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the original meaning. Differences like 'year 4' vs '4th year' and 'of the 5-year period' vs 'over a five-year period' are merely stylistic or trivial variations that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content in the back-translated JSON maintains perfect semantic equivalence with the original. Minor stylistic changes like 'current' to 'Present' in the title and 'Passengers-Predicted' to 'Passengers (Predicted)' in series labels do not alter the meaning."
+    },
+    "claim": "The number of passengers in year 4 was the lowest of the 5-year period.",
+    "translated_claim": "Количество пассажиров в 4-м году было самым низким за пятилетний период."
+}

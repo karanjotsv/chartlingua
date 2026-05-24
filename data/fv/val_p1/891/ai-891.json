@@ -1,0 +1,84 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "month": "November 1917",
+            "value": 1848597
+        },
+        {
+            "month": "December 1917",
+            "value": 2496281
+        },
+        {
+            "month": "January 1918",
+            "value": 4008160
+        },
+        {
+            "month": "February 1918",
+            "value": 7504435
+        },
+        {
+            "month": "March 1918",
+            "value": 10757215
+        },
+        {
+            "month": "April 1918",
+            "value": 14010752
+        },
+        {
+            "month": "May 1918",
+            "value": 12627135
+        },
+        {
+            "month": "June 1918",
+            "value": 8609879
+        },
+        {
+            "month": "July 1918",
+            "value": 14359045
+        },
+        {
+            "month": "August 1918",
+            "value": 19576099
+        },
+        {
+            "month": "September 1918",
+            "value": 17233124
+        },
+        {
+            "month": "October 1918",
+            "value": 22709116
+        },
+        {
+            "month": "November 1918",
+            "value": 7269123
+        }
+    ],
+    "texts": {
+        "title": "Production of lumber by the Spruce Production Division<br>November 1917 to November 1918",
+        "subtitle": null,
+        "x_axis_title": "Month",
+        "y_axis_title": "Board feet produced",
+        "source": "<b>Notes:</b><br>This data does not add up to the total of 143,008,961 board feet, because it does not include the 1,679,123 board feet produced in September and October 1917 combined.<br>The lumber produced in November 1918 was not produced through the whole month, due to the end of World War I at that time.<br><b>Source:</b> Oregon Voter (3 April 1920). Portland, Oregon: Princeton University Archives. p. 107."
+    },
+    "colors": {
+        "series": [
+            "#20346e"
+        ],
+        "marker_fill": "#FFFFFF",
+        "grid": "#cccccc"
+    },
+    "y_axis_config": {
+        "range": [
+            0,
+            30000000
+        ],
+        "tickvals": [
+            0,
+            7500000,
+            15000000,
+            22500000,
+            30000000
+        ]
+    }
+}

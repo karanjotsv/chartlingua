@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is mostly consistent. All data values, percentages, and text labels are identical to the original. However, the order of items in the legend has changed, and the color for the 'Domestic Service or Offices' category has changed from yellow to dark grey, which is a hue mismatch.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim is about the occupational structure of women, but the provided pie chart is explicitly titled 'Male' and only displays data for the male population. The chart contains no information about women, making it impossible to support the claim."
+    },
+    "claim": "Women made up a significant portion of the occupational structure in Sutton in 1881.",
+    "label": false
+}

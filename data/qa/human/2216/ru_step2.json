@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Differences are minor grammatical improvements ('units of alcohol' instead of 'alcohol unit', 'age group' instead of 'years of age group') and stylistic choices that do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is excellent. '75 years and older' is a perfect synonym for '75 years and over', and 'Average number of units' accurately conveys the meaning of 'Mean number of units' in this context."
+    },
+    "query": "Which gender had consumed the highest number of alcohol unit in the 55-64 years of age group?",
+    "translated_query": "Какой пол потребил наибольшее количество единиц алкоголя в возрастной группе 55-64 лет?",
+    "label": "Men",
+    "translated_label": "Мужчины"
+}

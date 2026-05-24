@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, text content, and color hues are consistent with the original. The overall message about wealth distribution is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart indicates that the 'Top 1%' holds 34.6% of the wealth and the 'Next 4%' holds 27.3%. Combining these two segments to represent the top 5% gives a total of 61.9% (34.6% + 27.3%), which is more than half (50%) of the total wealth."
+    },
+    "claim": "The top 5% combined have over half of the wealth in the US. ",
+    "label": true
+}

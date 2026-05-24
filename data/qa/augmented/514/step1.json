@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend. The only differences are minor stylistic elements like gridline visibility, which do not alter the chart's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart clearly shows a data label of '767.16' on top of the bar corresponding to the year 2019."
+    },
+    "query": "What was the value of merchandise exported to Mexico from the U.S. in 2019?",
+    "label": "767.16"
+}

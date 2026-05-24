@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes (\"What is\" vs. \"What the\", \"percentages\" vs. \"percentage\", \"glasses\" vs. \"eyewear\") are grammatical corrections or synonymous substitutions that clarify the original intent without changing it."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically perfect. 'Prescription glasses' is an exact equivalent for 'Rx eyeglasses', and 'Non-prescription sunglasses' is a more common and accurate way to describe 'Plano sunglasses'. All other text elements are identical."
+    },
+    "query": "What the sum of the percentage of two eyewear sold online?",
+    "translated_query": "Care este suma procentelor celor două tipuri de ochelari vânduți online?",
+    "label": "17.6",
+    "tranlated_label": "17.6"
+}

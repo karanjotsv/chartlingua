@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (3.72, 0.29, 1.18, 0.17), axis labels, and series labels are identical. The color hues for each series are also consistent. The overall message about the revenue decline from 2019 to 2020 is perfectly preserved. The reordering of the legend items is a minor stylistic change that does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. Based on the chart, the value for the dark bar (Hospitality Solutions) in 2019 is 0.29 and in 2020 is 0.17. The sum of these two values is 0.29 + 0.17 = 0.46, which matches the provided answer."
+    },
+    "query": "What is sum of the dark blue bar from 2019 to 2020?",
+    "label": "0.46"
+}

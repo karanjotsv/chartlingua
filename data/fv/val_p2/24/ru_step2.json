@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the original meaning and all key information. The changes are minor stylistic improvements ('in 1950' instead of 'in the year 1950', and 'the total population was' instead of 'there is a total population value of') which enhance readability without altering the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (title, subtitle, axis titles, source, note) are null in both the original and back-translated content, indicating perfect semantic equivalence as there was no text to translate or compare."
+    },
+    "claim": "According to the chart, in the year 1950 there is a total population value of 34350 ",
+    "translated_claim": "Согласно графику, в 1950 году общая численность населения составляла 34350."
+}

@@ -1,0 +1,51 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Carduri de credit",
+            "value": 42
+        },
+        {
+            "category": "Plată electronică (PayPal dacă este disponibil)",
+            "value": 39
+        },
+        {
+            "category": "Carduri de debit",
+            "value": 28
+        },
+        {
+            "category": "Plată la livrare",
+            "value": 23
+        },
+        {
+            "category": "Transferuri bancare",
+            "value": 20
+        },
+        {
+            "category": "Carduri cadou sau vouchere",
+            "value": 15
+        },
+        {
+            "category": "Plată mobilă",
+            "value": 14
+        },
+        {
+            "category": "Criptomonede (Bitcoin)",
+            "value": 3
+        },
+        {
+            "category": "Altele",
+            "value": 3
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Ponderea cumpărătorilor online",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#3182CE"
+    ]
+}

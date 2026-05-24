@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, text content (title, legend labels), and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly shows that the percentage of U.S. adults who 'Lived in a gun-free household' is 57.00%, which is the largest slice and highest percentage compared to 'Owned a gun' (30.00%) and 'Lived with gun owner' (11.00%)."
+    },
+    "claim": "The Highest percentage of people lived in a gun-free household in USA.",
+    "label": true
+}

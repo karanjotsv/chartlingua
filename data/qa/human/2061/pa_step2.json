@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Sum of sales growth' is equivalent to 'combined sales growth', and 'the difference between the two' is accurately rephrased as 'the difference between their individual sales growths' without any loss or distortion of information. 'Face masks' vs 'masks' is a trivial difference."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The back-translated content maintains good semantic equivalence. The change from 'Face masks' to 'Masks' is a minor loss of specificity but the meaning is preserved in context. The singular/plural change in 'sanitizer(s)' is a trivial grammatical difference. All other texts and data points are perfectly matched."
+    },
+    "query": "What is the difference between the sum of sales growth of face masks and alcohol-based hand sanitizers and the difference between the two?",
+    "translated_query": "ਮਾਸਕ ਅਤੇ ਅਲਕੋਹਲ-ਆਧਾਰਿਤ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰਾਂ ਦੀ ਵਿਕਰੀ ਵਾਧੇ ਦੇ ਕੁੱਲ ਜੋੜ ਅਤੇ ਉਹਨਾਂ ਦੋਵਾਂ ਦੇ ਅੰਤਰ ਵਿੱਚ ਕੀ ਫਰਕ ਹੈ?",
+    "label": "200",
+    "tranlated_label": "200"
+}

@@ -1,0 +1,109 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "CSP (लक्ष्य 2017)",
+            "x": [
+                2012,
+                2027
+            ],
+            "y": [
+                0,
+                700
+            ]
+        },
+        {
+            "name": "CSP (लक्ष्य 2012)",
+            "x": [
+                2012,
+                2020
+            ],
+            "y": [
+                0,
+                220
+            ]
+        },
+        {
+            "name": "PV(लक्ष्य 2017)",
+            "x": [
+                2012,
+                2027
+            ],
+            "y": [
+                20,
+                2800
+            ]
+        },
+        {
+            "name": "Pv (लक्ष्य 2012)",
+            "x": [
+                2012,
+                2020
+            ],
+            "y": [
+                0,
+                1100
+            ]
+        }
+    ],
+    "texts": {
+        "title": "वर्षों से पीवी और सीएसपी के बदलते लक्ष्य",
+        "x_axis_title": "वर्ष",
+        "y_axis_title": "क्षमता (मेगावाट में)",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "x": 2027,
+                "y": 2800,
+                "text": "2800",
+                "xanchor": "left",
+                "yanchor": "bottom",
+                "xshift": 5,
+                "yshift": 5
+            },
+            {
+                "x": 2020,
+                "y": 1100,
+                "text": "1100",
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -5,
+                "yshift": 5
+            },
+            {
+                "x": 2027,
+                "y": 700,
+                "text": "700",
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -5,
+                "yshift": 5
+            },
+            {
+                "x": 2020,
+                "y": 220,
+                "text": "220",
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -5,
+                "yshift": 5
+            },
+            {
+                "x": 2012.5,
+                "y": 20,
+                "text": "20",
+                "xanchor": "right",
+                "yanchor": "bottom",
+                "xshift": -5,
+                "yshift": 5
+            }
+        ]
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31",
+        "#FF0000",
+        "#FFC000"
+    ]
+}

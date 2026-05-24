@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. The data trends for both lines, all text content (title, axis labels, legend), color hues, and axis ranges are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart includes 'Filter rate' in the legend, but no data is actually plotted for it. The visual information only shows curves for 'Precision' and 'Recall'. Therefore, it is impossible to determine the relationship between 'Filter rate' and 'Cutoff threshold' from the chart alone."
+    },
+    "claim": "Filter rate increases as cutoff threshold increases.",
+    "label": true
+}

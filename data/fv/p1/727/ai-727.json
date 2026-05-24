@@ -1,0 +1,81 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Series 1",
+            "x": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "y": [
+                10,
+                9.9,
+                9.7,
+                9.4,
+                9.0,
+                8.5,
+                7.8,
+                6.9,
+                5.8,
+                4.5,
+                2.8
+            ],
+            "mode": "lines",
+            "line": {
+                "dash": "solid"
+            }
+        },
+        {
+            "name": "Series 2",
+            "x": [
+                0.5,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "y": [
+                3.0,
+                5.0,
+                6.8,
+                8.1,
+                8.8,
+                9.0,
+                8.7,
+                8.0,
+                6.8,
+                5.0
+            ],
+            "mode": "lines",
+            "line": {
+                "dash": "dash"
+            }
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Luminosity",
+        "y_axis_title": "Luminosity Function",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#2E5A87",
+        "#2E8B57"
+    ]
+}

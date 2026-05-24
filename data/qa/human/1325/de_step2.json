@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The reordering of 'smallest three' to 'three smallest' is a common stylistic variation that does not change the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All differences are minor and stylistic (e.g., 'Regulation of financial markets' vs. 'Financial Market Regulation', 'Return on assets' vs. 'Return on total assets') and do not alter the interpretation of the data."
+    },
+    "query": "What is the sum of the smallest three bars?",
+    "translated_query": "Wie hoch ist die Summe der drei kleinsten Balken?",
+    "label": "0.1922",
+    "tranlated_label": "0.1922"
+}

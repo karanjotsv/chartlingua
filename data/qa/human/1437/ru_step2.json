@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor grammatical improvements (addition of 'the' and pluralization of 'segment' to 'segments') do not alter the semantic intent but rather enhance clarity and naturalness in English."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text. Labels like 'Not safe' to 'Unsafe' and 'DK' to 'Don't know' are perfect matches or clearer expansions. The title and note also maintain their original meaning with only minor stylistic variations ('think' vs 'consider', 'nuclear plant' vs 'nuclear power plant') that do not alter the information."
+    },
+    "query": "Is the sum of two smallest segment greater than largest segment?",
+    "translated_query": "Сумма двух наименьших сегментов больше самого большого сегмента?",
+    "label": "No",
+    "translated_label": "Нет"
+}

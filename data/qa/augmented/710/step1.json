@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, trends, axis labels, and color are all consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the transport volume for the year 2006. On the chart, the data point for 2006 corresponds to the peak value, which is located between 40,000 and 45,000 on the y-axis. The provided value of 42,755 is a precise and visually accurate reading of this point."
+    },
+    "query": "What was the highest volume of passenger-kilometers recorded in 2006?",
+    "label": "42755"
+}

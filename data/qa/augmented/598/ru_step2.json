@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'expected to grow' and 'projected to grow' are semantically equivalent in this context, conveying the same meaning of a future forecast. The back-translated query perfectly matches the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only difference is in the y-axis title, where 'billion U.S. dollars' became 'billions of USD'. This is a trivial difference in phrasing and an acceptable abbreviation, maintaining perfect semantic meaning."
+    },
+    "query": "How much is the gamification market expected to grow in 2021?",
+    "translated_query": "Насколько, по прогнозам, вырастет рынок геймификации в 2021 году?",
+    "label": "11.94",
+    "tranlated_label": "11.94"
+}

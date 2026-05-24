@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the original meaning. 'Colorful' and 'multi-colored' are synonymous, and the phrasing 'shows three' versus 'there are three' maintains the semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most text elements, including chart data names, axis titles, and annotations, convey the same core meaning. Minor differences like 'feeling' versus 'attitude', and 'in-party feeling' versus 'attitude towards one's own party' are acceptable semantic variations. 'Out-party feeling' being translated as 'Attitude towards the opposition party' is a slight specification but contextually appropriate."
+    },
+    "claim": "There are three colorful lines in the line chart.",
+    "translated_claim": "На линейной диаграмме изображены три разноцветные линии."
+}

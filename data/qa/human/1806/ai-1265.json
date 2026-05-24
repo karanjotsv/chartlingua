@@ -1,0 +1,58 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Independent",
+            "Democrat",
+            "Republican",
+            "TOTAL"
+        ],
+        "series": [
+            {
+                "name": "Disapprove",
+                "data": [
+                    57,
+                    48,
+                    56,
+                    54
+                ],
+                "text": [
+                    "57",
+                    "48",
+                    "56",
+                    "54%"
+                ]
+            },
+            {
+                "name": "Approve",
+                "data": [
+                    39,
+                    47,
+                    41,
+                    42
+                ],
+                "text": [
+                    "39",
+                    "47",
+                    "41",
+                    "42%"
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Americans' Views of NSA Surveillance",
+        "subtitle": "% who __ of government’s collection of phone and internet data",
+        "source": "Source: Spring 2014 Political Typology Survey",
+        "note": "Note: Don't know/ refused responses not shown.",
+        "logo": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Disapprove",
+            "Approve"
+        ]
+    },
+    "colors": [
+        "#C9A845",
+        "#E4D3A1"
+    ]
+}

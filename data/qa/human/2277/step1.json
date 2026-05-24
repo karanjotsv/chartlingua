@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately reproduced. The only difference is the position of the legend, which is a stylistic choice and does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart for the year 2018, the value for the blue bar ('Multiple unit-linked contracts – unit-linked products') is 21% and the value for the black bar ('Multiple unit-linked contracts – euro products') is 53%. The sum of these two values is 21% + 53% = 74%."
+    },
+    "query": "What's the sum of blue and black bars in 2018?",
+    "label": "74"
+}

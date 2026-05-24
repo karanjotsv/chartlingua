@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, percentages, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly labels the 'No conscription' slice as 65.8% and the 'Conscription' slice as 34.2%. Since 65.8% is a larger value than 34.2%, the claim is directly supported by the data presented."
+    },
+    "claim": "No conscription makes up a larger portion of the graph than conscription.",
+    "label": true
+}

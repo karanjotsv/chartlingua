@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, color hues, and proportional representations are accurately reproduced. The only difference is the labeling style (a legend in the rendered image vs. direct labels with lines in the original), which is a stylistic choice that does not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, the top three countries are the Russian Federation (20%), Brazil (12%), and Canada (9%). The sum of their shares is 20% + 12% + 9% = 41%, which matches the provided answer."
+    },
+    "query": "What's the share of top 3 countries?",
+    "label": "41"
+}

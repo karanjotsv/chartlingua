@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What has the greatest value?' perfectly matches the semantic meaning of the original query 'Which has the highest value?'. 'Which' and 'What' are interchangeable in this context, and 'highest' and 'greatest' are synonymous."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most texts are identical or have minor stylistic/grammatical differences (e.g., 'U.S.' vs 'US', singular vs plural for institutions). The change from 'Public institutions' to 'Government institutions' is a close semantic match. A minor detail 'cost' was omitted from 'Average tuition cost and fees' but the core meaning is preserved."
+    },
+    "query": "Which has the highest value?",
+    "translated_query": "Что имеет наибольшее значение?",
+    "label": "Private nonprofit institution",
+    "translated_label": "Частное некоммерческое учреждение"
+}

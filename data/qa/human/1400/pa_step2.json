@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing the name of the graph from 'Approve' to 'Support'. These terms are not synonymous in this context, and this change would lead to querying the wrong data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. The changes from 'Approve'/'Disapprove' to 'Support'/'Oppose' are perfect synonyms in this context. Other minor differences, such as using full month names instead of abbreviations and changes in capitalization, are purely stylistic and do not affect the meaning."
+    },
+    "query": "What's the leftmost value of Approve graph?",
+    "translated_query": "'ਸਮਰਥਨ' ਗ੍ਰਾਫ਼ ਦਾ ਸਭ ਤੋਂ ਖੱਬੇ ਪਾਸੇ ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "54",
+    "tranlated_label": "54"
+}

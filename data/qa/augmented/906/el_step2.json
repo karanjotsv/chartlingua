@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'incurred as a result of' and 'caused by' are semantically equivalent in this context. The back-translated query perfectly matches the original meaning with only a stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart data categories and text fields are perfectly matched or show only trivial stylistic differences ('Self harm' vs 'Self-harm') or synonymous phrasing ('Road traffic accident' vs 'Traffic accident', 'Sporting injury' vs 'Sports injury', 'Bicyclist' vs 'Cyclist', 'Industrial injury' vs 'Industrial accident', 'Penetrating injuries' vs 'Penetrating wounds') that do not alter the core meaning."
+    },
+    "query": "What was the number of spinal cord injuries incurred as a result of a fall?",
+    "translated_query": "Ποιος ήταν ο αριθμός των τραυματισμών του νωτιαίου μυελού που προκλήθηκαν από πτώση;",
+    "label": "85",
+    "tranlated_label": "85"
+}

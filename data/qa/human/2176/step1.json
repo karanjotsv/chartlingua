@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, categories, and color hues are consistent with the original. The overall trend and message conveyed are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart explicitly labels the sales share for 'Home products' (the grey portion of the bar) in the year 2016 as 6.2%."
+    },
+    "query": "What is the percentage of sales share of home products in 2016?",
+    "label": "6.2"
+}

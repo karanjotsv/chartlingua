@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values (Retail 81%, Wholesale 17%, Rendered services 2%), category labels, and color hues are identical to the original. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the median value from the data presented in the chart. The three values shown are 81%, 17%, and 2%. When ordered, the sequence is 2, 17, 81. The middle value (the median) in this set is 17."
+    },
+    "query": "What is the median value?",
+    "label": "17"
+}

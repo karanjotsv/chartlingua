@@ -1,0 +1,41 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "category": "सार्वजनिक संस्थान",
+            "values": [
+                7411,
+                6639
+            ]
+        },
+        {
+            "category": "निजी गैर-लाभकारी संस्थान",
+            "values": [
+                35659,
+                8224
+            ]
+        },
+        {
+            "category": "निजी लाभकारी संस्थान",
+            "values": [
+                14991,
+                7553
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "राशि वर्तमान यू.एस. डॉलर में",
+        "legend_labels": [
+            "औसत ट्यूशन लागत और शुल्क",
+            "औसत छात्र ऋण राशि"
+        ],
+        "source": "© स्टेटिस्टा 2021"
+    },
+    "colors": [
+        "#2979ff",
+        "#192a3e"
+    ]
+}

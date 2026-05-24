@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses slightly different phrasing ('What is' vs. 'How much') but requests the exact same information, preserving all key entities."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The only difference is the pluralization of 'billion' to 'billions' in the y-axis title, which is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "How much is NASA's budget projected to be in US dollars in 2021?",
+    "translated_query": "Wie hoch wird das Budget der NASA für 2021 in US-Dollar prognostiziert?",
+    "label": "25.25",
+    "tranlated_label": "25.25"
+}

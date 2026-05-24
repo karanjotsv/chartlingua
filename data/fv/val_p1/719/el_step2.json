@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. The change from 'during' to 'in' is a minor stylistic variation that does not alter semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content has a significant semantic difference in one of the data series names, changing 'Median daily statistic' to 'Mean daily statistic'. Median and Mean are distinct statistical concepts, representing a loss of accuracy. However, the chart title, axis titles, and other data series names are perfectly equivalent."
+    },
+    "claim": "The Canajoharie Creek had no flow during February 2017.",
+    "translated_claim": "Το ρέμα Canajoharie δεν είχε ροή τον Φεβρουάριο του 2017."
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data series, axis labels, titles, and overall trends are accurately reproduced. The colors and layout are also highly consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'True Temperature, °F' is on the vertical axis, but the chart clearly labels the horizontal axis as 'True Temperature, °F' and the vertical axis as 'Error - °F'."
+    },
+    "claim": "True Tempertaure, 'F is in Vertical axis in Graphical information about emissivity and temperature scales chart.",
+    "label": "FALSE"
+}

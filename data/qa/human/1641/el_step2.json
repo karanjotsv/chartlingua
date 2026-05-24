@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'being compared' vs. 'compared' is a minor grammatical variation that doesn't change the intent, and 'line graph' vs. 'line chart' are synonymous terms."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content loses specificity in the title and subtitle, changing 'Insecticide use' to 'Pesticide Use' and 'insecticides' to 'pesticides'. While insecticides are a type of pesticide, the original explicitly specifies 'insecticides', making this a loss of an important detail. The change from 'tonnes' to 'tons' also represents a minor loss of precision, though contextually it might still imply metric tons."
+    },
+    "query": "Which two countries are being compared in the given line graph?",
+    "translated_query": "Ποιες δύο χώρες συγκρίνονται στο δεδομένο γραμμικό γράφημα;",
+    "label": "[United Kingdom, Cape Verde]",
+    "tranlated_label": "[United Kingdom, Cape Verde]"
+}

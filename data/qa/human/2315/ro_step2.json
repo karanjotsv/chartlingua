@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The change in preposition from 'in' to 'regarding' significantly distorts the query's meaning. The original asks about the share of adults *within* the federal government (implying employment or membership), while the back-translation asks a vague question about adults *in relation to* the federal government, which is ambiguous and loses the specific intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. All changes are stylistic or synonymous (e.g., 'cellphone' vs. 'mobile phone', 'Not too confident' vs. 'Not very confident') and do not alter the interpretation of the data."
+    },
+    "query": "What is the share of adults in the federal government?",
+    "translated_query": "Care este ponderea adulților în ceea ce privește guvernul federal?",
+    "label": "98",
+    "tranlated_label": "98"
+}

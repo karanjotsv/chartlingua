@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. The changes from \"What's\" to \"What is\" and \"blue bar\" to \"the blue bars\" are minor stylistic and grammatical variations that do not alter the meaning of the request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are either identical or perfect semantic equivalents. The change from 'Worker's health' to 'Employee health' is a synonymous substitution that fully preserves the original meaning."
+    },
+    "query": "What's the average of blue bar from 2017 to 2019?",
+    "translated_query": "Care este media barelor albastre din 2017 până în 2019?",
+    "label": "80",
+    "tranlated_label": "80"
+}

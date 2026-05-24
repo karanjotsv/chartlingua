@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The core subject of the query, 'Atrophy', has been incorrectly translated to 'Stunting'. These are distinct medical/nutritional conditions, leading to a significant distortion of the original meaning, even though other parts of the query are semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. While many elements are closely matched or are acceptable synonyms (e.g., 'Aid' to 'assistance', 'USD billion dollars' phrasing), there are notable semantic shifts. 'Atrophy' (original) translates to 'Stunting' (back-translated), which are distinct concepts, particularly in a potentially economic or aid context where they could imply different types of decline or inhibited development. Additionally, 'value' in the title became 'price', narrowing the meaning. The change in decimal separator is a trivial formatting difference."
+    },
+    "claim": "Atrophy received more share than the total aid if the value is reduced by 20%.",
+    "translated_claim": "Η ατροφία έλαβε μεγαλύτερο μερίδιο από τη συνολική βοήθεια εάν η τιμή μειωθεί κατά 20%."
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translated claim accurately conveys the core meaning. Differences include a typo correction ('Tempertaure' to 'temperature'), a more idiomatic preposition ('in' to 'on' for axis), and a minor omission of the word 'chart' which does not significantly alter the overall understanding of the graphical information mentioned."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original content semantically. The only difference is minor capitalization in the x-axis title, which does not alter the meaning."
+    },
+    "claim": "True Tempertaure, 'F is in Vertical axis in Graphical information about emissivity and temperature scales chart.",
+    "translated_claim": "Истинная температура, 'F находится на вертикальной оси в графической информации о шкалах излучательной способности и температуры."
+}

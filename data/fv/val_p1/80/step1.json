@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data trend, axis labels and values (including the inverted y-axis), and all key text annotations. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart's title explicitly states a constant 'flow = 860 ml/min'. The graph plots temperature over time, not flow over time, and provides no information to suggest the flow rate changed at any point."
+    },
+    "claim": "The flow raised between the seconds 40. and 50.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, text content, and color hues are consistent, conveying the exact same message and data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart shows that 'Prizes/ Giveaways' were used 75% of the time, which is the highest value compared to 'Materials/ Equipment' (50%), 'Space Donated' (0%), and 'Food' (0%)."
+    },
+    "claim": "DONATED PRIZES AND GIVEAWAYS WERE THE MOST FREQUENTLY USED DONATED RESOURCES IN THE CONTESTS",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent replication of the original. All data points, axis labels, titles, and overall proportions are accurately reproduced. The core message and data representation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses 'C5orf36 expression' in 'human tissue', whereas the chart presents data on 'United States Male Suspicion Arrests' by age. The chart provides no information related to gene expression or human tissues, thus it cannot support the claim."
+    },
+    "claim": "C5orf36 expression is present in any human tissue.",
+    "label": "FALSE"
+}

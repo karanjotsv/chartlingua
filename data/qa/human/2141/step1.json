@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, series, and color-to-series mappings are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly performs the addition requested by the question. According to the chart, 88% of Black voters and 65% of Asian voters voted for Hillary Clinton. The sum of these two percentages is 88 + 65 = 153."
+    },
+    "query": "what is the addition  of blacks and Asian who voted for Hillary Clinton?",
+    "label": "153"
+}

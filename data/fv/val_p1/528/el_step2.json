@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly preserves the meaning of the original. 'View count' is semantically equivalent to 'number of views', and the rest of the sentence is identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most textual elements are semantically equivalent. The x-axis label only has a trivial difference ('Avg.' vs 'Average'). The title 'Featured Article popularity' became 'Popularity of selected articles', which is a minor loss of specific nuance ('Featured' implies a curated status) but the main meaning about article popularity is preserved."
+    },
+    "claim": "The view count on English Wikipedia was highest in February 2014.",
+    "translated_claim": "Ο αριθμός προβολών στην αγγλική Wikipedia ήταν ο υψηλότερος τον Φεβρουάριο του 2014."
+}

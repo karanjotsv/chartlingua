@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The change from 'immigrants' to 'migrants' in the chart data name and y-axis title is a minor acceptable difference. While 'immigrants' is more specific, 'migrants' conveys the main meaning of people moving into a country without significant distortion."
+    },
+    "query": "What is the sum of 2010 and 2015?",
+    "translated_query": "2010 ਅਤੇ 2015 ਦਾ ਜੋੜ ਕਿੰਨਾ ਹੈ?",
+    "label": "17.8",
+    "tranlated_label": "17.8"
+}

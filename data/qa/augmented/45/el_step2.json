@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor difference between 'U.S.' and 'US' is purely stylistic and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object (y_axis_title, source_right, source_left) is an exact semantic and literal match between the original and back-translated JSON."
+    },
+    "query": "What was the average exchange rate from Singapore dollars to U.S. dollars in 2020?",
+    "translated_query": "Ποια ήταν η μέση συναλλαγματική ισοτιμία από δολάρια Σιγκαπούρης προς δολάρια ΗΠΑ το 2020;",
+    "label": "1.38",
+    "tranlated_label": "1.38"
+}

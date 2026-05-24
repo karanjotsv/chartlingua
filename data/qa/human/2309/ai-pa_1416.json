@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਕੁੱਲ ਮਿਲੇਨੀਅਲਜ਼ (ਉਮਰ 18-33)",
+            "ਕੁੱਲ ਜਨਰਲ ਐਕਸਰ (ਉਮਰ 34-49)",
+            "ਕੁੱਲ ਬੂਮਰਜ਼ (ਉਮਰ 50-68)",
+            "ਕੁੱਲ ਸਾਇਲੈਂਟਸ (ਉਮਰ 69-86)"
+        ],
+        "series": [
+            {
+                "name": "ਵਿਰੋਧ",
+                "data": [
+                    27,
+                    38,
+                    45,
+                    50
+                ]
+            },
+            {
+                "name": "ਪੱਖ ਵਿੱਚ",
+                "data": [
+                    68,
+                    55,
+                    48,
+                    38
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਜਵਾਬ ਦੇਣ ਵਾਲਿਆਂ ਦਾ ਹਿੱਸਾ",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#297CDE",
+        "#1A2D3D"
+    ]
+}

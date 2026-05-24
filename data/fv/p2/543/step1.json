@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has major data inaccuracies. The proportions of the largest pie slices are incorrect, which completely changes the interpretation of the data. In the original, 'Prairie' is the largest category, followed by 'Prairie poorly drained'. In the rendered chart, 'Wet Prairie' is incorrectly depicted as the largest category, followed by 'Prairie'. While text labels and color hues are consistent, the misrepresentation of the core data is a severe semantic flaw.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents different types of savanna soils. The largest slice, colored light yellow, corresponds to 'Wet Prairie' in the legend, confirming that it occupies the maximum area."
+    },
+    "claim": "The wet prairie occupy maximum of savanna soils at the Renville County Minnesota.",
+    "label": "TRUE"
+}

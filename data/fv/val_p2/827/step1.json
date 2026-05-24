@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and text labels are identical. The color hues for each category are also consistent. The overall message is preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows Internet Explorer having the largest market share at 29.05%, which directly contradicts the claim that it had the lowest. The browser with the lowest share is Android at 3.26%."
+    },
+    "claim": "Internet Explorer had the lowest market share in the time period ",
+    "label": "FALSE"
+}

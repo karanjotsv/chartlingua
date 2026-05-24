@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of text, color, and overall message. However, there is a minor data discrepancy: the value for 2010 in the original chart is slightly above 28500, while in the rendered chart, it is exactly at 28.5k. This small difference does not change the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart clearly shows the average cost for 2011 is below 27k, at approximately 26.6k. The claim that it was higher than 28000 (28k) is directly contradicted by the visual data."
+    },
+    "claim": "2011 had average costs higher than 28000.  ",
+    "label": false
+}

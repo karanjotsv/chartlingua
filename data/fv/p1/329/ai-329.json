@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Professional",
+            "Conveyance of men, goods, and messages",
+            "Animals",
+            "Food and lodging",
+            "Vegetable substances",
+            "General or unspecified substances",
+            "Unknown occupation"
+        ],
+        "series": [
+            {
+                "name": "Female",
+                "data": [
+                    2,
+                    2,
+                    1,
+                    12,
+                    1,
+                    1,
+                    65
+                ]
+            },
+            {
+                "name": "Male",
+                "data": [
+                    2,
+                    80,
+                    10,
+                    5,
+                    3,
+                    4,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Total amount of males and females",
+        "y_axis_title": "Occupation",
+        "source": null
+    },
+    "colors": [
+        "#ED7D31",
+        "#5B9BD5"
+    ]
+}

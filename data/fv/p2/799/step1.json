@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, country labels, the title, and axis titles are accurately reproduced. The color hues for 'Political left' (green), 'Political right' (red), and 'Political center' (grey) are consistent. The overall message about political disagreement across countries is perfectly preserved. Minor stylistic differences, such as the legend format and the solid grey bar instead of a gradient, do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses the rate of bilingualism in Canada from 1941 to 2006. The chart, however, displays data on political disagreement about climate change in various countries, including Canada, at a single point in time. The chart contains no information about bilingualism or the specified time period."
+    },
+    "claim": "Between 1941 to 2006, Canada has seen a minor but constant growth in the rate of Bilingualism.",
+    "label": "TRUE"
+}

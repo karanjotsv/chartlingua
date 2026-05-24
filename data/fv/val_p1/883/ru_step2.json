@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Squared error loss' and 'Quadratic Loss' are synonymous terms in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON text content demonstrates excellent semantic equivalence. The term 'Huber loss' is consistently translated as 'Huber Loss' (minor capitalization difference, no change in meaning). 'Squared error loss' is translated as 'Quadratic Loss', which is a semantically equivalent and commonly used synonym in the context of loss functions (e.g., L2 loss is quadratic). This is a stylistic or synonymous phrasing and does not alter the core meaning or introduce any distortion. All other text fields are null in both, and numerical data is identical."
+    },
+    "claim": "Huber loss is less sensitive to outliers than squared error loss.",
+    "translated_claim": "Потеря Хубера менее чувствительна к выбросам, чем квадратичная потеря."
+}

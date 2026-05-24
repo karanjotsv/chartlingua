@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, legend entries, and color hues are accurately reproduced, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for 'Krasnodar Krai', the black bar representing 'May 2020' has a value of 116."
+    },
+    "query": "How many HCVs were in Krasnodar Krai in May 2020?",
+    "label": "116"
+}

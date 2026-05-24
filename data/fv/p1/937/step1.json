@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data series, their values, trends, and relative positions are identical. The axes, labels, and color hues are also fully consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart lacks any title, axis labels, or a legend that would identify the data presented. Therefore, it is impossible to confirm from the chart alone that the lines represent 'Sainsbury's financial performance'."
+    },
+    "claim": "Four details of Sainsbury's financial performance on the graph is shown by four color lines. ",
+    "label": true
+}

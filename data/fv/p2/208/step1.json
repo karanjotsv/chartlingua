@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, colors, and the overall structure are semantically identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'excess as for the land area' is equal to 'the land FPA with 50% added'. According to the chart, the excess land area is represented by the bar 'LE - FPA Say \"E\"', which has a value of 1250 sq. ft. The value for '50% of FPA' is shown as 1875 sq. ft. Since 1250 is not equal to 1875, the claim is refuted by the chart data."
+    },
+    "claim": "The excess as for the land area (sq. ft.) is as equal as the land FPA with 50% added.",
+    "label": "TRUE"
+}

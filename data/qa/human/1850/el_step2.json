@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Which country is represented by the blue line?' perfectly preserves the semantic meaning of the original 'Which country is represented by blue color line?'. The slight rephrasing (omission of 'color' and addition of 'the') is a minor stylistic difference that does not alter the core meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text fields. The only difference is a minor stylistic capitalization change in the title ('patent families' vs. 'Patent Families'), which does not affect meaning."
+    },
+    "query": "Which country is represented by blue color line?",
+    "translated_query": "Ποια χώρα αντιπροσωπεύεται από την μπλε γραμμή;",
+    "label": "Chinese Taipei",
+    "translated_label": "Κινεζική Ταϊπέι"
+}

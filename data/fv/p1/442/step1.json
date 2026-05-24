@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, proportions, and text labels are identical. The color hues for each category are also consistent. The only difference is the rotation of the donut chart, which does not alter the data's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies that the data is for 'Romania's electricity production in 2010', but the chart does not provide any information about the country or the year. Therefore, this context cannot be verified from the chart alone."
+    },
+    "claim": "Hydro power consisted of thirty-six percent of Romania's electricity production in 2010.",
+    "label": true
+}

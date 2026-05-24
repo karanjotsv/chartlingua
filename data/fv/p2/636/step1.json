@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. While it retains the main title and overall structure, it fails to render data for several key sections (Median Age, Life Expectancy, Population, Economic Output). Other sections contain significant data errors, such as missing data points (Unemployment, Traffic) and incorrect values. The overall message is lost due to these extensive omissions and errors.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart suffers from severe visual flaws, primarily widespread text overlap on the axes of the bar charts and in the footer, which makes the labels and source information unreadable. Additionally, several chart components are rendered as empty placeholders, indicating a malformed output."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not contain any information about life expectancy, nor does it provide any data specific to women. While there is a bar showing a value of '83' for 'East of England', there is no label to indicate what this value represents, and it does not match the '83.6 years' stated in the claim."
+    },
+    "claim": "Women in the East of England have a life expectancy of 83.6 years.",
+    "label": "TRUE"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. The omission of the article 'the' is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most text elements like the title ('Fair Rent' vs. 'Reasonable Rent') and data categories ('Land' vs. 'Property', 'DRC' vs. 'Replacement Value') are synonymous and convey the correct meaning. The only notable discrepancy is the y-axis title changing from 'CU' (likely Currency Unit) to the unclear 'WE', which is a minor loss of clarity."
+    },
+    "claim": "The average of all the 6 bars is more than 1000.",
+    "translated_claim": "Der Durchschnitt aller 6 Balken beträgt mehr als 1000."
+}

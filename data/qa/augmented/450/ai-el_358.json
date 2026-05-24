@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Μεγάλος αναγνώστης (20+ βιβλία)",
+            "value": 31
+        },
+        {
+            "category": "Μέσος αναγνώστης (5 έως 19<br>βιβλία)",
+            "value": 39
+        },
+        {
+            "category": "Περιστασιακός αναγνώστης (από 1 έως 4<br>βιβλία)",
+            "value": 23
+        },
+        {
+            "category": "Μη αναγνώστης (0 βιβλίο)",
+            "value": 8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ποσοστό των ερωτηθέντων",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#1e78d2"
+    ]
+}

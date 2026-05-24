@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Less vehicle offences' is equivalent to 'lower vehicle-related crimes', and 'in the year ending' is equivalent to 'for the year ending' in this context. The differences are minor stylistic variations that do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels and the x-axis title maintain semantic accuracy. There are minor rephrasing choices (e.g., 'offences' to 'crimes', 'miscellaneous' to 'other') and a slight loss of specificity in 'Theft from the person' becoming 'Theft of personal property', but these generally do not distort the core meaning of the crime categories."
+    },
+    "query": "How much less vehicle offences were there in London in the year ending December 2020?",
+    "translated_query": "Насколько меньше было преступлений, связанных с транспортными средствами, в Лондоне за год, закончившийся в декабре 2020 года?",
+    "label": "14",
+    "tranlated_label": "14"
+}

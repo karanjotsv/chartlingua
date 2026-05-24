@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, categories, colors, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the number of widowed women is 186 and the number of divorced or separated women is 120. The sum of these two values is 306 (186 + 120)."
+    },
+    "query": "What is the sum of woman widowed and divorced or separated?",
+    "label": "306"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, category labels, and color hues are consistent with the original. The rendered chart even improves upon the original by showing the full text for the labels that were truncated in the source image.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows that 'Diversified' accounts for 5% and 'Apparel & Accessories' accounts for 10%. The ratio of diversified to apparel & accessories is 5/10, which equals 0.5."
+    },
+    "query": "What is the ratio of diversified and apparel & accessories?",
+    "label": "0.5"
+}

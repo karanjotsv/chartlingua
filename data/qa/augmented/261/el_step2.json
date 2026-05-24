@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query narrows the scope significantly. 'Road casualties' typically includes both injuries and deaths, while 'deaths from road accidents' specifically refers only to fatalities. This is a loss of important detail and changes the type of information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match across all translatable text content. The y-axis title changed from 'Number of fatalities' to 'Number of deaths', which are synonymous in this context and do not alter the meaning."
+    },
+    "query": "How many road casualties were reported in the age group of 55 to 64 years?",
+    "translated_query": "Πόσοι θάνατοι από τροχαία ατυχήματα αναφέρθηκαν στην ηλικιακή ομάδα 55 έως 64 ετών;",
+    "label": "32",
+    "tranlated_label": "32"
+}

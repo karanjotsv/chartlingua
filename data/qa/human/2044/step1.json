@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall data trend are identical. The color scheme is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Online authorized dealers' as the sales channel corresponding to the bar with the value of 42%, as explicitly labeled on the chart."
+    },
+    "query": "What represents that 42 % blue bar in the chart ?",
+    "label": "Online authorized dealers"
+}

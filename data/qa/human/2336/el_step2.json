@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, preserving perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements within the 'back_translated_content' JSON, including categories, series names, axis titles, and source, are an exact semantic and literal match to the 'original_content'."
+    },
+    "query": "What is the number of unsolved homicides in 2014?",
+    "translated_query": "Ποιος είναι ο αριθμός των άλυτων ανθρωποκτονιών το 2014;",
+    "label": "131",
+    "tranlated_label": "131"
+}

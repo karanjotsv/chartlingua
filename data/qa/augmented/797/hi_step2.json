@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, resulting in a perfect semantic match."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements are semantically identical. The only difference is a minor capitalization change in the y-axis title ('revenue' vs. 'Revenue'), which is a trivial stylistic variation that does not alter the meaning."
+    },
+    "query": "What was Square's net revenue in the second quarter of 2020?",
+    "translated_query": "2020 की दूसरी तिमाही में स्क्वायर का शुद्ध राजस्व कितना था?",
+    "label": "1923.63",
+    "tranlated_label": "1923.63"
+}

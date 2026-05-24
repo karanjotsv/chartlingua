@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is missing all the category labels for the pie slices (e.g., 'Management', 'Fishing', 'Sales/Office'). While the numerical values, title, and colors are consistent with the original, the complete absence of these essential labels makes the chart's primary information uninterpretable, thus failing to convey the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows there is a total of 41 workers and that one category of occupation has 10 workers. However, the chart does not include a legend or labels to identify the specific occupations for each segment. Therefore, it is not possible to confirm from the chart data that the group of 10 workers is in an occupation related to fishing."
+    },
+    "claim": "Of the forty one workers in False Pass Alaska, ten of them are in the occupation related to fishing.",
+    "label": "TRUE"
+}

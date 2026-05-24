@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly matches the original meaning. The minor differences ('The' vs. no article, 'on' vs. 'in' the chart) are stylistic and do not alter the semantic content or key information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The core meaning of the chart's title and series name has shifted. 'Properties with Foreclosure Activity' implies properties undergoing or having experienced any stage of foreclosure, whereas 'Foreclosed Real Estate' specifically refers to properties where the foreclosure process is complete. This is a loss of nuance and accuracy regarding the scope of the data presented. The source text translation is excellent."
+    },
+    "claim": "The Q3 08 has the shortest bar on the chart.",
+    "translated_claim": "Q3 08 имеет самый короткий столбец на диаграмме."
+}

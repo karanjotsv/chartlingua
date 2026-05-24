@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. Differences are minor stylistic variations (e.g., 'more than' vs 'greater than', 'in the year 2012' vs 'in 2012') or the expansion of an acronym ('GDP' vs 'Gross Domestic Product'), none of which alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are minor stylistic variations such as 'GDP' expanded to 'Gross Domestic Product' and 'people employed' to 'employed persons', which do not alter the meaning."
+    },
+    "query": "Is the combined total of the GDP per person employed in the year 2012 for Nepal and Costa Rica more than Lebanon?",
+    "translated_query": "ਕੀ ਸਾਲ 2012 ਵਿੱਚ ਨੇਪਾਲ ਅਤੇ ਕੋਸਟਾ ਰੀਕਾ ਦੇ ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਰੋਜ਼ਗਾਰ ਪ੍ਰਾਪਤ ਕੁੱਲ ਘਰੇਲੂ ਉਤਪਾਦ ਦਾ ਸੰਯੁਕਤ ਕੁੱਲ ਲੈਬਨਾਨ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

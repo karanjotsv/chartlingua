@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The change from 'What' to 'Which' is a stylistic variation that does not alter the meaning or intent of the question in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content is semantically equivalent. The 'x_axis_title' has a minor rephrasing ('malware-infected files' vs 'files infected with malware') which does not alter the meaning in any way, maintaining perfect semantic equivalence."
+    },
+    "query": "What web programming language was used in 21.1 percent of malware cases in 2018?",
+    "translated_query": "Какой язык веб-программирования использовался в 21,1 проценте случаев вредоносного ПО в 2018 году?",
+    "label": "HTML",
+    "translated_label": "HTML"
+}

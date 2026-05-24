@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 1,
+        "similarity_reason": "The rendered chart completely misrepresents the data from the original. The original chart shows a single, symmetrical bell curve peaking at x=0. The rendered chart shows two separate curves that go off the top of the chart, completely missing the peak and the correct data trend. The x-axis range is also truncated.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data line is clipped at the top of the chart area, obscuring the peak and a significant portion of the data."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the curve reached a top value of 0.15. However, the chart's y-axis shows that the peak of the curve is at a value of 0.25, not 0.15."
+    },
+    "claim": "The Hubbert curve raised at the top of the value 0.15 after that decreased the flow.",
+    "label": false
+}

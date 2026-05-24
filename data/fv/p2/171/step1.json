@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, categories, and the main title are identical. The color hues for the major slices are consistent (blue for East Asia, green for North America, etc.). The overall message is preserved exactly. Differences are stylistic, such as using a legend instead of callout lines.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap on the smaller pie slices, where multiple percentage labels (e.g., 3%, 2%, 1%) are rendered on top of each other, making them unreadable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart clearly indicates that the consumption percentage for 'South Asia' is 2% and the consumption percentage for 'North Africa' is also 2%, which supports the claim that they were the same."
+    },
+    "claim": "South Asia and North Africa had the same soybean meal consumption percentage in 2012/13.",
+    "label": "FALSE"
+}

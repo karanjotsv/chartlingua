@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, proportions, and color hues are identical to the original. The rendered chart also adds a title and source, which provides valuable context without contradicting the original data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that solar energy is the primary source of renewable electricity generation, but the donut chart clearly indicates that wind energy is the primary source at 40.4%. Solar energy, at 6.6%, is the smallest contributor among the listed sources."
+    },
+    "claim": "Solar energy is the primary source of renewable electricity generation in Germany in 2009.",
+    "label": false
+}

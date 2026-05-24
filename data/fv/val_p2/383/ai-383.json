@@ -1,0 +1,45 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "0 language",
+            "value": 14848551,
+            "annotation_text": "14848551 (34.32%)"
+        },
+        {
+            "category": "1 language",
+            "value": 23780247,
+            "annotation_text": "23780247 (54.96%)"
+        },
+        {
+            "category": "2 languages",
+            "value": 3957820,
+            "annotation_text": "3957820 (9.15%)"
+        },
+        {
+            "category": "3 languages",
+            "value": 471226,
+            "annotation_text": "471226 (1.09%)"
+        },
+        {
+            "category": "4 languages",
+            "value": 103107,
+            "annotation_text": "103107 (0.24%)"
+        },
+        {
+            "category": "5+ languages",
+            "value": 107614,
+            "annotation_text": "107614 (0.25%)"
+        }
+    ],
+    "texts": {
+        "title": "Number of files with N language templates on Commons",
+        "subtitle": "From data dumps of November 20, 2017",
+        "x_axis_title": "Number of language templates (N)",
+        "y_axis_title": "Number of files",
+        "source": null
+    },
+    "colors": [
+        "#1f9a5f"
+    ]
+}

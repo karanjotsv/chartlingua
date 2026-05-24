@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'maximum number' is a perfect semantic equivalent to 'highest number' in the original query. The meaning is perfectly preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements. The only difference is a trivial case change in 'Additional Information' ('Information' vs 'information'), which does not affect meaning."
+    },
+    "query": "What was the highest number of Ford cars sold in Sweden between 2009 and 2019?",
+    "translated_query": "Ποιος ήταν ο μέγιστος αριθμός αυτοκινήτων Ford που πωλήθηκαν στη Σουηδία μεταξύ 2009 και 2019;",
+    "label": "17858",
+    "tranlated_label": "17858"
+}

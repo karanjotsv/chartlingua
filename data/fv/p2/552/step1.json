@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text content (title, labels, source), data values, and color hues are identical to the original. The core message and proportions are accurately represented, with the only difference being a stylistic change from a 3D to a 2D pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the value for Atrophy is 12 billion dollars, but the chart explicitly labels the Atrophy segment as $9.22 billion."
+    },
+    "claim": "The Atrophy source  is 12  billion dollars in the OECD 2006.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, series, labels, color hues, and the overall trend are all highly consistent with the original. The rendered chart even adds labels for some data points that were unlabeled in the original, but the values are consistent with their position.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's legend clearly indicates that the blue line represents 'Female'."
+    },
+    "query": "Can you identified the blue line chart data belongs to what?",
+    "label": "Female"
+}

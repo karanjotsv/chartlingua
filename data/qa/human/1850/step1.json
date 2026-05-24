@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data series, values, trends, text elements (title, subtitle, source, labels), and color hues are consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The legend on the right side of the chart clearly labels the blue line as 'Chinese Taipei'."
+    },
+    "query": "Which country is represented by blue color line?",
+    "label": "Chinese Taipei"
+}

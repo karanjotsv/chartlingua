@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, title, source text, and color hues are consistent with the original. The overall message about the composition of tax revenue is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that Income Taxes contribute 32% to Ohio's state and local government tax revenue, which is the largest percentage among all the sources shown (Sales Taxes at 31%, Property Taxes at 29%, and Other at 7%)."
+    },
+    "claim": "Income tax is the largest source of Ohio state revenue.",
+    "label": "TRUE"
+}

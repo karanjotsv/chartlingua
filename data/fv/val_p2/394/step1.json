@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text elements (title, axis labels, legend), and color hues for the data series are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows the red line, representing 'PV(aims 2017)', is consistently higher than both the blue line ('CSP (aims 2017)') and the orange line ('CSP (aims 2012)') for all the years presented. This visually confirms that the capacity aim for PV in 2017 was higher than the capacity aims for CSP."
+    },
+    "claim": "PV(aims 2017) has the highest capacity than CSP over the years.",
+    "label": "TRUE"
+}

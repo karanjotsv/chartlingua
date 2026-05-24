@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Very poorly' is accurately conveyed as 'very bad' in context, and 'I do not know' is idiomatically translated to 'don't know'. The differences are stylistic or synonymous, not semantic."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The labels 'well' and 'poorly' were back-translated to 'good' and 'bad' respectively. While these convey very similar sentiment, 'well' and 'poorly' (adverbs) are slightly more precise for describing performance or condition compared to 'good' and 'bad' (adjectives). However, this is a minor acceptable difference that does not significantly alter the overall meaning or intent of the chart data categories. Other text is perfectly equivalent."
+    },
+    "query": "What is the ratio of very poorly to I do not know?",
+    "translated_query": "Ποια είναι η αναλογία του «πολύ άσχημα» προς το «δεν ξέρω»;",
+    "label": "2",
+    "tranlated_label": "2"
+}

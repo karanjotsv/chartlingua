@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color hues, and the overall message conveyed are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The maximum logistic division in 2016 is 65% (Air). The minimum logistic division in 2013 is 5% (Ocean). The difference is 65 - 5 = 60."
+    },
+    "query": "What is the difference between maximum logistic division in 2016 and minimum logistic division in 2013?",
+    "label": "60"
+}

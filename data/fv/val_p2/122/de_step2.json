@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation incorrectly changes the key term 'unexpected trunk' to 'unexposed trunk'. These words have significantly different meanings, which distorts the core information of the claim."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences are purely stylistic, such as capitalization in the title ('Positions' vs. 'positions') and word order in the subtitle ('moths observed' vs. 'observed moths'), with no impact on the overall meaning."
+    },
+    "claim": "The total of Trunk-branch and unexpected trunk is equal to Exposed trunk.",
+    "translated_claim": "Die Summe von Stamm-Ast-Verbindung und nicht freiliegendem Stamm ist gleich der von freiliegendem Stamm."
+}

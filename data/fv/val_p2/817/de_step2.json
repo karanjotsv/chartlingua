@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is a perfect semantic match to the original. The words 'graph' and 'chart' are synonyms in this context, and the other minor grammatical differences do not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text, which in this case are the data labels, are identical in both the original and back-translated versions. The other text fields are null in both."
+    },
+    "claim": "The graph shows that speed decreases over time.",
+    "translated_claim": "Die Grafik zeigt, dass die Geschwindigkeit im Laufe der Zeit abnimmt."
+}

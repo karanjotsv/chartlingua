@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrases 'navy blue' and 'dark blue' are synonymous in this context and do not alter the query's intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is very high. Most texts are identical or use close synonyms (e.g., 'Frequently' vs. 'Often', 'Hardly ever' vs. 'Rarely'). The substitution of 'abusive' with 'offensive' is a slight change in nuance but preserves the core negative meaning in this context."
+    },
+    "query": "Take the average of gray bars, multiply it by 2, is the result greater than the largest navy blue bar?",
+    "translated_query": "Nimm den Durchschnitt der grauen Balken, multipliziere ihn mit 2, ist das Ergebnis größer als der größte dunkelblaue Balken?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

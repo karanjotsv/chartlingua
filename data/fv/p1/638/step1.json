@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, series labels ('Objectif', 'Réel', 'Sans Ajout'), and color hues are all accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three distinct lines, and the legend identifies them as 'Objectif', 'Réel', and 'Sans Ajout'. The structure of the chart, showing work remaining over time, is characteristic of a Burndown chart. Thus, the claim that these three attributes are used to relate the chart is directly supported by the visual evidence."
+    },
+    "claim": "The three attributes are used to relate the Burndown chart.",
+    "label": true
+}

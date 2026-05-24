@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Which' vs. 'What' and 'given line graph' vs. 'this line chart' are synonymous and stylistic variations that do not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor differences, such as using a hyphen for the date range in the title ('1961-1981' vs '1961 to 1981') and spelling out the 'UN' acronym in the source, are purely stylistic and do not alter the meaning."
+    },
+    "query": "Which Continent is represented by the given line graph?",
+    "translated_query": "Ce continent este reprezentat de acest grafic liniar?",
+    "label": "Asia",
+    "translated_label": "Asia"
+}

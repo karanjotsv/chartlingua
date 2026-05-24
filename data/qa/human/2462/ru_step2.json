@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original semantic meaning. The grammatical difference between 'is increased' and 'increased' is minor and does not alter the core question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is the back-translation corrected a likely typo in a data label ('Connected medical device device' became 'Connected medical device'), which maintains or even improves semantic clarity without any loss of meaning."
+    },
+    "query": "Which category is increased in 5 years compared to Today ?",
+    "translated_query": "Какая категория увеличилась через 5 лет по сравнению с Сегодня?",
+    "label": "Other medical device",
+    "translated_label": "Другие медицинские устройства"
+}

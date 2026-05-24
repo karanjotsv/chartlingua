@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the overall trend of the graph as increasing. The line chart begins at 0.55% in 2003 and ends at a higher value of 1.13% in 2017, indicating a general upward trend over the entire period."
+    },
+    "query": "Does the graph increase or decrease?",
+    "label": "increasing"
+}

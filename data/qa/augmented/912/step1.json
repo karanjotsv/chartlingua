@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and color associations are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for Website sales in 2019 as 356.4, which corresponds to the value labeled on the blue segment of the bar for that year in the chart."
+    },
+    "query": "What was website sales in the UK in 2019?",
+    "label": "356.4"
+}

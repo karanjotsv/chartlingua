@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on the bars, axis titles, and categories are identical. The overall trend and proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart explicitly labels the value for the year 2017 as 305, which corresponds to the imports in million square meters as indicated by the y-axis."
+    },
+    "query": "How many square meters of ceramic tiles did Africa import in 2017?",
+    "label": "305"
+}

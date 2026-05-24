@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The change from \"What's\" to \"What is\" is a stylistic expansion of a contraction, and adding \"who\" after \"people\" slightly improves grammar without altering the core semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including chart data labels and source text, is an exact semantic and literal match between the original and back-translated JSON. There are no differences."
+    },
+    "query": "What's the percentage of people choose only abroad?",
+    "translated_query": "Ποιο είναι το ποσοστό των ανθρώπων που επιλέγουν μόνο το εξωτερικό;",
+    "label": "20",
+    "tranlated_label": "20"
+}

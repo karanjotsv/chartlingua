@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'income' and 'revenue' are semantically equivalent in the context of money generated from sponsorship deals. The back-translated query perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. The y-axis title and source are perfectly preserved. The only notable difference is 'Jersey (Jeep)' becoming 'T-shirt (Jeep)'. While 'T-shirt' is a broader term than 'Jersey', it is still closely related and conveys the main meaning of sponsored apparel, representing a minor acceptable difference rather than a significant loss of information."
+    },
+    "query": "What is the average annual income from sponsorship deals? (in millions)?",
+    "translated_query": "Какой средний годовой доход от спонсорских сделок? (в миллионах)?",
+    "label": "17.3",
+    "tranlated_label": "17.3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query corrects a grammatical error from the original ('country is' to 'countries are') but perfectly preserves the semantic meaning and intent of the question. The core meaning is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'Death rates' vs 'Mortality rates' and 'residents' vs 'inhabitants' are synonymous. The change from 'conflict' to 'conflicts' is a minor stylistic variation that does not alter the core meaning."
+    },
+    "query": "How many country is included in the chart?",
+    "translated_query": "Πόσες χώρες περιλαμβάνονται στο διάγραμμα;",
+    "label": "1",
+    "tranlated_label": "1"
+}

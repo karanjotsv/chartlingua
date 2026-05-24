@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (title, axis labels), color hue, and the overall trend are all highly consistent with the original chart. The use of 'M' for millions on the y-axis is a minor stylistic difference that preserves the semantic meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim accurately states the time period covered by the bar chart, as the x-axis clearly shows data points for every year from 1996 to 2015."
+    },
+    "claim": "Annual Tonnage Through Lock is documented from 1996 to 2015 in the graph.",
+    "label": "TRUE"
+}

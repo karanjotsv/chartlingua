@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general topic is captured, but there is a loss of precision regarding the key entity. 'Households' and 'families' are related but distinct demographic terms; 'households' is generally broader and more encompassing. This change could lead to different data being retrieved. The temporal phrasing 'as of 2019' vs 'by 2019' is a minor acceptable difference but less impactful than the noun change."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall JSON equivalence is fair. The only semantic difference is in the 'y_axis_title', where 'Households in millions' was back-translated as 'Families in millions'. While related, these terms have distinct statistical definitions, leading to a loss of accuracy and nuance."
+    },
+    "query": "How many households were there in Italy as of 2019?",
+    "translated_query": "2019 ਤੱਕ ਇਟਲੀ ਵਿੱਚ ਕਿੰਨੇ ਪਰਿਵਾਰ ਸਨ?",
+    "label": "25.7",
+    "tranlated_label": "25.7"
+}

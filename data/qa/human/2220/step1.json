@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the highest value for a dark blue bar (Women) is 22% (in the 25-34 years age group), and the lowest value is 6% (in the 75 years and over age group). The difference is 22 - 6 = 16."
+    },
+    "query": "What is the difference between the highest and the lowest dark blue bar?",
+    "label": "16"
+}

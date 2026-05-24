@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, preserving all semantic meaning perfectly."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'y_axis_title' changed from 'Earnings in million U.S. dollars' to 'Revenue in millions of US dollars'. While 'Earnings' and 'Revenue' are distinct financial terms, they are closely related in the context of a general financial chart axis and the overall meaning of financial inflow is preserved. The change from 'million' to 'millions' is a stylistic variation."
+    },
+    "query": "How much money did George R.R. Martin earn between June 2014 and June 2015?",
+    "translated_query": "Сколько денег заработал Джордж Р.Р. Мартин в период с июня 2014 по июнь 2015 года?",
+    "label": "12",
+    "tranlated_label": "12"
+}

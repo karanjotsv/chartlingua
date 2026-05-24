@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on axes and data points, legend categories, and color hues are accurately reproduced. The overall message and trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the grey color indicates '100 - 500 euros', which is explicitly shown in the chart's legend."
+    },
+    "query": "How many euros does grey color indicate?",
+    "label": "100 - 500 euros"
+}

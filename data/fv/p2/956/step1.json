@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "Despite severe visual flaws, the rendered chart is semantically identical to the original. All data values, text labels (titles, annotations, axis labels), and color hues for the corresponding sections are correctly reproduced. The core information and overall message in each part of the infographic are preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has severe visual flaws. There is widespread text and element overlap across the entire image, rendering much of the text unreadable. The layout is completely broken, with chart components layered incorrectly on top of one another. Some elements also appear to be slightly clipped at the chart boundaries."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not provide any information about specific occupations or their popularity. The claim cannot be verified or refuted using the data presented."
+    },
+    "claim": "The occupation \"Farmers employing Labourers\" is the second most popular job.",
+    "label": "TRUE"
+}

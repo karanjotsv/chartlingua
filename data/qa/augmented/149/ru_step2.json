@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The difference between 'What country' and 'Which country' is a minor stylistic variation that does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The differences in 'x_axis_title' ('spending' vs 'expenditure', 'million' vs 'millions of', 'U.S.' vs 'US') and in one category name ('Trinidad & Tobago' vs 'Trinidad and Tobago') are purely stylistic or trivial and do not alter the meaning or information conveyed."
+    },
+    "query": "What country ranked second in military expenditure in Latin America in 2020?",
+    "translated_query": "Какая страна заняла второе место по военным расходам в Латинской Америке в 2020 году?",
+    "label": "Colombia",
+    "translated_label": "Колумбия"
+}

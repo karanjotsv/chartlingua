@@ -1,0 +1,29 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "वास्तविक",
+            "value": 2.5,
+            "annotation": "वा<br>स्त<br>वि<br>क"
+        },
+        {
+            "category": "पूर्वानुमानित",
+            "value": 2.6,
+            "annotation": "पू<br>र्वा<br>नु<br>मा<br>नि<br>त"
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": {
+        "bar_color": "#F98D09",
+        "annotation_text_color": "#000000",
+        "grid_color": "#C0C0C0",
+        "axis_color": "#000000",
+        "bar_border_color": "#000000"
+    }
+}

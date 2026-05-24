@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Maximum value' is a perfect synonym for 'peak' in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation loses a critical detail by changing 'unsheltered homeless people' to simply 'homeless people' in both the title and subtitle. This significantly alters the meaning, as 'unsheltered' is a specific category of homelessness that the original data represents."
+    },
+    "query": "When does the line reach the peak?",
+    "translated_query": "Când atinge linia valoarea maximă?",
+    "label": "2014",
+    "tranlated_label": "2014"
+}

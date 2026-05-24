@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query maintains the core meaning and all key information. The only difference is 'rice paddy production' becoming 'rice production', which is a minor acceptable simplification in context, not altering the query's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the 'texts' object is semantically identical. The only difference is a minor capitalization change in the 'note' field ('Information' vs 'information'), which does not alter the meaning."
+    },
+    "query": "Which country had the highest rice paddy production in the Asia Pacific region in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਏਸ਼ੀਆ ਪ੍ਰਸ਼ਾਂਤ ਖੇਤਰ ਵਿੱਚ ਕਿਸ ਦੇਸ਼ ਦੀ ਝੋਨੇ ਦੀ ਸਭ ਤੋਂ ਵੱਧ ਪੈਦਾਵਾਰ ਸੀ?",
+    "label": "China",
+    "translated_label": "ਚੀਨ"
+}

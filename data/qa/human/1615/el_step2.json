@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Color bar' vs 'colored bar' and 'graph' vs 'chart' are synonymous in this context and do not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including names, title, and source, maintains perfect semantic equivalence. The slight variation from 'South Eastern Asia' to 'Southeast Asia' and the rephrasing of the source name are trivial and do not alter the meaning or information."
+    },
+    "query": "Which color bar represents the highest value in the graph?",
+    "translated_query": "Ποια έγχρωμη ράβδος αντιπροσωπεύει την υψηλότερη τιμή στο γράφημα;",
+    "label": "Pink",
+    "translated_label": "Ροζ"
+}

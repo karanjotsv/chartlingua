@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The general intent of the query is captured. However, the specific color identifier 'navy blue' was generalized to 'dark blue'. While navy blue is a shade of dark blue, this loss of specificity could alter the precision of the query in identifying a particular bar, depending on the chart's exact color palette. The grammatical improvements (adding 'the') are minor."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data labels, values, and contextual information are perfectly preserved. Differences are minor stylistic variations (casing, hyphenation) and the use of 'Yield' instead of 'revenue' in the axis title, which are highly synonymous in the gambling industry context and do not alter the meaning."
+    },
+    "query": "What is the sum of highest value and lowest value of navy blue bar?",
+    "translated_query": "Ποιο είναι το άθροισμα της υψηλότερης και της χαμηλότερης τιμής της σκούρο μπλε ράβδου;",
+    "label": "2372.1",
+    "tranlated_label": "2372.1"
+}

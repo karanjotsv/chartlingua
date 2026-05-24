@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, percentages, labels, and the source text are identical to the original. The color hues for each category are also preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart explicitly states that 'Contractor full-time equivalents' constitute 56% of the total, which is a value greater than 50%."
+    },
+    "claim": "More than 50% of the Department's workforce consists of full-time contractors.",
+    "label": "TRUE"
+}

@@ -1,0 +1,55 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "name": "ਨਿਕਾਸੀ",
+            "x": [
+                "ਨਿਕਾਸੀ"
+            ],
+            "y": [
+                526.3
+            ],
+            "text": [
+                "526.3"
+            ],
+            "error_y": {
+                "type": "data",
+                "array": [
+                    45
+                ],
+                "visible": true
+            }
+        },
+        {
+            "name": "LULUCF ਦੁਆਰਾ ਸੋਖਣਾ",
+            "x": [
+                "LULUCF ਦੁਆਰਾ ਸੋਖਣਾ"
+            ],
+            "y": [
+                -99.9
+            ],
+            "text": [
+                "-99.9"
+            ],
+            "error_y": {
+                "type": "data",
+                "array": [
+                    70
+                ],
+                "visible": true
+            }
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "2017 ਵਿੱਚ GHG ਨਿਕਾਸੀ ਅਤੇ ਸੋਖਣਾ",
+        "y_axis_title": "Mt",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B2B2B2",
+        "#74A14A"
+    ]
+}

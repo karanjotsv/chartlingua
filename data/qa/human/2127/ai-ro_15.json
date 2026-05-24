@@ -1,0 +1,73 @@
+{
+    "chart_type": "stacked_bar_100",
+    "chart_data": [
+        {
+            "name": "ASML",
+            "y": [
+                18,
+                21.6,
+                15.4
+            ]
+        },
+        {
+            "name": "Applied Materials",
+            "y": [
+                19.2,
+                19.4,
+                16.4
+            ]
+        },
+        {
+            "name": "Tokyo Electron",
+            "y": [
+                15.6,
+                14.8,
+                12.3
+            ]
+        },
+        {
+            "name": "Lam Research",
+            "y": [
+                15.4,
+                14.2,
+                10.8
+            ]
+        },
+        {
+            "name": "KLA",
+            "y": [
+                6.2,
+                6.9,
+                6.2
+            ]
+        },
+        {
+            "name": "Alții",
+            "y": [
+                25.8,
+                23.1,
+                38.8
+            ]
+        }
+    ],
+    "categories": [
+        "2018",
+        "2019",
+        "2020"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Cotă de piață",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#297ACC",
+        "#0C2D48",
+        "#B3B3B3",
+        "#9E1B21",
+        "#84B73E",
+        "#F2B736"
+    ]
+}

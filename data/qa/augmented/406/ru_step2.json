@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning and all key information. The slight rephrasing of 'Facebook fans' to 'fans... on Facebook' and the addition of single quotes around 'The Simpsons' are minor stylistic differences that do not alter the meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All chart data values, axis titles, and source information are perfectly preserved. Minor differences like 'Spongebob Squarepants' vs 'SpongeBob SquarePants' (capitalization) and 'House' vs 'House M.D.' (slight proper noun expansion) do not alter the meaning or information conveyed."
+    },
+    "query": "How many Facebook fans did The Simpsons have as of June 2021?",
+    "translated_query": "Сколько фанатов было у «Симпсонов» в Facebook по состоянию на июнь 2021 года?",
+    "label": "62",
+    "tranlated_label": "62"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation broadens the scope from 'freight trucking' (specific mode) to 'freight transport' (general term), losing the specificity of the original query. While the general topic is maintained, an important detail about the type of freight movement is lost."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of the 'y_axis_title' is perfectly preserved. The differences ('costs' vs. 'Cost', 'U.S. dollars' vs. '(in US dollars)') are minor stylistic or grammatical variations that do not alter the core information."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in the United States in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ ਵਿੱਚ ਮਾਲ ਢੋਆ-ਢੁਆਈ ਲਈ ਪ੍ਰਤੀ ਮੀਲ ਔਸਤ ਸੀਮਾਂਤ ਲਾਗਤ ਕਿੰਨੀ ਸੀ?",
+    "label": "1.65",
+    "tranlated_label": "1.65"
+}

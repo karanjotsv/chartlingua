@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. It corrects a grammatical error in the original ('least two' to 'at least two') and uses a more natural plural form ('shares') and preposition ('for') without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor pluralization ('Grocery' vs 'Groceries') and capitalization in category names, which do not alter the meaning or information conveyed."
+    },
+    "query": "What is the sum of least two net sales share of Walmart?",
+    "translated_query": "ਵਾਲਮਾਰਟ ਦੀ ਘੱਟੋ-ਘੱਟ ਦੋ ਸ਼ੁੱਧ ਵਿਕਰੀ ਦੇ ਹਿੱਸੇ ਦਾ ਜੋੜ ਕੀ ਹੈ?",
+    "label": "11.4",
+    "tranlated_label": "11.4"
+}

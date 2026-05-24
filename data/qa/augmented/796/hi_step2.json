@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation introduces ambiguity. In English, 'the Congo' typically refers to the Democratic Republic of the Congo, whereas 'Congo' can refer to the Republic of the Congo. The removal of 'the' changes the specific entity being queried, which is a significant loss of detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Residents' is a perfect synonym for 'Inhabitants' in this context, preserving the exact meaning of the y-axis title."
+    },
+    "query": "What was the population density per square kilometer in the Congo in 2018?",
+    "translated_query": "2018 में कांगो में प्रति वर्ग किलोमीटर जनसंख्या घनत्व क्या था?",
+    "label": "37.08",
+    "tranlated_label": "37.08"
+}

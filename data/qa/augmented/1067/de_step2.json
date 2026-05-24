@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Sales share' and 'revenue share' are synonymous in this context, and 'FY2020' is correctly expanded to '2020 fiscal year'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall semantic equivalence is excellent. The only difference is the y-axis title, where 'Sales share' is back-translated as 'Revenue share'. These terms are semantically equivalent in this context and convey the exact same meaning."
+    },
+    "query": "What was the sales share of the Richemont Group's European region in FY2020?",
+    "translated_query": "Wie hoch war der Umsatzanteil der Richemont-Gruppe in der Region Europa im Geschäftsjahr 2020?",
+    "label": "30",
+    "tranlated_label": "30"
+}

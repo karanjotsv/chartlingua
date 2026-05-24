@@ -1,0 +1,45 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "ਯੂਰਪ (ਕੁੱਲ)",
+            "ਪੱਛਮੀ ਯੂਰਪ",
+            "ਦੱਖਣੀ ਯੂਰਪ",
+            "ਉੱਤਰੀ ਯੂਰਪ",
+            "ਪੂਰਬੀ ਯੂਰਪ"
+        ],
+        "series": [
+            {
+                "name": "ਮਰਦ",
+                "data": [
+                    75,
+                    79,
+                    79,
+                    79,
+                    69
+                ]
+            },
+            {
+                "name": "ਔਰਤਾਂ",
+                "data": [
+                    82,
+                    84,
+                    84,
+                    84,
+                    79
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "ਸਾਲਾਂ ਵਿੱਚ ਜੀਵਨ ਸੰਭਾਵਨਾ",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2471d2",
+        "#112d42"
+    ]
+}

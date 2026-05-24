@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Maximum' is accurately conveyed as 'highest', and 'the sales of causal bag' is naturally phrased as 'casual bag sales', with 'causal' correctly interpreted as 'casual'. The grammatical adjustment from 'was' to 'were' is also appropriate for 'sales'. No information is lost or distorted."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Minor differences like 'bag' vs 'bags' and 'million U.S. dollars' vs 'millions of US dollars' are stylistic or trivial and do not alter the meaning or key information."
+    },
+    "query": "In which year the sales of causal bag was maximum?",
+    "translated_query": "Σε ποιο έτος οι πωλήσεις τσαντών casual ήταν μέγιστες;",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

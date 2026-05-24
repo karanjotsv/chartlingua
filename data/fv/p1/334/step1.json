@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, series, colors, and the order of categories. The core message is identical. The rating is 4 instead of 5 because the rendered version adds a chart title ('Suicides in prison compared to the general population') which was absent in the original, representing a minor semantic addition.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of suicides in prison in Albania is zero. However, the bar chart shows a light green bar for Albania, representing suicides in prison, which has a value of approximately 40, not zero."
+    },
+    "claim": "In Albania, the number of Suicides in prison is zero compared to the general population.",
+    "label": true
+}

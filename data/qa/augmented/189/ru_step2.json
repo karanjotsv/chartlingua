@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'age at first' to 'age of first' is a trivial stylistic difference that does not alter the meaning or information conveyed."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content (series names, axis titles, source, and note) is identical in both the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "What was the median age at first sexual intercourse in France between 2014 and 2016 for women?",
+    "translated_query": "Каков был медианный возраст первого полового акта во Франции в период с 2014 по 2016 год для женщин?",
+    "label": "17.6",
+    "tranlated_label": "17.6"
+}

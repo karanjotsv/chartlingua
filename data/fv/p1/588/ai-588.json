@@ -1,0 +1,76 @@
+{
+    "chart_type": "grouped_bar_with_errors",
+    "chart_data": {
+        "categories": [
+            "someone",
+            "everyone",
+            "strict"
+        ],
+        "series": [
+            {
+                "name": "1X",
+                "y": [
+                    0.63,
+                    0.46,
+                    0.36
+                ],
+                "error_y": {
+                    "type": "data",
+                    "array": [
+                        0.03,
+                        0.03,
+                        0.03
+                    ],
+                    "visible": true
+                }
+            },
+            {
+                "name": "1A",
+                "y": [
+                    0.58,
+                    0.39,
+                    0.335
+                ],
+                "error_y": {
+                    "type": "data",
+                    "array": [
+                        0.03,
+                        0.03,
+                        0.025
+                    ],
+                    "visible": true
+                }
+            },
+            {
+                "name": "1E",
+                "y": [
+                    0.55,
+                    0.4,
+                    0.335
+                ],
+                "error_y": {
+                    "type": "data",
+                    "array": [
+                        0.03,
+                        0.03,
+                        0.025
+                    ],
+                    "visible": true
+                }
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Aggregation strategy",
+        "y_axis_title": "Proportion of useful feedback",
+        "legend_title": "experiment",
+        "source": null
+    },
+    "colors": [
+        "#86ef86",
+        "#4ecd4e",
+        "#19ad19"
+    ]
+}

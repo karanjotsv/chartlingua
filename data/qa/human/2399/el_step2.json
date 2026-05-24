@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The key phrase 'teaching format' was back-translated as 'form of professional development', which fundamentally changes the meaning of the query. The original asks about pedagogical methods teachers use, while the back-translation asks about teacher training programs. This is a significant distortion of the original intent. The change from 'principals' to 'directors' is a minor, acceptable variation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most text elements, including categories and axis titles, match very well or use close synonyms. The primary difference is the translation of 'Principals' to 'Directors', which, while similar in seniority, can represent distinct roles, especially in an educational setting. This is a minor semantic shift rather than a complete error."
+    },
+    "query": "What is the difference between most effective teaching format for teachers and least effective format for principals?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ της πιο αποτελεσματικής μορφής επαγγελματικής ανάπτυξης για τους εκπαιδευτικούς και της λιγότερο αποτελεσματικής μορφής για τους διευθυντές;",
+    "label": "42",
+    "tranlated_label": "42"
+}

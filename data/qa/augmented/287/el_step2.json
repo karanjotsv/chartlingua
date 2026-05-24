@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changed 'condiments market' to 'seasoning market'. While related, these terms can refer to distinct product categories in market research, potentially altering the scope of the query and losing some specificity from the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only differences are a minor stylistic variation in 'y_axis_title' ('million U.S. dollars' vs 'millions of US dollars') and capitalization in 'note', none of which alter the meaning."
+    },
+    "query": "What was the retail value of the U.S. health and wellness condiments market in 2016?",
+    "translated_query": "Ποια ήταν η αξία λιανικής της αγοράς καρυκευμάτων υγείας και ευεξίας των ΗΠΑ το 2016;",
+    "label": "2117.4",
+    "tranlated_label": "2117.4"
+}

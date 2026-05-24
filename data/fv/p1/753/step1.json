@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values and slice proportions are numerically and visually correct. However, there is a significant semantic error where the data for the 'Marshmallow' and 'Nougat' categories have been swapped. In the original, Nougat is the largest slice (32.3%) and Marshmallow is 13.5%, while in the rendered chart, these labels are reversed.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Jelly Bean had the minimum usage. However, the chart shows two other categories, Gingerbread and Ice Cream Sandwich, which have visibly smaller segments than Jelly Bean's 7.6% share, indicating they have lower usage."
+    },
+    "claim": "The Android version that had the minimum usage was Jelly Bean.",
+    "label": false
+}

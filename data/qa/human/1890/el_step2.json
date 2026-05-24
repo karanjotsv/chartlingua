@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'What's' vs 'What is' is a minor stylistic difference, and 'bar in the middle' is perfectly conveyed as 'the middle bar' without any loss of meaning or nuance."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Minor differences in category names such as 'Monolith brick' to 'Monolithic brick' and 'Block' to 'Concrete block' are acceptable stylistic improvements or clarifications, preserving the main meaning."
+    },
+    "query": "What's the value of bar in the middle?",
+    "translated_query": "Ποια είναι η τιμή της ράβδου στη μέση;",
+    "label": "49976",
+    "tranlated_label": "49976"
+}

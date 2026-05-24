@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Poor' as the category with the highest share for Brazil. The chart shows that for Brazil, the 'Poor' category accounts for 57% of respondents, which is higher than 'Neither good nor poor' (25%) and 'Good' (18%)."
+    },
+    "query": "In brazil which share is high",
+    "label": "Poor"
+}

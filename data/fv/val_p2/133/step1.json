@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, trends, categories, and color-coding as the original. The addition of a title is an enhancement that accurately describes the content, and the extended x-axis does not alter the data representation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three line graphs, with the blue line representing 'Germany' and the green line representing the 'World'. Across the entire time period shown, the blue line is consistently positioned at a higher value on the y-axis than the green line, indicating that Germany's energy demand per capita is indeed higher than the world average."
+    },
+    "claim": "Germany's energy demand per capita is higher than the world average.",
+    "label": "TRUE"
+}

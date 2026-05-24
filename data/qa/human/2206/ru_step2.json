@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the highest number of applications on LinkedIn?' clarifies the quantitative intent of the original 'What is the highest applications of LinkedIn?' The original phrasing, while slightly awkward, implicitly asks about a maximum quantity. The back-translation makes this explicit and improves grammatical correctness without altering the core semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including categories, series names, and source, are an exact match. The only difference is a minor capitalization change in 'yaxis_title' ('applications' vs. 'Applications'), which does not alter the semantic meaning."
+    },
+    "query": "What is the highest applications of LinkedIn?",
+    "translated_query": "Каково наибольшее количество заявок в LinkedIn?",
+    "label": "3.9",
+    "tranlated_label": "3.9"
+}

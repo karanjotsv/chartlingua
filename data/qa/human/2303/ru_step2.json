@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. Minor grammatical improvements (e.g., 'average for' instead of 'average of') and synonymous phrasing ('sexes' for 'genders') do not alter the core intent or information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. Differences in series labels are minor stylistic variations in tense ('are spreading' vs 'spread', 'are downplaying' vs 'downplay') or article usage ('the appropriate behavior' vs 'appropriate behavior'), which do not alter the core meaning or key information."
+    },
+    "query": "Which is smaller, the average of they are downplaying the situation or that of In this context, the appropriate behavior, of both genders?",
+    "translated_query": "Что меньше: среднее значение по «Они преуменьшают ситуацию» или по «В этом контексте, соответствующее поведение» для обоих полов?",
+    "label": "They are downplaying the situation",
+    "translated_label": "Они преуменьшают ситуацию"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values (89.2%, 5.5%, 5.3%), labels, title, and legend categories are identical. The color hues for each category are also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that coal is the largest source of electricity generation, but the pie chart shows that natural gas is the largest source at 89.2%, while coal only accounts for 5.5%."
+    },
+    "claim": "Coal makes up the largest source of electricity generation in Delaware.",
+    "label": false
+}

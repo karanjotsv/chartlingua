@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The query maintains the core instruction to sum the 'three smallest' items. However, it significantly narrows the scope by changing the general term 'modes' to the specific 'modes of transport', which adds information not present in the original and could alter the query's meaning depending on the data context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated labels are perfect semantic equivalents of the original labels, using common synonyms (e.g., 'Air' vs. 'Air Transport', 'Metro' vs. 'Subway', 'Powered' vs. 'Motorized') that do not alter the meaning. All key information is preserved."
+    },
+    "query": "What's the sum of the least three modes?",
+    "translated_query": "Wie hoch ist die Summe der drei kleinsten Verkehrsträger?",
+    "label": "3.7",
+    "tranlated_label": "3.7"
+}

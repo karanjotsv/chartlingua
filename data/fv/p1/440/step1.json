@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, text, and color-to-category mappings as the original. The overall message is identical.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data labels for the smaller slices (1%, 2.3%, 2.4%) are crowded, and the leader line for the '1%' label overlaps and cuts through the '2.4%' label, making it difficult to read."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that solar energy was the largest source of power, but the pie chart clearly shows that solar energy accounted for only 1% of electricity generation, making it the smallest named source. The largest source shown is natural gas at 48.8%."
+    },
+    "claim": "Solar energy made up the largest source of power in Connecticut.",
+    "label": false
+}

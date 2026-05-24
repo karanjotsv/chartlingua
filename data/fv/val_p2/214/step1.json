@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, categories, and text elements (including the title) are accurately reproduced. The overall message and data proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart clearly shows that the bar for 'Domestic Services' is taller than the bar for 'Police', indicating that a greater number of people worked in Domestic Services (approximately 19) compared to Police (approximately 3)."
+    },
+    "claim": "In 1881, more people worked in Domestic Services than Police in Preston-next-Wingham.",
+    "label": "TRUE"
+}

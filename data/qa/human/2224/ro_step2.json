@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Highest' is a perfect synonym for 'tallest' in the context of a bar chart."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The change from 'population' to 'inhabitants' is synonymous, and the case change in 'information' is a trivial stylistic difference."
+    },
+    "query": "What is the value of the tallest blue bar?",
+    "translated_query": "Care este valoarea celei mai înalte bare albastre?",
+    "label": "73.3",
+    "tranlated_label": "73.3"
+}

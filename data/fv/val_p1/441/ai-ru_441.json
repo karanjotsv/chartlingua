@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "природный газ",
+            "value": 48.8
+        },
+        {
+            "category": "атомная энергия",
+            "value": 45.5
+        },
+        {
+            "category": "биомасса",
+            "value": 2.4
+        },
+        {
+            "category": "солнечная энергия",
+            "value": 1.0
+        },
+        {
+            "category": "другое",
+            "value": 2.3
+        }
+    ],
+    "texts": {
+        "title": "Источники производства электроэнергии<br>Коннектикут - 2016",
+        "subtitle": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#85c5d3",
+        "#d4b243",
+        "#369568",
+        "#fde942",
+        "#a044b2"
+    ],
+    "paper_bgcolor": "#EBEBF8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, labels, titles, and color hues are identical to the original.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The data labels for the two smallest slices (2.6% and 1.4%) overlap, which impedes readability."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that coal is the source for 47.1% of electricity generation, which is the largest percentage among all the sources shown, making it the primary source."
+    },
+    "claim": "Coal is the primary source of electricity in Ohio.",
+    "label": true
+}

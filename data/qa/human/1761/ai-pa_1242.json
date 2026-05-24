@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "ਫੌਜ",
+            "values": [
+                37,
+                52
+            ]
+        },
+        {
+            "category": "ਪੁਲਿਸ",
+            "values": [
+                44,
+                46
+            ]
+        },
+        {
+            "category": "ਰਾਸ਼ਟਰੀ ਸਰਕਾਰ",
+            "values": [
+                48,
+                45
+            ]
+        },
+        {
+            "category": "ਧਾਰਮਿਕ ਆਗੂ",
+            "values": [
+                41,
+                41
+            ]
+        },
+        {
+            "category": "ਅਦਾਲਤੀ ਪ੍ਰਣਾਲੀ",
+            "values": [
+                48,
+                41
+            ]
+        },
+        {
+            "category": "ਮੀਡੀਆ",
+            "values": [
+                51,
+                38
+            ]
+        }
+    ],
+    "texts": {
+        "title": "ਫੌਜ ਪ੍ਰਤੀ ਸਕਾਰਾਤਮਕ,<br>ਮੀਡੀਆ ਪ੍ਰਤੀ ਨਕਾਰਾਤਮਕ ਵਿਚਾਰ",
+        "subtitle": "<i>ਤੁਰਕੀ ਵਿੱਚ ਚੱਲ ਰਹੇ ਕੰਮਾਂ 'ਤੇ (ਇਹ) ___ ਕਿਸ ਤਰ੍ਹਾਂ ਦਾ ਪ੍ਰਭਾਵ ਪਾ ਰਿਹਾ/ਰਹੀ ਹੈ?</i>",
+        "source": "ਸਰੋਤ: Spring 2015 Global Attitudes survey, Q79a-f.",
+        "note": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "ਬੁਰਾ",
+            "ਚੰਗਾ"
+        ],
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "series_colors": [
+            "#EDA43C",
+            "#85A34B"
+        ]
+    }
+}

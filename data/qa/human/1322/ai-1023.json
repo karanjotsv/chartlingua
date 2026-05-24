@@ -1,0 +1,128 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "y_labels": [
+            1979,
+            1984,
+            1989,
+            1994,
+            1999,
+            2004,
+            2009,
+            2014
+        ],
+        "series": [
+            {
+                "name": "Left-wing<br>to far left",
+                "values": [
+                    12,
+                    10,
+                    8,
+                    5,
+                    7,
+                    6,
+                    5,
+                    7
+                ]
+            },
+            {
+                "name": "Center-left",
+                "values": [
+                    27,
+                    30,
+                    35,
+                    35,
+                    29,
+                    28,
+                    25,
+                    25
+                ]
+            },
+            {
+                "name": "Centrist",
+                "values": [
+                    11,
+                    7,
+                    10,
+                    11,
+                    9,
+                    13,
+                    12,
+                    9
+                ]
+            },
+            {
+                "name": "Center-right",
+                "values": [
+                    42,
+                    37,
+                    30,
+                    30,
+                    37,
+                    37,
+                    36,
+                    29
+                ]
+            },
+            {
+                "name": "Right-wing<br>to far right",
+                "values": [
+                    7,
+                    11,
+                    9,
+                    14,
+                    9,
+                    11,
+                    15,
+                    20
+                ]
+            },
+            {
+                "name": "Green or regionalist",
+                "values": [
+                    1,
+                    5,
+                    8,
+                    5,
+                    8,
+                    6,
+                    7,
+                    7
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Can the European Parliament's center hold?",
+        "subtitle": "Share of members of the European Parliament belonging to<br>parties or political groups",
+        "note_source": "Note: Figures are as of each parliament's initial organizing session following<br>EU-wide elections. Off-year results not shown. Two national parties represented in<br>the current European Parliament (Italy's Five Star Movement and a German<br>satirical party) have platforms that are too heterogeneous to categorize; they were<br>not included in the 2014 figures above.<br>Source: Pew Research Center analysis of European Parliament election data.<br><br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "bar_colors": [
+            "#93a84b",
+            "#b8ca89",
+            "#817387",
+            "#4b88b7",
+            "#00639e",
+            "#adaca9"
+        ],
+        "text_colors_inside_bar": [
+            "black",
+            "black",
+            "white",
+            "white",
+            "white",
+            "black"
+        ],
+        "legend_text_colors": [
+            "#7b8c3f",
+            "#a4b574",
+            "#6c6172",
+            "#42769d",
+            "#00578a",
+            "#8e8d8b"
+        ]
+    }
+}

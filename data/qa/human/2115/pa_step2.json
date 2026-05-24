@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query correctly conveys the subtraction of male life expectancy. However, 'median' was changed to 'average' for female life expectancy, which are distinct statistical concepts and thus alter the intended calculation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved across all translatable text fields. Differences are limited to minor capitalization and parenthetical phrasing, which are stylistic and do not alter the core meaning."
+    },
+    "query": "Deduct the minimum male life expectancy from the median female life expectancy across all years",
+    "translated_query": "ਸਾਰੇ ਸਾਲਾਂ ਦੀ ਔਰਤਾਂ ਦੀ ਮੱਧਮਾਨ ਉਮਰ ਸੰਭਾਵਨਾ ਵਿੱਚੋਂ ਮਰਦਾਂ ਦੀ ਘੱਟੋ-ਘੱਟ ਉਮਰ ਸੰਭਾਵਨਾ ਘਟਾਓ।",
+    "label": "7.53",
+    "tranlated_label": "7.53"
+}

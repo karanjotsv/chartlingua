@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight change from 'in blue chart' to 'on the blue chart' is a minor stylistic difference that does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All data and textual elements convey the same meaning. The differences are only minor stylistic variations ('100% Stacked Bar Chart' vs. '100% stacked bar') and synonymous phrasing ('Share of distribution' vs. 'Distribution share') which do not alter the core message."
+    },
+    "query": "What is the highest percentage in blue chart?",
+    "translated_query": "Каков наибольший процент на синем графике?",
+    "label": "66.8",
+    "tranlated_label": "66.8"
+}

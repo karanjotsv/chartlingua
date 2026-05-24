@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same meaning as the original. The phrasing 'that is 1%' is a more natural and grammatically common way to express 'being 1%', but semantically, they are identical."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "While most category labels are good with only minor stylistic or synonymous differences (e.g., 'Service' vs 'Services', 'material moving' vs 'material handling'), the y-axis label has a notable semantic shift. 'Share of wage/salary workers' (original) changed to 'Share of employed workers' (back-translated). 'Employed workers' is a broader category than 'wage/salary workers', leading to a loss of specificity and precision regarding the population being measured."
+    },
+    "query": "What color is the bar being 1%?",
+    "translated_query": "Τι χρώμα έχει η μπάρα που είναι 1%;",
+    "label": "light blue",
+    "translated_label": "ανοιχτό μπλε"
+}

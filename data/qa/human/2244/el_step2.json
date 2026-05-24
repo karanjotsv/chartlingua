@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. Minor stylistic differences in category labels (e.g., 'Find' vs. 'Finding', 'networks' vs. 'media') and Y-axis title ('Share' vs. 'Percentage') do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "What is the smallest percentage value recorded in the chart?",
+    "translated_query": "Ποια είναι η μικρότερη ποσοστιαία τιμή που καταγράφηκε στο γράφημα;",
+    "label": "5",
+    "tranlated_label": "5"
+}

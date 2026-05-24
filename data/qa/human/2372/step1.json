@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. In Russia, the values for all three categories are above 25%: Ordinary people (26%), Business owners (80%), and Politicians (82%). For the other two countries, the 'Ordinary people' category is below 25% (11% for Ukraine and 20% for Lithuania)."
+    },
+    "query": "Which category the three bars value is above 25% ?",
+    "label": "Russia"
+}

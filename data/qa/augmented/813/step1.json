@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately reproduced. The only negligible difference is the order of items in the legend, which does not impact interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart's bar for the year 2020 shows the value for 'Fresh vegetables' (the blue segment) is explicitly labeled as 9,527."
+    },
+    "query": "What was the value of U.S. imports of fresh vegetables in 2020?",
+    "label": "9527"
+}

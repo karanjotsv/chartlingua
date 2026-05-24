@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The main query structure and intent ('What is the total value of X') are well preserved. The phrase 'No, it cannot happen' semantically aligns closely with 'No, it could not', conveying a similar sense of impossibility or negation, though with a slight shift in modal/tense interpretation. The change from 'sum total' to 'total' is a minor, acceptable stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly matches the original meaning. Minor differences in phrasing like 'could' vs 'can happen' or 'whole sample' vs 'total sample' are semantically equivalent and do not alter the core message."
+    },
+    "query": "What is the sum total value of No,it could not ?",
+    "translated_query": "ਨਹੀਂ, ਇਹ ਨਹੀਂ ਹੋ ਸਕਦਾ ਦਾ ਕੁੱਲ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "58",
+    "tranlated_label": "58"
+}

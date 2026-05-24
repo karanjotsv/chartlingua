@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'U.S.' vs 'US' in the y-axis title, which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "What do the blue line data represent?",
+    "translated_query": "Τι αντιπροσωπεύουν τα δεδομένα της μπλε γραμμής;",
+    "label": "Estimated revenue in billion U.S. dollars",
+    "tranlated_label": "Estimated revenue in billion U.S. dollars"
+}

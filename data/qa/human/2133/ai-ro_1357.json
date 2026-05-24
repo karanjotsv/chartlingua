@@ -1,0 +1,48 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Toți respondenții",
+            "Democrați",
+            "Republicani"
+        ],
+        "series": [
+            {
+                "name": "Da",
+                "data": [
+                    41,
+                    65,
+                    24
+                ]
+            },
+            {
+                "name": "Nu",
+                "data": [
+                    34,
+                    17,
+                    54
+                ]
+            },
+            {
+                "name": "Indecis",
+                "data": [
+                    25,
+                    19,
+                    22
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Ponderea respondenților",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#267DCE",
+        "#123247",
+        "#BDBDBD"
+    ]
+}

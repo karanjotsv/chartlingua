@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, proportions, and the overall message. The main differences are stylistic: the original uses country flags for slices while the rendered uses solid colors, and the order of the slices is reversed. These changes do not alter the core interpretation of the data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the United States has the largest share of the world's economy at 24.3%, while China's share is 14.8%. Therefore, the claim that China has the largest share is incorrect."
+    },
+    "claim": "China has the largest share of the world's economy among the countries shown in the chart.",
+    "label": "FALSE"
+}

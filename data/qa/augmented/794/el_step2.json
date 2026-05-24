@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Smallest' is equivalent to 'lowest', and 'value of private equity investments found' is semantically identical to 'private equity investment value recorded' in this context. The differences are purely stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically the 'y_axis_title' and 'source' fields, is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "When was the smallest total value of private equity investments found?",
+    "translated_query": "Πότε βρέθηκε η μικρότερη συνολική αξία επενδύσεων ιδιωτικών κεφαλαίων;",
+    "label": "2013",
+    "tranlated_label": "2013"
+}

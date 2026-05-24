@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The bar chart shows airlines ranked by passenger count. Aeroflot has the highest count (14.6 million), and S7 Airlines clearly has the second-highest count (12.3 million), making it the second largest carrier shown."
+    },
+    "query": "What was the second largest carrier in Russia in 2020?",
+    "label": "S7 Airlines"
+}

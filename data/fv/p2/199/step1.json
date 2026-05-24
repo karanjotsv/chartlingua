@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The chart type, title, category labels, data values, and color hue are all consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that more people dislike the color of the logo than people who do not understand its meaning. The chart contradicts this, showing that 2 people disliked the color, while 5 people did not understand the meaning."
+    },
+    "claim": "More people of community people do not like the color of the logo than people who do not understand the meaning of the logo",
+    "label": "FALSE"
+}

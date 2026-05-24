@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. While it captures the main trend (Agricultural Labourers being the largest category), it has several significant data errors. The original chart has 7 bars, while the rendered chart only has 6, omitting one data point entirely. Furthermore, the value for 'Capitalists, Professionals' is incorrect (rendered as 5, but is ~6 in the original). The order of the last few bars is also changed, and the color for 'Capitalists, Professionals' has changed hue from light blue to purple.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies a location, 'LOWESBY', but the chart provides no geographical information. The data is only categorized by 'Occupation' for an unspecified population, so it cannot be used to support a claim about a specific place."
+    },
+    "claim": "THERE ARE SOME PEOPLE IN LOWESBY WHO WORK IN SALES AND SERVICE OCCUPATION",
+    "label": "FALSE"
+}

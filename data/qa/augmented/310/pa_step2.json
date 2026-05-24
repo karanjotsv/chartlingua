@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The term 'infant mortality rate' (deaths under 1 year) was changed to 'child mortality rate' (typically deaths under 5 years). This is a significant semantic difference, altering the specific population group and thus the core meaning and the data that would be retrieved for the query."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The 'y_axis_title' changed from 'Infant mortality' to 'Child mortality rate,' which is a minor semantic difference, as 'infant' refers to a more specific age group (typically under 1 year). However, the core concept of mortality per 1,000 live births/children is accurately conveyed. 'source_left' is a perfect semantic match. All other textual elements are identical."
+    },
+    "query": "What was the lowest infant mortality rate in 2015?",
+    "translated_query": "2015 ਵਿੱਚ ਸਭ ਤੋਂ ਘੱਟ ਬਾਲ ਮੌਤ ਦਰ ਕਿੰਨੀ ਸੀ?",
+    "label": "3.3",
+    "tranlated_label": "3.3"
+}

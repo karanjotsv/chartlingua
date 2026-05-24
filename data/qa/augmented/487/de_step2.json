@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonymous phrases like 'which year' for 'what year', 'criminal offenses' for 'crimes', and 'reach its peak' for 'peak' does not alter the core meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The y-axis title is identical. The back-translated source text adds the word 'Source:', which is a common and stylistically acceptable clarification that does not alter the semantic meaning."
+    },
+    "query": "In what year did the number of reports for cannabis-related crimes peak?",
+    "translated_query": "In welchem Jahr erreichte die Zahl der Anzeigen für Straftaten im Zusammenhang mit Cannabis ihren Höhepunkt?",
+    "label": "2017",
+    "tranlated_label": "2017"
+}

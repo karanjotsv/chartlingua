@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, subtitles, and source information are identical. The overall message and visual structure are fully preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart shows that Nuclear energy has a support level of 38%, which is the lowest among all the energy sources listed, not the second-highest. The second-highest support is for Wind energy at 93%."
+    },
+    "claim": "Nuclear energy has the second-highest public support among all energy sources in the poll.",
+    "label": "FALSE"
+}

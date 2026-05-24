@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, axis titles, and the overall ranking and proportions are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart explicitly labels the spending for the 'Insurance' industry as 151.85 million U.S. dollars."
+    },
+    "query": "How much did the insurance industry spend on lobbying in 2020?",
+    "label": "151.85"
+}

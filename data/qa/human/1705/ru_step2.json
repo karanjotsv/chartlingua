@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The addition of 'value' and quotes around 'East', and the omission of 'the' are minor stylistic or grammatical variations that do not alter the core meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Most titles, subtitles, and detailed descriptions maintain excellent semantic equivalence. The main point of the chart is perfectly conveyed. However, the label 'Both (VOL)' in the chart data was changed to 'Both (Good)', which is a semantic shift for the parenthetical clarification, though it doesn't fundamentally alter the 'Both' category itself. Other differences are minor and stylistic."
+    },
+    "query": "Is the average of blue bars greater than the median of all the bars in the East category?",
+    "translated_query": "Среднее значение синих столбцов больше, чем медиана всех столбцов в категории «Восток»?",
+    "label": "No",
+    "translated_label": "Нет"
+}

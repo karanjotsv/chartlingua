@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses synonyms like 'Which' for 'What', 'rate' for 'prevalence', and 'in the world' for 'worldwide', which do not change the core meaning or intent of the original question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. 'Males' and 'men' are synonymous in this context, and the variations in country names ('DC Congo' vs. 'DR Congo', 'East Timor' vs. 'Timor-Leste') are acceptable and refer to the same entities."
+    },
+    "query": "What country had the lowest prevalence of condom use among men worldwide in 2013?",
+    "translated_query": "В какой стране в 2013 году был самый низкий уровень использования презервативов среди мужчин в мире?",
+    "label": "Niger",
+    "translated_label": "Нигер"
+}

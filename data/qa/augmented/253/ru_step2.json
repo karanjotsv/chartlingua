@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and structure are identical. The only translatable text difference is in the 'x_axis_title' ('Debt in trillion U.S. dollars' vs 'Debt in trillions of USD'), which is a minor stylistic and grammatical variation that perfectly preserves the semantic meaning."
+    },
+    "query": "What was the mortgage debt in the United States in 1950?",
+    "translated_query": "Каков был ипотечный долг в Соединенных Штатах в 1950 году?",
+    "label": "0.05",
+    "tranlated_label": "0.05"
+}

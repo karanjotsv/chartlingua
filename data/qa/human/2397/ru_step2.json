@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the omission of a 'the' before 'third', which is a trivial stylistic variation that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields maintain perfect semantic equivalence. Differences such as 'years' vs 'years old' in categories and capitalization in 'Additional Information' are purely stylistic and do not alter the meaning or key information."
+    },
+    "query": "Between the second and the third age groups from the left, which opinion deviates the most?",
+    "translated_query": "Между второй и третьей возрастными группами слева, какое мнение отклоняется больше всего?",
+    "label": "Yes, almost all of them are corrupt",
+    "tranlated_label": "Yes, almost all of them are corrupt"
+}

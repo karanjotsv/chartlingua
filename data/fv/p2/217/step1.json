@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, colors, and the overall title are consistent with the original. The rendered chart correctly calculates and displays the value for the purple slice (11.3%), which was unlabelled in the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the 'Awards Event' accounts for 53.8% of the expenditure and 'Provincial Upload Marathons' accounts for 11.3%. The difference between these two values is 42.5% (53.8 - 11.3), which contradicts the claim's value of 34.7%."
+    },
+    "claim": "The difference between Provincial Upload Marathons and Awards Event is 34.7%.",
+    "label": "TRUE"
+}

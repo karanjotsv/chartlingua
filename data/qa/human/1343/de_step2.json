@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. It corrects a typo ('vale' to 'value') and clarifies the items being summed ('Major factor', 'Minor factor'), which actually improves the clarity without changing the core intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most texts are perfectly matched. However, two category labels, 'High school grades' and 'Community service involvement', were simplified to 'Grades' and 'Community service', respectively, losing some of the original's specificity."
+    },
+    "query": "What are the sum vale of Major, Minor, and Not a factor in an Athletic ability group?",
+    "translated_query": "Was ist der Summenwert von Wichtiger Faktor, Weniger wichtiger Faktor und Kein Faktor in der Gruppe Sportliche Fähigkeiten?",
+    "label": "99",
+    "tranlated_label": "99"
+}

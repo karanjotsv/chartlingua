@@ -1,0 +1,183 @@
+{
+    "chart_type": "conceptual_diagram",
+    "chart_data": {
+        "series": [
+            {
+                "name": "Grassland",
+                "line_color": "#FF0000",
+                "fill_pattern": {
+                    "shape": "|",
+                    "fgcolor": "rgba(100, 100, 100, 0.9)",
+                    "solidity": 0.25
+                },
+                "boundary_points": {
+                    "pre_fire": {
+                        "x": [
+                            -20,
+                            0
+                        ],
+                        "y": [
+                            20,
+                            20
+                        ]
+                    },
+                    "post_fire": {
+                        "x": [
+                            0.01,
+                            20,
+                            40,
+                            60,
+                            80,
+                            100,
+                            110
+                        ],
+                        "y": [
+                            0,
+                            10,
+                            18,
+                            22,
+                            25,
+                            27,
+                            28
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "shrubland",
+                "line_color": "#0000FF",
+                "fill_pattern": {
+                    "shape": "x",
+                    "fgcolor": "rgba(120, 120, 120, 0.9)",
+                    "solidity": 0.2
+                },
+                "boundary_points": {
+                    "pre_fire": {
+                        "x": [
+                            -20,
+                            0
+                        ],
+                        "y": [
+                            50,
+                            50
+                        ]
+                    },
+                    "post_fire": {
+                        "x": [
+                            0.01,
+                            20,
+                            40,
+                            60,
+                            80,
+                            100,
+                            110
+                        ],
+                        "y": [
+                            0,
+                            15,
+                            30,
+                            45,
+                            55,
+                            60,
+                            62
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "Tree",
+                "line_color": "#009900",
+                "fill_pattern": {
+                    "shape": ".",
+                    "fgcolor": "rgba(60, 60, 60, 1)",
+                    "solidity": 0.2
+                },
+                "boundary_points": {
+                    "pre_fire": {
+                        "x": [
+                            -20,
+                            0
+                        ],
+                        "y": [
+                            80,
+                            80
+                        ]
+                    },
+                    "post_fire": {
+                        "x": [
+                            0.01,
+                            20,
+                            40,
+                            60,
+                            80,
+                            100,
+                            110
+                        ],
+                        "y": [
+                            0,
+                            10,
+                            40,
+                            65,
+                            85,
+                            95,
+                            95
+                        ]
+                    }
+                }
+            }
+        ],
+        "y_axis_line": {
+            "x": -20,
+            "y_range": [
+                0,
+                105
+            ]
+        },
+        "vertical_line_at_zero": {
+            "x": 0,
+            "y_range": [
+                0,
+                80
+            ]
+        },
+        "fire_event": {
+            "x": -8,
+            "y": 88,
+            "text": "🔥",
+            "size": 30,
+            "color": "#A52A2A"
+        },
+        "legend_items": [
+            {
+                "name": "Grassland",
+                "pattern": {
+                    "symbol": "line-ns-open",
+                    "color": "#aaaaaa",
+                    "size": 15
+                }
+            },
+            {
+                "name": "shrubland",
+                "pattern": {
+                    "symbol": "cross-thin-open",
+                    "color": "#888888",
+                    "size": 15
+                }
+            },
+            {
+                "name": "Tree",
+                "pattern": {
+                    "symbol": "circle",
+                    "color": "#333333",
+                    "size": 8
+                }
+            }
+        ]
+    },
+    "texts": {
+        "title": "Fire Ecology",
+        "legend_title": "Legend",
+        "xaxis_title": "yr",
+        "yaxis_title": null
+    }
+}

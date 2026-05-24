@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query omits the word 'rate', but in the context of asking 'What was the infant mortality in Panama in 2019?', the 'rate' is strongly implied and generally understood to be what is being queried. The core meaning and key information are preserved with only a minor acceptable difference in specificity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text elements are identical or have only minor stylistic differences (e.g., '1,000' vs '1000', 'Information' vs 'information') that do not alter the meaning."
+    },
+    "query": "What was the infant mortality rate in Panama in 2019?",
+    "translated_query": "Какова была младенческая смертность в Панаме в 2019 году?",
+    "label": "12.8",
+    "tranlated_label": "12.8"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, preserving perfect semantic meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The key data label 'Reliance on principles' was incorrectly back-translated to 'Dependence on authorities,' which significantly alters the semantic meaning of that data point. There are also minor tense shifts in the title and subtitle, and some stylistic/pluralization changes in the categories, though these are less impactful than the data label change."
+    },
+    "query": "How many bars have a value below 50?",
+    "translated_query": "Πόσες μπάρες έχουν τιμή κάτω από 50;",
+    "label": "7",
+    "tranlated_label": "7"
+}

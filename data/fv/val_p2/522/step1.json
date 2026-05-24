@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, category labels, color hues, proportions, and the chart title are all consistent with the original. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data about 'Daily tobacco use' and its categories relate to smoking and snus. The claim, however, is about 'Oak Savanna' and 'native vegetation', subjects which are not mentioned or represented in the chart at all."
+    },
+    "claim": "Oak Savanna is the smallest represented part of the native vegetation.",
+    "label": "FALSE"
+}

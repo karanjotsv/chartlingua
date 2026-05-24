@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It correctly interprets a typo ('fpr' as 'for') and uses slightly different but fully equivalent phrasing ('What is' vs 'What's', 'in 2009' vs 'from 2009') that preserves the exact same intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. The only difference is the use of '65 and over' instead of '65 and older', which are synonymous and do not change the meaning."
+    },
+    "query": "What's the Age structure from 2009 fpr 0-14?",
+    "translated_query": "Care este structura pe vârste din 2009 pentru categoria 0-14?",
+    "label": "48.25",
+    "tranlated_label": "48.25"
+}

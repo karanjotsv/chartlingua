@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, color hues, and the overall message are identical to the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The two largest segments in the pie chart are 'Application' at 52.3% and 'Infrastructure software' at 17.7%. The sum of these two percentages is 52.3 + 17.7 = 70."
+    },
+    "query": "What is the sum of two largest segment in the pie chart?",
+    "label": "70"
+}

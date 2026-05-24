@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title, source_text, note_left, note_right) maintains perfect semantic equivalence. The only difference is a minor capitalization change in 'note_right' ('source' vs 'Source'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "How many Mercedes-Benz cars were registered in Poland in 2011?",
+    "translated_query": "2011 ਵਿੱਚ ਪੋਲੈਂਡ ਵਿੱਚ ਕਿੰਨੀਆਂ ਮਰਸੀਡੀਜ਼-ਬੈਂਜ਼ ਕਾਰਾਂ ਰਜਿਸਟਰ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ?",
+    "label": "4863",
+    "tranlated_label": "4863"
+}

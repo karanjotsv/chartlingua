@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, percentages, categories, titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on different printing methods used by a 'Chapter'. The claim discusses languages spoken in Ethiopia, a topic not mentioned or represented anywhere in the chart's title, axes, or data points."
+    },
+    "claim": "in this chart Oromo is the most wide spoken language in Ethiopia.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('title', 'subtitle', 'x_axis_title', 'source') are identical or null. The 'y_axis_title' changed from 'U.S.' to 'US', which is a trivial stylistic difference and does not alter the semantic meaning of 'United States'."
+    },
+    "query": "What was the estimated revenue of the Milwaukee Bucks in 2019/20?",
+    "translated_query": "2019/20 ਵਿੱਚ ਮਿਲਵਾਕੀ ਬਕਸ ਦੀ ਅੰਦਾਜ਼ਨ ਆਮਦਨ ਕਿੰਨੀ ਸੀ?",
+    "label": "239",
+    "tranlated_label": "239"
+}

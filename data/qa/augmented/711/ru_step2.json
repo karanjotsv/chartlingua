@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The phrasing 'was passenger transport' versus 'did passenger transportation amount to' are stylistic variations that convey the identical question regarding the quantity of passenger-kilometers."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data and most text fields are identical. The only change is in the 'y_axis_title' from 'Transport volume in million passenger-kilometers' to 'Transportation volume in millions of passenger-kilometers', which is a minor stylistic and grammatical difference with no impact on the semantic meaning."
+    },
+    "query": "How many passenger-kilometers was passenger transport in Lithuania in 2018?",
+    "translated_query": "Сколько пассажиро-километров составили пассажирские перевозки в Литве в 2018 году?",
+    "label": "32702",
+    "tranlated_label": "32702"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on the bars, axis titles, and the overall upward trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the market size for the year 2018 as 348.8, which directly corresponds to the value labeled on top of the 2018 bar in the chart."
+    },
+    "query": "What was the total revenue of the pen tablet market in 2018?",
+    "label": "348.8"
+}

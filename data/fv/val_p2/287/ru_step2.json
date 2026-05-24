@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly retains the meaning of the original. 'Is equal to' and 'is' are semantically identical when stating a numerical value in this context, representing only a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart data categories maintain perfect semantic equivalence. Differences are only minor stylistic variations (e.g., singular/plural forms 'Bacillus' vs 'Bacilli', 'Lysobacter' vs 'Lysobacteria') or spelling variants ('Amebae' vs 'Amoebae') that do not alter the meaning."
+    },
+    "claim": "The percentage of unidentified bacteria in the chart is equal to 5%",
+    "translated_claim": "Процент неидентифицированных бактерий на диаграмме составляет 5%"
+}

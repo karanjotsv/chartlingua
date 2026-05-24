@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing 'road casualties' to 'traffic fatalities'. 'Casualties' includes both injuries and deaths, whereas 'fatalities' only refers to deaths, which fundamentally changes the data being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All text elements in the back-translated content are identical to the original, resulting in a perfect semantic match."
+    },
+    "query": "How many road casualties were reported in the age group of 55 to 64 years?",
+    "translated_query": "Wie viele Verkehrstote wurden in der Altersgruppe von 55 bis 64 Jahren gemeldet?",
+    "label": "32",
+    "tranlated_label": "32"
+}

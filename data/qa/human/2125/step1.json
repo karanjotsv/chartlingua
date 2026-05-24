@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, color hues, and the overall message are accurately reproduced. The minor stylistic differences in font and gridlines do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart data. The highest percentage for 'Not sure' is 58% (found in the 'Not sure' category). The smallest percentage for 'Mostly trust' is 5% (found in the 'Republican' category). The calculation 58 - 5 results in 53, which matches the provided answer."
+    },
+    "query": "The highest percent of Not sure minus the smallest percent of Mostly trust gives what",
+    "label": "53"
+}

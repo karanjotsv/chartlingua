@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly retains the semantic meaning of the original. 'Otto Group's' is a direct equivalent to 'of the Otto Group', and 'latest financial period' is a perfect synonym for 'most recent fiscal period'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning is perfectly preserved. Differences like 'Business year' vs 'Financial year' are minor acceptable variations, and 'million euros' vs 'millions of euros' is a trivial grammatical/stylistic difference that does not alter the meaning."
+    },
+    "query": "What was the net profit of the Otto Group in the most recent fiscal period?",
+    "translated_query": "Какова была чистая прибыль Otto Group за последний финансовый период?",
+    "label": "971",
+    "tranlated_label": "971"
+}

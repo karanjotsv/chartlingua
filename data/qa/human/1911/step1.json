@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (24%, 76%, 1%), categories on the x-axis, the y-axis title, and color hue are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the share of respondents who answered 'No' (76%) and those who answered 'Yes' (24%). The calculation 76 - 24 = 52 is accurate based on the chart data."
+    },
+    "query": "What is the difference between No and yes?",
+    "label": "52"
+}

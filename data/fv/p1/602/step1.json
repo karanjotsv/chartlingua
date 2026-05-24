@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, categories, text, and color hues are all highly consistent with the original chart. Minor differences in data labels (e.g., 69.4% vs 69.3%, 8.8% vs 8.79%) are negligible and do not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "According to the chart, the combined percentage of geothermal (8.79%) and hydro (4.7%) is 13.49%. The combined percentage of coal (4.9%) and solar (11.1%) is 16.0%. Therefore, geothermal and hydro combined make up a smaller, not larger, portion than coal and solar combined."
+    },
+    "claim": "Geothermal and hydro combined make up a larger portion of Nevada's electricity generation than coal and solar combined.",
+    "label": true
+}

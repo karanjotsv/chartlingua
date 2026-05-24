@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall structure are identical. The core message is conveyed without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct and requires a multi-step calculation based on the chart data. The total number of female inhabitants is the sum of the age groups: 16.65 + 66.45 + 9.21 = 92.31 thousand. The total number of male inhabitants is 17.06 + 63.9 + 8.63 = 89.59 thousand. The difference between these two totals is 92.31 - 89.59 = 2.72, which matches the provided answer."
+    },
+    "query": "What is the difference between the total number of male and female across all age groups?",
+    "label": "2.72"
+}

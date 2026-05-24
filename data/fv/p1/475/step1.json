@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data proportions, uses identical text for the title and legend categories, and maintains consistent color hues for all data series. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim specifies the year as 2019, but the chart's title explicitly states the data is for 'ALEC Revenue 2009'."
+    },
+    "claim": "ALEC's revenue in 2019 was $6.3 million.",
+    "label": false
+}

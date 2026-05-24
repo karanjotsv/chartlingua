@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, and color-to-category associations are identical. The overall message is preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The legend on the right side of the chart is clipped, making it impossible to identify most of the categories represented by the smaller slices."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the second highest number of recent changes corresponds to 'fr' (27,691), not Russian. Russian ('ru') has 16,523 changes, which is the fourth highest amount shown with a value."
+    },
+    "claim": "The second highest amount of recent wiktionary changes were done in Russian.",
+    "label": false
+}

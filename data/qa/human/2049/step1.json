@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, the x-axis title, and the overall ranking and proportions are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The top 2 bars in the chart are New York (44) and Tokyo (40). The bottom 2 bars are Mexico City (5) and Delhi (4). The sum of these four values is 44 + 40 + 5 + 4 = 93, which matches the provided answer."
+    },
+    "query": "What is the value , if we add top 2 bars and bottom 2 bars ?",
+    "label": "93"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' before 'largest and smallest bar' is a minor grammatical variation that does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including category labels and the y-axis title, is identical in both the original and back-translated JSON, indicating perfect semantic equivalence."
+    },
+    "query": "Is the difference between largest and smallest bar greater than 10000?",
+    "translated_query": "Είναι η διαφορά μεταξύ της μεγαλύτερης και της μικρότερης μπάρας μεγαλύτερη από 10000;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

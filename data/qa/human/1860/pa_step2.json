@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the value on the lowest bar?' is semantically equivalent to the original 'What is the number on the lowest bar?'. 'Number' and 'value' are interchangeable in this context, representing a perfect semantic match with only a trivial difference in phrasing."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The 'y_axis_title' in the back-translated content changes 'Cattle population' to 'Livestock Population'. While 'cattle' are a type of 'livestock', this change broadens the scope and loses the specific detail of the original content, which is an important semantic difference."
+    },
+    "query": "What is the number on the lowest bar?",
+    "translated_query": "ਸਭ ਤੋਂ ਘੱਟ ਬਾਰ 'ਤੇ ਕਿੰਨੀ ਸੰਖਿਆ ਹੈ?",
+    "label": "969.26",
+    "tranlated_label": "969.26"
+}

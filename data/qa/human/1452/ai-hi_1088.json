@@ -1,0 +1,48 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": [
+        {
+            "category": "इक्वाडोर",
+            "value": 0.023,
+            "display_text": "0.02%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "चीन",
+            "value": 0.0165,
+            "display_text": "0.02%",
+            "annotation_position": "inside"
+        },
+        {
+            "category": "आयरलैंड",
+            "value": 0.004,
+            "display_text": "<0.01%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "आर्मेनिया",
+            "value": 0,
+            "display_text": "0%",
+            "annotation_position": "outside"
+        },
+        {
+            "category": "इज़राइल",
+            "value": 0,
+            "display_text": "0%",
+            "annotation_position": "outside"
+        }
+    ],
+    "texts": {
+        "title": "कुल मौतों में प्राकृतिक आपदाओं से होने वाली मौतों की हिस्सेदारी, 2014",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "स्रोत: इंस्टिट्यूट फॉर हेल्थ मेट्रिक्स एंड इवैल्यूएशन (IHME), ग्लोबल बर्डन ऑफ डिजीज",
+        "note": "OurWorldInData.org/natural-disasters • CC BY"
+    },
+    "colors": [
+        "#1F998A",
+        "#D1326E",
+        "#4A6076"
+    ]
+}

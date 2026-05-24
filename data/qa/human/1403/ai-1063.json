@@ -1,0 +1,174 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "series_name": "Illegal",
+            "x": [
+                1969,
+                1975,
+                1978,
+                1987,
+                1993,
+                1999,
+                2005,
+                2010,
+                2012.5,
+                2014
+            ],
+            "y": [
+                84,
+                66,
+                75,
+                81,
+                73,
+                63,
+                60,
+                52,
+                52,
+                45
+            ],
+            "annotations": [
+                {
+                    "x": 1969,
+                    "y": 84,
+                    "text": "84",
+                    "y_offset": 10
+                },
+                {
+                    "x": 1975,
+                    "y": 66,
+                    "text": "66",
+                    "y_offset": -10
+                },
+                {
+                    "x": 1987,
+                    "y": 81,
+                    "text": "81",
+                    "y_offset": 10
+                },
+                {
+                    "x": 1999,
+                    "y": 63,
+                    "text": "63",
+                    "y_offset": -10
+                },
+                {
+                    "x": 2005,
+                    "y": 60,
+                    "text": "60",
+                    "y_offset": -10
+                },
+                {
+                    "x": 2010,
+                    "y": 52,
+                    "text": "52",
+                    "y_offset": -10
+                },
+                {
+                    "x": 2012.5,
+                    "y": 52,
+                    "text": "52",
+                    "y_offset": 10
+                },
+                {
+                    "x": 2014,
+                    "y": 45,
+                    "text": "45",
+                    "y_offset": -10
+                }
+            ],
+            "label": {
+                "x": 2003,
+                "y": 70,
+                "text": "Illegal"
+            }
+        },
+        {
+            "series_name": "Legal",
+            "x": [
+                1969,
+                1978,
+                1984,
+                1988,
+                1995,
+                2000,
+                2004,
+                2009,
+                2011.5,
+                2014
+            ],
+            "y": [
+                12,
+                30,
+                23,
+                16,
+                25,
+                31,
+                32,
+                41,
+                48,
+                52
+            ],
+            "annotations": [
+                {
+                    "x": 1969,
+                    "y": 12,
+                    "text": "12",
+                    "y_offset": -10
+                },
+                {
+                    "x": 1978,
+                    "y": 30,
+                    "text": "30",
+                    "y_offset": 10
+                },
+                {
+                    "x": 1988,
+                    "y": 16,
+                    "text": "16",
+                    "y_offset": -10
+                },
+                {
+                    "x": 2000,
+                    "y": 31,
+                    "text": "31",
+                    "y_offset": 10
+                },
+                {
+                    "x": 2004,
+                    "y": 32,
+                    "text": "32",
+                    "y_offset": -10
+                },
+                {
+                    "x": 2009,
+                    "y": 41,
+                    "text": "41",
+                    "y_offset": -10
+                },
+                {
+                    "x": 2014,
+                    "y": 52,
+                    "text": "52",
+                    "y_offset": 10
+                }
+            ],
+            "label": {
+                "x": 2003,
+                "y": 20,
+                "text": "Legal"
+            }
+        }
+    ],
+    "texts": {
+        "title": "Slim Majority Supports Marijuana Legalization",
+        "subtitle": "% saying the use of marijuana should be ...",
+        "source": "Survey conducted Oct. 15-20, 2014.<br>1973-2008 data from General Social Survey; 1969 and 1972 data from Gallup<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#8B834A",
+        "#C8AB43"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has a critical error in its legend and data representation. The largest slice (blue) is not labeled, and its correct label from the original ('Maple - Basswood / Northern Hardwood Forest') is incorrectly assigned to a much smaller cyan slice. This fundamentally misrepresents the key information and makes the chart's primary message incorrect. There is also a minor numerical difference in the caption text (22% vs 21%).",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap in the legend, rendering most of the category labels illegible. The caption text at the bottom also overlaps with the legend text."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the chart's legend, which lists several vegetation types that are forms of grassland, such as 'Oak Savanna', 'Mixed Hardwoods - Prairie', and 'Wet Prairie'. These categories are all represented with colored slices in the pie chart, indicating their presence in Clearwater County, Minnesota."
+    },
+    "claim": "There is grassland vegetation in Clearwater County, Minnesota.",
+    "label": false
+}

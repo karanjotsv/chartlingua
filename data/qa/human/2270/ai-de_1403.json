@@ -1,0 +1,42 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Sehr besorgt",
+            "Etwas besorgt",
+            "Nicht sehr besorgt",
+            "Überhaupt nicht besorgt"
+        ],
+        "series": [
+            {
+                "name": "Besorgt um die persönliche Gesundheit",
+                "data": [
+                    28,
+                    49,
+                    19,
+                    4
+                ]
+            },
+            {
+                "name": "Besorgt um die Gesundheit der Menschen, mit denen Sie zusammenleben",
+                "data": [
+                    37,
+                    38,
+                    9,
+                    3
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2774d2",
+        "#182b3f"
+    ]
+}

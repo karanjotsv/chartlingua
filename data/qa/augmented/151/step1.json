@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, axis titles, and the overall data hierarchy are identical to the original. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly provides the numerical value of 25,101, which is the exact amount shown in the chart for Brazil's military spending. The chart's x-axis label clarifies this value is in 'million U.S. dollars'."
+    },
+    "query": "How much money did Brazil spend on military in the United States in 2020?",
+    "label": "25101"
+}

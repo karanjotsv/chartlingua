@@ -1,0 +1,111 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "c-index",
+            "x": [
+                0,
+                0.5,
+                1,
+                1.5,
+                2,
+                2.5,
+                3,
+                3.5,
+                4,
+                4.5,
+                5,
+                5.5,
+                6
+            ],
+            "y": [
+                0,
+                0.01,
+                0.05,
+                0.14,
+                0.28,
+                0.5,
+                0.78,
+                1.15,
+                1.6,
+                2.15,
+                2.79,
+                3.55,
+                4.4
+            ]
+        },
+        {
+            "name": "h-index",
+            "x": [
+                0,
+                0.5,
+                1,
+                1.5,
+                2,
+                2.5,
+                3,
+                3.5,
+                4,
+                4.5,
+                5,
+                5.5,
+                6,
+                6.5,
+                7,
+                7.5,
+                8
+            ],
+            "y": [
+                0,
+                0.57,
+                0.8,
+                0.98,
+                1.13,
+                1.26,
+                1.38,
+                1.5,
+                1.6,
+                1.7,
+                1.79,
+                1.87,
+                1.96,
+                2.04,
+                2.12,
+                2.19,
+                2.26
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Valoare index",
+        "y_axis_title": "Probabilitatea succesului în carieră",
+        "source": null,
+        "note": null,
+        "annotations": [
+            {
+                "text": "c-index",
+                "x": 4.5,
+                "y": 3.5,
+                "color_index": 0
+            },
+            {
+                "text": "h-index",
+                "x": 6,
+                "y": 2.2,
+                "color_index": 1
+            }
+        ]
+    },
+    "colors": {
+        "series": [
+            "#CEDD54",
+            "#76C0AE"
+        ],
+        "axes": [
+            "#2AA3A1",
+            "#E87FB4"
+        ]
+    }
+}

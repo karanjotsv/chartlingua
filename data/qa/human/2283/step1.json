@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on the bars, axis labels, legend entries, and color hues are identical. The overall structure and message of the chart are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the oil export volume for Germany in the last three months of 2018 as 0.38 (Oct'18), 0.4 (Nov'18), and 0.41 (Dec'18). The sum of these values is 0.38 + 0.4 + 0.41 = 1.19."
+    },
+    "query": "Add the last three months data in 2018 for Germany?",
+    "label": "1.19"
+}

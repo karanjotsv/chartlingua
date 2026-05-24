@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly preserves the semantic meaning of the original. Minor phrasing differences ('At' vs. 'In', 'female' vs. 'female workers') do not alter the core information or intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content generally maintains the semantic meaning of the chart's textual elements, with many categories being identical or showing minor stylistic/grammatical improvements (e.g., 'Wrks' to 'Work', typo correction in title, 'Loging' to 'Accommodation'). However, a significant semantic discrepancy occurs in the category 'Wrks in Carriages and Harness', which becomes 'Work with Carriages and Ploughing'. 'Harness' refers to specific equipment for animals, while 'Ploughing' is an agricultural activity, fundamentally changing the nature of the occupation described. This loss of a specific detail and introduction of a different concept in one key category prevents a higher rating."
+    },
+    "claim": "At domestic offices or services there were more male workers than female in Belstead in 1881.",
+    "translated_claim": "ਘਰੇਲੂ ਦਫ਼ਤਰਾਂ ਜਾਂ ਸੇਵਾਵਾਂ ਵਿੱਚ 1881 ਵਿੱਚ ਬੇਲਸਟੇਡ ਵਿੱਚ ਔਰਤਾਂ ਨਾਲੋਂ ਵੱਧ ਮਰਦ ਕਰਮਚਾਰੀ ਸਨ।"
+}

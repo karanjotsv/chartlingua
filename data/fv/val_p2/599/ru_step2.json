@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the semantic meaning of the original. The phrasing 'Chemistry supercomputers' versus 'Supercomputers for Chemistry' is a stylistic variation, and 'CSCS' versus 'CSCS resources' clarifies without altering the core information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most category labels are perfect semantic matches. 'Earth & Env. Science' was expanded to 'Earth and Environmental Sciences' and 'Others' changed to 'Other', which are minor stylistic or grammatical differences. 'Fluid Dynamics' was translated to 'Hydro-aerodynamics', which conveys a very similar meaning and falls within the scope of fluid dynamics, but is a less common or slightly more specific term than the original, making it a minor acceptable difference."
+    },
+    "claim": "Chemistry supercomputers use more CSCS than supercomputers for Physics. ",
+    "translated_claim": "Суперкомпьютеры для химии используют больше ресурсов CSCS, чем суперкомпьютеры для физики."
+}

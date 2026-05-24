@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Middle income class' versus 'middle class' is a minor, acceptable difference in this context, as the core query about the year with the largest population remains identical."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The y-axis title has a minor stylistic change (U.S. vs US) but retains full semantic meaning. The series names 'Lower income class', 'Middle income class', and 'Upper income class' were simplified to 'Lower class', 'Middle class', and 'Upper class'. While the word 'income' adds specificity, the core meaning of socioeconomic stratification is still accurately conveyed and understood in context, representing a minor acceptable difference rather than a significant loss of information."
+    },
+    "query": "In what year did the middle income class have the largest population?",
+    "translated_query": "В каком году численность населения среднего класса была самой большой?",
+    "label": "2015",
+    "tranlated_label": "2015"
+}

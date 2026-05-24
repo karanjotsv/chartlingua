@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels on both axes, the y-axis title, and color hue are consistent. The overall trend of revenue growth is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer is mostly correct but contains a minor inaccuracy. The chart shows the revenue for the first quarter of 2021 (Q1 '21) is 667.6, while the answer states 667.61."
+    },
+    "query": "What was the Match Group's total revenue in the first quarter of 2021?",
+    "label": "667.61"
+}

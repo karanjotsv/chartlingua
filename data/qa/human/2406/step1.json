@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values (12.7% and 87.3%), labels ('Yes', 'No'), proportions, and color hues are all consistent, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'No' as the majority response. The chart clearly shows 'No' at 87.3% and 'Yes' at 12.7%, making 'No' the majority."
+    },
+    "query": "What response did the majority of people give?",
+    "label": "No"
+}

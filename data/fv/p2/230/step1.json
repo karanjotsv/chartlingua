@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, category labels, titles, and color hues are consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart visually shows that the largest slice is the blue one, which corresponds to 'Metal Mining' at 37%. The yellow slice, representing 'Electric Utilities', is only 13%, which is not the biggest share."
+    },
+    "claim": "The biggest share on the chart is colored in yellow.",
+    "label": "FALSE"
+}

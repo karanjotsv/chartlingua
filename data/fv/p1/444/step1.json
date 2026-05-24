@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents the data values, proportions, and categories from the original for both pie charts, with one minor exception (a value of 3 is shown on the male chart where the original appears to be a 1). The color hues are consistent and the overall message is the same. The main semantic issue is that the titles are garbled due to overlap, but the core components are present.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap in the chart titles, combining the text for both charts into a single unreadable string."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported because the charts explicitly list occupations that are forms of manufacturing. The 'Male Occupations' chart includes 'Furniture making' (1 person), and the 'Female Occupations' chart includes 'Clothes' (30 people)."
+    },
+    "claim": "In this chart , In 1881, Woodmancote residents worked in manufacturing",
+    "label": false
+}

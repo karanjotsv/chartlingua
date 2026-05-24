@@ -1,0 +1,68 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Frauen",
+            "x": [
+                16,
+                16,
+                8,
+                6,
+                7,
+                0,
+                10,
+                3,
+                3
+            ],
+            "y": [
+                "Verwaltung & Sekretariat",
+                "Akademische, technische und verwandte Berufe",
+                "Pflege, Freizeit & sonstige Dienstleistungen",
+                "Hilfsarbeitskräfte",
+                "Manager, Direktoren & leitende Angestellte",
+                "Anlagen- und Maschinenbediener",
+                "Akademische Berufe",
+                "Verkauf & Kundenservice",
+                "Handwerks- und verwandte Berufe"
+            ]
+        },
+        {
+            "name": "Männer",
+            "x": [
+                4,
+                21,
+                1,
+                5,
+                16,
+                2,
+                14,
+                2,
+                12
+            ],
+            "y": [
+                "Verwaltung & Sekretariat",
+                "Akademische, technische und verwandte Berufe",
+                "Pflege, Freizeit & sonstige Dienstleistungen",
+                "Hilfsarbeitskräfte",
+                "Manager, Direktoren & leitende Angestellte",
+                "Anlagen- und Maschinenbediener",
+                "Akademische Berufe",
+                "Verkauf & Kundenservice",
+                "Handwerks- und verwandte Berufe"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Berufsstruktur im Jahr 2011",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#E48F45",
+        "#599AD3"
+    ]
+}

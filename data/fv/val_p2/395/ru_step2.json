@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly matches the original meaning. Differences like 'graph' vs 'chart', 'begins at' vs 'starts in', and 'given' vs 'presented' are minor stylistic variations that do not alter the semantic equivalence of the statement."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. 'Aims' was accurately translated to 'targets' in all instances. The title also maintains the core meaning. The only minor difference is 'capacity' being translated to 'power' in the y-axis title, which is an acceptable, albeit slightly less precise, synonym in this context."
+    },
+    "claim": "The graph begins at 2012 at the value of 20 according to the given chart.",
+    "translated_claim": "График начинается в 2012 году со значения 20 согласно представленной диаграмме."
+}

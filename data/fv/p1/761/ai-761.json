@@ -1,0 +1,38 @@
+{
+    "chart_type": "doughnut",
+    "chart_data": [
+        {
+            "category": "Hydro",
+            "value": 63.4,
+            "text_color": "#000000"
+        },
+        {
+            "category": "Wind",
+            "value": 22.9,
+            "text_color": "#000000"
+        },
+        {
+            "category": "Solar",
+            "value": 2.1,
+            "text_color": "#FFFFFF"
+        },
+        {
+            "category": "Bio",
+            "value": 11.5,
+            "text_color": "#000000"
+        }
+    ],
+    "texts": {
+        "title": "Electricity generation from renewable sources in Australia, in 2010",
+        "subtitle": null,
+        "source": "Source: Clean Energy Council: Clean Energy Australia 2010, pg.6 (estimate for October 2009 - September 2010)",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#347083",
+        "#4E9595",
+        "#FF7F50",
+        "#C7A20B"
+    ]
+}

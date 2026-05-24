@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall order of slices are identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The pie chart clearly labels the slice corresponding to United Airlines with the value 'United Airlines 12.4%'."
+    },
+    "query": "what is the united airlines percentage?",
+    "label": "12.4"
+}

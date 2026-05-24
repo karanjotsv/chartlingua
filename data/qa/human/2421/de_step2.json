@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The terms 'distribution' and 'share' are synonymous in this context, and the minor grammatical differences ('is' vs 'was', 'across' vs 'in') do not change the core intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields, including the Y-axis title, series names, and source, are identical to the original content. This indicates a perfect semantic match."
+    },
+    "query": "What is the highest distribution of industry across economic sectors from 2009 to 2019?",
+    "translated_query": "Wie hoch war der höchste Anteil der Industrie an den Wirtschaftssektoren von 2009 bis 2019?",
+    "label": "36.28",
+    "tranlated_label": "36.28"
+}

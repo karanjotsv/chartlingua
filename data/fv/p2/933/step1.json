@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, trends, axis labels, titles, and color scheme are all accurately reproduced. The overall message is identical to the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on the number of 'U.S. Patents Granted' from 1870 to approximately 2005. The claim is about German casualties in World War II, a topic completely unrelated to the data presented in the chart."
+    },
+    "claim": "Germany had the highest number of Axis casualties in WW2",
+    "label": "TRUE"
+}

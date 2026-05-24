@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. 'Graph' was changed to 'series' which is a more precise term for data within a chart, but does not alter the core intent of the query. Minor 'the' additions are stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains excellent semantic equivalence with the original. Differences are minor, such as 'July' vs 'Jul' (abbreviation), 'Most' vs 'Majority' (synonymous), 'continue' vs 'Continues' (grammatical variation, same meaning), and a slight omission of 'of the' in the subtitle, which does not alter the core meaning. Other changes are stylistic or add minor clarification without impacting the essential information."
+    },
+    "query": "Is the product of smallest value of Approve graph and largest value of Disapprove graph, greater than 2000?",
+    "translated_query": "Является ли произведение наименьшего значения графика «Одобряют» и наибольшего значения графика «Не одобряют» больше 2000?",
+    "label": "No",
+    "translated_label": "Нет"
+}

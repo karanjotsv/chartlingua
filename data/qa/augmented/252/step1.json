@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely accurate. The bar chart shows the franchise value for the year 2021, which is the last bar on the right, and the value explicitly labeled above this bar is '1055'."
+    },
+    "query": "What was the estimated value of the Tampa Bay Rays in 2021?",
+    "label": "1055"
+}

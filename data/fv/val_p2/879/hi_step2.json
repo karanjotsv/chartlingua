@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translation uses 'stable' instead of 'constant'. While semantically very close, 'constant' implies zero change, whereas 'stable' allows for minor fluctuations. This represents a slight, acceptable loss of precision, but the core meaning is preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, which consists of the data labels, is identical in both the original and back-translated versions. The other text fields are null in both."
+    },
+    "claim": "The chart indicates that sales have remained constant over time.",
+    "translated_claim": "चार्ट इंगित करता है कि समय के साथ बिक्री स्थिर रही है।"
+}

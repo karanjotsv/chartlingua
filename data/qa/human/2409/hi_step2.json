@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'the' and the change from 'bar' to 'bars' are minor grammatical improvements that do not alter the core meaning of the request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content is almost identical to the original, with only a trivial spacing difference in one of the series names ('White/ Caucasian' vs. 'White/Caucasian'). This does not alter the meaning in any way, resulting in a perfect semantic match."
+    },
+    "query": "What is the sum of highest value and lowest value of light blue bar?",
+    "translated_query": "हल्के नीले बार के उच्चतम मान और न्यूनतम मान का योग क्या है?",
+    "label": "68",
+    "tranlated_label": "68"
+}

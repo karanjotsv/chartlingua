@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All text content (title, labels, source), data values, and color hues are identical to the original. The proportions of the pie slices are also accurately represented.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Atrophy received a larger share than Total Aid. However, the pie chart explicitly labels the value for Atrophy as $9.22 billion and the value for Total Aid as $79.50 billion. Since $9.22 billion is less than $79.50 billion, the chart directly contradicts the claim."
+    },
+    "claim": "Atrophy received more share than the total aid if the value is reduced by 20%.",
+    "label": "FALSE"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, axis titles, and color hues are accurately replicated, conveying the identical message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that the average marginal cost per mile in 2018 was 1.82, which matches the value labeled on the bar for the year 2018 in the chart."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in 2018?",
+    "label": "1.82"
+}

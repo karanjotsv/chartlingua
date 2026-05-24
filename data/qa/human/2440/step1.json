@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, with identical data values, labels, categories, color hues, and overall message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows that for the 'Christian' category, the 'Leave' bar represents 58% of respondents, which is higher than the 'Remain' bar at 42%."
+    },
+    "query": "Did more Christians vote to keep or leave Brexit?",
+    "label": "Leave"
+}

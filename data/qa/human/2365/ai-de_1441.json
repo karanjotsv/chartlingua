@@ -1,0 +1,40 @@
+{
+    "chart_type": "bar",
+    "chart_data": {
+        "x_values": [
+            "2018"
+        ],
+        "series": [
+            {
+                "name": "Katze",
+                "y_values": [
+                    12000
+                ]
+            },
+            {
+                "name": "Hund*",
+                "y_values": [
+                    11750
+                ]
+            },
+            {
+                "name": "Kaninchen**",
+                "y_values": [
+                    7750
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Geschätzte Kosten in Tausend GBP",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E7FDB",
+        "#122A40",
+        "#C0C0C0"
+    ]
+}

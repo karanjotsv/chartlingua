@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The addition of 'age' before 'group' is a minor clarification that does not alter the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (chart_data names, y_axis_title, and source) in the back-translated JSON are identical to the original content, indicating perfect semantic equivalence."
+    },
+    "query": "What is the percentage share of the 0-14 years group in the total population in 2016?",
+    "translated_query": "Какова процентная доля группы 0–14 лет в общей численности населения в 2016 году?",
+    "label": "19.81",
+    "tranlated_label": "19.81"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels (title, axes, legend), and the overall distribution of occupations are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Retail Trade is the top industry. However, the chart shows that both Retail Trade and Education have the highest value, at 13. Therefore, Retail Trade is tied for the top position and is not the sole top industry."
+    },
+    "claim": "The top Industry in Sutton according to the ONS 2011 census is Retail Trade.",
+    "label": true
+}

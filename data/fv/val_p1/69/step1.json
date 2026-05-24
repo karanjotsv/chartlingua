@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data proportions, categories (INVERTEBRATES, VERTEBRATES), and color-to-category mapping from the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the vertebrates section is represented with red color, but the chart's legend and the corresponding slice clearly show it is represented by dark gray."
+    },
+    "claim": "The vertebrates section of the chart is represented with red color.      .",
+    "label": false
+}

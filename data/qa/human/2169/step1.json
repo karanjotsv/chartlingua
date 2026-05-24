@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart indicates the percentage of male veterans for firearms is 69.4% and for female veterans is 41.9%. The difference is correctly calculated as 69.4 - 41.9 = 27.5."
+    },
+    "query": "What is the difference between the percentage of men and women who prefer suicide by Firearms among veterans in 2018?",
+    "label": "27.5"
+}

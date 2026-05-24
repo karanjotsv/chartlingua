@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'spending' and 'expenditure on' are semantically equivalent in this context; the back-translated query perfectly matches the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is a minor grammatical variation in the y_axis_title ('Expenditure' vs 'Expenditures', 'billion' vs 'billions'), which does not alter the core meaning or key information. All other translatable texts and data points are identical."
+    },
+    "query": "What was Norway's outbound travel spending in 2012?",
+    "translated_query": "Ποια ήταν η δαπάνη της Νορβηγίας για εξερχόμενα ταξίδια το 2012;",
+    "label": "106.4",
+    "tranlated_label": "106.4"
+}

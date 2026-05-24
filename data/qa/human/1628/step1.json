@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, trends, text content (title, subtitle, axes, legend), and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is completely correct. The chart's legend clearly identifies two countries, 'Philippines' and 'Nepal', for which data is plotted."
+    },
+    "query": "How many countries are included in the chart?",
+    "label": "2"
+}

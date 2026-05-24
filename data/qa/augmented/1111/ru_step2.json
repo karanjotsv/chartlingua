@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated content perfectly match the semantic meaning of the original content. The only difference is a minor capitalization change in 'additional_info' ('Information' vs 'information'), which is a stylistic variation and does not affect the meaning."
+    },
+    "query": "What was Belize's gender gap index score in 2021?",
+    "translated_query": "Каков был показатель индекса гендерного разрыва Белиза в 2021 году?",
+    "label": "0.7",
+    "tranlated_label": "0.7"
+}

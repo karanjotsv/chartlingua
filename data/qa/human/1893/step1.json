@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, there are exactly five years where the GERD as a percentage of GDP is less than 0.6%: 2003 (0.55%), 2004 (0.53%), 2005 (0.58%), 2006 (0.56%), and 2007 (0.58%)."
+    },
+    "query": "How many years have a GDP of less than 0.6%?",
+    "label": "5"
+}

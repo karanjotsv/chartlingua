@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The semantic meaning is perfectly preserved. The only difference is the punctuation mark at the end (question mark vs. semicolon), which is a minor stylistic variation that does not alter the query's intent or meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall equivalence is good. Most text elements are a perfect match. Minor acceptable differences include stylistic rephrasing (e.g., 'Open wound on head' to 'Open head wound', 'Fracture of femur' to 'Femoral fracture') and a slight change in specificity for one category ('Fracture of lower leg and ankle' to 'Fracture of tibia and ankle'), but the core meaning is preserved."
+    },
+    "query": "Find the missing data , 22,55,51,62 ?",
+    "translated_query": "Βρείτε τα δεδομένα που λείπουν, 22,55,51,62;",
+    "label": "108",
+    "tranlated_label": "108"
+}

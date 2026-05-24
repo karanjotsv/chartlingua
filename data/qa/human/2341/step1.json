@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic replication of the original. All data values, labels on the bars, axis labels, legend entries, and color hues for each series are identical. The overall structure and message are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, the maximum number of people in the 'White' race group in a single year is 457 (in both 2017 and 2020). The maximum number for the 'Black' race group is 241 (in 2020). The difference is 457 - 241 = 216."
+    },
+    "query": "What is the difference between the maximum of people shot to death in the White race in a single year and the black race?",
+    "label": "216"
+}

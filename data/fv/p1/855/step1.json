@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, proportions, and color hues are identical to the original. The rendered chart adds a title and legend that were missing in the original, which clarifies the chart's meaning without contradicting the visual data.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the chart, which shows the percentage composition of various components of the universe. According to the data presented in the right-hand pie chart, Neutrinos make up 0.03%, which is the smallest percentage value when compared to all other listed components (Stars at 0.5%, Free hydrogen and helium at 0.3%, Ordinary Matter at 4%, Dark Matter at 25%, and Dark Energy at 70%)."
+    },
+    "claim": "Neutrinos are the smallest component of the cosmological composition of the universe.\n",
+    "label": false
+}

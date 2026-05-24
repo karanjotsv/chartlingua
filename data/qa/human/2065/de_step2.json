@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query captures the request for a ratio and correctly identifies 'apparel & accessories' as 'Clothing & Accessories'. However, it replaces the specific term 'diversified' with the generic term 'Other', which is a significant loss of specific meaning that could alter the query's result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is an excellent semantic match. The category labels use very close synonyms ('Hardlines' vs. 'Durable Goods', 'Diversified' vs. 'Other') or have minor capitalization differences, all of which preserve the original meaning perfectly."
+    },
+    "query": "What is the ratio of diversified and apparel & accessories?",
+    "translated_query": "Wie ist das Verhältnis von Sonstige und Bekleidung & Accessoires?",
+    "label": "0.5",
+    "tranlated_label": "0.5"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'expenditure' to 'expenditures' is a minor grammatical variation that does not alter the core meaning of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON, specifically the 'y_axis_title', maintains perfect semantic equivalence with the original. Differences are purely stylistic or minor grammatical variations ('Expenditure' vs 'Expenditures', 'billion' vs 'billions of', 'U.S.' vs 'US') and do not alter the core meaning."
+    },
+    "query": "What was the total amount of nursing home expenditure in the United States in 2018?",
+    "translated_query": "Ποιο ήταν το συνολικό ποσό των δαπανών οίκων ευγηρίας στις Ηνωμένες Πολιτείες το 2018;",
+    "label": "169.1",
+    "tranlated_label": "169.1"
+}

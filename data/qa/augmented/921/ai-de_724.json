@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Google",
+            "x": [
+                "Telefon",
+                "Tablet",
+                "Gesamt"
+            ],
+            "y": [
+                71,
+                3,
+                74
+            ]
+        },
+        {
+            "name": "Microsoft Advertising",
+            "x": [
+                "Telefon",
+                "Tablet",
+                "Gesamt"
+            ],
+            "y": [
+                25,
+                5,
+                30
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "xaxis_title": null,
+        "yaxis_title": "Volumen der Suchimpressionen",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#297ACC",
+        "#132D40"
+    ]
+}

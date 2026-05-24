@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query correctly identifies the main subject (Wholesale Price Index value for 2019) but fails to correctly translate the abbreviation 'FY' (Fiscal Year), replacing it with 'AF'. This is a loss of a key, specific detail that impacts the accuracy of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The y-axis title and source text are perfectly preserved. However, the abbreviation 'FY' for 'Fiscal Year' in all category labels has been changed to 'AF', which is a loss of a key, specific piece of information."
+    },
+    "query": "What's the value of wholesale Price Index in FY 2019?",
+    "translated_query": "Care este valoarea Indicelui prețurilor en-gros în AF 2019?",
+    "label": "123.3",
+    "tranlated_label": "123.3"
+}

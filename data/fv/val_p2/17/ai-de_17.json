@@ -1,0 +1,124 @@
+{
+    "chart_type": "faceted_stacked_bar",
+    "chart_data": [
+        {
+            "group": "1X",
+            "categories": [
+                "Missbrauch",
+                "irrelevant",
+                "Problem",
+                "Lob",
+                "Frage",
+                "Vorschlag"
+            ],
+            "series": [
+                {
+                    "name": "nützlich",
+                    "values": [
+                        0.0,
+                        0.01,
+                        0.1,
+                        0.06,
+                        0.13,
+                        0.32
+                    ]
+                },
+                {
+                    "name": "nutzlos",
+                    "values": [
+                        0.1,
+                        0.38,
+                        0.09,
+                        0.05,
+                        0.05,
+                        0.15
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "1A",
+            "categories": [
+                "Missbrauch",
+                "irrelevant",
+                "Problem",
+                "Lob",
+                "Frage",
+                "Vorschlag"
+            ],
+            "series": [
+                {
+                    "name": "nützlich",
+                    "values": [
+                        0.0,
+                        0.01,
+                        0.15,
+                        0.09,
+                        0.09,
+                        0.27
+                    ]
+                },
+                {
+                    "name": "nutzlos",
+                    "values": [
+                        0.12,
+                        0.44,
+                        0.09,
+                        0.05,
+                        0.08,
+                        0.12
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "1E",
+            "categories": [
+                "Missbrauch",
+                "irrelevant",
+                "Problem",
+                "Lob",
+                "Frage",
+                "Vorschlag"
+            ],
+            "series": [
+                {
+                    "name": "nützlich",
+                    "values": [
+                        0.0,
+                        0.01,
+                        0.1,
+                        0.09,
+                        0.09,
+                        0.25
+                    ]
+                },
+                {
+                    "name": "nutzlos",
+                    "values": [
+                        0.13,
+                        0.47,
+                        0.04,
+                        0.04,
+                        0.06,
+                        0.13
+                    ]
+                }
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Feedback-Kategorie",
+        "y_axis_title": "Anteil der Feedback-Elemente",
+        "legend_series_names": [
+            "nützlich",
+            "nutzlos"
+        ]
+    },
+    "colors": [
+        "#22b522",
+        "#d92e2e"
+    ]
+}

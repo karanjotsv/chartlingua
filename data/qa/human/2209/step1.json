@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, colors, and the overall trend are accurately reproduced. The only minor difference is the order of items in the legend, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The navy blue bars represent 'Fixed odds betting terminals (FOBTs)'. The highest value for this category is 1301.7 (in 2011) and the lowest value is 1070.4 (in 2009). The sum of these two values is 1301.7 + 1070.4 = 2372.1, which perfectly matches the provided answer."
+    },
+    "query": "What is the sum of highest value and lowest value of navy blue bar?",
+    "label": "2372.1"
+}

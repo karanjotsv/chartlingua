@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, proportions, text content (title, labels), and the overall message are identical. The color hues for all major categories are consistent. The only negligible difference is the color of the tiny 'solar' slice, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that biomass is the largest source of electricity generation, but the pie chart shows that natural gas is the largest source at 48.8%, while biomass only accounts for 2.4%."
+    },
+    "claim": "Biomass makes up the largest source of electricity generation of Connecticut in year 2016.",
+    "label": false
+}

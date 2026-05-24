@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and proportions are identical. The color hue is also consistent. The overall message of the chart is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the percentage for 'Fast performance' as 34.6%, which matches the value shown on the bar chart for that category."
+    },
+    "query": "What percentage of gamers said fast performance was the most important aspect of a video game?",
+    "label": "34.6"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, series, labels, text content (including title and axes), and color hues are all accurately reproduced, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the Normal Course of disease decreased to -3.3%, but the chart's y-axis is labeled \"Change in Cognitive Test Score\", not percentage. While the value -3.3 is correct, the unit is not."
+    },
+    "claim": "Normal Course of disease decreased to -3.3% after 12 months.",
+    "label": true
+}

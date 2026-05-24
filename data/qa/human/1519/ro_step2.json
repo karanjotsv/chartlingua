@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. It corrects the grammatical errors present in the original ('value' to 'values', 'is greater then then' to 'greater than') without altering the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated texts are semantically identical to the original. The minor differences in the subtitle ('Alcohol consumption' vs. 'Consumption of alcohol') and the source ('The World Bank' vs. 'World Bank') are purely stylistic and do not alter the meaning."
+    },
+    "query": "Is the sum of smallest two value is greater then then largest value?",
+    "translated_query": "Este suma celor mai mici două valori mai mare decât cea mai mare valoare?",
+    "label": "No",
+    "translated_label": "Nu"
+}

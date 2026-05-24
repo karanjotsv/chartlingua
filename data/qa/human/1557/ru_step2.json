@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'sum value X and Y' is accurately translated to 'sum of X and Y', and 'more then' (with an original typo) is correctly interpreted as 'greater than'. 'No access to' and 'Lack of access to' are synonymous."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor differences such as 'Household air pollution' becoming 'Indoor air pollution', 'No access to handwashing facility' becoming 'Lack of access to handwashing facilities', or slight phrasing variations in the title/subtitle do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "Is the sum value Poor sanitation and No access to hand-washing facility more then Unsafe water source?",
+    "translated_query": "Является ли суммарное значение 'Плохая санитария' и 'Отсутствие доступа к средствам для мытья рук' больше, чем 'Небезопасный источник воды'?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

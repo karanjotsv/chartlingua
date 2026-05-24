@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels, titles, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that one bar is twice the value of another. Interpreting the 'Forest bar' as the green bar for 'Other (please explain)' and the 'ocak Savnna bar' as the orange bar for '4 Color Lithographic or Letter Press', the chart shows their respective values are 4 (44.4%) and 2 (22.2%). The value of the green bar is indeed twice the value of the orange bar."
+    },
+    "claim": "The Forest bar is twice of the ocak Savnna bar.",
+    "label": "FALSE"
+}

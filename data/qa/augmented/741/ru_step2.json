@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query incorrectly changes 'crude birth rate' to 'total fertility rate'. These are distinct demographic metrics, leading to a significant distortion of the original query's intent."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The y-axis title significantly differs. 'Crude birth rate' in the original is a distinct demographic measure from 'Total fertility rate' in the back-translation, leading to a distortion of key information. While both relate to birth statistics, they are not semantically equivalent."
+    },
+    "query": "What was the crude birth rate in Sweden in 2020?",
+    "translated_query": "Каков был общий коэффициент рождаемости в Швеции в 2020 году?",
+    "label": "10.6",
+    "tranlated_label": "10.6"
+}

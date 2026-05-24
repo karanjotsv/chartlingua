@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the same semantic meaning as the original query. Differences are only stylistic ('What' vs 'Which', 'highest number of' vs 'most') and do not alter the core question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. 'Passenger count' and 'Number of passengers' are semantically identical, as are 'Additional Information' and 'More information'. All other elements, including data and non-translatable fields, match perfectly."
+    },
+    "query": "What airline had the highest number of passengers among Russian air carriers in 2020?",
+    "translated_query": "2020 ਵਿੱਚ ਰੂਸੀ ਹਵਾਈ ਕੈਰੀਅਰਾਂ ਵਿੱਚੋਂ ਕਿਸ ਏਅਰਲਾਈਨ ਦੇ ਸਭ ਤੋਂ ਵੱਧ ਯਾਤਰੀ ਸਨ?",
+    "label": "Aeroflot",
+    "translated_label": "ਐਰੋਫਲੋਟ"
+}

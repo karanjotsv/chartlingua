@@ -1,0 +1,44 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Iul 2015",
+            "Sep 2015"
+        ],
+        "series": [
+            {
+                "name": "Dezaprobă",
+                "values": [
+                    45,
+                    49
+                ]
+            },
+            {
+                "name": "Aprobă",
+                "values": [
+                    33,
+                    21
+                ]
+            },
+            {
+                "name": "Nu știu",
+                "values": [
+                    22,
+                    30
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Scăderea sprijinului pentru acordul nuclear cu Iranul",
+        "subtitle": "% care aprobă/dezaprobă acordul nuclear recent<br>între Iran, S.U.A. și alte națiuni ...",
+        "source": "Sondaj realizat în perioada 3-7 septembrie 2015. Cifrele s-ar putea să nu însumeze 100%<br>din cauza rotunjirilor.",
+        "brand": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b59e36",
+        "#e0c778"
+    ]
+}

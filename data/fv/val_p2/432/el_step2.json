@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly captures the original meaning. It clarifies some phrasing (e.g., 'individuals aged 25 and over' for '25 plus persons/age group') and rephrases without altering the core comparison or information."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The key term 'Median' in 'Median gross income/year' was incorrectly translated to 'Average Gross Income/Year'. This is a significant semantic error as 'Median' and 'Average' are distinct statistical measures, distorting the core meaning of the data presented. Other label changes like 'Persons' to 'Individuals' are minor and acceptable."
+    },
+    "claim": "Fulltime 25 plus persons averaged a higher gross income than just 25 plus age group.",
+    "translated_claim": "Τα άτομα πλήρους απασχόλησης 25 ετών και άνω είχαν κατά μέσο όρο υψηλότερο ακαθάριστο εισόδημα από την ηλικιακή ομάδα των 25 ετών και άνω."
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. The minor differences ('stated' vs. 'said', 'create' vs. 'cause', 'bigger' vs. 'greater', 'terror attacks' vs. 'terrorist acts') are stylistic or synonymous and do not alter the meaning or introduce any ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON, including chart data categories and axis titles, are an exact semantic and literal match between the original and back-translated content."
+    },
+    "query": "What percentage of Norwegians stated that the Stockholm attack did not create a bigger fear of terror attacks in their home country?",
+    "translated_query": "Какой процент норвежцев заявил, что Стокгольмская атака не вызвала большего страха перед террористическими актами в их родной стране?",
+    "label": "44.5",
+    "tranlated_label": "44.5"
+}

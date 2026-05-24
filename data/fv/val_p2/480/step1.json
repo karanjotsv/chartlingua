@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values (31%, 29%, 32%, 7%), category labels, the main title, and the source text are identical. The color hues for each corresponding slice (blue, red, green, purple) are also consistent. The overall message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to Wikimedia's spending on internet hosting in 2006, but the chart displays information about the composition of tax revenue for the state of Ohio in 2007. The chart does not contain any information about Wikimedia."
+    },
+    "claim": "According to the chart Wikimedia spent least amount on Internet hosting in 2006.",
+    "label": "FALSE"
+}

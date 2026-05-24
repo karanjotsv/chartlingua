@@ -1,0 +1,86 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Schulnoten",
+            "values": [
+                67,
+                26,
+                7
+            ]
+        },
+        {
+            "category": "Ergebnisse standardisierter<br>Tests",
+            "values": [
+                47,
+                41,
+                11
+            ]
+        },
+        {
+            "category": "Gemeinnütziges<br>Engagement",
+            "values": [
+                21,
+                48,
+                30
+            ]
+        },
+        {
+            "category": "Erste Person in der<br>Familie, die ein College besucht",
+            "values": [
+                20,
+                27,
+                53
+            ]
+        },
+        {
+            "category": "Sportliche Fähigkeiten",
+            "values": [
+                8,
+                34,
+                57
+            ]
+        },
+        {
+            "category": "Ob ein Verwandter<br>die Schule besucht hat",
+            "values": [
+                8,
+                24,
+                68
+            ]
+        },
+        {
+            "category": "Hautfarbe oder ethnische Zugehörigkeit",
+            "values": [
+                7,
+                19,
+                73
+            ]
+        },
+        {
+            "category": "Geschlecht",
+            "values": [
+                5,
+                14,
+                81
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Noten und Testergebnisse führen die Liste der Faktoren an,<br>die Amerikaner bei der Zulassung zum College<br>berücksichtigen sollten",
+        "subtitle": "% der Befragten, die angeben, dass jeder der folgenden Punkte ein ___ bei<br>Zulassungsentscheidungen zum College sein sollte",
+        "legend_items": [
+            "Wichtiger Faktor",
+            "Weniger wichtiger Faktor",
+            "Kein Faktor"
+        ],
+        "note": "Hinweis: Der Anteil der Befragten, die keine Antwort gaben, wird nicht angezeigt.",
+        "source": "Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 22. Jan. bis 5. Feb. 2019.",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#3E7D73",
+        "#71B3A9",
+        "#B89938"
+    ]
+}

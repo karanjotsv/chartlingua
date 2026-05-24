@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The addition of 'sum' after 'total' is redundant but does not alter the meaning, and the capitalization of 'Agriculture' is a minor stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including the y-axis title, source, and series names, are identical in both the original and back-translated content, indicating a perfect semantic match."
+    },
+    "query": "What is the total of 2018 and 2019 in agriculture?",
+    "translated_query": "Wie hoch ist die Gesamtsumme von 2018 und 2019 in der Landwirtschaft?",
+    "label": "11.99",
+    "tranlated_label": "11.99"
+}

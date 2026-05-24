@@ -1,0 +1,50 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "Freiberufler",
+            "x": [
+                "Weiß",
+                "Hispanisch oder Latino",
+                "Afrikanisch oder afrikanischer<br>Abstammung",
+                "Asiatisch-<br>Amerikanisch/Asiatisch",
+                "Alle anderen"
+            ],
+            "y": [
+                62,
+                16,
+                12,
+                5,
+                4
+            ]
+        },
+        {
+            "name": "US-Arbeitnehmer insgesamt",
+            "x": [
+                "Weiß",
+                "Hispanisch oder Latino",
+                "Afrikanisch oder afrikanischer<br>Abstammung",
+                "Asiatisch-<br>Amerikanisch/Asiatisch",
+                "Alle anderen"
+            ],
+            "y": [
+                66,
+                15,
+                10,
+                5,
+                3
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2476D1",
+        "#0C2340"
+    ]
+}

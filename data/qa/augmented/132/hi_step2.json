@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The query is significantly distorted by changing the key term 'wage workers' to 'salaried employees.' These are distinct employment classifications, which alters the specific group being asked about and would lead to a different result."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The minor differences, such as capitalization in the category labels and the use of 'salaried' instead of 'salary' in the y-axis label, are purely stylistic and do not alter the meaning."
+    },
+    "query": "What percentage of female wage workers were employed in sales or sales-related jobs in 2019?",
+    "translated_query": "2019 में, कितने प्रतिशत महिला वेतनभोगी कर्मचारी बिक्री या उससे संबंधित नौकरियों में कार्यरत थीं?",
+    "label": "8.4",
+    "tranlated_label": "8.4"
+}

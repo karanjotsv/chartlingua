@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, axis labels, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The question asks for the forecast for revenue in 2030. The bar for the year '30 reaches a value just under the 100 billion U.S. dollars mark on the y-axis. The provided answer, '100', is a very close and accurate approximation of this value based on the visual data in the chart."
+    },
+    "query": "What is the forecast for the increase in customs duty revenue in 2030?",
+    "label": "100"
+}

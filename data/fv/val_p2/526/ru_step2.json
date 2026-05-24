@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly maintains the original meaning. 'Domestic service' and 'household services' are highly synonymous, as are 'occupation' and 'employment' in this context. The phrasing variations are minor and do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. 'Domestic Services' became 'Household Services', 'Labourers' became 'Workers', and 'Occupation' became 'Profession' (with the original 'Occuapation' typo corrected). These are all minor semantic variations that maintain the core meaning and do not significantly alter the information conveyed."
+    },
+    "claim": "The average of Agriculture and Domestic service of occupation  is about 15%",
+    "translated_claim": "Среднее значение по сельскому хозяйству и бытовым услугам среди видов занятости составляет около 15%"
+}

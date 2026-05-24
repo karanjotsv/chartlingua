@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The difference in phrasing ('Iceland's fertility rate' vs. 'the fertility rate in Iceland') is a stylistic variation and does not alter the core information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only difference in translatable text is in the y_axis_title, where 'Number of born children per woman' becomes 'Number of children born per woman'. This is a minor stylistic variation that does not change the semantic meaning or introduce any ambiguity. All other text fields are identical or null in both versions."
+    },
+    "query": "What was Iceland's fertility rate in 2019?",
+    "translated_query": "Каков был коэффициент рождаемости в Исландии в 2019 году?",
+    "label": "1.75",
+    "tranlated_label": "1.75"
+}

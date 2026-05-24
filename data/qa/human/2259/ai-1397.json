@@ -1,0 +1,51 @@
+{
+    "chart_type": "grouped_bar",
+    "categories": [
+        "Small (1-99 employees)",
+        "Medium (100-499 employees)"
+    ],
+    "chart_data": [
+        {
+            "name": "30-39 years",
+            "y": [
+                14.7,
+                7.5
+            ]
+        },
+        {
+            "name": "40-49 years",
+            "y": [
+                26.1,
+                27.3
+            ]
+        },
+        {
+            "name": "50-64 years",
+            "y": [
+                47.4,
+                51.0
+            ]
+        },
+        {
+            "name": "Over 65 years",
+            "y": [
+                11.8,
+                14.2
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of SME owners",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2874D0",
+        "#102C44",
+        "#BFBFBF",
+        "#A51717"
+    ]
+}

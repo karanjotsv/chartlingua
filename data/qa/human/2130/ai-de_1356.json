@@ -1,0 +1,43 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Sofort",
+            "Innerhalb einer Stunde",
+            "Im Laufe des Tages",
+            "Ich erwarte keine Antwort"
+        ],
+        "series": [
+            {
+                "name": "Vereinigte Staaten",
+                "data": [
+                    20,
+                    24,
+                    31,
+                    25
+                ]
+            },
+            {
+                "name": "Globaler Durchschnitt",
+                "data": [
+                    18,
+                    28,
+                    37,
+                    17
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2574CF",
+        "#132D43"
+    ]
+}

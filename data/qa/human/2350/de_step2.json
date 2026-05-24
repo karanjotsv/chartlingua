@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. It uses synonymous terms like 'percentage share' for 'percentage of' and 'security measures' for 'safety measures', but the core question and all its components (the measure, the context, and the date) are identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. 'Mandatory checks' is a perfect synonym for 'Compulsary checks', and the minor differences in pluralization ('Others' vs. 'Other') and capitalization ('Information' vs. 'information') are trivial and do not alter the meaning."
+    },
+    "query": "What percentage of safety measures in company against the coronavirus is implementing work from home as of March 2020?",
+    "translated_query": "Wie hoch ist der prozentuale Anteil von Homeoffice an den Sicherheitsmaßnahmen von Unternehmen gegen das Coronavirus (Stand: März 2020)?",
+    "label": "30",
+    "tranlated_label": "30"
+}

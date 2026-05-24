@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The data values, proportions, and most color hues are consistent with the original. However, the rendered chart fails to connect the labels for the smaller categories (JCP, SDP, YP, PNP) to their corresponding slices. Instead, they are listed at the top, breaking a key semantic link and making that part of the chart uninterpretable without prior knowledge.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart has a gross layout issue: the labels for the smaller data slices are disconnected from the slices themselves and presented as a list at the top. This makes it impossible to identify which slice belongs to which category, which is a major flaw that impedes understanding. Additionally, some of these labels are slightly clipped at the top of the image."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart clearly indicates that the DPJ holds the most mandates with a value of 308. All other parties or groups shown, including those that might be categorized as Independents, have significantly fewer mandates. Therefore, the claim that Independents held the most mandates is directly contradicted by the data presented."
+    },
+    "claim": "Independents held the most mandates in Japanese parliamentary elections in 2009.",
+    "label": false
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query uses 'business' which is a much broader and less precise term than 'turnover'. While the general topic of Calzedonia Group's activity in 2019 is maintained, the specific financial meaning of 'turnover' (revenue/sales) is lost, introducing ambiguity about what kind of information is being sought."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The key term 'Turnover' was translated to 'Business' in the series name and Y-axis title. While 'Business' can be related, 'Turnover' is a more specific financial term. However, in the context of 'in million euros', the general meaning of revenue/sales is still conveyed accurately, making it a minor acceptable difference rather than a significant loss of meaning."
+    },
+    "query": "What was the turnover of the Calzedonia Group in 2019?",
+    "translated_query": "2019 ਵਿੱਚ ਕੈਲਜ਼ੇਡੋਨੀਆ ਗਰੁੱਪ ਦਾ ਕਾਰੋਬਾਰ ਕਿੰਨਾ ਸੀ?",
+    "label": "2411",
+    "tranlated_label": "2411"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, colors, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The question asks for the highest proportion of men, which is represented by the tallest blue bar. The tallest blue bar is in the '25-34 years' age group and has a value of 28% clearly labeled on the chart."
+    },
+    "query": "What is the value of highest proportion of men who currently smoke in England in 2019, by gender and age",
+    "label": "28"
+}

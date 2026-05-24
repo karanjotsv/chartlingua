@@ -1,0 +1,32 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Great reader (20+ books)",
+            "value": 31
+        },
+        {
+            "category": "Average reader (5 to 19<br>books)",
+            "value": 39
+        },
+        {
+            "category": "Casual reader (from 1 to 4<br>books)",
+            "value": 23
+        },
+        {
+            "category": "Non-reader (0 book)",
+            "value": 8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Share of respondents",
+        "source": "© Statista 2021",
+        "data_labels_suffix": "%"
+    },
+    "colors": [
+        "#1e78d2"
+    ]
+}

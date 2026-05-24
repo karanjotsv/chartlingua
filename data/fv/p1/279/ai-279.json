@@ -1,0 +1,35 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Loading a huge entity",
+            "x": [
+                "#3",
+                "#11",
+                "#12",
+                "#13",
+                "#14",
+                "#15"
+            ],
+            "y": [
+                285000,
+                268000,
+                262000,
+                265000,
+                288000,
+                30000
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Responding time",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ms",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#CC0000"
+    ]
+}

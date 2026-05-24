@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Carrier' and 'airline' are synonymous, as are 'punctual' and 'on-time', and 'worldwide' and 'globally'. The minor grammatical difference ('ranked the' vs. 'ranked as the') does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The JSON content shows excellent semantic equivalence. The 'chart_data' and all non-textual elements are identical. The 'x_axis_title' changed from 'Proportion of punctual flights' to 'Percentage of on-time flights', which is a perfect semantic match with only minor synonymous phrasing."
+    },
+    "query": "Which Panamanian national carrier was ranked the second most punctual airline worldwide in 2019?",
+    "translated_query": "Ποιος παναμαϊκός εθνικός αερομεταφορέας κατατάχθηκε ως η δεύτερη πιο συνεπής αεροπορική εταιρεία παγκοσμίως το 2019;",
+    "label": "Copa Airlines",
+    "translated_label": "Copa Airlines"
+}

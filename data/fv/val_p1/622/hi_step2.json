@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation changes the core comparison from \"the same as\" (implying exact equality) to \"similar to\" (implying approximation). This is a significant loss of precision and alters a key detail of the claim."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are minor and stylistic (e.g., 'Public Transportation Network' vs. 'Public transport network', 'type of vehicle' vs. 'vehicle type', 'Trolley' vs. 'Trolleybus'), with no change in meaning."
+    },
+    "claim": "The distances between stations of the diesel bus route are the same as those of the trolleybus route in Brasov, Romania as of June 2012.",
+    "translated_claim": "जून 2012 तक, रोमानिया के ब्रासोव में डीज़ल बस मार्ग के स्टेशनों के बीच की दूरियाँ ट्रॉलीबस मार्ग की दूरियों के समान हैं।"
+}

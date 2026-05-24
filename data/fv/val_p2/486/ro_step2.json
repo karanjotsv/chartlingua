@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. 'Performance metrics' and 'performance indicators' are synonymous in this context, and the minor grammatical difference ('is showing' vs 'shows') does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The title and series names are accurately translated using synonyms ('Metrics' vs 'indicators', 'meantime' vs 'average time'). However, a key detail in the x-axis categories was altered from 'Jan 12' to 'Sun 12', which changes the specific information presented on that data point."
+    },
+    "claim": "A bar chart is showing the Average performance metrics for Media Viewer.",
+    "translated_claim": "Un grafic cu bare prezintă indicatorii medii de performanță pentru Media Viewer."
+}

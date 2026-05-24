@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content perfectly preserves the semantic meaning of the original query. Differences like 'graph' vs 'chart' and 'Z value' vs 'value Z' are purely stylistic and do not alter the core message."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles, data series names, and annotations, is an exact semantic match between the original and back-translated JSON objects. There are no differences whatsoever."
+    },
+    "claim": "According to the graph the Z value decreases as the p-value increases.",
+    "translated_claim": "Σύμφωνα με το γράφημα, η τιμή Ζ μειώνεται καθώς αυξάνεται η τιμή p."
+}

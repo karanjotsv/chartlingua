@@ -1,0 +1,33 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Совсем не уверены,<br>мы понятия не имеем,<br>с чего начать",
+            "value": 3,
+            "annotation": "37.5 % (3)"
+        },
+        {
+            "category": "Не очень уверены,<br>мы делали это<br>всего пару раз",
+            "value": 0,
+            "annotation": null
+        },
+        {
+            "category": "Немного уверены,<br>мы уверены, что<br>сможем разобраться",
+            "value": 5,
+            "annotation": "62.5 % (5)"
+        }
+    ],
+    "texts": {
+        "title": "Если ваш Отдел не производил полноцветную печать, насколько комфортно вы себя чувствуете при<br>создании материалов для печати?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#F28500",
+        "#FFFFFF",
+        "#9F40B4"
+    ]
+}

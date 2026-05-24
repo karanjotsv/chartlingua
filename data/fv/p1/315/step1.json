@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart accurately reproduces the data points, line styles, axis labels, and axis ranges. However, it completely omits the labels for the three data series (\"In-party feeling\", \"Out-party feeling\", \"Affective polarization\") and the descriptive annotations on the right side of the chart (\"Favorable\", \"Neutral feeling\", \"Unfavorable\"). This lack of essential labels makes the chart uninterpretable on its own, which is a major semantic discrepancy.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays three trend lines. Assuming 'In-party feelings' are represented by the highest line (the green dotted line with circular markers), as is typical in such political science charts, all of its data points from 1980 to 2016 are clearly above the '50' mark on the 'Feeling thermometer rating' axis. The lowest value for this line is well above 50."
+    },
+    "claim": "In-party feelings was over 50 every election year since 1980 till 2016. ",
+    "label": true
+}

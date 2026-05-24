@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translation perfectly captures the intended meaning. 'Rep' is correctly expanded to 'Republican'. 'Leap Rep' is very likely a typo in the original for 'Lean Rep' (or 'Lean Republican'), a common political term. The back-translation accurately interprets and clarifies this probable typo, making the query more meaningful and semantically equivalent to what was likely intended. The case difference for 'minor' is trivial."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'arguments' vs 'disagreements', 'Major' vs 'Significant', and expanded abbreviations ('Rep/Lean Rep' to 'Republican/Lean Republican') are stylistic or synonymous and do not alter the core meaning or information."
+    },
+    "query": "What is the value of \"minor\" in Rep/Leap Rep?",
+    "translated_query": "Ποια είναι η τιμή του \"Μικρό\" στο Ρεπουμπλικανός/Κλίνων προς Ρεπουμπλικανό;",
+    "label": "30",
+    "tranlated_label": "30"
+}

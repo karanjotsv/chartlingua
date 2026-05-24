@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly faithful reproduction of the original. All text labels, data curves, and key conceptual points (Tg, Tc1, Tc2, Tf, Surfusion) are present, correctly placed, and convey the same scientific meaning as the original diagram.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There are visual artifacts on the x-axis, specifically overlapping and extraneous lines near the 'Tf' and 'Tc2' labels and the 'Surfusion' bracket, which clutter that part of the chart and suggest a rendering error."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim states that the 'Chauffage' (heating) curve starts at a higher value on the y-axis than the 'refroidissement' (cooling) curve. This is visually confirmed by the chart, where the solid line (Chauffage) begins at a higher 'Puissance' level than the dashed line (refroidissement) at the leftmost point of the graph."
+    },
+    "claim": "Chauffage starts at a higher value than refroidissement.",
+    "label": false
+}

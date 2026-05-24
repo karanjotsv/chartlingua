@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is an excellent recreation of the original. The data series, including all peaks and troughs, is visually identical. The color scheme is the same. The rendered version improves upon the original by adding a clear title and readable axis labels, which were unreadable in the original, without changing the core data or message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim refers to the period from 1975 to 2015, but the chart's x-axis only displays data from the year 2000 to 2024. There is no information provided for the years between 1975 and 1999."
+    },
+    "claim": "Major California Water Reservoir Capacity is always higher than 10% during 1975-2015 period.",
+    "label": true
+}

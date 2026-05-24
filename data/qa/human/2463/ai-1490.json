@@ -1,0 +1,34 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Connected medical device device",
+            "values": [
+                66,
+                58
+            ]
+        },
+        {
+            "name": "Other medical device",
+            "values": [
+                34,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Percentage of R&D budgets",
+        "x_axis_labels": [
+            "Today",
+            "In 5 years"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2978d4",
+        "#10243a"
+    ]
+}

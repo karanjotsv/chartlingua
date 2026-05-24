@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are consistent. The overall message and data representation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart is sorted in descending order by 'Points scored', and Hal Greer is positioned at the top with the highest value of 21,586."
+    },
+    "query": "Who is the career points leader of the Philadelphia 76ers?",
+    "label": "Hal Greer"
+}

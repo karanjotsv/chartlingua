@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, text content (titles, labels), and overall structure are identical to the original. The core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The bar chart clearly shows that China has the highest frequency of team score winners, with a bar that is taller than Russia's."
+    },
+    "claim": "Russia has the greatest frequency of IMO team score winners.",
+    "label": false
+}

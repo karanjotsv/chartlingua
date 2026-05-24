@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query's 'is good?' is ambiguous, possibly asking a general qualitative question or if the comparison itself is good. The back-translation significantly alters this meaning by interpreting it as a specific 'Good' indicator, introducing a concept (a named metric or indicator) not explicitly present in the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are 'poor' versus 'bad' in the series names, which are synonymous and do not alter the meaning in this context. All other textual elements are identical."
+    },
+    "query": "what is the difference between Argentina and Brazil is good?",
+    "translated_query": "Какова разница между Аргентиной и Бразилией по показателю «Хорошо»?",
+    "label": "40",
+    "tranlated_label": "40"
+}

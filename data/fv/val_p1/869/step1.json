@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are identical. The overall message conveyed is exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart indicates that coal is the source for 46.7% of electricity generation in Iowa in 2016, which is the largest percentage among all listed sources."
+    },
+    "claim": "Coal is the largest source of electricity generated in Lowa.",
+    "label": true
+}

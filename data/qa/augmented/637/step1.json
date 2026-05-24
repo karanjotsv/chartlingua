@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the risk index score for the year 2020 as 6.78, which matches the value labeled on the corresponding data point in the line chart."
+    },
+    "query": "What was Nicaragua's index score in 2020?",
+    "label": "6.78"
+}

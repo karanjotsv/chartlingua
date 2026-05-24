@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The data values (percentages), color hues, and title are consistent. However, the category labels that describe each pie slice are completely corrupted, fragmented, and misplaced. This makes it impossible to understand what each slice represents, fundamentally compromising the chart's core message.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The category labels are severely clipped (e.g., '$50 - $100' is rendered as '-50-') and positioned far away from their corresponding pie slices, which constitutes a gross layout issue. This makes the labels unreadable and the chart unintelligible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays a 'Revenue Breakdown by Donation Amount', showing the percentage of total money that comes from different donation sizes. The claim, however, makes a comparison about the 'number of people' who donated, which is a different metric. The chart provides no information about the number of donors in each category, only the percentage of total revenue they contributed."
+    },
+    "claim": "Lesser number of people donated between $10 to $30 than people who donated between $1000 to $250000 in the year 2013.",
+    "label": false
+}

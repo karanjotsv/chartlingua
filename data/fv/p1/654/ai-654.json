@@ -1,0 +1,101 @@
+{
+    "chart_type": "conceptual_area_chart",
+    "texts": {
+        "title": "Fire Ecology",
+        "legend_title": "Legend",
+        "xaxis_title": "yr"
+    },
+    "data_series": [
+        {
+            "name": "Grassland",
+            "x": [
+                -15,
+                0,
+                0.1,
+                20,
+                40,
+                60,
+                80,
+                100,
+                110
+            ],
+            "y": [
+                20,
+                20,
+                0,
+                0,
+                10,
+                15,
+                18,
+                20,
+                20
+            ],
+            "line_color": "#FF0000",
+            "pattern_shape": "|"
+        },
+        {
+            "name": "shrubland",
+            "x": [
+                -15,
+                0,
+                0.1,
+                20,
+                40,
+                60,
+                80,
+                100,
+                110
+            ],
+            "y": [
+                50,
+                50,
+                0,
+                0,
+                25,
+                40,
+                50,
+                55,
+                55
+            ],
+            "line_color": "#0000FF",
+            "pattern_shape": "x"
+        },
+        {
+            "name": "Tree",
+            "x": [
+                -15,
+                0,
+                0.1,
+                20,
+                40,
+                60,
+                80,
+                100,
+                110
+            ],
+            "y": [
+                80,
+                80,
+                0,
+                0,
+                25,
+                50,
+                70,
+                80,
+                80
+            ],
+            "line_color": "#00FF00",
+            "pattern_shape": "."
+        }
+    ],
+    "style_options": {
+        "pattern_fg_color": "#696969",
+        "pattern_fill_color": "#F0F0F0",
+        "fire_icon": {
+            "x": -7,
+            "y": 85,
+            "text": "🔥",
+            "size": 30
+        }
+    }
+}

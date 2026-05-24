@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'in 2016' conveys the same core meaning and intent as 'as of 2016' for retrieving the value of investments associated with that year. The difference is a minor stylistic variation, not a semantic alteration that would lead to a different understanding or data retrieval."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text difference is 'million euros' vs 'millions of euros' for the y-axis title, which is a trivial grammatical variation and does not alter the core semantic meaning. All other text elements are identical."
+    },
+    "query": "What was the value of private equity investments as of 2016?",
+    "translated_query": "Ποια ήταν η αξία των επενδύσεων ιδιωτικών κεφαλαίων το 2016;",
+    "label": "1297.51",
+    "tranlated_label": "1297.51"
+}

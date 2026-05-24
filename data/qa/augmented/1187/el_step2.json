@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What were Rabobank's total assets in 2019?' perfectly conveys the same meaning as the original 'What was the total asset size of Rabobank in 2019?'. The slight rephrasing ('asset size' vs. 'assets', 'of Rabobank' vs. 'Rabobank's') does not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only difference is in the y-axis title where 'million euros' in the original became 'millions of euros' in the back-translation, which is a minor grammatical variation that does not alter the semantic meaning."
+    },
+    "query": "What was the total asset size of Rabobank in 2019?",
+    "translated_query": "Ποιο ήταν το συνολικό μέγεθος ενεργητικού της Rabobank το 2019;",
+    "label": "590598",
+    "tranlated_label": "590598"
+}

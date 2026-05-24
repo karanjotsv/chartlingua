@@ -1,0 +1,32 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Wasser",
+            "value": 52.2
+        },
+        {
+            "label": "Abwasser",
+            "value": 36.0
+        },
+        {
+            "label": "Unterstützung für Kapitalprojekte",
+            "value": 11.8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "data_labels": [
+            "Wasser<br>52.2%",
+            "Abwasser<br>36%",
+            "Unterstützung<br>für<br>Kapitalprojekte<br>11.8%"
+        ]
+    },
+    "colors": [
+        "#0033ff",
+        "#663399",
+        "#cc9933"
+    ]
+}

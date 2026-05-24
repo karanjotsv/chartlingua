@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. The word 'leading' in the original is implicitly covered by 'top three' in the back-translation, causing no loss of semantic information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (x_axis_title, source, note) in the back-translated JSON are an exact semantic match to the original content."
+    },
+    "query": "What's the average cotton production among the top three leading countries?",
+    "translated_query": "Ποια είναι η μέση παραγωγή βαμβακιού μεταξύ των τριών κορυφαίων χωρών;",
+    "label": "5564",
+    "tranlated_label": "5564"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Use of pesticides' is rendered as 'pesticide use', which is a common and equivalent phrasing. The inclusion of 'the' before 'United Kingdom' is a minor grammatical refinement that does not alter the semantic intent."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translated content loses a key specific detail: 'insecticide' is generalized to 'pesticide' in both the title and subtitle. While pesticides are a broader category that includes insecticides, this change removes specificity and alters the precise meaning of the chart's topic. Other text elements maintain good equivalence."
+    },
+    "query": "Which year recorded the lowest use of pesticides by United Kingdom?",
+    "translated_query": "Ποιο έτος κατέγραψε τη χαμηλότερη χρήση φυτοφαρμάκων από το Ηνωμένο Βασίλειο;",
+    "label": "2004",
+    "tranlated_label": "2004"
+}

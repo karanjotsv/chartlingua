@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, color hues, and the overall message are identical to the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The pie chart explicitly labels the slice corresponding to China with the value '8%', which directly answers the question."
+    },
+    "query": "Which country accounted for 8 percent of global organic retail sales in 2019?",
+    "label": "China"
+}

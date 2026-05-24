@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the data values, trend, title, and axis labels from the original chart. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that in 1994, the GDP percentage of UK debt was above 70%. However, the bar chart clearly shows the value for 1994 is below the 40% line."
+    },
+    "claim": "In 1994, the GDP percentage of UK debt was above 70%.",
+    "label": "FALSE"
+}

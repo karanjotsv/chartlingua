@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, titles, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that females aged 9 had the third highest number of arrests. The chart clearly contradicts this, showing the bar for age 9 is one of the lowest on the graph. The three highest bars correspond to ages 15, 16, and 17."
+    },
+    "claim": "The third highest number of arrests for disorderly conduct in US in 2014 were of females aged 9 years.",
+    "label": "FALSE"
+}

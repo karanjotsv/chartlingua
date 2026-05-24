@@ -1,0 +1,172 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "name": "Hardware",
+            "y": [
+                2.95,
+                3.15,
+                3.4,
+                3.75,
+                3.35,
+                3.5,
+                3.75,
+                4.15,
+                3.3,
+                3.6
+            ],
+            "text": [
+                2.95,
+                3.15,
+                3.4,
+                3.75,
+                3.35,
+                3.5,
+                3.75,
+                4.15,
+                3.3,
+                3.6
+            ],
+            "textfont_color": "white"
+        },
+        {
+            "name": "Software",
+            "y": [
+                2.65,
+                2.7,
+                2.95,
+                3.15,
+                2.8,
+                2.85,
+                3.1,
+                3.25,
+                3.4,
+                3.7
+            ],
+            "text": [
+                2.65,
+                2.7,
+                2.95,
+                3.15,
+                2.8,
+                2.85,
+                3.1,
+                3.25,
+                3.4,
+                3.7
+            ],
+            "textfont_color": "white"
+        },
+        {
+            "name": "Securitate ca serviciu",
+            "y": [
+                0.85,
+                0.85,
+                0.9,
+                0.95,
+                1.0,
+                1.0,
+                1.1,
+                1.15,
+                0.9,
+                1.4
+            ],
+            "text": [
+                0.85,
+                0.85,
+                0.9,
+                0.95,
+                1,
+                1,
+                1.1,
+                1.15,
+                0.9,
+                1.4
+            ],
+            "textfont_color": "black"
+        },
+        {
+            "name": "Dispozitiv/agent virtual",
+            "y": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.6,
+                0.8
+            ],
+            "text": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.6,
+                0.8
+            ],
+            "textfont_color": "white"
+        },
+        {
+            "name": "Sarcină de lucru în cloud public",
+            "y": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.3,
+                0.4
+            ],
+            "text": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0.3,
+                0.4
+            ],
+            "textfont_color": "black"
+        }
+    ],
+    "x_categories": [
+        "Q1 '16",
+        "Q2 '16",
+        "Q3 '16",
+        "Q4 '16",
+        "Q1 '17",
+        "Q2 '17",
+        "Q3 '17",
+        "Q4 '17",
+        "Q1 '18",
+        "Q1 '19"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Venituri din piață în miliarde de dolari americani",
+        "source": "© Statista 2021",
+        "note": null
+    },
+    "colors": [
+        "#2672C4",
+        "#0C2340",
+        "#B2B2B2",
+        "#B00000",
+        "#79B42F"
+    ]
+}

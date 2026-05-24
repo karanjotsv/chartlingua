@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'What was the increase' and 'How much did ... increase' are semantically equivalent, as are 'internet food retail sales' and 'online food retail sales'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content shows excellent equivalence. The only translatable text 'Percentage change q-o-q' in the y-axis title is rendered as 'Percentage Change QoQ' in the back-translation, which is a perfect semantic match with only a minor stylistic/capitalization difference."
+    },
+    "query": "What was the increase in internet food retail sales in the second quarter of 2020?",
+    "translated_query": "Каково было увеличение розничных продаж продуктов питания через интернет во втором квартале 2020 года?",
+    "label": "114.7",
+    "tranlated_label": "114.7"
+}

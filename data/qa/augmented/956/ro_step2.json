@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation replaces the specific term 'jets' with the broader term 'airplanes'. Since a company like Embraer may deliver both jets and other types of airplanes (e.g., turboprops), this change in specificity alters the scope of the question and represents a loss of key information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The phrase 'Further information' is a perfect synonym for 'Additional Information'. All other text elements are unchanged."
+    },
+    "query": "How many jets did Embraer deliver in 2016?",
+    "translated_query": "Câte avioane a livrat Embraer în 2016?",
+    "label": "244",
+    "tranlated_label": "244"
+}

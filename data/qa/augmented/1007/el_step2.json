@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Who' instead of 'What' for a magazine title is a minor stylistic difference that does not alter the intent of the question. 'Overall reach' and 'total reach' are synonymous, as are 'UK' and 'United Kingdom'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All proper nouns (publication titles) and numerical data are identical. The axis titles 'Individuals reached in thousands' and 'Print title' were back-translated to 'People reached in thousands' and 'Publication title' respectively, which are perfect synonymous equivalents and do not alter the meaning or information."
+    },
+    "query": "What was the leading general magazine title in terms of overall reach in the UK from April 2019 to 2020?",
+    "translated_query": "Ποιος ήταν ο κορυφαίος τίτλος γενικού περιοδικού όσον αφορά τη συνολική απήχηση στο Ηνωμένο Βασίλειο από τον Απρίλιο του 2019 έως το 2020;",
+    "label": "Radio Times",
+    "translated_label": "Το Radio Times"
+}

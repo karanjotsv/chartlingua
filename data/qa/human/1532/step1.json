@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in data values, categories, ordering, and color hues. The main title and subtitle are identical. The only minor semantic discrepancy is that a portion of the source/note text at the bottom of the chart is missing in the rendered version.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value for 'Boys' as 56.6, which corresponds to the 56.6% value shown on the bar chart for that category."
+    },
+    "query": "What is the value of boys??",
+    "label": "56.6"
+}

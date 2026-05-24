@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The change from 'dollars USD' to 'US dollars' is a minor stylistic variation of the same currency, and adding 'in' before the year ('OECD in 2006' vs 'OECD 2006') improves grammar without altering the conveyed information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Data labels are semantically identical, with decimal formatting adjusted. The subtitle is phrased more naturally and accurately in the back-translation. The title changes 'value' to 'price'; while 'value' is broader, 'price' is acceptable in a financial context and does not significantly distort the meaning of a 20% reduction."
+    },
+    "claim": "Total bilateral aid is 79.5 billion dollars USD in the OECD 2006.",
+    "translated_claim": "Η συνολική διμερής βοήθεια είναι 79,5 δισεκατομμύρια δολάρια ΗΠΑ στον ΟΟΣΑ το 2006."
+}

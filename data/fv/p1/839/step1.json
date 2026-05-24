@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart is poorly consistent. While the visual proportions of the slices are similar, the legend is incomplete. Several categories from the original are missing, most critically the label for the largest (blue) slice, which represents 'Water / Wet Soils...'. This omission makes the chart's information fundamentally incomplete and misleading.",
+        "has_visual_flaws": true,
+        "flaw_reason": "There is severe text overlap. The multi-line text block containing the source information is rendered directly on top of the legend, making both the source text and the legend labels illegible."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that 'Mollic Alfs & Ents' is the smallest category, but the pie chart visually shows several other categories with smaller slices. For instance, the slice for 'Prairie poorly drained' (light beige) and a very thin orange slice at the top of the chart are both visibly smaller than the slice for 'Mollic Alfs & Ents'."
+    },
+    "claim": "Mollic Alfs & Ents are the smallest category of soil on the chart.",
+    "label": false
+}

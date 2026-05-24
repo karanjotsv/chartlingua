@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query perfectly conveys the same meaning as the original. The phrasing 'is higher in' vs 'contains more' and 'the other three' vs 'the three other' are minor stylistic differences that do not alter the semantic content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements within the JSON. Differences are minor stylistic variations (e.g., capitalization, singular vs. plural forms, date format) and do not alter the core meaning or introduce ambiguity."
+    },
+    "claim": "The typical American diet is higher in carbohydrates compared to the other three diets shown in the pie chart.",
+    "translated_claim": "Типичная американская диета содержит больше углеводов по сравнению с тремя другими диетами, показанными на круговой диаграмме."
+}

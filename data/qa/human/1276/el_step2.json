@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the percentage of the largest segment?' perfectly matches the original meaning of 'What's the percentage of biggest segment?'. 'Largest' is a perfect synonym for 'biggest', and 'What is' is the expanded form of 'What's', with no change in semantic intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Minor phrasing differences such as 'Oppose' to 'Opposition' and 'DK' to 'Don't know' in labels, and 'Army to Fight' to 'the Army in Combating' in the title, are stylistic or expand abbreviations without altering the main meaning."
+    },
+    "query": "What's the percentage of biggest segment?",
+    "translated_query": "Ποιο είναι το ποσοστό του μεγαλύτερου τμήματος;",
+    "label": "80",
+    "tranlated_label": "80"
+}

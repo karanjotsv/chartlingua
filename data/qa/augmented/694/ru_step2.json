@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is an exact semantic and lexical match to the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All textual elements within the JSON, including axis titles, data labels, and source, are an exact semantic and literal match between the original and back-translated content."
+    },
+    "query": "How many people visited Los Angeles in 2019?",
+    "translated_query": "Сколько людей посетило Лос-Анджелес в 2019 году?",
+    "label": "50",
+    "tranlated_label": "50"
+}

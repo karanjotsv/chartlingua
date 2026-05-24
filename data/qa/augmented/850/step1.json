@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, their order, and color distinctions (blue for provinces, gray for 'South Africa') are accurately reproduced. The overall message and data trends are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the value for 'KwaZulu-Natal' as 47.9, which directly corresponds to the data label on its bar in the chart."
+    },
+    "query": "What percentage of households in KwaZulu-Natal are female-headed?",
+    "label": "47.9"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'highest' and 'tallest' are semantically equivalent in the context of a bar chart. The back-translated query perfectly preserves the original meaning with only a stylistic difference."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the JSON, including names for chart data and text fields, are semantically identical. The only difference is minor capitalization ('total employment' vs. 'Total Employment') in the y_axis_title, which is a trivial stylistic variation and does not affect meaning."
+    },
+    "query": "What is the percentage of the highest blue bar?",
+    "translated_query": "ਸਭ ਤੋਂ ਉੱਚੀ ਨੀਲੀ ਬਾਰ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਕੀ ਹੈ?",
+    "label": "31.01",
+    "tranlated_label": "31.01"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their corresponding numerical labels, series names, colors, and axis labels are semantically identical. The overall trends and information conveyed are exactly the same.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart clearly shows that the polling numbers for the Tas. Liberal Party (blue line) are consistently higher than those for the Tas. Greens (green line) throughout the entire period shown."
+    },
+    "claim": "The Green Party has the higher polls than the Liberal Party.",
+    "label": "FALSE"
+}

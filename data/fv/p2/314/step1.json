@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While most data points, labels, and colors match, the first two data points on the x-axis ('Election 2018' and 'Feb 2018') are swapped, along with their corresponding data values for all four series. This distorts the trend at the beginning of the timeline.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays polling data for political parties (Tas. Liberal Party, Tas. Labor Party, Tas. Greens, and IND/OTH). There is no mention or data related to 'Option C' anywhere in the chart."
+    },
+    "claim": "Option C is the most popular choice.",
+    "label": "FALSE"
+}

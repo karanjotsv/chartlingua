@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields ('y_axis_title', 'source_text', 'note_left', 'note_right') maintain perfect semantic equivalence. The only difference is a minor capitalization change in 'note_left' ('Information' vs 'information'), which is a trivial stylistic variation and does not affect the meaning."
+    },
+    "query": "How many Mercedes-Benz cars were registered in Poland in 2011?",
+    "translated_query": "Сколько автомобилей Mercedes-Benz было зарегистрировано в Польше в 2011 году?",
+    "label": "4863",
+    "tranlated_label": "4863"
+}

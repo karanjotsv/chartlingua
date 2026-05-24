@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 4,
+        "claim_reason": "The back-translated claim accurately conveys the source and the percentage. The term 'unregistered adults' is a generally acceptable synonym for 'undocumented adults' in the context of the U.S. Department of Homeland Security, though it is slightly less precise than the original term."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The key difference is the translation of 'Undocumented' to 'Unregistered' in the chart data labels and title. While 'undocumented' is the more common and precise term for immigration status, 'unregistered' conveys a semantically similar meaning of lacking official status and does not significantly distort the information."
+    },
+    "claim": "In US department of Homeland security, undocumented adults are 88%",
+    "translated_claim": "Σύμφωνα με το U.S. Department of Homeland Security, οι ανεγγεγραμμένοι ενήλικες είναι 88%"
+}

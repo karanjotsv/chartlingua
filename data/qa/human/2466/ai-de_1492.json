@@ -1,0 +1,87 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Stimme voll und ganz zu",
+            "values": [
+                16,
+                19,
+                24,
+                26,
+                30,
+                30
+            ],
+            "text_color": "white"
+        },
+        {
+            "name": "Stimme eher zu",
+            "values": [
+                32,
+                42,
+                43,
+                39,
+                41,
+                43
+            ],
+            "text_color": "white"
+        },
+        {
+            "name": "Weder stimme ich zu noch lehne ich ab",
+            "values": [
+                40,
+                32,
+                28,
+                29,
+                25,
+                22
+            ],
+            "text_color": "black"
+        },
+        {
+            "name": "Stimme eher nicht zu",
+            "values": [
+                9,
+                6,
+                3,
+                4,
+                3,
+                3
+            ],
+            "text_color": "white"
+        },
+        {
+            "name": "Stimme überhaupt nicht zu",
+            "values": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "text_color": "black"
+        }
+    ],
+    "categories": [
+        "Hilft mir, Trendprodukte zu identifizieren",
+        "Ermutigt mich, mit einer Marke zu interagieren",
+        "Schafft ein authentischeres Einkaufserlebnis<br>",
+        "Ist interessanter als von der Marke<br>erstellte Inhalte",
+        "Verbessert das Kundenfeedback",
+        "Erhöht mein Vertrauen beim Kauf"
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Anteil der Befragten",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2B74D0",
+        "#112B47",
+        "#C0C0C0",
+        "#B20000",
+        "#8DC147"
+    ]
+}

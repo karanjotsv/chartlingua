@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values (75%, 17%, 7%), proportions, and color hues for each slice are identical. The overall structure and message are perfectly preserved. The legend labels in the original are unreadable (blacked out), and the rendered chart provides default numerical labels which is a consistent representation in this case.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses sources of electricity generation in Idaho, but the chart displays a distribution of four numerical categories labeled '0', '1', '2', and '3'. There is no information in the chart related to hydroelectric power, electricity sources, or the location of Idaho."
+    },
+    "claim": "Hydroelectric was the highest source of electricity generation in Idaho in February 2009.",
+    "label": true
+}

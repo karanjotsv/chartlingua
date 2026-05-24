@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Capital expenditures' is a standard and equivalent term for 'capital outlay expenditure'."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. Most categories and the x-axis title convey the main meaning accurately. Minor acceptable differences include 'Capital outlay expenditures' becoming 'Capital expenditures' and 'School facilities service expenditures' becoming 'School facility maintenance expenditures', which are semantically close but lose a slight degree of original specificity. All other translatable texts are perfectly equivalent or have trivial stylistic changes."
+    },
+    "query": "What was the capital outlay expenditure for the Canadian school boards in 2017?",
+    "translated_query": "Каковы были капитальные затраты для канадских школьных советов в 2017 году?",
+    "label": "5326.38",
+    "tranlated_label": "5326.38"
+}

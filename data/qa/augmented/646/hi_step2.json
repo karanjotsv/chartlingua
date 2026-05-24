@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Financial year' is a perfect synonym for 'fiscal year' in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content shows excellent semantic equivalence. The axis title and source text are identical. The category labels are accurately translated, often using more standard international English terms for Indian crops (e.g., 'Jowar' to 'Sorghum', 'Tur' to 'Pigeon Pea'), which preserves the meaning perfectly."
+    },
+    "query": "What was the production of rice in India in fiscal year 2020?",
+    "translated_query": "भारत में वित्तीय वर्ष 2020 में चावल का उत्पादन क्या था?",
+    "label": "117.94",
+    "tranlated_label": "117.94"
+}

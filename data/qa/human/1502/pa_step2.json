@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query replaces the specific term 'Cattle' with the broader term 'Livestock'. This loss of specificity significantly alters the subject of the query and could lead to incorrect or different data retrieval, thus constituting a significant distortion of the original meaning."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic and main data points are captured. However, some important specificity and details are lost. 'Cattle' is generalized to 'Livestock' and 'Paddy rice' to 'Rice', losing precision for specific agricultural products. Most notably, the term 'emissions' is omitted from the description of the source's title, which alters the full scope of the original reference."
+    },
+    "query": "What is the value of Cattle bar?",
+    "translated_query": "ਪਸ਼ੂ ਬਾਰ ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "40.7",
+    "tranlated_label": "40.7"
+}

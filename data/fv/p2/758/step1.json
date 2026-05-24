@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, categories, and color hues are identical. The overall trend and message are preserved. The addition of a title and legend clarifies the chart without changing its core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses a 'StrepHit IEG Web Sources Corpus' and its source domain, which is a topic completely unrelated to the chart's content. The chart displays data on exoplanet discoveries by year and method, and contains no information whatsoever about web corpora or source domains."
+    },
+    "claim": "The large source domain for StrepHit IEG Web Sources Corpus biographies is vocab.getty.edu.",
+    "label": "TRUE"
+}

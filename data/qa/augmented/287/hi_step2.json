@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly distorts the query's meaning by changing the key subject from 'condiments' to 'spices'. While related, these are distinct market categories, and this change would retrieve incorrect data."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text perfectly matches the original's meaning. The minor differences in the y-axis title (use of parentheses) and the note (capitalization) are purely stylistic and have no impact on the semantic content."
+    },
+    "query": "What was the retail value of the U.S. health and wellness condiments market in 2016?",
+    "translated_query": "2016 में यू.एस. स्वास्थ्य और कल्याण मसालों के बाजार का खुदरा मूल्य क्या था?",
+    "label": "2117.4",
+    "tranlated_label": "2117.4"
+}

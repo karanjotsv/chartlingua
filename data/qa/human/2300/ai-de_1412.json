@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "Vereinigte Staaten",
+            "Großbritannien",
+            "Frankreich",
+            "Deutschland",
+            "Spanien"
+        ],
+        "series": [
+            {
+                "name": "Nein, es ist nicht notwendig",
+                "data": [
+                    46,
+                    78,
+                    85,
+                    66,
+                    80
+                ]
+            },
+            {
+                "name": "Ja, es ist notwendig",
+                "data": [
+                    53,
+                    20,
+                    15,
+                    33,
+                    19
+                ]
+            },
+            {
+                "name": "Weiß nicht / verweigert",
+                "data": [
+                    2,
+                    2,
+                    0,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Land",
+        "y_axis_title": "Anteil der Befragten",
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2A7DE1",
+        "#0F2940",
+        "#C8C8C8"
+    ]
+}

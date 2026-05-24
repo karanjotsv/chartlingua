@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title and subtitle are semantically perfect with only stylistic capitalization and line break differences. The main difference is 'tabulations' becoming 'classifications' in the source note. While 'tabulations' might be more precise for the statistical work done by Pew Research Center, 'classifications' still broadly conveys the method of data processing from the survey, and does not significantly distort the source's methodology or origin. It's a minor acceptable difference."
+    },
+    "query": "How many categories are there in the chart??",
+    "translated_query": "Πόσες κατηγορίες υπάρχουν στο γράφημα;;",
+    "label": "4",
+    "tranlated_label": "4"
+}

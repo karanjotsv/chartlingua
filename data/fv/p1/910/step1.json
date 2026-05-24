@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The chart incorrectly maps the data series to the legend labels. For example, the highest peak in the original chart belongs to 'Satoshi Ōmura' (teal line), but in the rendered chart, this same data pattern is incorrectly attributed to 'Svetlana Alexievich' (dark teal line). There are multiple such swaps and color hue changes (e.g., 'Tu Youyou' changes from purple to blue) which fundamentally misrepresent the key information and insights of the original chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim asserts that the chart displays page views for 'football players'. However, the chart's legend lists the names of individuals and a group (e.g., 'Angus Deaton', 'Svetlana Alexievich', 'Tunisian National Dialogue Quartet') with no information provided within the chart to identify their profession. Therefore, the chart does not support the claim that the subjects are football players."
+    },
+    "claim": "The football players page views of enwiki are indicated by the line graph.",
+    "label": false
+}

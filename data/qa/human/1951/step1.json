@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original, matching the data values, categories, text labels, and color scheme identically. The only differences are the external UI elements which are not part of the chart data itself.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the ratio of 'Yes' to 'No' responses. The chart shows 'Yes' at 57% and 'No' at 37%. The ratio 57/37 is approximately 1.54, which matches the provided answer."
+    },
+    "query": "What is the ratio of yes to no?",
+    "label": "1.54"
+}

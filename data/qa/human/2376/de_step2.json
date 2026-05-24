@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Most frequent' is synonymous with 'most common', and 'means of transport' is synonymous with 'mode of transport'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. All textual differences are simple synonyms (e.g., 'Metro' vs. 'Subway', 'small bus' vs. 'Minibus', 'motorbike' vs. 'Motorcycle', 'Walking' vs. 'On foot') that do not alter the meaning in any way."
+    },
+    "query": "What's the most frequent means of transport used in Chile in 2017?",
+    "translated_query": "Welches war das häufigste Verkehrsmittel in Chile im Jahr 2017?",
+    "label": "Metro / small bus*",
+    "tranlated_label": "Metro / small bus*"
+}

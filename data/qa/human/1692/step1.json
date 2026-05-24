@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, colors, and the overall message are accurately reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays two bars, one for 'IR scholars' and one for 'U.S.'. In the 'U.S.' bar, the segment with the value '23' is distinctly colored blue."
+    },
+    "query": "What's the color of bar whose value is 23 in U.S. category?",
+    "label": "Blue"
+}

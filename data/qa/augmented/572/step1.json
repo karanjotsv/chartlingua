@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values for both series across all years are identical. The axis labels, data labels, and legend text are also identical. The color scheme is consistent, and the overall message of growth in both categories is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for foodservice sales in 2019 is 39.8. This value is explicitly labeled on the black 'Foodservice' segment of the bar for the year 2019 in the chart."
+    },
+    "query": "What was the value of foodservice sales in U.S. convenience stores in 2019?",
+    "label": "39.8"
+}

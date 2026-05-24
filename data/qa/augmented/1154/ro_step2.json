@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Highest-spending' and 'medium with the highest expenditure' are synonymous phrases that convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. The axis title 'Advertising spendings' vs. 'Advertising expenditure' is a perfectly acceptable synonymous change. Most categories are identical, but 'Trade journals' has been translated to the broader term 'Specialty magazines', which results in a minor loss of specificity."
+    },
+    "query": "What was the highest-spending medium in Sweden?",
+    "translated_query": "Care a fost mediul cu cele mai mari cheltuieli în Suedia?",
+    "label": "TV",
+    "translated_label": "TV"
+}

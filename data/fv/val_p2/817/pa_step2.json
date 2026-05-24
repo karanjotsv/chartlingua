@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated content is an exact semantic and lexical match to the original content."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (specifically the 'label' fields in 'chart_data') is perfectly identical between the original and back-translated versions. All other text fields in the 'texts' object were null in both, indicating no content to translate or compare."
+    },
+    "claim": "The graph shows that speed decreases over time.",
+    "translated_claim": "ਗ੍ਰਾਫ਼ ਦਰਸਾਉਂਦਾ ਹੈ ਕਿ ਸਮੇਂ ਦੇ ਨਾਲ ਗਤੀ ਘੱਟਦੀ ਜਾਂਦੀ ਹੈ।"
+}

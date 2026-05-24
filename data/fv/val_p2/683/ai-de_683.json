@@ -1,0 +1,75 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Stufe 1",
+            "x": [
+                "Vor der Krise",
+                "Tiefpunkt",
+                "Jetzt"
+            ],
+            "y": [
+                0,
+                -26,
+                -18
+            ]
+        },
+        {
+            "name": "Stufe 2",
+            "x": [
+                "Vor der Krise",
+                "Tiefpunkt",
+                "Jetzt"
+            ],
+            "y": [
+                0,
+                -25.5,
+                -17
+            ]
+        },
+        {
+            "name": "Stufe 3",
+            "x": [
+                "Vor der Krise",
+                "Tiefpunkt",
+                "Jetzt"
+            ],
+            "y": [
+                0,
+                -39,
+                -20
+            ]
+        },
+        {
+            "name": "Stufe 4",
+            "x": [
+                "Vor der Krise",
+                "Tiefpunkt",
+                "Jetzt"
+            ],
+            "y": [
+                0,
+                -42,
+                -26
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Die Umsatzentwicklung von 125 Unternehmen hängt von ihrer<br>Entfernung zum Endmarkt ab",
+        "subtitle": "(Zeitungsumfrage)",
+        "x_axis_title": null,
+        "y_axis_title": "Veränderung gegenüber der Vorkrisenzeit in %",
+        "source": null,
+        "x_axis_annotations": [
+            "Vor der Krise",
+            "Tiefpunkt",
+            "Jetzt"
+        ]
+    },
+    "colors": [
+        "#00008B",
+        "#C71585",
+        "#FFFF00",
+        "#00FFFF"
+    ]
+}

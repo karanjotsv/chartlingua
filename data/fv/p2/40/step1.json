@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the 'majority' (more than 50%) of arrested females were aged 15 and 16. The chart shows that these two age groups have the highest rate of arrests, but the sum of their bars is visually far less than the sum of all the other bars combined, meaning they do not constitute a majority of the total arrests shown. Additionally, the chart does not provide any information about the year 2014."
+    },
+    "claim": "Majority of females arrested in US in 2014 for disorderly conduct were of the age 15 and 16.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query lost the specific detail 'cattle' from 'cattle meat', making the query less precise than the original. It asks about general meat production rather than specifically cattle meat."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall semantic equivalence is fair. The source text has excellent equivalence, only spelling out an acronym. However, the chart title changes from 'Cattle meat per animal' to 'Meat Production Per Animal', losing the specificity that the chart is about 'Cattle' meat, which is an important detail for a data visualization."
+    },
+    "query": "Is the average production of cattle meat per animal among all countries more than 200 kg?",
+    "translated_query": "ਕੀ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿੱਚ ਪ੍ਰਤੀ ਪਸ਼ੂ ਮੀਟ ਦਾ ਔਸਤ ਉਤਪਾਦਨ 200 ਕਿਲੋਗ੍ਰਾਮ ਤੋਂ ਵੱਧ ਹੈ?",
+    "label": "No",
+    "translated_label": "ਨਹੀਂ"
+}

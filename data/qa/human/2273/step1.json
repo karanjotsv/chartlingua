@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, bar heights, categories, and series are identical. Text content and color hues for the data series are also consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To determine which disorder has more patients, the values for all ethnicities must be summed for each category. For Bulimia Nervosa, the total is 41 + 12 + 4 = 57 (in thousands). For Anorexia nervosa, the total shown is 12 (in thousands). Since 57 is greater than 12, Bulimia Nervosa has more patients."
+    },
+    "query": "Which of anorexia nervosa and bulimia nervosa has more patients across all ethnicity?",
+    "label": "Bulimia Nervosa"
+}

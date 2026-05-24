@@ -1,0 +1,138 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Hungary",
+            "x": [
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2015,
+                2016,
+                2017,
+                2018,
+                2019
+            ],
+            "y": [
+                8,
+                30.5,
+                16,
+                28.5,
+                38.5,
+                49.5,
+                47.5,
+                58,
+                33.5,
+                38,
+                55,
+                51.5,
+                63
+            ],
+            "mode": "lines+markers",
+            "line_style": "solid"
+        },
+        {
+            "name": "Lithuania_part1",
+            "x": [
+                2007,
+                2008,
+                2009
+            ],
+            "y": [
+                7,
+                15,
+                5
+            ],
+            "mode": "lines+markers",
+            "line_style": "solid"
+        },
+        {
+            "name": "Lithuania_part2",
+            "x": [
+                2009,
+                2010,
+                2011,
+                2012
+            ],
+            "y": [
+                5,
+                8,
+                10.5,
+                13
+            ],
+            "mode": "lines+markers",
+            "line_style": "dot"
+        },
+        {
+            "name": "Lithuania_part3",
+            "x": [
+                2012,
+                2013,
+                2014,
+                2015,
+                2016,
+                2017,
+                2018,
+                2019
+            ],
+            "y": [
+                13,
+                20,
+                -2.5,
+                -5,
+                6,
+                15,
+                -3,
+                20
+            ],
+            "mode": "lines+markers",
+            "line_style": "solid"
+        }
+    ],
+    "texts": {
+        "title": "FDI income payments by industry",
+        "subtitle": "Agriculture, forestry, fishing, Million US dollars, 2007 – 2019",
+        "source": "Source: Benchmark definition, 4th edition (BMD4); Foreign direct investment: income by industry",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "annotations": [
+            {
+                "x": 2019,
+                "y": 63,
+                "text": "Hungary",
+                "showarrow": true,
+                "arrowhead": 0,
+                "arrowcolor": "#636363",
+                "ax": -55,
+                "ay": 0,
+                "bgcolor": "rgba(255, 255, 255, 0.9)",
+                "bordercolor": "#c7c7c7",
+                "borderwidth": 1
+            },
+            {
+                "x": 2019,
+                "y": 20,
+                "text": "Lithuania",
+                "showarrow": true,
+                "arrowhead": 0,
+                "arrowcolor": "#636363",
+                "ax": -55,
+                "ay": 0,
+                "bgcolor": "rgba(255, 255, 255, 0.9)",
+                "bordercolor": "#c7c7c7",
+                "borderwidth": 1
+            }
+        ]
+    },
+    "colors": [
+        "#d73f45",
+        "#3787c8",
+        "#3787c8",
+        "#3787c8"
+    ]
+}

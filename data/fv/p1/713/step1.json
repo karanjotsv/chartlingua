@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, the connecting line, axis labels, title, and axis ranges are semantically identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that when Theta is zero, the Person Raw Score is zero. However, the chart shows that when Person Parameters (Theta) is 0 on the y-axis, the corresponding Person Raw Score on the x-axis is 5."
+    },
+    "claim": "When Theta is zero, Person Raw Scores is zero.",
+    "label": false
+}

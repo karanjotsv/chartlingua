@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. It has the same title, axis labels, data categories in the same order, and accurately represents the data values and proportions. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart explicitly shows the '2017 Top Ten Hydro Power States' sorted in descending order. Washington (WA) is listed at the very top with the longest bar, indicating it had the highest hydro power generation, which places it within the top three."
+    },
+    "claim": " Washington is one of the top three states for hydro power in 2017.",
+    "label": true
+}

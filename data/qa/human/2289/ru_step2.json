@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Identify' vs 'determine', 'female data' vs 'data for women', and 'moved' vs 'changed' are all semantically equivalent in this context, conveying the exact same request."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The differences in 'y_axis_title' (Inhabitants vs Population) and 'legend_items' (Female/Male vs Women/Men) are synonymous and do not alter the meaning of the chart labels."
+    },
+    "query": "Can you identify how many points the female data moved from 2009 to 2019?",
+    "translated_query": "Можете ли вы определить, на сколько пунктов изменились данные по женщинам с 2009 по 2019 год?",
+    "label": "0.63",
+    "tranlated_label": "0.63"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, categories, text labels, and color hues are all semantically identical to the original chart. The overall message is perfectly preserved. The different slice ordering and the 'exploded' slice are stylistic variations that do not alter the data's meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that Android had the highest market share, but the pie chart clearly shows its share as 3.26%, which is one of the smallest. Internet Explorer has the largest share at 29.05%, followed by Google Chrome at 23.22% and Mozilla Firefox at 21.76%."
+    },
+    "claim": "Android had the highest market share among smarthpone operating systems in 2009.",
+    "label": "FALSE"
+}

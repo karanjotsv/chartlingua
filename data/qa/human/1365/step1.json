@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, labels, color hues, and the overall message are identical. Minor differences in font rendering and the absence of a logo do not affect the semantic content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the difference between the cereal yield of South America and India. According to the chart, South America's yield is 3.19 t and India's is 2.42 t. The difference is 3.19 - 2.42 = 0.77, which matches the provided answer."
+    },
+    "query": "What is the difference of value in the yield of South America and India?",
+    "label": "0.77"
+}

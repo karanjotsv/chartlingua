@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query uses synonyms ('rising' for 'increase', 'falling' for 'decrease') that perfectly preserve the original semantic meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical to the original. 'R&D expenditures' is a direct and accurate equivalent for the acronym 'GERD' (Gross domestic expenditure on R&D)."
+    },
+    "query": "Does the graph increase or decrease?",
+    "translated_query": "Steigt oder fällt der Graph?",
+    "label": "increasing",
+    "translated_label": "steigend"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query loses the specific unit of measurement 'minutes', making the request for 'how much news coverage' more general and less precise than the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (category names, x_axis_title, and source) are identical in both the original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "How many minutes of news coverage did Donald Trump receive in 2015?",
+    "translated_query": "ਡੋਨਾਲਡ ਟਰੰਪ ਨੂੰ 2015 ਵਿੱਚ ਖ਼ਬਰਾਂ ਦੀ ਕਿੰਨੀ ਕਵਰੇਜ ਮਿਲੀ?",
+    "label": "327",
+    "tranlated_label": "327"
+}

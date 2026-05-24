@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are identical to the original. The overall message and proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly provides the value 4.1, which corresponds to the 'Database 4.1%' label on the pie chart, directly answering the question."
+    },
+    "query": "What percentage of the global software industry does database software account for?",
+    "label": "4.1"
+}

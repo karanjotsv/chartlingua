@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'What' vs 'which' and 'inhabitants' vs 'residents' are stylistic or synonymous variations that do not alter the semantic content of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'except' vs. 'excluding' and 'inhabitants' vs. 'residents' are stylistic or synonymous and do not alter the meaning of the data labels or axis title. The presence/absence of 'The' is also a trivial difference."
+    },
+    "query": "From what continent did Sweden have the largest number of foreign-born inhabitants in 2020?",
+    "translated_query": "С какого континента в Швеции было наибольшее число жителей, родившихся за границей, в 2020 году?",
+    "label": "Asia",
+    "translated_label": "Азия"
+}

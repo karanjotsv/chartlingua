@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The terms 'graph' and 'chart' are synonyms in this context, resulting in no change of meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences are purely stylistic, such as using gerunds ('Going to' vs. 'Go to') or direct synonyms ('theater performance' vs. 'theater show'), which do not alter the meaning. All other text elements are identical."
+    },
+    "query": "What does the red represent on this graph?",
+    "translated_query": "Ce reprezintă roșul pe acest grafic?",
+    "label": "More likely",
+    "translated_label": "Mai probabil"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Sum total value' is semantically equivalent to 'total value', and 'greater than' is a direct and grammatically correct equivalent of 'more then' (assuming 'then' was intended as 'than')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically equivalent. 'Share' was translated as 'Percentage' and 'whole sample' as 'total sample', which are perfectly synonymous and represent minor stylistic variations without any loss of meaning or key information."
+    },
+    "query": "Is the sum total value of Yes, it could more then  No ,it could not ?",
+    "translated_query": "Είναι η συνολική αξία του Ναι, θα μπορούσε μεγαλύτερη από το Όχι, δεν θα μπορούσε;",
+    "label": "No",
+    "translated_label": "Όχι"
+}

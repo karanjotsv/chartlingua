@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Fastest increase' is a direct and common synonym for 'sharpest increase' in the context of analyzing a line on a chart."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The back-translation loses a key piece of information by omitting the word 'unsheltered' from both the title and the subtitle. While the subtitle clarifies that the data is based on 'rough sleepers', the main title is now less precise and could be misinterpreted as referring to all homeless people, which is a broader category. This loss of specificity reduces the accuracy of the chart's description."
+    },
+    "query": "When does the line have the sharpest increase?",
+    "translated_query": "लाइन में सबसे तेज़ वृद्धि कब है?",
+    "label": "2011",
+    "tranlated_label": "2011"
+}

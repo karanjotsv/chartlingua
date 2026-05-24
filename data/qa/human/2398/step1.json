@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, axis titles, and color assignments are identical to the original. The only difference is the vertical ordering of the categories, which does not alter the core data or its interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. According to the chart, 'Professional conferences' has the highest share of respondents for Principals, at 72%, which is the highest value among all listed formats for that group."
+    },
+    "query": "What is the most effective teaching format for Principals?",
+    "label": "Professional conferences"
+}

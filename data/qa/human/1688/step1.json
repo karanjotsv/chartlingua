@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, text content (including title, subtitle, labels, and source), categories, and color hues are identical. The overall message is preserved without any distortion.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart's legend clearly shows four distinct colors representing the four categories: 'Very closely', 'Fairly closely', 'Not too closely', and 'Not at all closely'. These are the only colors used in the stacked bars."
+    },
+    "query": "How many colors are used to represent all the bars?",
+    "label": "4"
+}

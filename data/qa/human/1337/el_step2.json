@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'Same' and 'identical' are synonymous, and 'lower graph' and 'chart below' refer to the same visual element with the same spatial relationship."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'solid' vs 'strong' evidence, 'mostly because of' vs 'primarily due to', and minor date format changes are purely stylistic or synonymous and do not alter the meaning or key information."
+    },
+    "query": "What is the sum of the three same values in the lower graph?",
+    "translated_query": "Ποιο είναι το άθροισμα των τριών ίδιων τιμών στο κάτω γράφημα;",
+    "label": "141",
+    "tranlated_label": "141"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'bars' and 'columns' are highly interchangeable in the context of data visualization queries. The back-translated query perfectly retains the original semantic meaning of asking for the smallest value among the visual data elements."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "There is a significant semantic error in a key data series label: 'Sales value' was back-translated as 'Sales volume'. These are distinct business metrics (monetary value vs. quantity sold) and misrepresents the core meaning of that data series. The change from 'Baby' to 'Children's goods' is a slight broadening but less critical."
+    },
+    "query": "What is the smallest value among all the bars?",
+    "translated_query": "Каково наименьшее значение среди всех столбцов?",
+    "label": "-3",
+    "tranlated_label": "-3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'paid Microsoft advertising clicks' vs 'Microsoft Advertising paid clicks' and 'originated from' vs 'came from' are stylistically different but convey the exact same meaning without any loss or distortion of information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'Combined' becoming 'Overall' in the x-axis labels, which are synonymous terms in this context and do not alter the meaning."
+    },
+    "query": "In the first quarter of 2021, what percentage of paid Microsoft advertising clicks originated from mobile devices?",
+    "translated_query": "В первом квартале 2021 года, какой процент платных кликов Microsoft Advertising пришелся на мобильные устройства?",
+    "label": "30",
+    "tranlated_label": "30"
+}

@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Solar",
+            "value": 97
+        },
+        {
+            "category": "Wind",
+            "value": 93
+        },
+        {
+            "category": "Wasserkraft",
+            "value": 91
+        },
+        {
+            "category": "Erdgas",
+            "value": 80
+        },
+        {
+            "category": "Kohle",
+            "value": 48
+        },
+        {
+            "category": "Kernenergie",
+            "value": 38
+        }
+    ],
+    "texts": {
+        "title": "Globale öffentliche Unterstützung für Energiequellen",
+        "subtitle": "„Bitte geben Sie an, ob Sie die einzelnen Arten der Energieerzeugung sehr unterstützen, eher unterstützen, eher ablehnen,<br>oder sehr ablehnen“",
+        "x_axis_title": null,
+        "y_axis_title": "% sehr/eher unterstützend",
+        "source": "Quelle: Ipsos, Mai 2011"
+    },
+    "colors": [
+        "#08519c"
+    ]
+}

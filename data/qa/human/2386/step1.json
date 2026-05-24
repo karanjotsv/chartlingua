@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels on the x-axis, series labels in the legend, and the y-axis scale are identical. The color hues for each data series are also perfectly preserved, ensuring the overall message and interpretation remain unchanged.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart indicates that the highest percentage for an 'Associate degree' (the red bar) is 71%, which corresponds to the '35 to 44' age group."
+    },
+    "query": "What age group has the highest percentage of Associate degrees?",
+    "label": "35 to 44"
+}

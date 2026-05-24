@@ -1,0 +1,39 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": {
+        "categories": [
+            "एनोरेक्सिया नर्वोसा*",
+            "बुलिमिया नर्वोसा",
+            "एक या अधिक खाने के विकार"
+        ],
+        "series": [
+            {
+                "name": "पुरुष",
+                "data": [
+                    null,
+                    0.1,
+                    0.1
+                ]
+            },
+            {
+                "name": "महिला",
+                "data": [
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "वयस्कों का प्रतिशत",
+        "source": "© स्टेटिस्टा 2021"
+    },
+    "colors": [
+        "#2693FF",
+        "#102C44"
+    ]
+}

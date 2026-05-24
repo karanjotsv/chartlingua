@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. It accurately reproduces the values for six of the seven bars from the original. However, it completely omits the final bar (value 5) from the original chart and changes the color for the 'Capitalists, Professionals' series from light blue to light purple.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that most people work in Manufacturing occupations, but the bar chart shows that the 'Agricultural Labourers' category has the highest value (approximately 26), while 'Manufacturing' has a much lower value of 5."
+    },
+    "claim": "Most people work in Manufacturing occupations.",
+    "label": "FALSE"
+}

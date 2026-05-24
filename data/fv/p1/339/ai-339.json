@@ -1,0 +1,175 @@
+{
+    "chart_type": "infographic",
+    "texts": {
+        "main_title": "Profile of Northern Ireland",
+        "section_titles": {
+            "population": "Population",
+            "population_under_16": "Population under 16",
+            "economic_inactivity": "Economic Inactivity",
+            "economic_output": "Economic Output",
+            "weekly_earnings": "Weekly Earnings",
+            "house_prices": "House Prices",
+            "reduction_in_greenhouse_gases": "Reduction in Greenhouse Gases"
+        },
+        "annotations": {
+            "population": {
+                "donut_center": "3%<br>of the UK",
+                "value": "1.8 million",
+                "date": "mid-2012"
+            },
+            "population_under_16": {
+                "date": "mid-2012"
+            },
+            "economic_inactivity": {
+                "note": "Highest inactivity<br>rate in the UK Q2 2013"
+            },
+            "economic_output": {
+                "donut_center": "2%<br>of the UK",
+                "note": "Gross Value Added<br>Lowest in the UK<br>2011"
+            },
+            "weekly_earnings": {
+                "note": "Median earnings of<br>full-time employees<br>April 2012"
+            },
+            "house_prices": {
+                "date": "June 2013"
+            },
+            "reduction_in_greenhouse_gases": {
+                "note": "Base year to 2011"
+            }
+        },
+        "footer_source": "www.ons.gov.uk",
+        "footer_note": "Contains data and information from Ordnance Survey, ONS and other sources protected by © Crown Copyright<br>and database right 2013",
+        "footer_logo_text": "Office for National Statistics"
+    },
+    "colors": {
+        "background": "#f0f0f0",
+        "text_main": "#333333",
+        "text_light": "#666666",
+        "text_white": "#ffffff",
+        "section_headers": {
+            "population": "#D9531E",
+            "population_under_16": "#A06AB4",
+            "economic_inactivity": "#5698B9",
+            "economic_output": "#94C23D",
+            "weekly_earnings": "#D81B84",
+            "house_prices": "#587C8B",
+            "reduction_in_greenhouse_gases": "#85B66F"
+        },
+        "charts": {
+            "population_donut": [
+                "#D9531E",
+                "#e0e0e0"
+            ],
+            "economic_inactivity_bar": "#5698B9",
+            "economic_output_donut": [
+                "#94C23D",
+                "#e0e0e0"
+            ],
+            "weekly_earnings_circles": "#D81B84",
+            "house_prices_bar": "#587C8B",
+            "reduction_in_greenhouse_gases_bar": "#85B66F"
+        }
+    },
+    "chart_data": {
+        "population_donut": {
+            "values": [
+                3,
+                97
+            ]
+        },
+        "population_under_16_list": [
+            {
+                "label": "Northern Ireland",
+                "value": "21.0%",
+                "is_highlight": true
+            },
+            {
+                "label": "England",
+                "value": "18.9%",
+                "is_highlight": false
+            },
+            {
+                "label": "Wales",
+                "value": "18.1%",
+                "is_highlight": false
+            },
+            {
+                "label": "Scotland",
+                "value": "17.2%",
+                "is_highlight": false
+            }
+        ],
+        "economic_inactivity_bar": {
+            "categories": [
+                "Northern<br>Ireland",
+                "Wales",
+                "Scotland",
+                "England"
+            ],
+            "values": [
+                28.2,
+                24.3,
+                22.1,
+                22.1
+            ]
+        },
+        "economic_output_donut": {
+            "values": [
+                2,
+                98
+            ]
+        },
+        "weekly_earnings_list": [
+            {
+                "label": "Wales",
+                "value": "£455"
+            },
+            {
+                "label": "Scotland",
+                "value": "£498"
+            },
+            {
+                "label": "Northern<br>Ireland",
+                "value": "£460"
+            },
+            {
+                "label": "England",
+                "value": "£513"
+            }
+        ],
+        "house_prices_bar": {
+            "categories": [
+                "England",
+                "Scotland",
+                "Wales",
+                "Northern Ireland"
+            ],
+            "values": [
+                251,
+                181,
+                162,
+                130
+            ],
+            "text_labels": [
+                "£251K",
+                "£181K",
+                "£162K",
+                "£130K"
+            ]
+        },
+        "reduction_in_greenhouse_gases_bar": {
+            "categories": [
+                "England",
+                "Scotland",
+                "Wales",
+                "Northern<br>Ireland"
+            ],
+            "values": [
+                -31,
+                -31,
+                -21,
+                -18
+            ]
+        }
+    }
+}

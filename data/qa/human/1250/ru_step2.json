@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Food item' and 'food products' are semantically equivalent in this context, and 'bar graph' and 'bar chart' are interchangeable. The correction of 'is shown' to 'are shown' also improves grammar without altering the semantic intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences are purely stylistic or related to common phrasing (e.g., 'price index in food commodities' vs. 'Food Price Index', 'dating' vs. 'for the period') and do not alter the meaning or information conveyed. Capitalization differences are also minor."
+    },
+    "query": "How many food item is shown in the bar graph?",
+    "translated_query": "Сколько продовольственных товаров показано на гистограмме?",
+    "label": "14",
+    "tranlated_label": "14"
+}

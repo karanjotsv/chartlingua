@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and color hues are identical, conveying the exact same message and proportions.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value 6.4, which directly corresponds to the data label on the bar for 'Despactio – Luis Fonsi ft. Daddy Yankee' on the chart. The x-axis label confirms this value represents billions of views."
+    },
+    "query": "How many views did 'Despactio' have worldwide?",
+    "label": "6.4"
+}

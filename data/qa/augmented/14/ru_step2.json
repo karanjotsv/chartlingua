@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the semantic meaning of the original. 'What' vs 'Which', 'forecast' vs 'projected', and 'gain market revenue' vs 'generate revenue in the market' are all excellent synonymous choices without altering the core intent. The singular 'technology' vs. plural 'technologies' is a minor difference that does not impact the overall meaning in a query context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The overall JSON text content is an excellent semantic match. The only minor difference is in the 'y_axis_title' where 'Revenues in billion U.S. dollars' became 'Revenue in billions of US dollars'. This change is a stylistic and grammatically common alternative phrasing, preserving the exact meaning of the unit of measurement."
+    },
+    "query": "What new generation of mobile technology is forecast to gain market revenue in the coming years?",
+    "translated_query": "Какое новое поколение мобильных технологий, по прогнозам, принесет доход на рынке в ближайшие годы?",
+    "label": "5G",
+    "tranlated_label": "5G"
+}

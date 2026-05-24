@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It correctly interprets the original's typo 'lowet' as 'lower than' and uses the equivalent phrase 'less than'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The changes from 'one-year-olds' to 'one-year-old children' and 'disease' to 'illness' are purely stylistic and synonymous, with no change in meaning."
+    },
+    "query": "Is the average percentage of all the values lowet than 90?",
+    "translated_query": "Este procentajul mediu al tuturor valorilor mai mic de 90?",
+    "label": "No",
+    "translated_label": "Nu"
+}

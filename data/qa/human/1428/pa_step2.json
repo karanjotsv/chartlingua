@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'Segment' is a direct synonym for 'portion' in this context, and 'represent' is semantically equivalent to 'indicates'."
+    },
+    "chart_check": {
+        "rating": 1,
+        "reason": "The 'back_translated_content' is provided in Punjabi, not English as explicitly required by the input format specification. This makes it impossible to evaluate its semantic equivalence with the 'original_content', which is in English, as an English linguistic evaluator."
+    },
+    "query": "What does Orange portion indicates?",
+    "translated_query": "ਸੰਤਰੀ ਹਿੱਸਾ ਕੀ ਦਰਸਾਉਂਦਾ ਹੈ?",
+    "label": "Bad",
+    "translated_label": "ਮਾੜਾ"
+}

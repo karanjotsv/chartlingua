@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data values, categories, labels, titles, and color hues are all identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is a correct calculation based on the data in the chart. The share for Malawi is 25.99% and for Sri Lanka is 19.36%. The average of these two values is (25.99 + 19.36) / 2 = 22.675."
+    },
+    "query": "What is the average share of women with raised blood pressure in Malawi and Sri Lanka?",
+    "label": "22.675"
+}

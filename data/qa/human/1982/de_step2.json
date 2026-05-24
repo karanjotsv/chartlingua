@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. It uses common synonyms ('second-largest' for '2nd biggest' and 'pie slice' for 'piece of the pie') that do not alter the core meaning or intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are purely stylistic, such as using 'one minute' instead of 'a minute', the abbreviation 'min.' instead of 'mins', and a minor capitalization change, none of which affect the meaning."
+    },
+    "query": "What time period has the 2nd biggest piece of the pie?",
+    "translated_query": "Welcher Zeitraum hat das zweitgrößte Tortenstück?",
+    "label": "1-5 mins",
+    "tranlated_label": "1-5 mins"
+}

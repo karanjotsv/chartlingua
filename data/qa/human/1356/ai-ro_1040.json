@@ -1,0 +1,53 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Total",
+            "Bărbați",
+            "Femei",
+            "Fără studii superioare",
+            "Cu studii superioare",
+            "Romano-catolici",
+            "Neafiliați"
+        ],
+        "series": [
+            {
+                "name": "Nefavorabil",
+                "data": [
+                    74,
+                    70,
+                    79,
+                    71,
+                    81,
+                    69,
+                    82
+                ]
+            },
+            {
+                "name": "Favorabil",
+                "data": [
+                    23,
+                    28,
+                    19,
+                    26,
+                    14,
+                    27,
+                    18
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Bărbații, cei fără studii superioare,<br>catolicii sunt mai favorabili Frontului Național",
+        "subtitle": "Opinii despre Frontul Național",
+        "source": "Sursa: Sondajul Global de Atitudini din primăvara anului 2016.<br><b>PEW RESEARCH CENTER</b>",
+        "legend_labels": [
+            "Nefavorabil",
+            "Favorabil"
+        ]
+    },
+    "colors": [
+        "#d98f2b",
+        "#84a14d"
+    ]
+}

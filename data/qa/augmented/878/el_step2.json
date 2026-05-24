@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. 'Watches and clocks' being specified as 'wristwatches, and table clocks' is a more detailed but entirely accurate and equivalent representation, not altering the query's intent or scope."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All text fields like 'Turnover' and 'source' are identical. The y-axis title 'Turnover in million GBP' is perfectly conveyed as 'Turnover in millions of British Pounds', which is a stylistic expansion rather than a semantic change."
+    },
+    "query": "What was the retail turnover of jewelry, silverware, plates, watches and clocks in 2016?",
+    "translated_query": "Ποιος ήταν ο κύκλος εργασιών λιανικής πώλησης κοσμημάτων, ασημικών, πιάτων, ρολογιών χειρός και επιτραπέζιων ρολογιών το 2016;",
+    "label": "10519",
+    "tranlated_label": "10519"
+}

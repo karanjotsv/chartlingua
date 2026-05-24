@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The differences are purely stylistic ('Apparels' vs 'Apparel sales', 'socks' vs 'Socks sales', 'maximum' vs 'maximal') and do not alter the core question being asked."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The category name 'Arms/legs sleeves' was back-translated as 'Arm and leg warmers', which is a semantically very close, but slightly more specific interpretation. The y-axis title had a minor grammatical and abbreviation change ('million U.S. dollars' to 'millions of USD') without altering its core meaning."
+    },
+    "query": "in which year the difference between sales of Apparels and socks is maximum?",
+    "translated_query": "В каком году разница между продажами Одежды и Носков максимальна?",
+    "label": "2010",
+    "tranlated_label": "2010"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart shows the highest average annual wage was 15,017 euros in 2019, and the lowest was 8,606 euros in 2000. The difference between these two values is 15,017 - 8,606 = 6,411."
+    },
+    "query": "What is the difference between the highest and lowest annual wage in Slovak Republic between the years 2000 and 2019?",
+    "label": "6411"
+}

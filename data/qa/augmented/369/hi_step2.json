@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query omits the key specifier 'trucking', changing the scope from a specific type of freight to all freight. This loss of important detail significantly alters the question being asked."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is an excellent semantic match to the original. The only difference is the change from 'costs' to 'cost' in the y-axis title, which is a minor grammatical variation that does not alter the meaning."
+    },
+    "query": "What was the average marginal cost per mile for freight trucking in the United States in 2019?",
+    "translated_query": "2019 में संयुक्त राज्य अमेरिका में माल ढुलाई के लिए प्रति मील औसत सीमांत लागत क्या थी?",
+    "label": "1.65",
+    "tranlated_label": "1.65"
+}

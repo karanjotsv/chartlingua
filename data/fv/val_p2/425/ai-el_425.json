@@ -1,0 +1,121 @@
+{
+    "chart_type": "grouped_bar_with_errors",
+    "chart_data": [
+        {
+            "category": "6-8",
+            "values": [
+                0.5,
+                0.7
+            ],
+            "errors": [
+                0.1,
+                0.1
+            ]
+        },
+        {
+            "category": "9-11",
+            "values": [
+                1.0,
+                1.5
+            ],
+            "errors": [
+                0.2,
+                0.2
+            ]
+        },
+        {
+            "category": "12-15",
+            "values": [
+                2.0,
+                3.0
+            ],
+            "errors": [
+                0.3,
+                0.5
+            ]
+        },
+        {
+            "category": "16-19",
+            "values": [
+                3.5,
+                6.0
+            ],
+            "errors": [
+                0.5,
+                0.8
+            ]
+        },
+        {
+            "category": "20-34",
+            "values": [
+                6.0,
+                14.0
+            ],
+            "errors": [
+                0.5,
+                1.0
+            ]
+        },
+        {
+            "category": "35-49",
+            "values": [
+                11.0,
+                31.0
+            ],
+            "errors": [
+                0.5,
+                1.0
+            ]
+        },
+        {
+            "category": "50-64",
+            "values": [
+                15.0,
+                54.0
+            ],
+            "errors": [
+                0.5,
+                1.0
+            ]
+        },
+        {
+            "category": "65-74",
+            "values": [
+                17.5,
+                68.0
+            ],
+            "errors": [
+                0.5,
+                1.0
+            ]
+        },
+        {
+            "category": "74+",
+            "values": [
+                18.5,
+                75.0
+            ],
+            "errors": [
+                0.5,
+                1.5
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "<b>Ηλικιακή ομάδα (έτη)</b>",
+        "y_axis_title": "<b>Μέσος αριθμός</b>",
+        "legend_title": null,
+        "legend_labels": [
+            "DMFT",
+            "DMFS"
+        ],
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#FFFFFF",
+        "#A9A9A9"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate reproduction of the original. All data series, trends, labels (title, axes, legend), and color hues are semantically consistent. The overall message and data representation are preserved perfectly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the green line represents France's net contribution. However, the chart's legend indicates that the green line represents the UK, while the red-brown line represents France (FR)."
+    },
+    "claim": "France's net contribution to the EU is represented by the green line",
+    "label": false
+}

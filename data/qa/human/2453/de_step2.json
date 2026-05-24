@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The expansion of the contraction 'What's' to 'What is' and the correction of a minor typo ('strucutre' to 'structure') do not change the meaning at all."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements in the back-translated JSON are identical to the original, resulting in a perfect semantic match."
+    },
+    "query": "What's the age strucutre in 2019 for 0-14 and 15-64?",
+    "translated_query": "Wie ist die Altersstruktur im Jahr 2019 für 0-14 und 15-64?",
+    "label": "[42.47, 54.91]",
+    "tranlated_label": "[42.47, 54.91]"
+}

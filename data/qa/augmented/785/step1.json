@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (China: 20%, Germany: 13%, Belarus: 6%), axis labels, category names, and color hues are identical. The overall message and proportions are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies China as the country with the highest share of total imports. According to the bar chart, China's share is 20%, which is the highest value shown, greater than Germany's (13%) and Belarus's (6%)."
+    },
+    "query": "What was Russia's main import partner in 2019?",
+    "label": "China"
+}

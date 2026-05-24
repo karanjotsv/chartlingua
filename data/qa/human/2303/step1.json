@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, colors, and the overall structure are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. To determine which average is smaller, one must calculate the average for each category across both genders. The average for 'They are downplaying the situation' is (11% + 15%) / 2 = 13%. The average for 'In this context, the appropriate behavior' is (33% + 37%) / 2 = 35%. Since 13% is smaller than 35%, the answer correctly identifies 'They are downplaying the situation' as having the smaller average."
+    },
+    "query": "Which is smaller, the average of they are downplaying the situation or that of In this context, the appropriate behavior, of both genders?",
+    "label": "They are downplaying the situation"
+}

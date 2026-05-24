@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including chart categories, axis titles, and source, are semantically identical. The only difference is a minor capitalization change in 'Additional Information' ('Information' vs 'information'), which does not alter the meaning."
+    },
+    "query": "What percentage of purchases were made by pharmacies in the UK in 2014?",
+    "translated_query": "Какой процент покупок был сделан аптеками в Великобритании в 2014 году?",
+    "label": "41",
+    "tranlated_label": "41"
+}

@@ -1,0 +1,47 @@
+{
+    "chart_type": "grouped_bar",
+    "chart_data": [
+        {
+            "name": "2008",
+            "x": [
+                "March",
+                "April",
+                "May",
+                "June"
+            ],
+            "y": [
+                515,
+                470,
+                575,
+                540
+            ]
+        },
+        {
+            "name": "2009",
+            "x": [
+                "March",
+                "April",
+                "May",
+                "June"
+            ],
+            "y": [
+                585,
+                650,
+                685,
+                775
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Domestic Violence Calls",
+        "subtitle": null,
+        "x_axis_title": "Months",
+        "y_axis_title": "Calls for Assistance",
+        "source": "Source: Fresno Police Department",
+        "note": null
+    },
+    "colors": [
+        "#5079B5",
+        "#B65150"
+    ]
+}

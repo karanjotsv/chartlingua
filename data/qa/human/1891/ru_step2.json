@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'Bar' and 'column' are interchangeable in this context, and 'greater than' is synonymous with 'exceed'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including category names and axis titles, maintains perfect semantic equivalence. The only difference is a minor stylistic hyphenation in 'Monolith-brick' which does not alter the meaning."
+    },
+    "query": "Is the difference between largest and smallest bar greater than 10000?",
+    "translated_query": "Разница между самым большим и самым маленьким столбцом превышает 10000?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

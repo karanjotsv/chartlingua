@@ -1,0 +1,38 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Mixed Hardwoods - Prairie",
+            "value": 11
+        },
+        {
+            "label": "Prairie",
+            "value": 42
+        },
+        {
+            "label": "Prairie poorly drained",
+            "value": 28
+        },
+        {
+            "label": "Wet Prairie",
+            "value": 10
+        },
+        {
+            "label": "Water / Wet Soils / Gravel Pits",
+            "value": 9
+        }
+    ],
+    "texts": {
+        "title": "Native Vegetation of Stevens County, Minnesota",
+        "subtitle": null,
+        "source_left": "Stevens County Minnesota  < 10 % Savanna Soils<br>Natural Resources Conservation Service, United States Department of Agriculture. Available online at<br>http://websoilsurvey.nrcs.usda.gov/. NRCS/WSS native vegetation information first sorted by soil series<br>then compiled using soil series proportion of county area (%).",
+        "source_right": "Sourced-from: Web Soil Survey (WSS),<br>Accessed by Steve Nelson 11/5/10"
+    },
+    "colors": [
+        "#CC0000",
+        "#FFFF00",
+        "#FFCC99",
+        "#FFFFCC",
+        "#0000FF"
+    ]
+}

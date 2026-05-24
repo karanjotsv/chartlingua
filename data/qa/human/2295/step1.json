@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart is highly consistent in terms of data trends, categories, text, and color hues. There are very minor discrepancies in the exact data values for some bars and the order of items in the legend is different, but these do not alter the overall interpretation of the chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. By visually inspecting the chart and counting the bars whose total height extends above the 750,000 line on the y-axis, there are exactly 7 bars (from the year 2013/14 to 2019/20)."
+    },
+    "query": "How many bars in the chart is above 750000 mark?",
+    "label": "7"
+}

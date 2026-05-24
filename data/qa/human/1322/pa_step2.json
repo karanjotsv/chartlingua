@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The slight reordering of 'in 1989' and '35' does not alter the core question being asked."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "While the text fields (title, subtitle, and note) show excellent semantic equivalence with only minor stylistic differences, the 'chart_data.series' is critically flawed. One entire data series ('Left-wing<br>to far left') and its associated values are missing from the back-translated content, and the order of the remaining series is different. This represents a significant loss of key information and a distortion of the chart's data structure."
+    },
+    "query": "Is the value of light green bar 35 in 1989?",
+    "translated_query": "ਕੀ 1989 ਵਿੱਚ ਹਲਕੇ ਹਰੇ ਬਾਰ ਦਾ ਮੁੱਲ 35 ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

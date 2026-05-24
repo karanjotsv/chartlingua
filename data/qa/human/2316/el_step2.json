@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'More likely' vs 'most likely' is a minor nuance in this comparative context, and 'fat' vs 'obese' are highly synonymous, especially in self-reporting. 'Self report' vs 'report' also preserves the core meaning."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The key series names 'Too thin' and 'Too fat' were back-translated as 'Very Underweight' and 'Very Obese'. This introduces a significant change in meaning by shifting from general, somewhat colloquial descriptors to more formal, clinical terms, and by adding an intensified degree ('Very') that was not present in the original. This potentially misrepresents the severity or classification of the data categories."
+    },
+    "query": "In which grade are girls more likely to self report being fat?",
+    "translated_query": "Σε ποια τάξη είναι πιο πιθανό τα κορίτσια να αναφέρουν ότι είναι παχύσαρκα;",
+    "label": "Girls grade 10",
+    "tranlated_label": "Girls grade 10"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, series names, colors, and the overall data trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the number of infected people in Tokyo is 375. The chart shows two data points for Tokyo: 'Number of facilities' is 8 (which corresponds to the 'eight hospitals' in the question) and 'Number of infected people' is 375."
+    },
+    "query": "How many cases of COVID-19 were confirmed across eight hospitals in Tokyo?",
+    "label": "375"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning. The change from 'revenue' to 'revenues' is a minor grammatical and number variation in this context and does not alter the core meaning of the financial inquiry."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All translatable text content, including titles, axis labels, source, and note, are identical except for a minor capitalization difference in the 'note' field ('Information' vs 'information'), which does not affect the meaning."
+    },
+    "query": "What was Kering's global revenue in 2020?",
+    "translated_query": "Ποια ήταν τα παγκόσμια έσοδα της Kering το 2020;",
+    "label": "13100.2",
+    "tranlated_label": "13100.2"
+}

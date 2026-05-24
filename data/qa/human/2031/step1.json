@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, proportions, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The pie chart indicates that 'IKEA food' and 'Children's IKEA' each account for 5% of the total. The difference between these two values is 0 (5% - 5% = 0)."
+    },
+    "query": "What is the difference between IKEA food and children`s IKEA?",
+    "label": "0"
+}

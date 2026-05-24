@@ -1,0 +1,36 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "< 1",
+            "value": 76.5
+        },
+        {
+            "category": "1 la 10",
+            "value": 11.5
+        },
+        {
+            "category": "11 la 20",
+            "value": 4.0
+        },
+        {
+            "category": "21 la 40",
+            "value": 4.0
+        },
+        {
+            "category": "> 40",
+            "value": 4.0
+        }
+    ],
+    "texts": {
+        "title": "Acoperire impermeabilă în SUA continentală",
+        "subtitle": null,
+        "x_axis_title": "Procent de acoperire impermeabilă",
+        "y_axis_title": "Procent din Statele Unite continentale",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4285F4"
+    ]
+}

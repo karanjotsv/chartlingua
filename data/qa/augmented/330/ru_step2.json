@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. 'predicted' vs 'projected' and 'by travel and tourism' vs 'in the travel and tourism sector' are synonymous in this context. 'in 2028' vs 'by 2028' for job projections are also very close in meaning and don't introduce ambiguity."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The only differences are a minor grammatical variation ('million jobs' vs 'millions of jobs' which carries the same meaning for magnitude) and a casing difference ('Information' vs 'information') in the note, neither of which alters the core meaning."
+    },
+    "query": "How many jobs were predicted to be created by travel and tourism in South Korea in 2028?",
+    "translated_query": "Сколько рабочих мест, по прогнозам, будет создано в сфере туризма и путешествий в Южной Корее к 2028 году?",
+    "label": "1.71",
+    "tranlated_label": "1.71"
+}

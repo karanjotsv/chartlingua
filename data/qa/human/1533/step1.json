@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, color hues, and the overall message are identical. Minor differences in font rendering and the absence of the source logo are stylistic and do not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. It accurately calculates the difference between the share of working boys (56.6%) and girls (43.1%) shown in the chart. The calculation is 56.6 - 43.1 = 13.5."
+    },
+    "query": "What is the difference between boys  and girls??",
+    "label": "13.5"
+}

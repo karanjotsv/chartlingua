@@ -1,0 +1,45 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Mehr",
+            "values": [
+                29,
+                19,
+                17
+            ]
+        },
+        {
+            "name": "Etwa gleich",
+            "values": [
+                41,
+                59,
+                31
+            ]
+        },
+        {
+            "name": "Weniger",
+            "values": [
+                29,
+                21,
+                50
+            ]
+        }
+    ],
+    "categories": [
+        "USA",
+        "EU",
+        "China"
+    ],
+    "texts": {
+        "title": "Viele gehen davon aus, dass Chinas globaler Einfluss<br>nach dem Ausbruch des Coronavirus zurückgehen wird",
+        "subtitle": "% derjenigen, die sagen, dass jeder ___ Einfluss auf das Weltgeschehen<br>haben wird nach dem Ausbruch des Coronavirus im Vergleich zu<br>vor dem Ausbruch",
+        "source": "Anmerkung: Antworten wie „Keine Antwort“ werden nicht angezeigt.<br>Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 29. April bis 5. Mai 2020.<br>“Americans Give Higher Ratings to South Korea and Germany Than<br>U.S. for Dealing With Coronavirus”",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#8F994D",
+        "#DAD3C1",
+        "#2D5B8A"
+    ]
+}

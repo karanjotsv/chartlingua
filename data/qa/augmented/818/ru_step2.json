@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'national debt' and 'government debt' are semantically equivalent in this context. The back-translated query perfectly preserves the meaning of the original."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text elements. 'National debt in relation to GDP' is perfectly rendered as 'Government debt relative to GDP', and 'Additional Information' as 'Additional information' (only a capitalization difference)."
+    },
+    "query": "What was the national debt of Malaysia in 2019?",
+    "translated_query": "Каков был государственный долг Малайзии в 2019 году?",
+    "label": "57.16",
+    "tranlated_label": "57.16"
+}

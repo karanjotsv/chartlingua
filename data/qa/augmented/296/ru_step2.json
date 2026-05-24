@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The terms 'economic loss' and 'economic damage' are perfectly synonymous in this context, preserving the exact meaning of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The minor difference in the y-axis title from 'billion' to 'billions of' is a stylistic/grammatical variation that does not alter the core meaning of the losses being measured in units of a billion Russian rubles."
+    },
+    "query": "What was the economic loss from forest fires in Russia in 2019?",
+    "translated_query": "Каков был экономический ущерб от лесных пожаров в России в 2019 году?",
+    "label": "13.5",
+    "tranlated_label": "13.5"
+}

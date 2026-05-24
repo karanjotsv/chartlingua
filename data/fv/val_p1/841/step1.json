@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, categories, series labels, and the title are identical. Color hues are preserved. The overall message is the same. The reversed order of categories on the y-axis is a stylistic difference that does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that for the 'INTERVIEW' category, the highest rating was 3.5 in Series 1. The rating for Series 2 was 1.8, which was the lowest among the three series for that category."
+    },
+    "claim": "The highest rating for Interviews occurred in Series 2.",
+    "label": false
+}

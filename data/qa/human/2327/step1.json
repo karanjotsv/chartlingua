@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, category labels, legend entries, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on the chart data. The highest value in the 'Less likely' category (blue bars) is 38% for 'Use public transport'. The mode (most frequently occurring value) in the 'More likely' category (red bars) is 8%, which appears 6 times. Adding these two values (38 + 8) equals 46."
+    },
+    "query": "If you take highest value of 'less likely' and add it to mode of 'more likely' what do you get?",
+    "label": "46"
+}

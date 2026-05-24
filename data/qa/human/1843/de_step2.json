@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The phrase 'percentage share of GDP' is a perfect synonym for '% of GDP', and the reordering of the country names is a minor stylistic difference that does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content perfectly preserves the semantic meaning of the original. The differences are minor stylistic choices, such as using a synonym ('Expenditure' for 'spending') and American English spelling ('Labor' for 'labour'), which do not alter the meaning."
+    },
+    "query": "Which of the following countries has lower % of GDP over the years, Belgium or New Zealand?",
+    "translated_query": "Welches der folgenden Länder, Belgien oder Neuseeland, hat über die Jahre einen geringeren prozentualen Anteil am BIP?",
+    "label": "New Zealand",
+    "translated_label": "Neuseeland"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, axis labels, titles, and the overall trend are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the data is from the year 2014, but the chart provides no information about the year the data was collected."
+    },
+    "claim": "In 2014, the male suspicion arrests at age of 15 was maximum in United States",
+    "label": "TRUE"
+}

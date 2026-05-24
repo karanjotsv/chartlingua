@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The data values, trends, and relative positions of the two line series are identical between the original and rendered charts. The rendered chart adds a title and legend labels which provide context that was absent in the original, but this is a semantic enhancement, not an inconsistency. The color hues (red and blue) are preserved.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart's title is partially clipped at the top of the image, making it incomplete and unreadable."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays two line graphs, representing 'Apogee' and 'Perigee'. Both lines clearly show a pattern of rising and falling multiple times throughout the period displayed on the x-axis, which directly supports the claim that they 'fluctuated'."
+    },
+    "claim": "The apogee and perigee of Mir fluctuated its lifetime.",
+    "label": true
+}

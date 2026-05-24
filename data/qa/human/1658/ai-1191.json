@@ -1,0 +1,99 @@
+{
+    "chart_type": "line",
+    "chart_data": [
+        {
+            "name": "Jamaica",
+            "x": [
+                1990,
+                1991,
+                1992,
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999
+            ],
+            "y": [
+                70.8,
+                76.8,
+                77.8,
+                78.7,
+                79.2,
+                80.0,
+                84.8,
+                81.6,
+                82.3,
+                83.0
+            ]
+        },
+        {
+            "name": "Eritrea",
+            "x": [
+                1990,
+                1991,
+                1992,
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999
+            ],
+            "y": [
+                17.8,
+                18.9,
+                20.0,
+                21.2,
+                22.3,
+                22.7,
+                24.6,
+                25.7,
+                26.8,
+                27.9
+            ]
+        },
+        {
+            "name": "South Sudan",
+            "x": [
+                1990,
+                1991,
+                1992,
+                1993,
+                1994,
+                1995,
+                1996,
+                1997,
+                1998,
+                1999
+            ],
+            "y": [
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Electricity access",
+        "subtitle": "Share of the population with access to electricity.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Source: World Bank",
+        "note": "OurWorldInData.org/energy-access • CC BY"
+    },
+    "colors": [
+        "#16967A",
+        "#B4462D",
+        "#4C5D70"
+    ]
+}

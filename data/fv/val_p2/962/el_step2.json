@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The original 'press percentage' is ambiguous and can refer to various concepts (e.g., pressure, media, machine utilization, button presses). The back-translation 'printing percentage' narrows this down to a specific type of 'press' activity (printing). This constitutes a loss of accuracy or a significant shift in nuance, as the specific meaning of 'press' is likely altered or misinterpreted, even if generally related."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic of the chart's title and categories is captured, but there is a loss of accuracy in the title's subject, changing 'Chapter' to 'Department', which are not semantically equivalent and could alter the specific organizational unit being referenced. Other category name differences are minor and acceptable."
+    },
+    "claim": " The green bar shows the highest press percentage.",
+    "translated_claim": "Η πράσινη μπάρα δείχνει το υψηλότερο ποσοστό εκτύπωσης."
+}

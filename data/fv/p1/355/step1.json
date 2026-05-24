@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, categories, ordering, text content (title, axis labels), and color hue are all consistent with the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart does not categorize shipments by 'Route 1'. The routes are labeled with country names, such as 'Turkey - Russia' and 'Uzbekistan - Russia'. Therefore, the claim cannot be verified based on the information presented in the chart."
+    },
+    "claim": "The majority of shipments are distributed through Route 1.",
+    "label": true
+}

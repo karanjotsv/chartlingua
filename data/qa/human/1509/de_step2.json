@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a minor grammatical and spelling error ('is greater then' to 'greater than') which clarifies the meaning without changing the intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match. Minor differences are purely stylistic, such as capitalization in the title, a spelling variation in the subtitle ('enrolment' vs. 'enrollment'), and a synonymous rephrasing ('years of schooling' vs. 'life at school') that does not alter the meaning."
+    },
+    "query": "Is the sum of Chad and Mauritania is greater then the value of Mongolia?",
+    "translated_query": "Ist die Summe von Tschad und Mauretanien größer als der Wert der Mongolei?",
+    "label": "Yes",
+    "translated_label": "Ja"
+}

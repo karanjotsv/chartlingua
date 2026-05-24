@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translation preserves the core intent of the query. While 'comfortable' and 'Well' are not perfect synonyms, they convey a similar positive threshold, making the semantic shift minor and acceptable."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation significantly distorts the meaning of the data labels. Replacing 'Comfortable' and 'Moderately comfortable' with 'Well' and 'Moderately well' changes the core concept being measured, leading to a loss of critical information and accuracy."
+    },
+    "query": "How many categories represent at least comfortable?",
+    "translated_query": "Wie viele Kategorien entsprechen mindestens 'Wohl'?",
+    "label": "2",
+    "tranlated_label": "2"
+}

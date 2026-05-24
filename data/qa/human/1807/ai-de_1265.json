@@ -1,0 +1,58 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "Unabhängige",
+            "Demokraten",
+            "Republikaner",
+            "GESAMT"
+        ],
+        "series": [
+            {
+                "name": "Ablehnung",
+                "data": [
+                    57,
+                    48,
+                    56,
+                    54
+                ],
+                "text": [
+                    "57",
+                    "48",
+                    "56",
+                    "54%"
+                ]
+            },
+            {
+                "name": "Zustimmung",
+                "data": [
+                    39,
+                    47,
+                    41,
+                    42
+                ],
+                "text": [
+                    "39",
+                    "47",
+                    "41",
+                    "42%"
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Ansichten der Amerikaner zur NSA-Überwachung",
+        "subtitle": "% mit __ zur Sammlung von Telefon- und Internetdaten durch die Regierung",
+        "source": "Quelle: Umfrage zur politischen Typologie, Frühjahr 2014",
+        "note": "Anmerkung: „Weiß nicht“/verweigerte Antworten werden nicht angezeigt.",
+        "logo": "PEW RESEARCH CENTER",
+        "series_labels": [
+            "Ablehnung",
+            "Zustimmung"
+        ]
+    },
+    "colors": [
+        "#C9A845",
+        "#E4D3A1"
+    ]
+}

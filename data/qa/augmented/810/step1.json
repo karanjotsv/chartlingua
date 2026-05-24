@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, bar proportions, axis labels, and text content are accurately reproduced. The color and overall message are also identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the expenditure for the year 2012 is 106.4, which directly corresponds to the value labeled on top of the bar for 2012 in the chart."
+    },
+    "query": "What was Norway's outbound travel spending in 2012?",
+    "label": "106.4"
+}

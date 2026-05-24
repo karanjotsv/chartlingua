@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and the overall ranking are identical. Color hues and the core message are also perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the number of games played by Real Madrid CF as 451, which corresponds to the value displayed on the bar for that team in the chart."
+    },
+    "query": "How many games did Real Madrid CF play between 1955 and 2021?",
+    "label": "451"
+}

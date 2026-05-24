@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data values, categories, and text content from the original. The color hues for each category are also consistent. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart explicitly states that East Asia consumes 32% of the global soybean meal, which contradicts the claim's figure of 20%."
+    },
+    "claim": "East Asia consumes only 20% of global soybean meal.",
+    "label": "FALSE"
+}

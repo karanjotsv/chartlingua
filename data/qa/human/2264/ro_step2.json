@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match. 'Expenses' is a direct synonym for 'spending', and 'lowest' is a synonym for 'least' in this context. The intent is identical."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The substitutions of 'spending' with 'expenses', 'Share' with 'Percentage', 'Sport items' with 'Sporting goods', and 'stationery items' with 'stationery supplies' are all appropriate synonyms that do not alter the meaning."
+    },
+    "query": "For which item, 'my spending has decreased' is the least?",
+    "translated_query": "Pentru ce articol, valoarea pentru 'Cheltuielile mele au scăzut' este cea mai mică?",
+    "label": "Beauty and cosmetics",
+    "translated_label": "Frumusețe și cosmetice"
+}

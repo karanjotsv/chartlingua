@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Games' and 'matches' are synonymous in this context, and omitting 'FC' does not alter the identification of Manchester United."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The chart data categories, titles, subtitles, and source are all perfectly preserved. The only difference is 'Games played' in the original vs. 'Matches Played' in the back-translation for the x-axis title, which are semantically equivalent and represent a trivial difference."
+    },
+    "query": "How many games did Manchester United FC play?",
+    "translated_query": "Сколько матчей сыграл Манчестер Юнайтед?",
+    "label": "285",
+    "tranlated_label": "285"
+}

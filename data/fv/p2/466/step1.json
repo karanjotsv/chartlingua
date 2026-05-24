@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 2,
+        "similarity_reason": "The rendered chart has significant data and structural errors. While the first three bars are correct, the values for 'Retail & Handicrafts' (rendered as 3, original is 5) and 'Capitalists, Professionals' (rendered as 5, original is ~6) are incorrect. The order of the last three bars is also different, and the color for 'Capitalists, Professionals' is inconsistent (light purple instead of light blue). This fundamentally misrepresents the data for several categories.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that non-agricultural laborers constitute the majority of the population. However, the chart shows that the 'Labourers (non-agricultural)' category (the orange bar) has one of the lowest values, approximately 2. The category with the highest value is 'Agricultural Labourers' (the red bar), at approximately 26."
+    },
+    "claim": "Non-agricultural laborers constitute the majority of the Lowesby population.",
+    "label": "FALSE"
+}

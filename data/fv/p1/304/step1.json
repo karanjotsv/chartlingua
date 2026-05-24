@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately represents all data values, categories, text, and color hues from the original. It even improves on the original by including a legend entry for the 'Other' category, which was missing. The change from a 3D to a 2D pie chart is a stylistic improvement that does not alter the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart visually represents the 'UK Licence Fee income' as the largest segment, making up more than half of the entire chart. The corresponding value is £3.37 billion, which is significantly greater than the sum of all other income sources (£719.6m + £283.6m + £42.8m), confirming it is the majority."
+    },
+    "claim": "The majority of BBC's income comes from television licensing.",
+    "label": true
+}

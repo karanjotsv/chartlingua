@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is highly consistent with the original. All data categories, values, and color assignments are identical. The overall message is the same. The reordering of slices and the 'exploded' slice are stylistic differences that do not alter the semantic meaning.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim discusses respondents' familiarity with Wikimedia projects and translatewiki.net, but the chart displays market share percentages for different web browsers like Internet Explorer and Google Chrome. The chart contains no information related to the subject of the claim."
+    },
+    "claim": "The highest number of respondents were totally unfamiliar with the way Wikimedia projects and translatewiki.net interact.",
+    "label": "TRUE"
+}

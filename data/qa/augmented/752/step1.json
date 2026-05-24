@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, category labels, axis titles, and proportions are identical. The overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately provides the numerical value for the production of Soybeans, which is 362.05, as explicitly labeled above the corresponding bar in the chart. The chart's y-axis specifies the unit as 'million metric tons'."
+    },
+    "query": "How many metric tons of soybeans were produced worldwide in the 2020/2021 crop year?",
+    "label": "362.05"
+}

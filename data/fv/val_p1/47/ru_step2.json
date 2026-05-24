@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title 'NESTLING LESS THAN ONE WEEK OLD' was changed to 'CHICK LESS THAN ONE WEEK OLD', which is a slight loss of specificity but still semantically accurate. The source text replaced 'English sparrow' with 'house sparrow', which is a common synonym for the same species, and 'young' with 'chicks' to align with the chart title change. The core meaning and key information are accurately conveyed."
+    },
+    "claim": "Adult sparrows eat more beetles than grain.",
+    "translated_claim": "Взрослые воробьи едят больше жуков, чем зерна."
+}

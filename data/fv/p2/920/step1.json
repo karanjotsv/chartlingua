@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, titles, axis configurations, and the overall message are identical. The color hue is also consistent.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The last three labels on the x-axis ('3 languages', '4 languages', '5+ languages') have a line drawn through the middle of the text, which appears to be a misaligned underline. This is a noticeable visual generation error."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows the distribution of files on Commons by the number of language templates they have. The claim discusses 'Wikimedia movement volunteer role' and a 'GLAM Structured Media Commons survey', which are topics not mentioned or represented in the chart."
+    },
+    "claim": "Wikimedia movement volunteer role has the highest percentage based on the GLAM Structured Media Commons survey. are considered reliable sources of cultural heritage information.",
+    "label": "FALSE"
+}

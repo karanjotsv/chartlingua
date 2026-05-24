@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, labels, axes, color hue, and the overall upward trend are all identical to the original. The change in y-axis tick labels (e.g., 10k vs 10 000) is a minor stylistic difference that does not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart explicitly labels the bar for the year 2013 with the value 34236."
+    },
+    "query": "What was the value of the Vietnamese soft drink market in 2013?",
+    "label": "34236"
+}

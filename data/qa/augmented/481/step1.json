@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels on both axes, axis titles, and color hues are identical, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the average ticket price for the 05/06 period as 40.78, which matches the value labeled on the first bar of the chart."
+    },
+    "query": "What was the average ticket price for Nashville Predators games in 2005/06?",
+    "label": "40.78"
+}

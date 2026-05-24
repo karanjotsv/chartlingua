@@ -1,0 +1,70 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Professionals",
+            "Domestic<br>offices or<br>Services",
+            "Agriculture",
+            "Animals",
+            "Wrks in House,<br>Furniture and<br>Decorations",
+            "Wrks in<br>Carriages and<br>Harness",
+            "Food and<br>Loging",
+            "Wrks in Dress",
+            "Wrks in varios<br>Vegetable<br>Substances",
+            "Wrks in various<br>Mineral<br>Substances",
+            "Wrks in General<br>Unspecified<br>Commodities",
+            "Persons<br>Without<br>Specified<br>Occupations",
+            "Unknown<br>Occupation"
+        ],
+        "series": [
+            {
+                "name": "Male",
+                "values": [
+                    0,
+                    9,
+                    50,
+                    2,
+                    2,
+                    4,
+                    2,
+                    0,
+                    1,
+                    4,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Female",
+                "values": [
+                    7,
+                    36,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    4,
+                    0,
+                    0,
+                    0,
+                    46,
+                    12
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Occcupations in Belstead in 1881",
+        "subtitle": null,
+        "x_axis_title": "Types of Occupation",
+        "y_axis_title": "Number of People",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5B9BD5",
+        "#ED7D31"
+    ]
+}

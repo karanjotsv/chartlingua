@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. The omission of 'dollars' (redundant with 'USD') and 'the' before 'OECD' are minor stylistic differences that do not alter the semantic content or accuracy."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The title, subtitle, and source are semantically equivalent or stylistically improved. The change from 'Atrophy' to 'Reduction' for a chart label is a minor difference; 'Reduction' captures the core meaning of a decrease in value, aligning well with the chart's overall theme of value reduction, even if 'Atrophy' has a slightly more specific nuance. Decimal separator change is trivial."
+    },
+    "claim": "Total bilateral aid is 79.5 billion dollars USD in the OECD 2006.",
+    "translated_claim": "ਕੁੱਲ ਦੁਵੱਲੀ ਸਹਾਇਤਾ OECD 2006 ਵਿੱਚ 79.5 ਅਰਬ USD ਡਾਲਰ ਹੈ।"
+}

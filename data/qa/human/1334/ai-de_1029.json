@@ -1,0 +1,63 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "series_names": [
+        "Schlecht",
+        "Gut"
+    ],
+    "colors": [
+        "#244f82",
+        "#8f9a4c"
+    ],
+    "chart_data": [
+        {
+            "category": "Gesamt",
+            "values": [
+                64,
+                31
+            ]
+        },
+        {
+            "category": "  Alter 18-29",
+            "values": [
+                54,
+                41
+            ]
+        },
+        {
+            "category": "  30-49",
+            "values": [
+                59,
+                35
+            ]
+        },
+        {
+            "category": "  50+",
+            "values": [
+                73,
+                23
+            ]
+        },
+        {
+            "category": "Rep./Tendenz Rep.",
+            "values": [
+                82,
+                15
+            ]
+        },
+        {
+            "category": "Dem./Tendenz Dem.",
+            "values": [
+                54,
+                42
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Republikaner und ältere Amerikaner sehen<br>Chinas Reaktion auf COVID-19 kritischer",
+        "subtitle": "% der Befragten, die sagen, China habe bei der Bewältigung des<br>Coronavirus-Ausbruchs eine ___ Arbeit geleistet",
+        "source_note": "Anmerkung: „Weiß nicht“-Antworten werden nicht angezeigt.<br>Quelle: Umfrage unter Erwachsenen in den USA, durchgeführt vom 16. Juni bis 14. Juli 2020.<br>Q10b.<br>„Amerikaner geben China die Schuld für seine Rolle bei der Verbreitung von COVID-19“<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It correctly represents all data values and proportions (75%, 17%, 7%, and an implied 1%). The color hues for each category are identical. While the original chart's legend and title are blacked out, the rendered chart provides plausible and well-formatted labels and a title that complete the chart without contradicting any visible information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the pie chart, which clearly shows that Hydro accounts for 75% of electricity generation, the largest portion among all the fuel sources listed."
+    },
+    "claim": "Hydroelectric was most used source for electricity generation in Idaho in February 2009.",
+    "label": true
+}

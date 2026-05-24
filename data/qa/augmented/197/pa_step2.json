@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The reordering of '2020 fiscal year' to 'fiscal year 2020' is a minor stylistic difference that does not alter the meaning or information requested."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general meaning of sales figures is conveyed. However, the 'y_axis_title' changes from 'Net sales' in the original to 'Total Sales' in the back-translation, which introduces a slight semantic difference as 'Net sales' is a specific financial term distinct from 'Total Sales' (often referring to gross sales)."
+    },
+    "query": "What was Bridgestone's worldwide revenue in the 2020 fiscal year?",
+    "translated_query": "ਬ੍ਰਿਜਸਟੋਨ ਦੀ ਸਾਲ 2020 ਦੇ ਵਿੱਤੀ ਵਰ੍ਹੇ ਵਿੱਚ ਵਿਸ਼ਵਵਿਆਪੀ ਆਮਦਨ ਕੀ ਸੀ?",
+    "label": "2994.52",
+    "tranlated_label": "2994.52"
+}

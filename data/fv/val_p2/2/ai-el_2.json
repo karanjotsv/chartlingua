@@ -1,0 +1,66 @@
+{
+    "chart_type": "nested_donut",
+    "chart_data": [
+        {
+            "category": "Άλλο",
+            "label": "Άλλο",
+            "values": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "category": "Καρκίνωμα Μεγάλων Κυττάρων",
+            "label": "Καρκίνωμα Μεγάλων<br>Κυττάρων",
+            "values": [
+                2,
+                4
+            ]
+        },
+        {
+            "category": "Αδενοκαρκίνωμα",
+            "label": "Αδενοκαρκίνωμα",
+            "values": [
+                15,
+                35
+            ]
+        },
+        {
+            "category": "Μικροκυτταρικό Καρκίνωμα",
+            "label": "Μικροκυτταρικό<br>Καρκίνωμα",
+            "values": [
+                10,
+                15
+            ]
+        },
+        {
+            "category": "Πλακώδες Καρκίνωμα",
+            "label": "Πλακώδες<br>Καρκίνωμα",
+            "values": [
+                8,
+                10
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null
+    },
+    "colors": {
+        "outer": [
+            "#BCC5D6",
+            "#756BB1",
+            "#4DAF4A",
+            "#D85F2A",
+            "#377EB8"
+        ],
+        "inner": [
+            "#E6E8ED",
+            "#CAB2D6",
+            "#B2DF8A",
+            "#FDBF6F",
+            "#A6CEE3"
+        ]
+    }
+}

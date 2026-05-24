@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent reproduction of the original. All text elements (title, subtitle, axis labels), data values, axis ranges, and the overall trend of the line are identical. The core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the least number of users who have deleted at least one file is 300. The chart, however, shows a line starting near 0 users in '06 and increasing over time. The number of users was below 300 for the entire period from '06 to approximately '09."
+    },
+    "claim": "300 users is the least who have deleted at leas one file in Wikipedia Common,",
+    "label": false
+}

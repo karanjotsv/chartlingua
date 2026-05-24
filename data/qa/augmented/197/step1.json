@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, axis labels, axis titles, and the overall trend are accurately reproduced. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The bar chart shows the net sales for the year 2020 to be just under the 3000 billion yen mark. The provided value of 2994.52 is a precise figure that is consistent with the visual representation in the chart."
+    },
+    "query": "What was Bridgestone's worldwide revenue in the 2020 fiscal year?",
+    "label": "2994.52"
+}

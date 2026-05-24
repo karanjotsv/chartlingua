@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The two largest slices ('Prairie' and 'Oak - Hickory Savanna') are proportionally and color-wise consistent, preserving the main message. However, the smaller slices are significantly different. The rendered chart incorrectly splits the 'Mixed Hardwoods - Prairie' category into two separate slices and uses different colors for other minor categories (e.g., 'Mixed Hardwoods - Prairie poorly drained' is pink instead of cream), altering the detailed data representation.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The chart is malformed because it represents a single data category ('Mixed Hardwoods - Prairie') as two separate, non-contiguous red slices. This is a fundamental error in pie chart construction. Additionally, there is minor text overlap in the source information at the bottom."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The legend identifies the yellow slice of the pie chart as 'Prairie'. Visually, the yellow slice is the largest segment of the entire pie chart, making the claim accurate."
+    },
+    "claim": "Prairie has the largest part in the pie chart.",
+    "label": "TRUE"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The addition of 'market' to 'share' in the back-translation clarifies the implied meaning but does not alter the core semantic intent of the original query. Both phrasings accurately seek Netflix's global market share."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is capitalization in 'Subscriber market share' to 'Subscriber Market Share', which is a trivial stylistic change."
+    },
+    "query": "What is Netflix's global share?",
+    "translated_query": "ਨੈੱਟਫਲਿਕਸ ਦੀ ਗਲੋਬਲ ਹਿੱਸੇਦਾਰੀ ਕਿੰਨੀ ਹੈ?",
+    "label": "23",
+    "tranlated_label": "23"
+}

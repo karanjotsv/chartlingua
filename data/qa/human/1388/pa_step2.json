@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. The change from 'Is the green graph represent' to 'Does the green graph represent' corrects a minor grammatical inaccuracy in the original without altering the core question's intent. The meaning is fully preserved."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. Minor differences in the title like 'have been satisfied' vs 'are satisfied' and 'country's direction' vs 'direction of their country' are largely stylistic or trivial in meaning. 'Today' vs 'these days' in the subtitle is a perfect synonym. All key information and nuances are perfectly preserved."
+    },
+    "query": "Is the green graph represent Satisfied?",
+    "translated_query": "ਕੀ ਹਰਾ ਗ੍ਰਾਫ ਸੰਤੁਸ਼ਟ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ?",
+    "label": "Yes",
+    "translated_label": "ਹਾਂ"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (Water 70.8, Agriculture 12%, etc.) and corresponding labels are identical. The proportions of the pie slices are accurate, and the color hues for each category are preserved (blue for water, gold for agriculture, etc.). The overall message is unchanged.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the smallest amount of surface is covered by water, but the pie chart clearly shows that water is the largest component, at 70.8."
+    },
+    "claim": "Smallest amount of surface is covered with water.",
+    "label": false
+}

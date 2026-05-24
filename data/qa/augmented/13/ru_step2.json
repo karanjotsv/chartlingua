@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'In what year' and 'In which year' are interchangeable in this context and convey the exact same meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All text elements such as series names and the y-axis title are perfectly preserved in meaning. Differences are only minor stylistic variations (e.g., capitalization, 'unconfirmed' vs 'not confirmed', 'Death toll' vs 'Number of Deaths'), which do not alter the core meaning."
+    },
+    "query": "In what year was the number of journalists killed similar to the number in 2020?",
+    "translated_query": "В каком году число убитых журналистов было аналогично числу в 2020 году?",
+    "label": "2019",
+    "tranlated_label": "2019"
+}

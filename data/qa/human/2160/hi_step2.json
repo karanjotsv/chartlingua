@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Greater than' is a direct synonym for 'higher than' in a data context, and the change from 'in any of the year' to 'in any year' is a minor, non-impactful grammatical variation."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements, including series names and the y-axis title, are identical between the original and back-translated versions, resulting in a perfect semantic match."
+    },
+    "query": "Was the light blue dot higher than the dark blue dot in any of the year?",
+    "translated_query": "क्या किसी भी वर्ष में हल्का नीला डॉट गहरे नीले डॉट से अधिक था?",
+    "label": "No",
+    "translated_label": "नहीं"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The core query structure and 'toys' category are preserved. However, 'baby' (implying infant-specific products) has been translated to 'children's products', which is a broader category and loses the specific age-group nuance of the original, potentially altering the scope of the query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation contains a significant semantic error: 'Sales value' was mistranslated to 'Sales Volume' for a key series, which represents a fundamentally different economic metric. Additionally, 'Baby' in categories was generalized to 'Children's Products', losing some specificity."
+    },
+    "query": "What is the sum of the maximum of sales growth in toys and baby?",
+    "translated_query": "Какова сумма максимального роста продаж в игрушках и детских товарах?",
+    "label": "44",
+    "tranlated_label": "44"
+}

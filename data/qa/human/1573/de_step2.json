@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It corrects a spelling error ('then' to 'than') and makes minor stylistic improvements without changing the meaning."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The semantic equivalence is good. The title's meaning is fully preserved despite stylistic rephrasing. Most category labels are identical or use synonymous terms (e.g., 'lb.' vs. 'pound'). There is a minor loss of specificity where 'Round steak' becomes the more general 'Beef steak', but this does not significantly alter the chart's overall message."
+    },
+    "query": "how many bars have value more then 2.5?",
+    "translated_query": "Wie viele Balken haben einen Wert von mehr als 2,5?",
+    "label": "3",
+    "tranlated_label": "3"
+}

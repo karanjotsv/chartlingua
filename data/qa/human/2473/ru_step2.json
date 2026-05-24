@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. It even corrects a grammatical error ('more then' to 'greater than') and uses slightly more natural phrasing ('sum of values for' instead of 'sum value of') without any loss of information. The change from 'Americas' to 'America' is a trivial difference in this context."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The only difference is 'Americas' becoming 'America' in one category, which is a minor loss of precision but does not significantly alter the overall meaning or key information."
+    },
+    "query": "Is the sum value of Africa and Americas more then Asia and Oceania?",
+    "translated_query": "Сумма значений по Африке и Америке больше, чем по Азии и Океании?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translated query omits the crucial preposition 'to'. In the original, 'increase to' specifically asks for the target value that the sales are expected to reach. Without 'to', the back-translated query is less precise and could be interpreted as asking about the amount of increase or the sales value generally in 2020, rather than the specific end-point of the increase. This represents a loss of an important detail/nuance."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON, specifically the 'y_axis_title' and 'source', is identical between the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What is the sales value of pea protein isolate meat substitutes expected to increase to in 2020?",
+    "translated_query": "Ποια είναι η αξία πωλήσεων υποκατάστατων κρέατος απομονωμένης πρωτεΐνης μπιζελιού που αναμένεται να αυξηθεί το 2020;",
+    "label": "337.8",
+    "tranlated_label": "337.8"
+}

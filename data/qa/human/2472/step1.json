@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, axis labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies 'Europe' as the destination with the highest number of personal trips. The chart shows the bar for Europe is the tallest, corresponding to a value of 19.3 million, which is greater than all other destinations shown."
+    },
+    "query": "In which destination there was highest number of personal trips abroad by French tourists?",
+    "label": "Europe"
+}

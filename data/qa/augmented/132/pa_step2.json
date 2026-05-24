@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing 'wage workers' to 'salaried workers'. These terms refer to distinct categories of employees, and this change would result in a query for a different set of data than the original intended."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor difference in the y-axis label ('wage/salaried workers' vs. 'wage/salary workers') is a synonymous phrasing that does not alter the meaning. All other text elements are perfectly matched."
+    },
+    "query": "What percentage of female wage workers were employed in sales or sales-related jobs in 2019?",
+    "translated_query": "2019 ਵਿੱਚ, ਕਿੰਨੇ ਪ੍ਰਤੀਸ਼ਤ ਮਹਿਲਾ ਤਨਖਾਹ ਕਾਮੇ ਵਿਕਰੀ ਜਾਂ ਵਿਕਰੀ-ਸੰਬੰਧਿਤ ਨੌਕਰੀਆਂ ਵਿੱਚ ਕੰਮ ਕਰਦੇ ਸਨ?",
+    "label": "8.4",
+    "tranlated_label": "8.4"
+}

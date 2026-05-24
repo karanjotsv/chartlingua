@@ -1,0 +1,35 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Обеспечение ресурсами",
+            "value": 8
+        },
+        {
+            "label": "Реализация процесса",
+            "value": 11
+        },
+        {
+            "label": "Основной процесс",
+            "value": 48
+        },
+        {
+            "label": "Вторичный процесс",
+            "value": 33
+        }
+    ],
+    "texts": {
+        "title": "Общий выброс воздуха на этапах жизненного цикла газификации",
+        "subtitle": "(Всего: 1967)",
+        "source": null,
+        "note": null,
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#b7b7ec",
+        "#953f64",
+        "#ffffcf",
+        "#c2ebf3"
+    ]
+}

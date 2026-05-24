@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The back-translation significantly distorts the original claim by replacing the general term 'dwellings' with the specific term 'apartments'. This changes the scope of the claim from all types of new homes to only a single type, which is a critical loss of key information."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The category labels are semantically equivalent. However, the title has a significant semantic shift. The original 'new dwellings' is a broad term for all types of homes, while the back-translation 'new apartments' narrows the scope to a specific type, which is a loss of accuracy and changes the interpretation of the data."
+    },
+    "claim": "The average floor area of new dwellings is highest in Australia. ",
+    "translated_claim": "Die durchschnittliche Wohnfläche neuer Wohnungen ist in Australien am höchsten."
+}

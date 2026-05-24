@@ -1,0 +1,60 @@
+{
+    "chart_type": "pie_subplots",
+    "chart_data": [
+        {
+            "labels": [
+                "Entsorgung",
+                "Kapitalkosten",
+                "Arbeitskosten",
+                "Sonstige Betriebs<br>kosten"
+            ],
+            "values": [
+                2,
+                6,
+                59,
+                33
+            ],
+            "colors": [
+                "#BDE9EA",
+                "#B0B1E6",
+                "#8E3563",
+                "#FAF8D3"
+            ]
+        },
+        {
+            "labels": [
+                "Perchlorethylen-Kosten",
+                "Reinigungsmittelkosten",
+                "Gas",
+                "Strom",
+                "Reinigungs<br>chemikalien &<br>Filter",
+                "Wartung",
+                "Compliance"
+            ],
+            "values": [
+                3,
+                6,
+                29,
+                28,
+                3,
+                20,
+                11
+            ],
+            "colors": [
+                "#B0B1E6",
+                "#8E3563",
+                "#FAF8D3",
+                "#CFFCFA",
+                "#4A024A",
+                "#F4948E",
+                "#0F5EBE"
+            ]
+        }
+    ],
+    "texts": {
+        "title_1": "Jährliche Kostenaufschlüsselung",
+        "title_2": "Aufschlüsselung der sonstigen Betriebskosten",
+        "subtitle": null,
+        "source": null
+    }
+}

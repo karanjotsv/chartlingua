@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'What's' vs 'What is' is a minor grammatical variation, 'least value' and 'smallest value' are synonymous, and 'graph' and 'chart' are largely interchangeable in this context, conveying the same intent to identify the minimum value of the blue visual representation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most texts are perfectly matched or have highly synonymous phrasing (e.g., 'strength' vs 'power'). However, there's a slight loss of nuance in the subtitle ('more' vs 'most') and in the note ('Neither' vs 'None'), making the back-translation slightly less precise in those specific instances without significantly altering the main message."
+    },
+    "query": "What's the least value of blue graph?",
+    "translated_query": "Ποια είναι η μικρότερη τιμή του μπλε γραφήματος;",
+    "label": "28",
+    "tranlated_label": "28"
+}

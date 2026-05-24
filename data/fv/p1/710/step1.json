@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data proportions, slice labels, the title, and the overall color scheme are all highly consistent with the original. The core message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The pie chart shows the slice for 'mf-hcard' is visibly much larger than the slice for 'mf-geo', which contradicts the claim."
+    },
+    "claim": "The mf-hard section is less than the mf-geo section.",
+    "label": false
+}

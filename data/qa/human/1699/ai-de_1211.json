@@ -1,0 +1,41 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Dem/Neigt zu Dem",
+            "Rep/Neigt zu Rep",
+            "Gesamt"
+        ],
+        "series": [
+            {
+                "name": "Keine wesentlichen Änderungen nötig",
+                "values": [
+                    20,
+                    57,
+                    37
+                ]
+            },
+            {
+                "name": "Wesentliche Änderungen nötig",
+                "values": [
+                    79,
+                    41,
+                    62
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "<b>Große Kluft zwischen den Parteien bei der Frage, ob der<br>Aufbau der US-Regierung „wesentliche Änderungen“ benötigt</b>",
+        "subtitle": "<i>In Bezug auf den grundlegenden Aufbau und die Struktur der<br>amerikanischen Regierung, % der Befragten, die sagen ...</i>",
+        "footer": "Anmerkung: Antworten „Keine Angabe“ nicht gezeigt.<br>Quelle: Umfrage unter erwachsenen US-Bürgern, durchgeführt vom 27. Juli bis 2. August 2020.<br><b>PEW RESEARCH CENTER</b>",
+        "series_headers": [
+            "Keine wesentlichen<br>Änderungen nötig",
+            "Wesentliche<br>Änderungen nötig"
+        ]
+    },
+    "colors": [
+        "#d4c18c",
+        "#998539"
+    ]
+}

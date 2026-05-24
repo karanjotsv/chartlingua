@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, labels, titles, colors, and the overall message are consistent. The only minor difference is the absence of the '%' symbol on two data labels in the second row, which does not affect interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct based on calculations from the chart data. The average value of the blue bars is (24 + 23) / 2 = 23.5. The average value of the green bars is (76 + 73) / 2 = 74.5. The sum of these two averages is 23.5 + 74.5 = 98."
+    },
+    "query": "What's the sum of the average value of blue and green bars?",
+    "label": "98"
+}

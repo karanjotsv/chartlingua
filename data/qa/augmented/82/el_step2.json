@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, indicating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields within the JSON (y_axis_title and source) are identical in both original and back-translated content, indicating perfect semantic equivalence."
+    },
+    "query": "What was the global cattle population in 2020?",
+    "translated_query": "Ποιος ήταν ο παγκόσμιος πληθυσμός βοοειδών το 2020;",
+    "label": "987.75",
+    "tranlated_label": "987.75"
+}

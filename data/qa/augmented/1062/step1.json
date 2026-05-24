@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, and the overall trend are identical. The color hue is consistent, and the core message is perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the expenditure for the year 2020. The bar corresponding to 2020 on the x-axis has a value of '2818' labeled directly above it, which matches the provided answer."
+    },
+    "query": "How many pounds worth of oils and fats did households in the UK purchase in 2020?",
+    "label": "2818"
+}

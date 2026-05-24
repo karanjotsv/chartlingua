@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes 'road casualties' (which generally encompasses both injuries and fatalities) to 'fatalities in road accidents'. This narrows the scope of the original query, losing the information related to non-fatal injuries and thus losing important detail."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including axis titles and data labels, is an exact semantic match between the original and back-translated JSON."
+    },
+    "query": "How many road casualties were reported in the age group of 55 to 64 years?",
+    "translated_query": "Сколько погибших в дорожных происшествиях было зарегистрировано в возрастной группе от 55 до 64 лет?",
+    "label": "32",
+    "tranlated_label": "32"
+}

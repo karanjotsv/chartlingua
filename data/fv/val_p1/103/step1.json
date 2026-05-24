@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, axis labels, titles, and color hues are consistent, conveying the exact same information and trend.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the chart shows male arrests, but the chart's title clearly specifies it is about \"United States Female Embezzlement Arrests\". Additionally, the claim mentions the year 2014, which is not provided anywhere in the chart."
+    },
+    "claim": "The chart shows the number of male arrests for embezzlement in the United States by age group in 2014.",
+    "label": false
+}

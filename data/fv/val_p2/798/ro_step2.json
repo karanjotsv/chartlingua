@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 2,
+        "claim_reason": "The original claim is grammatically incomplete, as it's missing a comparative adjective (e.g., 'more' or 'less'). The back-translation adds 'more', which fundamentally alters the meaning by turning an incomplete comparison into a specific, assertive claim. This is a significant distortion, not a preservation of the original's meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The differences are trivial, such as using 'over' instead of 'about', 'Greater' instead of 'Wider', and providing full country names like 'United Kingdom' for 'U.K.', all of which are perfect synonyms or acceptable variations that do not change the meaning."
+    },
+    "claim": "Pennsylvania generates electricity from wind sources than from coal.",
+    "translated_claim": "Pennsylvania generează mai multă electricitate din surse eoliene decât din cărbune."
+}

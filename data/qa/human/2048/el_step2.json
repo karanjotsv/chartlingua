@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The changes ('shows' to 'show' corrects a grammatical error, 'of 10' to '10' is a minor stylistic difference, and 'in' to 'on' the chart are both acceptable prepositions) do not alter the meaning of the question at all."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. Differences like 'U.S.' vs 'U.S.A.', 'Sao Paulo' vs 'São Paulo', 'Bombay' vs 'Mumbai', and 'billion' vs 'billions of' are minor stylistic variations, proper noun localizations/updates, or grammatical nuances that do not alter the core meaning or introduce any ambiguity."
+    },
+    "query": "How many bars shows the value of 10  in the chart ?",
+    "translated_query": "Πόσες μπάρες δείχνουν την τιμή 10 στο γράφημα;",
+    "label": "3",
+    "tranlated_label": "3"
+}

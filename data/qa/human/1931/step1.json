@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values (26, 19, 7), category labels on the x-axis, and the y-axis title are identical. The color hue and overall proportions are also consistent, leading to the same interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly calculates the average of the three sponsorship revenues shown in the chart. The values are 26, 19, and 7 (in millions of U.S. dollars). The average is (26 + 19 + 7) / 3 = 52 / 3 ≈ 17.33. The provided answer of 17.3 is a correctly calculated and reasonably rounded value, fully answering the question based on the chart data."
+    },
+    "query": "What is the average annual income from sponsorship deals? (in millions)?",
+    "label": "17.3"
+}

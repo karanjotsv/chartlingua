@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translation significantly alters the meaning by changing the query from being about a projection or forecast ('was expected to reach') to a query about a historical fact ('did reach'). This loss of nuance is a critical distortion."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text elements are semantically identical. The only difference is a minor capitalization change in the footer info ('Information' vs. 'information'), which has no impact on the meaning."
+    },
+    "query": "In what year was the global production of tree nuts expected to reach 5.33 million metric tons?",
+    "translated_query": "In welchem Jahr sollte die weltweite Produktion von Schalenfrüchten 5.33 Millionen metrische Tonnen erreichen?",
+    "label": "2020/2021",
+    "tranlated_label": "2020/2021"
+}

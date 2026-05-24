@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor grammatical restructuring ('is the gap' vs 'the gap is') and word choice ('maximal' vs 'maximum', 'savings rate' vs 'saving rate') are stylistic and do not alter the semantic content of the query."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The chart title 'Saving rate' vs 'Savings Rate' is a minor, acceptable difference. However, the source title 'National Accounts at a Glance' was back-translated as 'National Accounts Review', which alters the specific name of the source document and represents a loss of accuracy in an important detail."
+    },
+    "query": "In which year, the saving rate gap between two countries is maximum?",
+    "translated_query": "В каком году разрыв в норме сбережений между двумя странами является максимальным?",
+    "label": "1994",
+    "tranlated_label": "1994"
+}

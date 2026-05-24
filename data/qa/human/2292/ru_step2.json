@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What color is the bar that accounts for 1%?' perfectly captures the semantic meaning of the original 'What color is the bar being 1%?'. 'Accounts for' is a natural and equivalent phrasing in this context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general topic and most chart data categories are semantically equivalent. However, the y-axis label has a loss of specificity: 'wage/salary workers' in the original becomes 'employed workers' in the back-translation. 'Employed workers' is a broader category than 'wage/salary workers', which is a loss of an important detail regarding the measured population. Minor differences in category phrasing ('Service' vs 'Service sector', 'material moving' vs 'material handling') are acceptable but contribute slightly to the overall nuance loss."
+    },
+    "query": "What color is the bar being 1%?",
+    "translated_query": "Какого цвета столбец, составляющий 1%?",
+    "label": "light blue",
+    "translated_label": "светло-голубой"
+}

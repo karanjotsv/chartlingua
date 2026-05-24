@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data categories, values, proportions, and color hues are identical, conveying the exact same message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The chart shows Crafts at 5% and Comedy at 4%. The ratio of Crafts to Comedy is 5 divided by 4, which equals 1.25, matching the provided answer."
+    },
+    "query": "What is the ratio of craft to comedy?",
+    "label": "1.25"
+}

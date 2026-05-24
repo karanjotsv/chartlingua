@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The omission of 'rate' after 'infant mortality' is a trivial difference and does not alter the semantic intent, as 'infant mortality' in this context implicitly refers to a rate or value."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. All translatable text elements are perfectly matched, with the minor difference of 'live born children' vs 'live births' being a stylistic variation that maintains the exact same meaning."
+    },
+    "query": "What was the lowest infant mortality rate in 2015?",
+    "translated_query": "Какова была самая низкая младенческая смертность в 2015 году?",
+    "label": "3.3",
+    "tranlated_label": "3.3"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, proportions, labels, titles, and the overall message are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The claim is supported by the chart, which is titled '2017 Top Ten Electric Generation by Coal States'. The horizontal bar for Texas (TX) is visibly the longest, extending furthest to the right on the x-axis, which represents the amount of electric generation. This confirms that Texas generated the most electricity among the top ten states listed."
+    },
+    "claim": "Texas generates the most electricity of the top ten states that use coal to generate electricity in 2017. ",
+    "label": true
+}

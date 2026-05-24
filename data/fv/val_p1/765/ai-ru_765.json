@@ -1,0 +1,34 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Гидро",
+            "value": 75
+        },
+        {
+            "label": "Ветер",
+            "value": 17
+        },
+        {
+            "label": "Природный газ",
+            "value": 7
+        },
+        {
+            "label": "Уголь",
+            "value": 1
+        }
+    ],
+    "texts": {
+        "title": "Производство электроэнергии в Айдахо (по виду топлива) в феврале 2009 года",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null
+    },
+    "colors": [
+        "#93C43F",
+        "#0071B9",
+        "#5A2D91",
+        "#FF0000"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "S.U.A.",
+            "China",
+            "UE",
+            "OMS",
+            "Țara noastră"
+        ],
+        "series": [
+            {
+                "name": "Rău",
+                "data": [
+                    84,
+                    60,
+                    39,
+                    34,
+                    25
+                ]
+            },
+            {
+                "name": "Bun",
+                "data": [
+                    15,
+                    37,
+                    57,
+                    64,
+                    74
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Calificative slabe pentru răspunsul Americii la<br>pandemia de coronavirus",
+        "subtitle": "% care spun că fiecare a făcut o treabă ___ în gestionarea<br>pandemiei de coronavirus",
+        "source": "Notă: Procentajele sunt mediane bazate pe 13 țări. Cei care<br>nu au răspuns nu sunt afișați.<br>Sursa: Sondajul Global de Atitudini din vara anului 2020. Q10a-e.<br>„Imaginea S.U.A. se prăbușește la nivel internațional, majoritatea spunând că țara a<br>gestionat prost coronavirusul”",
+        "footer": "PEW RESEARCH CENTER",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": [
+        "#2c5a8c",
+        "#90a24f"
+    ]
+}

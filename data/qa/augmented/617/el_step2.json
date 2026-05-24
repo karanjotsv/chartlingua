@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'Who is the all-time leading scorer for the Phoenix Suns?' is a perfect semantic match for the original 'Who is the career points leader of the Phoenix Suns?'. Both phrases convey identical meaning in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All structural elements, numerical data, and proper nouns in the chart data are identical. The only textual difference is the x-axis title, 'Points scored' in the original and 'Total points' in the back-translation, which conveys the exact same semantic meaning and context, representing a stylistic or trivial difference."
+    },
+    "query": "Who is the career points leader of the Phoenix Suns?",
+    "translated_query": "Ποιος είναι ο πρώτος σκόρερ όλων των εποχών των Phoenix Suns;",
+    "label": "Walter Davis",
+    "translated_label": "Ουόλτερ Ντέιβις"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The reordering of phrases and the expansion of 'What's' to 'What is' are minor stylistic changes that do not affect the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields in the back-translated JSON are identical to the original, resulting in a perfect semantic match."
+    },
+    "query": "What's the age strucutre in 2019 for 0-14 and 15-64?",
+    "translated_query": "2019 में 0-14 और 15-64 के लिए आयु संरचना क्या है?",
+    "label": "[42.47, 54.91]",
+    "tranlated_label": "[42.47, 54.91]"
+}

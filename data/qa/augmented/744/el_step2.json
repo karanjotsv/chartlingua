@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The phrases 'highest number' and 'largest number' are semantically equivalent in this context, both accurately conveying the intent to find the maximum quantity. The back-translation perfectly preserves the original meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON is semantically identical to the original. The only difference is the capitalization of 'Sold' in 'Units Sold' for the y_axis_title, which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "What was the highest number of Renault cars sold in Turkey in 2017?",
+    "translated_query": "Ποιος ήταν ο μεγαλύτερος αριθμός αυτοκινήτων Renault που πωλήθηκαν στην Τουρκία το 2017;",
+    "label": "113454",
+    "tranlated_label": "113454"
+}

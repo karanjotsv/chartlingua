@@ -1,0 +1,83 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Irland",
+            "values": [
+                2.8,
+                3.3
+            ]
+        },
+        {
+            "category": "Portugal",
+            "values": [
+                1.0,
+                3.1
+            ]
+        },
+        {
+            "category": "Spanien",
+            "values": [
+                0.6,
+                3.0
+            ]
+        },
+        {
+            "category": "Griechenland",
+            "values": [
+                1.9,
+                2.7
+            ]
+        },
+        {
+            "category": "Italien",
+            "values": [
+                0.25,
+                1.8
+            ]
+        },
+        {
+            "category": "Frankreich",
+            "values": [
+                1.6,
+                1.6
+            ]
+        },
+        {
+            "category": "Deutschland",
+            "values": [
+                1.6,
+                0.1
+            ]
+        },
+        {
+            "category": "EU-27",
+            "values": [
+                1.5,
+                1.9
+            ]
+        },
+        {
+            "category": "Eurozone",
+            "values": [
+                0.8,
+                1.5
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "OECD: Unit labour costs and<br>labour productivity, total<br>economy (OECD Factbook<br>2010: Economic,<br>Environmental and Social<br>Statistics)",
+        "legend_series_names": [
+            "Arbeitsproduktivität",
+            "Lohnstückkosten"
+        ]
+    },
+    "colors": [
+        "#C13F3F",
+        "#5379AC"
+    ]
+}

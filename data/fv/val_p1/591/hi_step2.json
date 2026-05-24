@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translated claim preserves the main subject (Health and education) and value (23%), but incorrectly changes 'Occupational Statistics' to 'Business Statistics', which is a significant loss of accuracy regarding the data's context."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The data labels are all semantically equivalent, with only minor stylistic differences (e.g., '&' vs. 'and'). However, the chart title changes from 'Occupational Statistics' to 'Business Statistics'. This is a significant semantic shift that alters the specific subject of the data being presented."
+    },
+    "claim": "Health and Education had 23% in the pie chart 2011 Occupational Statistics.",
+    "translated_claim": "2011 व्यावसायिक आँकड़े के पाई चार्ट में स्वास्थ्य और शिक्षा का हिस्सा 23% था।"
+}

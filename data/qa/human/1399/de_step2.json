@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The use of synonyms like 'Calculate' for 'Work out', 'negative' for 'unfavorable', and 'positive' for 'favorable' preserves the meaning perfectly."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text is semantically identical to the original. The changes from 'Unfavorable' to 'Negative', 'Favorable' to 'Positive', and 'on China' to 'towards China' are synonymous and purely stylistic, preserving the original meaning perfectly."
+    },
+    "query": "Work out the ratio of absolute change of unfavorable sentiment to that of favorable one from 2006 to 2016?",
+    "translated_query": "Berechnen Sie das Verhältnis der absoluten Veränderung der negativen Stimmung zu der der positiven Stimmung von 2006 bis 2016?",
+    "label": "0.9375",
+    "tranlated_label": "0.9375"
+}

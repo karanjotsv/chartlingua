@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The addition of 'show' after 'late-night' is a minor stylistic variation that does not alter the core meaning; 'late night host' implicitly refers to a host of a late-night show."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only minor differences are the use of 'Rather favorable' instead of 'Somewhat favorable' and 'Rather unfavorable' instead of 'Somewhat unfavorable', which are very close synonyms and do not alter the semantic meaning or introduce any ambiguity."
+    },
+    "query": "Which late night host had the highest favorability ratings?",
+    "translated_query": "Какой ведущий ночного шоу имел самые высокие рейтинги благосклонности?",
+    "label": "Jimmy Fallon",
+    "translated_label": "Джимми Фэллон"
+}

@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'Trafes' seems to be a typo for 'trades' or 'goods', and 'goods' accurately conveys the intent in the context of imports. 'By dollar amount' and 'in dollar terms' are semantically equivalent."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The titles and labels are semantically equivalent with minor formatting differences (decimal separators). However, the 'subtitle' values for both 'Export' and 'Import' are significantly distorted. For example, '105,849 bil US$' from the original likely means 105,849 billion US dollars (or 105.849 trillion US dollars), whereas the back-translated '105.849 billion US dollars' represents 105.849 billion US dollars. This is a discrepancy by a factor of 1000 (trillions versus billions), which constitutes a significant loss and distortion of critical numerical information."
+    },
+    "claim": "The EU imports more Australian trafes by dollar amount than Singapore. ",
+    "translated_claim": "ЕС импортирует больше австралийских товаров в долларовом выражении, чем Сингапур."
+}

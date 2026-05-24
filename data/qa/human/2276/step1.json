@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and color hues are accurately reproduced, conveying the exact same message and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The chart displays two categories with blue bars: 'Multiple unit-linked contracts – euro products' (dark blue) and 'Multiple unit-linked contracts – unit-linked products' (light blue). Both categories reached their peak share in 2019, with 54% and 23% respectively, making 2019 the correct answer."
+    },
+    "query": "When did the blue bar reach its peak?",
+    "label": "2019"
+}

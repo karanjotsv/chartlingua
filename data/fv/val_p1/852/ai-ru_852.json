@@ -1,0 +1,34 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Федеральные<br>Доходы,<br>30%",
+            "value": 30
+        },
+        {
+            "label": "Общий<br>Фонд,<br>8%",
+            "value": 8
+        },
+        {
+            "label": "Облигации, 25%",
+            "value": 25
+        },
+        {
+            "label": "Ограниченные<br>Штатом<br>Средства,<br>37%",
+            "value": 37
+        }
+    ],
+    "texts": {
+        "title": "<b>Бюджет DEQ 2015</b>",
+        "subtitle": "(1 окт. 2014 г. – 30 сент. 2015 г.)",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Общий бюджет DEQ - $502 млн"
+    },
+    "colors": [
+        "#4178b8",
+        "#c74243",
+        "#8dc060",
+        "#8e63a1"
+    ]
+}

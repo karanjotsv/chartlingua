@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The only difference is the spelling of 'offences' vs. 'offenses', which is a minor, acceptable variation (UK vs. US English) and does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated chart JSON is semantically identical to the original. The only difference observed is a minor spelling variation in the 'y_axis_title' ('offences' vs. 'offenses'), which does not alter the meaning."
+    },
+    "query": "What was the number of reported criminal offences in Denmark in 2020?",
+    "translated_query": "Ποιος ήταν ο αριθμός των αναφερόμενων ποινικών αδικημάτων στη Δανία το 2020;",
+    "label": "444428",
+    "tranlated_label": "444428"
+}

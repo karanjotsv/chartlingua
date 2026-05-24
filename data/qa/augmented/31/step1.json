@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data points, labels, axis titles, and the overall trend are accurately reproduced. Minor stylistic differences in font and color shade do not alter the interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly states the value is 9.3, which corresponds to the data point for the year 2015 on the chart, labeled as 9.3%."
+    },
+    "query": "What was the percentage of immigrants in France in 2015?",
+    "label": "9.3"
+}

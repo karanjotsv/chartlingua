@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart accurately represents the same data categories, proportions, and color assignments as the original. While the rotational orientation and order of the slices are different, this is a stylistic variation that does not alter the core message or semantic content.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart displays numerous distinct slices, each labeled with a different web domain (e.g., vocab.getty.edu, britishmuseum.org, en.wikisource.org, and many others), which visually confirms that the data comes from a diverse range of sources."
+    },
+    "claim": "The chart shows a diverse range of sources for the StrepHit IEG Web Sources Corpus Biographies.",
+    "label": "TRUE"
+}

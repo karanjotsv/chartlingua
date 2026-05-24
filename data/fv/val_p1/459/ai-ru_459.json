@@ -1,0 +1,44 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": 1,
+            "value": 1
+        },
+        {
+            "category": 2,
+            "value": 2
+        },
+        {
+            "category": 3,
+            "value": 3
+        },
+        {
+            "category": 4,
+            "value": 3
+        },
+        {
+            "category": 5,
+            "value": 4
+        },
+        {
+            "category": 6,
+            "value": 3
+        },
+        {
+            "category": 7,
+            "value": 2
+        }
+    ],
+    "texts": {
+        "title": "Гистограмма",
+        "subtitle": null,
+        "x_axis_title": "Корзина (размер .2)",
+        "y_axis_title": "Частота",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#A7A7F2"
+    ]
+}

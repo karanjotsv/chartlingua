@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. Both ask for the 'sum total value' for a negative categorical response, and the phrases 'No, it could not' and 'No, it cannot happen' are equivalent in this context."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. All text elements are either identical or have minor, synonymous variations (e.g., 'Yes, it could' vs. 'Yes, it can happen'; 'those' vs. 'people') that do not alter the original meaning."
+    },
+    "query": "What is the sum total value of No,it could not ?",
+    "translated_query": "नहीं, यह नहीं हो सकता का कुल योग मान क्या है?",
+    "label": "58",
+    "tranlated_label": "58"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, categories, text labels, color hues, and the overall logarithmic trend are all accurately replicated.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim mentions categories such as 'Professional and Admission' and the year '2021', none of which are present in the chart. The chart displays data on 'Dose Equivalent (millisieverts)' from various radiation sources."
+    },
+    "claim": "The total value of the Professional and Admission make the 75% of the chart in 2021.",
+    "label": "FALSE"
+}

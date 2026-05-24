@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The rendered chart is moderately consistent. It correctly reproduces the colors and relative proportions for most of the data slices. However, it is missing one data point (the smallest pink slice) that is present in the original chart. The starting angle of the pie chart is also different, but this is a minor stylistic change.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The provided chart is a generic pie chart with no labels, legend, or numerical data. It does not contain any information about languages, countries like Ethiopia, or population percentages. Therefore, there is no information in the chart to support or refute the claim."
+    },
+    "claim": " Amharic is spoken by less than 5% of the Ethiopian population.",
+    "label": "FALSE"
+}

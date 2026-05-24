@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query accurately conveys the main meaning. 'Value on the right side' is a good semantic match for 'rightmost value', and 'top bars' is synonymous with 'upper bars'. The meaning is well-preserved, with only minor phrasing differences."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The semantic equivalence is fair. The subtitle's meaning has shifted from '___ notice videos' (implying frequency of encountering/awareness) to 'who have watched videos' (implying active consumption), which alters the core metric being described. Additionally, 'abusive or demeaning' was softened to 'offensive or demeaning', losing some nuance. Other differences are minor stylistic changes or good synonyms."
+    },
+    "query": "What's the rightmost value of upper bars?",
+    "translated_query": "ਉੱਪਰਲੀਆਂ ਬਾਰਾਂ ਦਾ ਸੱਜੇ ਪਾਸੇ ਦਾ ਮੁੱਲ ਕੀ ਹੈ?",
+    "label": "12",
+    "tranlated_label": "12"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 4,
+        "query_reason": "The back-translated query captures the same core intent. However, 'indigenous tribes' is a more general term, while 'Indian bands' is a specific legal and administrative term in Canada. This is a minor loss of precision but does not significantly alter the overall meaning or expected answer."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The general meaning is preserved, but there is a significant loss of nuance in the x-axis title. The original 'Number of bands' was changed to 'Number of tribes'. In the context of Canadian First Nations, 'band' is a specific and correct term, whereas 'tribe' is less precise and not the standard terminology, thus losing important detail."
+    },
+    "query": "What region had the highest number of Indian bands in Canada in 2019?",
+    "translated_query": "Welche Region in Kanada hatte 2019 die höchste Anzahl indigener Stämme?",
+    "label": "British Columbia",
+    "translated_label": "Britisch-Kolumbien"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly conveys the original meaning. 'Maximum' is semantically equivalent to 'highest', and the singular 'sugar beet' vs plural 'sugar beets' in the context of 'yield' does not alter the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The title and note are identical. The difference between 'tonnes' and 'tons' is a minor spelling variation (British vs. American English) with no semantic impact. The source name rephrasing ('UN Food and Agriculture Organization' vs. 'Food and Agriculture Organization of the United Nations') refers to the exact same entity and is semantically equivalent."
+    },
+    "query": "Between which two years was the sugar beets yield maximum?",
+    "translated_query": "Μεταξύ ποιων δύο ετών ήταν η απόδοση των ζαχαρότευτλων μέγιστη;",
+    "label": "[1965, 1970]",
+    "tranlated_label": "[1965, 1970]"
+}

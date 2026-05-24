@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim perfectly matches the original meaning. 'BBC's income' vs 'BBC income' is a minor stylistic difference, and 'television licensing' vs 'television licence fees' refer to the same funding mechanism for the BBC."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "The overall semantic equivalence is good. Most labels, values, and custom texts are perfect or have only trivial differences (e.g., capitalization, spacing). The title 'BBC Income Structure' is a close synonym for 'BBC Breakdown of Income', conveying the main idea without significant loss of meaning, though 'Breakdown' might be slightly more precise for a pie chart. 'BBC Commercial Income' clarifies 'BBC Commercial' without altering the core meaning."
+    },
+    "claim": "The majority of BBC's income comes from television licensing.",
+    "translated_claim": "Большая часть доходов BBC поступает от телевизионных лицензионных сборов."
+}

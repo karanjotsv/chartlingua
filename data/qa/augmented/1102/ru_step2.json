@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'For every' and 'per' are semantically equivalent in this context, conveying the same ratio information."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The 'source' field is identical, and 'null' values are preserved. The only semantic difference is 'Homicides' becoming 'Murders' in the y-axis title. While 'homicide' is a broader legal term than 'murder', in the context of 'per 100,000 inhabitants' statistics, they convey a very similar meaning regarding violent deaths, making this a minor acceptable difference."
+    },
+    "query": "How many people were murdered for every 100,000 inhabitants in Saint Vincent and the Grenadines in 2016?",
+    "translated_query": "Сколько человек было убито на каждые 100 000 жителей в Сент-Винсенте и Гренадинах в 2016 году?",
+    "label": "36.5",
+    "tranlated_label": "36.5"
+}

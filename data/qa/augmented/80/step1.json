@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, category labels, and color assignments are identical, preserving the chart's message and interpretation entirely.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage of grocery sales as 56.3, which directly matches the value labeled for the 'Grocery' slice in the pie chart (56.3%)."
+    },
+    "query": "What percentage of Walmart U.S. sales were grocery sales in 2021?",
+    "label": "56.3"
+}

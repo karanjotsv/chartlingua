@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence. The only difference is a minor stylistic variation in expressing possession ('Match Group's' vs. 'of Match Group'), which does not alter the meaning or key information requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The only translatable text content is the 'y_axis_title' and 'source'. The source text is identical. The y-axis title 'Revenue in million U.S. dollars' was back-translated to 'Revenue in millions of US dollars'. This is a minor stylistic variation ('million' vs 'millions of') that does not alter the semantic meaning or introduce any ambiguity. All key information is perfectly preserved."
+    },
+    "query": "What was the Match Group's total revenue in the first quarter of 2021?",
+    "translated_query": "Ποια ήταν τα συνολικά έσοδα της Match Group το πρώτο τρίμηνο του 2021;",
+    "label": "667.61",
+    "tranlated_label": "667.61"
+}

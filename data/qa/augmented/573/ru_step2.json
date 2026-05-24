@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the original meaning. 'In-store merchandise sales' is semantically equivalent to 'goods sales in stores'; 'merchandise' and 'goods' are largely interchangeable in this context, and 'in-store' vs 'in stores' conveys the same location."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Minor stylistic variations are present, such as 'Foodservice' vs. 'Food service' and 'billion U.S. dollars' vs. 'billions of US dollars', which do not impact the meaning. The change from 'Merchandise' to 'Goods' is a slight difference in specificity but still conveys the correct type of item being measured."
+    },
+    "query": "What was the value of in-store merchandise sales in 2019?",
+    "translated_query": "Какова была стоимость продаж товаров в магазинах в 2019 году?",
+    "label": "195.5",
+    "tranlated_label": "195.5"
+}

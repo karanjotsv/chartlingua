@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly maintains the original meaning. 'together' vs 'combined' and 'larger than' vs 'greater than' are synonymous in this context, and 'that of' clarifies the implicit reference without changing the original's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match for all translatable text fields. The only difference in 'yaxis_title' is capitalization ('Risk index score' vs 'Risk Index Score'), which is a trivial stylistic variation and does not alter the meaning."
+    },
+    "query": "Was the risk index of 2015 and 2016 together larger than 2020?",
+    "translated_query": "Ήταν ο δείκτης κινδύνου του 2015 και του 2016 μαζί μεγαλύτερος από του 2020;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

@@ -1,0 +1,68 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": [
+        {
+            "name": "Females",
+            "x": [
+                16,
+                16,
+                8,
+                6,
+                7,
+                0,
+                10,
+                3,
+                3
+            ],
+            "y": [
+                "Administrative & Secretarial",
+                "Associate Professional & Technical",
+                "Caring, Leisure & Other Services",
+                "Elementary",
+                "Managers, Directors & Senior Officials",
+                "Process Plant and Machine Operatives",
+                "Professionals",
+                "Sales & Customer Service",
+                "Skilled Trades"
+            ]
+        },
+        {
+            "name": "Males",
+            "x": [
+                4,
+                21,
+                1,
+                5,
+                16,
+                2,
+                14,
+                2,
+                12
+            ],
+            "y": [
+                "Administrative & Secretarial",
+                "Associate Professional & Technical",
+                "Caring, Leisure & Other Services",
+                "Elementary",
+                "Managers, Directors & Senior Officials",
+                "Process Plant and Machine Operatives",
+                "Professionals",
+                "Sales & Customer Service",
+                "Skilled Trades"
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Occupational Structure in 2011",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "legend_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#E48F45",
+        "#599AD3"
+    ]
+}

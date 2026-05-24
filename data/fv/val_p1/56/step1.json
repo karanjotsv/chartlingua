@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, proportions, labels, titles, and color hues are consistent, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows that 'Health and Education' accounted for 28% of the occupational statistics, while 'Scientific & technical' accounted for 8%. Since 28% is greater than 8%, the claim is supported."
+    },
+    "claim": "The number of Health and Education in 2011 was higher than Scientific & technical",
+    "label": true
+}

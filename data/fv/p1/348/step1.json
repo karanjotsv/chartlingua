@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The proportions and colors of the pie chart slices are a near-perfect match. The rendered chart adds a title, legend, and source text which are missing (blacked out) in the original, but this clarifies the chart's meaning without contradicting the visual data, resulting in a highly consistent representation of the core information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart shows the share of global autogas consumption by country in 2004. The slice representing Italy (green) is visibly larger than the slice representing Mexico (teal), which confirms that Italy's consumption was greater than Mexico's."
+    },
+    "claim": "Autogas consuption rate by Italy is greater than that of Mexico in 2004",
+    "label": false
+}

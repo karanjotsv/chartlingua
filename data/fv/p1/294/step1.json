@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data categories, values, and proportions are identical in both the main pie chart and the expanded bar chart. The color hues for each category are preserved. The overall structure, a pie chart with a zoomed-in bar for smaller categories, is also replicated accurately.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data in percentages and does not provide any information about the absolute number of entities represented. Furthermore, if the percentages were based on a total of 41 County Councils, the number of councils for each party would be a fraction (e.g., PD-L would have 34% of 41, which is 13.94 councils), which is not possible. Therefore, the data in the chart contradicts the claim."
+    },
+    "claim": "There are 41 County Councils represented in the chart.",
+    "label": true
+}

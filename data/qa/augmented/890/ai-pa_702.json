@@ -1,0 +1,38 @@
+{
+    "chart_type": "horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "ਅਣਜਾਣ",
+            "ਹੋਰ",
+            "ਸਾਜ਼ੋ-ਸਾਮਾਨ ਦੀ ਖਰਾਬੀ",
+            "ਅੱਗ/ਧਮਾਕਾ",
+            "ਹਲ ਦੀ ਖਰਾਬੀ",
+            "ਟੱਕਰ/ਟਕਰਾਓ",
+            "ਕਿਨਾਰੇ ਲੱਗਣਾ"
+        ],
+        "series": [
+            {
+                "name": "ਹਿੱਸਾ",
+                "data": [
+                    3,
+                    7,
+                    4,
+                    11,
+                    13,
+                    30,
+                    32
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "ਸਾਰੇ ਤੇਲ ਰਿਸਾਵਾਂ ਦਾ ਹਿੱਸਾ",
+        "y_axis_title": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2672C4"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "chart_type": "horizontal_stacked_bar",
+    "chart_data": {
+        "categories": [
+            "Roger Federer",
+            "Novak Djokovic",
+            "Rafael Nadal",
+            "Naomi Osaka",
+            "Serena Williams",
+            "Kei Nishikori",
+            "Ashleigh Barty",
+            "Daniil Medvedev",
+            "Dominic Thiem",
+            "Simona Halep"
+        ],
+        "series": [
+            {
+                "name": "एंडोर्समेंट",
+                "values": [
+                    100,
+                    32,
+                    26,
+                    34,
+                    32,
+                    31,
+                    3,
+                    4.5,
+                    4,
+                    4
+                ]
+            },
+            {
+                "name": "पुरस्कार राशि",
+                "values": [
+                    6.3,
+                    12.6,
+                    14,
+                    3.4,
+                    4,
+                    1.0,
+                    10.1,
+                    7.3,
+                    7.1,
+                    6.9
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_label": "आय (मिलियन अमेरिकी डॉलर में)",
+        "y_axis_label": null,
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2e75b6",
+        "#1c2b39"
+    ]
+}

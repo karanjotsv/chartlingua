@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. The data trend, axis scales, titles, and color hue are all consistent. Minor differences in x-axis label formatting and font styles are stylistic and do not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the ratio of asset value to debt for 1991 was around 4.0. However, the line chart shows that the value for 1991 is approximately 10.0. The ratio only approached values near 4.0 towards the end of the period shown, around 2008."
+    },
+    "claim": "The ratio of asset value to debt for June 1991 was around 4.0",
+    "label": "FALSE"
+}

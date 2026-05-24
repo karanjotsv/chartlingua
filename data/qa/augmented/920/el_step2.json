@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'What is the brand value of Apple?' is a perfect semantic match to the original 'What is Apple's brand value?'. The difference is only stylistic."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. All company names in `chart_data` and all text fields in `texts` (titles, source) are identical, except for a minor stylistic change in 'x_axis_title' ('billion U.S. dollars' vs 'billions US dollars') which does not alter the core meaning."
+    },
+    "query": "What is Apple's brand value?",
+    "translated_query": "Ποια είναι η αξία μάρκας της Apple;",
+    "label": "352.21",
+    "tranlated_label": "352.21"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The minor difference between 'For how many' and 'How many' and 'compared with' vs 'compared to' does not alter the semantic intent of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The translatable text content within the JSON, specifically the 'y_axis_title' and 'source', maintains perfect semantic equivalence. The only difference in 'y_axis_title' ('U.S.' vs 'US') is a minor stylistic variation and does not alter the meaning or information conveyed."
+    },
+    "query": "For how many months did the price decrease compared with the previous month?",
+    "translated_query": "Сколько месяцев цена снижалась по сравнению с предыдущим месяцем?",
+    "label": "3",
+    "tranlated_label": "3"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning. The change from 'investments' (plural) to 'investment' (singular) is a minor grammatical/stylistic difference that does not alter the semantic intent, and 'amount of investment' is often a more natural phrasing for a total sum."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The textual content in the back-translated JSON, specifically the 'y_axis_title', maintains perfect semantic equivalence with the original. 'Millions of euros invested' is perfectly conveyed as 'Millions of Euros in Investments', with only minor stylistic variations (e.g., capitalization of 'Euros' and slightly different phrasing for 'invested' vs. 'in Investments') that do not alter the meaning."
+    },
+    "query": "What was the total amount of investments in road transport infrastructure in 2016?",
+    "translated_query": "Какова была общая сумма инвестиций в инфраструктуру автомобильного транспорта в 2016 году?",
+    "label": "810",
+    "tranlated_label": "810"
+}

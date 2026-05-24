@@ -1,0 +1,39 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "category": "Доход от лицензионных сборов в Великобритании",
+            "value": 3370,
+            "text_label": "£3,37 миллиарда"
+        },
+        {
+            "category": "Государственные облигации",
+            "value": 283.6,
+            "text_label": "£283,6 миллиона"
+        },
+        {
+            "category": "Коммерческая деятельность BBC",
+            "value": 719.6,
+            "text_label": "£719,6 миллиона"
+        },
+        {
+            "category": "Прочее",
+            "value": 42.8,
+            "text_label": "£42,8 миллиона"
+        }
+    ],
+    "texts": {
+        "title": "Структура доходов BBC",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#4472C4",
+        "#C00000",
+        "#92D050",
+        "#7030A0"
+    ]
+}

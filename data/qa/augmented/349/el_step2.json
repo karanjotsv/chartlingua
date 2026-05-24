@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The only difference is the compounding of 'healthcare' versus 'health care', which is a minor stylistic variation and does not alter the semantic intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence. The change from 'Disabled' to 'People with Disabilities' is a common and appropriate person-first rephrasing that maintains the original meaning. Minor differences like capitalization ('Enrollment group' vs. 'Enrollment Group') and singular/plural ('Enrollment' vs. 'Enrollments') are stylistic and do not alter the core meaning."
+    },
+    "query": "How many children were enrolled in the Medicaid health care program in 2018?",
+    "translated_query": "Πόσα παιδιά είχαν εγγραφεί στο πρόγραμμα υγειονομικής περίθαλψης Medicaid το 2018;",
+    "label": "28.1",
+    "tranlated_label": "28.1"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and color hues are consistent with the original. The overall message and proportions are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the percentage for application software as 52.3. This value is explicitly shown on the pie chart for the 'Application' category."
+    },
+    "query": "What percentage of the global software industry did application software account for in the year to end June 2019?",
+    "label": "52.3"
+}

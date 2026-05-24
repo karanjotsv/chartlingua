@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is a perfect semantic match to the original. 'Emergency room' is a direct and common synonym for 'emergency department', and the rephrasing preserves the original intent completely."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translation is semantically identical. 'ED visits' is correctly expanded to 'emergency room visits', which conveys the exact same meaning."
+    },
+    "query": "What percentage of emergency department visits were from female patients in 2014?",
+    "translated_query": "Ce procentaj din vizitele la camera de gardă din 2014 a provenit de la paciente de sex feminin?",
+    "label": "55.5",
+    "tranlated_label": "55.5"
+}

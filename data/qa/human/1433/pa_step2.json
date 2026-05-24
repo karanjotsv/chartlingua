@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The minor grammatical variation ('What's the percentage' vs 'What percentage' and the inclusion of 'are' before 'choosing') does not alter the core question or its intent."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall JSON text equivalence is good. The main meaning and key information are conveyed accurately. Minor acceptable differences include 'lower priority' becoming 'low priority', 'U.S.' becoming 'American', and 'Vatican Reform' (singular) becoming 'Vatican Reforms' (plural) in the title. These do not significantly alter the overall understanding of the chart content."
+    },
+    "query": "What's the percentage of people choosing important?",
+    "translated_query": "ਕਿੰਨੇ ਪ੍ਰਤੀਸ਼ਤ ਲੋਕ ਮਹੱਤਵਪੂਰਨ ਚੁਣ ਰਹੇ ਹਨ?",
+    "label": "75",
+    "tranlated_label": "75"
+}

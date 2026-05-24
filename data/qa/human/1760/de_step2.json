@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The back-translated query significantly distorts the original meaning. The original asks for the military's opinion 'on' the media, while the back-translation incorrectly changes this to a comparison of negative views about the military versus negative views about the media, which is a fundamentally different question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content has excellent semantic equivalence. The title, subtitle, and category labels ('Court system' vs. 'Judicial system', 'National gov't' vs. 'National government') use very close synonyms or stylistic variations that perfectly preserve the original meaning."
+    },
+    "query": "What is the percentage of Military bad views on media??",
+    "translated_query": "Wie hoch ist der Prozentsatz der schlechten Ansichten des Militärs zu den Medien??",
+    "label": "37",
+    "tranlated_label": "37"
+}

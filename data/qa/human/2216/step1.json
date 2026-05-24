@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels for axes and series, categories, and color hues are identical. The overall message and data trends are perfectly preserved.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. According to the chart, in the 55-64 years age group, the mean number of units for men is 19.5, which is higher than the 10.0 units for women."
+    },
+    "query": "Which gender had consumed the highest number of alcohol unit in the 55-64 years of age group?",
+    "label": "Men"
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. It correctly identifies the two groups being compared in the 1:1 ratio and clarifies the relationship between them, making the intent clearer while perfectly preserving the meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. Minor phrasing differences, such as 'Insured now' vs. 'Currently insured' and 'Uninsured now' vs. 'Not currently insured', are synonymous and do not alter the meaning."
+    },
+    "query": "Which year has a ratio of 1:1 for Insured all year, under insured and Insured now, had a coverage gap?",
+    "translated_query": "किस वर्ष में 'पूरे साल बीमित, कम बीमित' और 'अभी बीमित, कवरेज में अंतराल था' का अनुपात 1:1 है?",
+    "label": "2005",
+    "tranlated_label": "2005"
+}

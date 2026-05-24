@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly accurate replication of the original. Data values, series, labels, color hues, and the logarithmic y-axis scale are all consistent, conveying the exact same scientific information and trends.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart displays two separate lines, one for HbO2 (oxygenated hemoglobin) and one for Hb (hemoglobin), plotting their absorption coefficients against wavelength. The lines follow distinct paths with different peaks, troughs, and values across the spectrum, visually confirming that their absorption spectra are different."
+    },
+    "claim": "Hemoglobin and oxygenated hemoglobin have different absorption spectra.",
+    "label": "TRUE"
+}

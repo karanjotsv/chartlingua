@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a highly consistent representation of the original. All data values, category labels, proportions, and color hues are accurately reproduced. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart legend indicates that 'Tibia' is represented by the dark red color. The chart labels this section as 'Tibia 42%', which is the largest percentage compared to 'Counter Strike' (37%) and 'World of Warcraft' (21%)."
+    },
+    "claim": "The tibia sector is red color and it is the largest section of the chart with 42%",
+    "label": true
+}

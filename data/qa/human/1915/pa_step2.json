@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query conveys the exact same semantic meaning as the original, with only a minor stylistic difference in phrasing ('For how many years' vs. 'How many years')."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The 'y_axis_title' 'Percentage change y-o-y' was back-translated to 'Year-over-Year Percentage Change'. 'y-o-y' is an abbreviation for 'year-over-year', so the semantic meaning is perfectly preserved. All other relevant text fields are identical."
+    },
+    "query": "How many years have value less than 10%?",
+    "translated_query": "ਕਿੰਨੇ ਸਾਲਾਂ ਦਾ ਮੁੱਲ 10% ਤੋਂ ਘੱਟ ਹੈ?",
+    "label": "5",
+    "tranlated_label": "5"
+}

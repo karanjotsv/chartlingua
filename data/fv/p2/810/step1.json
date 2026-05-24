@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data points, labels, and text elements are accurately reproduced. The core message and country rankings are identical. The main differences, such as the legend style and the solid gray bars instead of gradients, are purely stylistic and do not alter the chart's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart displays data on political disagreement about climate change in various countries. It contains no information about bilingualism, Canada, Quebec, or the ROC (Rest of Canada)."
+    },
+    "claim": "The ROC had a higher rate of Bilingualism in Canada than Quebec.",
+    "label": "FALSE"
+}

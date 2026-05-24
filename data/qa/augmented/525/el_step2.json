@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains perfect semantic equivalence with the original. The change from 'What was' to 'Which was' and 'telecommunication' to 'telecommunications' are minor stylistic or grammatical variations that do not alter the core meaning or information being requested."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Overall JSON text equivalence is excellent. The only textual difference is 'EUR' versus 'euros' in the x-axis title, which is a trivial and synonymous variation that does not alter the meaning."
+    },
+    "query": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "translated_query": "Ποια ήταν η δεύτερη πιο κερδοφόρα εταιρεία τηλεπικοινωνιών στις Σκανδιναβικές χώρες;",
+    "label": "Telia Company AB",
+    "translated_label": "Telia Company AB"
+}

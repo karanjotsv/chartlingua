@@ -1,0 +1,56 @@
+{
+    "chart_type": "grouped_horizontal_bar",
+    "chart_data": {
+        "categories": [
+            "ਜਾਣ-ਪਛਾਣ",
+            "ਸਮੂਹਿਕ ਅਭਿਆਸ",
+            "ਇੰਟਰਵਿਊ",
+            "ਰੋਲ ਪਲੇ",
+            "ਸਾਈਕੋਮੈਟ੍ਰਿਕ ਟੈਸਟ"
+        ],
+        "series": [
+            {
+                "name": "ਲੜੀ 1",
+                "values": [
+                    4.3,
+                    2.5,
+                    3.5,
+                    4.5,
+                    2.1
+                ]
+            },
+            {
+                "name": "ਲੜੀ 2",
+                "values": [
+                    2.4,
+                    4.4,
+                    1.8,
+                    2.8,
+                    3.1
+                ]
+            },
+            {
+                "name": "ਲੜੀ 3",
+                "values": [
+                    2.0,
+                    2.0,
+                    3.0,
+                    5.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "ਮੁਲਾਂਕਣ ਦਿਨ ਦਾ ਅਭਿਆਸ",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#5b9bd5",
+        "#ed7d31",
+        "#a5a5a5"
+    ]
+}

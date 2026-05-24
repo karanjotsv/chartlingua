@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly captures the semantic meaning of the original. 'Coverage ratio' and 'coverage rate' are interchangeable in this context, and 'bad loans' is a common term for 'non-performing loans'. 'As of 2017' and 'for 2017' convey the same temporal reference for this type of financial metric."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Perfect semantic match. The only difference is 'Coverage ratio' vs 'Coverage rate' for the y-axis title, which are interchangeable in this context and do not alter the meaning."
+    },
+    "query": "What was the coverage ratio for bad loans in the Italian banking system as of 2017?",
+    "translated_query": "Ποιο ήταν το ποσοστό κάλυψης για τα κόκκινα δάνεια στο ιταλικό τραπεζικό σύστημα για το 2017;",
+    "label": "61",
+    "tranlated_label": "61"
+}

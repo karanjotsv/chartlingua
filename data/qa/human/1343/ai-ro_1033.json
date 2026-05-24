@@ -1,0 +1,86 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "chart_data": [
+        {
+            "category": "Notele de la liceu",
+            "values": [
+                67,
+                26,
+                7
+            ]
+        },
+        {
+            "category": "Rezultatele la testele<br>standardizate",
+            "values": [
+                47,
+                41,
+                11
+            ]
+        },
+        {
+            "category": "Implicarea în<br>servicii comunitare",
+            "values": [
+                21,
+                48,
+                30
+            ]
+        },
+        {
+            "category": "Faptul de a fi prima persoană<br>din familie care merge la facultate",
+            "values": [
+                20,
+                27,
+                53
+            ]
+        },
+        {
+            "category": "Abilități atletice",
+            "values": [
+                8,
+                34,
+                57
+            ]
+        },
+        {
+            "category": "Dacă o rudă a<br>frecventat școala",
+            "values": [
+                8,
+                24,
+                68
+            ]
+        },
+        {
+            "category": "Rasa sau etnia",
+            "values": [
+                7,
+                19,
+                73
+            ]
+        },
+        {
+            "category": "Genul",
+            "values": [
+                5,
+                14,
+                81
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Notele, rezultatele la teste sunt în fruntea listei de factori<br>pe care americanii spun că ar trebui luați în considerare la<br>admiterea la facultate",
+        "subtitle": "% care spun că fiecare dintre următoarele ar trebui să fie un ___ în deciziile<br>de admitere la facultate",
+        "legend_items": [
+            "Factor major",
+            "Factor minor",
+            "Nu este un factor"
+        ],
+        "note": "Notă: Procentul respondenților care nu au oferit un răspuns nu este afișat.",
+        "source": "Sursă: Sondaj realizat pe adulți din S.U.A. în perioada 22 ian. - 5 feb. 2019.",
+        "footer": "PEW RESEARCH CENTER"
+    },
+    "colors": [
+        "#3E7D73",
+        "#71B3A9",
+        "#B89938"
+    ]
+}

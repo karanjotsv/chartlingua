@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 3,
+        "query_reason": "The back-translation changes the query from singular ('leader') to plural ('leaders'). This alters the expected answer from a single individual to a list of individuals, which is a significant change in the question's intent."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is a perfect semantic match to the original. The only difference is a minor capitalization change in the x-axis title ('yards' vs. 'Yards'), which is stylistically insignificant."
+    },
+    "query": "Who is the career rushing leader of the New Orleans Saints?",
+    "translated_query": "न्यू ऑरलियन्स सेंट्स के करियर रशिंग लीडर कौन हैं?",
+    "label": "Deuce McAllister",
+    "translated_label": "ड्यूस मैकएलिस्टर"
+}

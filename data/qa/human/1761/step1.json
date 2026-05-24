@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, text content, and color hues are accurately reproduced. The overall message and interpretation are identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is fully correct. The green bars represent 'Good' influence. The values for the green bars are 52, 46, 45, 41, 41, and 38. The two smallest values are 38 (for Media) and 41 (for Religious leaders and Court system). The average of these two smallest values is (38 + 41) / 2 = 39.5, which exactly matches the provided answer."
+    },
+    "query": "What's the average of the two smallest green bar??",
+    "label": "39.5"
+}

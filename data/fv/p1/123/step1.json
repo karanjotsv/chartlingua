@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. Data values, slice proportions, colors, title, and legend categories are all identical to the original. The only minor difference is the omission of percentage labels for the two largest slices, but this does not alter the chart's message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the top 1,000 editors have higher edit counts than the rest of the top 10,000. The pie chart shows the distribution of total edits. The slice for the top 1,000 editors (the largest blue slice) is visibly less than 50% of the total pie. This means the sum of all other slices (representing editors ranked 1,001 to 10,000) is greater than 50%. Therefore, the total edit count for the top 1,000 editors is less than the combined total for the rest of the top 10,000, which contradicts the claim."
+    },
+    "claim": "The top 1,000 Wikipedians have significant high edit counts than the rest of the top 10,000 editors.",
+    "label": true
+}

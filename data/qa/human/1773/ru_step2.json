@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query 'columns' is semantically equivalent to 'bars' in the context of data visualization, preserving the full meaning of the original query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor differences like 'participation rates' vs 'Participation Rate of Foreign-born Individuals' and 'labour' vs 'labor' or 'gender' vs 'Sex' are stylistic or synonymous and do not alter the core meaning or introduce ambiguity."
+    },
+    "query": "What is the difference in the value of both the bars?",
+    "translated_query": "Какова разница в значении обоих столбцов?",
+    "label": "7.1",
+    "tranlated_label": "7.1"
+}

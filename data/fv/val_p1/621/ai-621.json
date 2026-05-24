@@ -1,0 +1,32 @@
+{
+    "chart_type": "pie",
+    "chart_data": [
+        {
+            "label": "Water",
+            "value": 52.2
+        },
+        {
+            "label": "Sewer",
+            "value": 36.0
+        },
+        {
+            "label": "Capital Project Support",
+            "value": 11.8
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "source": null,
+        "data_labels": [
+            "Water<br>52.2%",
+            "Sewer<br>36%",
+            "Capital<br>Project<br>Support<br>11.8%"
+        ]
+    },
+    "colors": [
+        "#0033ff",
+        "#663399",
+        "#cc9933"
+    ]
+}

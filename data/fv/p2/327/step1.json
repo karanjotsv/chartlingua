@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all data values, text, and color assignments. However, the order of the categories on the y-axis is inverted compared to the original, which is a notable structural difference, though it does not alter the core message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The chart shows that the number of male workers in Agriculture is approximately 40. In contrast, the number of female workers in 'Unspecified occupations' is approximately 2 and in 'Professional' is approximately 3. The combined total for female workers in these two categories (approximately 5) is significantly lower than the number of male workers in Agriculture."
+    },
+    "claim": "The total percentage of female workers in unspecified occupations and professional is higher than male  workers in Agriculture.",
+    "label": "FALSE"
+}

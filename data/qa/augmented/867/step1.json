@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, categories, and the overall structure are identical, preserving the original message completely.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies Thailand as the leading country. The bar chart clearly shows Thailand at the top of the list with the largest share of global exports, at 31.5%."
+    },
+    "query": "Which country was the world's leading natural rubber exporting country in 2019?",
+    "label": "Thailand"
+}

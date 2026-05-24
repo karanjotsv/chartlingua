@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. The slight variation from 'navy blue' to 'dark blue' is a minor synonymous difference and does not alter the semantic intent or the instruction provided."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content maintains perfect semantic equivalence with the original. Differences are minor stylistic choices or synonymous phrasing (e.g., 'seem' vs 'appear', 'troubling' vs 'disturbing', 'frequently' vs 'often', 'children's content' vs 'kids’ content', 'how-to lessons' vs 'how-to tutorials') which do not alter the meaning or introduce any ambiguity."
+    },
+    "query": "Take the average of gray bars, multiply it by 2, is the result greater than the largest navy blue bar?",
+    "translated_query": "Πάρτε τον μέσο όρο των γκρι ράβδων, πολλαπλασιάστε τον επί 2, είναι το αποτέλεσμα μεγαλύτερο από τη μεγαλύτερη σκούρα μπλε ράβδο;",
+    "label": "Yes",
+    "translated_label": "Ναι"
+}

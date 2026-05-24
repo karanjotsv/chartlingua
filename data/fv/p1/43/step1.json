@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 3,
+        "similarity_reason": "The chart is moderately consistent. While the overall structure, axes, and most data series are correctly reproduced, there are significant data inaccuracies in the 'Ru' and 'Mo-99 and Tc-99m' series. The 'Ru' series in the rendered chart has a different shape and peaks at much higher values and later times. Additionally, there are color hue mismatches for the 'Ru' (purple to blue) and 'I-131' (pink to tan) series, which alters the visual encoding.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim makes two incorrect assertions based on the chart. Firstly, Cesium-137 (Cs-137) does not contribute the most overall; at various points in time, other isotopes such as 'Ba-140 and La-140' and 'Zr-95 and Nb-95' have a significantly higher percentage contribution. Secondly, the chart provides no data for Strontium-90; the legend lists Strontium-91 (Sr-91) instead."
+    },
+    "claim": "The chart shows the relative contributions of different isotopes to the gamma dose rate, with cesium-137 contributing the most and strontium-90 contributing the least.",
+    "label": true
+}

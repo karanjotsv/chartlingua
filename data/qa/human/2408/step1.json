@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, categories, series, labels, and color hues are identical, conveying the exact same information and message.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer is correct. The blue bars, representing 'Black or African American', have values of 20%, 61%, 12%, and 7%. The lowest of these values is 7%, which is accurately stated in the answer."
+    },
+    "query": "What is the lowest value in blue bar?",
+    "label": "7"
+}

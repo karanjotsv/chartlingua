@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 4,
+        "similarity_reason": "The rendered chart accurately represents all the data categories and their respective percentage values from the original. The main titles and overall message are preserved. However, the order of the slices around the chart is different, and the text within the labels is duplicated, which are minor semantic deviations.",
+        "has_visual_flaws": true,
+        "flaw_reason": "The labels for the smaller data slices are severely overlapped and crammed together, making them unreadable. Additionally, every data label incorrectly duplicates the percentage value (e.g., 'Soccer 14% 14%')."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that soccer had the maximum attendance, but the chart shows that Basketball had the highest percentage of attendance at 26%, while soccer's attendance was only 14%."
+    },
+    "claim": "The soccer had the maximum attendance in 1980 at the Kingdome, Seattle.",
+    "label": "FALSE"
+}

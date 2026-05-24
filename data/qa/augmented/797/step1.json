@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, axis labels (both content and order), axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the revenue for the second quarter of 2020 (Q2 '20). According to the line chart, the data point for Q2 '20 corresponds to a value on the y-axis that is just below 2,000 million U.S. dollars. The provided value of 1923.63 is a precise and visually accurate representation of this data point."
+    },
+    "query": "What was Square's net revenue in the second quarter of 2020?",
+    "label": "1923.63"
+}

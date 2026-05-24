@@ -1,0 +1,104 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": [
+        {
+            "category": "Pneumonie",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "Complicații ale nașterii premature",
+            "values": [
+                2,
+                16
+            ]
+        },
+        {
+            "category": "Evenimente legate de naștere",
+            "values": [
+                1,
+                11
+            ]
+        },
+        {
+            "category": "Sepsis sau meningită",
+            "values": [
+                2,
+                7
+            ]
+        },
+        {
+            "category": "Afecțiuni congenitale",
+            "values": [
+                4,
+                5
+            ]
+        },
+        {
+            "category": "Altele",
+            "values": [
+                12,
+                3
+            ]
+        },
+        {
+            "category": "SIDA",
+            "values": [
+                1,
+                0
+            ]
+        },
+        {
+            "category": "Diaree",
+            "values": [
+                8,
+                0.3
+            ]
+        },
+        {
+            "category": "Tetanos",
+            "values": [
+                0,
+                1
+            ]
+        },
+        {
+            "category": "Malarie",
+            "values": [
+                5,
+                0
+            ]
+        },
+        {
+            "category": "Leziuni",
+            "values": [
+                6,
+                1
+            ]
+        },
+        {
+            "category": "Rujeolă",
+            "values": [
+                2,
+                0
+            ]
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "Distribuția cauzelor de deces",
+        "legend_titles": [
+            "Decese în rândul copiilor cu vârsta între 1-59 de luni (53%)",
+            "Decese neonatale (47%)"
+        ],
+        "source": "© Statista 2021"
+    },
+    "colors": [
+        "#2E75B5",
+        "#1F384D"
+    ]
+}

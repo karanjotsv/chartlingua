@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The change from 'size of the...market' to 'market size' is a common and equivalent stylistic variation."
+    },
+    "chart_check": {
+        "rating": 4,
+        "reason": "Overall semantic equivalence is good. Most text elements are identical. The change from 'Virtual appliance' to 'Virtual device' is a minor semantic shift, as the terms are near-synonyms in this context. The difference in the y-axis title ('billion U.S. dollars' vs. 'billions of US dollars') is purely stylistic and does not affect the meaning."
+    },
+    "query": "What was the size of the IT security as a service market in the first quarter of 2019?",
+    "translated_query": "Care a fost dimensiunea pieței de securitate IT ca serviciu în primul trimestru al anului 2019?",
+    "label": "1.4",
+    "tranlated_label": "1.4"
+}

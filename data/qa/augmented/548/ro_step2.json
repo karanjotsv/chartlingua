@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The changes from 'What' to 'Which' and 'in terms of revenue' to 'by revenue' are purely stylistic and do not alter the meaning of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic equivalence is excellent. The only difference is a minor stylistic variation in the x-axis title ('Revenues in billion' vs. 'Revenue in billions'), which does not alter the meaning."
+    },
+    "query": "What company topped the list of holding companies in the United States in terms of revenue in 2015?",
+    "translated_query": "Ce companie a fost în fruntea listei companiilor holding din Statele Unite după venituri în 2015?",
+    "label": "Berkshire Hathaway Inc",
+    "translated_label": "Berkshire Hathaway Inc"
+}

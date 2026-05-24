@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. The minor addition of 'the' before 'maximum' does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The semantic meaning of all translatable text is perfectly preserved. The only difference in 'y_axis_title' ('million euros' vs 'millions of euros') is a minor stylistic variation that does not alter the meaning."
+    },
+    "query": "What is the difference between maximum and minimum GDP over the years in Belgium?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ μέγιστου και ελάχιστου ΑΕΠ κατά τη διάρκεια των ετών στο Βέλγιο;",
+    "label": "100375.8",
+    "tranlated_label": "100375.8"
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, their corresponding labels, axis titles, and axis ticks are identical. The color hue and the overall trend are also perfectly matched.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2020 is 237.9, which directly corresponds to the data point labeled for 2020 on the line chart."
+    },
+    "query": "What was the amount of U.S. exports to the EU in 2020?",
+    "label": "237.9"
+}

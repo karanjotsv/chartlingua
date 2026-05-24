@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It represents the same data values, categories, title, and color hues as the original. The overall message is identical.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that coal had the smallest share of electricity generation. The pie chart directly contradicts this, showing coal as the largest source at 53.2%. The smallest share belongs to solar at 2.7%."
+    },
+    "claim": "In 2017, coal had the smallest share among sources of electricity generation in Colorado. ",
+    "label": false
+}

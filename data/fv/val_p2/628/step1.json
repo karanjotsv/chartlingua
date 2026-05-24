@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, category labels, and percentages are identical to the original. The color hues for each category are also consistent. The only minor difference is the order of the slices, which does not alter the interpretation of the pie chart.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that the number of Apprenticeships was larger than the number of 2+ A levels. However, the chart shows that Apprenticeships account for 5%, while 2+ A Levels account for 11%, which is a larger percentage."
+    },
+    "claim": "There were larger number of Apprenticeship than 2+A levels in Rockhampton.",
+    "label": "FALSE"
+}

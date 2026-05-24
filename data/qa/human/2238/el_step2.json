@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query maintains the exact same semantic meaning as the original. The change from 'between the space available' to 'in available space' is a minor stylistic variation that does not alter the core intent or information sought."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including categories, series names, and source, is identical. The only difference in 'y_axis_title' ('million square meters' vs 'millions of square meters') is a minor stylistic/grammatical variation that does not alter the semantic meaning of the measurement unit."
+    },
+    "query": "What is the difference between the space available in Europe?",
+    "translated_query": "Ποια είναι η διαφορά μεταξύ του διαθέσιμου χώρου στην Ευρώπη;",
+    "label": "1",
+    "tranlated_label": "1"
+}

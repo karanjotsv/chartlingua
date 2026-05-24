@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 5,
+        "claim_reason": "The back-translated claim is semantically identical to the original. It corrects a minor grammatical error present in the original ('The graph that...'), making the statement clearer while conveying the exact same information."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The JSON objects are identical. The only text content is a file path which was correctly preserved without translation. All other text fields were null in both versions."
+    },
+    "claim": "The graph that the sound intensity remains constant over time.",
+    "translated_claim": "ग्राफ़ दिखाता है कि समय के साथ ध्वनि की तीव्रता स्थिर रहती है।"
+}

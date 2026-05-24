@@ -1,0 +1,12 @@
+{
+    "claim_check": {
+        "claim_rating": 3,
+        "claim_reason": "The back-translation correctly identifies the location and time period, but it changes the specific category of crime from 'ABH and other injury' to 'Common and other assault'. These are distinct legal categories, which alters a key piece of information and reduces the accuracy of the claim."
+    },
+    "chart_check": {
+        "rating": 3,
+        "reason": "The overall equivalence is fair. While the title, axis label ('Crimes' vs. 'Offences'), and some categories are translated well (e.g., 'Inflicting GBH' vs. 'Grievous bodily harm'), there is a significant loss of accuracy in one category. 'ABH and other injury' was changed to 'Common and other assault'. ABH (Actual Bodily Harm) and Common Assault are distinct legal terms, so this change alters the specific meaning of that data point."
+    },
+    "claim": "The highest number of crimes recorded in England and Wales in 2009-2010 was under ABH and other injury category.",
+    "translated_claim": "Die höchste Anzahl der in England und Wales in den Jahren 2009-2010 erfassten Straftaten fiel in die Kategorie „Einfache und sonstige Körperverletzung“."
+}

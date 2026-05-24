@@ -1,0 +1,83 @@
+{
+    "chart_type": "line",
+    "chart_data": {
+        "x": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+        ],
+        "series": [
+            {
+                "name": "Myanmar",
+                "y": [
+                    58.8,
+                    58.9,
+                    58.4,
+                    57.9,
+                    57.1,
+                    56.1,
+                    55.2,
+                    54.1
+                ]
+            },
+            {
+                "name": "Sambia",
+                "y": [
+                    27.2,
+                    27.1,
+                    26.7,
+                    26.7,
+                    26.1,
+                    26.3,
+                    26.3,
+                    26.6
+                ]
+            },
+            {
+                "name": "Östliches Subsahara-Afrika",
+                "y": [
+                    19.9,
+                    19.8,
+                    19.8,
+                    19.8,
+                    19.8,
+                    19.8,
+                    20.0,
+                    20.5
+                ]
+            },
+            {
+                "name": "Neuseeland",
+                "y": [
+                    13.5,
+                    13.2,
+                    13.0,
+                    12.8,
+                    12.0,
+                    11.6,
+                    12.0,
+                    10.5
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": "Todesrate durch Luftverschmutzung im Freien, 2005 bis 2012",
+        "subtitle": "Die Anzahl der Todesfälle pro 100.000 Einwohner, die auf Ozon- und Feinstaubbelastung im Freien zurückzuführen sind.",
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": "Quelle: IHME, Global Burden of Disease",
+        "note": "OurWorldInData.org/outdoor-air-pollution • CC BY"
+    },
+    "colors": [
+        "#6A4A9C",
+        "#29938C",
+        "#C25028",
+        "#395368"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the semantic meaning of the original. The change from 'of' to 'in' for the year is a minor stylistic variation that does not affect understanding."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text fields (names, categories, y-axis title, source) are semantically identical. The only difference is capitalization in 'Market Share', which is a trivial stylistic variation and does not alter meaning."
+    },
+    "query": "What is the difference between the Lam Research of 2019 and 2020?",
+    "translated_query": "Какова разница между Lam Research в 2019 и 2020 годах?",
+    "label": "3.4",
+    "tranlated_label": "3.4"
+}

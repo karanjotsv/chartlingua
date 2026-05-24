@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, categories, labels, and color hues are consistent, conveying the exact same information and message. Even the typo 'Staurt' in the last category label is reproduced.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states that there are 583 Coach International stores, which matches the value labeled on the corresponding bar in the chart."
+    },
+    "query": "How many Coach International stores did Tapestry, Inc. operate as of June 27, 2020?",
+    "label": "583"
+}

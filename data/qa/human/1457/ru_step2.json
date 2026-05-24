@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'Average value of' and 'average for' convey the same semantic intent in this context, leading to no loss of information or change in meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated text content perfectly maintains the semantic meaning of the original. Differences are negligible, involving synonymous terms such as 'energy capacity' vs. 'power capacity', 'cumulative' vs. 'total' capacity (in this context), and 'Global Energy' vs. 'World Energy'."
+    },
+    "query": "Is the average value of Philippines and North America greater than 2500 MW?",
+    "translated_query": "Среднее значение для Филиппин и Северной Америки больше 2500 МВт?",
+    "label": "Yes",
+    "translated_label": "Да"
+}

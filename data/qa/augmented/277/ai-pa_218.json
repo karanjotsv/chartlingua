@@ -1,0 +1,63 @@
+{
+    "chart_type": "stacked_bar",
+    "chart_data": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ],
+        "series": [
+            {
+                "name": "ਸਿੱਧੇ",
+                "data": [
+                    450,
+                    458,
+                    488,
+                    504,
+                    509
+                ]
+            },
+            {
+                "name": "ਅਸਿੱਧੇ",
+                "data": [
+                    653,
+                    635,
+                    655,
+                    668,
+                    658
+                ]
+            },
+            {
+                "name": "ਪ੍ਰੇਰਿਤ",
+                "data": [
+                    313,
+                    310,
+                    326,
+                    337,
+                    335
+                ]
+            }
+        ]
+    },
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": "ਅਰਬ ਅਮਰੀਕੀ ਡਾਲਰਾਂ ਵਿੱਚ ਯੋਗਦਾਨ",
+        "source": "© Statista 2021"
+    },
+    "colors": {
+        "bars": [
+            "#2874B2",
+            "#14354D",
+            "#B2B2B2"
+        ],
+        "text_on_bar": [
+            "white",
+            "white",
+            "black"
+        ]
+    }
+}

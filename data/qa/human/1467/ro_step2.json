@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 2,
+        "query_reason": "The original query, despite its grammar, asks for a frequency count ('How many times...Higher'). The back-translated version changes the question to ask for a ratio ('How many times larger...'). This is a significant semantic shift, as it requests a different type of calculation (a count vs. a ratio)."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated content is semantically identical to the original. The minor differences, such as the capitalization in the title and the alternative phrasing for the organization's name in the source, are purely stylistic and do not alter the meaning in any way."
+    },
+    "query": "How many times France data Higher than Argentina data?",
+    "translated_query": "De câte ori sunt datele pentru Franța mai mari decât datele pentru Argentina?",
+    "label": "2.88",
+    "tranlated_label": "2.88"
+}

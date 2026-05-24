@@ -1,0 +1,27 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Выбросы",
+            "value": 526.3,
+            "error": 44
+        },
+        {
+            "category": "Поглощение ЗИЗЛХ",
+            "value": -99.9,
+            "error": 60
+        }
+    ],
+    "texts": {
+        "title": null,
+        "subtitle": null,
+        "x_axis_title": "Выбросы и поглощение ПГ в 2017 году",
+        "y_axis_title": "Мт",
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#B2B2B2",
+        "#699653"
+    ]
+}

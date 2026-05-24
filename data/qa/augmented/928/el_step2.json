@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is identical to the original query, demonstrating perfect semantic equivalence."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content within the JSON (y_axis_title and source) is identical in both the original and back-translated versions, indicating perfect semantic equivalence."
+    },
+    "query": "What was the PPI in 2020?",
+    "translated_query": "Ποιος ήταν ο ΔΤΠ το 2020;",
+    "label": "194.3",
+    "tranlated_label": "194.3"
+}

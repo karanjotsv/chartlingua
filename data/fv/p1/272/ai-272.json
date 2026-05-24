@@ -1,0 +1,45 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "We could provide a budget<br>of $500 (USD) or less",
+            "value": 4,
+            "annotation": "33.3 % (4)"
+        },
+        {
+            "category": "We could provide a budget<br>of more than $500 (USD)<br>but less than $2500...",
+            "value": 3,
+            "annotation": "25.0 % (3)"
+        },
+        {
+            "category": "We could provide a budget<br>of more than $2500 (USD)<br>but less than $500...",
+            "value": 1,
+            "annotation": "8.3 % (1)"
+        },
+        {
+            "category": "We could provide a budget<br>of more than $5000 (USD)<br>but less than $10,...",
+            "value": 1,
+            "annotation": "8.3 % (1)"
+        },
+        {
+            "category": "We can't provide any<br>budget, but we would gladly<br>do the work ourselves...",
+            "value": 3,
+            "annotation": "25.0 % (3)"
+        }
+    ],
+    "texts": {
+        "title": "What budget would your Chapter be able to provide for this effort?",
+        "subtitle": null,
+        "x_axis_title": null,
+        "y_axis_title": null,
+        "source": null,
+        "note": null
+    },
+    "colors": [
+        "#F27F00",
+        "#5B75D2",
+        "#AD4EC8",
+        "#E85D4D",
+        "#1D801D"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, text elements (title, labels), and category orders are identical. The color hues for the three largest bars are consistent, and the overall message is preserved exactly.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The bar chart explicitly shows the number of 'Israeli dead' as 13 and the number of 'Palestinian dead' as 1,380. The claim that there were fewer Israeli dead than Palestinian dead is directly supported by these figures, as 13 is less than 1,380."
+    },
+    "claim": "There were less Israelis dead than Palestinians during the Gaza-Israel war in the period between Dec. 27, 2008 to Jan. 18, 2009.",
+    "label": true
+}

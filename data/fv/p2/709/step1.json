@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data points, labels, titles, and the overall trend are identical. The only differences are minor stylistic choices like font and the exact shade of blue.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "refute",
+        "reason": "The claim states that at age 17, the number of arrests was more than 4 per 100,000. According to the bar chart, the value for age 17 is clearly below 2. Additionally, the chart does not provide any information about the year 2014."
+    },
+    "claim": "At age group of 17, the average number of male suspicion arrests was more than 4  in the year 2014 in US.",
+    "label": "FALSE"
+}

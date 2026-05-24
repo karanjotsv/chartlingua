@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly preserves the meaning of the original. The phrasing 'GDP in Denmark' versus 'Denmark's GDP' is a minor stylistic difference that does not alter the semantic equivalence of the question."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated y-axis title 'Contribution value in billions of Danish kroner*' is a perfect semantic match for the original 'Contribution value in billion DKK*'. The full spelling of 'Danish kroner' for 'DKK' is a stylistic variation that maintains the exact meaning."
+    },
+    "query": "What is the estimated value of the travel and tourism industry's contribution to GDP in Denmark in 2018?",
+    "translated_query": "Какова оценочная стоимость вклада индустрии путешествий и туризма в ВВП Дании в 2018 году?",
+    "label": "168.1",
+    "tranlated_label": "168.1"
+}

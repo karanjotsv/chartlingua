@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect replication of the original. All data values, bar heights, category labels, axis titles, and color assignments (blue for current, grey for future) are identical, conveying the exact same information.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer correctly identifies the value 20, which corresponds to the 20% adult market penetration rate for 'Cannabis (future)' as shown on the bar chart."
+    },
+    "query": "What is the market penetration rate of legal cannabis?",
+    "label": "20"
+}

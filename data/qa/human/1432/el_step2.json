@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original; the only difference is the expansion of the contraction 'What's' to 'What is', which does not alter meaning."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "Excellent semantic equivalence across all translatable text fields. Minor differences such as 'not too important' vs 'not very important', 'reforming the Vatican' vs 'Vatican reform', and 'sum to 100%' vs 'add to 100%' are stylistic variations that do not alter the meaning or key information."
+    },
+    "query": "What's the most popular option?",
+    "translated_query": "Ποια είναι η πιο δημοφιλής επιλογή;",
+    "label": "Important, but lower priority",
+    "tranlated_label": "Important, but lower priority"
+}

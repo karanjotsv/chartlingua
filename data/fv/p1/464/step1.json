@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. It accurately reproduces the chart type, title, data categories (Approve, Disapprove, Uncertain), and their corresponding percentages (78%, 12%, 10%). The color hues for each category are also consistent with the original.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The pie chart is titled 'Approve of President Morsi's performance after 100 Days' and clearly shows a blue segment labeled 'Approve' with the value '78%', directly confirming the claim."
+    },
+    "claim": "Morsi had a high approval rating of 78% after 100 days.",
+    "label": true
+}

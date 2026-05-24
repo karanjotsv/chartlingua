@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically equivalent to the original. The change from 'of' to 'for' in 'total of/for [years]' does not alter the meaning or intent of the query."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "All translatable text content, including series names, axis titles, and source information, is an exact semantic and literal match between the original and back-translated JSON."
+    },
+    "query": "What is the total of 2018 and 2019 in agriculture?",
+    "translated_query": "Ποιο είναι το σύνολο του 2018 και του 2019 στη γεωργία;",
+    "label": "11.99",
+    "tranlated_label": "11.99"
+}

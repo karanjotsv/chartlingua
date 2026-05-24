@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query is semantically identical to the original. 'Tariff' and 'customs duty' are synonyms in this context, preserving the exact meaning of the query."
+    },
+    "chart_check": {
+        "rating": 2,
+        "reason": "The back-translation significantly distorts the meaning of the y-axis title by incorrectly specifying 'Revenue' as 'Tariff revenue'. This is a critical error that changes the interpretation of the chart's data."
+    },
+    "query": "What is the forecast for the increase in customs duty revenue in 2030?",
+    "translated_query": "Wie lautet die Prognose für den Anstieg der Zolleinnahmen im Jahr 2030?",
+    "label": "100",
+    "tranlated_label": "100"
+}

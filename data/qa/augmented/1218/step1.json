@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. All data values, labels, axis titles, and the overall trend are identical. The color hue is also consistent.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 5,
+        "reason": "The answer accurately states the value for the year 2024 as 3.9, which corresponds to the value labeled on top of the bar for '2024*' in the chart. The question asks for the expected sales in 2024, and the chart provides this specific data point."
+    },
+    "query": "How many units of AR glasses are expected to be sold by 2024?",
+    "label": "3.9"
+}

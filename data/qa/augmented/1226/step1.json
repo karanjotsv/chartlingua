@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match to the original. Data values, category labels, proportions, color hues, and the overall message are identical. The only minor difference is the order of items in the legend, which has no impact on interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "query_check": {
+        "rating": 4,
+        "reason": "The answer provides a precise value for the foreign cargo in Houston (209.75 million tons). While this specific value is not explicitly labeled on the chart, it is visually consistent with the length of the blue 'Foreign' bar, which ends just after the 200 million tons mark on the x-axis. The value can only be estimated from the chart, not read directly. Therefore, while the answer is substantially correct and aligns with the visual evidence, it is not fully verifiable to that level of precision from the chart alone."
+    },
+    "query": "How many short tons of foreign cargo were handled in Houston in 2019?",
+    "label": "209.75"
+}

@@ -1,0 +1,39 @@
+{
+    "chart_type": "bar",
+    "chart_data": [
+        {
+            "category": "Галереи",
+            "value": 1.7
+        },
+        {
+            "category": "Библиотеки",
+            "value": 40.6
+        },
+        {
+            "category": "Архивы",
+            "value": 17.2
+        },
+        {
+            "category": "Музеи",
+            "value": 28.1
+        },
+        {
+            "category": "Прочее",
+            "value": 12.5
+        }
+    ],
+    "texts": {
+        "title": "Учреждения респондентов по процентам (n =64)",
+        "subtitle": null,
+        "x_axis_title": "Тип учреждения",
+        "y_axis_title": "Процент",
+        "source": null
+    },
+    "colors": [
+        "#00B7F1",
+        "#F7B500",
+        "#00B7F1",
+        "#00B7F1",
+        "#00B7F1"
+    ]
+}

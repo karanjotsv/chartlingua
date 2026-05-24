@@ -1,0 +1,14 @@
+{
+    "chart_check": {
+        "similarity_rating": 5,
+        "similarity_reason": "The rendered chart is a near-perfect semantic match. All data values, labels, color hues, and slice proportions are identical to the original. The overall message is perfectly preserved. Stylistic differences, such as the removal of icons, do not affect the data's interpretation.",
+        "has_visual_flaws": false,
+        "flaw_reason": "No significant flaws detected."
+    },
+    "claim_check": {
+        "class": "support",
+        "reason": "The chart shows a legend entry for 'Fundraising' which points directly to the yellow-colored slice of the pie chart."
+    },
+    "claim": "The Fundraising finances on the pie chart is the color yellow.",
+    "label": true
+}

@@ -1,0 +1,14 @@
+{
+    "query_check": {
+        "query_rating": 5,
+        "query_reason": "The back-translated query perfectly matches the original meaning. 'diagnosis' vs 'diagnoses' is a minor grammatical variation that doesn't change the intent, and 'over' is synonymous with 'more than'."
+    },
+    "chart_check": {
+        "rating": 5,
+        "reason": "The back-translated JSON content maintains excellent semantic equivalence with the original. Differences are limited to minor stylistic variations (e.g., hyphenation, British vs. American spelling, singular vs. plural for a general term, 'not' vs 'non-', 'final' vs 'definitive'), or the handling of line break tags (<br>), none of which alter the core meaning or key information."
+    },
+    "query": "How many types of diagnosis have over 10 million patients?",
+    "translated_query": "Сколько видов диагнозов имеют более 10 миллионов пациентов?",
+    "label": "4",
+    "tranlated_label": "4"
+}

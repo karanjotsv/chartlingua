@@ -1,0 +1,65 @@
+{
+    "chart_type": "stacked_horizontal_bar",
+    "categories": [
+        "Alle Erwachsenen",
+        "Rep./Rep.-nahe",
+        "Dem./Dem.-nahe",
+        "",
+        "Kennt eine<br>Transgender-Person",
+        "Kennt keine<br>Transgender-Person"
+    ],
+    "chart_data": [
+        {
+            "name": "Nicht weit<br>genug gegangen",
+            "values": [
+                39,
+                12,
+                60,
+                null,
+                52,
+                31
+            ]
+        },
+        {
+            "name": "Ungefähr<br>richtig",
+            "values": [
+                27,
+                28,
+                27,
+                null,
+                24,
+                29
+            ]
+        },
+        {
+            "name": "Zu weit<br>gegangen",
+            "values": [
+                32,
+                57,
+                12,
+                null,
+                23,
+                37
+            ]
+        }
+    ],
+    "texts": {
+        "title": "Etwa ein Drittel der Amerikaner gibt an, die Gesellschaft<br>sei bei der Akzeptanz von<br>Transgender-Personen zu weit gegangen",
+        "subtitle": "% der Befragten, die angeben, dass unsere Gesellschaft bei der<br>Akzeptanz von Transgender-Personen ___ gegangen ist",
+        "source": "Hinweis: Der Anteil der Befragten ohne Antwort wird nicht angezeigt.<br>Quelle: Umfrage unter US-Erwachsenen, durchgeführt vom 8.-21. Aug. und 14.-28. Sept.<br>2017.<br><b>PEW RESEARCH CENTER</b>",
+        "x_axis_title": null,
+        "y_axis_title": null
+    },
+    "colors": {
+        "bar_colors": [
+            "#457d72",
+            "#b5d0c8",
+            "#82b7ad"
+        ],
+        "text_colors": [
+            "#FFFFFF",
+            "#000000",
+            "#000000"
+        ]
+    }
+}
