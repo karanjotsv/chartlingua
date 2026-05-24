@@ -11,11 +11,11 @@ BACKEND_STEP2 = "gemini"
 MODEL_ID = "gemini-2.5-pro"
 API_KEY  = ""
 # qwen settings (backend = "qwen") 
-QWEN_MODEL_PATH = "/home/karanjot/models/Qwen3.5-35B-A3B"
+QWEN_MODEL_PATH = "/home/models/Qwen3.5-35B-A3B"
 # reduce if chart JSONs are small 
 QWEN_MAX_NEW_TOKENS = 16384
 # gemma settings (backend = "gemma")
-GEMMA_MODEL_PATH = "/home/karanjot/models/gemma4-31b"
+GEMMA_MODEL_PATH = "/home/models/gemma4-31b"
 GEMMA_MAX_NEW_TOKENS = 4096
 
 # pipeline steps 
